@@ -1,0 +1,32 @@
+region,county,template,parameter_name,page_number,x0,y0,x1,y1,find_by,search_text,separator,item_order,data_type
+5,tulare_west,general_order,Dairy Name,0,287,85,500,130,exact_location,NA,NA,NA,text
+5,tulare_west,general_order,Dairy Address,0,50,120,775,140,exact_location,NA,NA,NA,text
+5,tulare_west,general_order,Herd Info,1,125,170,775,190,exact_location,NA,NA,NA,text
+5,tulare_west,general_order,Total Manure Excreted (tons),1,188,250,262,269,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Average Milk Production (lb per cow per day),1,147,215,238,230,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Dry Manure Generated N After Ammonia Losses (lbs),1,539,260,608,285,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Dry Manure Generated N (lbs),1,188,260,262,285,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Dry Manure Generated P (lbs),1,188,280,262,300,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Dry Manure Generated K (lbs),1,188,300,262,315,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Dry Manure Generated Salt (lbs),1,188,315,262,345,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Process Wastewater Generated (gals),1,182,350,247,370,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Process Wastewater Generated N (lbs),1,182,370,247,388,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Process Wastewater Generated P (lbs),1,182,385,247,402,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Process Wastewater Generated K (lbs),1,182,395,247,417,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Process Wastewater Generated Salt (lbs),1,182,412,247,435,exact_location,NA,NA,NA,numeric
+5,tulare_west,general_order,Total Exports N (lbs),-1,NA,NA,NA,NA,text,Total exports for all materials,space,0,numeric
+5,tulare_west,general_order,Total Exports P (lbs),-1,NA,NA,NA,NA,text,Total exports for all materials,space,1,numeric
+5,tulare_west,general_order,Total Exports K (lbs),-1,NA,NA,NA,NA,text,Total exports for all materials,space,2,numeric
+5,tulare_west,general_order,Total Exports Salt (lbs),-1,NA,NA,NA,NA,text,Total exports for all materials,space,3,numeric
+5,tulare_west,general_order,Applied N Dry Manure (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,0,numeric
+5,tulare_west,general_order,Applied P Dry Manure (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,1,numeric
+5,tulare_west,general_order,Applied K Dry Manure (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,2,numeric
+5,tulare_west,general_order,Applied Salt Dry Manure (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,3,numeric
+5,tulare_west,general_order,Applied Process Wastewater N (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,4,numeric
+5,tulare_west,general_order,Applied Process Wastewater P (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,5,numeric
+5,tulare_west,general_order,Applied Process Wastewater K (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,6,numeric
+5,tulare_west,general_order,Applied Process Wastewater Salt (lbs),-1,NA,NA,NA,NA,text,SUMMARY OF NUTRIENT APPLICATIONS,space,7,numeric
+5,tulare_west,general_order,Applied to Removed Ratio N,-1,NA,NA,NA,NA,text,Applied to removed ratio,space,8,numeric
+5,tulare_west,general_order,Applied to Removed Ratio P,-1,NA,NA,NA,NA,text,Applied to removed ratio,space,9,numeric
+5,tulare_west,general_order,Applied to Removed Ratio K,-1,NA,NA,NA,NA,text,Applied to removed ratio,space,10,numeric
+5,tulare_west,general_order,Applied to Removed Ratio Salt,-1,NA,NA,NA,NA,text,Applied to removed ratio,space,11,numeric
