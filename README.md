@@ -1,88 +1,83 @@
-# CA CAFO Compliance Analysis
+# CA CAFO Compliance Data Explorer
 
-This project analyzes California Concentrated Animal Feeding Operations (CAFO) compliance data, focusing on nutrient management and reporting requirements.
-
-## Project Overview
-
-The project processes and analyzes CAFO reports from CA Regional Water Boards to track compliance with nutrient management plans and manure application requirements. It includes tools for:
-
-- Reading and parsing reports based on general report structure, and potentially additioanl consulting report structures
-- Calculating manure and milk production metrics
-- Processing nutrient application data
-- Visualizing reporting and likely violations data
+This application provides an interactive dashboard to explore and analyze California Confined Animal Feeding Operation (CAFO) compliance data.
 
 ## Project Structure
 
 ```
 .
 ├── ca_cafo_compliance/          # Main project directory
-│   ├── read_r2_reports.py      # R2 report processing
-│   ├── read_r5_reports.py      # R5 report processing
-│   ├── calculate_manure_milk.py # Manure and milk calculations
-│   ├── plotting.py             # Data visualization
+│   ├── read_reports.py         # PDF report processing
+│   ├── consolidate_data.py     # Data consolidation utilities
+│   ├── app.py                  # Streamlit dashboard application
 │   ├── conversion_factors.py   # Unit conversion utilities
 │   └── parameter_locations.csv # Parameter mapping data
 ├── data/                       # Input data directory
+│   ├── 2023/                  # Data organized by year
+│   │   ├── R2/               # Region-specific data
+│   │   ├── R3/
+│   │   ├── R5/
+│   │   ├── R7/
+│   │   └── R8/
+│   └── 2024/
 ├── outputs/                    # Generated output files
-└── pyproject.toml             # Project dependencies
+│   ├── consolidated/          # Consolidated CSV files
+│   ├── 2023/                 # Processed data by year
+│   └── 2024/
+└── pyproject.toml             # Poetry dependency management
+
 ```
 
 ## Setup
 
-This project uses Poetry for dependency management. To set up the project:
-
 1. Install Poetry if you haven't already:
-   ```bash
-   curl -sSL https://install.python-poetry.org | python3 -
-   ```
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
+```
 
-2. Clone the repository and install dependencies:
-   ```bash
-   git clone [repository-url]
-   cd ca-cafo-compliance
-   poetry install
-   ```
+2. Clone this repository:
+```bash
+git clone https://github.com/yourusername/ca-cafo-compliance.git
+cd ca-cafo-compliance
+```
 
-3. Activate the virtual environment:
-   ```bash
-   poetry shell
-   ```
+3. Install dependencies using Poetry:
+```bash
+poetry install
+```
 
-## Dependencies
+4. Activate the Poetry shell:
+```bash
+poetry shell
+```
 
-- Python 3.11+
-- pandas
-- matplotlib
-- pdfplumber
-- pypdf
+## Running the Application
 
-## Usage
+1. Make sure you have processed data in the `outputs/consolidated/` directory.
 
-The project provides several Python scripts for different aspects of CAFO compliance analysis:
+2. Start the Streamlit app:
+```bash
+streamlit run ca_cafo_compliance/app.py
+```
 
-- `read_r2_reports.py`: Process R2 annual reports
-- `read_r5_reports.py`: Process R5 nutrient management reports
-- To add additional regions
-- `calculate_manure_milk.py`: Calculate manure and milk production metrics
-- `plotting.py`: Generate visualizations of compliance data
+3. The application will open in your default web browser. If it doesn't, navigate to the URL shown in the terminal (typically http://localhost:8501).
 
-## Data Sources
+## Features
 
-- R2 Annual Reports
-- R5 Nutrient Management Reports
-- Parameter location mapping data
+- Filter data by year, region, and county
+- View key metrics and statistics
+- Interactive visualizations of records by region and county
+- Download filtered data as CSV
+- Explore raw data in a tabular format
 
-## Outputs
+## Data Structure
 
-Generated outputs are stored in the `outputs/` directory and include:
-- Processed compliance data
-- Visualizations
-- Analysis reports
+The application expects CSV files in the `outputs/consolidated/` directory. These files should contain processed CAFO compliance data with the following columns:
+- Year
+- Region
+- County
+- Other relevant metrics
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License
+Feel free to submit issues and enhancement requests!
