@@ -1,0 +1,35 @@
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+Field C - 11/04/2022: Wheat, silage, boot stage
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+11/11/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 5 Ground water 4.89 0.00 0.00 826.69 2,511,768.00 gal
+Application event totals 4.89 0.00 0.00 826.69
+12/09/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 29.65 4.57 68.97 313.01 200,941.00 gal
+Well 5 Ground water 2.93 0.00 0.00 496.01 1,507,061.00 gal
+Application event totals 32.58 4.57 68.97 809.03
+02/12/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 74.77 17.84 149.58 822.78 401,883.00 gal
+Well 5 Ground water 2.74 0.00 0.00 462.95 1,406,590.00 gal
+Application event totals 77.50 17.84 149.58 1,285.72
+04/22/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 37.38 8.92 74.79 411.39 200,941.00 gal
+Well 5 Ground water 3.13 0.00 0.00 529.08 1,607,532.00 gal
+Application event totals 40.51 8.92 74.79 940.47
+
+Field C - 05/21/2023: Milo
+
+Field name: Field C
+Crop: Milo Plant date: 05/21/2023
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+Ron Verhoeven Family Dairy | 4975 Ave 120 | Corcoran, CA 93212 | Tulare County | Tulare Basin
+06/24/2024 13:37:32 Page 15 of 46

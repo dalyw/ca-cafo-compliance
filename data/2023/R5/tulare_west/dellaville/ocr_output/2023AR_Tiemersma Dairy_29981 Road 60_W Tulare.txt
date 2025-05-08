@@ -1,0 +1,1386 @@
+DELLAVALLE
+LABORATORY INC
+California Regional Water Quality Control Board
+Central Valley Region
+1885 E Street
+Fresno, CA 93706
+June 24, 2024
+
+Dear CRWQCB,
+This folder contains the 2023 Annual Report for
+Tiemersma Dairy located at 29981 Road 60 in Visalia, California.
+This document has been prepared by Dellavalle Laboratory, Inc. in accordance
+with WDR General Order R5-2007-0035. This report was compiled using data
+provided by the owners and operators of the dairy. Please find the following
+documents included
+
+- The Annual Report
+
+- Manure Tracking Manifest
+
+- Corrective Actions Documents
+
+- Well Monitoring Analysis
+Every effort has been made to maintain clear and accurate records. All records
+are held on-site and at Dellavalle Laboratory, Inc. in both electronic and hard
+copy form. These records will be kept for five years. Copies of every item in this
+folder have been made and are kept by the dairyman and Dellavalle Laboratory.
+
+1910 W. McKinley, Suite 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 1
+
+DELLAVALLE
+LABORATORY INC
+Annual Report
+1810 W. McKinley, Suite 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 2
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+DAIRY FACILITY INFORMATION
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY Tiemersma Dairy
+Physical address of dairy
+29981 Road 60 Visalia Tulare 93291
+Number and Street City County Zip Code
+Street and nearest cross street (if no address)
+Date facility was originally placed in operation 09/01/1971
+Regional Water Quality Control Board Basin Plan designation Tulare Basin
+County Assessor Parcel Number(s) for dairy facility
+0073-0130-0010-0000 0073-0130-0019-0000 0073-0130-0020-0000 0073-0180-0001-0000 0073-0180-0002-0000 0073-0180-0003-0000
+0073-0180-0007-0000 0073-0180-0024-0000
+B. OPERATORS
+Tiemersma, Peter P
+Operator name Tiemersma, Peter P Telephone no. (559) 786-6707
+Landline Cellular
+29981 Road 60 Visalia CA 93291
+Mailing Address Number and Street City State Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Tiemersma, Peter P
+Legal owner name Tiemersma, Peter P Telephone no. (559) 786-6707
+Landline Cellular
+29981 Road 60 Visalia CA 93291
+Mailing Address Number and Street City State Zip Code
+This owner is responsible for paying permit fees.
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 1 of 35
+
+PDF PAGE BREAK 3
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Bred Heifers Heifers (7-14 Calves Calves
+Milk Cows Dry Cows (15-24 mo.) mo. to breeding) (4-6 mo.) (0-3 mo.)
+Number open confinement 0 0 0 0 0 0
+Number under roof 0 0 700 650 0 0
+Maximum number 0 0 700 650 0 0
+Average number 0 0 700 650 0 0
+Avg live weight (Ibs) 0 0 1,100 800
+Predominant milk cow breed Holstein
+Average milk production 1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd 13,915.20 tons per reporting period
+Total nitrogen from manure 128,115.00 /bs per reporting period After ammonia losses (30 loss applied). 89,680.50 /bs per reporting period
+Total phosphorus from manure 21,681.00 /bs per reporting period
+Total potassium from manure 1.00 /bs per reporting period
+Total salt from manure 0.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated 38,038,000 gallons 38,038,000 gallons applied
+Total nitrogen generated 89,633.94 Ibs 0 gallons exported
+Total phosphorus generated 36,414.13 ibs - 0 gallons imported
+Total potassium generated 77,252.65 Ibs - 38,038,000 gallons generated
+Total salt generated 630,689.81 lbs
+D. FRESH WATER SOURCES
+Source Description Type
+Well 41 Ground water
+Well 42 Ground water
+Well 43 Ground water
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 1455.08 Page 2 of 35
+
+PDF PAGE BREAK 4
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+No commercial or other nutrient imports entered.
+G. NUTRIENT EXPORTS
+Date Material type Quantity Reporting basis Moisture () Density (Ibs/cu ft) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+04/22/2023 Corral solids 1,520.00 ton As-is 51.4 4,700.00 3,000.00 10,400.00 0.00
+06/02/2023 Corral solids 1,120.00 ton As-is 51.4 4,700.00 3,000.00 10,400.00 0.00
+No liquid nutrient exports entered.
+Material type Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Dry manure 24,816.00 15,840.00 54,912.00 0.00
+Process wastewater 0.00 0.00 0.00 0.00
+Total exports for all materials 24,816.00 15,840.00 54,912.00 0.00
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 3 of 35
+
+PDF PAGE BREAK 5
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+APPLICATION AREA
+A. LIST OF LAND APPLICATION AREAS
+Field name Controlled acres Cropable acres Total harvests Type of waste applied Parcel number
+20 Acres 18 18 2 process wastewater 0073-0180-0024-0000
+35 Acres 35 35 2 process wastewater 0073-0130-0010-0000
+0073-0130-0019-0000
+0073-0130-0020-0000
+60 Acres 58 58 2 process wastewater 0073-0180-0001-0000
+0073-0180-0002-0000
+80 Acres 78 78 2 process wastewater 0073-0180-0007-0000
+Totals for areas that were used for application 189 189 8
+Totals for areas that were not used for application
+Land application area totals 189 189 8
+B. CROPS AND HARVESTS
+20 Acres
+Field name 20 Acres
+11/22/2022 Triticale, soft dough
+Crop Triticale, soft dough Acres planted 18 Plant date 11/22/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+05/25/2023 378.00 ton As-is 46.4 6,800.00 1,600.00 11,300.00 9.10
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 22.00 220.00 83.60 198.00 0.00
+Total actual harvest content 21.00 285.60 67.20 474.60 2,048.59
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 4 of 35
+
+PDF PAGE BREAK 6
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+20 Acres
+06/29/2023. Corn, silage
+Crop Corn, silage Acres planted 18 Plant date 06/29/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+10/16/2023 389.90 ton As-is 65.1 4,800.00 1,000.00 4,300.00 6.10
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 30.00 240.00 105.00 240.00 0.00
+Total actual harvest content 21.66 207.95 43.32 186.29 922.29
+35 Acres
+Field name 35 Acres
+10/26/2022 Triticale, soft dough
+Crop Triticale, soft dough Acres planted 35 Plant date 10/26/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+04/27/2023 646.10 ton As-is 73.7 5,700.00 1,400.00 10,600.00 10.80
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 22.00 220.00 83.60 198.00 0.00
+Total actual harvest content 18.46 210.44 51.69 391.35 1,048.68
+05/23/2023. Corn, silage
+Crop Corn, silage Acres planted 35 Plant date 05/23/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+09/04/2023 720.00 ton As-is 69.1 4,700.00 1,100.00 6,700.00 8.90
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 30.00 240.00 105.00 240.00 0.00
+Total actual harvest content 20.57 193.37 45.26 275.66 1,131.47
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 5 of 35
+
+PDF PAGE BREAK 7
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres
+Field name 60 Acres
+10/29/2022 Triticale, soft dough
+Crop Triticale, soft dough Acres planted 58 Plant date 10/29/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+04/27/2023 1,173.60 ton As-is 73.7 5,400.00 1,300.00 10,700.00 10.90
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 22.00 220.00 83.60 198.00 0.00
+Total actual harvest content 20.23 218.53 52.61 433.02 1,160.12
+05/20/2023. Corn, silage
+Crop Corn, silage Acres planted 58 Plant date 05/20/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+09/05/2023 1,367.40 ton As-is 63.7 5,200.00 1,300.00 6,200.00 6.70
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 30.00 240.00 105.00 240.00 0.00
+Total actual harvest content 23.58 245.19 61.30 292.34 1,146.78
+80 Acres
+Field name 80 Acres
+11/21/2022 Triticale, soft dough
+Crop Triticale, soft dough Acres planted 78 Plant date 11/21/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+05/15/2023 1,582.40 ton As-is 63.5 7,200.00 1,100.00 8,200.00 10.30
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 22.00 220.00 83.60 198.00 0.00
+Total actual harvest content 20.29 292.14 44.63 332.71 1,525.39
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 6 of 35
+
+PDF PAGE BREAK 8
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+80 Acres
+06/27/2023. Corn, silage
+Crop Corn, silage Acres planted 78 Plant date 06/27/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS ()
+10/16/2023 1,746.40 ton As-is 63.7 5,200.00 1,100.00 3,600.00 4.60
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) _ Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 30.00 240.00 105.00 240.00 0.00
+Total actual harvest content 22.39 232.85 49.26 161.21 747.73
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 7 of 35
+
+PDF PAGE BREAK 9
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+NUTRIENT BUDGET
+A. LAND APPLICATIONS
+20 Acres - 11/22/2022 Triticale, soft dough
+Field name 20 Acres
+Crop Triticale, soft dough Plant date 11/22/2022
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+10/07/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 93.52 18.58 222.44 1,275.83 1,196,500.00 gal
+Well 42 Ground water 2.21 0.00 0.00 62.56 2,076,000.00 gal
+Well 43 Ground water 4.30 0.00 0.00 86.73 1,599,000.00 gal
+Application event totals 100.04 18.58 222.44 1,425.13
+02/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 7.26 0.00 0.00 205.04 6,804,000.00 gai
+Application event totals 7.26 0.00 0.00 205.04
+03/15/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 137.29 44.60 27.74 1,542.10 1,196,500.00 gal
+Well 42 Ground water 2.16 0.00 0.00 61.14 2,029,000.00 gal
+Well 43 Ground water 1.93 0.00 0.00 38.95 718,000.00 gal
+Application event totals 141.39 44.60 27.74 1,642.19
+20 Acres - 06/29/2023 Corn, silage
+Field name 20 Acres
+Crop Corn, silage Plant date 06/29/2023
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 8 of 35
+
+PDF PAGE BREAK 10
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+20 Acres - 06/29/2023 Corn, silage
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+06/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 27.23 9.95 14.15 103.51 572,500.00 gal
+Well 42 Ground water 2.83 0.00 0.00 79.86 2,650,000.00 gai
+Well 43 Ground water 4.92 0.00 0.00 99.32 1,831,000.00 gal
+Application event totals 34.98 9.95 14.15 282.69
+07/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 3.33 0.00 0.00 94.05 3,121,000.00 gal
+Well 43 Ground water 7.34 0.00 0.00 148.08 2,730,000.00 gal
+Application event totals 10.67 0.00 0.00 242.13
+08/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 3.14 0.00 0.00 88.84 2,948,000.00 gal
+Well 43 Ground water 5.08 0.00 0.00 102.57 1,891,000.00 gal
+Application event totals 8.23 0.00 0.00 191.41
+09/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 200.55 111.48 133.77 371.58 572,500.00 gal
+Well 42 Ground water 4.68 0.00 0.00 132.20 4,387,000.00 gal
+Well 43 Ground water 7.82 0.00 0.00 157.68 2,907,000.00 gai
+Application event totals 213.04 111.48 133.77 661.47
+35 Acres - 10/26/2022 Triticale, soft dough
+Field name 35 Acres
+Crop Triticale, soft dough Plant date 10/26/2022
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 9 of 35
+
+PDF PAGE BREAK 11
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+35 Acres - 10/26/2022 Triticale, soft dough
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+10/16/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 93.50 18.58 222.39 1,275.55 2,326,000.00 gal
+Well 42 Ground water 2.05 0.00 0.00 57.93 3,738,000.00 gal
+Well 43 Ground water 3.98 0.00 0.00 80.29 2,878,000.00 gal
+Application event totals 99.53 18.58 222.39 1,413.76
+02/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 7.26 0.00 0.00 205.04 13,230,000.00 gal
+Application event totals 7.26 0.00 0.00 205.04
+03/17/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 137.26 44.59 27.73 1,541.75 2,326,000.00 gal
+Well 42 Ground water 1.82 0.00 0.00 51.45 3,320,000.00 gal
+Well 43 Ground water 1.79 0.00 0.00 36.07 1,293,000.00 gal
+Application event totals 140.87 44.59 27.73 1,629.27
+35 Acres - 05/23/2023 Corn, silage
+Field name 35 Acres
+Crop Corn, silage Plant date 05/23/2023
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 26.97 9.86 14.01 102.52 1,102,500.00 gal
+Well 42 Ground water 2.90 0.00 0.00 81.95 5,288,000.00 gal
+Well 43 Ground water 3.87 0.00 0.00 78.11 2,800,000.00 gai
+Application event totals 33.74 9.86 14.01 262.58
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 10 of 35
+
+PDF PAGE BREAK 12
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+35 Acres - 05/23/2023 Corn, silage
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+07/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 3.97 0.00 0.00 112.11 7,234,000.00 gal
+Well 43 Ground water 742 0.00 0.00 149.61 5,363,000.00 gal
+Application event totals 11.38 0.00 0.00 261.72
+08/13/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 198.62 110.40 132.49 368.01 1,102,500.00 gal
+Well 42 Ground water 3.08 0.00 0.00 87.08 5,619,000.00 gal
+Well 43 Ground water 6.80 0.00 0.00 137.08 4,914,000.00 gal
+Application event totals 208.50 110.40 132.49 592.18
+09/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 2.91 0.00 0.00 82.22 5,305,000.00 gai
+Well 43 Ground water 471 0.00 0.00 94.93 3,403,000.00 gal
+Application event totals 7.62 0.00 0.00 177.15
+60 Acres - 10/29/2022 Triticale, soft dough
+Field name 60 Acres
+Crop Triticale, soft dough Plant date 10/29/2022
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+10/09/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 94.92 18.86 225.76 1,294.90 3,913,000.00 gal
+Well 42 Ground water 2.13 0.00 0.00 60.20 6,437,000.00 gal
+Well 43 Ground water 4.14 0.00 0.00 83.45 4,957,000.00 gal
+Application event totals 101.19 18.86 225.76 1,438.54
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 11 of 35
+
+PDF PAGE BREAK 13
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres - 10/29/2022 Triticale, soft dough
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+02/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 7.25 0.00 0.00 205.03 21,923,000.00 gal
+Application event totals 7.25 0.00 0.00 205.03
+03/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 139.34 45.27 28.15 1,565.14 3,913,000.00 gal
+Well 42 Ground water 1.89 0.00 0.00 53.48 5,719,000.00 gal
+Well 43 Ground water 1.86 0.00 0.00 37.47 2,226,000.00 gal
+Application event totals 143.09 45.27 28.15 1,656.10
+60 Acres - 05/20/2023 Corn, silage
+Field name 60 Acres
+Crop Corn, silage Plant date 05/20/2023
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/01/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 29.94 10.94 15.55 113.80 2,028,000.00 gal
+Well 42 Ground water 2.98 0.00 0.00 84.20 9,003,000.00 gal
+Well 43 Ground water 3.98 0.00 0.00 80.25 4,767,000.00 gal
+Application event totals 36.89 10.94 15.55 278.24
+06/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 4.10 0.00 0.00 115.98 12,401,000.00 gai
+Well 43 Ground water 7.67 0.00 0.00 154.74 9,192,000.00 gal
+Application event totals 11.77 0.00 0.00 270.71
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 12 of 35
+
+PDF PAGE BREAK 14
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres - 05/20/2023 Corn, silage
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+08/01/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 220.47 122.55 147.06 408.50 2,028,000.00 gal
+Well 42 Ground water 3.20 0.00 0.00 90.50 9,677,000.00 gal
+Well 43 Ground water 7.06 0.00 0.00 142.48 8,464,000.00 gal
+Application event totals 230.74 122.55 147.06 641.48
+09/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 3.02 0.00 0.00 85.46 9,138,000.00 gal
+Well 43 Ground water 4.89 0.00 0.00 98.66 5,861,000.00 gai
+Application event totals 7.91 0.00 0.00 184.12
+80 Acres - 11/21/2022 Triticale, soft dough
+Field name 80 Acres
+Crop Triticale, soft dough Plant date 11/21/2022
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+10/01/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 93.59 18.60 222.60 1,276.74 5,188,500.00 gal
+Well 42 Ground water 2.10 0.00 0.00 59.21 8,514,000.00 gal
+Well 43 Ground water 4.07 0.00 0.00 82.06 6,556,000.00 gai
+Application event totals 99.75 18.60 222.60 1,418.01
+02/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 7.25 0.00 0.00 205.02 29,482,000.00 gal
+Application event totals 7.25 0.00 0.00 205.02
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 13 of 35
+
+PDF PAGE BREAK 15
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+80 Acres - 11/21/2022 Triticale, soft dough
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+03/21/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 137.39 44.63 27.76 1,543.19 5,188,500.00 gal
+Well 42 Ground water 1.82 0.00 0.00 51.31 7,379,000.00 gal
+Well 43 Ground water 1.83 0.00 0.00 36.85 2,944,000.00 gal
+Application event totals 141.03 44.63 27.76 1,631.35
+80 Acres - 06/27/2023 Corn, silage
+Field name 80 Acres
+Crop Corn, silage Plant date 06/27/2023
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+06/02/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 29.55 10.80 15.35 112.32 2,692,000.00 gal
+Well 42 Ground water 2.61 0.00 0.00 73.73 10,602,000.00 gat
+Well 43 Ground water 4.55 0.00 0.00 91.70 7,326,000.00 gal
+Application event totals 36.70 10.80 15.35 277.75
+07/10/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 3.15 0.00 0.00 89.00 12,798,000.00 gai
+Well 43 Ground water 6.95 0.00 0.00 140.12 11,194,000.00 gal
+Application event totals 10.10 0.00 0.00 229.12
+08/18/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well 42 Ground water 2.97 0.00 0.00 84.05 12,086,000.00 gai
+Well 43 Ground water 4.81 0.00 0.00 97.04 7,752,000.00 gal
+Application event totals 7.78 0.00 0.00 181.08
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 14 of 35
+
+PDF PAGE BREAK 16
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+80 Acres - 06/27/2023 Corn, silage
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+09/12/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Lagoon Process wastewater 217.62 120.96 145.16 403.21 2,692,000.00 gal
+Well 42 Ground water 4.32 0.00 0.00 122.02 17,546,000.00 gal
+Well 43 Ground water 7.22 0.00 0.00 145.58 11,630,000.00 gal
+Application event totals 229.15 120.96 145.16 670.81
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 15 of 35
+
+PDF PAGE BREAK 17
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+B. NUTRIENT BUDGET
+20 Acres - 11/22/2022 Triticale, soft dough
+Field name 20 Acres Crop Triticale, soft dough Plant date 11/22/2022
+Nutrient budget in lbs/acre
+3,500 HB Applied
+3,000 Anticipated
+
+9 2500 2,049 MB Harvest
+
+5 2,000
+
+oO
+
+B 1,500
+
+- 1,000 475
+
+               256 286 250
+500 63 84 67 0
+6 mn _ -
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 13,226,000.00 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 487.07 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 27.06 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 230.82 63.18 250.17 2,817.93 Process wastewater applied
+Fresh water 17.86 0.00 0.00 454.42 2,393,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+88.13 acre-inches
+Total nutrients applied 255.68 63.18 250.17 3,272.35 7
+Anticipated crop nutrient removal 220.00 83.60 198.00 0.00 4.90 inches/acre
+Actual crop nutrient removal 285.60 67.20 474.60 2,048.59 Total harvests for the crop
+Nutrient balance -29.92 -4.02 -224.43 1,223.76 41 harvests
+Applied to removed ratio 0.90 0.94 0.53 1.60
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 16 of 35
+
+PDF PAGE BREAK 18
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+20 Acres - 06/29/2023 Corn, silage
+Field name 20 Acres Crop Corn, silage Plant date 06/29/2023
+Nutrient budget in lbs/acre
+1,400 ME Applied
+1,200 922 Anticipated
+9 1,000 MB Harvest
+S 800
+oO
+8 600
+_ 400 274 508 186
+200 21 43 M8
+240) 240 9
+0 a
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 22,465,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 827.31 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 45.96 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 227.78 121.43 147.92 475.10 Process wastewater applied
+Fresh water 39.14 0.00 0.00 902.60 4,145,000.00 galions
+Atmospheric deposition 7.00 0.00 0.00 0.00
+42.17 acre-inches
+Total nutrients applied 273.92 121.43 147.92 1,377.70
+_ . 2.34 inches/acre
+Anticipated crop nutrient removal 240.00 105.00 240.00 0.00
+Actual crop nutrient removal 207.95 43.32 186.29 922.29 Total harvests for the crop
+Nutrient balance 65.98 78.11 -38.37 455.41 41 harvests
+Applied to removed ratio 1.32 2.80 0.79 1.49
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 17 of 35
+
+PDF PAGE BREAK 19
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+35 Acres - 10/26/2022 Triticale, soft dough
+Field name 35 Acres Crop Triticale, soft dough Plant date 10/26/2022
+Nutrient budget in lbs/acre
+3,500 HB Applied
+3,000 Anticipated
+9 2500 MB Harvest
+3 2,000
+8 1,500 1,049
+108 255 250 991
+500 210 g3 84 52 0 a
+0 ee er
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 24,459,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 900.74 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 25.74 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 230.76 63.17 250.12 2,817.29 Process wastewater applied
+Fresh water 16.89 0.00 0.00 430.78 4,652,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+171.32 acre-inches
+Total nutrients applied 254.66 63.17 250.12 3,248.07
+_ . 4.89 inches/acre
+Anticipated crop nutrient removal 220.00 83.60 198.00 0.00
+Actual crop nutrient removal 210.44 51.69 391.35 1,048.68 Total harvests for the crop
+Nutrient balance 44.21 11.48 -141.23 2,199.39 41 harvests
+Applied to removed ratio 1.21 1.22 0.64 3.10
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 18 of 35
+
+PDF PAGE BREAK 20
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+35 Acres - 05/23/2023 Corn, silage
+Field name 35 Acres Crop Corn, silage Plant date 05/23/2023
+Nutrient budget in lbs/acre
+1,400 1131 ME Applied
+1,200 . Anticipated
+9 1,000 MB Harvest
+S 800
+oO
+8 600
+- 268 276
+200 we 120 yg 148
+240) 240) 9
+6 Boom ia ell
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 39,926,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 1,470.34 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 42.01 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 225.59 120.26 146.50 470.53 Process wastewater applied
+Fresh water 35.65 0.00 0.00 823.09 2,205,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+81.20 acre-inches
+Total nutrients applied 268.24 120.26 146.50 1,293.62
+_ . 2.32 inches/acre
+Anticipated crop nutrient removal 240.00 105.00 240.00 0.00
+Actual crop nutrient removal 193.37 45.26 275.66 1,131.47 Total harvests for the crop
+Nutrient balance 74.87 75.00 -129.16 162.15 41 harvests
+Applied to removed ratio 1.39 2.66 0.53 1.14
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 19 of 35
+
+PDF PAGE BREAK 21
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres - 10/29/2022 Triticale, soft dough
+Field name 60 Acres Crop Triticale, soft dough Plant date 10/29/2022
+Nutrient budget in lbs/acre
+3,500 HB Applied
+3,000 Anticipated
+9 2500 MB Harvest
+3 2,000
+ 1,500 1,160
+ 1,000
+, 433
+259 219 254
+500 64 84 53 te)
+0 ma _ ot
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 41,262,000.00 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,519.54 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 26.20 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 234.26 64.13 253.91 2,860.04 Process wastewater applied
+Fresh water 17.27 0.00 0.00 439.63 7,826,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+288.20 acre-inches
+Total nutrients applied 258.54 64.13 253.91 3,299.67
+_ . 4.97 inches/acre
+Anticipated crop nutrient removal 220.00 83.60 198.00 0.00
+Actual crop nutrient removal 218.53 52.61 433.02 1,160.12 Total harvests for the crop
+Nutrient balance 40.00 11.52 -179.11 2,139.54 41 harvests
+Applied to removed ratio 1.18 1.22 0.59 2.84
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 20 of 35
+
+PDF PAGE BREAK 22
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres - 05/20/2023 Corn, silage
+Field name 60 Acres Crop Corn, silage Plant date 05/20/2023
+Nutrient budget in lbs/acre
+1,400 1.147 ME Applied
+1,200 , Anticipated
+9 1,000 MB Harvest
+S 800
+oO
+g ane 294 292
+200 we So
+i)
+ee
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 68,503,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 2,522.73 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 43.50 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 250.41 133.49 162.61 522.30 Process wastewater applied
+Fresh water 36.91 0.00 0.00 852.26 4,056,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+149.37 acre-inches
+Total nutrients applied 294.32 133.49 162.61 1,374.56
+_ . 2.58 inches/acre
+Anticipated crop nutrient removal 240.00 105.00 240.00 0.00
+Actual crop nutrient removal 245.19 61.30 292.34 1,146.78 Total harvests for the crop
+Nutrient balance 49.14 72.20 -129.73 227.79 41 harvests
+Applied to removed ratio 1.20 2.18 0.56 1.20
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 21 of 35
+
+PDF PAGE BREAK 23
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+80 Acres - 11/21/2022 Triticale, soft dough
+Field name 80 Acres Crop Triticale, soft dough Plant date 11/21/2022
+Nutrient budget in lbs/acre
+3,500 HB Applied
+3,000 Anticipated
+9 2500 MB Harvest
+S 2,000 1,525
+B 1,500
+ 4,000
+               255 292 250 333
+500 63 84 45 ie)
+0 ee ee
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 54,875,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 2,020.86 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 25.91 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 230.98 63.23 250.35 2,819.92 Process wastewater applied
+Fresh water 17.06 0.00 0.00 434.46 40,377,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+382.15 acre-inches
+Total nutrients applied 255.04 63.23 250.35 3,254.38
+_ . 4.90 inches/acre
+Anticipated crop nutrient removal 220.00 83.60 198.00 0.00
+Actual crop nutrient removal 292.14 44.63 332.71 1,525.39 Total harvests for the crop
+Nutrient balance -37.10 18.59 -82.36 1,728.99 41 harvests
+Applied to removed ratio 0.87 1.42 0.75 2.13
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 22 of 35
+
+PDF PAGE BREAK 24
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+80 Acres - 06/27/2023 Corn, silage
+Field name 80 Acres Crop Corn, silage Plant date 06/27/2023
+Nutrient budget in lbs/acre
+1,400 ME Applied
+1,200 Anticipated
+1,000 MB Harvest
+g 800 748
+oO
+8 600
+/ 400 291 233 90 181 161
+ken ia 2 mom
+0 _
+N P K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 90,934,000.00 galfons
+Plowdown credit 0.00 0.00 0.00 0.00 3,348.79 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 42.93 inches/acre
+Dry manure 0.00 0.00 0.00 0.00 .
+Process wastewater 247.17 131.76 160.51 515.54 Process wastewater applied
+Fresh water 36.57 0.00 0.00 843.23 5,384,000.00 gallons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+198.27 acre-inches
+Total nutrients applied 290.74 131.76 160.51 1,358.77
+inches/e
+Anticipated crop nutrient removal 240.00 105.00 240.00 0.00 2.54 inches/acre
+Actual crop nutrient removal 232.85 49.26 161.21 747.73 Total harvests for the crop
+Nutrient balance 57.89 82.51 -0.70 611.04 41 harvests
+Applied to removed ratio 1.25 2.68 1.00 1.82
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 23 of 35
+
+PDF PAGE BREAK 25
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+NUTRIENT ANALYSES
+A. MANURE ANALYSES
+Coral Manure - 23D1569
+Sample and source description Coral Manure - 23D1569
+Sample date 04/26/2023 Material type. Corral solids Source of analysis Lab analysis Method of reporting As-is
+Moisture 51.4
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+Value 4,700.00 3,000.00 10,400.00
+DL 100.00 100.00 30.00
+Coral Manure - 2311710
+Sample and source description Coral Manure - 2311710
+Sample date 09/25/2023 __ Material type Separator solids Source of analysis Lab analysis Method of reporting As-is
+Moisture 17.2
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+Value 7,000.00 4,400.00 18,100.00
+DL 100.00 100.00 30.00
+B. PROCESS WASTEWATER ANALYSES
+2022 4th Qtr - 22J0890
+Sample and source description 2022 4th Qtr - 22J0890
+Sample date 10/11/2022 Material type Process wastewater Source of analysis Lab analysis pH 7.70
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 168.00 131.00 0.00 0.60 33.50 401.00 5,480.00 2,300
+DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 24 of 35
+
+PDF PAGE BREAK 26
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+2023 1st Qtr - 23B0948
+Sample and source description 2023 1st Qtr - 23B0948
+Sample date 02/23/2023 Material type Process wastewater Source of analysis. Lab analysis pH 7.70
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 247.00 179.00 0.00 0.50 80.40 50.00 6,860.00 2,780
+DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
+2023 2nd Qtr - 23F1916
+Sample and source description 2023 2nd Qtr - 23F1916
+Sample date 06/20/2023 Material type Process wastewater Source of analysis. Lab analysis pH 7.60
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 98.00 16.00 0.00 4.60 37.50 53.30 977.00 390
+DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
+2023 3rd Qtr - 23H0792
+Sample and source description 2023 3rd Qtr - 23HO792
+Sample date 08/07/2023 Material type Process wastewater Source of analysis. Lab analysis pH 7.40
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 755.00 119.00 0.00 0.60 420.00 504.00 3,280.00 1,400
+DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
+2023 4th Qtr - Average
+Sample and source description. 2023 4th Qtr - Average
+Sample date 10/01/2023 Material type Process wastewater Source of analysis Other/estimated pH 7.60
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 367.00 105.00 0.00 1.90 179.00 382.40 3,706.00 1,523
+DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 25 of 35
+
+PDF PAGE BREAK 27
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+C. FRESH WATER ANALYSES
+Well 1
+23F 1915
+Sample description 23F1915 ee
+Sample date 06/20/2023 Source of analysis Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride Ec TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 0.00 22.20 56.50 2.10 46.00 100.00 0.00 31.20 23.20 561.00 323
+OL 0.20 0.01 0.05 0.40 0.10 3.00 0.90 0.01 0.03 1.00 10
+Well 42
+23F 1915
+Sample description 23F1915
+Sample date 06/20/2023 Source of analysis Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride Ec TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 0.00 2.30 3.60 0.00 22.00 28.50 7.00 6.40 5.20 126.00 65
+DOL 0.20 0.01 0.05 0.40 0.10 3.00 0.90 0.01 0.03 1.00 10
+Well 43
+23F 1915
+Sample description 23F1915
+Sample date 06/20/2023 Source of analysis Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride Ec TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 0.00 5.80 11.00 0.00 30.00 39.30 0.00 14.70 12.90 214.00 7
+DL 0.20 0.01 0.05 0.40 0.10 3.00 0.90 0.01 0.03 1.00 10
+D. SOIL ANALYSES
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 26 of 35
+
+PDF PAGE BREAK 28
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+No soil analyses entered.
+E. PLANT TISSUE ANALYSES
+20 Acres - 11/22/2022 Triticale, soft dough
+23E2316
+Sample and source description 23E2316
+Sample date 05/25/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 46.4
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 6,800.00 1,600.00 11,300.00 9.10
+DL 100.00 10.00 30.00 0.01
+20 Acres - 06/29/2023 Corn, silage
+2331114
+Sample and source description 23/1114
+Sample date 10/16/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture- 65.1
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 4,800.00 1,000.00 4,300.00 6.10
+DL 100.00 100.00 30.00 0.01
+35 Acres - 10/26/2022 Triticale, soft dough
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 27 of 35
+
+PDF PAGE BREAK 29
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+35 Acres - 10/26/2022 Triticale, soft dough
+23D1672
+Sample and source description 23D1672
+Sample date 04/27/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 73.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 5,700.00 1,400.00 10,600.00 10.80
+DL 100.00 100.00 30.00 0.01
+35 Acres - 05/23/2023 Corn, silage
+2310378
+Sample and source description 2310378
+Sample date 09/05/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 69.1
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 4,700.00 1,100.00 6,700.00 8.90
+DL 100.00 100.00 30.00 0.01
+60 Acres - 10/29/2022 Triticale, soft dough
+23D1672
+Sample and source description 23D1672
+Sample date 04/27/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 73.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 5,400.00 1,300.00 10,700.00 10.90
+DL 100.00 100.00 30.00 0.01
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 28 of 35
+
+PDF PAGE BREAK 30
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+60 Acres - 05/20/2023 Corn, silage
+2310378
+Sample and source description 2310378
+Sample date 09/05/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 63.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 5,200.00 1,300.00 6,200.00 6.70
+DL 100.00 100.00 30.00 0.01
+80 Acres - 11/21/2022 Triticale, soft dough
+23E1392
+Sample and source description 23E1392
+Sample date 05/15/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 63.5
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 7,200.00 1,100.00 8,200.00 10.30
+DL 100.00 100.00 30.00 0.01
+80 Acres - 06/27/2023 Corn, silage
+2331114
+Sample and source description 23/1114
+Sample date 10/16/2023 Source of analysis Lab analysis Method of reporting As-is
+Moisture 63.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS ()
+Value 5,200.00 1,100.00 3,600.00 4.60
+DL 100.00 100.00 30.00 0.01
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 29 of 35
+
+PDF PAGE BREAK 31
+
+Reporting period 01/01/2023 to 12/31/2023.
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+No subsurface (tile) drainage analyses entered.
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 30 of 35
+
+PDF PAGE BREAK 32
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Existing soil nutrient content 0.00 0.00 0.00 0.00
+Plowdown credit 0.00 0.00 0.00 0.00
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 89,633.94 36,414.13 77,252.65 630,689.81
+Fresh water 10,190.76 0.00 0.00 242,901.60
+Atmospheric deposition 2,646.00 0.00 0.00 0.00
+Total nutrients applied 102,470.70 36,414.13 77,252.65 873,591.42
+Anticipated crop nutrient removal 86,940.00 35,645.40 82,782.00 0.00
+Actual crop nutrient removal 90,862.34 19,312.44 115,837.50 440,884.59
+Nutrient balance 11,608.36 17,101.69 -38,584.85 432,706.83
+Applied to removed ratio 1.13 1.89 0.67 1.98
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+1,000,000 873,591 MM Applied
+Anticipated
+800,000 MB Harvested
+600,000
+g 440,885
+400,000
+200,000 102,471 36.414 77.253 _1 mp8
+                                0
+0 MMos osc dll
+N P K salt
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 31 of 35
+
+PDF PAGE BREAK 33
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+Pounds of nitrogen applied Pounds of phosphorus applied
+l
+Existing soil nutrient content 0 Existing soil nutrient content 0
+Plowdown credit 0 Plowdown credit 0
+Commercial fertilizer / Other 0 Commercial fertilizer / Other 0
+Dry manure 0 Dry manure 0
+Fresh water 10,191
+Fresh water 0
+Atmospheric deposition J 2.646 -
+Atmospheric deposition 0
+it) 40,000 80,000
+20,000 60,000 100,000 0 10,000 20,000 30,000 40,000
+Ibs Ibs
+. YY
+Pounds of potassium applied Pounds of salt applied
+Existing soil nutrient content 0 Existing soil nutrient content 0
+Plowdown credit 0 Plowdown credit 0
+Commercial fertilizer / Other 0 Commercial fertilizer / Other 0
+Dry manure 0 Dry manure 0
+Fresh water 0 Fresh water 242,902
+Atmospheric deposition 0 Atmospheric deposition 0
+0 20,000 40,000 60,000 80,000 0) 200,000 400,000 600,000 800,000
+Ibs Ibs
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 32 of 35
+
+PDF PAGE BREAK 34
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+EXCEPTION REPORTING
+A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise)
+when not in accordance with the facilitys Nutrient Management Plan.
+No manure or process wastewater discharges occurred during the reporting period.
+B. STORM WATER DISCHARGES
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility s Nutrient
+Management Plan.
+No stormwater discharges occurred during the reporting period.
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the
+facilitys Nutrient Management Plan.
+No land application area to surface water discharges occurred during the reporting period.
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+Was the facilitys NMP updated in the reporting period Yes
+Was the facilitys NMP developed by a certified nutrient management planner Yes
+(specialist) as specified in Attachment C of the General Order
+Was the facilitys NMP approved by a certified nutrient management planner Yes
+(specialist) as specified in Attachment C of the General Order
+B. EXPORT AGREEMENT STATEMENT
+Are there any written agreements with third parties to receive manure or process No
+wastewater that are new or were revised within the reporting period
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 33 of 35
+
+PDF PAGE BREAK 35
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+ADDITIONAL NOTES
+A. NOTES
+All data entered in this 2023 Annual Report is correct as submitted by the owner/operator and has been confirmed by the owner/operator to be accurate.
+All fields returned acceptable total nitrogen ratios below the 1.65 total nitrogen ratio limit.
+During the reporting period, the owner/operator made the decision to sell the milking herd. The herd was sold and the facility vacated by March 1, 2023. On
+June 1, 2023 a lease agreement was started with an outside operator and the facility began operating as a heifer ranch. There are no milking cows on the
+facility, however the facility will remain part of the Dairy General Order rather than move to the Bovine Order. This gives the owner/operator the option to resume
+a milking herd in the future should the opportunity arise. The outside operator is utilizing the production areas only and the owner/operator retains use of all land
+application areas. Per the lease agreement, the outside operator retains ownership of and exports all solid manure produced in the corrals whereas any liquid
+manure produced and collected in the wastewater retention ponds is to be utilized by the owner/operator for agronomic purposes.
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 14.5508 Page 34 of 35
+
+PDF PAGE BREAK 36
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+CERTIFICATION
+
+A. OWNER AND/OR OPERATOR CERTIFICATION
+
+ certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry
+
+of those individuals immediately responsible for obtaining the information, believe that the information is true, accurate, and complete. / am aware that there are significant
+
+penalties for submitting false information, including the possibility of fine and imprisonment.
+
+4
+ee og og ag ee
+
+SIGNATURE OF OWNER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
+
+Peter P Tiemersma SAME AS OWNER
+
+PRINT OR TYPE NAME PRINT OR TYPE NAME
+
+I A a
+
+DATE DATE
+a
+
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+
+06/24/2024 145508 Page 35 of 35
+
+PDF PAGE BREAK 37
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+ATTACHMENTS
+A. REQUIRED ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+Tiemersma Dairy 29981 Road 60 Visalia, CA 93291 Tulare County Tulare Basin
+06/24/2024 145508 Page 1 of 1
+
+PDF PAGE BREAK 38
+
+DELLAVALLE
+Manure Tracking
+Manifest
+1910 W. McKinley, Suite 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 39
+
+. Manure/Process Wastewater Tracking Manifest for Existing Milk Cow Dairies
+instructions.
+_ 1) Complete one manifest for each hauling event, for each destination. A hauling event may last for
+several days, as long as the manure is being hauled to the same destination.
+2) if there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+Operator information Name of Operator. Gut jerrez. Fe t eC.
+Name of Dairy Facility- Tie mersme Deu cy
+Facility Address. 3998) Koewel 60 Visalia C/4 93a9/
+Number and Street City Zip Code
+Contact Person Name and Phone Number. Pefe SST 786-6907
+Name Phone Number
+Manure/Process Wastewater Hauler Information
+Name of Hauling Company/Person Gatle crete
+Address of Hauling Company /Person_36 7 Ave. 336 Tiwlare IBITY .
+                           Number and Street City Zip Code
+Contact Person Jesse 689G- BFO-ZTG
+Name Phone Number
+ns .
+Destination Information Composting Facility / Broker (Farmer Other (please circle one)
+a
+Contact information of Composting Facility, Broker (Fafffier, fmeror Other-
+Moons 9979 fve Ha Visa hea CA 9324)
+Name Number and Street City Zip Code Phone Number
+anureiProcess Wastewater Destination Address or Assessors Parcel Number-
+4474 pve ADR Visefie. BA Ds PE -eY O- o2/
+Number and Street City Zip Code Assessors Parcel Number
+     Dates Hauled 4-31 - B09 Y-Ba-39e 3
+Amount Hauled
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used fo calculate the amount-
+Manure 1S AO Gons-or Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons)__._
+Manure Density (if amount reported in cubic yards).
+. Method used to determine amount of manure-
+f0 dema Per track /oacl
+ot. Je f a
+
+PDF PAGE BREAK 40
+
+- Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+Process Wastewater Gallons
+Method used to determine volume of process wastewater-
+Written Agreement
+. Does the Operator have a written agreement (in compliance with Land Application Specification C.2
+of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives
+process wastewater from the Operator for its own use7 (please check one)
+Yes J No
+if the answer is no, the Operator agrees to have such a written agreement with any such party for
+any process wastewater transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement). .
+Certification.
+t declare under the penalty of law that personally examined and am familiar with the information submitted in
+this document, and that based on my inquiry of those individuals immediately responsible for obtaining the
+_ information, believe that the information is true, accurate, and complete. am aware that there are significant
+penalties for submitting false information, including the possibility of a fine and imprisonment for knowing
+violations.
+Operators Signature. f) L) tpt Date. 1 F0- LORD
+Haulers Signature- ts XL te _ Date fg
+ZT)
+Lob Tp - 23D/569
+ow
+A
+peg Ao f
+
+PDF PAGE BREAK 41
+
+                 Manure/Process Wastewater Tracking Manifest for Existing Milk Cow Dairies
+Instructions
+          4) Complete one manifest for each hauling event, for each destination. A hauling event may fast for
+several days, as long as the manure is being hauled to the same destination.
+2) f there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+Operator Information Name of Operator. Pete.
+Name of Dairy Facility Tiemerame_Natey
+Facility Address. 9981 ead 60 Vise fre F329
+Number and Street City Zip Code
+Contact Person Name and Phone Number. ix ete. SS9-7K6- 6707
+Name Phone Number
+Manure/Process Wastewater Hauler information
+Name of Hauling Company/Person, Gotiervez. Sp cecdin 5 LAC
+Address of Hauling Company /Person,_36/2 Arrv. AZ& Tulare FZOV 7
+_ , Number and Street City Zip Code
+Contact Person Jesse Getierre SS 9-D8O - 279
+Name Phone Number
+oo
+Destination Information Composting Facility / Broker / Farmer / Other (please circle one)
+Contact information of Composting Facility, Broker(Farmeryor Other.
+Astin _ Martin 559-Fel - SS3
+. Name Number and Street City Zip Code Phone Number
+(Manure/Process Wastewater Oestination Address or Assessors Parcel Number-
+441 Ave 278 seh F229) arec. farmland
+Number and Street City Zip Code Assessors Parcel Number
+        Dates Hauled G-/-303 6 -aA-gosad
+Amount Hauled
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount-
+Manure- J LO Cons or Cubic Yards (indicate which units used)
+Manure Solids Content Gf amount reported in tons)__-_
+Manure Density (if amount reported in cubic yards).
+_ Method used to determine amount of manure. Aug wr of Puck load
+/O tens / Jo al
+OD Meapeve Tre okie Jiltass. feet coe tgs
+CG
+
+PDF PAGE BREAK 42
+
+-_ Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+Process Wastewater. ___ Gallons
+Method used to determine volume of process wastewater-
+Written Agreement-
+
+. Does the Operator have a written agreement (in compliance with Land Application Specification C.2
+of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives
+process wastewater from the Operator for its own use (please check one)
+
+Yes V4 No
+If the answer is no, the Operator agrees to have such a written agreement with any such party for
+any process wastewater transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement). .
+Certification
+1 declare under the penalty of faw that personally examined and am familiar with the information submitted in
+this document, and that based on my inquiry of those individuals immediately responsible for obtaining the
+_ information, 1 believe that the information is true, accurate, and complete. am aware that there are significant
+penalties for submitting false information, including the possibility of a fine and imprisonment for knowing
+violations. .
+Operators Signature Date. -36-3094
+LZ
+Haulers Signature- Yd Batten Date_ 4-4 /)- 7079
+KY ea A
+om
+
+PDF PAGE BREAK 43
+
+DELLAVALLE
+Corrective Actions
+Documents
+1910 W. McKinley, Sulte 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 44
+
+DIELLAVALLE
+LABORATORY ING
+No corrective actions were reported during the time period.
+1910 W. McKinley, Sulte 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 45
+
+DELLAVALLE
+Well Monitoring
+1910 W. McKinley, Sulte 110 Fresno CA 93728-1298 (559) 233-6129
+
+PDF PAGE BREAK 46
+
+2023 Well Water Summary
+Tiemersma Dairy
+CO, HCO,
+Field Total as as pH
+analysis Ec Ec NOsN NHaN NHN TOS CaCO, CaCO, cl SO,y Ca Mg Na at25C
+units smhos/em mmhos/em mg/L mg/L mg. mg mg/L mg. mg mg/L mg. mg mg.
+OL 1 0.001 0.01 0.2 10 09 3 0.03 0.01 0.05 a4 0.1
+
+Well/Canal Name Sample Name Date Lab
+
+Well 41 (hose bib) 62023 623F1915 561 0.56 22.2 ND 323 ND 100 23.2 312 565 24 46 72
+
+Well 42 (hose bib) 62023 23F1915 126 0.13 23 ND 65 7 285 5.2 6.4 3.6 ND 22 94
+
+Well 43 (hose bib) e203 866 23F1915 214 0.21 5.8 ND W7 ND 39.3 129 14.7 W 01 30 8.2
+
+6/24/2024 2023 Nutrient Budget_Tiemersma Dairy 414210 1
+
+PDF PAGE BREAK 47
+
+06/21/23 0653 23F1915 LZ
+DELLAVALLE LABORATORY, INC.
+WATER WORK REQUEST 1910 W. McKinley Avenue, Suite 110 Fresno, CA 93728
+Act No ins. www.dellavallelab.com 559 233-6129 800 228-9896 Fax 559 268-8174
+Bill To 1210 No. of Sampes No. Bottles
+Water Type Drinking Wastewater
+ Ag Water OO Ground water 1 Mon. weil
+Purchase Order No. Results Neoded Bs 2 supply water CD other
+Client Tiemersma Dairy Analysis and Bottles Required (Please Indicate Analysis)
+1 Address 29981 Road 60 1) DWwW1. (EC, pH. NO,-N, NH-N Field Test)
+City, State, Zip Visalia, CA 93291 (1) LL plastic, unpreserved (white)
+Email tiemersmadairyreagan.com
+  DWW2 (OW Pit 900, O05, HOO, CL Ce, Mg, Na, TDS)
+(1) LL plastic, unpreserved (white)
+Copy to- 0
+(1 Dcwt (EC. NO,N, TDS)
+Requested by/Cell Pete (559) 786-6707 (CH) LL plastic, unpreserved (white)
+Facility 29981 Rd 60 Visalia (C DPWI1 (EC, pH. NON, NH,-N, TKN, TDS, TP, TK )
+(1) UL plastic, unpreserved (white)
+Date sampled bl 20/ tw
+                                                 1 DPw2 (DPWI Plus Ca, Mg, Na, HCOs, COs, SO,, Cl)
+F Sampled by CA 4 unt (DLL plastic, unpreserved (white)
+ QA/QC Document Copy of Chan - L). nwace OO Other
+Date Time a Received
+DESCRIPTION OF SAMPLES . 4 bib Sampked Sampled NedtE heey Temp C
+2 (WOR 7 gente, (ios (e) O.Y
+3 WO 3 jones tie, he te (2 10 Oo o.8
+                               i , eS
+                             SS
+                  7. I Frous oe
+                              Sas
+4 we. R Thermometer SN 200560723
+Qo San ems sorrection Factors 0C _
+f Saibration Due 6/39/2023
+10. Senyled Foes .certion Jaboratory _
+CHAIN OF CUSTODY
+_ rm Chient fT Cd KES
+L soma CHF OC le/egy2s M00 _lexof/e3 Wor
+ mes ST PI Tk WI
+ rm mT pet eyes ess tT
+. J ygnarantes that us th hot ov oe hchult of the Jhon named. Ease the authors to. contract thee abo noguusted services shld it ie dinand tha fabs reat asc such authors D aptoe fo he peteally Inabbe fon aif cots and al thure sdowkd he action agamol me for thes breast neaemahhe
+ssa on vrs ht pnt moped hath camp nk ae chon evan ranged Fae arnt dan setae sl tc ae amg tr 2p wre om 2809 promt te me
+ih pont oma home Kpmae Soc enieencreng de fet or Dla oeane, he niles tanner uta Prveaeee eae Gem of ange cl Tete sow ee an
+Ah pte baba ng aie ough al Ro and Pesan The il aly Rae es fa abi Het he ee dla um pe an thm ar nl po liana atten wae
+nt srhmtin tenenac nena fof Dine balers
+                invoicing Information Shipping
+j Price List 2023 Fy In
+Sampling Hrs Miles Consulting Out Srgnature
+Sample reovived in cooler with ice
+Att Paid Ree By Check No Date 1 Yes No ef sate 233
+i
+Page 12 of 13

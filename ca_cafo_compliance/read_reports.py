@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 
 import pandas as pd
-from pypdf import PdfReader
-import pdfplumber
-import sys
-import glob
 import numpy as np
 import os
+import glob
 import re
+import sys
 import contextlib
 from conversion_factors import *
 import multiprocessing as mp
@@ -15,113 +13,42 @@ from functools import partial
 import pickle
 from datetime import datetime
 
-@contextlib.contextmanager
-def suppress_stderr():
-    """Temporarily suppress stderr output"""
-    stderr = sys.stderr
-    with open(os.devnull, 'w') as devnull:
-        sys.stderr = devnull
-        try:
-            yield
-        finally:
-            sys.stderr = stderr
-
-def try_alternate_extraction(pdf_path, page_number):
-    """Try different methods to extract text from a PDF page."""
-    try:
-        # 1. Try PyPDF2 first
-        with suppress_stderr():
-            reader = PdfReader(pdf_path)
-            if page_number < len(reader.pages):
-                text = reader.pages[page_number].extract_text()
-                if text.strip():
-                    return text
-    except Exception as e:
-        print(f"PyPDF2 extraction failed: {e}")
-
-    # 2. Try pdfplumber with different text extraction options
-    try:
-        with suppress_stderr(), pdfplumber.open(pdf_path) as pdf:
-            if page_number < len(pdf.pages):
-                page = pdf.pages[page_number]
-                # Try with different y tolerances
-                text = page.extract_text(y_tolerance=5)  # More lenient line joining
-                if text.strip():
-                    return text
-                text = page.extract_text(y_tolerance=10)  # Even more lenient
-                if text.strip():
-                    return text
-                
-                # If still no text, try extracting words directly
-                words = page.extract_words()
-                if words:
-                    return ' '.join(word['text'] for word in words)
-    except Exception as e:
-        print(f"pdfplumber alternate extraction failed: {e}")
-    
-    print(f"\nWARNING: Text extraction failed for page {page_number} in {pdf_path}")
-    print("Consider using OCR if this is a recurring issue.")
-    print("To use OCR:")
-    print("1. Install Tesseract: brew install tesseract")
-    print("2. Install Python packages: poetry add pytesseract pdf2image")
-    return None
-
-def convert_to_float_list(text, ignore_before=None):
-    if not text:
-        return []
-        
-    # Split text by whitespace and remove empty strings
-    components = [c for c in text.split() if c]
-    
-    float_numbers = []
-    for component in components:
-        # If ignore_before is specified and is a string, only take text after that character
-        if ignore_before and isinstance(component, str) and isinstance(ignore_before, str):
-            if ignore_before in component:
-                _, component = component.split(ignore_before, 1)
-                component = component.strip()
-            
-        # Remove any non-numeric characters except decimal points and negative signs
-        cleaned = ''.join(c for c in component if c.isdigit() or c in '.-')
-        
-        # Skip if we don't have any digits left
-        if not any(c.isdigit() for c in cleaned):
-            continue
-            
-        try:
-            # Convert the cleaned component to a float and append to the list
-            float_numbers.append(float(cleaned))
-        except ValueError:
-            # Skip invalid numbers but continue processing
-            continue
-    
-    return float_numbers
-
-def extract_text_adjacent_to_phrase(page, row, data_type):
-    """Extract text either to the right or below the search phrase, handling both horizontal and vertical text."""
-    
-    # Try horizontal text first with different extraction settings
-    text = page.extract_text(x_tolerance=3, y_tolerance=3)
+def extract_text_adjacent_to_phrase(page_text, row, data_type):
+    """Extract text either to the right or below the search phrase from OCR text."""
     phrase = row['row_search_text']
-    item_order = int(row['item_order'])
-    find_value_by = row['find_value_by']
-    offset = float(row['offset']) if not pd.isna(row['offset']) else 0
+    item_order = int(row['item_order']) if not pd.isna(row['item_order']) else -1
+    find_value_by = str(row['search_direction']).lower() if not pd.isna(row['search_direction']) else ''
     
-    # Try finding the phrase in horizontal text
-    if phrase in text:
-        lines = text.split('\n')
+    # Try finding the phrase in text
+    if phrase in page_text:
+        lines = page_text.split('\n')
         for i, line in enumerate(lines):
             if phrase in line:
                 if 'right' in find_value_by:
-                    parts = line.split(phrase)
+                    # For table structures, split by whitespace and get the appropriate column
+                    parts = line.split()
                     if len(parts) > 1:
-                        right_text = parts[1].strip()
-                        # For manifest fields, clean up the text
-                        if row['template'] == 'manifest_R5_2007':
-                            # Remove any non-alphanumeric characters except spaces and common punctuation
-                            right_text = re.sub(r'[^a-zA-Z0-9\s\.,\-\'&]', '', right_text)
-                            right_text = ' '.join(right_text.split())  # Normalize whitespace
-                        return right_text
+                        # If we have an item_order, use it to get the right column
+                        if item_order >= 0 and item_order < len(parts):
+                            # Check if this is a row with animal type (contains letters)
+                            if any(c.isalpha() for c in parts[0]):
+                                # This is a row with animal type, get the value from the next column
+                                if item_order + 1 < len(parts):
+                                    return parts[item_order + 1]
+                            else:
+                                # This is a row without animal type, get the value directly
+                                return parts[item_order]
+                        # Otherwise try to get text after the phrase
+                        else:
+                            parts = line.split(phrase)
+                            if len(parts) > 1:
+                                right_text = parts[1].strip()
+                                # For manifest fields, clean up the text
+                                if row['template'] == 'manifest_R5_2007':
+                                    # Remove any non-alphanumeric characters except spaces and common punctuation
+                                    right_text = re.sub(r'[^a-zA-Z0-9\s\.,\-\'&]', '', right_text)
+                                    right_text = ' '.join(right_text.split())  # Normalize whitespace
+                                return right_text
                 elif 'below' in find_value_by:
                     # Skip empty first line
                     current_idx = i + 1
@@ -139,7 +66,7 @@ def extract_text_adjacent_to_phrase(page, row, data_type):
                     if not following_lines:
                         return "0" if data_type == 'numeric' else None
                     
-                    if row['separator'] == 'line':
+                    if row.get('separator') == 'line':
                         if item_order == -1:
                             return following_lines[-1]
                         elif item_order < len(following_lines):
@@ -147,239 +74,24 @@ def extract_text_adjacent_to_phrase(page, row, data_type):
                         else:
                             return "0" if data_type == 'numeric' else None
     
-    # If not found in horizontal text, try with different extraction settings
-    try:
-        # Try with different extraction settings
-        text = page.extract_text(x_tolerance=1, y_tolerance=1)  # Very precise
-        if phrase in text:
-            lines = text.split('\n')
-            for line in lines:
-                if phrase in line:
-                    parts = line.split(phrase)
-                    if len(parts) > 1:
-                        right_text = parts[1].strip()
-                        if row['template'] == 'manifest_R5_2007':
-                            right_text = re.sub(r'[^a-zA-Z0-9\s\.,\-\'&]', '', right_text)
-                            right_text = ' '.join(right_text.split())
-                        return right_text
-                        
-        # Try extracting words directly if still not found
-        words = page.extract_words(x_tolerance=3, y_tolerance=3)
-        phrase_word = None
-        for i, word in enumerate(words):
-            if phrase in word['text']:
-                phrase_word = word
-                # Get words at the specified offset distance
-                target_x = word['x0'] + offset if 'right' in find_value_by else word['x0']
-                target_y = word['y0'] + offset if 'below' in find_value_by else word['y0']
-                
-                # Find the closest word at the target coordinates
-                closest_word = None
-                min_distance = float('inf')
-                
-                for j, other_word in enumerate(words):
-                    if j != i:  # Skip the phrase word itself
-                        if 'right' in find_value_by:
-                            # For right direction, only consider words to the right
-                            if other_word['x0'] > word['x1']:
-                                distance = abs(other_word['y0'] - word['y0'])  # Vertical distance
-                                if distance < min_distance:
-                                    min_distance = distance
-                                    closest_word = other_word
-                        elif 'below' in find_value_by:
-                            # For below direction, only consider words below
-                            if other_word['y0'] > word['y1']:
-                                distance = abs(other_word['x0'] - word['x0'])  # Horizontal distance
-                                if distance < min_distance:
-                                    min_distance = distance
-                                    closest_word = other_word
-                
-                if closest_word:
-                    result = closest_word['text']
-                    if row['template'] == 'manifest_R5_2007':
-                        result = re.sub(r'[^a-zA-Z0-9\s\.,\-\'&]', '', result)
-                        result = ' '.join(result.split())
-                    return result
-                break
-                    
-    except Exception as e:
-        print(f"Error in alternate extraction: {e}")
-    
     return "0" if data_type == 'numeric' else None
 
-def perform_ocr_on_pdf(pdf_path):
-    """Perform OCR on a PDF and return the extracted text for each page.
-    Saves all OCR text in a single file with page breaks."""
-    try:
-        import pytesseract
-        from pdf2image import convert_from_path
-        import os
-        
-        # Set up directories
-        pdf_dir = os.path.dirname(pdf_path)
-        pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-        ocr_dir = os.path.join(pdf_dir, 'ocr_output')
-        
-        # Check if OCR has already been performed
-        if os.path.exists(ocr_dir):
-            # Look for existing text file
-            text_file = os.path.join(ocr_dir, f'{pdf_name}_text.txt')
-            if os.path.exists(text_file):
-                print(f"Found existing OCR file for {pdf_name}")
-                with open(text_file, 'r') as f:
-                    text = f.read()
-                # Split text by page breaks and return as list
-                return text.split('PDF PAGE BREAK')
-        
-        # If no existing OCR file found, perform OCR
-        print(f"Performing new OCR for {pdf_name}")
-        os.makedirs(ocr_dir, exist_ok=True)
-        
-        # Convert PDF to images
-        images = convert_from_path(pdf_path)
-        
-        # Perform OCR on each page and combine text
-        ocr_texts = []
-        combined_text = []
-        
-        for i, image in enumerate(images):
-            # Perform OCR
-            text = pytesseract.image_to_string(image)
-            ocr_texts.append(text)
-            combined_text.append(text)
-            if i < len(images) - 1:  # Add page break except after last page
-                combined_text.append(f"\nPDF PAGE BREAK {i+1}\n")
-        
-        # Save combined text to a single file
-        text_file = os.path.join(ocr_dir, f'{pdf_name}_text.txt')
-        with open(text_file, 'w') as f:
-            f.write(''.join(combined_text))
-            
-        return ocr_texts
-    except ImportError:
-        print("\nOCR dependencies not found. To use OCR:")
-        print("1. Install Tesseract: brew install tesseract")
-        print("2. Install Python packages: poetry add pytesseract pdf2image")
-        return None
-    except Exception as e:
-        print(f"Error performing OCR: {e}")
-        return None
-
-def find_page_by_text(pdf, search_text, page_cache, ocr_texts=None):
-    """Find the page number containing the specified text.
-    Returns the page number (1-based index) or None if not found."""
-    
-    # Check if we've already found this text
-    if search_text in page_cache:
-        return page_cache[search_text]
-            
-    # First try normal text extraction
-    for i in range(len(pdf.pages)):
-        text = pdf.pages[i].extract_text()
-        if search_text in text:
-            page_number = i + 1  # Convert to 1-based index
-            page_cache[search_text] = page_number
-            # print(f"Found '{search_text}' on page {page_number}")
-            return page_number
-            
-    # If text not found and OCR texts available, search OCR texts
-    if ocr_texts:
-        for i, text in enumerate(ocr_texts):
-            if search_text in text:
-                page_number = i + 1  # Convert to 1-based index
-                page_cache[search_text] = page_number
-                print(f"Found '{search_text}' using OCR on page {page_number}")
-                return page_number
-                
-    print(f"WARNING: Text '{search_text}' not found in PDF using either method")
-    page_cache[search_text] = None  # Cache the failure too
-    return None
-
-def is_problematic_unicode(text):
-    """Check if text contains problematic Unicode values that indicate PDF encoding issues."""
-    if not text:
-        return True
-    # Check for common problematic Unicode patterns
-    if any(ord(c) > 0xf000 for c in text):  # Private Use Area unicode
-        return True
-    # Check if string is mostly unicode control/formatting characters
-    non_printable = sum(1 for c in text if ord(c) > 127)
-    if non_printable > len(text) / 2:
-        return True
-    return False
-
-def find_value_by_coordinates(page, row, data_type):
-    """Extract a value from a PDF page by coordinates."""
-    if page is None:
-        print("Invalid page")
-        return np.nan
-        
-    page_width = float(page.width)
-    page_height = float(page.height)
-    
-    # Get coordinates from row and convert to float
-    try:
-        x0 = float(row['x0']) if not pd.isna(row['x0']) else 0
-        y0 = float(row['y0']) if not pd.isna(row['y0']) else 0
-        x1 = float(row['x1']) if not pd.isna(row['x1']) else page_width
-        y1 = float(row['y1']) if not pd.isna(row['y1']) else page_height
-    except (ValueError, TypeError) as e:
-        print(f"Error converting coordinates to float: {e}")
-        return np.nan
-    
-    # Bound coordinates to page dimensions
-    x0 = max(0, min(x0, page_width))
-    x1 = max(0, min(x1, page_width))
-    y0 = max(0, min(y0, page_height))
-    y1 = max(0, min(y1, page_height))
-    
-    text = page.within_bbox((x0, y0, x1, y1)).extract_text()
-    
-    if data_type == 'text':
-        return text
-    else:
-        text = text.strip().replace(",", "")
-        if text == '' or is_problematic_unicode(text):
-            return np.nan
-        try:
-            return float(text)
-        except ValueError:
-            # If conversion fails, try alternate extraction
-            try:
-                # Try extracting with different settings
-                text = page.within_bbox((x0, y0, x1, y1)).extract_text(x_tolerance=3, y_tolerance=3)
-                text = text.strip().replace(",", "")
-                if text == '' or is_problematic_unicode(text):
-                    return np.nan
-                return float(text)
-            except ValueError:
-                return np.nan
-
-def find_value_by_text(page, row, data_type, ocr_texts=None):
-    """Extract a value from a PDF page by searching for text and getting a value from the same row or below."""
-    if page is None:
-        print("Invalid page")
+def find_value_by_text(page_text, row, data_type):
+    """Extract a value from OCR text by searching for text and getting a value from the same row or below."""
+    if not page_text:
+        print("Invalid page text")
         return np.nan if data_type == 'text' else 0
         
-    # First try normal text extraction
-    text = page.extract_text()
-    
-    # If OCR texts are available, try those too
-    if ocr_texts and page.page_number - 1 < len(ocr_texts):
-        ocr_text = ocr_texts[page.page_number - 1]
-        if ocr_text:
-            text = ocr_text  # Use OCR text if available
-    
     # For exports section, check if there are no exports
-    if "NUTRIENT EXPORTS" in text:
-        if "No solid nutrient exports entered" in text and "No liquid nutrient exports entered" in text:
+    if "NUTRIENT EXPORTS" in page_text:
+        if "No solid nutrient exports entered" in page_text and "No liquid nutrient exports entered" in page_text:
             return 0
 
-    item_order = int(row['item_order'])    
+    item_order = int(row['item_order']) if not pd.isna(row['item_order']) else -1
     # Look for the row text
-    if str(row['row_search_text']) in text:
+    if str(row['row_search_text']) in page_text:
         # Extract the text to the right or below where the string was found
-        extracted_text = extract_text_adjacent_to_phrase(page, row, data_type)
+        extracted_text = extract_text_adjacent_to_phrase(page_text, row, data_type)
         if extracted_text:
             if pd.isna(item_order) or item_order == -1:
                 return extracted_text.strip() # raw text
@@ -390,155 +102,157 @@ def find_value_by_text(page, row, data_type, ocr_texts=None):
                     return values[item_order]
     return np.nan if data_type == 'text' else 0
 
-def find_value_from_table(page, row, data_type, table_cache=None):
-    """Extract a value from a table in the PDF page based on row and column labels."""
-    if page is None:
-        print("Invalid page")
-        return np.nan
+def load_ocr_text(pdf_path):
+    """Load OCR text from file."""
+    # Get the directory containing the PDF file
+    pdf_dir = os.path.dirname(pdf_path)
+    # Get the parent directory (which contains both 'original' and 'ocr_output')
+    parent_dir = os.path.dirname(pdf_dir)
+    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     
-    row_search_text = row['row_search_text']
-    column_search_text = row['column_search_text']
+    # First try handwriting_ocr_output directory
+    handwriting_ocr_dir = os.path.join(parent_dir, 'handwriting_ocr_output')
+    text_file = os.path.join(handwriting_ocr_dir, f'{pdf_name}.txt')
+    
+    # If not found in handwriting_ocr_output, try ocr_output
+    if not os.path.exists(text_file):
+        ocr_dir = os.path.join(parent_dir, 'ocr_output')
+        text_file = os.path.join(ocr_dir, f'{pdf_name}.txt')
+    
+    if not os.path.exists(text_file):
+        print(f"OCR text file not found for {pdf_name}")
+        return None
+    
+    with open(text_file, 'r') as f:
+        text = f.read()
+    
+    # Return the entire text as a single string
+    return text
 
-    # Define table extraction settings based on find_value_by parameter
-    table_settings = {"snap_tolerance": 4}
-    if 'vert_lines' in row['find_value_by']:
-        table_settings["vertical_strategy"] = "lines"
+def find_page_by_text(ocr_texts, search_text, page_cache, pdf_path):
+    """Find the page number containing the specified text in OCR text.
+    Returns the page number (1-based index) or None if not found."""
     
-    # Create cache key from page number and settings
-    cache_key = (page.page_number, frozenset(table_settings.items()))
+    # Check if we've already found this text
+    if search_text in page_cache:
+        return page_cache[search_text]
     
-    # Try to get tables from cache first
-    if table_cache is not None and cache_key in table_cache:
-        tables = table_cache[cache_key]
-    else:
-        # Extract tables with appropriate settings
-        tables = page.extract_tables(table_settings)
-        if table_cache is not None:
-            table_cache[cache_key] = tables
+    # Clean up the search text for comparison
+    clean_search = ' '.join(search_text.split())
     
-    # Find the table containing the search text
-    target_table = None
-    for table in tables:
-        # Convert table to string representation to search
-        table_str = '\n'.join([' '.join(filter(None, row)) for row in table])
-        if row_search_text in table_str and column_search_text in table_str:
-            target_table = table
-            break
+    # Search OCR texts
+    for i, text in enumerate(ocr_texts):
+        # Clean up the page text for comparison
+        clean_page = ' '.join(text.split())
+        
+        if clean_search in clean_page:
+            page_number = i + 1  # Convert to 1-based index
+            page_cache[search_text] = page_number
+            return page_number
     
-    if target_table is None:
-        print(f"Table not found with search texts: {row_search_text}, {column_search_text}")
-        return np.nan
+    print(f"WARNING: Text '{search_text}' not found in text for {pdf_path}")
+    page_cache[search_text] = None  # Cache the failure too
+    return None
 
-    # Find row index - look for empty row_search_text or match
-    row_idx = None
-    if pd.isna(row_search_text) or row_search_text == '':
-        row_idx = 1  # Use first data row if no row search text
-    else:
-        for i, row in enumerate(target_table):
-            if row_search_text in ' '.join(filter(None, row)):
-                row_idx = i
-                break
-            
-    # Find column index
-    col_idx = None
-    header_row = target_table[0]  # Assume first row is header
-    for i, col in enumerate(header_row):
-        if col and column_search_text in col:
-            col_idx = i
-            break
-            
-    if row_idx is None or col_idx is None:
-        print(f"Could not find row_idx={row_idx} or col_idx={col_idx}")
-        return np.nan
-        
-    value = target_table[row_idx][col_idx] # value at intersection
-    
-    if value is None:
-        return np.nan
-        
-    value = str(value).strip()
-    if data_type == 'text':
-        return value
-    else:
+@contextlib.contextmanager
+def suppress_stderr():
+    """Temporarily suppress stderr output"""
+    stderr = sys.stderr
+    with open(os.devnull, 'w') as devnull:
+        sys.stderr = devnull
         try:
-            return float(value.replace(',', ''))
-        except (ValueError, AttributeError):
-            return np.nan
+            yield
+        finally:
+            sys.stderr = stderr
 
-def find_page_number(pdf, row, page_cache):
-    """Extract the page number for a parameter based on find_page_by method.
+def find_page_number(ocr_texts, row, page_cache, pdf_path):
+    """Extract the page number for a parameter based on page_search_text.
     Returns the page number and updated page cache."""
     
-    # Return None if find_page_by is NA
-    if pd.isna(row['find_page_by']):
+    # Return None if page_search_text is NA
+    if pd.isna(row['page_search_text']):
         return None, page_cache
         
-    if row['find_page_by'] == 'number':
-        page_number = int(row['page_number_or_text'])
-        page_cache[row['page_number_or_text']] = page_number
-        return page_number, page_cache
-    elif row['find_page_by'] == 'text':
-        search_text = row['page_number_or_text']
-        page_number = find_page_by_text(pdf, search_text, page_cache)
-        return page_number, page_cache
-    else:
-        print(f"Unknown find_page_by method: {row['find_page_by']}")
-        return None, page_cache
+    search_text = row['page_search_text']
+    page_number = find_page_by_text(ocr_texts, search_text, page_cache, pdf_path)
+    return page_number, page_cache
 
-def find_parameter_value(pdf, row, page_number=None, param_types=None, table_cache=None, ocr_texts=None):
-    """Extract a parameter value from a PDF based on the specified row from parameter_locations."""
+def find_parameter_value(ocr_text, row, param_types=None):
+    """Extract a parameter value from OCR text based on the specified row from parameter_locations."""
     # Return NA if find_value_by is NA
-    if pd.isna(row['find_value_by']):
+    if pd.isna(row['search_direction']):
         return np.nan
         
     data_type = param_types.get(row['parameter_key'], 'text')
     
-    # Skip if no valid page number
-    if page_number is None:
-        return np.nan if data_type == 'text' else 0
-        
     try:
-        # Convert from 1-based to 0-based index for pdfplumber
-        plumber_page_number = page_number - 1
-        if plumber_page_number < 0 or plumber_page_number >= len(pdf.pages):
-            print(f"WARNING: Invalid page number {page_number} for parameter {row['parameter_key']}")
-            return np.nan if data_type == 'text' else 0
+        # If we have a page_search_text, find the section after it
+        if not pd.isna(row['page_search_text']):
+            search_text = row['page_search_text']
+            clean_search = ' '.join(search_text.split())
+            clean_text = ' '.join(ocr_text.split())
             
-        # Get the page
-        page = pdf.pages[plumber_page_number]
-        
-        # Extract value using the page
-        if 'text' in row['find_value_by']:
-            value = find_value_by_text(page=page, row=row, data_type=data_type, ocr_texts=ocr_texts)
-        elif row['find_value_by'] == 'coordinates':
-            value = find_value_by_coordinates(page=page, row=row, data_type=data_type)
-        elif 'table' in row['find_value_by']:
-            value = find_value_from_table(page=page, row=row, data_type=data_type, table_cache=table_cache)
+            # Find the position of the search text
+            pos = clean_text.find(clean_search)
+            if pos != -1:
+                # Get the text after the search text
+                section_text = ocr_text[pos + len(search_text):]
+                
+                # Now look for the row_search_text in this section
+                if not pd.isna(row['row_search_text']):
+                    row_text = row['row_search_text']
+                    clean_row = ' '.join(row_text.split())
+                    clean_section = ' '.join(section_text.split())
+                    
+                    # Find the position of the row text
+                    row_pos = clean_section.find(clean_row)
+                    if row_pos != -1:
+                        # Get the text after the row text
+                        value_text = section_text[row_pos + len(row_text):]
+                        
+                        # Extract value using the value text
+                        search_direction = str(row['search_direction']).lower()
+                        if search_direction in ['right', 'below', 'table', 'coordinates']:
+                            value = find_value_by_text(page_text=value_text, row=row, data_type=data_type)
+                            return value
+            return np.nan if data_type == 'text' else 0
         else:
-            print(f"Unknown find_value_by method: {row['find_value_by']}")
+            # If no page_search_text, look for row_search_text in the entire text
+            if not pd.isna(row['row_search_text']):
+                row_text = row['row_search_text']
+                clean_row = ' '.join(row_text.split())
+                clean_text = ' '.join(ocr_text.split())
+                
+                # Find the position of the row text
+                row_pos = clean_text.find(clean_row)
+                if row_pos != -1:
+                    # Get the text after the row text
+                    value_text = ocr_text[row_pos + len(row_text):]
+                    
+                    # Extract value using the value text
+                    search_direction = str(row['search_direction']).lower()
+                    if search_direction in ['right', 'below', 'table', 'coordinates']:
+                        value = find_value_by_text(page_text=value_text, row=row, data_type=data_type)
+                        return value
             return np.nan if data_type == 'text' else 0
             
-        return value
-        
     except Exception as e:
-        print(f"Error processing page {page_number} for parameter {row['parameter_key']}: {str(e)}")
+        print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
         return np.nan if data_type == 'text' else 0
-    
-def identify_manifest_pages(pdf):
+
+def identify_manifest_pages(ocr_texts):
     """Identify pages that contain manifests by looking for the manifest header.
     Returns a list of starting page numbers (1-indexed) for each manifest."""
     manifest_starts = []
     manifest_header = "Manure / Process Wastewater Tracking Manifest"
     
-    for i, page in enumerate(pdf.pages):
-        text = page.extract_text()
-        if manifest_header in text and "NAME OF OPERATOR" in text.upper() or "OPERATOR INFORMATION" in text.upper():
-            # print('found manifest')
+    for i, text in enumerate(ocr_texts):
+        if manifest_header in text and ("NAME OF OPERATOR" in text.upper() or "OPERATOR INFORMATION" in text.upper()):
             manifest_starts.append(i + 1)  # Convert to 1-indexed
     
     return manifest_starts
 
-def process_manifest_pages(pdf, manifest_params):
+def process_manifest_pages(ocr_texts, manifest_params):
     """Process a pair of manifest pages and extract parameters."""
     manifest_data = {}
     
@@ -548,13 +262,13 @@ def process_manifest_pages(pdf, manifest_params):
     for _, row in manifest_params.iterrows():
         # Always try both pages for each parameter since layouts can vary
         for page_num in [0, 1]:  # 0-based page numbers
-            value = find_parameter_value(pdf, row, page_number=page_num+1, param_types={'text': 'text', 'numeric': 'numeric'})
+            value = find_parameter_value(ocr_texts[page_num], row, param_types={'text': 'text', 'numeric': 'numeric'})
             if value and not pd.isna(value):  # If we found a valid value, use it
                 manifest_data[row['parameter_key']] = value
                 break  # Stop looking for this parameter once found
     
     # Extract the date (always on first page)
-    text = pdf.pages[0].extract_text()
+    text = ocr_texts[0]
     date_match = re.search(r'Last date hauled:\s*(\d{2}/\d{2}/\d{4})', text)
     if date_match:
         manifest_data['Last Date Hauled'] = datetime.strptime(date_match.group(1), '%m/%d/%Y').date()
@@ -563,99 +277,63 @@ def process_manifest_pages(pdf, manifest_params):
     return manifest_data
 
 def extract_manifests(pdf_path, manifest_params):
-    """Extract all manifests from a PDF file."""
+    """Extract all manifests from OCR text."""
     manifests = []
     
     try:
-        with pdfplumber.open(pdf_path) as pdf:
-            # Each manifest is 2 pages
-            total_pages = len(pdf.pages)
-            manifest_starts = identify_manifest_pages(pdf)
-            print(f"\nFound {len(manifest_starts)} manifests in {pdf_path}")
+        # Load OCR text
+        ocr_texts = load_ocr_text(pdf_path)
+        if not ocr_texts:
+            return manifests
             
-            for i, start_page in enumerate(manifest_starts):
-                if start_page + 1 <= total_pages:  # Ensure we have both pages of the manifest
-                    print(f"Processing manifest {i+1} starting at page {start_page}")
-                    # Create a temporary PDF object with just these 2 pages
-                    manifest_pdf = type('obj', (), {'pages': pdf.pages[start_page-1:start_page+1]})
-                    
-                    # Process this manifest
-                    manifest_data = process_manifest_pages(manifest_pdf, manifest_params)
-                    if manifest_data:
-                        manifest_data['Page Numbers'] = f"{start_page}-{start_page+1}"
-                        manifests.append(manifest_data)
-                        print(f"Added manifest {i+1} to list")
-            
-            print(f"Total manifests processed: {len(manifests)}")
-            
+        # Each manifest is 2 pages
+        total_pages = len(ocr_texts)
+        manifest_starts = identify_manifest_pages(ocr_texts)
+        print(f"\nFound {len(manifest_starts)} manifests in {pdf_path}")
+        
+        for i, start_page in enumerate(manifest_starts):
+            if start_page + 1 <= total_pages:  # Ensure we have both pages of the manifest
+                print(f"Processing manifest {i+1} starting at page {start_page}")
+                # Process this manifest
+                manifest_data = process_manifest_pages(ocr_texts[start_page-1:start_page+1], manifest_params)
+                if manifest_data:
+                    manifest_data['Page Numbers'] = f"{start_page}-{start_page+1}"
+                    manifests.append(manifest_data)
+                    print(f"Added manifest {i+1} to list")
+        
+        print(f"Total manifests processed: {len(manifests)}")
+        
     except Exception as e:
         print(f"Error processing manifests in {pdf_path}: {e}")
         
     return manifests
 
-def save_manifests(manifests, output_path):
-    """Save manifests to a pickle file."""
-    print('saving manifests')
-    print(output_path)
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, 'wb') as f:
-        pickle.dump(manifests, f)
-
 def process_pdf(pdf_path, template_params, columns, param_types):
-    """Process a single PDF file and extract all parameters."""
+    """Process a single PDF file and extract all parameters from OCR text."""
     result = {col: None for col in columns}
     result['filename'] = os.path.basename(pdf_path)
-    print(f"Processing {pdf_path}")
     
-    # Load OCR texts if available
-    ocr_texts = None
-    ocr_dir = os.path.join(os.path.dirname(pdf_path), 'ocr_output')
-    if os.path.exists(ocr_dir):
-        pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-        text_file = os.path.join(ocr_dir, f'{pdf_name}_text.txt')
-        if os.path.exists(text_file):
-            with open(text_file, 'r') as f:
-                ocr_texts = f.read().split('PDF PAGE BREAK')
+    # Load OCR text
+    ocr_text = load_ocr_text(pdf_path)
+    if not ocr_text:
+        return result
     
-    with suppress_stderr(), pdfplumber.open(pdf_path) as pdf:
-        # First identify manifest pages
-        manifest_starts = identify_manifest_pages(pdf)
-        total_pages = len(pdf.pages)
-        
-        # If we found manifests, adjust the page range for the main report
-        main_report_pages = total_pages
-        if manifest_starts:
-            main_report_pages = manifest_starts[0] - 1
-            print(f"Found {len(manifest_starts)} manifests starting at page {manifest_starts[0]}")
-        
-        # Create a temporary PDF object with just the main report pages
-        main_pdf = type('obj', (), {'pages': pdf.pages[:main_report_pages]})
-        
-        # Initialize caches
-        page_cache = {}
-        table_cache = {}
-        
-        # Process main report parameters
-        for _, row in template_params.iterrows():
-            if not row['manifest_param']:  # Skip manifest parameters
-                param_key = row['parameter_key']
-                page_number, page_cache = find_page_number(main_pdf, row, page_cache)
-                # Pass table_cache only if we need it
-                if not pd.isna(row['find_value_by']) and 'table' in row['find_value_by']:
-                    value = find_parameter_value(main_pdf, row, page_number=page_number, param_types=param_types, table_cache=table_cache, ocr_texts=ocr_texts)
-                else:
-                    value = find_parameter_value(main_pdf, row, page_number=page_number, param_types=param_types, ocr_texts=ocr_texts)
-                result[param_key] = value
-        
-        # Process manifests if found
-        manifest_params = template_params[template_params['manifest_param']]
-        if len(manifest_starts) > 0 and not manifest_params.empty:
-            print(f"Processing {len(manifest_starts)} manifests with {len(manifest_params)} parameters")
-            manifests = extract_manifests(pdf_path, manifest_params)
-            if manifests:
-                result['manifests'] = manifests
-                print(f"Added {len(manifests)} manifests to result")
-            
+    # Process main report parameters
+    for _, row in template_params.iterrows():
+        if not row['manifest_param']:  # Skip manifest parameters
+            param_key = row['parameter_key']
+            value = find_parameter_value(ocr_text, row, param_types=param_types)
+            result[param_key] = value
+    
+    # Process manifests if found
+    manifest_params = template_params[template_params['manifest_param']]
+    if not manifest_params.empty:
+        print(f"Processing manifests with {len(manifest_params)} parameters")
+        manifests = extract_manifests(pdf_path, manifest_params)
+        if manifests:
+            result['manifests'] = manifests
+            print(f"Added {len(manifests)} manifests to result")
+    
     return result
 
 def main(test_mode=False, process_manifests=True):
@@ -708,7 +386,30 @@ def main(test_mode=False, process_manifests=True):
                     name = f"{county.capitalize()}_{year}_{template}"
                     
                     template_params = parameter_locations[parameter_locations['template'].isin([template, 'manifest'])]
-                    pdf_files = glob.glob(os.path.join(folder, '*.pdf'))
+                    
+                    # Look for OCR text files in the ocr_output folder
+                    ocr_folder = os.path.join(folder, 'ocr_output')
+                    handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
+                    
+                    if not os.path.exists(ocr_folder) and not os.path.exists(handwriting_ocr_folder):
+                        print(f"No OCR output folders found in {folder}")
+                        continue
+                        
+                    # Get list of PDF files that have corresponding OCR text files
+                    pdf_files = []
+                    for text_file in glob.glob(os.path.join(ocr_folder, '*.txt')):
+                        pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
+                        pdf_path = os.path.join(folder, 'original', pdf_name)
+                        if os.path.exists(pdf_path):
+                            pdf_files.append(pdf_path)
+                    
+                    # Also check handwriting_ocr_output if it exists
+                    if os.path.exists(handwriting_ocr_folder):
+                        for text_file in glob.glob(os.path.join(handwriting_ocr_folder, '*.txt')):
+                            pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
+                            pdf_path = os.path.join(folder, 'original', pdf_name)
+                            if os.path.exists(pdf_path) and pdf_path not in pdf_files:
+                                pdf_files.append(pdf_path)
                     
                     if test_mode:
                         max_cores = 1
@@ -751,7 +452,8 @@ def main(test_mode=False, process_manifests=True):
                             # Save manifests to pickle
                             manifest_pickle = os.path.join(output_folder, f"{name}_manifests.pickle")
                             print(f"Saving manifests to {manifest_pickle}")
-                            save_manifests(all_manifests, manifest_pickle)
+                            with open(manifest_pickle, 'wb') as f:
+                                pickle.dump(all_manifests, f)
                             
                             # Save manifests to CSV
                             manifest_df = pd.DataFrame(all_manifests)
@@ -844,6 +546,38 @@ def calculate_all_metrics(df):
     except:
         df["Ratio of Wastewater to Milk (L/L)"] = np.nan
 
+def convert_to_float_list(text, ignore_before=None):
+    """Convert text to a list of float numbers, handling various formats and separators."""
+    if not text:
+        return []
+        
+    # Split text by whitespace and remove empty strings
+    components = [c for c in text.split() if c]
+    
+    float_numbers = []
+    for component in components:
+        # If ignore_before is specified and is a string, only take text after that character
+        if ignore_before and isinstance(component, str) and isinstance(ignore_before, str):
+            if ignore_before in component:
+                _, component = component.split(ignore_before, 1)
+                component = component.strip()
+            
+        # Remove any non-numeric characters except decimal points and negative signs
+        cleaned = ''.join(c for c in component if c.isdigit() or c in '.-')
+        
+        # Skip if we don't have any digits left
+        if not any(c.isdigit() for c in cleaned):
+            continue
+            
+        try:
+            # Convert the cleaned component to a float and append to the list
+            float_numbers.append(float(cleaned))
+        except ValueError:
+            # Skip invalid numbers but continue processing
+            continue
+    
+    return float_numbers
+
 if __name__ == "__main__":
-    # Set test_mode=True to process only 5 files
-    main(test_mode=True, process_manifests=True)
+    # Set test_mode=True to process only 2 files
+    main(test_mode=False, process_manifests=True)

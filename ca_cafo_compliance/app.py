@@ -65,12 +65,13 @@ def load_data():
     combined_df = pd.concat([combined_df, estimates], axis=1)
     
     return combined_df
+
 def create_map(df, selected_year):
     """Create a map visualization of facilities with regional board boundaries."""
     year_df = df[df['Year'] == str(selected_year)]
     
     # Create the base map with facilities
-    fig = px.scatter_mapbox(
+    fig = px.scatter_map(
         year_df[year_df['Latitude'].notna()],
         lat='Latitude',
         lon='Longitude',
@@ -126,34 +127,26 @@ def create_map(df, selected_year):
     return fig
 
 def create_comparison_plots(df):
-    """Create comparison plots between estimated and actual values showing largest discrepancies."""
+    """Create comparison plots between estimated and reported values."""
     fig = make_subplots(
-        rows=2, cols=2,
+        rows=3, cols=1,
         subplot_titles=(
             "Manure Generation (tons/year)",
             "Nitrogen Generation (lbs/year)",
-            "Wastewater to Milk Ratio",
-            "Nitrogen Estimate"
-        )
+            "Wastewater Generation (gallons/year)"
+        ),
+        vertical_spacing=0.1
     )
     
     # Color scheme for consistency
     estimated_color = 'rgb(135, 206, 235)'  # light blue
     reported_color = 'rgb(0, 71, 171)'      # dark blue
+    ucce_color = 'rgb(144, 238, 144)'       # light green
     
     # 1. Manure Generation - Top 10 discrepancies
-    df['Manure_Discrepancy'] = abs(df['Estimated Total Manure (tons)'] - df['Total Manure Excreted (tons)'])
+    df['Manure_Discrepancy'] = abs(df['Total Manure Excreted (tons)'] - df['Total Manure Excreted (tons)'])
     top_manure = df.nlargest(10, 'Manure_Discrepancy')
     
-    fig.add_trace(
-        go.Bar(
-            name="Estimated",
-            x=top_manure['Dairy Name'],
-            y=top_manure['Estimated Total Manure (tons)'],
-            marker_color=estimated_color
-        ),
-        row=1, col=1
-    )
     fig.add_trace(
         go.Bar(
             name="Reported",
@@ -164,77 +157,60 @@ def create_comparison_plots(df):
         row=1, col=1
     )
     
-    # 2. Nitrogen Generation - Top 10 discrepancies
-    df['Nitrogen_Discrepancy'] = abs(df['USDA Nitrogen Estimate (lbs)'] - 
+    # 2. Nitrogen Generation - Top 10 discrepancies with all three estimates
+    df['Nitrogen_Discrepancy'] = abs(df['Total Dry Manure Generated N After Ammonia Losses (lbs)'] - 
                                    df['Total Dry Manure Generated N After Ammonia Losses (lbs)'])
     top_nitrogen = df.nlargest(10, 'Nitrogen_Discrepancy')
     
     fig.add_trace(
         go.Bar(
-            name="Estimated (USDA)",
-            x=top_nitrogen['Dairy Name'],
-            y=top_nitrogen['USDA Nitrogen Estimate (lbs)'],
-            marker_color=estimated_color,
-            showlegend=False
-        ),
-        row=1, col=2
-    )
-    fig.add_trace(
-        go.Bar(
-            name="Reported",
+            name="Reported N",
             x=top_nitrogen['Dairy Name'],
             y=top_nitrogen['Total Dry Manure Generated N After Ammonia Losses (lbs)'],
-            marker_color=reported_color,
-            showlegend=False
-        ),
-        row=1, col=2
-    )
-    
-    # 3. Wastewater to Milk Ratio - Top 10 outliers
-    # For ratio, we'll just show the most extreme values since it's a single metric
-    top_ratio = df.nlargest(10, 'Wastewater to Milk Ratio')
-    
-    fig.add_trace(
-        go.Bar(
-            name="Ratio",
-            x=top_ratio['Dairy Name'],
-            y=top_ratio['Wastewater to Milk Ratio'],
-            marker_color=reported_color,
-            showlegend=False
+            marker_color=reported_color
         ),
         row=2, col=1
     )
-    
-    # 4. USDA vs UCCE Nitrogen - Top 10 discrepancies
-    df['USDA_UCCE_Discrepancy'] = abs(df['USDA Nitrogen Estimate (lbs)'] - df['UCCE Nitrogen Estimate (lbs)'])
-    top_estimates = df.nlargest(10, 'USDA_UCCE_Discrepancy')
-    
     fig.add_trace(
         go.Bar(
             name="USDA Estimate",
-            x=top_estimates['Dairy Name'],
-            y=top_estimates['USDA Nitrogen Estimate (lbs)'],
-            marker_color=estimated_color,
-            showlegend=False
+            x=top_nitrogen['Dairy Name'],
+            y=top_nitrogen['USDA Nitrogen Estimate (lbs)'],
+            marker_color=estimated_color
         ),
-        row=2, col=2
+        row=2, col=1
     )
     fig.add_trace(
         go.Bar(
             name="UCCE Estimate",
-            x=top_estimates['Dairy Name'],
-            y=top_estimates['UCCE Nitrogen Estimate (lbs)'],
+            x=top_nitrogen['Dairy Name'],
+            y=top_nitrogen['UCCE Nitrogen Estimate (lbs)'],
+            marker_color=ucce_color
+        ),
+        row=2, col=1
+    )
+    
+    # 3. Wastewater Generation - Top 10 discrepancies
+    df['Wastewater_Discrepancy'] = abs(df['Total Process Wastewater Generated (gals)'] - 
+                                     df['Total Process Wastewater Generated (gals)'])
+    top_wastewater = df.nlargest(10, 'Wastewater_Discrepancy')
+    
+    fig.add_trace(
+        go.Bar(
+            name="Reported",
+            x=top_wastewater['Dairy Name'],
+            y=top_wastewater['Total Process Wastewater Generated (gals)'],
             marker_color=reported_color,
             showlegend=False
         ),
-        row=2, col=2
+        row=3, col=1
     )
     
     fig.update_layout(
-        height=1000,  # Made taller to accommodate long facility names
+        height=1500,  # Made taller to accommodate three plots
         showlegend=True,
         barmode='group',
-        title_text="Largest Discrepancies Between Estimated and Reported Values",
+        title_text="Comparison of Reported Values",
         legend=dict(
             orientation="h",
             yanchor="bottom",
@@ -249,9 +225,8 @@ def create_comparison_plots(df):
     
     # Add y-axis labels
     fig.update_yaxes(title_text="Tons per Year", row=1, col=1)
-    fig.update_yaxes(title_text="Pounds per Year", row=1, col=2)
-    fig.update_yaxes(title_text="Ratio", row=2, col=1)
-    fig.update_yaxes(title_text="Pounds per Year", row=2, col=2)
+    fig.update_yaxes(title_text="Pounds per Year", row=2, col=1)
+    fig.update_yaxes(title_text="Gallons per Year", row=3, col=1)
     
     return fig
 
@@ -294,6 +269,10 @@ def main():
             st.plotly_chart(create_map(filtered_df, map_year), use_container_width=True)
         else:
             st.warning("No location data available for the selected filters.")
+        
+        # Add spacing between map and comparison charts
+        st.markdown("---")  # Add a horizontal divider
+        st.markdown("<br>", unsafe_allow_html=True)  # Add some vertical space
         
         # Comparison plots
         st.subheader("Estimated vs Actual Comparisons")

@@ -1,0 +1,181 @@
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+Field E - 11/04/2022: Wheat, silage, boot stage
+
+Application date Application method
+
+11/12/2022 Surface (irrigation)
+
+Source description
+
+Well 5
+Application event totals
+
+12/10/2022 Surface (irrigation)
+
+Source description
+
+Lagoon
+Well 5
+Application event totals
+
+02/13/2023 Surface (irrigation)
+
+Source description
+
+Lagoon
+Well 5
+Application event totals
+
+04/23/2023 Surface (irrigation)
+
+Source description
+
+Lagoon
+Well 5
+Application event totals
+
+Field E - 05/25/2023: Milo
+Field name: Field E
+
+Material type
+
+Ground water
+
+Material type
+
+Process wastewater
+Ground water
+
+Material type
+
+Process wastewater
+Ground water
+
+Material type
+
+Process wastewater
+Ground water
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (Ibs/acre)
+4.96
+4.96
+
+No precipitation
+
+N (Ibs/acre)
+
+60.09
+3.37
+63.47
+
+No precipitation
+
+N (Ibs/acre)
+
+113.66
+3.17
+116.84
+
+No precipitation
+
+N (Ibs/acre)
+
+94.72
+3.17
+97.89
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+9.27 139.81
+0.00 0.00
+9.27 139.81
+
+No precipitation
+
+P (Ibs/acre)
+
+27.12 227.40
+0.00 0.00
+27.12 227.40
+
+No precipitation
+
+P (Ibs/acre)
+
+22.60 189.50
+0.00 0.00
+22.60 189.50
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+Precipitation 24 hours following
+No precipitation
+Amount
+
+837.86 12,728,555.00 gal
+
+837.86
+No precipitation
+
+Amount
+
+634.49 2,036,569.00 gal
+569.75 8,655,417.00 gal
+1,204.23
+
+No precipitation
+
+Amount
+
+1,250.84 3,054,853.00 gal
+536.23 8,146,275.00 gal
+1,787.08
+
+No precipitation
+
+Amount
+
+1,042.37 2,545,711.00 gal
+536.23 8,146,275.00 gal
+1,578.60
+
+Crop: Milo
+
+Plant date: 05/25/2023
+
+Application date Application method
+
+06/24/2024 13:37:32
+
+Precipitation 24 hours prior
+
+Precipitation during application
+
+Ron Verhoeven Family Dairy | 4975 Ave 120 | Corcoran, CA 93212 | Tulare County | Tulare Basin
+
+Precipitation 24 hours following
+
+Page 19 of 46

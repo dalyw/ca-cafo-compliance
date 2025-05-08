@@ -1,0 +1,38 @@
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+22J0462
+Sample and source description: 22J0462
+
+Sample date: 10/05/2022 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 263.00 204.00 0.00 2.20 40.90 617.00 183.00 124.00 294.00 1,970.00 0.00 22.40 396.00 2,800
+DL 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 10
+22C0859
+Sample and source description: 22C0859
+Sample date: 03/28/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 333.00 220.00 0.00 1.40 79.80 669.00 3,680
+DL 0.01 0.01 0.01 0.01 0.01 0.01 10
+23E0435
+Sample and source description: 23E0435
+Sample date: 05/03/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 456.00 263.00 0.00 1.00 102.00 922.00 235.00 147.00 349.00 2,970.00 0.00 70.50 706.00 5,040
+DL 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 10
+23F0717
+Sample and source description: 23F0717
+Sample date: 06/06/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 272.00 244.00 0.00 1.10 60.40 618.00 169.00 110.00 261.00 2,410.00 0.00 68.30 423.00 3,180
+DL 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 10
+
+Ron Verhoeven Family Dairy | 4975 Ave 120 | Corcoran, CA 93212 | Tulare County | Tulare Basin
+
+06/24/2024 13:37:32
+
+Page 34 of 46

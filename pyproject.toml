@@ -3,12 +3,12 @@ name = "ca-cafo-compliance"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.2.3"
 matplotlib = "^3.10.1"
-pdfplumber = "^0.11.6"
 pypdf = "^5.4.0"
 streamlit = "^1.45.0"
 plotly = "^6.0.1"
@@ -16,9 +16,11 @@ pytesseract = "^0.3.13"
 pdf2image = "^1.17.0"
 geopy = "^2.4.1"
 geopandas = "^1.0.1"
+opencv-python = "^4.9.0"
+numpy = "^1.26.4"
 
 [tool.poetry.dev-dependencies]
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

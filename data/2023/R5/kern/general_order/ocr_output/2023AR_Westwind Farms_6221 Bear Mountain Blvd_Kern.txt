@@ -1,0 +1,5682 @@
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+
+Physical address of dairy:
+
+Westwind Farms
+
+6221 Bear Mountain Blvd. Bakersfield Kern 93313
+Number and Street City County Zip Code
+Street and nearest cross street (if no address):
+Date facility was originally placed in operation: 01-01-2000
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+0184-0460-0008-0000
+B. OPERATORS
+Adam Westenbroek
+Operator Name: Adam Westenbroek Telephone no.: (661) 477-2973
+Landline Cellular
+6221 Bear Mountain Blvd. Bakersfield Kern 93313
+Mailing Address Number and Street City County Zip Code
+C. OWNERS
+Adam Westenbroek
+Owner Name: Adam Westenbroek Telephone no.: (661) 477-2973
+Landline Cellular
+6221 Bear Mountain Blvd. Bakersfield Kern 93313
+Mailing Address Number and Street City County Zip Code
+
+PDF PAGE BREAK 1
+A. HERD INFORMATION
+
+Milk Cows Dry Cows Bred Heifers (15-24 mo.) Heifers (7-14 mo.to breeding) Calves (4-6 mo.) Calves (0-3 mo.)
+Number open confinement 1,098 180 74 0 0 0
+Number under roof 0 0 0 0 0 0
+Maxiumu number 1,100 185 90 0 0 0
+Average number 1,098 180 74 0 0 0
+Average live weight (Ibs) 1400 1450 1000 300
+Predominant milk cow breed: Holsteins
+Average Milk Production: 70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd: 31,568.81 tons per reporting period
+Total nitrogen from manure: 408,119.95 /bs per reporting period After ammonia losses (30% loss applied): 285,683.96 /bs per reporting period
+Total phosphorus from manure: 67,866.70 Ibs per reporting period
+Total potassium from manure: 210,277.13 Ibs per reporting period
+Total salt from manure: 558,384.30 /bs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated: 9,347,600.58 gallons
+. —_—__,_ 9,347,600.58 gallons applied
+Total nitrogen generated: 9,399.40 Ibs
+———_ + 0 gallons exported
+Total phosphorus generated: 21,104,814.05 /bs |
+—— - 0 gallons imported
+Total potassium generated: 9,223.20 Ibs
+————_ = 9,347,600.58 gallons generated
+Total salt generated: 78,181.56 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description Type
+
+Canal - Farmers Surface Water
+WwW-1 Ground Water
+WwW-2 Ground Water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+
+No process wastewater nutrient imports entered.
+
+PDF PAGE BREAK 2
+No commercial or other nutrient imports entered.
+
+G. NUTRIENT EXPORTS
+
+Date
+
+01/11/2023
+08/15/2023
+09/13/2023
+10/28/2023
+
+Material type
+
+Separator solids
+Separator solids
+Separator solids
+
+Separator solids
+
+Quantity
+
+7,964 tons
+4,882 tons
+6,048 tons
+5,959 tons
+
+No process wastewater nutrient exports entered.
+
+Material type
+Dry Manure
+
+Process wastewater
+
+Total exports for all materials
+
+Reporting basis
+as-is
+as-is
+as-is
+
+as-is
+
+N (Ibs)
+1,088,669.40
+0.00
+
+1,088,669.40
+
+Moisture (%)
+65.2
+
+68.1
+
+65.3
+
+65
+
+P (Ibs)
+360,203.20
+0.00
+
+360,203.20
+
+N (mg/kg)
+20,800.00
+22,870.00
+22,870.00
+21,600.00
+
+K (Ibs)
+1,002,605.18
+0.00
+
+1,002,605.18
+
+P (mg/kg)
+8,960.00
+6,220.00
+6,220.00
+6,840.00
+
+TDS (%)
+20,121,800.00
+0.00
+
+20,121,800.00
+
+K (mg/kg)
+32,120.00
+7,310.00
+7,310.00
+27,790.00
+
+TFS (%)
+45.00
+32.00
+32.00
+50.00
+
+PDF PAGE BREAK 3
+A. LIST OF LAND APPLICATION AREAS
+
+Field name Controlled acres Cropable acres Total harvests Type of waste applied Parcel number
+
+281 31.28 31.28 2 BOTH 0184-0460-0008-0000
+282 39.72 37.00 2 BOTH 0184-0460-0008-0000
+283 37.73 36.00 2 BOTH 0184-0460-0008-0000
+284 38.71 37.00 2 BOTH 0184-0460-0008-0000
+285 14.92 14.47 2 BOTH 0184-0460-0008-0000
+286 79.41 75.00 2 BOTH 0184-0460-0008-0000
+Totals for areas that were used for application 241.77 230.75 12.00
+
+Totals for areas that were not used for application 11.02 11.02
+
+Land application area totals 241.77 241.77 12.00
+
+PDF PAGE BREAK 4
+Field Name: 281
+
+10/01/2022: Triticale
+
+Crop: Triticale
+Harvest date Yield
+05/01/2023 633.11 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+05/10/2023: Corn, Late Silage
+
+Acres planted: 31.28 Plant date: 10/01/2022
+Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+As-is 0.00 6,624.00 1,440.00 14,760.00 0.01 0.00
+
+Yield (tons/acre)
+26.00
+20.24
+
+Total N (Ibs/acre)
+358.80
+268.14
+
+Acres planted:
+
+Crop: Corn, Late Silage
+Harvest date Yield
+10/24/2023 582.43 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+Reporting basis Density (Ibs/cu ft) Moisture (%)
+As-is 0.00
+
+Yield (tons/acre)
+23.00
+18.62
+
+Total N (Ibs/acre)
+736.00
+238.87
+
+31.28
+
+Total P (Ibs/acre) Total K (Ibs/acre) Salt (Ibs/acre)
+
+44.20 195.00 520.00
+58.29 597.48 0.00
+Plant date: 05/10/2023
+N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+6,414.40 1,284.40 7,406.20 34.20 0.00
+
+Total P (Ibs/acre)
+174.80
+47.83
+
+Total K (Ibs/acre) Salt (Ibs/acre)
+920.00 460.00
+275.81 0.00
+
+PDF PAGE BREAK 5
+Field Name: 282
+
+10/01/2022: Triticale
+
+Acres planted: 37
+
+Crop: Triticale
+Harvest date Yield
+05/16/2023 819.55 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+05/10/2023: Corn, Late Silage
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+26.00
+22.15
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+358.80
+315.77
+
+Acres planted:
+
+Crop: Corn, Late Silage
+Harvest date Yield
+10/07/2023 808.45 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+23.00
+21.85
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+736.00
+206.25
+
+Plant date:
+
+N (mg/kg)
+7,128.00
+
+Total P (Ibs/acre)
+44.20
+38.28
+
+37
+
+N (mg/kg)
+4,719.60
+
+Total P (Ibs/acre)
+174.80
+45.50
+
+10/01/2022
+
+P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+
+864.00 11,160.00 0.00 0.00
+Total K (Ibs/acre) Salt (Ibs/acre)
+195.00 520.00
+494.39 0.00
+
+Plant date: 05/10/2023
+
+P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+
+1,041.20 7,174.40 26.60 0.00
+Total K (Ibs/acre) Salt (Ibs/acre)
+920.00 460.00
+313.52 0.00
+
+PDF PAGE BREAK 6
+Field Name: 283
+
+10/01/2022: Triticale
+
+Acres planted: 36
+
+Crop: Triticale
+Harvest date Yield
+05/09/2023 879.48 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+05/10/2023: Corn, Late Silage
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+26.00
+24.43
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+358.80
+311.34
+
+Acres planted:
+
+Crop: Corn, Late Silage
+Harvest date Yield
+09/16/2023 768.96 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+23.00
+21.36
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+736.00
+219.97
+
+Plant date:
+
+N (mg/kg)
+6,372.00
+
+Total P (Ibs/acre)
+44.20
+87.95
+
+36
+
+N (mg/kg)
+5,149.00
+
+Total P (Ibs/acre)
+174.80
+52.43
+
+10/01/2022
+P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+1,800.00 18,720.00 0.01 0.00
+
+Plant date:
+
+P (mg/kg)
+1,227.40
+
+Total K (Ibs/acre)
+
+Salt (Ibs/acre)
+
+195.00 520.00
+
+914.66 0.00
+05/10/2023
+K (mg/kg) Salt (mg/kg) TFS (%)
+6,433.40 26.60 0.00
+
+Total K (Ibs/acre)
+920.00
+274.83
+
+Salt (Ibs/acre)
+460.00
+0.00
+
+PDF PAGE BREAK 7
+Field Name: 284
+
+10/01/2022: Triticale
+
+Acres planted: 37
+
+Crop: Triticale
+Harvest date Yield
+05/13/2023 825.10 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+05/10/2023: Corn, Late Silage
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+26.00
+22.30
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+358.80
+293.82
+
+Acres planted:
+
+Crop: Corn, Late Silage
+Harvest date Yield
+10/07/2023 808.45 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+Reporting basis
+
+As-is
+
+Yield (tons/acre)
+23.00
+21.85
+
+Density (Ibs/cu ft)
+
+Moisture (%)
+0.00
+
+Total N (Ibs/acre)
+736.00
+225.18
+
+Plant date:
+
+N (mg/kg)
+6,588.00
+
+Total P (Ibs/acre)
+44.20
+91.52
+
+37
+
+N (mg/kg)
+5,152.80
+
+Total P (Ibs/acre)
+174.80
+60.94
+
+10/01/2022
+P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+2,052.00 13,680.00 0.00 0.00
+
+Plant date:
+
+P (mg/kg)
+1,394.60
+
+Total K (Ibs/acre)
+
+Salt (Ibs/acre)
+
+195.00 520.00
+
+610.13 0.00
+05/10/2023
+K (mg/kg) Salt (mg/kg) TFS (%)
+7,258.00 26.60 0.00
+
+Total K (Ibs/acre)
+920.00
+317.17
+
+Salt (Ibs/acre)
+460.00
+0.00
+
+PDF PAGE BREAK 8
+Field Name: 285
+
+10/01/2022: Triticale
+
+Crop: Triticale Acres planted: 14.47 Plant date: 10/01/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+05/13/2023 244.69 ton As-is 0.00 6,876.00 1,656.00 17,280.00 0.00 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 26.00 358.80 44.20 195.00 520.00
+Total actual harvest content 16.91 232.55 56.01 584.41 0.00
+
+05/10/2023: Corn, Late Silage
+
+Crop: Corn, Late Silage Acres planted: 14.47 Plant date: 05/10/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+09/15/2023 324.42 ton As-is 0.00 5,684.80 1,018.40 6,224.40 22.80 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 23.00 736.00 174.80 920.00 460.00
+
+Total actual harvest content 22.42 254.91 45.67 279.10 0.00
+
+PDF PAGE BREAK 9
+Field Name: 286
+
+10/01/2022: Triticale
+
+Crop: Triticale Acres planted: 75 Plant date: 10/01/2022
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+05/10/2023 1,638.00 ton As-is 0.00 6,444.00 1,404.00 14,400.00 0.00 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 26.00 358.80 44.20 195.00 520.00
+Total actual harvest content 21.84 281.47 61.33 628.99 0.00
+
+05/10/2023: Corn, Late Silage
+
+Crop: Corn, Late Silage Acres planted: 75 Plant date: 05/10/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+09/14/2023 1,843.50 ton As-is 0.00 5,426.40 1,276.80 7,451.80 30.40 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 23.00 736.00 174.80 920.00 460.00
+
+Total actual harvest content 24.58 266.76 62.77 366.33 0.00
+
+PDF PAGE BREAK 10
+A. LAND APPLICATIONS
+
+Fieldname: 281 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+05/10/2023: Corn, Late Silage
+
+Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+Application date
+05/01/2023
+
+Source description
+Atmospheric Deposition
+Corral Solids
+Application event totals
+
+05/02/2023
+
+Source description
+Well Water
+Application event totals
+
+05/25/2023
+
+Source description
+Canal Water
+Application event totals
+
+06/11/2023
+
+Source description
+Well Water
+
+Lagoon Water Effluent
+Application event totals
+
+06/29/2023
+
+Source description
+Canal Water
+Application event totals
+
+07/17/2023
+
+Source description
+
+Surface (Irrigation)
+
+Material type
+Atmospheric deposition
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+14.00 0.00
+254.13 69.12
+268.13 69.12
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,133.01
+0.00 1,133.01
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+
+18.63 42,962.93
+18.63 42,962.93
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,359.62
+0.00 1,359.62
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+81.23 3,555.84
+81.23 3,555.84
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.41 348.45
+1.41 348.45
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+29,684.93 113.30
+29,684.93 113.30
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.59 394.29
+19.62 160.72
+21.21 555.01
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+35,621.92 135.96
+35,621.92 135.96
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+No precipitation
+
+Amount
+437.92 Lbs
+187.68 ton
+
+No precipitation
+
+Amount
+4,503,869.45 gal
+
+No precipitation
+
+Amount
+4,246,930.36 gal
+
+No precipitation
+
+Amount
+5,096,316.43 gal
+579,281.29 gal
+
+No precipitation
+
+Amount
+5,096,316.43 gal
+
+No precipitation
+
+Amount
+
+PDF PAGE BREAK 11
+Well Water
+Application event totals
+
+08/04/2023
+
+Source
+description
+
+Well Water
+
+Un 32
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Application event
+totals
+
+08/21/2023
+
+Source description
+Canal Water
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+Application event totals
+
+11/08/2022
+
+Source description
+Canal Water
+Application event totals
+
+12/06/2022
+
+Source description
+Well Water
+Application event totals
+
+01/05/2023
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+17.70 0.00
+17.70 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,296.17
+0.00 1,296.17
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+236.59 83.78
+236.59 83.78
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.99 0.00
+0.99 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.28 0.00
+0.28 0.00
+
+No precipitation
+
+1.52 375.89
+1.52 375.89
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.55 383.12
+
+0.00 0.00
+
+1.55 383.12
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+33,959.56 129.62
+33,959.56 129.62
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+251.86 2,374.40
+251.86 2,374.40
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+23,554.99 142.49
+23,554.99 142.49
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.78 498.03
+1.78 498.03
+
+No precipitation
+
+Precipitation during application
+
+4,858,488.15 gal
+
+No precipitation
+
+Amount
+4,951 ,920.74 gal
+
+156.40 Gal.
+
+No precipitation
+
+Amount
+4,858,488.15 gal
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+156.40 ton
+
+No precipitation
+
+Amount
+3,338,087.32 gal
+
+No precipitation
+Amount
+
+4,945,125.74 gal
+
+No precipitation
+
+PDF PAGE BREAK 12
+Source description
+Well Water
+Application event totals
+
+01/20/2023
+
+Source
+description
+
+Canal Water
+Un 32
+
+Application event
+totals
+
+02/17/2023
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+03/19/2023
+
+Source description
+Lagoon Water Effluent
+Well Water
+
+Application event totals
+
+04/15/2023
+
+Source description
+Canal Water
+Application event totals
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Process wastewater
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+1.24 0.00
+35.39 0.00
+36.63 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+35.39 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+14.49 28,194.34
+0.00 0.00
+14.49 28,194.34
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+1.20 0.00
+1.20 0.00
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.17 289.01
+1.17 289.01
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+29,488.69 178.38
+
+0.00 0.00
+29,488.69 178.38
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.15 283.56
+
+0.00 0.00
+
+1.15 283.56
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+10.81 78.14
+
+1.56 387.06
+
+12.37 465.20
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+28,619.62 173.12
+28,619.62 173.12
+
+Amount
+3,735,599.74 gal
+
+No precipitation
+
+Amount
+4,178,979.54 gal
+
+312.80 Gal.
+
+No precipitation
+
+Amount
+3,665, 100.95 gal
+
+312.80 Gal.
+
+No precipitation
+
+Amount
+395,813.90 gal
+5,002,883.85 gal
+
+No precipitation
+
+Amount
+4,055,818.58 gal
+
+PDF PAGE BREAK 13
+Fieldname: 282 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+05/10/2023: Corn, Late Silage
+
+Application date
+05/01/2023
+
+Source description
+Corral Solids
+Atmospheric Deposition
+Application event totals
+
+05/02/2023
+
+Source description
+Canal Water
+Application event totals
+
+05/25/2023
+
+Source description
+Well Water
+Application event totals
+
+06/11/2023
+
+Source description
+Canal Water
+
+Lagoon Water Effluent
+Application event totals
+
+06/29/2023
+
+Source description
+Well Water
+Application event totals
+
+07/17/2023
+
+Source description
+Well Water
+Application event totals
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+Atmospheric deposition
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+211.78 57.60
+14.00 0.00
+225.78 57.60
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,033.08
+0.00 1,033.08
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,507.13
+33.32 76,854.51
+33.32 78,361.64
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+67.69 2,963.20
+0.00 0.00
+
+67.69 2,963.20
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+27,066.72 103.31
+27,066.72 103.31
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.28 315.63
+1.28 315.63
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+39,486.89 150.71
+35.09 287.51
+39,521.98 438.22
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.41 348.42
+1.41 348.42
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.59 394.55
+1.59 394.55
+
+Precipitation during application
+
+Precipitation 24 hours following
+
+No precipitation
+
+Amount
+185.00 ton
+518.00 Lbs
+
+No precipitation
+
+Amount
+4,580,466.37 gal
+
+No precipitation
+
+Amount
+4,825,615.22 gal
+
+No precipitation
+
+Amount
+6,682,316.70 gal
+1,225,744.48 gal
+
+No precipitation
+
+Amount
+5,326,964.87 gal
+
+No precipitation
+
+Amount
+6,032,270.43 gal
+
+PDF PAGE BREAK 14
+08/04/2023
+
+Source description
+Canal Water
+Application event totals
+
+08/21/2023
+
+Source description
+Well Water
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+Application event totals
+
+11/02/2022
+
+Source description
+Canal Water
+Application event totals
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+N (lbs/acre)
+
+0.00
+0.00
+
+N (lbs/acre)
+
+0.00
+0.00
+
+N (lbs/acre)
+
+236.59
+236.59
+
+N (lbs/acre)
+
+1.21
+1.21
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+1,338.31 35,063.84 133.83
+1,338.31 35,063.84 133.83
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 1.76 435.62
+0.00 1.76 435.62
+
+Precipitation 24 hours prior
+No precipitation
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+83.78 251.86 2,374.40
+83.78 251.86 2,374.40
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 28,769.46 174.03
+0.00 28,769.46 174.03
+
+No precipitation
+
+Amount
+5,933,808.94 gal
+
+No precipitation
+
+Amount
+6,660,213.28 gal
+
+Precipitation 24 hours following
+
+No precipitation
+
+Amount
+185.00 ton
+
+No precipitation
+
+Amount
+4,822,601.31 gal
+
+11/30/2022 Surface (Irrigation) No precipitation No precipitation No precipitation
+Sauls Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) | Amount
+description PI
+Un 32 Commercial fertilizer / Other: Liquid 35 39 0.00 0.00 0.00 370.00 Gal.
+
+commercial fertilizer
+
+Well Water Ground water 0.23 0.00 1.46 410.60 4,822,601.31 gal
+AraleM Nera! 35.62 0.00 1.46 410.60
+totals
+
+12/30/2022 Surface (Irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Well Water Ground water 0.28 0.00 1.76 492.72 5,787,121.58 gal
+Application event totals 0.28 0.00 1.76 492.72
+
+01/14/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+
+
+PDF PAGE BREAK 15
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+02/11/2023
+
+Source
+description
+
+Un 32
+
+Well Water
+
+Application event
+totals
+
+03/13/2023
+
+Source description
+Well Water
+
+Lagoon Water Effluent
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Application event totals
+
+04/09/2023
+
+Source
+description
+
+Canal Water
+Un 32
+
+Application event
+totals
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+1.08 0.00
+36.47 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.00 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+3.58 6,957.83
+3.58 6,957.83
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+1.39 0.00
+17.70 0.00
+19.09 0.00
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+25,772.64 155.90
+25,772.64 155.90
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+1.31 323.32
+
+1.31 323.32
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.53 378.52
+
+2.67 19.28
+
+4.20 397.80
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+33,084.87 200.14
+
+0.00 0.00
+33,084.87 200.14
+
+Amount
+
+370.00 Gal.
+
+4,320,247.03 gal
+
+No precipitation
+
+Amount
+
+370.00 Gal.
+
+4,943, 166.23 gal
+
+No precipitation
+
+Amount
+5,787,121.58 gal
+115,541.49 gal
+
+No precipitation
+
+Amount
+
+5,545,991.27 gal
+
+185.00 Gal.
+
+PDF PAGE BREAK 16
+Fieldname: 283 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+05/10/2023: Corn, Late Silage
+
+Application date
+05/01/2023
+
+Source description
+Atmospheric Deposition
+Corral Solids
+Application event totals
+
+05/02/2023
+
+Source description
+Well Water
+Application event totals
+
+05/25/2023
+
+Source description
+Well Water
+Application event totals
+
+06/11/2023
+
+Source description
+Lagoon Water Effluent
+Canal Water
+Application event totals
+
+06/29/2023
+
+Source description
+Well Water
+Application event totals
+
+07/17/2023
+
+Source description
+Well Water
+Application event totals
+
+Application method
+Surface (Irrigation)
+
+Material type
+Atmospheric deposition
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Process wastewater
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+14.00 0.00
+211.78 57.60
+225.78 57.60
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+24.28 56,003.00
+0.00 1,346.02
+24.28 57,349.02
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+67.69 2,963.20
+67.69 2,963.20
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.41 348.45
+1.41 348.45
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.33 328.57
+1.33 328.57
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+25.57 209.51
+35,265.70 134.60
+35,291.27 344.11
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.58 390.35
+1.58 390.35
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.55 383.12
+1.55 383.12
+
+Precipitation during application
+
+Precipitation 24 hours following
+
+No precipitation
+
+Amount
+504.00 Lbs
+180.00 ton
+
+No precipitation
+
+Amount
+5,183,481.35 gal
+
+No precipitation
+
+Amount
+4,887,771.41 gal
+
+No precipitation
+
+Amount
+869,045.75 gal
+5,806,672.49 gal
+
+No precipitation
+
+Amount
+5,806,672.49 gal
+
+No precipitation
+
+Amount
+5,699,141.39 gal
+
+PDF PAGE BREAK 17
+08/04/2023
+
+Source
+description
+
+Canal Water
+Un 32
+
+Application event
+totals
+
+08/21/2023
+
+Source description
+Canal Water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Application event totals
+
+11/10/2022
+
+Source description
+Well Water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+12/08/2022
+
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+01/07/2023
+
+Source description
+Well Water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 1,308.63
+35.39 0.00
+35.39 1,308.63
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,308.63
+0.00 1,308.63
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre)
+236.59
+236.59
+
+P (Ibs/acre)
+83.78
+83.78
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.24 0.00
+0.24 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+1.24 0.00
+36.63 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+34,286.09 130.86
+
+0.00 0.00
+34,286.09 130.86
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+34,286.09 130.86
+34,286.09 130.86
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+251.86 2,374.40
+251.86 2,374.40
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.49 419.16
+1.49 419.16
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+29,368.82 177.66
+29,368.82 177.66
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.48 366.69
+
+Precipitation during application
+
+No precipitation
+
+Amount
+5,645,376.07 gal
+
+360.00 Gal.
+
+No precipitation
+
+Amount
+5,645,376.07 gal
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+180.00 ton
+
+No precipitation
+
+Amount
+4,790,016.07 gal
+
+No precipitation
+
+Amount
+
+360.00 Gal.
+
+4,790,016.07 gal
+
+No precipitation
+
+Amount
+5,454,752.82 gal
+
+PDF PAGE BREAK 18
+Application event totals
+
+01/22/2023
+
+Source
+description
+
+Un 32
+
+Well Water
+
+Application event
+totals
+
+02/19/2023
+
+Source
+description
+
+Canal Water
+Un 32
+
+Application event
+totals
+
+03/21/2023
+
+Source description
+Canal Water
+
+Lagoon Water Effluent
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Application event totals
+
+04/17/2023
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+0.00 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.00 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+1.36 0.00
+35.39 0.00
+36.75 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+1.32 0.00
+3.58 6,957.83
+4.90 6,957.83
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+17.70 0.00
+17.70 0.00
+
+1.48 366.69
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+1.14 282.57
+
+1.14 282.57
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+32,365.64 195.78
+
+0.00 0.00
+32,365.64 195.78
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+31,286.78 189.26
+
+2.67 19.28
+31,289.45 208.54
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.37 339.09
+
+0.00 0.00
+
+1.37 339.09
+
+No precipitation
+
+Amount
+
+360.00 Gal.
+
+4,203,483.60 gal
+
+No precipitation
+
+Amount
+5,278,793.21 gal
+
+360.00 Gal.
+
+No precipitation
+
+Amount
+5,102,833.14 gal
+112,418.74 gal
+
+No precipitation
+
+Amount
+5,044,179.94 gal
+
+180.00 Gal.
+
+PDF PAGE BREAK 19
+05/10/2023
+
+Fieldname: 284
+
+Crop:
+
+Corn, Late Silage
+
+Plant date:
+
+05/10/2023: Corn, Late Silage
+
+Application date
+05/01/2023
+
+Source description
+Atmospheric Deposition
+Application event totals
+
+05/02/2023
+
+Source description
+Well Water
+Application event totals
+
+05/23/2023
+
+Source
+description
+
+Well Water
+
+Un 32
+
+Application method
+Surface (Irrigation)
+
+Material type
+Atmospheric deposition
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Application event
+totals
+
+06/08/2023
+
+Source
+description
+
+Well Water
+
+Un 32
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Application event
+totals
+
+06/23/2023
+
+Source description
+Canal Water
+Application event totals
+
+07/06/2023
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Precipitation 24 hours prior
+No precipitation
+
+Precipitation during application
+No precipitation
+
+N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+14.00 0.00 0.00 0.00
+14.00 0.00 0.00 0.00
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 1.49 368.66
+0.00 0.00 1.49 368.66
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 1.31 325.29
+
+35.39 0.00 0.00 0.00
+
+35.39 0.00 1.31 325.29
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 1.59 394.29
+
+35.39 0.00 0.00 0.00
+
+35.39 0.00 1.59 394.29
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 1,350.32 35,378.50 135.03
+0.00 1,350.32 35,378.50 135.03
+
+No precipitation
+
+No precipitation
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+518.00 Lbs
+
+No precipitation
+
+Amount
+
+5,636,415.20 gal
+
+No precipitation
+
+Amount
+4,973,307.22 gal
+370.00 Gal.
+
+No precipitation
+
+Amount
+6,028,251.40 gal
+370.00 Gal.
+
+No precipitation
+
+Amount
+5,987,058.46 gal
+
+No precipitation
+
+PDF PAGE BREAK 20
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+07/21/2023
+
+Source description
+Lagoon Water Effluent
+Canal Water
+Application event totals
+
+08/03/2023
+
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+08/16/2023
+
+Source description
+Canal Water
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+Application event totals
+
+11/11/2022
+
+Source description
+Well Water
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Process wastewater
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+70.78 0.00
+70.78 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+51.62 119,061.50
+0.00 1,167.00
+51.62 120,228.50
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+70.78 0.00
+0.00 1,283.70
+70.78 1,283.70
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 1,321.09
+0.00 1,321.09
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+236.59 83.78
+236.59 83.78
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.24 0.00
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.52 375.89
+
+0.00 0.00
+
+1.52 375.89
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+54.37 445.41
+30,575.48 116.70
+30,629.85 562.11
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+33,633.03 128.37
+33,633.03 128.37
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+34,612.63 132.11
+34,612.63 132.11
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+251.86 2,374.40
+251.86 2,374.40
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.53 427.71
+
+Precipitation during application
+
+Amount
+5,746,932.79 gal
+740.00 Gal.
+
+No precipitation
+
+Amount
+1,898,899.18 gal
+5,174,249.22 gal
+
+No precipitation
+
+Amount
+
+740.00 Gal.
+
+5,691,673.99 gal
+
+No precipitation
+
+Amount
+5,857,450.87 gal
+
+Precipitation 24 hours following
+
+No precipitation
+
+Amount
+185.00 ton
+
+No precipitation
+
+Amount
+5,023,542.84 gal
+
+PDF PAGE BREAK 21
+Application event totals
+
+12/09/2022
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+01/08/2023
+
+Source description
+
+Canal Water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+01/23/2023
+
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+02/20/2023
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+03/22/2023
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Source description
+Well Water
+
+Lagoon Water Effluent
+Application event totals
+
+04/18/2023
+
+Material type
+Ground water
+Process wastewater
+
+Surface (Irrigation)
+
+0.24 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.24 0.00
+35.39 0.00
+35.63 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+1.39 0.00
+1.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+1.02 0.00
+36.41 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+35.39 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+3.58 6,957.83
+3.58 6,957.83
+
+No precipitation
+
+1.53 427.71
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.51 423.44
+
+0.00 0.00
+
+1.51 423.44
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+33,084.87 200.14
+33,084.87 200.14
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+24,274.23 146.84
+24,274.23 146.84
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.34 331.20
+
+0.00 0.00
+
+1.34 331.20
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.51 374.57
+
+2.67 19.28
+
+4.18 393.85
+
+No precipitation
+
+No precipitation
+
+Amount
+4,973,307.22 gal
+
+370.00 Gal.
+
+No precipitation
+
+Amount
+5,545,991.27 gal
+
+No precipitation
+
+Amount
+
+370.00 Gal.
+
+4,069,069.89 gal
+
+No precipitation
+
+Amount
+5,063,731.14 gal
+
+370.00 Gal.
+
+No precipitation
+
+Amount
+5,726,838.64 gal
+115,541.49 gal
+
+No precipitation
+
+PDF PAGE BREAK 22
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+N (lbs/acre)
+
+17.70
+1.35
+19.05
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+0.00
+
+K (Ibs/acre)
+
+0.00
+32,006.02
+
+32,006.02
+
+Salt (Ibs/acre)
+
+0.00
+193.61
+
+193.61
+
+Amount
+
+185.00 Gal.
+
+5,365,143.90 gal
+
+PDF PAGE BREAK 23
+05/10/2023
+
+Fieldname: 285
+
+Crop:
+
+Corn, Late Silage
+
+Plant date:
+
+05/10/2023: Corn, Late Silage
+
+Application date
+05/01/2023
+
+Source description
+Corral Solids
+Atmospheric Deposition
+Application event totals
+
+05/02/2023
+
+Source description
+Well Water
+Application event totals
+
+05/24/2023
+
+Source
+description
+
+Un 32
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+Atmospheric deposition
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Well Water
+
+Application event
+totals
+
+06/07/2023
+
+Source description
+Well Water
+Application event totals
+
+06/21/2023
+
+Source description
+Canal Water
+Application event totals
+
+07/06/2023
+
+Source description
+Well Water
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Precipitation 24 hours prior
+No precipitation
+
+Precipitation during application
+No precipitation
+
+N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+211.78 57.60 67.69 2,963.20
+14.00 0.00 0.00 0.00
+
+225.78 57.60 67.69 2,963.20
+
+No precipitation
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 1.39 344.81
+0.00 0.00 1.39 344.81
+
+No precipitation
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+17.70 0.00 0.00 0.00
+
+0.00 0.00 1.33 328.57
+
+17.70 0.00 1.33 328.57
+
+No precipitation
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 1.63 402.17
+0.00 0.00 1.63 402.17
+
+No precipitation
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 1,346.02 35,265.70 134.60
+0.00 1,346.02 35,265.70 134.60
+
+No precipitation
+
+N (lbs/acre)
+0.00
+
+P (Ibs/acre)
+0.00
+
+K (Ibs/acre)
+1.50
+
+No precipitation
+
+Salt (Ibs/acre)
+372.27
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+72.35 ton
+202.58 Lbs
+
+No precipitation
+
+Amount
+2,061 ,664.55 gal
+
+No precipitation
+
+Amount
+
+72.35 Gal.
+
+1,964,612.60 gal
+
+No precipitation
+
+Amount
+2,404,685.78 gal
+
+No precipitation
+
+Amount
+2,333,959.79 gal
+
+No precipitation
+
+Amount
+2,225,906.06 gal
+
+PDF PAGE BREAK 24
+Application event totals
+07/18/2023
+
+Source
+description
+
+Un 32
+
+Canal Water
+
+Application event
+totals
+
+08/02/2023
+
+Source description
+Canal Water
+
+Lagoon Water Effluent
+Application event totals
+
+08/15/2023
+
+Source description
+Canal Water
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+Application event totals
+
+10/02/2022
+
+Source description
+Canal Water
+Application event totals
+
+10/30/2022
+Source
+
+description
+Canal Water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+0.00
+
+N (lbs/acre)
+
+35.39
+0.00
+35.39
+
+N (lbs/acre)
+
+0.00
+41.80
+41.80
+
+N (lbs/acre)
+
+0.00
+0.00
+
+N (lbs/acre)
+
+236.59
+236.59
+
+N (lbs/acre)
+
+1.22
+1.22
+
+N (lbs/acre)
+
+1.22
+
+0.00 1.50
+
+No precipitation
+
+P (Ibs/acre) K (Ibs:
+0.00 0.00
+
+1,167.00 30,57:
+1,167.00 30,57:
+
+No precipitation
+
+372.27
+
+No precipitation
+
+/acre) Salt (Ibs/acre)
+0.00
+
+5.48 116.70
+
+5.48 116.70
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+1,296.17 33,959.56 129.62
+93,344.38 28.40 487.01
+94,640.55 33,987.96 616.63
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+1,283.70 33,633.03 128.37
+1,283.70 33,633.03 128.37
+
+Precipitation 24 hours prior
+No precipitation
+
+Precipitation during application
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+83.78 251.86 2,374.40
+83.78 251.86 2,374.40
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 29,069.14 175.84
+0.00 29,069.14 175.84
+
+No precipitation
+
+P (Ibs/acre)
+0.00
+
+K (Ibs/acre)
+29,069.14
+
+No precipitation
+
+Salt (Ibs/acre)
+175.84
+
+No precipitation
+
+Amount
+
+144.70 Gal.
+
+2,023,551.01 gal
+
+No precipitation
+
+Amount
+2,247,516.73 gal
+781,915.82 gal
+
+No precipitation
+
+Amount
+2,225,906.06 gal
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+72.35 ton
+
+No precipitation
+Amount
+1,905,674.18 gal
+
+No precipitation
+
+Amount
+
+1,905,674.18 gal
+
+PDF PAGE BREAK 25
+Un 32
+
+Application event
+totals
+
+11/29/2022
+
+Source description
+
+Well Water
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+12/14/2022
+
+Source
+description
+
+Well Water
+
+Un 32
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Application event
+totals
+
+01/11/2023
+
+Source
+description
+
+Canal Water
+Un 32
+
+Application event
+totals
+
+02/10/2023
+
+Source description
+Well Water
+
+Lagoon Water Effluent
+Application event totals
+
+03/09/2023
+
+Source description
+Well Water
+Application event totals
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+17.70 0.00
+
+18.92 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.28 0.00
+0.28 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.22 0.00
+17.70 0.00
+17.92 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+1.26 0.00
+17.70 0.00
+18.96 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+24.25 47,192.24
+24.25 47,192.24
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+0.00 0.00
+
+29,069.14 175.84
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.78 497.86
+1.78 497.86
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+1.37 384.94
+0.00 0.00
+1.37 384.94
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+29,848.31 180.56
+
+0.00 0.00
+29,848.31 180.56
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.32 327.26
+18.10 130.79
+19.42 458.05
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.48 366.69
+1.48 366.69
+
+72.35 Gal.
+
+No precipitation
+
+Amount
+2,286,809.13 gal
+
+No precipitation
+
+Amount
+1,768,151.34 gal
+
+72.35 Gal.
+
+No precipitation
+
+Amount
+1,956,754.16 gal
+
+72.35 Gal.
+
+No precipitation
+
+Amount
+1,956,754.16 gal
+306,479.55 gal
+
+No precipitation
+
+Amount
+2,192,507.63 gal
+
+PDF PAGE BREAK 26
+Fieldname: 286 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+05/10/2023: Corn, Late Silage
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+05/01/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Atmospheric Deposition Atmospheric deposition 14.00 0.00 0.00 0.00 1,050.00 Lbs
+Application event totals 14.00 0.00 0.00 0.00
+
+05/02/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Canal Water Ground water 0.00 1,233.85 32,326.89 123.39 11,089,131.73 gal
+Corral Solids Corral Solids 211.78 57.60 67.69 2,963.20 375.00 ton
+Application event totals 211.78 1,291.45 32,394.58 3,086.59
+
+05/23/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Canal Water Ground water 0.00 1,155.67 30,278.63 115.57 10,386,514.05 gal
+Application event totals 0.00 1,155.67 30,278.63 115.57
+
+06/07/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+Sauls Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+description typ
+Canal Water Ground water 0.00 1,400.40 36,690.57 140.04 12,586,011.03 gal
+Un 32 Commercial fertilizer / Other: Liquid 47 79 0.00 0.00 0.00 375.00 Gal.
+commercial fertilizer
+Applliectiten Ove 17.70 1,400.40 36,690.57 140.04
+totals
+06/22/2023 Surface (Irrigation) No precipitation No precipitation No precipitation
+Sauls Material type N (lbs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+description typ
+Un 32 Commercial fertilizer / Other: Liquid 47 79 0.00 0.00 0.00 375.00 Gal.
+commercial fertilizer
+Well Water Ground water 0.00 0.00 1.58 390.35 12,097 ,234.35 gal
+Applliectiten Ove 17.70 0.00 1.58 390.35
+
+totals
+
+PDF PAGE BREAK 27
+07/05/2023
+
+Source
+description
+
+Un 32
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Canal Water
+
+Application event
+totals
+
+07/18/2023
+
+Source description
+Lagoon Water Effluent
+Well Water
+
+Application event totals
+
+07/31/2023
+
+Source description
+Well Water
+Application event totals
+
+08/13/2023
+
+Source description
+Well Water
+Application event totals
+
+10/01/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+Application event totals
+
+10/29/2022
+
+Source description
+Canal Water
+Application event totals
+
+11/26/2022
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Process wastewater
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+N (lbs/acre)
+
+17.70
+0.00
+
+17.70
+
+N (lbs/acre)
+
+36.38
+0.00
+36.38
+
+N (lbs/acre)
+
+0.00
+0.00
+
+N (lbs/acre)
+
+0.00
+0.00
+
+N (lbs/acre)
+
+236.59
+236.59
+
+N (lbs/acre)
+
+1.16
+1.16
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00 0.00
+
+1,308.63 34,286.09 130.86
+1,308.63 34,286.09 130.86
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+83,910.01 38.32 313.91
+0.00 1.37 338.43
+83,910.01 39.69 652.34
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 1.50 372.27
+0.00 1.50 372.27
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 1.50 372.27
+0.00 1.50 372.27
+
+Precipitation 24 hours prior
+No precipitation
+
+Precipitation during application
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+83.78 251.86 2,374.40
+83.78 251.86 2,374.40
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
+0.00 27,684.61 167.47
+0.00 27,684.61 167.47
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+Amount
+
+375.00 Gal.
+
+11,761,200.14 gal
+
+No precipitation
+
+Amount
+2,712,713.17 gal
+10,488,343.01 gal
+
+No precipitation
+
+Amount
+11,537,177.02 gal
+
+No precipitation
+
+Amount
+11,537,177.02 gal
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+375.00 ton
+
+No precipitation
+Amount
+
+9,406,923.30 gal
+
+No precipitation
+
+PDF PAGE BREAK 28
+Source
+description
+
+Un 32
+
+Well Water
+
+Application event
+totals
+
+12/26/2022
+
+Source description
+Canal Water
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+01/10/2023
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+02/07/2023
+
+Source
+description
+
+Un 32
+
+Well Water
+Application event
+
+totals
+
+03/09/2023
+
+Source description
+Canal Water
+
+Lagoon Water Effluent
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+Process wastewater
+
+Application event totals
+
+04/05/2023
+
+Source
+description
+
+Well Water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.20 0.00
+35.59 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+1.83 0.00
+1.83 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+35.39 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.00 0.00
+35.39 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+1.41 0.00
+
+3.58 6,957.83
+4.99 6,957.83
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.00 0.00
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+1.29 360.99
+
+1.29 360.99
+
+No precipitation
+
+Salt (Ibs/acre)
+262.42
+262.42
+
+K (Ibs/acre)
+43,381.94
+43,381.94
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.32 327.33
+
+0.00 0.00
+
+1.32 327.33
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+1.08 267.00
+
+1.08 267.00
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+33,558.37 203.00
+2.67 19.28
+33,561.04 222.28
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+
+1.23 304.92
+
+Amount
+
+750.00 Gal.
+
+8,594,330.97 gal
+
+No precipitation
+
+Amount
+14,740,703.77 gal
+
+No precipitation
+
+Amount
+10,144,162.13 gal
+
+750.00 Gal.
+
+No precipitation
+
+Amount
+
+750.00 Gal.
+
+8,274,590.09 gal
+
+No precipitation
+
+Amount
+11,402,763.33 gal
+234,205.72 gal
+
+No precipitation
+
+Amount
+
+9,449,691.12 gal
+
+PDF PAGE BREAK 29
+Commercial fertilizer / Other: Liquid
+
+Un 32 commercial fertilizer
+
+17.70 0.00 0.00 0.00 375.00 Gal.
+
+Application event
+
+17.70 0.00 1.23 304.92
+totals
+
+PDF PAGE BREAK 30
+B. NUTRIENT BUDGET
+
+281 - 05/10/21
+
+Corn, Late Silage
+
+Fieldname: 281 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 50k 150k 7.5k
+
+© © @ 100k o 5k @ Applied
+
+5 500 s ° 5 25k 5 5 @ Anticipated
+
+* * * ~ 50k * 25k @ Harvest
+
+xO XP fe € °
+0 0 0 0
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 33,612,329.73 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,237.83  acre-inches
+Commercial fertilizer / Other 17.70 0.00 0.00 0.00 39.57 — inches/acre
+Dry manure 254.13 69.12 81.23 3,555.84
+Process wastewater 18.63 42,962.93 19.62 160.72 FIRSTS WESTSUETE elas
+Fresh water 0.00 3,788.80 99,272.48 1,880.63 579,281.29 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 21.33 acre-inches
+Total nutrients applied 304.46 46,820.85 99,373.33 5,597.19 0.68 _ inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 238.87 47.83 275.81 0.00 1 harvests
+Nutrient balance 65.59 46,773.02 99,097.52 5,597.19
+
+Applied to removed ratio 1.27 978.88 360.30 0.00
+
+PDF PAGE BREAK 31
+281 - 10/01/2022: Triticale
+
+Fieldname: 281 Crop: Triticale Plant date: 10/01/2022
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Potassium Salt
+500 40k 100k 5k
+eg
+© & © © © @ Applied
+; 250 ; 20k ; 50k ; 2.5k : Anioated
+oe
+oe Fe sh °
+0 o 0 > _
+N K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 28,921,595.72 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,065.08 acre-inches
+Commercial fertilizer / Other 70.78 0.00 0.00 0.00 34.05 — inches/acre
+Dry manure 236.59 83.78 251.86 2,374.40
+Process wastewater 14.49 28,194.34 10.81 78.14 PIRGISES WESTSUETE Epa sle
+Fresh water 371 0.00 81,668.96 1,951.65 395,813.90 gallons
+Atmospheric deposition 0.00 0.00 0.00 0.00 14.58 acre-inches
+Total nutrients applied 325.57 28,278.12 81,931.63 4,404.19 0.47 _ inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 268.14 58.29 597.48 0.00 1 harvests
+Nutrient balance 57.43 28,219.83 81,334.14 4,404.19
+Applied to removed ratio 1.21 485.12 137.13 0.00
+
+PDF PAGE BREAK 32
+282 - 05/10/2023: Corn, Late Silage
+
+Fieldname: 282 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 100k 150k 7.5k
+
+o o @ 100k o 5k @ Applied
+
+5 5 5 5 7
+
+5 500 S § 50k § 5 : Anioated
+
+* se * ~ 50k ~ 25k aves
+
+0 oO) OS 0 OS 0 oa
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 40,041,655.81 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,474.60 acre-inches
+Commercial fertilizer / Other 0.00 0.00 0.00 0.00 39.85 — inches/acre
+Dry manure 211.78 57.60 67.69 2,963.20 -
+Process wastewater 33.32 76,854.51 35.09 287.51 FIRSTS WESTSUETE elas
+Fresh water 0.00 3,878.52 101,623.49 1,882.07 1,225,744.48 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 45.14 acre-inches
+Total nutrients applied 259.10 80,790.63 101,726.27 5,132.78 1.22 _ inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 206.25 45.50 313.52 0.00
+1 harvests
+
+Nutrient balance 52.85 80,745.13 101,412.75 5,132.78
+
+Applied to removed ratio 1.26 1,775.60 324.46 0.00
+
+PDF PAGE BREAK 33
+282 - 10/01/2022: Triticale
+
+Fieldname: 282 Crop: Triticale Plant date: 10/01/2022
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+500 10k 100k 5k
+ge
+
+© © © © @ Applied
+
+= 250 bk S 50k = 25k @ Anticipated
+
+Fe) Fe) Fe) 2 @ Harvest
+
+oe
+wh oh °
+0 o 0 > _
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 36,028,850.31 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,326.82 acre-inches
+Commercial fertilizer / Other 123.87 0.00 0.00 0.00 35.86 — inches/acre
+Dry manure 236.59 83.78 251.86 2,374.40 -
+Process wastewater 3.58 6,957.83 2.67 19.28 PIRGIIEES WESTSUETET Epes
+Fresh water 4.19 0.00 87,633.03 2,135.23 115,541.49 gallons
+Atmospheric deposition 0.00 0.00 0.00 0.00 4.26 acre-inches
+Total nutrients applied 368.23 7,041.61 87,887.56 4,528.91 0.12 _ inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 315.77 38.28 494.39 0.00
+1 harvests
+
+Nutrient balance 52.46 7,003.34 87,393.17 4,528.91
+
+Applied to removed ratio 1.17 183.97 177.77 0.00
+
+PDF PAGE BREAK 34
+283 - 05/10/2023: Corn, Late Silage
+
+Fieldname: 283 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 100k 150k 7.5k
+of
+o* o
+
+o o @ 100k o 5k @ Applied
+
+= 500 2 50k 8 & @ Anticipated
+
+2 ® 2 2 50k 2 25k @ Harvest
+
+0 oO) OS 0 OS 0 oa
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 38,674,491.27 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,424.25 acre-inches
+Commercial fertilizer / Other 35.39 0.00 0.00 0.00 39.56 — inches/acre
+Dry manure 211.78 57.60 67.69 2,963.20 -
+Process wastewater 24.28 56,003.00 25.57 209.51 PIRGIHSES WESTSUETE elas
+Fresh water 0.00 3,963.28 103,843.75 1,846.81 869,045.75 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 32.00 acre-inches
+Total nutrients applied 285.45 60,023.88 103,937.01 5,019.52 0.89 inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 219.97 52.43 274.83 0.00
+1 harvests
+
+Nutrient balance 65.48 59,971.44 103,662.18 5,019.52
+
+Applied to removed ratio 1.30 1,144.74 378.18 0.00
+
+PDF PAGE BREAK 35
+283 - 10/01/2022: Triticale
+
+Fieldname: 283 Crop: Triticale Plant date: 10/01/2022
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Potassium Salt
+500 10k 100k 5k
+ry
+© © © © @ Applied
+; 250 ; 5k ; 50k ; 2.5k : Anioated
+oe
+e& WP °
+0 o — 0 _ > _
+N K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 34,664,074.86 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,276.56 acre-inches
+Commercial fertilizer / Other 123.87 0.00 0.00 0.00 35.46 — inches/acre
+Dry manure 236.59 83.78 251.86 2,374.40
+Process wastewater 3.58 6,957.83 2.67 19.28 PIRGIIEES WETSUETET elas
+Fresh water 4.16 0.00 93,026.72 1,970.21 112,418.74 gallons
+Atmospheric deposition 0.00 0.00 0.00 0.00 4.14 acre-inches
+Total nutrients applied 368.20 7,041.61 93,281.25 4,363.89 0.12 _ inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 311.34 87.95 914.66 0.00 1 harvests
+Nutrient balance 56.87 6,953.66 92,366.59 4,363.89
+Applied to removed ratio 1.18 80.07 101.98 0.00
+
+PDF PAGE BREAK 36
+284 - 05/10/2023: Corn, Late Silage
+
+Fieldname: 284 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 200k 200k 4k
+Ca
+a ca
+
+© © © © @ Applied
+
+= 500 e & 100k & 100k & 2k @ Anticipated
+
+Fe) Be 2 Fe) 2 @ Harvest
+
+e
+| a Os Pl °
+0 >, = >» —_= , aim
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 45,095,339.15 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,660.71 acre-inches
+Commercial fertilizer / Other 212.34 0.00 0.00 0.00 44.88 inches/acre
+Dry manure 0.00 0.00 0.00 0.00 -
+Process wastewater 51.62 119,061.50 54.37 445.41 PIRGISES WETSUETE elas
+Fresh water 0.00 5,122.11 134,205.55 1,976.34 1,898,899.18 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 69.93 acre-inches
+Total nutrients applied 277.96 124,183.61 134,259.92 2,421.75 1.89 _ inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 225.18 60.94 317.17 0.00
+1 harvests
+
+Nutrient balance 52.78 124,122.67 133,942.75 2,421.75
+
+Applied to removed ratio 1.23 2,037.67 423.30 0.00
+
+PDF PAGE BREAK 37
+284 - 10/01/2022: Triticale
+
+Existing soil nutrient content
+Plowdown credit
+Commercial fertilizer / Other
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+Total nutrients applied
+Anticipated crop nutrient removal
+Actual crop nutrient removal
+Nutrient balance
+
+Applied to removed ratio
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+123.87
+236.59
+3.58
+4.24
+0.00
+368.28
+358.80
+293.82
+74.46
+1.25
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+83.78
+6,957.83
+0.00
+0.00
+7,041.61
+44.20
+91.52
+6,950.09
+76.94
+
+Total K (Ibs/acre)
+
+Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+2,374.40
+19.28
+2,097.51
+0.00
+4,491.19
+520.00
+0.00
+4,491.19
+0.00
+
+Fieldname: 284 Crop: Plant date: 10/01/2022
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Salt
+500 10k
+Bs
+© © © © @ Applied
+= 250 bk 8 & @ Anticipated
+2 Fe) 2 2 @ Harvest
+oe
+cid 8
+0 o — _ fn
+N Na
+
+Fresh water applied
+35,767,624.90 gallons
+1,317.20 acre-inches
+35.60 —inches/acre
+
+Process wastewater applied
+115,541.49 gallons
+4.26  acre-inches
+0.12 — inches/acre
+
+Total Harvests for the crop
+1 harvests
+
+PDF PAGE BREAK 38
+285 - 05/10/2023: Corn, Late Silage
+
+Fieldname: 285 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 150k 200k 7.5k
+
+o @ 100k © o 5k @ Applied
+
+3 500 BN o § H 400k 3 : Anteated
+
+7 * 50k ~ ~ 25k arves'
+
+0 oO) OS 0 OS 0 oa
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 17,487,802.58 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 644.02 acre-inches
+Commercial fertilizer / Other 53.09 0.00 0.00 0.00 44.51 inches/acre
+Dry manure 211.78 57.60 67.69 2,963.20 -
+Process wastewater 41.80 93,344.38 28.40 487.01 FIRSTS WESTSUETE eps
+Fresh water 0.00 5,092.89 133,439.62 1,957.11 781,915.82 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 28.80 —acre-inches
+Total nutrients applied 320.67 98,494.87 133,535.71 5,407.32 1.99 _ inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 254.91 45.67 279.10 0.00
+1 harvests
+
+Nutrient balance 65.76 98,449.20 133,256.61 5,407.32
+
+Applied to removed ratio 1.26 2,156.90 478.45 0.00
+
+PDF PAGE BREAK 39
+285 - 10/01/2022: Triticale
+
+Fieldname: 285 Crop: Triticale Plant date: 10/01/2022
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Potassium Salt
+500 50k 100k 5k
+x
+2 250 F 25k F 50k 2 2.5k ° ae
+oe
+rd Se gh °
+0 o 0 ,» _
+N K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 13,972,324.78 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 514.55 — acre-inches
+Commercial fertilizer / Other 53.10 0.00 0.00 0.00 35.56 — inches/acre
+Dry manure 236.59 83.78 251.86 2,374.40
+Process wastewater 24.25 47,192.24 18.10 130.79 FIRSTS WETSUETET elas
+Fresh water 4.20 0.00 87,992.54 2,108.99 306,479.55 gallons
+Atmospheric deposition 0.00 0.00 0.00 0.00 11.29 acre-inches
+Total nutrients applied 318.14 47,276.02 88,262.50 4,614.18 0.78 inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 232.55 56.01 584.41 0.00 1 harvests
+Nutrient balance 85.60 47,220.02 87,678.09 4,614.18
+Applied to removed ratio 1.37 844.13 151.03 0.00
+
+PDF PAGE BREAK 40
+286 - 05/10/2023: Corn, Late Silage
+
+Fieldname: 286 Crop: Corn, Late Silage Plant date: 05/10/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+1000 100k 200k 7.5k
+© © © © 5k @ Applied
+; 500 we Ps ; 50k ; 100k ; : Anioated
+2.5k
+| | ee gS eo
+0 (a oo. —oT— 0
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 91,482,788.34 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 3,369.00  acre-inches
+Commercial fertilizer / Other 53.10 0.00 0.00 0.00 44.92 _ inches/acre
+Dry manure 211.78 57.60 67.69 2,963.20
+Process wastewater 36.38 83,910.01 38.32 313.91 FIRSTS WETSUETET elas
+Fresh water 0.00 5,098.55 133,588.13 1,983.18 2,712,713.17 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00 99.90 acre-inches
+Total nutrients applied 315.26 89,066.16 133,694.14 5,260.29 1.33 inches/acre
+Anticipated crop nutrient removal 736.00 174.80 920.00 460.00 Total Harvests for the crop
+Actual crop nutrient removal 266.76 62.77 366.33 0.00 1 harvests
+Nutrient balance 48.49 89,003.39 133,327.81 5,260.29
+
+Applied to removed ratio 1.18 1,418.99 364.95 0.00
+
+PDF PAGE BREAK 41
+286 - 10/01/2022: Triticale
+
+Fieldname: 286 Crop: Triticale Plant date: 10/01/2022
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+500 10k 150k 5k
+nN
+» id ° » 100k ° @ Applied
+= 250 bk 8 = 25k @ Anticipated
+Fe) Fe) Fe) 2 @ Harvest
+50k °
+eS
+om PP °
+0 o 0 > _
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 72,013,164.71 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 2,652.00  acre-inches
+Commercial fertilizer / Other 123.87 0.00 0.00 0.00 35.36 — inches/acre
+Dry manure 236.59 83.78 251.86 2,374.40 -
+Process wastewater 3.58 6,957.83 2.67 19.28 FIRSTS WETSUETET elas
+Fresh water 4.60 0.00 104,629.84 1,893.13 234,205.72 gallons
+Atmospheric deposition 0.00 0.00 0.00 0.00 8.63 acre-inches
+Total nutrients applied 368.64 7,041.61 104,884.37 4,286.81 0.12 _ inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 281.47 61.33 628.99 0.00
+1 harvests
+Nutrient balance 87.17 6,980.29 104,255.37 4,286.81
+
+Applied to removed ratio 1.31 114.82 166.75 0.00
+
+PDF PAGE BREAK 42
+A. MANURE ANALYSES
+
+T3090001A
+Sample and source description name: T3090001A
+Sample date: 03/17/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 41.6%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 13,030.00 5,920.00 20,910.00 13,980.00 8,230.00 4,080.00 5,000.00 1,032.00 20,910.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3167065A
+Sample and source description name: T3167065A
+Sample date: 06/12/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 7TA%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 22,870.00 6,220.00 7,310.00 12,580.00 7,640.00 3,010.00 2,500.00 891.00 7,310.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3263071A
+Sample and source description name: T3263071A
+Sample date: 09/15/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 8%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 21,600.00 6,840.00 27,790.00 13,810.00 8,650.00 6,700.00 5,150.00 1,172.00 27,790.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3362032A
+Sample and source description name: T3362032A
+
+Sample date: 12/22/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+
+
+PDF PAGE BREAK 43
+Moisture: 37.7%
+
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 23,060.00 6,900.00 24,200.00 12,580.00 7,940.00 6,530.00 3,510.00 1,092.00 24,200.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+B. PROCESS WASTEWATER ANALYSES
+T3089012A
+Sample and source description name: T3089012A
+Sample date: 03/17/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+Kjeldahl-N NH4-N  NH3-N_ Nitrate-N  TotalP TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) — (mg/L)
+Value 137.20 0.00 64.40 0.00 26.70 102.41 44.76 19.84 74.71 0.00 0.00 50.06 60.95 1.72 740.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+T3167020A
+Sample and source description name: T3167020A
+Sample date: 06/12/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+eee ae ae Nate pa TotalK Calcium Magnes. Sodium BBicarb. Carb. | Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) — (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 120.40 0.00 84.00 0.13 27.80 126.94 60.01 28.60 113.12 0.00 0.00 90.20 63.68 1.89 1,040.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+T3263047A
+Sample and source description name: T3263047A
+Sample date: 09/15/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+eee ie ee ya pe ee Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) | (mg/L) (mg/L) (mg/L) (mgj/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 92.40 0.00 78.40 0.29 20.70 62.99 53.29 21.19 106.45 0.00 0.00 67.51 53.26 1.67 1,080.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+
+PDF PAGE BREAK 44
+T3362096A
+
+Sample and source description name: T3362096A
+Sample date: 12/22/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+eee hae NH3-N ya wa TotalK Calcium Magnes. Sodium BBicarb. Carb. | Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) — (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 252.00 0.00 142.80 0.14 56.50 200.17 82.14 49.75 120.21 0.00 0.00 197.57 88.99 3.04 2,000.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+C. FRESH WATER ANALYSES
+Ww-1
+T3228026A
+Sample and source description name: T3228026A
+Sample date: 08/14/2023 Source of analysis: Lab Analysis
+Total N NH4-N Nitrate-N Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 0.00 0.00 0.00 13.08 1.26 56.35 0.00 0.00 42.41 13.15 0.35 150.00
+DL 0.50 0.50 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+WW-2
+T3228026B
+Sample and source description name: 7T3228026B
+Sample date: 08/14/2023 Source of analysis: Lab Analysis
+Total N NH4-N Nitrate-N Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 0.00 0.00 0.00 86.88 1.08 90.16 0.00 0.00 168.97 42.78 0.89 430.00
+DL 0.50 0.50 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+
+Canal - Farmers
+
+T3362072B-185-188
+
+PDF PAGE BREAK 45
+Sample and source description name:
+
+T3362072B-185-188
+
+Sample date: 12/27/2023 Source of analysis: Lab Analysis
+Total N NH4-N Nitrate-N Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 2.80 0.00 0.00 16.59 6.27 23.89 0.00 0.00 22.73 26.87 0.28 100.00
+DL 0.50 0.50 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+D. SOIL ANALYSES
+281
+21391_1
+Sample
+description: 21391_1
+Sample date: 10/31/2023 Source of analysis: Lab Analysis
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+Value 23.64 0.00 0.00 0.00 0.67 2.24
+DL 0.50 0.20 0.20 0.50 1.00 0.10
+282
+19654_1
+Sample
+description: 19654_1
+Sample date: 09/19/2023 Source of analysis: Lab Analysis
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+Value 13.06 0.00 0.00 0.00 0.58 3.21
+DL 0.50 0.20 0.20 0.50 1.00 0.10
+283
+
+20799_1
+
+PDF PAGE BREAK 46
+Sample
+description:
+
+Sample date:
+
+Value
+DL
+
+284
+
+20799_2
+
+Sample
+description:
+
+Sample date:
+
+Value
+DL
+
+285
+
+19654_2
+
+Sample
+description:
+
+Sample date:
+
+Value
+DL
+
+286
+
+19581_1
+
+20799_1
+
+10/10/2023 Source of analysis: Lab Analysis
+
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+18.06 0.00 0.00 0.00 0.52 1.73
+
+0.50 0.20 0.20 0.50 1.00 0.10
+
+20799 _ 2
+
+10/10/2023 Source of analysis: Lab Analysis
+
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+9.57 0.00 0.00 0.00 0.45 0.69
+
+0.50 0.20 0.20 0.50 1.00 0.10
+
+19654_2
+
+09/19/2023 Source of analysis: Lab Analysis
+
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+22.77 0.00 0.00 0.00 0.54 2.45
+
+0.50 0.20 0.20 0.50 1.00 0.10
+
+PDF PAGE BREAK 47
+Sample
+description:
+
+Sample date:
+
+Value
+DL
+
+E. PLANT TISSUE ANALYSES
+
+281 - 05/01/2023: Corn, Late Silage
+
+T3342007A
+
+Sample
+description:
+
+Sample date:
+Mositure:
+
+Value
+DL
+
+282 - 05/01/2023: Corn, Late Silage
+
+T3342007B
+
+Sample
+description:
+
+Sample date:
+Mositure:
+
+Value
+DL
+
+19581_1
+
+09/18/2023 Source of analysis: Lab Analysis
+
+Nitrate-N Total P Soluble P K EC Organic matter Total Salt
+
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mmhos/cm) (%) (mg/kg)
+
+23.36 0.00 0.00 0.00 0.69 2.51
+
+0.50 0.20 0.20 0.50 1.00 0.10
+
+T3342007A
+
+11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+
+0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+16,880.00 3,380.00 19,490.00 90.00 0.00
+100.00 200.00 500.00 0.10
+
+T3342007B
+
+11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+
+0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+12,420.00 2,740.00 18,880.00 70.00 0.00
+100.00 200.00 500.00 0.10
+
+PDF PAGE BREAK 48
+283 - 05/01/2023: Corn, Late Silage
+
+T3342007C
+Sample
+description: T3342007C
+Sample date: 11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 13,550.00 3,230.00 16,930.00 70.00 0.00
+DL 100.00 200.00 500.00 0.10
+284 - 05/01/2023: Corn, Late Silage
+T3342007D
+Sample
+description: T3342007D
+Sample date: 11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 13,560.00 3,670.00 19,100.00 70.00 0.00
+DL 100.00 200.00 500.00 0.10
+285 - 05/01/2023: Corn, Late Silage
+T3342007E
+Sample
+description: T3342007E
+Sample date: 11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+
+Mositure: 0%
+
+
+PDF PAGE BREAK 49
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 14,960.00 2,680.00 16,380.00 60.00 0.00
+DL 100.00 200.00 500.00 0.10
+286 - 05/01/2023: Corn, Late Silage
+T3342007F
+Sample
+description: T3342007F
+Sample date: 11/03/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 14,280.00 3,360.00 19,610.00 80.00 0.00
+DL 100.00 200.00 500.00 0.10
+281 - 10/01/2022: Triticale
+T3139038A
+Sample
+description: T3139038A
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 18,400.00 4,000.00 41,000.00 0.02 0.00
+DL 100.00 200.00 500.00 0.10
+
+282 - 10/01/2022: Triticale
+
+T3139038B
+
+
+PDF PAGE BREAK 50
+Sample
+
+description: T3139038B
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 19,800.00 2,400.00 31,000.00 0.01 0.00
+DL 100.00 200.00 500.00 0.10
+283 - 10/01/2022: Triticale
+T3139038C
+Sample
+description: T3139038C
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 17,700.00 5,000.00 52,000.00 0.02 0.00
+DL 100.00 200.00 500.00 0.10
+284 - 10/01/2022: Triticale
+T3139038D
+Sample
+description: T3139038D
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 18,300.00 5,700.00 38,000.00 0.01 0.00
+DL 100.00 200.00 500.00 0.10
+
+
+PDF PAGE BREAK 51
+285 - 10/01/2022: Triticale
+
+T3139038E
+Sample
+description: T3139038E
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 19,100.00 4,600.00 48,000.00 0.01 0.00
+DL 100.00 200.00 500.00 0.10
+286 - 10/01/2022: Triticale
+T3139038F
+Sample
+description: T3139038F
+Sample date: 05/16/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 17,900.00 3,900.00 40,000.00 0.01 0.00
+DL 100.00 200.00 500.00 0.10
+
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+No subsurface (tile) drainage analyses entered.
+
+
+PDF PAGE BREAK 52
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Existing soil nutrient content 0.00 0.00 0.00 0.00
+Plowdown credit 0.00 0.00 0.00 0.00
+Commercial fertilizer / Other 40,333.29 0.00 0.00 0.00
+Dry manure 96,950.12 30,852.57 71,654.30 2,374.40
+Process wastewater 9,399.40 21,104,814.05 9,223.20 19.28
+Fresh water 983.49 1,050,300.43 49,092,480.41 1,893.13
+Atmospheric deposition 3,230.50 0.00 0.00 0.00
+Total nutrients applied 150,896.80 22,185,967.05 49,173,357.91 2,124,950.85
+Anticipated crop nutrient removal 252,625.10 50,534.25 257,286.25 226,135.00
+Actual crop nutrient removal 121,675.00 27,892.36 221,485.39 0.00
+Nutrient balance 29,221.80 22,158,074.70 48,951,872.51 2,124,950.85
+Applied to removed ratio 1.24 795.41 222.02 0.00
+
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Potassium Salt
+400k 30M 75M 3M
+Pe 20M 50M » 2M @ Applied
+2 200k OF oe 2 g g @ Anticipated
+EN = = a
+25M 2 1M re @ Harvest
+
+PDF PAGE BREAK 53
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+
+Pounds of Nitrogen Applied Pounds of Phosphorus Applied
+Existing soil nutrient Existing soil nutrient
+0 o
+content content
+Plowdown credit 0 Plowdown credit 0
+
+Commercial fertilizer / Ls, Commercial fertilizer /
+Other 40,333 Other °
+Drymanue | 2.250 Drymanure | 30,853
+
+Process wastewater BB 9,399 Process wastewater
+Fresh water 983 Fresh water
+Atmospheric deposition t 3,231 Atmospheric deposition 0
+ie} 25k 50k 75k 100k 125k ie} 5M 10M 15M 20M 25M
+Ibs Ibs
+Pounds of Potassium Applied Pounds of Salt Applied
+Existing soil nutrient Existing soil nutrient
+0 o
+content content
+Plowdown credit 0 Plowdown credit 0
+Commercial fertilizer / 0 Commercial fertilizer / °
+
+Other Other
+
+Drymanure | 71,658 Dry manure
+
+Process wastewater 9,223 Process wastewater B 78,182
+Fresh water ss 49,092,480 Fresh water Es 906,219
+Atmospheric deposition 0 Atmospheric deposition 0
+ie} 10M 20M 30M 40M 50M 60M ie} 250k 500k 750k 1,000k 1,2...
+
+Ibs Ibs
+
+PDF PAGE BREAK 54
+A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise) when not in
+accordance with the facility's Nutrient Management Plan.
+
+No manure or process wastewater discharges occurred during the reporting period.
+
+B. STORM WATER DISCHARGES
+
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient
+Management Plan.
+
+No stormwater discharges occurred during the reporting period.
+
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the facility's Nutrient
+Management Plan.
+
+No land application area to surface water discharges occurred during the reporting period.
+
+PDF PAGE BREAK 55
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+
+Was the facility's NMP updated in the reporting period?
+
+Yes
+Was the facility's NMP developed by a certified nutrient management planner (specialist) as specified in
+Attachment C of the General Order? Yes
+Was the facility's NMP approved by a certified nutrient management planner (specialist) as specified in
+Attachment C of the General Order? Yes
+
+B. EXPORT AGREEMENT STATEMENT
+
+Are there any written agreements with third parties to receive manure or process wastewater that are new or
+were revised within the reporting period? No
+
+PDF PAGE BREAK 56
+A. NOTES
+
+No notes entered for this annual report.
+
+PDF PAGE BREAK 57
+A. OWNER AND/OR OPERATOR CERTIFICATION
+
+| certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry of those
+
+individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant penalties for submitting
+false information, including the possibility of fine and imprisonment.
+
+SIGNATURE OF OWNER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
+
+Adam Westenbroek Adam Westenbroek
+
+PRINT OR TYPE NAME
+6/29/2024
+DATE
+
+PRINT OR TYPE NAME
+6/29/2024
+DATE
+
+
+PDF PAGE BREAK 58
+A. REQUIRED ATTACHMENTS,
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+PDF PAGE BREAK 59
+Solid/Liquid Manure Tracking Manifest
+
+Waste Generator Information:
+
+Name:
+Facility Name:
+
+Facility Address:
+Facility City/State:
+
+Manure Hauler / Processor Information:
+
+Name:
+Facility Address:
+Facility City/State:
+
+Manure Destination
+
+Destination Information:
+
+Name:
+Facility Address:
+Facility City/State:
+
+Dates Hauled / Transferred
+
+Bakersfield, CA
+
+Jan 1, 2023 - Jan, 31 2023 7,964
+Aug 1, 2023 - Aug, 31 2023 4,882
+Sep 1, 2023 - Sep, 30 2023 6,048
+Oct 1, 2023 - Oct, 31 2023 5,959
+Total 24,853
+
+Amount Hauled / Transferred
+
+Contact:
+Adam Westenbroek Name: Adam Westenbroek
+Westwind Farms umber: (661) 477-2973
+6221 Bear Mountain
+Blvd.
+Bakersfield, CA 93313
+Contact:
+Rico Trucking Name: Fernando Rico
+P.O. Box 515 Number: (951) 314-2209
+Norco, CA 92860
+Farmer
+Contact:
+Grimmway Farms Name: Grimmway Farms
+PO Box 81498 Number: (661) 845-5289
+
+Units Moisture %
+ton 65 %
+ton 68 %
+ton 65 %
+ton 65 %
+
+If amount hauled / transferred is liquid, then a "Waste Water Agreement"
+is required in compliance with Land Application Specification C.2 of the
+General Order R5-2007-0035.
+
+Does the operator have an agreement, and is a Waste Water
+Agreement on file with the RWQCD? NO
+
+| declare under the penalty of law that | personally examined and am
+familiar with the information submitted in this document, and that based
+on my inquiry of those individuals immediately responsible for obtaining
+the information, | believe that the information is true, accurate and
+complete. | am aware that there are significant penalties for submitting
+false information., including the possibility of a fine and imprisonment for
+knowing violations.
+
+Signature of Owner:
+
+12/30/2023
+
+Signature of Hauler:
+
+Date:
+12/30/2023
+
+
+PDF PAGE BREAK 60
+
+PDF PAGE BREAK 61
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: Boron (B)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/17/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+ww-1 T3228026A Boron (B) EPA 200.7 0.156 ppm
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 62
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+
+www.denelelabs.com
+
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+
+Customer
+
+Westwind Farms
+
+6921 Bear Mountain Blvd.
+Bakersfield, CA 93313
+
+PURCHASE ORDER:
+RECEIVED DATE:
+SUBMITTED BY:
+ANALYZED DATE:
+
+8/16/23 10:00 AM
+Courier
+8/17/23
+
+Lab ID
+T3228026A
+
+Sample ID
+
+Laboratory Quality Control
+Ammonia Nitrogen (NH3-N)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Sodium (Na)
+
+Sulfate (SO4)
+
+Total Dissolved Solids (TDS)
+
+Compliance Analysis Report
+
+Grower
+
+Consultant:
+
+Icon Ag
+
+9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93312
+
+Irrigation /Ground Water (H14)
+SOURCE: Well Water
+
+Analyte
+
+Electrical Conductivity (EC)
+Bicarbonate Alkalinity (ALK-B)
+Carbonate Alkalinity (Carb)
+Sulfate (SO4)
+
+Sodium (Na)
+
+Ammonia Nitrogen (NH3-N)
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Total Dissolved Solids (TDS)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Soluble Salts (SALT-SOL)
+
+LCS % MS %
+
+101 (T3228024C)
+103 (T3228029B)
+99.6 (T3228024C)
+94.5 (T3228029B)
+97.1 (T3228024C)
+102 (T3228029B)
+114 (T3228024C)
+
+Method Ref
+EPA 120.1 and
+
+SM 2320B-2011
+SM 2320B-2011
+EPA 375.2
+
+EPA 200.7
+
+SM 4500-NH3 D,C
+EPA 200.7
+
+EPA 353.2
+
+SM 2540 C-1997 and
+EPA 200.7
+
+SM 4500-Cl D-2011
+Calculation
+
+MSD %
+98.8 (T3228024C)
+112 (T3228029B)
+98.1 (T3228024C)
+105 (T3228029B)
+94.4 (T3228024C)
+117 (T3228029B)
+105 (T3228024C)
+
+Sample mg/L
+
+115 (T3230006A)
+
+Units
+
+mmbhos/cm
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Result
+
+Dup mg/L RPD %
+
+120 (Dup)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 2 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 63
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: PH (pH)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/18/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+ww-1 T3228026A pH (pH) SM4500-H+ B-2000 8.3 S.U.
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 3 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 64
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: Total Nitrogen (TN)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: = 8/22/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+ww-1 T3228026A Total Nitrogen (TN) SM 4500-NH3 D,C < 1.50 %
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 4 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 65
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: Boron (B)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/17/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+Ww-2 13228026B Boron (B) EPA 200.7 0.176 ppm
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 5 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 66
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+
+www.denelelabs.com
+
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+
+Customer
+
+Westwind Farms
+
+6921 Bear Mountain Blvd.
+Bakersfield, CA 93313
+
+PURCHASE ORDER:
+RECEIVED DATE:
+SUBMITTED BY:
+ANALYZED DATE:
+
+8/16/23 10:00 AM
+Courier
+8/17/23
+
+Lab ID
+T3228026B
+
+Sample ID
+
+Laboratory Quality Control
+Ammonia Nitrogen (NH3-N)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Sodium (Na)
+
+Sulfate (SO4)
+
+Total Dissolved Solids (TDS)
+
+Compliance Analysis Report
+
+Grower
+
+Consultant:
+
+Icon Ag
+
+9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93312
+
+Irrigation /Ground Water (H14)
+SOURCE: Well Water
+
+Analyte
+
+Electrical Conductivity (EC)
+Bicarbonate Alkalinity (ALK-B)
+Carbonate Alkalinity (Carb)
+Sulfate (SO4)
+
+Sodium (Na)
+
+Ammonia Nitrogen (NH3-N)
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Total Dissolved Solids (TDS)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Soluble Salts (SALT-SOL)
+
+LCS % MS %
+
+101 (T3228024C)
+103 (T3228029B)
+99.6 (T3228024C)
+94.5 (T3228029B)
+97.1 (T3228024C)
+102 (T3228029B)
+114 (T3228024C)
+
+Method Ref
+EPA 120.1 and
+
+SM 2320B-2011
+SM 2320B-2011
+EPA 375.2
+
+EPA 200.7
+
+SM 4500-NH3 D,C
+EPA 200.7
+
+EPA 353.2
+
+SM 2540 C-1997 and
+EPA 200.7
+
+SM 4500-Cl D-2011
+Calculation
+
+MSD %
+98.8 (T3228024C)
+112 (T3228029B)
+98.1 (T3228024C)
+105 (T3228029B)
+94.4 (T3228024C)
+117 (T3228029B)
+105 (T3228024C)
+
+Sample mg/L
+
+115 (T3230006A)
+
+Units
+
+mmbhos/cm
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Result
+
+Dup mg/L RPD %
+
+120 (Dup)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 6 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 67
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: Icon Sampling Fee (ISF)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/16/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+Ww-2 13228026B Icon Sampling Fee (ISF) 1664B 0.000 N/A
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 7 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 68
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: PH (pH)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/18/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+Ww-2 13228026B pH (pH) SM4500-H+ B-2000 8.1 S.U.
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 8 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 69
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Westwind Farms Icon Ag
+
+6921 Bear Mountain Blvd. 9530 Hageman Rad, Ste B. #292
+Bakersfield, CA 93313 Bakersfield, CA 93312
+PURCHASE ORDER: Total Nitrogen (TN)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: = 8/22/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+Ww-2 13228026B Total Nitrogen (TN) SM 4500-NH3 D,C < 1.50 %
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 9 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 70
+Irrigation / Ground | Tile Water
+
+Date
+
+B~ IH- 202%
+
+i
+.. . Sampled By
+ICON Dominic Patino NV
+Agricultural poles ite ve
+9g If (661) 215-5168 EablName
+9530 Hageman Rd. Ste B, #292 Bakersfield, CA 93312 {4 dpatino@iconaginc.com | Vente
+‘ ‘Location: yee —— - - -
+Westwind Farms ee
+“Iwcana/| Temp | # of Bags
+Ranch: Westwind Farms Analysis | Weather! CH othe Ranch: Westwind Farms #f:
+rol decor fase 5 A ia = Date: “IO, gz
+> Y)
+**Required Field Measurement Wwe ? A {92 is | _ “as20re, -119.078933
+NH4-N Check here if performed Location:
+a Westwind Farms
+[te Temp | # of Bags/
+Analysis|Weather| /.,
+Analysis Types | CF) | Bottles — Sone erring ey 1, 0
+\-)
+WS5 - Ag Suitability (Non-Compliance) we | a ia A i / poe 3 35.197914, -119.078965
+- W1 + Ca, Mg, Na, Bicard, SO4, Cl, B 3 Location:
+W4 - pH, SpCon, TDS, Ca, CO3, Ca, Mg, Na, K, :
+ool oh . % Temp | # of Bags! Place (ql Label Here
+$04, Cl, B (Reg 3 comp) auayee yeahs (°F) Bottles Place additional labels on
+W1 - EC, pH, NO3-N, TN, TDS, NH4-N*** (Reg 5 a 7 sample bags/bottles
+comp) _ _ _
+W3 - W2 + TP, NH4-N, Carb (tile drain) Focatjon:
+Weather Conditions papas aoe Temp | # of Bags! Place (ZA Label Here
+¥ . (°F) Bottles Place additional labels on
+@- Sunny & Hot a i i sample bags/bottles
+CC - Cold & Cloudy 7 ee |e _ _
+SW - Sunny & Warm " ‘Location: : — 7
+COL - Cold & Clear saan STEAL. ETI |abel Here
+B-Rany Analysis | Weatiet (°F) Bottles) ace additional labels on
+- a ne nr sample bags/bottles
+—JLecation: = 7 7 —
+ey Place (4A Label Here
+< Temp | # of Bags/ :
+Analysts | Weather (°F) Bottles Place additional labels on
+ia | ae 7 sample bags/bottles
+ae eer - - - $$ —________—
+| Chain of Custody Recording Log
+| | Signature | Company | Received Date/Time | Bebe aI | Laboratory Use Only
+| 1st we a0 Meza Loon | | §- /5-30}3 Qn Logged in By: Laboratory #
+E cm i | |
+3 —| Ds EVODIOOO | |
+i | € cr
+

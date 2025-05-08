@@ -1,0 +1,35 @@
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+2311698
+Sample and source description: 2311698
+Sample date: 09/26/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 342.00 242.00 0.00 0.70 62.20 553.00 3,500
+DL 0.01 0.01 0.01 0.01 0.01 0.01 10
+23L0356
+Sample and source description: 23L0356
+Sample date: 12/06/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 528.00 294.00 0.00 0.40 74.40 728.00 4,350
+DL 0.01 0.01 0.01 0.01 0.01 0.01 10
+
+C. FRESH WATER ANALYSES
+Dom 1
+
+23L0354
+
+Sample description: 23L0354
+Sample date: 12/06/2023 Source of analysis: Labanalysis
+
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 0.30 31.00 0.30 62.00 64.50 0.00 30.80 82.70 459.00
+DL 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.01 10.00
+
+Dom 2
+
+Ron Verhoeven Family Dairy | 4975 Ave 120 | Corcoran, CA 93212 | Tulare County | Tulare Basin
+06/24/2024 13:37:32 Page 35 of 46

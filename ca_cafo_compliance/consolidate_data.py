@@ -28,14 +28,22 @@ def save_geocoding_cache(cache):
     with open(GEOCODING_CACHE_FILE, 'w') as f:
         json.dump(cache, f, indent=2)
 
+def normalize_address(address):
+    """Normalize address string for consistent caching."""
+    if pd.isna(address) or not isinstance(address, str):
+        return None
+    # Convert to lowercase and remove extra whitespace
+    return ' '.join(address.lower().split())
+
 def geocode_address(address, cache):
     """Convert address to latitude and longitude using Geopy with caching."""
     if pd.isna(address) or not isinstance(address, str):
         return None, None
     
-    # Use exact address string as cache key
-    if address in cache:
-        return cache[address]['lat'], cache[address]['lng']
+    # Normalize address for cache lookup
+    normalized_address = normalize_address(address)
+    if normalized_address in cache:
+        return cache[normalized_address]['lat'], cache[normalized_address]['lng']
     
     # If not in cache, geocode the address
     geolocator = Nominatim(user_agent="ca_cafo_compliance")
@@ -44,10 +52,11 @@ def geocode_address(address, cache):
         time.sleep(1)
         location = geolocator.geocode(address)
         if location:
-            # Save to cache using exact address as key
-            cache[address] = {
+            # Save to cache using normalized address as key
+            cache[normalized_address] = {
                 'lat': location.latitude,
-                'lng': location.longitude
+                'lng': location.longitude,
+                'original_address': address  # Store original for reference
             }
             save_geocoding_cache(cache)
             return location.latitude, location.longitude
@@ -90,23 +99,29 @@ def consolidate_data():
             dfs = []
             for csv_file in csv_files:
                 try:
-                    # Extract metadata from file path
-                    rel_path = os.path.relpath(csv_file, region_path)
-                    parts = rel_path.split(os.sep)
-                    county = parts[0]
-                    template = os.path.splitext(parts[1])[0].split('_')[-1]
-                    
-                    # Read the CSV and add metadata
                     df = pd.read_csv(csv_file)
-                    df = df.dropna(how='all')
-                    df['Year'] = year
-                    df['Region'] = region
-                    df['County'] = county
-                    df['Template'] = template
-                    
+                    # Add metadata columns if they don't exist
+                    if 'Year' not in df.columns:
+                        df['Year'] = year
+                    if 'Region' not in df.columns:
+                        df['Region'] = region
+                    if 'County' not in df.columns:
+                        # Extract county from path
+                        path_parts = csv_file.split(os.sep)
+                        county_idx = path_parts.index(region) + 1
+                        if county_idx < len(path_parts):
+                            df['County'] = path_parts[county_idx]
+                    if 'Template' not in df.columns:
+                        # Extract template from path
+                        path_parts = csv_file.split(os.sep)
+                        template_idx = path_parts.index(region) + 2
+                        if template_idx < len(path_parts):
+                            df['Template'] = path_parts[template_idx]
+                    if 'filename' not in df.columns:
+                        df['filename'] = os.path.basename(csv_file)
                     dfs.append(df)
                 except Exception as e:
-                    print(f"Error processing {csv_file}: {e}")
+                    print(f"Error reading {csv_file}: {e}")
             
             if dfs:
                 combined_df = pd.concat(dfs, ignore_index=True)
@@ -146,10 +161,11 @@ def consolidate_data():
                     cached_geocodes = 0
                     
                     for address in unique_addresses:
-                        if address in geocoding_cache:
+                        normalized_address = normalize_address(address)
+                        if normalized_address in geocoding_cache:
                             cached_geocodes += 1
-                            lat = geocoding_cache[address]['lat']
-                            lng = geocoding_cache[address]['lng']
+                            lat = geocoding_cache[normalized_address]['lat']
+                            lng = geocoding_cache[normalized_address]['lng']
                         else:
                             print(f"Geocoding new address: {address}")
                             lat, lng = geocode_address(address, geocoding_cache)

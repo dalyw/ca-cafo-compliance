@@ -1,0 +1,52 @@
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+Field B - 11/04/2022: Wheat, silage, boot stage
+
+23E0426
+
+Sample and source description: 23E0426
+Sample date: 05/03/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 59.8 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 6,200.00 3,000.00 12,200.00 7.60
+DL 0.01 0.01 0.01 0.01
+
+Field B - 05/25/2023: Milo
+
+2311714
+
+Sample and source description: 2311714
+Sample date: 09/26/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 68.4 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 5,600.00 1,700.00 8,800.00 10.10
+DL 0.01 0.01 0.01 0.01
+
+Field C - 11/04/2022: Wheat, silage, boot stage
+23E0426
+
+Sample and source description: 23E0426
+
+Sample date: 05/03/2023 Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 67.0 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 5,600.00 3,100.00 10,600.00 9.40
+DL 0.01 0.01 0.01 0.01
+
+Ron Verhoeven Family Dairy | 4975 Ave 120 | Corcoran, CA 93212 | Tulare County | Tulare Basin
+06/24/2024 13:37:32
+
+Page 39 of 46
