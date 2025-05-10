@@ -1,83 +1,123 @@
-# CA CAFO Compliance Data Explorer
+# CA CAFO Compliance Data Analysis
 
-This application provides an interactive dashboard to explore and analyze California Confined Animal Feeding Operation (CAFO) compliance data.
+This project analyzes California CAFO (Concentrated Animal Feeding Operation) compliance data from annual reports. It processes PDF reports, extracts data using OCR, and performs various analyses on manure management, nutrient application, and compliance metrics.
 
 ## Project Structure
 
 ```
-.
-├── ca_cafo_compliance/          # Main project directory
-│   ├── read_reports.py         # PDF report processing
-│   ├── consolidate_data.py     # Data consolidation utilities
-│   ├── app.py                  # Streamlit dashboard application
-│   ├── conversion_factors.py   # Unit conversion utilities
-│   └── parameter_locations.csv # Parameter mapping data
-├── data/                       # Input data directory
-│   ├── 2023/                  # Data organized by year
-│   │   ├── R2/               # Region-specific data
-│   │   ├── R3/
-│   │   ├── R5/
-│   │   ├── R7/
-│   │   └── R8/
-│   └── 2024/
-├── outputs/                    # Generated output files
-│   ├── consolidated/          # Consolidated CSV files
-│   ├── 2023/                 # Processed data by year
-│   └── 2024/
-└── pyproject.toml             # Poetry dependency management
-
+ca-cafo-compliance/
+├── ca_cafo_compliance/
+│   ├── __init__.py
+│   ├── app.py                 # Streamlit web application
+│   ├── consolidate_data.py    # Data consolidation and geocoding
+│   ├── conversion_factors.py  # Constants and conversion factors
+│   ├── parameter_locations.csv # OCR parameter locations
+│   ├── parameters.csv         # Parameter definitions
+│   ├── read_reports.py        # PDF processing and data extraction
+│   └── requirements.txt       # Python dependencies
+├── data/                      # Raw PDF reports
+│   └── 2023/                  # Reports by year
+│       └── Region_5/          # Reports by region
+│           └── Merced/        # Reports by county
+│               └── Template_1/ # Reports by template type
+│                   ├── original/      # Original PDFs
+│                   ├── ocr_output/    # OCR text output
+│                   └── handwriting_ocr_output/ # Handwriting OCR output
+├── outputs/                   # Processed data
+│   ├── 2023/                  # Outputs by year
+│   │   └── Region_5/          # Outputs by region
+│   │       └── Merced/        # Outputs by county
+│   │           └── Template_1/ # Outputs by template type
+│   │               ├── Merced_2023_Template_1.csv
+│   │               └── Merced_2023_Template_1_manifests.csv
+│   └── consolidated/          # Consolidated data files
+│       ├── 2023_Region_5_master.csv
+│       └── geocoding_cache.json
+└── README.md
 ```
 
 ## Setup
 
-1. Install Poetry if you haven't already:
+1. Install dependencies:
 ```bash
-curl -sSL https://install.python-poetry.org | python3 -
+pip install -r ca_cafo_compliance/requirements.txt
 ```
 
-2. Clone this repository:
-```bash
-git clone https://github.com/yourusername/ca-cafo-compliance.git
-cd ca-cafo-compliance
+2. Place PDF reports in the appropriate directories under `data/` following the structure:
+```
+data/
+└── YEAR/
+    └── REGION/
+        └── COUNTY/
+            └── TEMPLATE/
+                └── original/
+                    └── *.pdf
 ```
 
-3. Install dependencies using Poetry:
+## Usage
+
+1. Process PDF reports:
 ```bash
-poetry install
+python -m ca_cafo_compliance.read_reports
 ```
 
-4. Activate the Poetry shell:
+2. Consolidate data and geocode addresses:
 ```bash
-poetry shell
+python -m ca_cafo_compliance.consolidate_data
 ```
 
-## Running the Application
-
-1. Make sure you have processed data in the `outputs/consolidated/` directory.
-
-2. Start the Streamlit app:
+3. Run the Streamlit app:
 ```bash
 streamlit run ca_cafo_compliance/app.py
 ```
 
-3. The application will open in your default web browser. If it doesn't, navigate to the URL shown in the terminal (typically http://localhost:8501).
-
 ## Features
 
-- Filter data by year, region, and county
-- View key metrics and statistics
-- Interactive visualizations of records by region and county
-- Download filtered data as CSV
-- Explore raw data in a tabular format
+- PDF text extraction using OCR
+- Handwriting recognition for handwritten fields
+- Data extraction from structured and unstructured text
+- Geocoding of facility addresses
+- Interactive data visualization
+- Compliance metric calculations
+- Manure and nutrient tracking
+- Wastewater analysis
 
-## Data Structure
+## Data Processing Pipeline
 
-The application expects CSV files in the `outputs/consolidated/` directory. These files should contain processed CAFO compliance data with the following columns:
-- Year
-- Region
-- County
-- Other relevant metrics
+1. **PDF Processing** (`read_reports.py`):
+   - Extracts text from PDFs using OCR
+   - Processes both typed and handwritten text
+   - Extracts data based on parameter locations
+   - Calculates compliance metrics
+
+2. **Data Consolidation** (`consolidate_data.py`):
+   - Combines data from multiple reports
+   - Geocodes facility addresses
+   - Creates master datasets by region
+
+3. **Data Visualization** (`app.py`):
+   - Interactive web interface
+   - Facility mapping
+   - Compliance metric analysis
+   - Data filtering and exploration
+
+## Key Metrics
+
+- Total Herd Size
+- Manure Generation
+- Nutrient Application
+- Wastewater Production
+- Compliance Ratios
+- Geographic Distribution
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

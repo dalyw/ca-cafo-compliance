@@ -1,0 +1,1524 @@
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Rosa Dairy
+Physical address of dairy:
+4714 E, Bear Mountain Blvd Bakersfield Kern 93307
+Number and Street City County Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01-01-2000
+
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0185-0310-0015-0000 0185-0310-0016-0000 0185-0310-0017-0000
+B. OPERATORS
+
+Manuel Rosa
+
+Operator Name: Manuel Rosa Telephone no.: (661) 667-1017
+Landline Cellular
+P.O. BOX 456 ARVIN Kern 93203
+Mailing Address Number and Street City County Zip Code
+C. OWNERS
+
+Manuel Rosa
+
+Owner Name: Manuel Rosa Telephone no.: (661) 667-1017
+
+Landline Cellular
+P.O. BOX 456 ARVIN Kern 93203
+Mailing Address Number and Street City County Zip Code
+
+PDF PAGE BREAK 1
+A. HERD INFORMATION
+
+Milk Cows Dry Cows Bred Heifers (15-24 mo.) Heifers (7-14 mo.to breeding) Calves (4-6 mo.) Calves (0-3 mo.)
+Number open confinement 0 76 145 206 0 0
+Number under roof 0 0 0 0 0 0
+Maxiumu number 1,218 236 502 461 428 428
+Average number 0 76 145 206 0 0
+Average live weight (Ibs) 1200 1250 1000 300
+Predominant milk cow breed: Holsteins
+Average Milk Production: 70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd: 4,244.87 tons per reporting period
+Total nitrogen from manure: 47,179.90 Ibs per reporting period After ammonia losses (30% loss applied): 33,025.93 /bs per reporting period
+Total phosphorus from manure: 7,467.90 Ibs per reporting period
+Total potassium from manure: 0.00 /bs per reporting period
+Total salt from manure: 17,476.20 Ibs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated: 0 gallons
+. —_—_——_ 0 gallons applied
+Total nitrogen generated: O/bs
+—_—_——— + 0 gallons exported
+Total phosphorus generated: O/bs |
+—— - 0 gallons imported
+Total potassium generated: O/bs
+—— = 0.00 gallons generated
+Total salt generated: O/bs
+
+D. FRESH WATER SOURCES
+
+Source Description Type
+East Well Ground Water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+No commercial or other nutrient imports entered.
+
+G. NUTRIENT EXPORTS
+
+PDF PAGE BREAK 2
+Reporting basis Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) TFS (%)
+
+Date Material type Quantity
+04/27/2023 Separator solids 4,268 tons as-is 68.2 8,450.00 4,770.00 14,560.00 77.00
+No process wastewater nutrient exports entered.
+Material type N (Ibs) P (Ibs) K (Ibs) TDS (%)
+Dry Manure 72,129.20 40,716.72 124,284.16 6,572,720.00
+Process wastewater 0.00 0.00 0.00 0.00
+72,129.20 40,716.72 124,284.16 6,572,720.00
+
+Total exports for all materials
+
+PDF PAGE BREAK 3
+A. LIST OF LAND APPLICATION AREAS
+
+Field name Controlled SEES poets ees WEEE Parcel number
+
+1 93.02 92.00 3 MANURE Bn88-0310-0015-0000, 0185-0310-0016-0000, 0185-0310-0017-
+Totals for areas that were used for application 93.02 92.00 3.00
+
+Totals for areas that were not used for 1.02 1.02
+
+application
+
+Land application area totals 93.02 93.02 3.00
+
+PDF PAGE BREAK 4
+Field Name: 1
+
+11/25/2022: Triticale
+
+Acres planted: 92
+
+Crop: Triticale
+Harvest date Yield
+04/28/2023 2,012.96 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+05/14/2023: Sudan
+
+Moisture (%)
+0.00
+
+Reporting basis
+As-is
+
+Density (Ibs/cu ft)
+
+Yield (tons/acre) Total N (Ibs/acre)
+
+Crop: Sudan
+Harvest date Yield
+08/11/2023 756.24 ton
+09/26/2023 911.72 ton
+
+Anticipated harvest content
+Total actual harvest content
+
+26.00 358.80
+21.88 176.60
+Acres planted: 92
+Reporting basis Density (Ibs/cu ft) Moisture (%)
+As-is 0.00
+As-is 0.00
+
+Yield (tons/acre)
+15.00
+18.13
+
+Total N (Ibs/acre)
+360.00
+110.52
+
+Plant date:
+
+N (mg/kg)
+4,035.60
+
+Total P (Ibs/acre)
+
+11/25/2022
+P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+1,162.80 5,814.00 50.40 0.00
+
+Total K (Ibs/acre)
+
+Salt (Ibs/acre)
+
+44.20 195.00 520.00
+
+50.88 254.42 0.00
+
+Plant date: 05/14/2023
+N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+3,048.00 660.00 8,769.60 211.20 0.00
+3,048.00 660.00 8,769.60 211.20 0.00
+
+Total P (Ibs/acre)
+66.00
+23.93
+
+Total K (Ibs/acre)
+495.00
+317.99
+
+Salt (Ibs/acre)
+300.00
+0.00
+
+PDF PAGE BREAK 5
+A. LAND APPLICATIONS
+
+Fieldname: 1
+
+Crop: Sudan
+
+Plant date:
+
+05/14/2023: Sudan
+
+Application date
+04/05/2023
+
+Source description
+Atmospheric Deposition
+Corral Solids
+Application event totals
+
+05/14/2023
+
+Source description
+Well Water
+Application event totals
+
+06/08/2023
+
+Source description
+Well Water
+Application event totals
+
+07/03/2023
+
+Source
+description
+
+Un 32
+
+Application method
+Surface (Irrigation)
+
+Material type
+Atmospheric deposition
+Corral Solids
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+Material type
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Well Water
+
+Application event
+totals
+
+07/28/2023
+
+Source description
+Well Water
+Application event totals
+
+08/18/2023
+
+Ground water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Surface (Irrigation)
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+14.00 0.00
+
+86.93 49.07
+100.93 49.07
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.02 0.00
+0.02 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.02 0.00
+0.02 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+17.70 0.00
+0.02 0.00
+17.72 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.02 0.00
+0.02 0.00
+
+No precipitation
+
+05/14/2023
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+149.79 7,921.76
+149.79 7,921.76
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.97 160.21
+1.97 160.21
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.99 161.79
+1.99 161.79
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+2.03 164.97
+
+2.03 164.97
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+2.03 164.97
+2.03 164.97
+
+No precipitation
+
+Precipitation during application
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+1,288.00 Lbs
+736.00 ton
+
+No precipitation
+
+Amount
+12,615,881.57 gal
+
+No precipitation
+Amount
+
+12,740,790.57 gal
+
+No precipitation
+
+Amount
+
+460.00 Gal.
+
+12,990,609.75 gal
+
+No precipitation
+
+Amount
+12,990,609.75 gal
+
+No precipitation
+
+PDF PAGE BREAK 6
+Source
+description
+
+Un 32
+
+Well Water
+
+Application event
+totals
+
+11/25/2022: Triticale
+
+Application date
+10/01/2022
+
+Source description
+Corral Solids
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Application method
+Surface (Irrigation)
+
+Material type
+Corral Solids
+
+Application event totals
+
+11/25/2022
+
+Source description
+Well Water
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+12/21/2022
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+01/20/2023
+
+Source
+description
+
+Un 32
+
+Well Water
+
+Application event
+totals
+
+02/19/2023
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+
+Commercial fertilizer / Other: Liquid
+commercial fertilizer
+
+Ground water
+
+Surface (Irrigation)
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.02 0.00
+35.41 0.00
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+156.24 55.99
+156.24 55.99
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.23 0.00
+0.23 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.24 0.00
+17.70 0.00
+17.94 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+35.39 0.00
+0.02 0.00
+35.41 0.00
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+2.03 164.97
+
+2.03 164.97
+
+No precipitation
+
+K (Ibs/acre)
+157.63
+157.63
+
+Salt (Ibs/acre)
+2,256.80
+2,256.80
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.65 146.84
+0.65 146.84
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.67 152.28
+
+0.00 0.00
+
+0.67 152.28
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+0.00 0.00
+
+2.11 171.31
+
+2.11 171.31
+
+No precipitation
+
+Precipitation during application
+
+Amount
+
+920.00 Gal.
+
+12,990,609.75 gal
+
+Precipitation 24 hours following
+No precipitation
+
+Amount
+920.00 ton
+
+No precipitation
+
+Amount
+10,117,687.29 gal
+
+No precipitation
+
+Amount
+10,492,415.48 gal
+460.00 Gal.
+
+No precipitation
+
+Amount
+
+920.00 Gal.
+
+13,490,249.32 gal
+
+No precipitation
+
+PDF PAGE BREAK 7
+Source description
+
+Well Water
+
+Material type
+Ground water
+
+Application event totals
+
+03/21/2023
+
+Source
+description
+
+Well Water
+Un 32
+
+Application event
+totals
+
+04/20/2023
+
+Source description
+
+Well Water
+
+Surface (Irrigation)
+
+Material type
+
+Ground water
+
+Commercial fertilizer / Other: Liquid
+
+commercial fertilizer
+
+Surface (Irrigation)
+
+Material type
+Ground water
+
+Application event totals
+
+N (lbs/acre) P (Ibs/acre)
+0.02 0.00
+0.02 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+
+0.02 0.00
+35.39 0.00
+35.41 0.00
+
+No precipitation
+
+N (lbs/acre) P (Ibs/acre)
+0.03 0.00
+0.03 0.00
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.92 156.08
+1.92 156.08
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+1.88 152.28
+
+0.00 0.00
+
+1.88 152.28
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre)
+2.37 192.25
+2.37 192.25
+
+Amount
+12,291,116.02 gal
+
+No precipitation
+
+Amount
+11,991,333.00 gal
+
+920.00 Gal.
+
+No precipitation
+
+Amount
+15,139,057.16 gal
+
+PDF PAGE BREAK 8
+B. NUTRIENT BUDGET
+
+1 - 05/14/2023: Sudan
+
+Fieldname: 1 Crop: Sudan Plant date: 05/14/2023
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+500 100 750 10k
+e we
+
+© o 12 @ 500 e © @ Applied
+
+5 5 5 ES 5 7
+
+§ 250 eo 4 3 50 . 3 ° § 5k ; Anisipeted
+
+2 ENS 2 v = 550 x 2 larves'
+
+s 8
+0 0 0 0
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00 64,328,501.40 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 2,369.00  acre-inches
+Commercial fertilizer / Other 53.09 0.00 0.00 0.00 25.75 — inches/acre
+Dry manure 86.93 49.07 149.79 7,921.76 -
+Process wastewater 0.00 0.00 0.00 0.00 PIGS WESTSUETET elas
+Fresh water 0.10 0.00 10.05 816.91 0.00 galfons
+Atmospheric deposition 14.00 0.00 0.00 0.00 0.00 acre-inches
+Total nutrients applied 154.12 49.07 159.84 8,738.67 0.00 _inches/acre
+Anticipated crop nutrient removal 360.00 66.00 495.00 300.00 Total Harvests for the crop
+Actual crop nutrient removal 110.52 23.93 317.99 0.00 2 harvests
+Nutrient balance 43.60 25.14 -158.14 8,738.67
+
+Applied to removed ratio 1.39 2.05 0.50 0.00
+
+PDF PAGE BREAK 9
+1 - 11/25/2022: Triticale
+
+Fieldname: 1 Crop: Triticale Plant date: 11/25/2022
+
+Nutirent budgets in Ibs/acre
+
+Nitrogen Phosphorus Potassium Salt
+500 75 400 4k
+nN
+» © &
+
+© a » 50 © a ee © @ Applied
+
+& 250 xt & & 200 ‘ 8 2k @ Anticipated
+
+2 = os 2 2 @ Harvest
+
+ee
+— | oe
+0 0 0 0
+N P K Na
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 73,521,858.28 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 2,707.56  acre-inches
+Commercial fertilizer / Other 88.48 0.00 0.00 0.00 29.43 — inches/acre
+Dry manure 156.24 55.99 157.63 2,256.80 -
+Process wastewater 0.00 0.00 0.00 0.00 FIRSTS WETSUETET Epa le
+Fresh water 0.56 0.00 9.60 971.04 0.00 galfons
+Atmospheric deposition 0.00 0.00 0.00 0.00 0.00 acre-inches
+Total nutrients applied 245.28 55.99 167.23 3,227.84 0.00 inches/acre
+Anticipated crop nutrient removal 358.80 44.20 195.00 520.00 Total Harvests for the crop
+Actual crop nutrient removal 176.60 50.88 254.42 0.00
+1 harvests
+
+Nutrient balance 68.68 5.10 -87.19 3,227.84
+
+Applied to removed ratio 1.39 1.10 0.66 0.00
+
+PDF PAGE BREAK 10
+A. MANURE ANALYSES
+
+T3090006A
+Sample and source description name: T3090006A
+Sample date: 03/17/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 35.7%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 8,450.00 4,770.00 14,560.00 24,670.00 11,180.00 6,120.00 2,100.00 1,759.00 14,560.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3167060A
+Sample and source description name: T3167060A
+Sample date: 06/12/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 45.8%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 21,020.00 4,870.00 11,670.00 12,350.00 4,940.00 3,120.00 2,500.00 884.00 11,670.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3263079A
+Sample and source description name: T3263079A
+Sample date: 09/15/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+Moisture: 9%
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 21,200.00 5,370.00 28,100.00 13,560.00 4,630.00 4,200.00 3,760.00 1,014.00 28,100.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+T3362037A
+Sample and source description name: T3362037A
+Sample date: 12/22/2023 Material type: Corral solids Source of analysis: Lab Analysis Method of reporting: As-is
+
+
+PDF PAGE BREAK 11
+Moisture: 27.2%
+
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total Salt TFS
+
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 14,210.00 3,990.00 40,690.00 8,960.00 4,040.00 5,460.00 2,630.00 824.00 40,690.00 0.00
+DL 100.00 200.00 500.00 500.00 500.00 500.00 100.00 10 10
+
+B. PROCESS WASTEWATER ANALYSES
+
+T3089018A
+Sample and source description name: T3089018A
+Sample date: 03/17/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+Kjeldahl-N = NH4-N  NH3-N_ Nitrate-N  TotalP TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) — (mg/L)
+Value 19.60 0.00 5.60 0.11 3.10 86.25 29.90 7.50 76.07 0.00 0.00 48.92 43.18 0.48 180.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+T3167003A
+Sample and source description name: T3167003A
+Sample date: 06/12/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+Kjeldahl-N NH4-N  NH3-N_ Nitrate-N  TotalP TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) — (mg/L)
+Value 14.00 0.00 5.60 0.77 83.90 420.64 98.42 99.98 278.15 0.00 0.00 76.41 32.50 0.38 120.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+T3263053A
+Sample and source description name: T3263053A
+Sample date: 09/15/2023 Material type: Process wastewater Source of analysis: Lab Analysis pH: 0
+Kjeldahl-N = NH4-N  NH3-N_ Nitrate-N  TotalP TotalK Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) — (mg/L)
+Value 11.20 0.00 2.80 0.00 0.80 3.30 15.56 2.74 56.41 0.00 0.00 34.27 42.90 0.47 260.00
+DL 0.50 0.50 0.50 0.50 0.20 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+
+C. FRESH WATER ANALYSES
+
+
+PDF PAGE BREAK 12
+East Well
+
+T3228020A
+Sample and source description name: T3228020A
+Sample date: 08/14/2023 Source of analysis: Lab Analysis
+Total N NH4-N Nitrate-N Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mmhos/cm) (mg/L)
+Value 0.02 0.00 0.02 9.97 0.87 55.17 0.00 0.00 38.87 32.69 0.36 140.00
+DL 0.50 0.50 0.50 0.50 0.50 0.50 2.00 2.00 0.50 0.50 1.00 10
+D. SOIL ANALYSES
+No soil analyses entered.
+E. PLANT TISSUE ANALYSES
+1 - 11/20/2022: Triticale
+T3362052A
+Sample
+description: T3362052A
+Sample date: 05/20/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 11,210.00 3,230.00 16,150.00 140.00 0.00
+DL 100.00 200.00 500.00 0.10
+1 - 04/05/2023: Sudan
+T3228046A
+Sample
+description: T3228046A
+Sample date: 08/11/2023 Source of analysis: Lab Analysis Method of reporting: = Dry
+Mositure: 0%
+Total N Total P Total K Total Salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+
+PDF PAGE BREAK 13
+Value 12,700.00 2,750.00 36,540.00 880.00 0.00
+DL 100.00 200.00 500.00 0.10
+
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+No subsurface (tile) drainage analyses entered.
+
+PDF PAGE BREAK 14
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Existing soil nutrient content 0.00 0.00 0.00 0.00
+Plowdown credit 0.00 0.00 0.00 0.00
+Commercial fertilizer / Other 13,024.44 0.00 0.00 0.00
+Dry manure 22,371.97 9,665.50 28,282.83 2,256.80
+Process wastewater 0.00 0.00 0.00 0.00
+Fresh water 60.72 0.00 1,807.80 971.04
+Atmospheric deposition 1,288.00 0.00 0.00 0.00
+Total nutrients applied 36,745.13 9,665.50 30,090.63 1,100,918.92
+Anticipated crop nutrient removal 66,129.60 10,138.40 63,480.00 75,440.00
+Actual crop nutrient removal 26,414.89 6,883.05 52,661.38 0.00
+Nutrient balance 10,330.24 2,782.45 -22,570.75 1,100,918.92
+Applied to removed ratio 1.39 1.40 0.57 0.00
+
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+Nutirent budgets in Ibs/acre
+Nitrogen Phosphorus Potassium Salt
+100k 15k 100k 1,500k
+oo .
+8 10k ee @ 1,000k @ Applied
+8 50k fe xe 8 8 8 @ Anticipated
+2
+
+eo
+®
+a a * @ Harvest
+5k 500k 19
+yo
+——— Sh ——— ——— Sh EE
+K
+
+PDF PAGE BREAK 15
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+
+Existing soil nutrient
+content
+
+Plowdown credit
+
+Commercial fertilizer /
+Other
+
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+
+Existing soil nutrient
+content
+
+Plowdown credit
+
+Commercial fertilizer /
+Other
+
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+
+Pounds of Nitrogen Applied
+
+SE
+
+10k 15k
+
+Pounds of Potassium Applied
+
+20k
+
+Ibs
+
+(225372)
+
+20k
+
+Existing soil nutrient
+content
+
+Plowdown credit
+
+Commercial fertilizer /
+Other
+
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+
+25k
+
+Existing soil nutrient
+content
+
+Plowdown credit
+
+Commercial fertilizer /
+Other
+
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+
+30k
+
+Pounds of Phosphorus Applied
+
+ie} 2.5k 5k 7.5k 10k
+
+Ibs
+
+Pounds of Salt Applied
+
+0
+[MED 14,401
+0
+ie} 250k 500k 750k
+Ibs
+
+12.5k
+
+1,000k
+
+PDF PAGE BREAK 16
+A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise) when not in
+accordance with the facility's Nutrient Management Plan.
+
+No manure or process wastewater discharges occurred during the reporting period.
+
+B. STORM WATER DISCHARGES
+
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient
+Management Plan.
+
+No stormwater discharges occurred during the reporting period.
+
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the facility's Nutrient
+Management Plan.
+
+No land application area to surface water discharges occurred during the reporting period.
+
+PDF PAGE BREAK 17
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+
+Was the facility's NMP updated in the reporting period?
+
+Yes
+Was the facility's NMP developed by a certified nutrient management planner (specialist) as specified in
+Attachment C of the General Order? Yes
+Was the facility's NMP approved by a certified nutrient management planner (specialist) as specified in
+Attachment C of the General Order? Yes
+
+B. EXPORT AGREEMENT STATEMENT
+
+Are there any written agreements with third parties to receive manure or process wastewater that are new or
+were revised within the reporting period? No
+
+PDF PAGE BREAK 18
+A. NOTES
+
+No notes entered for this annual report.
+
+PDF PAGE BREAK 19
+A. OWNER AND/OR OPERATOR CERTIFICATION
+| certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry of those
+
+individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant penalties for submitting
+false information, including the possibility of fine and imprisonment.
+
+f an a f md
+
+SIGNATURE OF OWNER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
+Manuel Rosa Manuel Rosa
+
+PRINT OR TYPE NAME PRINT OR TYPE NAME
+
+6/29/2024 6/29/2024
+
+DATE DATE
+
+PDF PAGE BREAK 20
+A. REQUIRED ATTACHMENTS,
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+PDF PAGE BREAK 21
+Solid/Liquid Manure Tracking Manifest
+
+Waste Generator Information: Contact:
+Name: Manuel Rosa Name:
+Facility Name: Rosa Dairy Number:
+Facility Address: 4714 E, Bear Mountain Blvd
+
+Facility City/State: Bakersfield, CA 93307
+
+Manure Hauler / Processor Information: Contact:
+Name: Brachena Ag Services, Inc Name:
+Facility Address: 9442 Bear Mountain Blvd. Number:
+
+Facility City/State: Bakersfield, CA 93311
+
+Manuel Rosa
+
+(661) 667-1017
+
+Fred Amirfar
+
+(661) 978-9321
+
+Manure Destination Farmer
+
+Destination Information: Contact:
+Name: Grimmway Farms Name: Grimmway Farms
+Facility Address: PO Box 81498 Number: (661) 845-5289
+
+Facility City/State: Bakersfield, CA
+
+Dates Hauled / Transferred Amount Hauled / Transferred
+Apr 1, 2023 - Apr, 30 2023 4,268
+Total 4,268
+
+Units Moisture %
+ton 68 %
+
+If amount hauled / transferred is liquid, then a "Waste
+Water Agreement" is required in compliance with
+Land Application Specification C.2 of the General
+Order R5-2007-0035.
+
+Does the operator have an agreement, and is a
+Waste Water Agreement on file with the
+RWQCD? NO
+
+| declare under the penalty of law that | personally
+examined and am familiar with the information
+submitted in this document, and that based on my
+inquiry of those individuals immediately responsible
+for obtaining the information, | believe that the
+information is true, accurate and complete. | am
+aware that there are significant penalties for
+submitting false information., including the possibility
+of a fine and imprisonment for knowing violations.
+
+Signature of Owner:
+
+[
+
+Date:
+12/30/2023
+
+Signature of Hauler:
+
+Date:
+12/30/2023
+
+
+PDF PAGE BREAK 22
+
+PDF PAGE BREAK 23
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Rosa Dairy-Bakersfield Icon Ag
+
+P.O. Box 456 9530 Hageman Rad, Ste B. #292
+Arvin, CA 93203 Bakersfield, CA 93312
+PURCHASE ORDER: Boron (B)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/18/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+East Well T3228020A Boron (B) EPA 200.7 0.113 ppm
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 24
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+Rosa Dairy-Bakersfield Icon Ag
+P.O. Box 456 9530 Hageman Rad, Ste B. #292
+
+Arvin, CA 93203
+
+Bakersfield, CA 93312
+
+PURCHASE ORDER:
+RECEIVED DATE:
+SUBMITTED BY:
+ANALYZED DATE:
+
+Irrigation /Ground Water (H14)
+8/16/23 10:00 AM SOURCE: Well Water
+Courier
+
+8/18/23
+
+Units
+
+mmbhos/cm
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+
+Method Ref Result
+
+EPA 120.1 and
+
+SM 2320B-2011
+SM 2320B-2011
+EPA 375.2
+
+EPA 200.7
+
+SM 4500-NH3 D,C
+EPA 200.7
+
+EPA 353.2
+
+SM 2540 C-1997 and
+EPA 200.7
+
+SM 4500-Cl D-2011
+Calculation
+
+Lab ID
+T3228020A
+
+Sample ID
+East Well
+
+Analyte
+
+Electrical Conductivity (EC)
+Bicarbonate Alkalinity (ALK-B)
+Carbonate Alkalinity (Carb)
+Sulfate (SO4)
+
+Sodium (Na)
+
+Ammonia Nitrogen (NH3-N)
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Total Dissolved Solids (TDS)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Soluble Salts (SALT-SOL)
+
+LCS % MS % RPD %
+100 (T3228016A)
+90.9 (T3228021A)
+96.4 (T3228016A)
+91.3 (T3228021A)
+100 (T3228016A)
+78.9 (T3228021A)
+
+114 (T3228016A)
+
+MSD %
+102 (T3228016A)
+93.1 (T3228021A)
+96.9 (T3228016A)
+95.2 (T3228021A)
+96.7 (T3228016A)
+85.1 (T3228021A)
+107 (T3228016A)
+
+Sample mg/L
+
+Dup mg/L
+
+Laboratory Quality Control
+
+Ammonia Nitrogen (NH3-N)
+Calcium (Ca)
+
+Chloride (Cl)
+
+Magnesium (Mg)
+
+Nitrate Nitrogen (NO3-N)
+Sodium (Na)
+
+Sulfate (SO4)
+
+Total Dissolved Solids (TDS)
+
+410 (T3228024B) 435 (Dup)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 2 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 25
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Rosa Dairy-Bakersfield Icon Ag
+
+P.O. Box 456 9530 Hageman Rad, Ste B. #292
+Arvin, CA 93203 Bakersfield, CA 93312
+PURCHASE ORDER: Icon Sampling Fee (ISF)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/16/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+East Well T3228020A Icon Sampling Fee (ISF) 1664B 0.000 N/A
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 3 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 26
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Rosa Dairy-Bakersfield Icon Ag
+
+P.O. Box 456 9530 Hageman Rad, Ste B. #292
+Arvin, CA 93203 Bakersfield, CA 93312
+PURCHASE ORDER: PH (pH)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: 8/18/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+East Well T3228020A pH (pH) SM4500-H+ B-2000 78 S.U.
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 4 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 27
+Denele Analytical, Inc.
+
+865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
+Phone (209) 634-9055 - Fax (209) 634-9057 Phone (530) 666-9056 - Fax (530) 666-9058
+
+www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer Grower Consultant:
+
+Rosa Dairy-Bakersfield Icon Ag
+
+P.O. Box 456 9530 Hageman Rad, Ste B. #292
+Arvin, CA 93203 Bakersfield, CA 93312
+PURCHASE ORDER: Total Nitrogen (TN)
+
+RECEIVED DATE: 8/16/23 10:00 AM SOURCE: Well Water
+
+SUBMITTED BY: Courier
+ANALYZED DATE: = 8/22/23
+
+Sample ID Lab ID Analyte Method Ref Result Units
+East Well T3228020A Total Nitrogen (TN) SM 4500-NH3 D,C < 1.50 %
+Laboratory Quality Control LCS % MS % MSD % RPD %
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 5 ELAP Certificate No.: 2714
+
+PDF PAGE BREAK 28
+= = = Date
+Irrigation / Ground / Tile Water 92
+gp (H- Ju2>
+.. . Sampled By
+ICON Dominic Patino WY
+Agricultural apres 7778 is
+If (661) 215-5168 EabiName
+9530 Hageman Rd. Ste B, #292 Bakersfield, CA 93312 {4 dpatino@iconaginc.com Ve ynZle
+-\Location: ee . _ |
+Rosa Dairy Rosa Dairy
+Temp | # of Bags/ ea]
+Ranch: Home Ranch Analysis Weather Cr) Bottles, Pes Ranch: Home Ranch }:i70
+é Date: ff [+] - ”
+***Required Field Measurement No LatiLng
+NH4-N Check here if performed
+Hof Bags! Place RAN Label Here
+Analysis Types Bottles Place additional labels on
+OO sample bags/bottles
+WS5 - Ag Suitability (Non-Compliance) | | _
+W1 + Ca, Mg, Na, Bicard, SO4, Cl, B Location: a
+W4 - pH, SpCon, TDS, Ca, CO3, Ca, Mg, Na, K, oeee =
+Analysis|Weather| Temp | # of Bags/ Place (@g7hy Label Here
+nalysis|Weather:
+S04, Cl, B (Reg 3 comp) u (°F) Bottles Place additional labels on
+W1 - EC, pH, NO3-N, TN, TDS, NH4-N*** (Reg 5 a sample bags/bottles
+comp) L___|:__ ——— ——
+W3 - W2 + TP, NH4-N, Carb (tile drain) 4 Location:
+Weather Conditions gree ag ee ea Place QAM Label Here
+——.? Jo analysis|weather] e™P Hof Bags! CHAIN] :
+(°F) Bottles Place additional labels on
+Sunny & Hot t sample bags/bottles
+CC - Cold & Cloudy
+SW - Sunny & Warm | Location: i OO
+CCL - Cold & Clear wii -
+: = apse | # of Baas/ ace (4 Label Here
+R - Rain Analysis|Weather| Te™P | # of Bags!
+y ¥ (°F) Bottles Place additional labels on
+_ sample bags/bottles
+[| Location: — LS a
+6.
+= lewarBaa Place (@gPN Label Here
+Analysis|Weather Temp: Ol Bags! ; CHAIN}
+; (CF) Bottles Place additional labels on
+a sample bags/botiles
+Chain of Custody Recording Log
+T T T T
+| | | - | Relinquished
+; Signature Company | Received Date/Time Date/Ti in | Laboratory Use Only
+| "
+abo Ubea | Lan hey | a 15-9993 * a Logged in By: Laboratory #
+
+e
+——~
+
+|
+Penell Fb I3-10 1D/0D
+
+|
+
+|
+|
+| T 2DAVOQ0
+
