@@ -62,26 +62,37 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
             # print(line)
             # print(phrase)
             text_after = line[phrase_idx + len(phrase):].strip()
-            
-            # # Special handling for facility name and address
-            # if phrase.lower() in ['facility name:', 'facility address']:
-            #     # For facility name, get everything until the next field
-            #     if phrase.lower() == 'facility name:':
-            #         next_field_idx = text_after.lower().find('facility address')
-            #         if next_field_idx != -1:
-            #             text_after = text_after[:next_field_idx].strip()
-            #     # For facility address, get everything until the next line
-            #     elif phrase.lower() == 'facility address':
-            #         next_line_idx = text_after.find('\n')
-            #         if next_line_idx != -1:
-            #             text_after = text_after[:next_line_idx].strip()
-            
-            # If ignore_after is specified, cut off text at that point
+
+            # Process ignore_after first if specified
             if ignore_after and not pd.isna(ignore_after):
-                ignore_idx = text_after.lower().find(ignore_after.lower())
-                if ignore_idx != -1:
+                # Try to find the ignore_after text with various possible formats
+                ignore_text = ignore_after.lower()
+                possible_ignore_texts = [
+                    f"{ignore_text}:",  # Try with colon first since that's most common
+                    ignore_text,
+                    f"{ignore_text}-",
+                    f"{ignore_text} -",
+                    f"{ignore_text} :"
+                ]
+                
+                # Find the earliest occurrence of any version
+                ignore_indices = []
+                for possible_text in possible_ignore_texts:
+                    idx = text_after.lower().find(possible_text)
+                    if idx != -1:
+                        ignore_indices.append(idx)
+                
+                if ignore_indices:
+                    # Use the earliest occurrence
+                    ignore_idx = min(ignore_indices)
                     text_after = text_after[:ignore_idx].strip()
-            
+
+            # Then process ignore_before if specified
+            if ignore_before and not pd.isna(ignore_before):
+                ignore_idx = text_after.lower().find(ignore_before.lower())
+                if ignore_idx != -1:
+                    text_after = text_after[ignore_idx + len(ignore_before):].strip()
+
             # If we have a value pattern, use it to extract the numeric value
             if value_pattern and not pd.isna(value_pattern):
                 try:
@@ -91,7 +102,7 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
                 except re.error:
                     # If pattern is invalid, just return the text
                     return text_after
-            
+
             # Otherwise return the text after the phrase
             return text_after
             
@@ -237,6 +248,8 @@ def load_ocr_text(pdf_path):
                 text = text.replace("Maxiumu", "Maximum")
                 text = text.replace(",", "")
                 text = text.replace("=", "")
+                text = text.replace(":", "")
+                text = text.replace("  ", " ")
 
                 return text
     

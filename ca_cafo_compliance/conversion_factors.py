@@ -27,3 +27,13 @@ REGIONS = ['R2', 'R3', 'R5', 'R7', 'R8']
 
 # File paths
 GEOCODING_CACHE_FILE = "outputs/geocoding_cache.json"
+
+# Consultant name mapping
+consultant_mapping = {
+    'general_order': 'Self-completed',
+    'generic_r7': 'Self-completed',
+    'generic_r2': 'Self-completed',
+    'innovative_ag': 'Innovative Ag',
+    'livingston': 'Livingston',
+    'provost_pritchard': 'Provost Prichard'
+}

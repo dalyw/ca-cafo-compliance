@@ -1,6 +1,6 @@
 region,template,parameter_key,page_search_text,search_direction,row_search_text,column_search_text,item_order,ignore_before,ignore_after,value_pattern
-5,general_order,dairy_name,NA,right,THE DAIRY:,NA,NA,NA,NA,NA
-5,general_order,dairy_address,NA,below,address of dairy:,NA,NA,NA,NA,NA
+5,general_order,dairy_name,NA,right,THE DAIRY,NA,NA,NA,NA,NA
+5,general_order,dairy_address,NA,below,address of dairy,NA,NA,NA,NA,NA
 5,general_order,max_milk_cows,HERD INFORMATION,right,Maximum number,NA,0,NA,NA,\d+
 5,general_order,max_dry_cows,HERD INFORMATION,right,Maximum number,NA,1,NA,NA,\d+
 5,general_order,max_bred_heifers,HERD INFORMATION,right,Maximum number,NA,2,NA,NA,\d+
@@ -14,18 +14,18 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,general_order,avg_calves_4_6_mo,HERD INFORMATION,right,Average number,NA,4,NA,NA,\d+
 5,general_order,avg_calves_0_3_mo,HERD INFORMATION,right,Average number,NA,5,NA,NA,\d+
 5,general_order,avg_other,NA,NA,NA,NA,NA,NA,NA,NA
-5,general_order,total_manure_excreted_tons,NA,right,Total manure excreted by the herd:,NA,NA,NA,tons,\d+\.?\d*
-5,general_order,avg_milk_production_lb_per_cow_per_day,NA,right,milk production:,NA,NA,NA,pounds,\d+\.?\d*
-5,general_order,total_dry_manure_gen_n_after_ammonia_losses_lbs,NA,right,loss applied):,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_dry_manure_gen_n_lbs,NA,right,Total nitrogen from manure:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_dry_manure_gen_p_lbs,NA,right,Total phosphorus from manure:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_dry_manure_gen_k_lbs,NA,right,Total potassium from manure:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_dry_manure_gen_salt_lbs,NA,right,Total salt from manure:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_process_wastewater_gen_gals,NA,right,water generated:,NA,NA,NA,gal,\d+\.?\d*
-5,general_order,total_process_wastewater_gen_n_lbs,NA,right,nitrogen generated:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_process_wastewater_gen_p_lbs,NA,right,phosphorus generated:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_process_wastewater_gen_k_lbs,NA,right,potassium generated:,NA,NA,NA,lbs,\d+\.?\d*
-5,general_order,total_process_wastewater_gen_salt_lbs,NA,right,Total salt generated:,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_manure_excreted_tons,NA,right,Total manure excreted by the herd,NA,NA,NA,tons,\d+\.?\d*
+5,general_order,avg_milk_production_lb_per_cow_per_day,NA,right,milk production,NA,NA,NA,pounds,\d+\.?\d*
+5,general_order,total_dry_manure_gen_n_after_ammonia_losses_lbs,NA,right,loss applied),NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_dry_manure_gen_n_lbs,NA,right,Total nitrogen from manure,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_dry_manure_gen_p_lbs,NA,right,Total phosphorus from manure,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_dry_manure_gen_k_lbs,NA,right,Total potassium from manure,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_dry_manure_gen_salt_lbs,NA,right,Total salt from manure,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_process_wastewater_gen_gals,NA,right,water generated,NA,NA,NA,gal,\d+\.?\d*
+5,general_order,total_process_wastewater_gen_n_lbs,NA,right,nitrogen generated,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_process_wastewater_gen_p_lbs,NA,right,phosphorus generated,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_process_wastewater_gen_k_lbs,NA,right,potassium generated,NA,NA,NA,lbs,\d+\.?\d*
+5,general_order,total_process_wastewater_gen_salt_lbs,NA,right,Total salt generated,NA,NA,NA,lbs,\d+\.?\d*
 5,general_order,total_exports_n_lbs,NUTRIENT EXPORTS,right,Total Nitrogen Exported,NA,NA,NA,NA,\d+\.?\d*
 5,general_order,total_exports_p_lbs,NUTRIENT EXPORTS,right,Total Phosphorus Exported,NA,NA,NA,NA,\d+\.?\d*
 5,general_order,total_exports_k_lbs,NUTRIENT EXPORTS,right,Total Potassium Exported,NA,NA,NA,NA,\d+\.?\d*
@@ -100,18 +100,18 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,livingston,avg_calves_4_6_mo,Herd Information,right,Average number,space,NA,NA,NA,\d+
 5,livingston,avg_calves_0_3_mo,Herd Information,table,Average Number,Calves (0-3 mo),NA,NA,NA,\d+
 5,livingston,avg_other,NA,NA,NA,NA,NA,NA,NA,NA
-5,livingston,total_manure_excreted_tons,Herd Information,right,excreted by the herd:,NA,1,NA,NA,\d+\.?\d*
+5,livingston,total_manure_excreted_tons,Herd Information,right,excreted by the herd,NA,1,NA,NA,\d+\.?\d*
 5,livingston,avg_milk_production_lb_per_cow_per_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA,\d+\.?\d*
-5,livingston,total_dry_manure_gen_n_after_ammonia_losses_lbs,Herd Information,right,excreted by the herd:,NA,NA,NA,NA,\d+\.?\d*
-5,livingston,total_dry_manure_gen_n_lbs,Herd Information,right,nitrogen from manure:,NA,NA,NA,NA,\d+\.?\d*
+5,livingston,total_dry_manure_gen_n_after_ammonia_losses_lbs,Herd Information,right,excreted by the herd,NA,NA,NA,NA,\d+\.?\d*
+5,livingston,total_dry_manure_gen_n_lbs,Herd Information,right,nitrogen from manure,NA,NA,NA,NA,\d+\.?\d*
 5,livingston,total_dry_manure_gen_p_lbs,NA,NA,NA,NA,NA,NA,NA,
 5,livingston,total_dry_manure_gen_k_lbs,NA,NA,NA,NA,NA,NA,NA,
 5,livingston,total_dry_manure_gen_salt_lbs,Herd Information,below,After Ammonia,NA,NA,NA,NA,\d+\.?\d*
-5,livingston,total_process_wastewater_gen_gals,Herd Information,right,Process wastewater gen:,NA,NA,NA,NA,\d+\.?\d*
-5,livingston,total_process_wastewater_gen_n_lbs,Herd Information,right,nitrogen gen:,NA,NA,NA,NA,\d+\.?\d*
+5,livingston,total_process_wastewater_gen_gals,Herd Information,right,Process wastewater gen,NA,NA,NA,NA,\d+\.?\d*
+5,livingston,total_process_wastewater_gen_n_lbs,Herd Information,right,nitrogen gen,NA,NA,NA,NA,\d+\.?\d*
 5,livingston,total_process_wastewater_gen_p_lbs,,,NA,NA,NA,NA,NA,NA
 5,livingston,total_process_wastewater_gen_k_lbs,,,NA,NA,NA,NA,NA,NA
-5,livingston,total_process_wastewater_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,(TDS) gen:,NA,NA,NA,NA,\d+\.?\d*
+5,livingston,total_process_wastewater_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,(TDS) gen,NA,NA,NA,NA,\d+\.?\d*
 5,livingston,total_exports_n_lbs,ESTIMATED TOTAL MANURE TRANSFERRED OFFSITE,below,Total Nitrogen,NA,1,NA,NA,\d+\.?\d*
 5,livingston,total_exports_p_lbs,ESTIMATED TOTAL MANURE TRANSFERRED OFFSITE,below,Total Phosphorus,NA,1,NA,NA,\d+\.?\d*
 5,livingston,total_exports_k_lbs,ESTIMATED TOTAL MANURE TRANSFERRED OFFSITE,below,Total Potassium,NA,1,NA,NA,\d+\.?\d*
@@ -128,16 +128,16 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,livingston,applied_to_removed_ratio_p,Summary of Nutrient Applications,right,Applied to removed ratio,NA,1,NA,NA,\d+\.?\d*
 5,livingston,applied_to_removed_ratio_k,Summary of Nutrient Applications,right,Applied to removed ratio,NA,2,NA,NA,\d+\.?\d*
 5,livingston,applied_to_removed_ratio_salt,Summary of Nutrient Applications,right,Applied to removed ratio,NA,3,NA,NA,\d+\.?\d*
-2,generic_r2,dairy_name,NA,right,Facility Name:,NA,NA,NA,Facility Address,NA
+2,generic_r2,dairy_name,NA,right,Facility Name,NA,NA,NA,Facility Address,NA
 2,generic_r2,dairy_address,NA,right,Facility Address,NA,NA,NA,NA,NA
-2,generic_r2,max_milk_cows,Facility Name,right,Current # of mature dairy cows (milking + dry):,NA,0,NA,NA,\d+
-2,generic_r2,max_dry_cows,Facility Name,right,Current # and type of other animals:,NA,0,NA,NA,\d+
-2,generic_r2,max_bred_heifers,Facility Name,right,Current # and type of other animals:,NA,0,NA,NA,\d+
-2,generic_r2,max_heifers,Facility Name,right,Current # and type of other animals:,NA,0,NA,NA,\d+
+2,generic_r2,max_milk_cows,Facility Name,right,Current # of mature dairy cows (milking + dry),NA,0,NA,NA,\d+
+2,generic_r2,max_dry_cows,Facility Name,right,Current # and type of other animals,NA,0,NA,NA,\d+
+2,generic_r2,max_bred_heifers,Facility Name,right,Current # and type of other animals,NA,0,NA,NA,\d+
+2,generic_r2,max_heifers,Facility Name,right,Current # and type of other animals,NA,0,NA,NA,\d+
 2,generic_r2,max_calves_4_6_mo,NA,NA,NA,NA,0,NA,NA,NA
 2,generic_r2,max_calves_0_3_mo,NA,NA,NA,NA,0,NA,NA,NA
-2,generic_r2,avg_milk_cows,Facility Name,right,dry):,NA,0,NA,NA,\d+
-2,generic_r2,avg_dry_cows,Facility Name,right,Current # and type of other animals:,NA,0,NA,NA,\d+
+2,generic_r2,avg_milk_cows,Facility Name,right,dry),NA,0,NA,NA,\d+
+2,generic_r2,avg_dry_cows,Facility Name,right,Current # and type of other animals,NA,0,NA,NA,\d+
 2,generic_r2,avg_bred_heifers,NA,NA,NA,NA,0,NA,NA,NA
 2,generic_r2,avg_heifers,NA,NA,NA,NA,0,NA,NA,NA
 2,generic_r2,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,NA,NA
@@ -171,8 +171,8 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 2,generic_r2,applied_to_removed_ratio_p,NA,NA,NA,NA,0,NA,NA,NA
 2,generic_r2,applied_to_removed_ratio_k,NA,NA,NA,NA,0,NA,NA,NA
 2,generic_r2,applied_to_removed_ratio_salt,NA,NA,NA,NA,0,NA,NA,NA
-7,generic_r7,dairy_name,NA,right,Facility Name:,NA,NA,NA,NA,NA
-7,generic_r7,dairy_address,NA,right,Facility Address:,NA,NA,NA,NA,NA
+7,generic_r7,dairy_name,NA,right,Facility Name,NA,NA,NA,NA,NA
+7,generic_r7,dairy_address,NA,right,Facility Address,NA,NA,NA,NA,NA
 7,generic_r7,max_milk_cows,NA,right,Mature Dairy Cows,NA,0,NA,NA,\d+
 7,generic_r7,max_dry_cows,NA,right,Other Cattle,NA,0,NA,NA,\d+
 7,generic_r7,max_bred_heifers,NA,right,NA,NA,0,NA,NA,NA
@@ -186,7 +186,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 7,generic_r7,avg_calves_4_6_mo,Estimated Manure and Nutrients Generated,right,Veal Calves,NA,1,NA,NA,\d+
 7,generic_r7,avg_calves_0_3_mo,Estimated Manure and Nutrients Generated,right,NA,NA,1,NA,NA,NA
 7,generic_r7,avg_other,NA,NA,NA,NA,NA,NA,NA,NA
-7,generic_r7,total_manure_excreted_tons,"Manure, Litter, And Process",right,manure gen during the reporting period:,NA,NA,NA,NA,\d+\.?\d*
+7,generic_r7,total_manure_excreted_tons,"Manure, Litter, And Process",right,manure gen during the reporting period,NA,NA,NA,NA,\d+\.?\d*
 7,generic_r7,avg_milk_production_lb_per_cow_per_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA,\d+\.?\d*
 7,generic_r7,total_dry_manure_gen_n_after_ammonia_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA,\d+\.?\d*
 7,generic_r7,total_dry_manure_gen_n_lbs,Estimated Manure and Nutrients Generated,below,NITROGEN,NA,-1,NA,NA,\d+\.?\d*
@@ -214,11 +214,11 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 7,generic_r7,applied_to_removed_ratio_p,LAND APPLICATION OF MANURE,right,Applied to removed ratio,NA,1,NA,NA,\d+\.?\d*
 7,generic_r7,applied_to_removed_ratio_k,LAND APPLICATION OF MANURE,right,Applied to removed ratio,NA,2,NA,NA,\d+\.?\d*
 7,generic_r7,applied_to_removed_ratio_salt,LAND APPLICATION OF MANURE,right,Applied to removed ratio,NA,3,NA,NA,\d+\.?\d*
-5,manifest_R5_2007,operator_name,OPERATOR INFORMATION,right,Name of Operator:,NA,NA,NA,NA,NA
-5,manifest_R5_2007,hauling_company,OPERATOR INFORMATION,right,Name of Hauling Company/Person:,NA,NA,NA,NA,NA
+5,manifest_R5_2007,operator_name,OPERATOR INFORMATION,right,Name of Operator,NA,NA,NA,NA,NA
+5,manifest_R5_2007,hauling_company,OPERATOR INFORMATION,right,Name of Hauling Company/Person,NA,NA,NA,NA,NA
 5,manifest_R5_2007,destination_address,OPERATOR INFORMATION,right,Destination Address,NA,NA,NA,NA,NA
-5,manifest_R5_2007,manure_amount,MANURE AMOUNT HAULED,right,Manure:,NA,NA,NA,NA,\d+\.?\d*
-5,manifest_R5_2007,manure_solids_content,MANURE AMOUNT HAULED,right,Manure Solids Content:,NA,NA,NA,NA,\d+\.?\d*
+5,manifest_R5_2007,manure_amount,MANURE AMOUNT HAULED,right,Manure,NA,NA,NA,NA,\d+\.?\d*
+5,manifest_R5_2007,manure_solids_content,MANURE AMOUNT HAULED,right,Manure Solids Content,NA,NA,NA,NA,\d+\.?\d*
 5,provost_pritchard,dairy_name,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA,NA
 5,provost_pritchard,dairy_address,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA,NA
 5,provost_pritchard,max_milk_cows,Attachment A,table,Milk Cows,Maximum,NA,NA,NA,\d+

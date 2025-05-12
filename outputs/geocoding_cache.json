@@ -520,10 +520,11 @@
     "lng": -120.2743195
   },
   "9499 Avenue 20 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:48:35.485409"
+    "lat": 37.043305010089,
+    "lng": -120.3740479892,
+    "timestamp": "2025-05-12T11:05:00.855474",
+    "successful_format": "9499 Avenue 20 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "18177 Road 10 1/2": {
     "lat": 37.0155098,
@@ -532,10 +533,11 @@
     "successful_format": "18177 Road 10 1/2, California"
   },
   "4109 E Conejo AVE Selma Fresno 93662": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:48:54.223712"
+    "lat": 36.515457088368,
+    "lng": -119.716613916548,
+    "timestamp": "2025-05-12T11:05:25.516245",
+    "successful_format": "4109 E Conejo AVE Selma Fresno 93662",
+    "geocoder": "ArcGIS"
   },
   "8555 S Valentine AVE": {
     "lat": 36.6109618,
@@ -544,16 +546,18 @@
     "successful_format": "8555 S Valentine AVE"
   },
   "5336 W Harlan AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:49:08.969862"
+    "lat": 36.445341547908,
+    "lng": -119.895057125292,
+    "timestamp": "2025-05-12T11:05:50.442348",
+    "successful_format": "5336 W Harlan AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "8489 E. Elkhorn AVE Selma Fresno 93662": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:49:21.439505"
+    "lat": 36.485438349883,
+    "lng": -119.640582678672,
+    "timestamp": "2025-05-12T11:06:11.791270",
+    "successful_format": "8489 E. Elkhorn AVE Selma Fresno 93662",
+    "geocoder": "ArcGIS"
   },
   "5450 N Sierra Vista AVE Fresno Fresno 93740": {
     "lat": 36.8319301,
@@ -566,10 +570,11 @@
     "timestamp": "2025-05-09T15:40:49.050474"
   },
   "4604 W Harlan AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:49:32.784407"
+    "lat": 36.448355427221,
+    "lng": -119.879655176718,
+    "timestamp": "2025-05-12T11:06:38.515280",
+    "successful_format": "4604 W Harlan AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "3760 E Mount Whitney AVE": {
     "lat": 36.431067,
@@ -577,10 +582,11 @@
     "timestamp": "2025-05-09T15:40:55.604775"
   },
   "20400 Ave. 17 1/2 AVE Madera Madera 93637": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:49:44.611202"
+    "lat": 37.001823013184,
+    "lng": -120.179701997051,
+    "timestamp": "2025-05-12T11:07:11.743447",
+    "successful_format": "20400 Ave. 17 1/2 AVE Madera Madera 93637",
+    "geocoder": "ArcGIS"
   },
   "10262 W Elkhorn AVE Burrel Fresno 93607": {
     "lat": 36.4885522,
@@ -594,10 +600,11 @@
     "successful_format": "23732 Road 12"
   },
   "41198 W Valeria AVE Dos Palos Fresno 93620": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:49:57.302944"
+    "lat": 36.981815987186,
+    "lng": -120.53036288397,
+    "timestamp": "2025-05-12T11:07:36.746068",
+    "successful_format": "41198 W Valeria AVE Dos Palos Fresno 93620",
+    "geocoder": "ArcGIS"
   },
   "15886 S Lassen AVE Helm Fresno 93627": {
     "lat": 36.5347007,
@@ -605,82 +612,95 @@
     "timestamp": "2025-05-09T15:41:14.404575"
   },
   "541 East Wood AVE Laton Kings 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:50:10.308657"
+    "lat": 36.421863332587,
+    "lng": -119.787093400856,
+    "timestamp": "2025-05-12T11:08:08.487366",
+    "successful_format": "541 East Wood AVE Laton Kings 93242",
+    "geocoder": "ArcGIS"
   },
   "20677 S East AVE Laton Fresno 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:50:21.568508"
+    "lat": 36.434548714401,
+    "lng": -119.782809493962,
+    "timestamp": "2025-05-12T11:08:30.829579",
+    "successful_format": "20677 S East AVE Laton Fresno 93242",
+    "geocoder": "ArcGIS"
   },
   "11812 Avenue 18 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:50:33.352260"
+    "lat": 37.008969004736,
+    "lng": -120.332624036974,
+    "timestamp": "2025-05-12T11:08:54.458348",
+    "successful_format": "11812 Avenue 18 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "13348 AVENUE 20 CHOWCHILLA Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:50:44.252153"
+    "lat": 37.038146996423,
+    "lng": -120.307140033835,
+    "timestamp": "2025-05-12T11:09:14.872274",
+    "successful_format": "13348 AVENUE 20 CHOWCHILLA Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "13644 Avenue 18 1/2 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:50:56.427328"
+    "lat": 37.016183015432,
+    "lng": -120.29705098844,
+    "timestamp": "2025-05-12T11:09:50.634678",
+    "successful_format": "13644 Avenue 18 1/2 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "21282 Road 6 RD Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:51:07.857026"
+    "lat": 37.057313014314,
+    "lng": -120.43959899826,
+    "timestamp": "2025-05-12T11:10:10.910320",
+    "successful_format": "21282 Road 6 RD Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "19249 S Fruit AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:51:21.019445"
+    "lat": 36.458083925051,
+    "lng": -119.826044021093,
+    "timestamp": "2025-05-12T11:10:33.893147",
+    "successful_format": "19249 S Fruit AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "10663 7 1/2 AVE Firebaugh Madera 93622": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:51:43.455787"
+    "lat": 36.862257996976,
+    "lng": -120.350103993132,
+    "timestamp": "2025-05-12T11:11:25.389513",
+    "successful_format": "10663 7 1/2 AVE Firebaugh Madera 93622",
+    "geocoder": "ArcGIS"
   },
   "27000 Road 9 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:51:54.141072"
+    "lat": 37.063103915932,
+    "lng": -120.382916575923,
+    "timestamp": "2025-05-12T11:11:46.199732",
+    "successful_format": "27000 Road 9 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "23025 W. American RD San Joaquin Fresno 93660": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:52:04.792945"
+    "lat": 36.657589858704,
+    "lng": -120.213408731024,
+    "timestamp": "2025-05-12T11:12:06.860672",
+    "successful_format": "23025 W. American RD San Joaquin Fresno 93660",
+    "geocoder": "ArcGIS"
   },
   "7285 W Davis AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:52:16.537256"
+    "lat": 36.47053679287,
+    "lng": -119.932136451794,
+    "timestamp": "2025-05-12T11:12:35.752706",
+    "successful_format": "7285 W Davis AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "20330 Road 4 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:52:27.319097"
+    "lat": 37.061881989735,
+    "lng": -120.48282497585,
+    "timestamp": "2025-05-12T11:12:56.287560",
+    "successful_format": "20330 Road 4 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "19436 S East AVE Laton Fresno 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:52:40.632873"
+    "lat": 36.452043938982,
+    "lng": -119.780398340284,
+    "timestamp": "2025-05-12T11:13:19.515920",
+    "successful_format": "19436 S East AVE Laton Fresno 93242",
+    "geocoder": "ArcGIS"
   },
   "2947 W Manning AVE Fresno Fresno 93706": {
     "lat": 36.6050224,
@@ -693,16 +713,18 @@
     "timestamp": "2025-05-09T15:41:55.408048"
   },
   "11304 Ave. 18 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:52:52.474411"
+    "lat": 37.007804004013,
+    "lng": -120.341317998404,
+    "timestamp": "2025-05-12T11:13:45.563512",
+    "successful_format": "11304 Ave. 18 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "40396 W Valeria Dos Palos Fresno 93620": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:53:04.080792"
+    "lat": 36.984749034506,
+    "lng": -120.515993340181,
+    "timestamp": "2025-05-12T11:14:08.364748",
+    "successful_format": "40396 W Valeria Dos Palos Fresno 93620",
+    "geocoder": "ArcGIS"
   },
   "14221 Ave 14": {
     "lat": 36.9528767,
@@ -710,28 +732,32 @@
     "timestamp": "2025-05-09T15:42:02.953352"
   },
   "16508 S Clovis AVE Selma Kings 93662": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:53:17.086980"
+    "lat": 36.494642936855,
+    "lng": -119.694584095708,
+    "timestamp": "2025-05-12T11:14:31.128347",
+    "successful_format": "16508 S Clovis AVE Selma Kings 93662",
+    "geocoder": "ArcGIS"
   },
   "18541 S Fruit AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:53:28.402722"
+    "lat": 36.463649173483,
+    "lng": -119.829910090114,
+    "timestamp": "2025-05-12T11:14:53.081356",
+    "successful_format": "18541 S Fruit AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "15391 West Elkhorn AVE Helm Fresno 93627": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:53:38.898678"
+    "lat": 36.486148590448,
+    "lng": -120.069694882291,
+    "timestamp": "2025-05-12T11:15:13.622948",
+    "successful_format": "15391 West Elkhorn AVE Helm Fresno 93627",
+    "geocoder": "ArcGIS"
   },
   "21463 Road 4 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:53:49.190414"
+    "lat": 37.071201527685,
+    "lng": -120.473377229383,
+    "timestamp": "2025-05-12T11:15:35.305789",
+    "successful_format": "21463 Road 4 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "2685 S Madera AVE Kerman Fresno 93630": {
     "lat": 36.7234862,
@@ -739,52 +765,60 @@
     "timestamp": "2025-05-09T15:42:12.359023"
   },
   "16661 S FOWLER AVE SELMA Fresno 93662": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:00.611850"
+    "lat": 36.496225146808,
+    "lng": -119.683477487268,
+    "timestamp": "2025-05-12T11:15:59.346057",
+    "successful_format": "16661 S FOWLER AVE SELMA Fresno 93662",
+    "geocoder": "ArcGIS"
   },
   "12840 W Kamm AVE Riverdale Fresno 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:11.370867"
+    "lat": 36.535713340405,
+    "lng": -120.023527527239,
+    "timestamp": "2025-05-12T11:16:23.693945",
+    "successful_format": "12840 W Kamm AVE Riverdale Fresno 93656",
+    "geocoder": "ArcGIS"
   },
   "25500-2438 W West Whitesbridge RD Kerman Fresno 93630": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:23.852165"
+    "lat": 36.734439242616,
+    "lng": -120.247215529805,
+    "timestamp": "2025-05-12T11:16:45.916393",
+    "successful_format": "25500-2438 W West Whitesbridge RD Kerman Fresno 93630",
+    "geocoder": "ArcGIS"
   },
   "This owner is responsible for paying permit fees.": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:32.999298"
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-12T11:17:07.788288",
+    "successful_format": "This owner is responsible for paying permit fees., California",
+    "geocoder": "ArcGIS"
   },
   "21622 South Cedar AVE Laton Fresno 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:46.844694"
+    "lat": 36.421073463941,
+    "lng": -119.760069893561,
+    "timestamp": "2025-05-12T11:17:35.289307",
+    "successful_format": "21622 South Cedar AVE Laton Fresno 93242",
+    "geocoder": "ArcGIS"
   },
   "11302 Avenue 18 1/2 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:54:59.285150"
+    "lat": 37.017217007008,
+    "lng": -120.341746984209,
+    "timestamp": "2025-05-12T11:18:05.528761",
+    "successful_format": "11302 Avenue 18 1/2 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "23435 12 RD Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:55:09.602642"
+    "lat": 37.087289005093,
+    "lng": -120.325324991869,
+    "timestamp": "2025-05-12T11:18:27.176469",
+    "successful_format": "23435 12 RD Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "14768 Avenue 27 Chowchilla Madera 93610": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:55:20.891462"
+    "lat": 37.141837544434,
+    "lng": -120.281414735765,
+    "timestamp": "2025-05-12T11:18:49.283981",
+    "successful_format": "14768 Avenue 27 Chowchilla Madera 93610",
+    "geocoder": "ArcGIS"
   },
   "4301 S Dickenson Fresno Fresno 93706": {
     "lat": 36.6695912,
@@ -792,34 +826,39 @@
     "timestamp": "2025-05-09T15:42:28.091347"
   },
   "10467 W. Kamm Avenue Riverdale CA 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:55:31.409723"
+    "lat": 36.531716178419,
+    "lng": -119.98029107227,
+    "timestamp": "2025-05-12T11:19:13.338148",
+    "successful_format": "10467 W. Kamm Avenue Riverdale CA 93656",
+    "geocoder": "ArcGIS"
   },
   "1523 E. Cerini Avenue Laton CA 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:55:45.876656"
+    "lat": 36.459957208571,
+    "lng": -119.771142368352,
+    "timestamp": "2025-05-12T11:19:38.865889",
+    "successful_format": "1523 E. Cerini Avenue Laton CA 93242",
+    "geocoder": "ArcGIS"
   },
   "19860 S. Maple Avenue Laton CA 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:00.007058"
+    "lat": 36.436021075494,
+    "lng": -119.754510786946,
+    "timestamp": "2025-05-12T11:20:06.911257",
+    "successful_format": "19860 S. Maple Avenue Laton CA 93242",
+    "geocoder": "ArcGIS"
   },
   "5512 W Davis Avenue Riverdale CA 93656": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:12.230958"
+    "lat": 36.477954986728,
+    "lng": -119.896298451301,
+    "timestamp": "2025-05-12T11:20:35.793336",
+    "successful_format": "5512 W Davis Avenue Riverdale CA 93656",
+    "geocoder": "ArcGIS"
   },
   "Pacheco Dairy Inc": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:21.391395"
+    "lat": 37.218124684543,
+    "lng": -119.762596343716,
+    "timestamp": "2025-05-12T11:21:01.346225",
+    "successful_format": "Pacheco Dairy Inc, fresno_madera County, California",
+    "geocoder": "ArcGIS"
   },
   "27125 Pond RD": {
     "lat": 51.5321986,
@@ -832,16 +871,18 @@
     "timestamp": "2025-05-09T15:42:43.169948"
   },
   "26953 Riverside ST Buttonwillow Kern 93206": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:33.200737"
+    "lat": 35.479391997438,
+    "lng": -119.434546027069,
+    "timestamp": "2025-05-12T11:21:27.200253",
+    "successful_format": "26953 Riverside ST Buttonwillow Kern 93206",
+    "geocoder": "ArcGIS"
   },
   "1129 E Shafter RD Bakersfield Kern 93307": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:44.048267"
+    "lat": 35.215931010999,
+    "lng": -118.994174999648,
+    "timestamp": "2025-05-12T11:21:48.098633",
+    "successful_format": "1129 E Shafter RD Bakersfield Kern 93307",
+    "geocoder": "ArcGIS"
   },
   "4551 Bear Mountain Blvd Bakersfield Kern 93313": {
     "lat": 35.2086658,
@@ -849,10 +890,11 @@
     "timestamp": "2025-05-09T15:42:48.245872"
   },
   "30999 Peterson RD Mcfarland Kern 93250": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:56:55.101076"
+    "lat": 35.702400997142,
+    "lng": -119.25191097858,
+    "timestamp": "2025-05-12T11:22:14.499081",
+    "successful_format": "30999 Peterson RD Mcfarland Kern 93250",
+    "geocoder": "ArcGIS"
   },
   "Westwind Farms": {
     "lat": 40.1307044,
@@ -860,16 +902,18 @@
     "timestamp": "2025-05-09T15:42:51.727429"
   },
   "6219 E. Panama Lane Buttonwillow Kern 93307": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:06.227854"
+    "lat": 35.295446019292,
+    "lng": -118.933748015637,
+    "timestamp": "2025-05-12T11:22:37.627783",
+    "successful_format": "6219 E. Panama Lane Buttonwillow Kern 93307",
+    "geocoder": "ArcGIS"
   },
   "5250 DiGiorgio Rd. Bakersfield": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:16.092926"
+    "lat": 35.252411883275,
+    "lng": -118.945871011339,
+    "timestamp": "2025-05-12T11:22:57.608361",
+    "successful_format": "5250 DiGiorgio Rd. Bakersfield",
+    "geocoder": "ArcGIS"
   },
   "11701 Old River RD": {
     "lat": 38.9975862,
@@ -882,16 +926,18 @@
     "timestamp": "2025-05-09T15:43:01.558197"
   },
   "18451 Wildwood Rd. Buttonwilllow Kern 93206": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:23.589295"
+    "lat": 35.482661895945,
+    "lng": -119.439429248104,
+    "timestamp": "2025-05-12T11:23:12.056917",
+    "successful_format": "18451 Wildwood Rd. Buttonwilllow Kern 93206",
+    "geocoder": "ArcGIS"
   },
   "18683 Magnolia Ave Shafter": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:33.918830"
+    "lat": 35.478749985564,
+    "lng": -119.381629982675,
+    "timestamp": "2025-05-12T11:23:31.746427",
+    "successful_format": "18683 Magnolia Ave Shafter",
+    "geocoder": "ArcGIS"
   },
   "18501 Old River Road Bakersfield Kern 93311": {
     "lat": 35.3142518,
@@ -899,22 +945,25 @@
     "timestamp": "2025-05-09T15:43:05.763272"
   },
   "13437 Gun Club RD Wasco Kern 93280": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:47.513446"
+    "lat": 35.663315009169,
+    "lng": -119.514542994795,
+    "timestamp": "2025-05-12T11:24:04.050594",
+    "successful_format": "13437 Gun Club RD Wasco Kern 93280",
+    "geocoder": "ArcGIS"
   },
   "5959 Houghton Rd Bakersfield Kern 93311": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:57:58.692160"
+    "lat": 35.237865774652,
+    "lng": -119.068497275952,
+    "timestamp": "2025-05-12T11:24:32.669004",
+    "successful_format": "5959 Houghton Rd Bakersfield Kern 93311",
+    "geocoder": "ArcGIS"
   },
   "Faial Farms Dairy": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:58:07.156339"
+    "lat": 33.8571568,
+    "lng": -118.1911609,
+    "timestamp": "2025-05-12T11:24:51.067117",
+    "successful_format": "Faial Farms Dairy, California",
+    "geocoder": "ArcGIS"
   },
   "18904 Bear Mountain Blvd. Bakersfield Kern 93307": {
     "lat": 35.2086658,
@@ -922,10 +971,11 @@
     "timestamp": "2025-05-09T15:43:14.139661"
   },
   "11305 2nd Ave Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:58:19.274595"
+    "lat": 36.309670007932,
+    "lng": -119.490576032312,
+    "timestamp": "2025-05-12T11:36:17.491257",
+    "successful_format": "11305 2nd Ave Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "5811 Lacey BLVD": {
     "lat": 36.3280995,
@@ -939,52 +989,67 @@
     "successful_format": "17800 4th AVE, California"
   },
   "4265 Dover AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:58:36.352241"
+    "lat": 36.412356997101,
+    "lng": -119.542289022143,
+    "timestamp": "2025-05-12T11:36:56.741681",
+    "successful_format": "4265 Dover AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "7480 5th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:58:49.022065"
+    "lat": 36.365065067508,
+    "lng": -119.54706943192,
+    "timestamp": "2025-05-12T11:41:37.535370",
+    "successful_format": "7480 5th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "7480 5th Ave, Hanford, California, 93230"
   },
   "12700 EVERETT AVE HANFORDCA Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:58:56.474791"
+    "lat": 36.395305984838,
+    "lng": -119.686363041255,
+    "timestamp": "2025-05-12T11:48:23.249784",
+    "successful_format": "12700 EVERETT AVE HANFORDCA Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "12700 Everett Ave, Hanford, California, 93230"
   },
   "16025 6 1/2 AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:59:15.622354"
+    "lat": 36.239780986793,
+    "lng": -119.573859041358,
+    "timestamp": "2025-05-12T11:55:41.549093",
+    "successful_format": "16025 6 1/2 AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "16025 6 1/2 Ave, Hanford, California, 93230"
   },
   "8431 15th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:59:26.756095"
+    "lat": 36.350708015426,
+    "lng": -119.726581005252,
+    "timestamp": "2025-05-12T12:25:02.588000",
+    "successful_format": "8431 15th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "8431 15th Ave, Hanford, California, 93230"
   },
   "6970 Corona AVE Kingsburg Kings 93631": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:59:37.797509"
+    "lat": 36.44547100479,
+    "lng": -119.581971969261,
+    "timestamp": "2025-05-12T12:31:58.579447",
+    "successful_format": "6970 Corona AVE Kingsburg Kings 93631",
+    "geocoder": "ArcGIS",
+    "address": "6970 Corona Ave, Kingsburg, California, 93631"
   },
   "15315 17th Avenue Lemoore Kings 93245": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T15:59:50.207474"
+    "lat": 36.250092990813,
+    "lng": -119.76231900964,
+    "timestamp": "2025-05-12T12:38:52.494813",
+    "successful_format": "15315 17th Avenue Lemoore Kings 93245",
+    "geocoder": "ArcGIS",
+    "address": "15315 17th Ave, Lemoore, California, 93245"
   },
   "18104 Everett AVE Laton Kings 93242": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:00:01.265626"
+    "lat": 36.395573996192,
+    "lng": -119.782200967792,
+    "timestamp": "2025-05-12T13:35:03.412946",
+    "successful_format": "18104 Everett AVE Laton Kings 93242",
+    "geocoder": "ArcGIS",
+    "address": "18104 Everett Ave, Laton, California, 93242"
   },
   "6571 Fargo AVE Hanford Kings 93230": {
     "lat": 36.3572677,
@@ -992,10 +1057,12 @@
     "timestamp": "2025-05-09T15:43:43.239918"
   },
   "4615 Excelsior AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:00:13.239583"
+    "lat": 36.401012007334,
+    "lng": -119.539798004338,
+    "timestamp": "2025-05-12T13:41:53.339126",
+    "successful_format": "4615 Excelsior AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "4615 Excelsior Ave, Hanford, California, 93230"
   },
   "4356 Kansas AVE": {
     "lat": 34.004475,
@@ -1004,22 +1071,28 @@
     "successful_format": "4356 Kansas AVE"
   },
   "6121 15th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:00:28.201883"
+    "lat": 36.383283988751,
+    "lng": -119.721605004613,
+    "timestamp": "2025-05-12T13:48:47.846958",
+    "successful_format": "6121 15th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "6121 15th Ave, Hanford, California, 93230"
   },
   "4555 Kansas AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:00:40.815852"
+    "lat": 36.209095006906,
+    "lng": -119.542863014873,
+    "timestamp": "2025-05-12T13:55:41.073494",
+    "successful_format": "4555 Kansas AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "4555 Kansas Ave, Hanford, California, 93230"
   },
   "4790 Kansas AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:00:51.852036"
+    "lat": 36.211827004427,
+    "lng": -119.543956015047,
+    "timestamp": "2025-05-12T14:02:33.858854",
+    "successful_format": "4790 Kansas AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "4790 Kansas Ave, Hanford, California, 93230"
   },
   "10736 1 1/2 Avenue Hanford Kings 93230": {
     "lat": 36.3244317,
@@ -1033,16 +1106,19 @@
     "timestamp": "2025-05-09T15:43:57.505360"
   },
   "15010 5th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:01:07.790674"
+    "lat": 36.254668001204,
+    "lng": -119.546739980367,
+    "timestamp": "2025-05-12T14:09:28.000725",
+    "successful_format": "15010 5th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "15010 5th Ave, Hanford, California, 93230"
   },
   "9455 2nd Avenue Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:01:20.426208"
+    "lat": 36.335904987685,
+    "lng": -119.49243999994,
+    "timestamp": "2025-05-12T11:31:31.569128",
+    "successful_format": "9455 2nd Avenue Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "3678 Houston Ave. Hanford Kings 93230": {
     "lat": 36.2985774,
@@ -1055,10 +1131,11 @@
     "timestamp": "2025-05-09T15:44:06.344710"
   },
   "6511 Flint Ave. Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:01:31.794324"
+    "lat": 36.368012999356,
+    "lng": -119.572499999577,
+    "timestamp": "2025-05-12T11:31:59.684202",
+    "successful_format": "6511 Flint Ave. Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "14803 Grangeville BLVD Hanford Kings 93230": {
     "lat": 36.3426155,
@@ -1066,34 +1143,39 @@
     "timestamp": "2025-05-09T15:44:11.815492"
   },
   "14315 Kent AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:01:43.925273"
+    "lat": 36.225268014812,
+    "lng": -119.714461024718,
+    "timestamp": "2025-05-12T11:32:20.929931",
+    "successful_format": "14315 Kent AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "10536 6th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:01:57.286668"
+    "lat": 36.319882979765,
+    "lng": -119.565920959956,
+    "timestamp": "2025-05-12T11:32:43.527717",
+    "successful_format": "10536 6th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "6944 21 1/2 AVE Lemoore Kings 93245": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:02:17.255871"
+    "lat": 36.374498999852,
+    "lng": -119.843419035824,
+    "timestamp": "2025-05-12T11:33:20.811455",
+    "successful_format": "6944 21 1/2 AVE Lemoore Kings 93245",
+    "geocoder": "ArcGIS"
   },
   "15410 Excelsior AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:02:27.949229"
+    "lat": 36.401433994249,
+    "lng": -119.735239008318,
+    "timestamp": "2025-05-12T11:33:44.053068",
+    "successful_format": "15410 Excelsior AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "8519 24th AVE Lemoore Kings 93245": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:02:39.575768"
+    "lat": 36.350797995157,
+    "lng": -119.886656999535,
+    "timestamp": "2025-05-12T11:34:09.249997",
+    "successful_format": "8519 24th AVE Lemoore Kings 93245",
+    "geocoder": "ArcGIS"
   },
   "18280 Fairfax AVE": {
     "lat": 36.3498644,
@@ -1106,246 +1188,338 @@
     "timestamp": "2025-05-09T15:44:26.870585"
   },
   "13113 7th AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:02:53.333424"
+    "lat": 36.281899002512,
+    "lng": -119.580531958295,
+    "timestamp": "2025-05-12T11:34:36.359146",
+    "successful_format": "13113 7th AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "23565 Grangeville BLVD Lemoore Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:03:04.461479"
+    "lat": 36.343613991674,
+    "lng": -119.880346013177,
+    "timestamp": "2025-05-12T11:34:56.305940",
+    "successful_format": "23565 Grangeville BLVD Lemoore Kings 93230",
+    "geocoder": "ArcGIS"
   },
   "5230 9th Ave AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:03:16.564819"
+    "lat": 36.397889999858,
+    "lng": -119.619445027606,
+    "timestamp": "2025-05-12T14:16:29.487847",
+    "successful_format": "5230 9th Ave AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "5230 9th Ave, Hanford, California, 93230"
   },
   "7546 8-1/2 AVE Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:03:42.345472"
+    "lat": 36.363877996972,
+    "lng": -119.61085198429,
+    "timestamp": "2025-05-12T14:23:40.884410",
+    "successful_format": "7546 8-1/2 AVE Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "7546 8 1/2 Ave, Hanford, California, 93230"
   },
   "22401 20 RD Tulare Tulare 93274": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:03:53.088004"
+    "lat": 36.200073019695,
+    "lng": -119.524407991918,
+    "timestamp": "2025-05-12T14:30:31.342817",
+    "successful_format": "22401 20 RD Tulare Tulare 93274",
+    "geocoder": "ArcGIS",
+    "address": "22401 Road 20, Tulare, California, 93274"
   },
   "7900 15th Ave Hanford Kings 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:04:04.790164"
+    "lat": 36.35886499023,
+    "lng": -119.727346021555,
+    "timestamp": "2025-05-12T14:37:32.027516",
+    "successful_format": "7900 15th Ave Hanford Kings 93230",
+    "geocoder": "ArcGIS",
+    "address": "7900 15th Ave, Hanford, California, 93230"
   },
   "5001 4th Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:04:18.703071"
+    "lat": 36.399908990785,
+    "lng": -119.52775798716,
+    "timestamp": "2025-05-12T14:40:59.151662",
+    "successful_format": "5001 4th Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "5001 4th Ave, Hanford, California, 93230"
   },
   "14782 8th Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:04:30.566663"
+    "lat": 36.256735020437,
+    "lng": -119.601946966537,
+    "timestamp": "2025-05-12T14:41:00.374092",
+    "successful_format": "14782 8th Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "14782 8th Ave, Hanford, California, 93230"
   },
   "5387 Kent Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:04:41.413898"
+    "lat": 36.225715985627,
+    "lng": -119.552776040301,
+    "timestamp": "2025-05-12T14:41:01.548336",
+    "successful_format": "5387 Kent Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "5387 Kent Ave, Hanford, California, 93230"
   },
   "6155 Jackson Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:04:54.834251"
+    "lat": 36.254587995938,
+    "lng": -119.566094968266,
+    "timestamp": "2025-05-12T14:41:02.733852",
+    "successful_format": "6155 Jackson Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "6155 Jackson Ave, Hanford, California, 93230"
   },
   "6267 5th Ave Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:05:09.962445"
+    "lat": 36.381201001993,
+    "lng": -119.542399998541,
+    "timestamp": "2025-05-12T14:41:03.927029",
+    "successful_format": "6267 5th Ave Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "6267 5th Ave, Hanford, California, 93230"
   },
   "8749 Lansing Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:05:21.141235"
+    "lat": 36.18922901628,
+    "lng": -119.609711961639,
+    "timestamp": "2025-05-12T14:41:05.123070",
+    "successful_format": "8749 Lansing Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "8749 Lansing Ave, Hanford, California, 93230"
   },
   "7905 Kansas Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:05:32.595630"
+    "lat": 36.208300989218,
+    "lng": -119.596596965378,
+    "timestamp": "2025-05-12T14:41:06.323979",
+    "successful_format": "7905 Kansas Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "7905 Kansas Ave, Hanford, California, 93230"
   },
   "7594 Kent Avenue  Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:05:43.517144"
+    "lat": 36.227650989884,
+    "lng": -119.595664981564,
+    "timestamp": "2025-05-12T14:41:07.512282",
+    "successful_format": "7594 Kent Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "7594 Kent Ave, Hanford, California, 93230"
   },
   "18081 17th Avenue Stratford CA 93266": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:05:56.863876"
+    "lat": 36.210073007369,
+    "lng": -119.761892035493,
+    "timestamp": "2025-05-12T14:41:08.729939",
+    "successful_format": "18081 17th Avenue Stratford, CA, CA 93266",
+    "geocoder": "ArcGIS",
+    "address": "18081 17th Ave, Stratford, California, 93266"
   },
   "8800 Lansing Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:08.754594"
+    "lat": 36.197717998269,
+    "lng": -119.614774966433,
+    "timestamp": "2025-05-12T14:41:09.912634",
+    "successful_format": "8800 Lansing Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "8800 Lansing Ave, Hanford, California, 93230"
   },
   "10234 Lansing Avenue Hanford CA 93230": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:19.162285"
+    "lat": 36.202208980081,
+    "lng": -119.641533018854,
+    "timestamp": "2025-05-12T14:41:11.111714",
+    "successful_format": "10234 Lansing Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "10234 Lansing Ave, Hanford, California, 93230"
   },
   "6240 21st Lemoore CA 96245": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:29.261489"
+    "lat": 36.38414799533,
+    "lng": -119.834458026958,
+    "timestamp": "2025-05-12T14:41:12.350214",
+    "successful_format": "6240 21st Lemoore, CA, CA 96245",
+    "geocoder": "ArcGIS",
+    "address": "6240 21st Ave, Lemoore, California, 93245"
   },
   "Jersey Creek Dairy": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:38.636219"
+    "lat": 33.8571568,
+    "lng": -118.1911609,
+    "timestamp": "2025-05-12T14:41:27.922047",
+    "successful_format": "Jersey Creek Dairy, California",
+    "geocoder": "ArcGIS",
+    "address": "Dairy, Long Beach, California"
   },
   "Hakker Dairy": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:46.051158"
+    "lat": 36.094432824648,
+    "lng": -119.572045032784,
+    "timestamp": "2025-05-12T14:41:43.484558",
+    "successful_format": "Hakker Dairy, kings County, CA",
+    "geocoder": "ArcGIS",
+    "address": "Dairy Ave, Corcoran, California, 93212"
   },
   "Diamond D Dairy": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:06:55.212281"
+    "lat": 39.121625471154,
+    "lng": -121.180234359322,
+    "timestamp": "2025-05-12T14:41:59.383797",
+    "successful_format": "Diamond D Dairy, California",
+    "geocoder": "ArcGIS",
+    "address": "Diamond D Dr, Grass Valley, California, 95949"
   },
   "5339 Avenue 120 Corcoran CA 93212": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:07:06.187972"
+    "lat": 36.007363267754,
+    "lng": -119.449927554433,
+    "timestamp": "2025-05-12T14:45:10.609537",
+    "successful_format": "5339 Avenue 120 Corcoran, CA, CA 93212",
+    "geocoder": "ArcGIS",
+    "address": "5339 Avenue 120, Corcoran, California, 93212"
   },
   "6802 Avenue 120 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:07:18.643648"
+    "lat": 36.009537985553,
+    "lng": -119.420722005619,
+    "timestamp": "2025-05-12T14:45:11.984275",
+    "successful_format": "6802 Avenue 120 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "6802 Avenue 120, Tipton, California, 93272"
   },
   "255 Road 128 Delano CA 93215": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:07:41.034279"
+    "lat": 35.795202998349,
+    "lng": -119.286634018312,
+    "timestamp": "2025-05-12T14:45:13.378398",
+    "successful_format": "255 Road 128 Delano, CA, CA 93215",
+    "geocoder": "ArcGIS",
+    "address": "255 Road 128, Delano, California, 93215"
   },
   "29049 Road 68 Visalia CA 93277": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:07:54.684456"
+    "lat": 36.318064986876,
+    "lng": -119.424818996072,
+    "timestamp": "2025-05-12T14:45:14.771743",
+    "successful_format": "29049 Road 68 Visalia, CA, CA 93277",
+    "geocoder": "ArcGIS",
+    "address": "29049 Road 68, Visalia, California, 93277"
   },
   "30030 Road 60 Visalia CA 93291": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:08:06.341802"
+    "lat": 36.336509993457,
+    "lng": -119.438978964202,
+    "timestamp": "2025-05-12T14:45:16.155421",
+    "successful_format": "30030 Road 60 Visalia, CA, CA 93291",
+    "geocoder": "ArcGIS",
+    "address": "30030 Road 60, Visalia, California, 93291"
   },
   "13213 Road 80 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:08:20.638030"
+    "lat": 36.029520987547,
+    "lng": -119.397027035894,
+    "timestamp": "2025-05-12T14:45:17.553453",
+    "successful_format": "13213 Road 80 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "13213 Road 80, Tipton, California, 93272"
   },
   "8001 Road 104 Pixley CA 93256": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:08:32.658795"
+    "lat": 35.938968982519,
+    "lng": -119.344610972025,
+    "timestamp": "2025-05-12T14:45:18.936471",
+    "successful_format": "8001 Road 104 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "8001 Road 104, Pixley, California, 93256"
   },
   "11951 Road 96 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:08:45.256547"
+    "lat": 36.007680336903,
+    "lng": -119.357779831474,
+    "timestamp": "2025-05-12T14:45:20.324848",
+    "successful_format": "11951 Road 96 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "11951 Road 96, Tipton, California, 93272"
   },
   "9535 Avenue 160 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:08:56.255587"
+    "lat": 36.078236985988,
+    "lng": -119.362249010877,
+    "timestamp": "2025-05-12T14:45:21.707666",
+    "successful_format": "9535 Avenue 160 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "9535 Avenue 160, Tipton, California, 93272"
   },
   "11425 Road 112 Pixley CA 93256": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:09:07.953618"
+    "lat": 35.991407669522,
+    "lng": -119.321999409633,
+    "timestamp": "2025-05-12T14:45:23.083745",
+    "successful_format": "11425 Road 112 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "11425 Road 112, Pixley, California, 93256"
   },
   "11021 Avenue 120 Pixley CA 93256": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:09:20.290076"
+    "lat": 36.007409987975,
+    "lng": -119.325894014596,
+    "timestamp": "2025-05-12T14:45:24.461194",
+    "successful_format": "11021 Avenue 120 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "11021 Avenue 120, Pixley, California, 93256"
   },
   "7480 Avenue 160 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:28.459254"
+    "lat": 36.080385016315,
+    "lng": -119.410737985471,
+    "timestamp": "2025-05-12T14:45:25.825066",
+    "successful_format": "7480 Avenue 160 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "7480 Avenue 160, Tipton, California, 93272"
   },
   "16026 Road 64 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:30.208408"
+    "lat": 36.080471014641,
+    "lng": -119.428412988516,
+    "timestamp": "2025-05-12T14:45:27.182313",
+    "successful_format": "16026 Road 64 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "16026 Road 64, Tipton, California, 93272"
   },
   "13804 Road 72 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:32.107248"
+    "lat": 36.039484011028,
+    "lng": -119.410789031261,
+    "timestamp": "2025-05-12T14:45:28.549019",
+    "successful_format": "13804 Road 72 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "13804 Road 72, Tipton, California, 93272"
   },
   "4645 Avenue 120 Corcoran CA 93212": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:33.771243"
+    "lat": 36.007041016597,
+    "lng": -119.467810028916,
+    "timestamp": "2025-05-12T14:45:29.936783",
+    "successful_format": "4645 Avenue 120 Corcoran, CA, CA 93212",
+    "geocoder": "ArcGIS",
+    "address": "4645 Avenue 120, Corcoran, California, 93212"
   },
   "13508 Road 104 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:35.566094"
+    "lat": 36.028304982944,
+    "lng": -119.332310026201,
+    "timestamp": "2025-05-12T14:45:31.295669",
+    "successful_format": "13508 Road 104 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "13508 Road 104, Tipton, California, 93272"
   },
   "8769 Ave 128 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:37.125515"
+    "lat": 36.021313008862,
+    "lng": -119.37673503504,
+    "timestamp": "2025-05-12T14:45:32.645700",
+    "successful_format": "8769 Ave 128 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "8769 Avenue 128, Tipton, California, 93272"
   },
   "9279 Avenue 96 Pixley CA 93256": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:38.815507"
+    "lat": 35.960512988251,
+    "lng": -119.371579996949,
+    "timestamp": "2025-05-12T14:45:34.008505",
+    "successful_format": "9279 Avenue 96 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "9279 Avenue 96, Pixley, California, 93256"
   },
   "11450 Avenue 64 Earlimart CA 93219": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:40.375016"
+    "lat": 35.906848020808,
+    "lng": -119.316382985244,
+    "timestamp": "2025-05-12T14:45:35.384730",
+    "successful_format": "11450 Avenue 64 Earlimart, CA, CA 93219",
+    "geocoder": "ArcGIS",
+    "address": "11450 Avenue 64, Earlimart, California, 93219"
   },
   "15503 Road 96 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:42.106512"
+    "lat": 36.069289010982,
+    "lng": -119.362212968693,
+    "timestamp": "2025-05-12T14:45:36.772388",
+    "successful_format": "15503 Road 96 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "15503 Road 96, Tipton, California, 93272"
   },
   "13955 Road 80 Tipton CA 93272": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:43.949872"
+    "lat": 36.041213993934,
+    "lng": -119.393906034247,
+    "timestamp": "2025-05-12T14:45:38.154688",
+    "successful_format": "13955 Road 80 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "13955 Road 80, Tipton, California, 93272"
   },
   "2805 Casey Road": {
     "lat": 42.9213811,
@@ -1353,20 +1527,28 @@
     "timestamp": "2025-05-09T15:45:46.573694"
   },
   "505 W. Kastone Rd. Imperial CA 92251": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:47.724107"
+    "lat": 32.912491609467,
+    "lng": -115.579096291691,
+    "timestamp": "2025-05-12T14:46:27.429292",
+    "successful_format": "505 W. Kastone Rd. Imperial, CA, CA 92251",
+    "geocoder": "ArcGIS",
+    "address": "505 W Keystone Rd, Brawley, California, 92227"
   },
   "1004 Holton Rd. Holtville CA 92250": {
-    "lat": null,
-    "lng": null,
-    "timestamp": "2025-05-09T15:45:49.421140"
+    "lat": 32.812323003454,
+    "lng": -115.443897030989,
+    "timestamp": "2025-05-12T14:46:28.811553",
+    "successful_format": "1004 Holton Rd. Holtville, CA, CA 92250",
+    "geocoder": "ArcGIS",
+    "address": "1004 Holton Rd, Holtville, California, 92250"
   },
   "195 W Cary Rd Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=195+W+Cary+Rd+Brawley+CA+92227&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))",
-    "timestamp": "2025-05-09T15:45:53.643991"
+    "lat": 32.9830641,
+    "lng": -115.5212349,
+    "timestamp": "2025-05-12T14:46:31.624205",
+    "successful_format": "195 W Cary Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "92227, Brawley, California"
   },
   ".": {
     "lat": 36.7014631,
@@ -1489,16 +1671,20 @@
     "successful_format": "_12800"
   },
   "6050 US Highway 111 Calipatria CA 92233": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:48:09.981062"
+    "lat": 33.093046980488,
+    "lng": -115.512320015352,
+    "timestamp": "2025-05-12T14:45:51.959894",
+    "successful_format": "6050 US Highway 111 Calipatria, CA, CA 92233",
+    "geocoder": "ArcGIS",
+    "address": "6050 US Highway 111, Calipatria, California, 92233"
   },
   "5455 Kershaw Rd. Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:48:22.296533"
+    "lat": 33.049408332369,
+    "lng": -115.512582404497,
+    "timestamp": "2025-05-12T14:45:42.320343",
+    "successful_format": "5455 Kershaw Rd. Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "5455 Kershaw Rd, Calipatria, California, 92233"
   },
   "352 E. Shank Rd. Brawley CA 92227": {
     "lat": 32.9988062,
@@ -1507,10 +1693,12 @@
     "successful_format": "352 E. Shank Rd. Brawley CA 92227"
   },
   "612 Simpson Rd. Calipatria CA 92233": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-09T16:48:38.758687"
+    "lat": 33.191158733274,
+    "lng": -115.488106171728,
+    "timestamp": "2025-05-12T14:46:30.200332",
+    "successful_format": "612 Simpson Rd. Calipatria, CA, CA 92233",
+    "geocoder": "ArcGIS",
+    "address": "612 E Simpson Rd, Calipatria, California, 92233"
   },
   ". 2 Soromea Mount) Crad Vebilunve . No. Street City Zip CA AYCIES Operator L-LMCAS Derwz. Mailing Address CLYNE Cis a Wove 4 Property owner. LUCAS YEW __ Mailing Address_ SAMe a Phone ( ) E-mail SSCA VN . (f Current 4 of mature dairy cows (milking dry). ZOO Current 4 and type of other animals Current parcels (production and grazing) 14 1-100 OCe ) We 1- IOO7-OG1s Vly BID-OILO. _- 1 Blo ISO ONY 199-100-023 _ 137-500 O0 Within the last year has any of the above information changed IES If yes please highlight new information. The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the  rainy season document required water quality monitoring and actions taken to correct identified problems and to demonstrate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to. San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalsQwaterboards. ca. gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1515 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022 I II": {
     "lat": null,
@@ -1573,10 +1761,11 @@
     "successful_format": "5720 Nicasio Valley Road Nicasio CA 94946"
   },
   ". 9243 Spring Hill Rd. Petaluma CA 94952": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:44:03.601789"
+    "lat": 38.229251794754,
+    "lng": -122.731785522313,
+    "timestamp": "2025-05-12T11:01:36.369933",
+    "successful_format": ". 9243 Spring Hill Rd. Petaluma CA 94952",
+    "geocoder": "ArcGIS"
   },
   "750 h le O he Ale 12 Ca": {
     "lat": null,
@@ -1591,10 +1780,11 @@
     "timestamp": "2025-05-12T09:31:26.563683"
   },
   ". 3286 CHILENO VALLEY ROAD Petaluma 94952": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:44:36.271585"
+    "lat": 38.209397014328,
+    "lng": -122.736378015362,
+    "timestamp": "2025-05-12T11:02:11.125122",
+    "successful_format": ". 3286 CHILENO VALLEY ROAD Petaluma 94952",
+    "geocoder": "ArcGIS"
   },
   "ZAS Rarnsited Chelan. 1498": {
     "lat": null,
@@ -1615,10 +1805,11 @@
     "timestamp": "2025-05-12T09:32:07.914021"
   },
   "6150 Pierce Point Rd Inverness Ca 94937": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:45:32.898025"
+    "lat": 38.159567982964,
+    "lng": -122.937152005237,
+    "timestamp": "2025-05-12T11:03:08.696347",
+    "successful_format": "6150 Pierce Point Rd Inverness Ca 94937",
+    "geocoder": "ArcGIS"
   },
   ". gv. Cn kine lablie Kel f PAK Ltd": {
     "lat": null,
@@ -1639,16 +1830,20 @@
     "timestamp": "2025-05-12T09:32:43.666341"
   },
   "3286 Chileno Valley Rd. Petaluma CA": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:32:54.650610"
+    "lat": 38.209397014328,
+    "lng": -122.736378015362,
+    "timestamp": "2025-05-12T14:45:53.355508",
+    "successful_format": "3286 Chileno Valley Rd., Petaluma, CA CA",
+    "geocoder": "ArcGIS",
+    "address": "3286 Chileno Valley Rd, Petaluma, California, 94952"
   },
   "S345 BoDEGA pve. PET nat4 Auyey": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:33:02.103370"
+    "lat": 38.345349,
+    "lng": -122.971433,
+    "timestamp": "2025-05-12T14:46:09.252112",
+    "successful_format": "S345 BoDEGA pve. PET nat4 Auyey, California",
+    "geocoder": "ArcGIS",
+    "address": "Bodega, California"
   },
   ": 295 Rainsville Rd Petaluma 94952": {
     "lat": 38.2723595,
@@ -1687,16 +1882,20 @@
     "timestamp": "2025-05-12T09:33:40.776037"
   },
   "6150 Pierce Pt Rd Inverness Ca 94937": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:33:55.527317"
+    "lat": 38.159567982964,
+    "lng": -122.937152005237,
+    "timestamp": "2025-05-12T14:46:13.395661",
+    "successful_format": "6150 Pierce Pt Rd Inverness, Ca, CA 94937",
+    "geocoder": "ArcGIS",
+    "address": "6150 Pierce Point Rd, Inverness, California, 94937"
   },
   "3243 Spring Hill Rd. Petaluma CA 94952": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:34:13.338455"
+    "lat": 38.228505011307,
+    "lng": -122.730618034088,
+    "timestamp": "2025-05-12T14:46:14.805792",
+    "successful_format": "3243 Spring Hill Rd. Petaluma, CA, CA 94952",
+    "geocoder": "ArcGIS",
+    "address": "3243 Spring Hill Rd, Petaluma, California, 94952"
   },
   ": 7869 Lakeville Hwy Petaluma CA 94954": {
     "lat": 38.2334704,
@@ -1711,10 +1910,12 @@
     "timestamp": "2025-05-12T09:34:31.371667"
   },
   "___ 22188 Hwy 1 Marshall CA 94940": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:34:43.222659"
+    "lat": 38.183648981239,
+    "lng": -122.907178990034,
+    "timestamp": "2025-05-12T14:46:16.191048",
+    "successful_format": "___ 22188 Hwy 1 Marshall, CA, CA 94940",
+    "geocoder": "ArcGIS",
+    "address": "22188 Highway 1, Marshall, California, 94940"
   },
   ": 4669 Chileno Valley Rd Petaluma 94952": {
     "lat": null,
@@ -1759,16 +1960,20 @@
     "timestamp": "2025-05-12T09:35:51.031672"
   },
   "500 Ormsby Lane Petaluma 94954": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:36:01.923291"
+    "lat": 38.285208017698,
+    "lng": -122.651376967622,
+    "timestamp": "2025-05-12T14:46:24.571165",
+    "successful_format": "500 Ormsby Lane, Petaluma, CA 94954",
+    "geocoder": "ArcGIS",
+    "address": "500 Ormsby Ln, Petaluma, California, 94954"
   },
   "_12800 Shoreline Highway 1 Point Reyes Station CA 94956": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:36:13.847251"
+    "lat": 38.101065986837,
+    "lng": -122.821582994806,
+    "timestamp": "2025-05-12T14:46:26.002081",
+    "successful_format": "_12800 Shoreline Highway 1 Point Reyes Station, CA, CA 94956",
+    "geocoder": "ArcGIS",
+    "address": "12800 Shoreline Hwy, Point Reyes Station, California, 94956"
   },
   ": 22000 Sir Francis Drake Blvd.": {
     "lat": 38.04309,
@@ -1795,46 +2000,60 @@
     "successful_format": ": 480 Pepper Rd Petaluma 94952"
   },
   "649 E. Rutherford Rd. Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:42:18.958790"
+    "lat": 33.048827998829,
+    "lng": -115.488581040636,
+    "timestamp": "2025-05-12T14:45:39.562319",
+    "successful_format": "649 E. Rutherford Rd. Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "649 Rutherford Rd, Brawley, California, 92227"
   },
   "801 E. Rutherford Rd Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:42:35.683051"
+    "lat": 33.044540612031,
+    "lng": -115.457767711857,
+    "timestamp": "2025-05-12T14:45:40.944682",
+    "successful_format": "801 E. Rutherford Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "801 Rutherford Rd, Brawley, California, 92227"
   },
   "2704 Webb Road Holtville CA 92250": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:42:49.750813"
+    "lat": 32.847466500405,
+    "lng": -115.32865879956,
+    "timestamp": "2025-05-12T14:45:43.713118",
+    "successful_format": "2704 Webb Road Holtville, CA, CA 92250",
+    "geocoder": "ArcGIS",
+    "address": "2704 Webb Rd, Holtville, California, 92250"
   },
   "5200 Dietrich Rd Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:43:03.392721"
+    "lat": 33.001111913615,
+    "lng": -115.483301807369,
+    "timestamp": "2025-05-12T14:45:45.086565",
+    "successful_format": "5200 Dietrich Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "5200 Dietrich Rd, Brawley, California, 92227"
   },
   "2805 Casey Road Holtville CA 92250": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:43:18.277352"
+    "lat": 32.858249001605,
+    "lng": -115.427777038621,
+    "timestamp": "2025-05-12T14:45:47.811819",
+    "successful_format": "2805 Casey Road Holtville, CA, CA 92250",
+    "geocoder": "ArcGIS",
+    "address": "2805 Casey Rd, Holtville, California, 92250"
   },
   "505 W. Keystone Yard": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:43:36.055740"
+    "lat": 33.828024,
+    "lng": -118.279966,
+    "timestamp": "2025-05-12T14:45:49.204825",
+    "successful_format": "505 W., Keystone, CA Yard",
+    "geocoder": "ArcGIS",
+    "address": "Keystone, California"
   },
   "195 W. Carey Rd Brawley CA 92227": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T09:44:05.270320"
+    "lat": 32.924110015353,
+    "lng": -115.553226971791,
+    "timestamp": "2025-05-12T14:45:50.594675",
+    "successful_format": "195 W. Carey Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "195 W Carey Rd, Brawley, California, 92227"
   },
   ": 750 Chileno Vly Rd Petaluma CA": {
     "lat": null,
@@ -1885,57 +2104,362 @@
     "timestamp": "2025-05-12T09:51:08.682265"
   },
   "5450 RED Hill RD. PETALUMA 94952": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:43:18.528913"
+    "lat": 38.179662003266,
+    "lng": -122.673295979702,
+    "timestamp": "2025-05-12T10:58:18.173164",
+    "successful_format": "5450 RED Hill RD. PETALUMA 94952",
+    "geocoder": "ArcGIS"
   },
   "1599 Cerini Rd Tomales 94971": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:43:36.733361"
+    "lat": 38.230857997309,
+    "lng": -122.860961008287,
+    "timestamp": "2025-05-12T11:01:08.871630",
+    "successful_format": "1599 Cerini Rd Tomales 94971",
+    "geocoder": "ArcGIS"
   },
   "750 Chileno Vly Rd Petaluma CA": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:44:20.175403"
+    "lat": 38.209756011241,
+    "lng": -122.67558499364,
+    "timestamp": "2025-05-12T11:01:53.539754",
+    "successful_format": "750 Chileno Vly Rd Petaluma CA",
+    "geocoder": "ArcGIS"
   },
   "10049 Petaluma Pt.Reys Road Nicasio": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:44:49.929412"
+    "lat": 38.103251987185,
+    "lng": -122.723971038463,
+    "timestamp": "2025-05-12T11:02:25.346545",
+    "successful_format": "10049 Petaluma Pt.Reys Road Nicasio",
+    "geocoder": "ArcGIS"
   },
   "100 Pierce Point Rd Inverness 94937": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:45:13.929777"
+    "lat": 38.122697127899,
+    "lng": -122.880769678148,
+    "timestamp": "2025-05-12T11:02:49.378989",
+    "successful_format": "100 Pierce Point Rd Inverness 94937",
+    "geocoder": "ArcGIS"
   },
   "837 Chileno Valley Rd Petaluma": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:45:49.331304"
+    "lat": 38.203653985729,
+    "lng": -122.678640029709,
+    "timestamp": "2025-05-12T11:03:22.839512",
+    "successful_format": "837 Chileno Valley Rd Petaluma",
+    "geocoder": "ArcGIS"
   },
   "4669 Chileno Valley Rd Petaluma": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:46:04.071067"
+    "lat": 38.197870011534,
+    "lng": -122.7842069989,
+    "timestamp": "2025-05-12T11:03:38.163598",
+    "successful_format": "4669 Chileno Valley Rd Petaluma",
+    "geocoder": "ArcGIS"
   },
   "14700 Hwy 1 Point Reyes CA 94956": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:46:19.694186"
+    "lat": 38.097852537683,
+    "lng": -122.832099109709,
+    "timestamp": "2025-05-12T11:03:53.940901",
+    "successful_format": "14700 Hwy 1 Point Reyes CA 94956",
+    "geocoder": "ArcGIS"
   },
   "1241 Middle Two Rock Rd Petaluma": {
-    "lat": null,
-    "lng": null,
-    "error": "All address formats failed",
-    "timestamp": "2025-05-12T10:46:36.353969"
+    "lat": 38.241314002425,
+    "lng": -122.691838006811,
+    "timestamp": "2025-05-12T11:04:11.865278",
+    "successful_format": "1241 Middle Two Rock Rd Petaluma",
+    "geocoder": "ArcGIS"
+  },
+  "601 Stage Gulch Rd Petaluma": {
+    "lat": 38.226992012107,
+    "lng": -122.540378022259,
+    "timestamp": "2025-05-12T11:04:37.384706",
+    "successful_format": "601 Stage Gulch Rd Petaluma",
+    "geocoder": "ArcGIS"
+  },
+  "612 Simpson Rd Calipatria CA 92233": {
+    "lat": 33.191158733274,
+    "lng": -115.488106171728,
+    "timestamp": "2025-05-12T14:45:46.442992",
+    "successful_format": "612 Simpson Rd Calipatria, CA, CA 92233",
+    "geocoder": "ArcGIS",
+    "address": "612 E Simpson Rd, Calipatria, California, 92233"
+  },
+  "10049 Petaluma Pt Reyes Blvd Nicasio 94946": {
+    "lat": 38.103251987185,
+    "lng": -122.723971038463,
+    "timestamp": "2025-05-12T14:46:10.621731",
+    "successful_format": "10049 Petaluma Pt Reyes Blvd, Nicasio, CA 94946",
+    "geocoder": "ArcGIS",
+    "address": "10049 Point Reyes-Petaluma Rd, Nicasio, California, 94946"
+  },
+  "831 Chileno Valley Rd Petaluma": {
+    "lat": 38.191192987464,
+    "lng": -122.676676987985,
+    "timestamp": "2025-05-12T14:46:11.996020",
+    "successful_format": "831 Chileno Valley, Rd, CA Petaluma",
+    "geocoder": "ArcGIS",
+    "address": "831 Chileno Valley Rd, Petaluma, California, 94952"
+  },
+  "4669 Chileno Valley Rd Petaluma 94952": {
+    "lat": 38.197870011534,
+    "lng": -122.7842069989,
+    "timestamp": "2025-05-12T14:46:17.612825",
+    "successful_format": "4669 Chileno Valley Rd, Petaluma, CA 94952",
+    "geocoder": "ArcGIS",
+    "address": "4669 Chileno Valley Rd, Petaluma, California, 94952"
+  },
+  "4700 Hwy 1 Point Reyes CA 94956": {
+    "lat": 38.070391668006,
+    "lng": -122.804686529984,
+    "timestamp": "2025-05-12T14:46:19.069948",
+    "successful_format": "4700 Hwy 1 Point Reyes, CA, CA 94956",
+    "geocoder": "ArcGIS",
+    "address": "State Route 1, Point Reyes Station, California, 94956"
+  },
+  "1241 Middle Two Rock Rd. Petaluma 94952": {
+    "lat": 38.241314002425,
+    "lng": -122.691838006811,
+    "timestamp": "2025-05-12T14:46:20.472091",
+    "successful_format": "1241 Middle Two Rock Rd., Petaluma, CA 94952",
+    "geocoder": "ArcGIS",
+    "address": "1241 Middle Two Rock Rd, Petaluma, California, 94952"
+  },
+  "1601 Stage Gulch Rd. Petaluma": {
+    "lat": 38.236492811412,
+    "lng": -122.509526991298,
+    "timestamp": "2025-05-12T14:46:21.835370",
+    "successful_format": "1601 Stage Gulch, Rd., CA Petaluma",
+    "geocoder": "ArcGIS",
+    "address": "1601 Stage Gulch Rd, Petaluma, California, 94954"
+  },
+  "421 Sonoma Mountain Rd Petaluma": {
+    "lat": 38.288894001529,
+    "lng": -122.61595001566,
+    "timestamp": "2025-05-12T14:46:23.216199",
+    "successful_format": "421 Sonoma Mountain, Rd, CA Petaluma",
+    "geocoder": "ArcGIS",
+    "address": "421 Sonoma Mountain Rd, Petaluma, California, 94954"
+  },
+  "625 E Coleman AVE Laton Fresno 93242": {
+    "lat": 36.467154279127,
+    "lng": -119.782774346722,
+    "timestamp": "2025-05-12T15:56:57.573759",
+    "successful_format": "625 E Coleman AVE Laton, Fresno, CA 93242",
+    "geocoder": "ArcGIS",
+    "address": "625 E Coleman Ave, Laton, California, 93242",
+    "county": null
+  },
+  "4017 Kansas AVE Hanford Kings 93230": {
+    "lat": 36.210210009576,
+    "lng": -119.531783982893,
+    "timestamp": "2025-05-12T15:56:58.957918",
+    "successful_format": "4017 Kansas AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "4017 Kansas Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "PDF PAGE BREAK 1": {
+    "lat": 39.40820098827,
+    "lng": -123.350820971351,
+    "timestamp": "2025-05-12T15:57:15.530444",
+    "successful_format": "PDF PAGE BREAK 1, California",
+    "geocoder": "ArcGIS",
+    "address": "1 Page Ct, Willits, California, 95490",
+    "county": null
+  },
+  "11447 8 1/2 AVE Hanford Kings 93230": {
+    "lat": 36.307032013455,
+    "lng": -119.607588993203,
+    "timestamp": "2025-05-12T15:57:16.753521",
+    "successful_format": "11447 8 1/2 AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "11447 8 1/2 Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "17571 Flint AVE Hanford Kings 93230": {
+    "lat": 36.36779100465,
+    "lng": -119.774620039284,
+    "timestamp": "2025-05-12T15:57:17.977614",
+    "successful_format": "17571 Flint AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "17571 Flint Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "8331 Excelsior AVE Hanford Kings 93230": {
+    "lat": 36.398015979863,
+    "lng": -119.60659800079,
+    "timestamp": "2025-05-12T15:57:19.217786",
+    "successful_format": "8331 Excelsior AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "8331 Excelsior Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "23568 Fargo AVE Lemoore Kings 93245": {
+    "lat": 36.358770987186,
+    "lng": -119.879502961356,
+    "timestamp": "2025-05-12T15:57:20.454049",
+    "successful_format": "23568 Fargo AVE Lemoore, Kings, CA 93245",
+    "geocoder": "ArcGIS",
+    "address": "23568 Fargo Ave, Lemoore, California, 93245",
+    "county": null
+  },
+  "16831 Jackson AVE Lemoore Kings 93245": {
+    "lat": 36.254472996227,
+    "lng": -119.75960603904,
+    "timestamp": "2025-05-12T15:57:21.675551",
+    "successful_format": "16831 Jackson AVE Lemoore, Kings, CA 93245",
+    "geocoder": "ArcGIS",
+    "address": "16831 Jackson Ave, Lemoore, California, 93245",
+    "county": null
+  },
+  "13866 4th AVE Hanford Kings 93230": {
+    "lat": 36.256573890181,
+    "lng": -119.529494111188,
+    "timestamp": "2025-05-12T15:57:22.958419",
+    "successful_format": "13866 4th AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "13866 4th Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "7205 Houston AVE Hanford Kings 93230": {
+    "lat": 36.298462368809,
+    "lng": -119.586809538468,
+    "timestamp": "2025-05-12T15:57:24.206787",
+    "successful_format": "7205 Houston AVE Hanford, Kings, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "7205 Houston Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "1594 Gonder Road Brawley CA 92227": {
+    "lat": 32.95683300726,
+    "lng": -115.39913699748,
+    "timestamp": "2025-05-12T15:57:25.559306",
+    "successful_format": "1594 Gonder Road Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "1594 Gonder Rd, Brawley, California, 92227",
+    "county": null
+  },
+  "3403 Casey Road Brawley CA 92227": {
+    "lat": 32.902117493982,
+    "lng": -115.423471267901,
+    "timestamp": "2025-05-12T15:57:26.810064",
+    "successful_format": "3403 Casey Road Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "3403 Casey Rd, Brawley, California, 92227",
+    "county": null
+  },
+  "1504 HIGHWAY 78": {
+    "lat": 32.978234981642,
+    "lng": -115.401937978064,
+    "timestamp": "2025-05-12T15:57:43.261881",
+    "successful_format": "1504 HIGHWAY 78, California",
+    "geocoder": "ArcGIS",
+    "address": "1504 US Highway 78, Brawley, California, 92227",
+    "county": null
+  },
+  "495 W. Heber Rd. El Centro CA 92243": {
+    "lat": 32.728880989705,
+    "lng": -115.566622007436,
+    "timestamp": "2025-05-12T15:57:44.511823",
+    "successful_format": "495 W. Heber Rd. El Centro, CA, CA 92243",
+    "geocoder": "ArcGIS",
+    "address": "495 W Heber Rd, El Centro, California, 92243",
+    "county": null
+  },
+  "7015 Brandt Rd. Calipatria CA 92233": {
+    "lat": 33.151441981621,
+    "lng": -115.566322019122,
+    "timestamp": "2025-05-12T15:57:45.753730",
+    "successful_format": "7015 Brandt Rd. Calipatria, CA, CA 92233",
+    "geocoder": "ArcGIS",
+    "address": "7015 Brandt Rd, Calipatria, California, 92233",
+    "county": null
+  },
+  "_ 1350 E. Keystone Road Brawley CA 92227": {
+    "lat": 32.920259997677,
+    "lng": -115.439022032283,
+    "timestamp": "2025-05-12T15:57:47.017876",
+    "successful_format": "_ 1350 E. Keystone Road Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "1350 E Keystone Rd, Brawley, California, 92227",
+    "county": null
+  },
+  "3990 Holt Rd Brawley CA 92227": {
+    "lat": 32.949419686277,
+    "lng": -115.380203002841,
+    "timestamp": "2025-05-12T15:57:48.261761",
+    "successful_format": "3990 Holt Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "3990 Holt Rd, Brawley, California, 92227",
+    "county": null
+  },
+  "1870 Jeffrey Road El Centro CA 92243": {
+    "lat": 32.787626983033,
+    "lng": -115.760534990467,
+    "timestamp": "2025-05-12T15:57:49.505211",
+    "successful_format": "1870 Jeffrey Road El Centro, CA, CA 92243",
+    "geocoder": "ArcGIS",
+    "address": "1870 Jeffrey Rd, El Centro, California, 92243",
+    "county": null
+  },
+  "2001 E. Keystone Rd Brawley CA 92227": {
+    "lat": 32.916600952037,
+    "lng": -115.311432100158,
+    "timestamp": "2025-05-12T15:57:50.747596",
+    "successful_format": "2001 E. Keystone Rd Brawley, CA, CA 92227",
+    "geocoder": "ArcGIS",
+    "address": "2001 E Keystone Rd, Brawley, California, 92227",
+    "county": null
+  },
+  "1407 La Brucherie Road El Centro CA 92243": {
+    "lat": 32.753442019575,
+    "lng": -115.578338986066,
+    "timestamp": "2025-05-12T15:57:53.090806",
+    "successful_format": "1407 La Brucherie Road El Centro, CA, CA 92243",
+    "geocoder": "ArcGIS",
+    "address": "1407 S La Brucherie Rd, El Centro, California, 92243",
+    "county": null
+  },
+  "907 Brockman Road El Centro CA 92243": {
+    "lat": 32.716554916174,
+    "lng": -115.637807988495,
+    "timestamp": "2025-05-12T15:57:54.352471",
+    "successful_format": "907 Brockman Road El Centro, CA, CA 92243",
+    "geocoder": "ArcGIS",
+    "address": "907 Brockman Rd, El Centro, California, 92243",
+    "county": null
+  },
+  "96 E Fawcett Road Heber CA 92249": {
+    "lat": 32.723421570273,
+    "lng": -115.525375826584,
+    "timestamp": "2025-05-12T15:57:55.579139",
+    "successful_format": "96 E Fawcett Road Heber, CA, CA 92249",
+    "geocoder": "ArcGIS",
+    "address": "96 E Fawcett Rd, Heber, California, 92249",
+    "county": null
+  },
+  "1504 E. HWY 78 Srawiey CA 92227 (Feedyard Location)": {
+    "lat": 32.978234981642,
+    "lng": -115.401937978064,
+    "timestamp": "2025-05-12T15:57:56.875546",
+    "successful_format": "1504 E. HWY 78 Srawiey CA 92227, (Feedyard, CA Location)",
+    "geocoder": "ArcGIS",
+    "address": "1504 US Highway 78, Brawley, California, 92227",
+    "county": null
+  },
+  "- WY 9 . Rothe Sord KA. A awley CA 922TH": {
+    "lat": 22.284676575595,
+    "lng": -102.252221074131,
+    "timestamp": "2025-05-12T15:58:13.654201",
+    "successful_format": "- WY 9 . Rothe Sord KA. A awley CA 922TH, California",
+    "geocoder": "ArcGIS",
+    "address": "California, Rinc\u00f3n de Romos, Aguascalientes",
+    "county": null
+  },
+  "indicated above": {
+    "lat": 21.147898,
+    "lng": 79.093151,
+    "timestamp": "2025-05-12T15:58:22.983136",
+    "successful_format": "indicated above, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
   }
 }
