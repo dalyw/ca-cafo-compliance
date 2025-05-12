@@ -339,6 +339,111 @@ def create_comparison_plots(df):
     
     return nitrogen_fig, wastewater_fig, manure_fig
 
+def create_facility_comparison_plots(df, facility_name):
+    """Create comparison plots for a specific facility."""
+    facility_df = df[df['Dairy Name'] == facility_name]
+    if facility_df.empty:
+        return None, None, None
+    
+    # Color scheme for consistency
+    reported_color = 'rgb(0, 71, 171)'      # dark blue
+    estimated_color = 'rgb(135, 206, 235)'  # light blue
+    ucce_color = 'rgb(144, 238, 144)'       # light green
+    
+    # Create subplots
+    fig = make_subplots(
+        rows=1, cols=3,
+        subplot_titles=(
+            "Wastewater Comparison",
+            "Manure Factor Comparison",
+            "Nitrogen Generation Comparison"
+        )
+    )
+    
+    # 1. Wastewater Comparison
+    fig.add_trace(
+        go.Bar(
+            name="Reported",
+            x=["Reported"],
+            y=[facility_df['Wastewater (L/day)'].iloc[0]],
+            marker_color=reported_color
+        ),
+        row=1, col=1
+    )
+    fig.add_trace(
+        go.Bar(
+            name="Estimated",
+            x=["Estimated"],
+            y=[facility_df['Estimated Wastewater (L/day)'].iloc[0]],
+            marker_color=estimated_color
+        ),
+        row=1, col=1
+    )
+    
+    # 2. Manure Factor Comparison
+    fig.add_trace(
+        go.Bar(
+            name="Calculated",
+            x=["Calculated"],
+            y=[facility_df['Calculated Manure Factor'].iloc[0]],
+            marker_color=reported_color
+        ),
+        row=1, col=2
+    )
+    fig.add_trace(
+        go.Bar(
+            name="Base Factor",
+            x=["Base"],
+            y=[BASE_MANURE_FACTOR],
+            marker_color=estimated_color
+        ),
+        row=1, col=2
+    )
+    
+    # 3. Nitrogen Generation Comparison
+    fig.add_trace(
+        go.Bar(
+            name="Reported",
+            x=["Reported"],
+            y=[facility_df['Nitrogen Generation (kg/day)'].iloc[0]],
+            marker_color=reported_color
+        ),
+        row=1, col=3
+    )
+    fig.add_trace(
+        go.Bar(
+            name="USDA Estimate",
+            x=["USDA"],
+            y=[facility_df['USDA Nitrogen Estimate (kg/day)'].iloc[0]],
+            marker_color=estimated_color
+        ),
+        row=1, col=3
+    )
+    fig.add_trace(
+        go.Bar(
+            name="UCCE Estimate",
+            x=["UCCE"],
+            y=[facility_df['UCCE Nitrogen Estimate (kg/day)'].iloc[0]],
+            marker_color=ucce_color
+        ),
+        row=1, col=3
+    )
+    
+    # Update layout
+    fig.update_layout(
+        height=500,
+        showlegend=True,
+        title_text=f"Facility Comparison: {facility_name}",
+        barmode='group'
+    )
+    
+    # Update y-axis labels
+    fig.update_yaxes(title_text="Liters per day", row=1, col=1)
+    fig.update_yaxes(title_text="Tons per cow per year", row=1, col=2)
+    fig.update_yaxes(title_text="kg per day", row=1, col=3)
+    
+    return fig
+
 def main():
     st.title("California Dairy CAFO Annual Report Data Exploration")
     st.write("Explore compliance data across different regions, counties, and years.")
@@ -350,9 +455,9 @@ def main():
         # Sidebar filters
         st.sidebar.header("Filters")
         
-        # Years filter (independent)
+        # Years filter (single select)
         years = sorted(df['Year'].unique())
-        selected_years = st.sidebar.multiselect("Select Years", years, default=years)
+        selected_year = st.sidebar.selectbox("Select Year", years, index=len(years)-1)  # Default to most recent year
         
         # Regions filter
         regions = sorted(df['Region'].unique())
@@ -376,7 +481,7 @@ def main():
         
         # Filter data
         filtered_df = df[
-            (df['Year'].isin(selected_years)) &
+            (df['Year'] == selected_year) &
             (df['Region'].isin(selected_regions)) &
             (df['County'].isin(selected_counties)) &
             (df['Template'].isin(selected_templates))
@@ -385,11 +490,10 @@ def main():
         # Display map
         st.subheader("Facility Locations")
         if not filtered_df.empty and 'Latitude' in filtered_df.columns:
-            map_year = st.selectbox("Select Year for Map", sorted(filtered_df['Year'].unique(), reverse=True))
             st.metric("Total Animals", f"{filtered_df['Total Herd Size'].sum():,.0f}")
-            map_fig = create_map(filtered_df, map_year)
+            map_fig = create_map(filtered_df, selected_year)
             if map_fig is not None:
-                st.plotly_chart(map_fig, use_container_width=True)
+                st.plotly_chart(map_fig, use_container_width=True, height=800)  # Increased height
         else:
             st.warning("No location data available for the selected filters.")
         
@@ -404,6 +508,22 @@ def main():
         st.plotly_chart(nitrogen_fig, use_container_width=True)
         st.plotly_chart(wastewater_fig, use_container_width=True)
         st.plotly_chart(manure_fig, use_container_width=True)
+        
+        # Add spacing before facility search
+        st.markdown("---")
+        st.markdown("<br>", unsafe_allow_html=True)
+        
+        # Facility search and comparison
+        st.subheader("Facility Search")
+        facility_names = sorted(filtered_df['Dairy Name'].unique())
+        selected_facility = st.selectbox("Select a Facility", facility_names)
+        
+        if selected_facility:
+            facility_comparison_fig = create_facility_comparison_plots(filtered_df, selected_facility)
+            if facility_comparison_fig is not None:
+                st.plotly_chart(facility_comparison_fig, use_container_width=True)
+            else:
+                st.warning(f"No data available for {selected_facility}")
         
         # Raw data
         st.subheader("Raw Data")

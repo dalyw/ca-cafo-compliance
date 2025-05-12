@@ -1,0 +1,372 @@
+region,template,year,filename,rotation
+R2,generic_r2,2023,Volpi_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Robert_Giacomini_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,JJs_Family_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Drakes_View_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,JLT_Ranch_2223_AR.pdf,0
+R2,generic_r2,2023,Roy_King_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Gerald_Spaletta_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Deniz_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Double_M_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Mertens_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Valley_View_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Bivalve_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Spaletta_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Blakes_Landing_2223_AR.pdf,0
+R2,generic_r2,2023,Silacci_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,RJ_McClelland_2223_AR.pdf,0
+R2,generic_r2,2023,Dolcini_Jersey_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,General CAF WDR Tier 2 Annual Report form - 11-2023.pdf,0
+R2,generic_r2,2023,Spaletta_Ranch_2223_AR.pdf,0
+R2,generic_r2,2023,Moreda_Valley_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Nosecchi_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Jim_Riebli_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,McIsaac_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Silva_Family_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Ielmorini_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Travis_Moreda_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Correia_Heifer_Ranch_2223_AR.pdf,0
+R2,generic_r2,2023,Pacheco_Dairy_2223_AR.pdf,0
+R2,generic_r2,2023,Lafranchi_Ranch_2223_AR.pdf,0
+R5,cas,2023,2023AR_Silveira Dairy_11277 Ave 21.5_Madera.pdf,0
+R5,cas,2023,2023AR_Silveira Dairy-Heifers_10221 Ave 21.5_Madera.pdf,0
+R5,cas,2023,2023AR_Thommen Dairy_53955 W Nees Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Jose Ribeiro & Son Dairy_3666 E Mt. Whitney Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_White River Dairy_20400 Ave 17.5_Madera.pdf,0
+R5,general_order,2023,2023AR_Coelho Farms Dairy_21655 S Cornelia Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Morning Star Dairy_10032 W Elkhorn Ave_Fresno.pdf,0
+R5,general_order,2023,"2023AR_Philip Verwey Dairy, Inc._12852 Rd 9_Madera.pdf",0
+R5,general_order,2023,2023AR_Fagundes Dairy_23548 Road 12_Madera.pdf,0
+R5,general_order,2023,2023AR_Rivas Dairy_41198 W Valeria Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Bar None Van Der Hoek Dairy_15886 S Lassen Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Monteiro Bros. Dairy #2_4604 W Harlan Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Bapu Farming_7500 Ave 14_Madera.pdf,0
+R5,general_order,2023,2023AR_Joao Cardodo Dairy Inc._24699 Ave 11_Madera.pdf,0
+R5,general_order,2023,2023AR_McRee East Dairy_11812 Ave 18_Madera.pdf,0
+R5,general_order,2023,2023AR_Hansen & Sons Dairy_13348 Ave 20_Madera.pdf,0
+R5,general_order,2023,2023AR_J & F Martins Dairy #2_541 E Woods Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Frank S. Brown Co. Dairy_22045 S Valentine Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_AJ Slenders Dairy_625 E Coleman Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Joe R. Garcia Dairy_20677 E St_Fresno.pdf,0
+R5,general_order,2023,2023AR_Vitoria Farms Dairy_12433 Ave 24_Madera.pdf,0
+R5,general_order,2023,2023AR_Souza_s Dairy Inc._8555 S Valentine Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Banos Dairy_4667 Ave 23.5_Madera.pdf,0
+R5,general_order,2023,2023AR_Monteiro Bros. Dairy #1_5336 W Harlan Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_River Valley Dairy_22700 S Cornelia Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Costa View Dairy North_9499 Ave 20_Madera.pdf,0
+R5,general_order,2023,2023AR_Costa View Farms Dairy #2_16800 Road 15_Madera.pdf,0
+R5,general_order,2023,2023AR_Golden Star Dairy_4109 E Conejo Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Pimentel Dairy_18177 Road 10.5_Madera.pdf,0
+R5,general_order,2023,2023AR_Sozinho Dairy #2_8489 E Elkhorn Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_CSUF Dairy_5450 N Sierra Vista Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Maddox Dairy_12840 W Kamm Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Bar 20 Dairy No. 2 & 3_25500 W Whitesbridge Rd_Fresno.pdf,0
+R5,general_order,2023,2023AR_Generations Dairy_6043 S Madera Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Red Top Jerseys Dairy_21463 Road 4_Madera.pdf,0
+R5,general_order,2023,2023AR_Green Valley Dairy_2685 S Madera Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Adams Dairy_16661 S Fowler Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Tri-Iest Dairy_16500 Ave 14_Madera.pdf,0
+R5,general_order,2023,2023AR_Iest Family Farms Dairy_14576 Ave 14_Madera.pdf,0
+R5,general_order,2023,2023AR_Double DJ Farms Dairy_14768 Ave 27_Madera.pdf,0
+R5,general_order,2023,2023AR_Mt. Whitney Dairy_2792 W Mt. Whitney Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Kerman Cattle Company_4301 S Dickenson Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Gerrit Visser & Sons Dairy_18565 S Marks Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Cedar Feedlot (former Sid De Boer)_21622 S Cedar Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_John De Groot & Son Dairy_6105 W Lincoln Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Johann Dairy_11511 W Floral Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Triangle M Dairy_11302 Ave 18.5_Madera.pdf,0
+R5,general_order,2023,2023AR_AJF Dairy_23435 Road 12_Madera.pdf,0
+R5,general_order,2023,2023AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Dry River Dairy_12718 Ave 25_Madera.pdf,0
+R5,general_order,2023,2023AR_Troost Dairy_27000 Road 9_Madera.pdf,0
+R5,general_order,2023,2023AR_El Dorado Ranches Dairy_23025 W American Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Vlot Calf Ranch_20330 Road 4_Madera.pdf,0
+R5,general_order,2023,"2023AR_RuAnn Dairy, LLC_7285 W Davis Ave_Fresno.pdf",0
+R5,general_order,2023,2023AR_Joe Mama_s Heifer Ranch_13644 Ave 18.5_Madera.pdf,0
+R5,general_order,2023,2023AR_Alfred Soares Dairy_21282 Road 6_Madera.pdf,0
+R5,general_order,2023,2023AR_A.T.O. Dairy_19249 S Fruit Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_LaSalle Dairy_10663 Ave 7.5_Madera.pdf,0
+R5,general_order,2023,2023AR_Medeiros Dairy_608 E Riverdale Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Capstone Dairy_14303 Ave 14_Madera.pdf,0
+R5,general_order,2023,2023AR_South Point Ranch_13668 Ave 13_Madera.pdf,0
+R5,general_order,2023,2023AR_Fred Rau Dairy_10255 W Manning Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Leonardo Bros Dairy_16508 S Clovis Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Shady Acres Dairy #2_15391 W Elkhorn Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_VIP Cattle_19436 S East Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno.pdf,0
+R5,general_order,2023,2023AR_Michael McRee South Dairy_11304 Ave 18_Madera.pdf,0
+R5,general_order,2023,2023AR_Milk Time Dairy_12519 Road 16_Madera.pdf,0
+R5,general_order,2023,2023AR_Coderview Holsteins Dairy_40396 W Valeria Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_L & J Vanderham Dairy_10772 W Mt. Whitney Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_G & A Dairy_2200 S Marks Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_River Oaks Dairy_3621 E Mt. Whitney Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_Black Diamond Dairy (former Sweet Haven)_10467 W Kamm Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_Zonneveld Dairies Complex_1560 Cerini Ave_Fresno.pdf,0
+R5,innovative_ag,2023,"2023AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno.pdf",0
+R5,innovative_ag,2023,2023AR_Fontes Dairy Farms - Dairy #1_5512 W Davis Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_Maple Dairy_19860 Maple Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_Fontes Dairy Farms - Dairy 2_20334 S Polk Ave_Fresno.pdf,0
+R5,innovative_ag,2023,2023AR_Open Sky Dairy_12103 W Elkhorn Ave_Fresno.pdf,0
+R5,provost_pritchard,2023,2023AR_Pacheco Dairy_1108 N Plumas Ave_Fresno.pdf,0
+R5,livingston,2023,2023AR_A & M Farms Dairy_10350 W. Manning Ave_Fresno.pdf,90
+R5,general_order,2023,2023AR_Peterson Dairy_30999 Peterson Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Bidart Dairy 3_25820 Stockdale Hwy_Kern.pdf,0
+R5,general_order,2023,2023AR_Bear Mountain Dairy_4551 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Newhouse Dairy_16130 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Panama Ranch_6219 E Panama Lane_Kern.pdf,0
+R5,general_order,2023,2023AR_Bear 5 Feedlot_12841 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Belonave Ranch_14461 Taft Hwy_Kern.pdf,0
+R5,general_order,2023,2023AR_Carlos Echeverria & Sons Dairy_20229 Old River Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Westwind Farms_6221 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Koostra Dairy_13628 Adobe Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Affentranger&Sons Dairy_18107 Kratzmeyer Ave_Kern.pdf,0
+R5,general_order,2023,2023AR_Petrissans Dairy_5111 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Avalon Dairy Farms_27125 Pond Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_T&W Farms 1_18346 Old River Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_West Star North Dairy_26953 Riverside St_Kern.pdf,0
+R5,general_order,2023,2023AR_Maple Dairy_15857 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_RichMar Farms Dairy_1129 East Shafter Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_J&R Dairy_4403 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_McFarland Dairy_31348 Hanawalt Ave_Kern.pdf,0
+R5,general_order,2023,2023AR_McMoo Dairy_11663 Buena Vista Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_H&P Dairy_5021 E Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Poso Creek Family Dairy_13437 Gun Club Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_T&W Farms 2_5959 Houghton Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Faial Farms Dairy_13714 Stine Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_BV Dairy_18904 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_AJB Ranch Dairy_2874 Stockdale Hwy_Kern.pdf,0
+R5,general_order,2023,2023AR_Maya Dairy_18451 Wildwood Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Lakeview Dairy_17702 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Rosa Dairy_4714 E Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Ansonea Dairy_5250 DiGiorgio Rd_Kern.pdf,0
+R5,general_order,2023,2023ARTrilogy Dairy_17661 Bear Mountain Blvd_Kern.pdf,0
+R5,general_order,2023,2023AR_Vanden Berge Dairy_11701 Old River Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_VP Legacy Farms_28349 Los Angeles St_Kern.pdf,0
+R5,general_order,2023,2023AR_Wester Sky Dairy_18501 Old River Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Bidart Dairy 2_20400 Old River Rd_Kern.pdf,0
+R5,general_order,2023,2023AR_Faial Farms 2_18683 Magnolia Ave_Kern.pdf,0
+R5,innovative_ag,2023,2023AR_David Vander Schaaf Dairy_7524 S Fairfax Rd_Kern.pdf,0
+R5,livingston,2023,2023AR_Goyenetche Dairy LLC_6041 Brandt Rd_Kern.pdf,90
+R5,livingston,2023,2023AR_Tjaarda Dairy_19211 Magnolia Ave_Kern.pdf,90
+R5,livingston,2023,2023AR_Boschma & Sons Dairy_24794 Sherwood Ave_Kern.pdf,90
+R5,livingston,2023,2023AR_Oasis Holsteins Dairy_18041 Palm Ave_Kern.pdf,90
+R5,livingston,2023,2023AR_Whiteside Dairy_16477 Scofield Ave_Kern.pdf,90
+R5,general_order,2023,2023AR_Dixie Creek Ranch_3601 Lacey Boulevard_Kings.pdf,0
+R5,general_order,2023,2023AR_Dutra & Dutra Dairy_7480 5th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Double N Dairy_12700 Everett Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Tony Cox Dairy #4_16025 6 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Parreira & Gaspar Dairy_17800 4th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Dover Dairy_4265 Dover Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Garcia & Sons Dairy_15405 17th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Double N Dairy ll_18104 Everett Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Sozinho Jerseys Dairy_4615 Excelsior Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Antonio Garcia Dairy_6571 Fargo Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Santa Anita Dairy_4356 Kansas Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Mattos Dairy #4_4555 Kansas Ave_Kings.pdf,0
+R5,general_order,2023,2023AR_Lu-Ar Dairy_6121 15th Ave_Kings.pdf,0
+R5,general_order,2023,"2023AR_Flatland Farms, LLC_8483 15th Avenue_Kings.pdf",0
+R5,general_order,2023,2023AR_White River Dairy_20784 Laurel Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Bar E Dairy_6740 Corona Avenue_Kings.pdf,0
+R5,general_order,2023,"2023AR_Jackson Dairy, LLC_8637 Jackson Avenue_Kings.pdf",0
+R5,general_order,2023,2023AR_C&R Dairy_18321 Idaho Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Golden Star Dairy LLC #2_6398 16th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Sierra Blanca Ranch_15673 5 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Barreto & Silveira Dairy_11305 2nd Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Mattos Brothers Dairy_4017 Kansas Ave_Kings.pdf,0
+R5,general_order,2023,2023AR_Mendes & Toste Dairy_23568 Fargo Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Neves Dairy_16831 Jackson Ave_Kings.pdf,0
+R5,general_order,2023,2023AR_Sozinho Jerseys 2_5811 Lacey Boulevard_Kings.pdf,0
+R5,general_order,2023,2023AR_Sozinho Dairy #1 and #3_11447 8 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Silva & Son Dairy_8331 Excelsior Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Richard Simas Dairy_17571 Flint Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Felicita Dairy_22154 Road 20_Kings.pdf,0
+R5,general_order,2023,2023AR_Anthony & Robert Brazil Dairy-Sunshine Dairy_13419 7th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_J&D Wilson Dairy #2_23535 Grangeville Boulevard_Kings.pdf,0
+R5,general_order,2023,2023AR_Alvaro Machado Dairy_5230 9th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Log Haven Dairy_7755 Fargo Ave_Kings.pdf,0
+R5,general_order,2023,2023AR_Tony Cox Family Dairy #3_15410 Excelsior Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Georgenson Dairy_8519 24th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Daniel Brazil Dairy_18280 Fairfax Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Sozinho Dairy #5_7205 Houston Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Contente & Company Dairy_7900 15th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Fagundes Agribusiness Dairy_7546 8 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Lone Oak Farms Dairy #1_13866 4th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Four Star Dairy_18886 4th Ave_Kings.pdf,0
+R5,general_order,2023,2023AR_JD Mello Dairy_15609 Grangeville Boulevard_Kings.pdf,0
+R5,general_order,2023,2023AR_Over The Moon Dairy_9455 Second Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Sierra Blanca Ranch #2_15010 5th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Henry Veenendaal Dairy_3678 Houston Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Joaquim Mattos & Family Dairy_4790 Kansas Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Phoenix Dairy_10736 1 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Jaques & Silva Dairy_10256 6th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Eden-Vale Dairy_6944 21 1-2 Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_P&E #2 Dairy_13245 9th Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Flint Dairy_6511 Flint Avenue_Kings.pdf,0
+R5,general_order,2023,2023AR_Mello D Jerseys_14803 Grangeville Boulevard_Kings.pdf,0
+R5,general_order,2023,2023AR_F&S Brasil Dairy_14235 Kent Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Cowlifornia Dairy LLC_3742 Lacey Boulevard_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Wreden Ranch Dairy_8749 Lansing Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Degroot Dairies-North_2446 Grangeville Boulevard_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Poplar Lane Dairy_5387 Kent Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Still Water Ranch LLC_5001 4th Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_High Roller Dairy_14782 8th Avenue_Kings.pdf,0
+R5,innovative_ag,2023,"2023AR_Milkaholic Dairy, LLC_6267 5th Avenue_Kings.pdf",0
+R5,innovative_ag,2023,2023AR_River Ranch Dairy_6155 Jackson Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Backroad Ranch #2_4119 Houston Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Valadao Dairy_17293 9 1-2 Avenue_Kings.pdf,0
+R5,innovative_ag,2023,"2023AR_The Dairy, INC._6240 21st Avenue_Kings.pdf",0
+R5,innovative_ag,2023,2023AR_Holland_s Dairy_3533 Grangeville Boulevard_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Cloverdale Dairy_19142 10 1-2 Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Hollandia Farms North Dairy_7905 Kansas Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Dias and Sons Dairy_7594 Kent Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Degroot Dairies-South_3101 Grangeville Boulevard_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Cactus Ranch_8800 Lansing Avenue_Kings.pdf,0
+R5,innovative_ag,2023,2023AR_Yokum Dairy_10234 Lansing Avenue_Kings.pdf,0
+R5,innovative_ag,2023,"2023AR_J and A Dairy, LLC_16283 18th Avenue_Kings.pdf",0
+R5,innovative_ag,2023,2023AR_Parreira Dairy_18081 17th Avenue_Kings.pdf,0
+R5,provost_pritchard,2023,2023AR_Hakker Dairy_12499 Idaho Avenue_Kings.pdf,0
+R5,provost_pritchard,2023,2023AR_Jersey Creek Dairy_14857 5th Avenue_Kings.pdf,0
+R5,provost_pritchard,2023,2023AR_Diamond D LLC Dairy_9423 Idaho Avenue_Kings.pdf,0
+R5,livingston,2023,2023AR_Vitor Borba Dairy #2_16452 11th Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Vitor Borba Dairy_7721 Flint Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_West Creek Dairy_8409 5th Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Soares Dairy #3_15336 10th Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_M.F. Rosa Dairy_10090 2nd Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Manuel & Alda Lawrence Dairy_12871 Kent Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Vitor Borba Heifers_7410 7th Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Moonstone Dairy_1305 Iona Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Midnight Farms_9240 19 1-2 Ave_Kings.pdf,90
+R5,livingston,2023,2023AR_Cunha Dairy #1_6680 16th Ave_Kings.pdf,90
+R5,innovative_ag,2023,2023AR_Westwood Farms LLC (Dairy)_6194 Avenue 228_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Hynes Dairy_4497 North Colpien Road_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_P & M Dairy_9535 Avenue 160_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_A & L Dairy_23863 Road 48_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Golden State Dairy_11425 Road 112_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Back Road Dairy_22000 Road 28_W Tulare.pdf,0
+R5,innovative_ag,2023,"2023AR_Gold Star Enterprises, LLC_6020 Avenue 200_W Tulare.pdf",0
+R5,innovative_ag,2023,2023AR_John Vander Poel Dairy (Pixley)_8001 Road 104_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Double J Feedlot_6141 Avenue 184_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Tri-J Dairy_11951 Road 96_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Hamstra Dairy Complex_7590 Avenue 260_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Brian James Jongsma Dairy_16026 Road 64 Road_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Gorzeman Cattle (Dairy)_13804 Road 72_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Parreira Farms 2_11021 Avenue 120_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Dykstra Dairy_6801 Avenue 176_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Four J Jerseys Dairy #2_7480 Avenue 160_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Richard Westra Dairy_4070 Avenue 256_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Williams Family Heifer Ranch_5339 Avenue 120_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Sunset Dairy_29049 Road 68_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Jim Bakker Dairy_30030 Road 60_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Four J Farms Dairy_1223 West Stanford Avenue_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Blue Moon Farms_13213 Road 80_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Meadowlake Dairy_6802 Avenue 120_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Sun Valley Dairy_255 Road 128_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_VP Farms Dairy_15503 Road 96_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Little Rock Dairy_13955 Road 80_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_K & M Visser Dairy_9279 Avenue 96_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_South Creek Dairy_11450 Avenue 64_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_North Moon Dairy_7325 Avenue 144_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_DDW Farms LLC Dairy_24643 Road 36_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Jesse & James Jongsma Dairy_6780 Avenue 144_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_J R Dairy_13202 Road 104_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Decade Dairy_3313 Avenue 256_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Tony & Julie Jorge Dairy_4645 Avenue 120_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Pacific Sun Dairy_9086 Avenue 144_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Cornerstone Dairy_8769 Avenue 128_W Tulare.pdf,0
+R5,innovative_ag,2023,2023AR_Tripalm Dairy_2429 Idaho Avenue_W Tulare.pdf,0
+R5,livingston,2023,2023AR_Valov Brothers Farm LP_2865 West Prosperity Avenue_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Joe V. Cardoza Trust Dairy_19199 Road 80_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legendairy Farms Dairy_14685 Road 96_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Machado Dairy_20180 Road 36_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legendairy South_8360 Avenue 144_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legacy Ranch 2 (Dairy)_8660 Avenue 96_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Pacheco & Associates ll Dairy.pdf,90
+R5,livingston,2023,2023AR_Jer-Z- Boys Dairy #1_11001 Avenue 112_W Tulare.pdf,90
+R5,livingston,2023,2023AR_FM Ranch Dairy #1_16777 South I Drive_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Teunissen Ranch #2_18943 Road 32 Road_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Moonlight Dairy_5061 Avenue 280_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legendairy West_8509 Avenue 152_W Tulare.pdf,90
+R5,livingston,2023,2023AR_FM Ranch #5_14913 Road 80_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Tulare Joint Union High School Dairy_591 West Bardsley Ave_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legacy Ranch Dairy #1_11941 Road 80_W Tulare.pdf,90
+R5,livingston,2023,2023AR_Legacy Holsteins_13510 Road 72_W Tulare.pdf,90
+R5,livingston,2023,2023AR_F & L Barcellos Dairy_14581 Road 80_W Tulare.pdf,90
+R5,livingston,2023,2023AR_M Bar 9_8083 Avenue 160_W Tulare.pdf,90
+R5,livingston,2023,2023AR_F & L Barcellos #2_7585 Avenue 152_W Tulare.pdf,90
+R5,dellaville,2023,2023AR_Tiemersma Dairy_29981 Road 60_W Tulare.pdf,0
+R5,provost_prichard,2023,2023AR_Holstein Farms Dairy_4315 Avenue 176_W Tulare.pdf,0
+R5,provost_prichard,2023,2023AR_MS Monteiro & Sons Dairy_3515 Avenue 228_W Tulare.pdf,0
+R7,generic_r7,2023,7A137777020-2023AR.pdf,0
+R7,generic_r7,2023,2023 MY Annual Report.pdf,0
+R7,generic_r7,2023,Foster Feed Yard - Foster Yard.pdf,0
+R7,generic_r7,2023,1.22.2024_Mesquite Cattle Feeders_LR.pdf,0
+R7,generic_r7,2023,2023 Annual Report Grizzle Feed Lot.pdf,0
+R7,generic_r7,2023,7A137777028-2023AR.pdf,0
+R7,generic_r7,2023,7A137777022-2023AR.pdf,0
+R7,generic_r7,2023,-2023AR.pdf,0
+R7,generic_r7,2023,2023 DC Annual Report.pdf,0
+R7,generic_r7,2023,OWB Ranches Annual Report 2023.pdf,0
+R7,generic_r7,2023,2023 - Annual Report Hacinda Yard.pdf,0
+R7,generic_r7,2023,2023 Annual Report Schaffner Dairy.pdf,0
+R7,generic_r7,2023,2023 - Annual Report.pdf,0
+R7,generic_r7,2023,7A137777021-2023AR.pdf,0
+R7,generic_r7,2023,2023 Reata Annual Report.pdf,0
+R7,generic_r7,2023,"FW_ FEEDLOT PERMIT - 7A137777017, Ruegger & Rue....pdf",0
+R7,generic_r7,2023,ANNUAL REPORT 2.14.24.pdf,0
+R7,generic_r7,2023,7A137777019-2023AR.pdf,0
+R7,generic_r7,2023,Foster Feed Yard - Keystone Yard.pdf,0
+R7,generic_r7,2023,7A137777023-2023AR.pdf,0
+R7,generic_r7,2023,Brandt Company 2023 Annual Report.pdf,0
+R2,generic_r2,2024,Silva_Family_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Ielmorini_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Kehoe_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Travis_Moreda_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Correia_Heifer_Ranch_2324_AR.pdf,0
+R2,generic_r2,2024,McIssac_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Sleepy_Hollow_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,R&J_McClelland_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Silacci_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Dolcini_Jersey_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Spaletta_Ranch_2324_AR.pdf,0
+R2,generic_r2,2024,Moreda_Valley_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Nosecchi_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Jim_Riebli_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Gerald_Spaletta_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Deniz_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Double_M_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Mertens_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Valley_View_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Bivalve_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Spaletta_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Volpi_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Blakes_Landing_Farms_2324_AR.pdf,0
+R2,generic_r2,2024,Robert_Giacomini_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,JJs_Family_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Drakes_View_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,Lafranchi_Dairy_2324_AR.pdf,0
+R2,generic_r2,2024,JLT_Ranch_2324_AR.pdf,0
+R2,generic_r2,2024,Roy_King_Dairy_2324_AR.pdf,0
+R7,generic_r7,2024,2024 - Annual Report Hacienda.pdf,0
+R7,generic_r7,2024,1.30.2025_Superior Cattle Feeders_Butterspur7A137777028_Annual Report_Jan2024-Dec2024_jf.lr.pdf,0
+R7,generic_r7,2024,2.25.2025_OWB Ranches LLC_2024 Annual Report_JFA.pdf,0
+R7,generic_r7,2024,1.30.2025_Superior Cattle Feeders_Hannon7A137777022_Annual Report_Jan2024-Dec2024_jf.lr.pdf,0
+R7,generic_r7,2024,2.18.2025_Superior Cattle Feeders_KershawYard7A137777020_2024Report_Revised_LR.JFA.pdf,0
+R7,generic_r7,2024,2.18.2025_Superior Cattle Feeders_ButterspurYard7A137777028_2024Report_Revised_LR.JFA.pdf,0
+R7,generic_r7,2024,1.22.2025_MesquiteCattleFeeders_2024 Annual Report_jf.lr.pdf,0
+R7,generic_r7,2024,2.18.2025_ElToro_Land and Cattle_McCabe Yard_LR.JFA.pdf,0
+R7,generic_r7,2024,2.6.2025_Schaffner Dairy_2024 Annual Report.pdf,0
+R7,generic_r7,2024,2.18.2025_Superior Cattle Feeders_FairlineYard7A137777019_2024Report_Revised_LR.JFA.pdf,0
+R7,generic_r7,2024,1.30.2025_Superior Cattle Feeders_MainYard7A137777021_Annual Report_Jan2024-Dec2024_jf.lr.pdf,0
+R7,generic_r7,2024,2.18.2025_ElToro_Land and Cattle_Meloland Yard_LR.JFA.pdf,0
+R7,generic_r7,2024,1.30.2025_Superior Cattle Feeders_Kershaw7A137777020_Annual Report_Jan2024-Dec.2024_jf.lr.pdf,0
+R7,generic_r7,2024,2.18.2025_ElToro_Land and Cattle_Heber Yard_LR.JFA.pdf,0
+R7,generic_r7,2024,2.12.2025_BrandtCo_Cattle Feeding_2024 Annual Report_JFA.LR.pdf,0
+R7,generic_r7,2024,1.30.2025_Superior Cattle Feeders_Fairline7A137777019_Annual Report_Jan2024-Dec2024_jf.lr.pdf,0
+R7,generic_r7,2024,2024 Annual Report CRWQCB.pdf,0
+R7,generic_r7,2024,2024 - Annual Report CHR.pdf,0
+R7,generic_r7,2024,2.18.2025_UC Desert Research and Extension Center_WDR100048262_LR.JFA.pdf,0
+R7,generic_r7,2024,2.18.2025_Superior Cattle Feeders_HannonYard7A137777022_2024Report_Revised_LR.JFA.pdf,0
+R7,generic_r7,2024,2.18.2025_Superior Cattle Feeders_Main Yard7A137777021_2024Report_Revised_LR.JFA.pdf,0
+R7,generic_r7,2024,1.23.2025_Cameiro Heifer Ranch_Jan2024-Dec2024 Annual Report_jf.lr.pdf,0

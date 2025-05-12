@@ -5,10 +5,6 @@ data/2024/**/original/
 
 ca_cafo_compliance/ReadPermits_Nutrient_Applications_Region5.ipynb
 
-outputs/**
-!outputs/**/
-!outputs/.gitkeep
-
 # Python specific
 __pycache__/
 *.py[cod]

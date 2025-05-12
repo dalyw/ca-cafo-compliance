@@ -24,6 +24,9 @@ def normalize_address(address):
     if pd.isna(address) or not isinstance(address, str):
         return None
         
+    # Remove ": " prefix if present
+    address = address.replace(": ", "")
+    
     address = address.lower()
     address = re.sub(r'[.,]', '', address)
     
@@ -62,34 +65,49 @@ def find_cached_address(address, cache):
             
     return None
 
-def geocode_address(address, cache, try_again=False):
+def geocode_address(address, cache, county=None, try_again=False):
     """Convert address to latitude and longitude using Geopy with caching."""
     if pd.isna(address) or not isinstance(address, str):
         return None, None
     
+    # Remove ": " prefix if present
+    clean_address = address.replace(": ", "")
+    
     # Check cache first
-    cached_addr = find_cached_address(address, cache)
+    cached_addr = find_cached_address(clean_address, cache)
     print('looked for cached_address')
     if cached_addr:
         cached_result = cache[cached_addr]
         if try_again and (cached_result['lat'] is None or cached_result['lng'] is None):
-            print(f"Retrying previously failed address: {address}")
+            print(f"Retrying previously failed address: {clean_address}")
         else:
-            print(f"Found address in cache: {address}")
+            print(f"Found address in cache: {clean_address}")
             return cached_result['lat'], cached_result['lng']
     
     # Try different address formats
     address_formats = [
-        address,
-        f"{address}, California",
-        *[address.replace(f" {abbr} ", f" {full} ") for abbr, full in {
+        clean_address,
+        f"{clean_address}, California"
+    ]
+    
+    # Add county-specific formats if county is provided
+    if county:
+        address_formats.extend([
+            f"{clean_address}, {county} County, California",
+            f"{clean_address}, {county}, CA"
+        ])
+    
+    # Add common street name variations
+    address_formats.extend([
+        clean_address.replace(f" {abbr} ", f" {full} ") 
+        for abbr, full in {
             "AVE": "Avenue",
             "ST": "Street",
             "RD": "Road",
             "BLVD": "Boulevard",
             "HWY": "Highway"
-        }.items()]
-    ]
+        }.items()
+    ])
     
     geolocator = Nominatim(user_agent="ca_cafo_compliance")
     for addr_format in address_formats:
@@ -98,7 +116,7 @@ def geocode_address(address, cache, try_again=False):
             location = geolocator.geocode(addr_format)
             
             if location:
-                cache[address] = {
+                cache[clean_address] = {
                     'lat': location.latitude,
                     'lng': location.longitude,
                     'timestamp': datetime.now().isoformat(),
@@ -113,7 +131,7 @@ def geocode_address(address, cache, try_again=False):
             continue
     
     # Cache failure
-    cache[address] = {
+    cache[clean_address] = {
         'lat': None,
         'lng': None,
         'error': "All address formats failed",
@@ -190,7 +208,10 @@ for year in YEARS:
             new_geocodes = 0
             
             for address in unique_addresses:
-                lat, lng = geocode_address(address, geocoding_cache, try_again=False)
+                # Get the county for this address
+                county = combined_df[combined_df[address_col] == address]['County'].iloc[0] if not combined_df[combined_df[address_col] == address].empty else None
+                
+                lat, lng = geocode_address(address, geocoding_cache, county=county, try_again=True)
                 if lat is not None:
                     new_geocodes += 1
                 

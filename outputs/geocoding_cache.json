@@ -1,0 +1,1941 @@
+{
+  "3760 e mount whitney ave laton fresno 93242": {
+    "lat": 36.4308971,
+    "lng": -119.6906614,
+    "original_address": "3760 E Mount Whitney AVE Laton Fresno 93242"
+  },
+  "10772 w. mount whitney avenue, riverdale ca 93656": {
+    "lat": 36.4306883,
+    "lng": -119.9114618,
+    "original_address": "10772 W. Mount Whitney Avenue, Riverdale CA 93656"
+  },
+  "2200 s. marks avenue, fresno ca 93706": {
+    "lat": 36.7036975,
+    "lng": -119.8443714,
+    "original_address": "2200 S. Marks Avenue, Fresno CA 93706"
+  },
+  "25820 stockdale hwy bakersfield kern 93314": {
+    "lat": 35.3549987,
+    "lng": -119.1751846,
+    "original_address": "25820 Stockdale HWY Bakersfield Kern 93314"
+  },
+  "7524 s. fairfax road, bakersfield ca 93307": {
+    "lat": 35.2862052,
+    "lng": -118.9321963,
+    "original_address": "7524 S. Fairfax Road, Bakersfield CA 93307"
+  },
+  "3601 lacey blvd. hanford kings 93230": {
+    "lat": 36.3279814,
+    "lng": -119.6168465,
+    "original_address": "3601 Lacey Blvd. Hanford Kings 93230"
+  },
+  "3742 highway 198, hanford ca 93230": {
+    "lat": 36.3196101,
+    "lng": -119.6669459,
+    "original_address": "3742 Highway 198, Hanford CA 93230"
+  },
+  "5041 ave. 192 tulare tulare 93274": {
+    "lat": 36.1376951,
+    "lng": -119.4608117,
+    "original_address": "5041 Ave. 192 Tulare Tulare 93274"
+  },
+  "6194 avenue 228, tulare ca 93274": {
+    "lat": 36.2032313,
+    "lng": -119.4347497,
+    "original_address": "6194 Avenue 228, Tulare CA 93274"
+  },
+  "4497 n. colpien road, tulare ca 93274": {
+    "lat": 36.2533014,
+    "lng": -119.3940195,
+    "original_address": "4497 N. Colpien Road, Tulare CA 93274"
+  },
+  "3760 E Mount Whitney AVE Laton Fresno 93242": {
+    "lat": 36.4308971,
+    "lng": -119.6906614
+  },
+  "10772 W. Mount Whitney Avenue, Riverdale CA 93656": {
+    "lat": 36.4306883,
+    "lng": -119.9114618
+  },
+  "2200 S. Marks Avenue, Fresno CA 93706": {
+    "lat": 36.7036975,
+    "lng": -119.8443714
+  },
+  "25820 Stockdale HWY Bakersfield Kern 93314": {
+    "lat": 35.3549987,
+    "lng": -119.1751846
+  },
+  "7524 S. Fairfax Road, Bakersfield CA 93307": {
+    "lat": 35.2862052,
+    "lng": -118.9321963
+  },
+  "3601 Lacey Blvd. Hanford Kings 93230": {
+    "lat": 36.3279814,
+    "lng": -119.6168465
+  },
+  "3742 Highway 198, Hanford CA 93230": {
+    "lat": 36.3196101,
+    "lng": -119.6669459
+  },
+  "5041 Ave. 192 Tulare Tulare 93274": {
+    "lat": 36.1376951,
+    "lng": -119.4608117
+  },
+  "6194 Avenue 228, Tulare CA 93274": {
+    "lat": 36.2032313,
+    "lng": -119.4347497
+  },
+  "4497 N. Colpien Road, Tulare CA 93274": {
+    "lat": 36.2533014,
+    "lng": -119.3940195
+  },
+  "3621 E. Mount Whitney, Laton CA 93242": {
+    "lat": 36.4308971,
+    "lng": -119.6906614
+  },
+  "20334 S Polk Avenue, Riverdale CA 93656": {
+    "lat": 36.4441054,
+    "lng": -119.8962153
+  },
+  "2585 South Chateau Fresno Ave., Fresno CA 93706": {
+    "lat": 36.6976313,
+    "lng": -119.9344597
+  },
+  "4119 Houston Avenue , Hanford CA 93230": {
+    "lat": 36.2985774,
+    "lng": -119.6431523
+  },
+  "2446 Grangeville Blvd, Hanford CA 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918
+  },
+  "3101 Grangeville Blvd, Hanford CA 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918
+  },
+  "16283 18th Avenue, Lemoore CA 93245": {
+    "lat": 36.3315962,
+    "lng": -119.7807728
+  },
+  "17293 9 1/2 Avenue, Hanford CA 93230": {
+    "lat": 36.3185855,
+    "lng": -119.6257411
+  },
+  "19142 10 1/2 Avenue, Hanford CA 93230": {
+    "lat": 36.3045347,
+    "lng": -119.6459254
+  },
+  "3533 Grangeville Blvd., Hanford CA 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918
+  },
+  "4070 Avenue 256, Tulare CA 93274": {
+    "lat": 36.2552099,
+    "lng": -119.3101072
+  },
+  "1223 W. Stanford Avenue, Pixley CA 93256": {
+    "lat": 35.9931359,
+    "lng": -119.302856
+  },
+  "6020 Avenue 200, Tulare CA 93274": {
+    "lat": 36.1524269,
+    "lng": -119.4387528
+  },
+  "6141 Avenue 184, Tulare CA 93274": {
+    "lat": 36.1234044,
+    "lng": -119.4444012
+  },
+  "7590 Avenue 260, Tulare CA 93274": {
+    "lat": 36.2617553,
+    "lng": -119.4033323
+  },
+  "23863 Road 48, Tulare CA 93274": {
+    "lat": 36.2249411,
+    "lng": -119.4660344
+  },
+  "22000 Road 28, Tulare CA 93274": {
+    "lat": 36.1899967,
+    "lng": -119.510663
+  },
+  "6801 Avenue 176, Tulare CA 93274": {
+    "lat": 36.1088702,
+    "lng": -119.4219494
+  },
+  "9086 Avenue 144, Tipton CA 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504
+  },
+  "7325 Avenue 144, Tipton CA 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504
+  },
+  "24643 Road 36, Tulare CA 93274": {
+    "lat": 36.2374583,
+    "lng": -119.4928501
+  },
+  "6780 Avenue 144, Tipton CA 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504
+  },
+  "3313 Avenue 256, Tulare CA 93274": {
+    "lat": 36.2550071,
+    "lng": -119.310851
+  },
+  "2429 Idaho Avenue, Hanford CA 93230": {
+    "lat": 36.2693801,
+    "lng": -119.6488918
+  },
+  "3621 e. mount whitney, laton ca 93242": {
+    "lat": 36.4308971,
+    "lng": -119.6906614,
+    "original_address": "3621 E. Mount Whitney, Laton CA 93242"
+  },
+  "20334 s polk avenue, riverdale ca 93656": {
+    "lat": 36.4441054,
+    "lng": -119.8962153,
+    "original_address": "20334 S Polk Avenue, Riverdale CA 93656"
+  },
+  "2585 south chateau fresno ave., fresno ca 93706": {
+    "lat": 36.6976313,
+    "lng": -119.9344597,
+    "original_address": "2585 South Chateau Fresno Ave., Fresno CA 93706"
+  },
+  "4119 houston avenue , hanford ca 93230": {
+    "lat": 36.2985774,
+    "lng": -119.6431523,
+    "original_address": "4119 Houston Avenue , Hanford CA 93230"
+  },
+  "2446 grangeville blvd, hanford ca 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918,
+    "original_address": "2446 Grangeville Blvd, Hanford CA 93230"
+  },
+  "3101 grangeville blvd, hanford ca 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918,
+    "original_address": "3101 Grangeville Blvd, Hanford CA 93230"
+  },
+  "16283 18th avenue, lemoore ca 93245": {
+    "lat": 36.3315962,
+    "lng": -119.7807728,
+    "original_address": "16283 18th Avenue, Lemoore CA 93245"
+  },
+  "17293 9 1/2 avenue, hanford ca 93230": {
+    "lat": 36.3185855,
+    "lng": -119.6257411,
+    "original_address": "17293 9 1/2 Avenue, Hanford CA 93230"
+  },
+  "19142 10 1/2 avenue, hanford ca 93230": {
+    "lat": 36.3045347,
+    "lng": -119.6459254,
+    "original_address": "19142 10 1/2 Avenue, Hanford CA 93230"
+  },
+  "3533 grangeville blvd., hanford ca 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918,
+    "original_address": "3533 Grangeville Blvd., Hanford CA 93230"
+  },
+  "4070 avenue 256, tulare ca 93274": {
+    "lat": 36.2552099,
+    "lng": -119.3101072,
+    "original_address": "4070 Avenue 256, Tulare CA 93274"
+  },
+  "1223 w. stanford avenue, pixley ca 93256": {
+    "lat": 35.9931359,
+    "lng": -119.302856,
+    "original_address": "1223 W. Stanford Avenue, Pixley CA 93256"
+  },
+  "6020 avenue 200, tulare ca 93274": {
+    "lat": 36.1524269,
+    "lng": -119.4387528,
+    "original_address": "6020 Avenue 200, Tulare CA 93274"
+  },
+  "6141 avenue 184, tulare ca 93274": {
+    "lat": 36.1234044,
+    "lng": -119.4444012,
+    "original_address": "6141 Avenue 184, Tulare CA 93274"
+  },
+  "7590 avenue 260, tulare ca 93274": {
+    "lat": 36.2617553,
+    "lng": -119.4033323,
+    "original_address": "7590 Avenue 260, Tulare CA 93274"
+  },
+  "23863 road 48, tulare ca 93274": {
+    "lat": 36.2249411,
+    "lng": -119.4660344,
+    "original_address": "23863 Road 48, Tulare CA 93274"
+  },
+  "22000 road 28, tulare ca 93274": {
+    "lat": 36.1899967,
+    "lng": -119.510663,
+    "original_address": "22000 Road 28, Tulare CA 93274"
+  },
+  "6801 avenue 176, tulare ca 93274": {
+    "lat": 36.1088702,
+    "lng": -119.4219494,
+    "original_address": "6801 Avenue 176, Tulare CA 93274"
+  },
+  "9086 avenue 144, tipton ca 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504,
+    "original_address": "9086 Avenue 144, Tipton CA 93272"
+  },
+  "7325 avenue 144, tipton ca 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504,
+    "original_address": "7325 Avenue 144, Tipton CA 93272"
+  },
+  "24643 road 36, tulare ca 93274": {
+    "lat": 36.2374583,
+    "lng": -119.4928501,
+    "original_address": "24643 Road 36, Tulare CA 93274"
+  },
+  "6780 avenue 144, tipton ca 93272": {
+    "lat": 36.0512649,
+    "lng": -119.3119504,
+    "original_address": "6780 Avenue 144, Tipton CA 93272"
+  },
+  "3313 avenue 256, tulare ca 93274": {
+    "lat": 36.2550071,
+    "lng": -119.310851,
+    "original_address": "3313 Avenue 256, Tulare CA 93274"
+  },
+  "2429 idaho avenue, hanford ca 93230": {
+    "lat": 36.2693801,
+    "lng": -119.6488918,
+    "original_address": "2429 Idaho Avenue, Hanford CA 93230"
+  },
+  "12429 ave 24 chowchilla madera 93610": {
+    "lat": 37.098281,
+    "lng": -120.2431186,
+    "original_address": "12429 ave 24 Chowchilla Madera 93610"
+  },
+  "4667 avenue 23 1/2 chowchilla madera 93610": {
+    "lat": 37.0910314,
+    "lng": -120.2487943,
+    "original_address": "4667 Avenue 23 1/2 Chowchilla Madera 93610"
+  },
+  "22700 s cornelia ave riverdale fresno 93656": {
+    "lat": 36.4067931,
+    "lng": -119.8870691,
+    "original_address": "22700 S Cornelia AVE Riverdale Fresno 93656"
+  },
+  "7500 ave. 14 madera madera 93637": {
+    "lat": 36.9526039,
+    "lng": -120.0262372,
+    "original_address": "7500 Ave. 14 Madera Madera 93637"
+  },
+  "21656 s cornelia ave riverdale fresno 93656": {
+    "lat": 36.4153544,
+    "lng": -119.8870318,
+    "original_address": "21656 S Cornelia AVE Riverdale Fresno 93656"
+  },
+  "12852 road 9 madera madera 93637": {
+    "lat": 36.9358134,
+    "lng": -120.3824876,
+    "original_address": "12852 Road 9 Madera Madera 93637"
+  },
+  "22045 s valentine ave riverdale fresno 93656": {
+    "lat": 36.4152267,
+    "lng": -119.8603254,
+    "original_address": "22045 S Valentine AVE Riverdale Fresno 93656"
+  },
+  "24699 avenue 11 madera madera 93637": {
+    "lat": 36.9093407,
+    "lng": -120.0977891,
+    "original_address": "24699 Avenue 11 Madera Madera 93637"
+  },
+  "12718 avenue 25 chowchilla madera 93610": {
+    "lat": 37.1126757,
+    "lng": -120.3162218,
+    "original_address": "12718 Avenue 25 Chowchilla Madera 93610"
+  },
+  "608 e riverdale ave laton fresno 93242": {
+    "lat": 36.4383613,
+    "lng": -119.7882466,
+    "original_address": "608 E Riverdale AVE Laton Fresno 93242"
+  },
+  "13668 13 ave madera": {
+    "lat": 36.9369443,
+    "lng": -119.9862234,
+    "original_address": "13668 13 AVE Madera"
+  },
+  "10255 w manning ave fresno fresno 93706": {
+    "lat": 36.604197,
+    "lng": -119.9635026,
+    "original_address": "10255 W Manning AVE Fresno Fresno 93706"
+  },
+  "16500 avenue 14 madera madera 93637": {
+    "lat": 36.952707,
+    "lng": -120.24677,
+    "original_address": "16500 Avenue 14 Madera Madera 93637"
+  },
+  "6105 w lincoln ave fresno fresno 93706": {
+    "lat": 36.6482135,
+    "lng": -119.9009268,
+    "original_address": "6105 W Lincoln AVE Fresno Fresno 93706"
+  },
+  "11511 w floral ave fresno fresno 93706": {
+    "lat": 36.5757188,
+    "lng": -119.8946968,
+    "original_address": "11511 W Floral AVE Fresno Fresno 93706"
+  },
+  "6205 s. brawley avenue fresno fresno 93706": {
+    "lat": 36.6455488,
+    "lng": -119.8626186,
+    "original_address": "6205 S. Brawley Avenue Fresno Fresno 93706"
+  },
+  "14576 avenue 14 madera madera 93637": {
+    "lat": 36.952727,
+    "lng": -120.2812408,
+    "original_address": "14576 Avenue 14 Madera Madera 93637"
+  },
+  "2792 w mt. whitney ave riverdale fresno 93656": {
+    "lat": 36.4309928,
+    "lng": -119.8479974,
+    "original_address": "2792 W Mt. Whitney AVE Riverdale Fresno 93656"
+  },
+  "18565 s marks ave riverdale fresno 93656": {
+    "lat": 36.4658962,
+    "lng": -119.8514521,
+    "original_address": "18565 S Marks AVE Riverdale Fresno 93656"
+  },
+  "3621 e. mount whitney laton ca 93242": {
+    "lat": 36.4308971,
+    "lng": -119.6906614,
+    "original_address": "3621 E. Mount Whitney Laton CA 93242"
+  },
+  "20334 s polk avenue riverdale ca 93656": {
+    "lat": 36.4441054,
+    "lng": -119.8962153,
+    "original_address": "20334 S Polk Avenue Riverdale CA 93656"
+  },
+  "2585 south chateau fresno ave. fresno ca 93706": {
+    "lat": 36.6976313,
+    "lng": -119.9344597,
+    "original_address": "2585 South Chateau Fresno Ave. Fresno CA 93706"
+  },
+  "15857 bear mountain blvd bakersfield kern 93311": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "original_address": "15857 Bear Mountain Blvd Bakersfield Kern 93311"
+  },
+  "13628 adobe rd bakersfield kern 93307": {
+    "lat": 35.2307619,
+    "lng": -118.9677769,
+    "original_address": "13628 Adobe RD Bakersfield Kern 93307"
+  },
+  "18107 kratzmeyer road bakersfield kern 93314-9481": {
+    "lat": 35.4198516,
+    "lng": -119.1953459,
+    "original_address": "18107 Kratzmeyer Road Bakersfield Kern 93314-9481"
+  },
+  "5111 bear mountain blvd bakersfield kern 93313": {
+    "lat": 35.2085798,
+    "lng": -118.9449827,
+    "original_address": "5111 Bear Mountain BLVD Bakersfield Kern 93313"
+  },
+  "14461 taft highway bakersfield kern 93311": {
+    "lat": 35.2670744,
+    "lng": -119.1691545,
+    "original_address": "14461 Taft Highway Bakersfield Kern 93311"
+  },
+  "20229 old river rd bakersfield kern 93311": {
+    "lat": 35.3142518,
+    "lng": -119.1097891,
+    "original_address": "20229 Old River RD Bakersfield Kern 93311"
+  },
+  "16130 bear mountain blvd bakersfield kern 93311": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "original_address": "16130 Bear Mountain Blvd Bakersfield Kern 93311"
+  },
+  "12841 bear mountain blvd bakersfield kern 93311": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "original_address": "12841 Bear Mountain BLVD Bakersfield Kern 93311"
+  },
+  "17661 bear mountain blvd": {
+    "lat": 35.2090204,
+    "lng": -119.1831608,
+    "original_address": "17661 Bear Mountain Blvd"
+  },
+  "28349 los angeles st shafter kern 93263": {
+    "lat": 35.4923684,
+    "lng": -119.2295219,
+    "original_address": "28349 Los Angeles ST Shafter Kern 93263"
+  },
+  "17702 bear mountain blvd bakersfield kern 93311": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "original_address": "17702 Bear Mountain BLVD Bakersfield Kern 93311"
+  },
+  "4714 e bear mountain blvd bakersfield kern 93307": {
+    "lat": 35.2087103,
+    "lng": -118.96497,
+    "original_address": "4714 E Bear Mountain Blvd Bakersfield Kern 93307"
+  },
+  "20400 old river rd. bakersfield kern 93311": {
+    "lat": 35.3142518,
+    "lng": -119.1097891,
+    "original_address": "20400 Old River Rd. Bakersfield Kern 93311"
+  },
+  "11663 buena vista rd bakersfield kern 93311": {
+    "lat": 35.3150715,
+    "lng": -119.1281255,
+    "original_address": "11663 Buena Vista Rd Bakersfield Kern 93311"
+  },
+  "5021 e bear mountain blvd bakersfield kern 93307": {
+    "lat": 35.2085734,
+    "lng": -118.9489389,
+    "original_address": "5021 E Bear Mountain Blvd Bakersfield Kern 93307"
+  },
+  "4403 bear mountain blvd bakersfield": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "original_address": "4403 Bear Mountain Blvd Bakersfield"
+  },
+  "31348 hanawalt ave": {
+    "lat": 35.659842,
+    "lng": -119.232273,
+    "original_address": "31348 Hanawalt AVE"
+  },
+  "7524 s. fairfax road bakersfield ca 93307": {
+    "lat": 35.2862052,
+    "lng": -118.9321963,
+    "original_address": "7524 S. Fairfax Road Bakersfield CA 93307"
+  },
+  "18321 idaho ave lemoore kings 93245": {
+    "lat": 36.2690665,
+    "lng": -119.7857993,
+    "original_address": "18321 Idaho AVE Lemoore Kings 93245"
+  },
+  "20784 laurel ave stratford kings 93266": {
+    "lat": 36.1903344,
+    "lng": -119.8305316,
+    "original_address": "20784 Laurel AVE Stratford Kings 93266"
+  },
+  "16800 Road 15 Madera Madera 93637": {
+    "lat": 37.0037078,
+    "lng": -120.2743195
+  },
+  "9499 Avenue 20 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:48:35.485409"
+  },
+  "18177 Road 10 1/2": {
+    "lat": 37.0155098,
+    "lng": -120.3555257,
+    "timestamp": "2025-05-09T15:48:41.428905",
+    "successful_format": "18177 Road 10 1/2, California"
+  },
+  "4109 E Conejo AVE Selma Fresno 93662": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:48:54.223712"
+  },
+  "8555 S Valentine AVE": {
+    "lat": 36.6109618,
+    "lng": -119.8538473,
+    "timestamp": "2025-05-09T15:48:56.911392",
+    "successful_format": "8555 S Valentine AVE"
+  },
+  "5336 W Harlan AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:49:08.969862"
+  },
+  "8489 E. Elkhorn AVE Selma Fresno 93662": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:49:21.439505"
+  },
+  "5450 N Sierra Vista AVE Fresno Fresno 93740": {
+    "lat": 36.8319301,
+    "lng": -119.7404078,
+    "timestamp": "2025-05-09T15:40:47.010835"
+  },
+  "430 W Mt. Whitney AVE Riverdale Fresno 93656": {
+    "lat": 36.4311436,
+    "lng": -119.8067659,
+    "timestamp": "2025-05-09T15:40:49.050474"
+  },
+  "4604 W Harlan AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:49:32.784407"
+  },
+  "3760 E Mount Whitney AVE": {
+    "lat": 36.431067,
+    "lng": -119.7300396,
+    "timestamp": "2025-05-09T15:40:55.604775"
+  },
+  "20400 Ave. 17 1/2 AVE Madera Madera 93637": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:49:44.611202"
+  },
+  "10262 W Elkhorn AVE Burrel Fresno 93607": {
+    "lat": 36.4885522,
+    "lng": -119.9763412,
+    "timestamp": "2025-05-09T15:41:03.429351"
+  },
+  "23732 Road 12": {
+    "lat": 37.0936294,
+    "lng": -120.3289854,
+    "timestamp": "2025-05-09T15:49:46.136046",
+    "successful_format": "23732 Road 12"
+  },
+  "41198 W Valeria AVE Dos Palos Fresno 93620": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:49:57.302944"
+  },
+  "15886 S Lassen AVE Helm Fresno 93627": {
+    "lat": 36.5347007,
+    "lng": -120.0978765,
+    "timestamp": "2025-05-09T15:41:14.404575"
+  },
+  "541 East Wood AVE Laton Kings 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:50:10.308657"
+  },
+  "20677 S East AVE Laton Fresno 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:50:21.568508"
+  },
+  "11812 Avenue 18 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:50:33.352260"
+  },
+  "13348 AVENUE 20 CHOWCHILLA Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:50:44.252153"
+  },
+  "13644 Avenue 18 1/2 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:50:56.427328"
+  },
+  "21282 Road 6 RD Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:51:07.857026"
+  },
+  "19249 S Fruit AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:51:21.019445"
+  },
+  "10663 7 1/2 AVE Firebaugh Madera 93622": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:51:43.455787"
+  },
+  "27000 Road 9 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:51:54.141072"
+  },
+  "23025 W. American RD San Joaquin Fresno 93660": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:52:04.792945"
+  },
+  "7285 W Davis AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:52:16.537256"
+  },
+  "20330 Road 4 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:52:27.319097"
+  },
+  "19436 S East AVE Laton Fresno 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:52:40.632873"
+  },
+  "2947 W Manning AVE Fresno Fresno 93706": {
+    "lat": 36.6050224,
+    "lng": -119.8436977,
+    "timestamp": "2025-05-09T15:41:54.073181"
+  },
+  "12519 Road 17 Madera Madera 93637": {
+    "lat": 36.9309973,
+    "lng": -120.2375527,
+    "timestamp": "2025-05-09T15:41:55.408048"
+  },
+  "11304 Ave. 18 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:52:52.474411"
+  },
+  "40396 W Valeria Dos Palos Fresno 93620": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:53:04.080792"
+  },
+  "14221 Ave 14": {
+    "lat": 36.9528767,
+    "lng": -120.2884034,
+    "timestamp": "2025-05-09T15:42:02.953352"
+  },
+  "16508 S Clovis AVE Selma Kings 93662": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:53:17.086980"
+  },
+  "18541 S Fruit AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:53:28.402722"
+  },
+  "15391 West Elkhorn AVE Helm Fresno 93627": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:53:38.898678"
+  },
+  "21463 Road 4 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:53:49.190414"
+  },
+  "2685 S Madera AVE Kerman Fresno 93630": {
+    "lat": 36.7234862,
+    "lng": -120.0602578,
+    "timestamp": "2025-05-09T15:42:12.359023"
+  },
+  "16661 S FOWLER AVE SELMA Fresno 93662": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:00.611850"
+  },
+  "12840 W Kamm AVE Riverdale Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:11.370867"
+  },
+  "25500-2438 W West Whitesbridge RD Kerman Fresno 93630": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:23.852165"
+  },
+  "This owner is responsible for paying permit fees.": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:32.999298"
+  },
+  "21622 South Cedar AVE Laton Fresno 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:46.844694"
+  },
+  "11302 Avenue 18 1/2 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:54:59.285150"
+  },
+  "23435 12 RD Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:55:09.602642"
+  },
+  "14768 Avenue 27 Chowchilla Madera 93610": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:55:20.891462"
+  },
+  "4301 S Dickenson Fresno Fresno 93706": {
+    "lat": 36.6695912,
+    "lng": -119.9705076,
+    "timestamp": "2025-05-09T15:42:28.091347"
+  },
+  "10467 W. Kamm Avenue Riverdale CA 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:55:31.409723"
+  },
+  "1523 E. Cerini Avenue Laton CA 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:55:45.876656"
+  },
+  "19860 S. Maple Avenue Laton CA 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:00.007058"
+  },
+  "5512 W Davis Avenue Riverdale CA 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:12.230958"
+  },
+  "Pacheco Dairy Inc": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:21.391395"
+  },
+  "27125 Pond RD": {
+    "lat": 51.5321986,
+    "lng": 0.0050106,
+    "timestamp": "2025-05-09T15:42:41.845463"
+  },
+  "18346 Old River Rd Bakersfield Kern 93311": {
+    "lat": 35.3142518,
+    "lng": -119.1097891,
+    "timestamp": "2025-05-09T15:42:43.169948"
+  },
+  "26953 Riverside ST Buttonwillow Kern 93206": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:33.200737"
+  },
+  "1129 E Shafter RD Bakersfield Kern 93307": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:44.048267"
+  },
+  "4551 Bear Mountain Blvd Bakersfield Kern 93313": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "timestamp": "2025-05-09T15:42:48.245872"
+  },
+  "30999 Peterson RD Mcfarland Kern 93250": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:56:55.101076"
+  },
+  "Westwind Farms": {
+    "lat": 40.1307044,
+    "lng": -75.8164603,
+    "timestamp": "2025-05-09T15:42:51.727429"
+  },
+  "6219 E. Panama Lane Buttonwillow Kern 93307": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:06.227854"
+  },
+  "5250 DiGiorgio Rd. Bakersfield": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:16.092926"
+  },
+  "11701 Old River RD": {
+    "lat": 38.9975862,
+    "lng": -123.1071033,
+    "timestamp": "2025-05-09T15:43:00.073838"
+  },
+  "2874 Stockdale Hwy. Bakersfield Kern 93312": {
+    "lat": 35.3545108,
+    "lng": -119.1100035,
+    "timestamp": "2025-05-09T15:43:01.558197"
+  },
+  "18451 Wildwood Rd. Buttonwilllow Kern 93206": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:23.589295"
+  },
+  "18683 Magnolia Ave Shafter": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:33.918830"
+  },
+  "18501 Old River Road Bakersfield Kern 93311": {
+    "lat": 35.3142518,
+    "lng": -119.1097891,
+    "timestamp": "2025-05-09T15:43:05.763272"
+  },
+  "13437 Gun Club RD Wasco Kern 93280": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:47.513446"
+  },
+  "5959 Houghton Rd Bakersfield Kern 93311": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:57:58.692160"
+  },
+  "Faial Farms Dairy": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:58:07.156339"
+  },
+  "18904 Bear Mountain Blvd. Bakersfield Kern 93307": {
+    "lat": 35.2086658,
+    "lng": -118.9425085,
+    "timestamp": "2025-05-09T15:43:14.139661"
+  },
+  "11305 2nd Ave Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:58:19.274595"
+  },
+  "5811 Lacey BLVD": {
+    "lat": 36.3280995,
+    "lng": -119.5610596,
+    "timestamp": "2025-05-09T15:43:18.760314"
+  },
+  "17800 4th AVE": {
+    "lat": 36.2141773,
+    "lng": -119.5292783,
+    "timestamp": "2025-05-09T15:58:24.928350",
+    "successful_format": "17800 4th AVE, California"
+  },
+  "4265 Dover AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:58:36.352241"
+  },
+  "7480 5th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:58:49.022065"
+  },
+  "12700 EVERETT AVE HANFORDCA Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:58:56.474791"
+  },
+  "16025 6 1/2 AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:59:15.622354"
+  },
+  "8431 15th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:59:26.756095"
+  },
+  "6970 Corona AVE Kingsburg Kings 93631": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:59:37.797509"
+  },
+  "15315 17th Avenue Lemoore Kings 93245": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T15:59:50.207474"
+  },
+  "18104 Everett AVE Laton Kings 93242": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:00:01.265626"
+  },
+  "6571 Fargo AVE Hanford Kings 93230": {
+    "lat": 36.3572677,
+    "lng": -119.652084,
+    "timestamp": "2025-05-09T15:43:43.239918"
+  },
+  "4615 Excelsior AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:00:13.239583"
+  },
+  "4356 Kansas AVE": {
+    "lat": 34.004475,
+    "lng": -118.2936206,
+    "timestamp": "2025-05-09T16:00:16.011662",
+    "successful_format": "4356 Kansas AVE"
+  },
+  "6121 15th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:00:28.201883"
+  },
+  "4555 Kansas AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:00:40.815852"
+  },
+  "4790 Kansas AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:00:51.852036"
+  },
+  "10736 1 1/2 Avenue Hanford Kings 93230": {
+    "lat": 36.3244317,
+    "lng": -119.6821177,
+    "timestamp": "2025-05-09T16:00:55.437909",
+    "successful_format": "10736 1 1/2 Avenue Hanford Kings 93230, California"
+  },
+  "15609 Grangeville BLVD Hanford Kings 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918,
+    "timestamp": "2025-05-09T15:43:57.505360"
+  },
+  "15010 5th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:01:07.790674"
+  },
+  "9455 2nd Avenue Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:01:20.426208"
+  },
+  "3678 Houston Ave. Hanford Kings 93230": {
+    "lat": 36.2985774,
+    "lng": -119.6431523,
+    "timestamp": "2025-05-09T15:44:04.943043"
+  },
+  "13245 9th AVE Hanford Kings 93230": {
+    "lat": 36.3245078,
+    "lng": -119.6186948,
+    "timestamp": "2025-05-09T15:44:06.344710"
+  },
+  "6511 Flint Ave. Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:01:31.794324"
+  },
+  "14803 Grangeville BLVD Hanford Kings 93230": {
+    "lat": 36.3426155,
+    "lng": -119.6864918,
+    "timestamp": "2025-05-09T15:44:11.815492"
+  },
+  "14315 Kent AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:01:43.925273"
+  },
+  "10536 6th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:01:57.286668"
+  },
+  "6944 21 1/2 AVE Lemoore Kings 93245": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:02:17.255871"
+  },
+  "15410 Excelsior AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:02:27.949229"
+  },
+  "8519 24th AVE Lemoore Kings 93245": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:02:39.575768"
+  },
+  "18280 Fairfax AVE": {
+    "lat": 36.3498644,
+    "lng": -119.7849084,
+    "timestamp": "2025-05-09T15:44:25.607418"
+  },
+  "22154 Road 20 Tulare Kings 93274": {
+    "lat": 36.2653821,
+    "lng": -119.5293218,
+    "timestamp": "2025-05-09T15:44:26.870585"
+  },
+  "13113 7th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:02:53.333424"
+  },
+  "23565 Grangeville BLVD Lemoore Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:03:04.461479"
+  },
+  "5230 9th Ave AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:03:16.564819"
+  },
+  "7546 8-1/2 AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:03:42.345472"
+  },
+  "22401 20 RD Tulare Tulare 93274": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:03:53.088004"
+  },
+  "7900 15th Ave Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:04:04.790164"
+  },
+  "5001 4th Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:04:18.703071"
+  },
+  "14782 8th Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:04:30.566663"
+  },
+  "5387 Kent Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:04:41.413898"
+  },
+  "6155 Jackson Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:04:54.834251"
+  },
+  "6267 5th Ave Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:05:09.962445"
+  },
+  "8749 Lansing Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:05:21.141235"
+  },
+  "7905 Kansas Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:05:32.595630"
+  },
+  "7594 Kent Avenue  Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:05:43.517144"
+  },
+  "18081 17th Avenue Stratford CA 93266": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:05:56.863876"
+  },
+  "8800 Lansing Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:08.754594"
+  },
+  "10234 Lansing Avenue Hanford CA 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:19.162285"
+  },
+  "6240 21st Lemoore CA 96245": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:29.261489"
+  },
+  "Jersey Creek Dairy": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:38.636219"
+  },
+  "Hakker Dairy": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:46.051158"
+  },
+  "Diamond D Dairy": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:06:55.212281"
+  },
+  "5339 Avenue 120 Corcoran CA 93212": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:07:06.187972"
+  },
+  "6802 Avenue 120 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:07:18.643648"
+  },
+  "255 Road 128 Delano CA 93215": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:07:41.034279"
+  },
+  "29049 Road 68 Visalia CA 93277": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:07:54.684456"
+  },
+  "30030 Road 60 Visalia CA 93291": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:08:06.341802"
+  },
+  "13213 Road 80 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:08:20.638030"
+  },
+  "8001 Road 104 Pixley CA 93256": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:08:32.658795"
+  },
+  "11951 Road 96 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:08:45.256547"
+  },
+  "9535 Avenue 160 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:08:56.255587"
+  },
+  "11425 Road 112 Pixley CA 93256": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:09:07.953618"
+  },
+  "11021 Avenue 120 Pixley CA 93256": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:09:20.290076"
+  },
+  "7480 Avenue 160 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:28.459254"
+  },
+  "16026 Road 64 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:30.208408"
+  },
+  "13804 Road 72 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:32.107248"
+  },
+  "4645 Avenue 120 Corcoran CA 93212": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:33.771243"
+  },
+  "13508 Road 104 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:35.566094"
+  },
+  "8769 Ave 128 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:37.125515"
+  },
+  "9279 Avenue 96 Pixley CA 93256": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:38.815507"
+  },
+  "11450 Avenue 64 Earlimart CA 93219": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:40.375016"
+  },
+  "15503 Road 96 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:42.106512"
+  },
+  "13955 Road 80 Tipton CA 93272": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:43.949872"
+  },
+  "2805 Casey Road": {
+    "lat": 42.9213811,
+    "lng": -83.2296392,
+    "timestamp": "2025-05-09T15:45:46.573694"
+  },
+  "505 W. Kastone Rd. Imperial CA 92251": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:47.724107"
+  },
+  "1004 Holton Rd. Holtville CA 92250": {
+    "lat": null,
+    "lng": null,
+    "timestamp": "2025-05-09T15:45:49.421140"
+  },
+  "195 W Cary Rd Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=195+W+Cary+Rd+Brawley+CA+92227&format=json&limit=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)\"))",
+    "timestamp": "2025-05-09T15:45:53.643991"
+  },
+  ".": {
+    "lat": 36.7014631,
+    "lng": -118.755997,
+    "timestamp": "2025-05-09T16:47:16.994592",
+    "successful_format": "., California"
+  },
+  "22": {
+    "lat": 48.4614877,
+    "lng": -2.7514328,
+    "timestamp": "2025-05-09T16:47:19.909245",
+    "successful_format": "22"
+  },
+  "H": {
+    "lat": 50.6080651,
+    "lng": 9.0284647,
+    "timestamp": "2025-05-09T16:47:21.887594",
+    "successful_format": "H"
+  },
+  "STOO": {
+    "lat": -5.0791546,
+    "lng": 39.0988208,
+    "timestamp": "2025-05-09T16:47:23.097025",
+    "successful_format": "STOO"
+  },
+  "_26450": {
+    "lat": 44.6237095,
+    "lng": 4.9537896,
+    "timestamp": "2025-05-09T16:47:24.327417",
+    "successful_format": "_26450"
+  },
+  "_lof": {
+    "lat": 22.3378545,
+    "lng": 114.186584,
+    "timestamp": "2025-05-09T16:47:25.507218",
+    "successful_format": "_lof"
+  },
+  "5720": {
+    "lat": 46.7713827,
+    "lng": 21.3631062,
+    "timestamp": "2025-05-09T16:47:26.644228",
+    "successful_format": "5720"
+  },
+  "750": {
+    "lat": -32.7787626,
+    "lng": -61.5961615,
+    "timestamp": "2025-05-09T16:47:34.134770",
+    "successful_format": "750, California"
+  },
+  "(240": {
+    "lat": -32.7848849,
+    "lng": -61.5976396,
+    "timestamp": "2025-05-09T16:47:39.594580",
+    "successful_format": "(240, California"
+  },
+  "ZAS": {
+    "lat": 43.0975071,
+    "lng": -8.9165734,
+    "timestamp": "2025-05-09T16:47:40.826866",
+    "successful_format": "ZAS"
+  },
+  "_": {
+    "lat": 36.7014631,
+    "lng": -118.755997,
+    "timestamp": "2025-05-09T16:47:43.038053",
+    "successful_format": "_, California"
+  },
+  "LOO": {
+    "lat": 59.4326121,
+    "lng": 24.9474917,
+    "timestamp": "2025-05-09T16:47:44.586700",
+    "successful_format": "LOO"
+  },
+  "6150": {
+    "lat": 47.0883951,
+    "lng": 11.4988366,
+    "timestamp": "2025-05-09T16:47:45.820742",
+    "successful_format": "6150"
+  },
+  ":": {
+    "lat": 36.7014631,
+    "lng": -118.755997,
+    "timestamp": "2025-05-09T16:47:48.286733",
+    "successful_format": ":, California"
+  },
+  "3286": {
+    "lat": 46.9374582,
+    "lng": 7.1277966,
+    "timestamp": "2025-05-09T16:47:49.538582",
+    "successful_format": "3286"
+  },
+  "S345": {
+    "lat": 41.0183322,
+    "lng": 115.6061197,
+    "timestamp": "2025-05-09T16:47:51.239588",
+    "successful_format": "S345"
+  },
+  "3243": {
+    "lat": 48.1426452,
+    "lng": 15.2890827,
+    "timestamp": "2025-05-09T16:47:52.570875",
+    "successful_format": "3243"
+  },
+  "___": {
+    "lat": 36.7014631,
+    "lng": -118.755997,
+    "timestamp": "2025-05-09T16:47:54.814777",
+    "successful_format": "___, California"
+  },
+  "500": {
+    "lat": 65.2804673,
+    "lng": -21.1700356,
+    "timestamp": "2025-05-09T16:47:57.283739",
+    "successful_format": "500"
+  },
+  "_12800": {
+    "lat": 44.2046513,
+    "lng": 2.350369,
+    "timestamp": "2025-05-09T16:47:58.463519",
+    "successful_format": "_12800"
+  },
+  "6050 US Highway 111 Calipatria CA 92233": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:48:09.981062"
+  },
+  "5455 Kershaw Rd. Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:48:22.296533"
+  },
+  "352 E. Shank Rd. Brawley CA 92227": {
+    "lat": 32.9988062,
+    "lng": -115.5262938,
+    "timestamp": "2025-05-09T16:48:23.808228",
+    "successful_format": "352 E. Shank Rd. Brawley CA 92227"
+  },
+  "612 Simpson Rd. Calipatria CA 92233": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-09T16:48:38.758687"
+  },
+  ". 2 Soromea Mount) Crad Vebilunve . No. Street City Zip CA AYCIES Operator L-LMCAS Derwz. Mailing Address CLYNE Cis a Wove 4 Property owner. LUCAS YEW __ Mailing Address_ SAMe a Phone ( ) E-mail SSCA VN . (f Current 4 of mature dairy cows (milking dry). ZOO Current 4 and type of other animals Current parcels (production and grazing) 14 1-100 OCe ) We 1- IOO7-OG1s Vly BID-OILO. _- 1 Blo ISO ONY 199-100-023 _ 137-500 O0 Within the last year has any of the above information changed IES If yes please highlight new information. The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the  rainy season document required water quality monitoring and actions taken to correct identified problems and to demonstrate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to. San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalsQwaterboards. ca. gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1515 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022 I II": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:28:39.625571"
+  },
+  "22 000 Si Lean s Wro bls d. Lenina Witla Evr. Sora 4) . No) Street City p Operator. Efnas Mailing Address Ora oS CA oat fas b a . PhonesAlS be al aw ia E-mail-) Y S ol raIKG) oS c mal . LAW pm  N) is (SeShot Property owflel rita 1 DAR Siling Address un rac Ve 6 road ASO S Phone ( ) E-maitdl. Ven prloc & NBS. Gov a m Current 4 of mature dairy cows (milking dry). 2. SD Det a Cow S j a 0 Wants Current and type of other animais. da. Horse Current parcels (production and grazing)- oA ia 220 - ) S ont nombars Within the last year has any of the above information changed7 Ke So yes please highlight new information. C) The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the rainy season document required water quality monitoring and actions taken to correct identified problems and to demonsirate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to Po MFA Ema l San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalswaterboards. ca. gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1515 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:28:52.913288"
+  },
+  "H 0 g C9 pes ee A Perabo Yuasa _  . No. _ Street City Zip Operator. Luce NE CO mmer2 2 Malling Address Te ET Phone (707) WAVL- VIO E-malt eC Ci 22 ect wet Property owner (ai WEL Cows2- 21 Mailing Address__ - xb Phone ( ) Syne E-mail - Dank Current 4 of mature dairy cows (milking dry). 5 520 Current and type of other animals. 120 Current parcels (production and grazing). VO Cheng Ss Within the last year has any of the above information changed7 _() if yes please highlight new information. The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the rainy season document required water quality monitoring and actions taken to correct identified problems and to demonstrate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to- Po MAR Ema San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalswaterboards. ca. gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1615 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022 .": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:29:04.557308"
+  },
+  "STOO KEM Arlt 6) PET CaM i fF food vp I age Ee Sah gaa AIO Sireet og Gly ID eh -) Operater . aoHs pa Wolf EL _Maiting address 2D BOX. AGY 5 FEI es ALvmA CA IEF ee ql lt Phones wan et Tis 2. ge emai Cofch Valhy Ql yghao. Com ee Property owner. STOPS A Wolter Mailing Addreser TP Phones Gey FFe-13 eee Ein ene - Gument of mature dalty.cows (milking dry AA Eis eae are eNO ee eer me eared (eee (ee - Gurrent f and hoe of other animals- -8S0 Ae. - G Halo - (a ees ee ee See Gere - Current parcels (praduction and grazing) APN (aS- 00-Jb - JaS- 040-O1F i OPPO flo E Jas- OYO- OPI. a (es Within the last year has.any of the above information changed._.____ If yes please highlight new information. a q _ The objective.of the Annual Report is to provide compliance updates demonstrate.that the confined animal .- _- identified problems and.to demonstrate that each facilily is operating in compliance with the requirements of 7 o Order No R2-2016-0031 (General WDRs)-.  7 ae ae Age os - 2 a ois a . See o a . oo aan og 7 - _ Any discharges of waste waste water or contaminated storm water that May endanger NUMaN NeEhN OF We - environment must be verbally reported within 24. hours of becoming aware of the occurrence to the Water ors oe a ae - im . a a ae fi ny wigeBiice a agi i 2 - aa ae ene ay pe Pay i GRE es Be ae oe z we a Sn Hine. HiBey.j8 IGRAL.. . _ Le me _ Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (ORF) atten See ye -52-7550 Within 14 business days a written report describing the incident and resulting comectiveactions must... -. be submitted as indicated below. - 2 0 8 ee f poe Se AW ees Ray . By November 30 of each year please complete this torm to document compliance and.submit itto)- 07 - se fe Me AMS mah j San Franeiseo. Regional - San Francisco Bay Regional R2ConiinedAnimalsqwaterboards.ca.gov -.- _. Water Quality Control Board. Water Quality Control Board -- 2. ee ee py fo": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:29:19.560796"
+  },
+  "_26450 Sir Francis Drake Blvd. Point Reyes CA 94956 No. Street City Zip Operator William Nunes Lianne Nunes Mailing Address_ Same as above Phone (415 _) 328-5335 E-mail. drakesviewdairygmail.com Property ownes ational Park ServicePoint Reyes Nana rose 1 Bear Valley Road Point Reyes CA 94956 Phone (415 )464-5216 E-mail__dylan_voellernps.qov Current 4 of mature dairy cows (milking t dry)___229 milkingy dry Current 4 and type of other animals__ 115 youngstock 8 bulls Current parcels (production and grazing) _Historic A Ranch - APN 709-271-05 709-180-04 Marin County CA Within the last year has any of the above information changed Yes If yes please highlight new information. The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the rainy season document required water quality monitoring and actions taken to correct identified problems and to demonstrate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to. ee FAX Po Ema San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalsQwaterboards.ca.gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1515 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:29:30.294608"
+  },
+  "_lof at a 2 bul eWied Pek (une No. treet City Zip cae 4454 Operator_ Vr Lunes Wee ndcozemailing Address. ate aka Phone (7L7 ) 44 Tit py E-mail___ Lio SE Le _ iA wer peak. (Berns Property owner NYedche 24 Saal LLC Mailing Address Zoe e Phone (Jet) 172 ieOT E-mail Ao Current 4 of mature dairy cows (milking dry). 25D Current 4 and type of other animals Ary ) eaterss C4 lex Current parcels (production and grazing) Guan a Ok Z - G26 -O fO13 fe la Rowsed Sy dngiler WEY O68 C4 Tervetra 1035 ane EBulely RA Pehle bh. rn hier MESES shrge Gutta MAb Henrevether 696) Zitg e GRR ot Within the last year has anysot the abaednteniton Meats c___f yes Seass highlight new infortotion at The objective of the Annual Report is to provide compliance updates demonstrate that the facility is ready for the rainy season document required water quality monitoring and actions taken to correct identified problems and to demonstrate that each facility is operating in compliance with the requirements of Order No. R2-2016-0031 (General Permit). Any discharges of waste wastewater or contaminated stormwater that may endanger human health or the environment must be verbally reported within 24 hours of becoming aware of the occurrence to the Water Board Spill Hotline at (510) 622-2369 and to the California Office of Emergency Services (OES) at (800) 852-7550. Within 14 business days a written report describing the incident and resulting corrective actions must be submitted as indicated below. By November 30 of each year please complete this form to document compliance and submit it to. PMA Email San Francisco Regional San Francisco Bay Regional R2ConfinedAnimalsQwaterboards.ca.gov Water Quality Control Board Water Quality Control Board ATTN Confined Animal ATTN Confined Animal Facility Program Facility Program 1515 Clay Street Suite 1400 Oakland CA 94612 (510) 622-2460 (fax) Rev 9-2022": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:29:55.553742"
+  },
+  ". S360 Codcaa Chine lef tlre": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:30:03.510025"
+  },
+  ". 1514 Cerias ol Tomales 44471": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:30:15.450115"
+  },
+  ". 275 4 Novato Bis  Novato CA 19447": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:30:29.339222"
+  },
+  "5720 Nicasio Valley Road Nicasio CA 94946": {
+    "lat": 38.0677878,
+    "lng": -122.7032167,
+    "timestamp": "2025-05-12T09:30:30.618337",
+    "successful_format": "5720 Nicasio Valley Road Nicasio CA 94946"
+  },
+  ". 9243 Spring Hill Rd. Petaluma CA 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:44:03.601789"
+  },
+  "750 h le O he Ale 12 Ca": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:31:18.961050"
+  },
+  "(240 Wicesio Salle WitASin GU4YyE": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:31:26.563683"
+  },
+  ". 3286 CHILENO VALLEY ROAD Petaluma 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:44:36.271585"
+  },
+  "ZAS Rarnsited Chelan. 1498": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:31:49.501381"
+  },
+  "_ OCU Ves ah). Cy eae iA tas Oo": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:32:00.396808"
+  },
+  "LOO Prorex Bouck gd slernnss UG37": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:32:07.914021"
+  },
+  "6150 Pierce Point Rd Inverness Ca 94937": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:45:32.898025"
+  },
+  ". gv. Cn kine lablie Kel f PAK Ltd": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:32:28.335493"
+  },
+  ": 4349 Lakeville Hwy Petaluma 94954": {
+    "lat": 38.2241715,
+    "lng": -122.5713117,
+    "timestamp": "2025-05-12T09:32:30.113545",
+    "successful_format": ": 4349 Lakeville Hwy Petaluma 94954"
+  },
+  ": 100 Pierce Point Rd Inverness 94937": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:32:43.666341"
+  },
+  "3286 Chileno Valley Rd. Petaluma CA": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:32:54.650610"
+  },
+  "S345 BoDEGA pve. PET nat4 Auyey": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:33:02.103370"
+  },
+  ": 295 Rainsville Rd Petaluma 94952": {
+    "lat": 38.2723595,
+    "lng": -122.6763153,
+    "timestamp": "2025-05-12T09:33:03.593229",
+    "successful_format": ": 295 Rainsville Rd Petaluma 94952"
+  },
+  ": 10049 Petaluma Pt Reyes Blvd Nicasio 94946": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:33:14.470664"
+  },
+  ": 831 Chileno Valley Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:33:26.393120"
+  },
+  ": 2754 Novato Blvd Novato 94947": {
+    "lat": 38.1230519,
+    "lng": -122.6244726,
+    "timestamp": "2025-05-12T09:33:27.913237",
+    "successful_format": ": 2754 Novato Blvd Novato 94947"
+  },
+  ": 5360 Bodega Ave Petaluma": {
+    "lat": 38.2637807,
+    "lng": -122.7254416,
+    "timestamp": "2025-05-12T09:33:29.512017",
+    "successful_format": ": 5360 Bodega Ave Petaluma"
+  },
+  ": 1599 Cerini Rd Tomales 94971": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:33:40.776037"
+  },
+  "6150 Pierce Pt Rd Inverness Ca 94937": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:33:55.527317"
+  },
+  "3243 Spring Hill Rd. Petaluma CA 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:34:13.338455"
+  },
+  ": 7869 Lakeville Hwy Petaluma CA 94954": {
+    "lat": 38.2334704,
+    "lng": -122.60761,
+    "timestamp": "2025-05-12T09:34:14.733440",
+    "successful_format": ": 7869 Lakeville Hwy Petaluma CA 94954"
+  },
+  ": 5450 RED Hill RD. PETALUMA 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:34:31.371667"
+  },
+  "___ 22188 Hwy 1 Marshall CA 94940": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:34:43.222659"
+  },
+  ": 4669 Chileno Valley Rd Petaluma 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:34:54.819442"
+  },
+  ": 4700 Hwy 1 Point Reyes CA 94956": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:35:06.393418"
+  },
+  ": 1241 Middle Two Rock Rd. Petaluma 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:35:19.337248"
+  },
+  "_26450 Sir Francis Drake Blvd. Point Reyes CA 94956": {
+    "lat": 38.0639564,
+    "lng": -122.8104625,
+    "timestamp": "2025-05-12T09:35:20.618687",
+    "successful_format": "_26450 Sir Francis Drake Blvd. Point Reyes CA 94956"
+  },
+  ": 6290 Nicasio Valley Rd Nicasio 94946": {
+    "lat": 38.0810402,
+    "lng": -122.7162494,
+    "timestamp": "2025-05-12T09:35:21.883739",
+    "successful_format": ": 6290 Nicasio Valley Rd Nicasio 94946"
+  },
+  ": 1601 Stage Gulch Rd. Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:35:36.695286"
+  },
+  ": 421 Sonoma Mountain Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:35:51.031672"
+  },
+  "500 Ormsby Lane Petaluma 94954": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:36:01.923291"
+  },
+  "_12800 Shoreline Highway 1 Point Reyes Station CA 94956": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:36:13.847251"
+  },
+  ": 22000 Sir Francis Drake Blvd.": {
+    "lat": 38.04309,
+    "lng": -122.979,
+    "timestamp": "2025-05-12T09:36:15.707737",
+    "successful_format": ": 22000 Sir Francis Drake Blvd."
+  },
+  ": 25680 Sir Francis Drake Blvd Inverness": {
+    "lat": 38.0953166,
+    "lng": -122.850632,
+    "timestamp": "2025-05-12T09:36:17.248262",
+    "successful_format": ": 25680 Sir Francis Drake Blvd Inverness"
+  },
+  ": 1100 Bonneau Rd Sonoma 95476": {
+    "lat": 38.2361339,
+    "lng": -122.4618015,
+    "timestamp": "2025-05-12T09:36:18.868550",
+    "successful_format": ": 1100 Bonneau Rd Sonoma 95476"
+  },
+  ": 480 Pepper Rd Petaluma 94952": {
+    "lat": 38.2838129,
+    "lng": -122.6929992,
+    "timestamp": "2025-05-12T09:36:21.854005",
+    "successful_format": ": 480 Pepper Rd Petaluma 94952"
+  },
+  "649 E. Rutherford Rd. Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:42:18.958790"
+  },
+  "801 E. Rutherford Rd Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:42:35.683051"
+  },
+  "2704 Webb Road Holtville CA 92250": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:42:49.750813"
+  },
+  "5200 Dietrich Rd Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:43:03.392721"
+  },
+  "2805 Casey Road Holtville CA 92250": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:43:18.277352"
+  },
+  "505 W. Keystone Yard": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:43:36.055740"
+  },
+  "195 W. Carey Rd Brawley CA 92227": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:44:05.270320"
+  },
+  ": 750 Chileno Vly Rd Petaluma CA": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:49:46.324411"
+  },
+  ": 5345 Bodega Ave Petaluma 94952": {
+    "lat": 38.263521,
+    "lng": -122.723843,
+    "timestamp": "2025-05-12T09:49:48.001921",
+    "successful_format": ": 5345 Bodega Ave Petaluma 94952"
+  },
+  ": 10049 Petaluma Pt.Reys Road Nicasio": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:49:58.779113"
+  },
+  ": 837 Chileno Valley Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:50:13.079623"
+  },
+  ": 4669 Chileno Valley Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:50:25.819735"
+  },
+  ": 14700 Hwy 1 Point Reyes CA 94956": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:50:38.924889"
+  },
+  ": 1241 Middle Two Rock Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:50:50.735741"
+  },
+  ": 601 Stage Gulch Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T09:51:08.682265"
+  },
+  "5450 RED Hill RD. PETALUMA 94952": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:43:18.528913"
+  },
+  "1599 Cerini Rd Tomales 94971": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:43:36.733361"
+  },
+  "750 Chileno Vly Rd Petaluma CA": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:44:20.175403"
+  },
+  "10049 Petaluma Pt.Reys Road Nicasio": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:44:49.929412"
+  },
+  "100 Pierce Point Rd Inverness 94937": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:45:13.929777"
+  },
+  "837 Chileno Valley Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:45:49.331304"
+  },
+  "4669 Chileno Valley Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:46:04.071067"
+  },
+  "14700 Hwy 1 Point Reyes CA 94956": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:46:19.694186"
+  },
+  "1241 Middle Two Rock Rd Petaluma": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-12T10:46:36.353969"
+  }
+}
