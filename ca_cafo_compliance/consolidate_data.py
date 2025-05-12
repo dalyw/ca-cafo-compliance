@@ -69,6 +69,7 @@ def geocode_address(address, cache, try_again=False):
     
     # Check cache first
     cached_addr = find_cached_address(address, cache)
+    print('looked for cached_address')
     if cached_addr:
         cached_result = cache[cached_addr]
         if try_again and (cached_result['lat'] is None or cached_result['lng'] is None):

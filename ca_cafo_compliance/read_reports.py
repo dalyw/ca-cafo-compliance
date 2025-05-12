@@ -63,6 +63,19 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
             # print(phrase)
             text_after = line[phrase_idx + len(phrase):].strip()
             
+            # # Special handling for facility name and address
+            # if phrase.lower() in ['facility name:', 'facility address']:
+            #     # For facility name, get everything until the next field
+            #     if phrase.lower() == 'facility name:':
+            #         next_field_idx = text_after.lower().find('facility address')
+            #         if next_field_idx != -1:
+            #             text_after = text_after[:next_field_idx].strip()
+            #     # For facility address, get everything until the next line
+            #     elif phrase.lower() == 'facility address':
+            #         next_line_idx = text_after.find('\n')
+            #         if next_line_idx != -1:
+            #             text_after = text_after[:next_line_idx].strip()
+            
             # If ignore_after is specified, cut off text at that point
             if ignore_after and not pd.isna(ignore_after):
                 ignore_idx = text_after.lower().find(ignore_after.lower())
