@@ -308,8 +308,42 @@ def parse_address(address):
     
     return street_number + ' ' + street_name, city, county, zip_code
 
+def calculate_metrics(df):
+    """Calculate metrics for each facility."""
+    # Calculate manure factor
+    df['Calculated Manure Factor'] = df.apply(
+        lambda row: row['Total Manure Excreted (tons)'] / row['Total Herd Size'] 
+        if row['Total Herd Size'] > 0 else None, 
+        axis=1
+    )
+    
+    # Calculate wastewater ratio
+    df['Ratio of Wastewater to Milk (L/L)'] = df.apply(
+        lambda row: row['Total Process Wastewater Generated (gals)'] / (row['Average Milk Production (lb per cow per day)'] * row['Average Milk Cows'] * 365 * 0.45359237)
+        if row['Average Milk Production (lb per cow per day)'] > 0 and row['Average Milk Cows'] > 0 else None,
+        axis=1
+    )
+    
+    # Calculate nitrogen deviations
+    df['USDA Nitrogen % Deviation'] = df.apply(
+        lambda row: ((row['Total Dry Manure Generated N (lbs)'] - row['USDA Nitrogen Estimate (lbs)']) / row['USDA Nitrogen Estimate (lbs)'] * 100)
+        if row['USDA Nitrogen Estimate (lbs)'] > 0 else None,
+        axis=1
+    )
+    
+    df['UCCE Nitrogen % Deviation'] = df.apply(
+        lambda row: ((row['Total Dry Manure Generated N (lbs)'] - row['UCCE Nitrogen Estimate (lbs)']) / row['UCCE Nitrogen Estimate (lbs)'] * 100)
+        if row['UCCE Nitrogen Estimate (lbs)'] > 0 else None,
+        axis=1
+    )
+    
+    return df
+
 def calculate_consultant_metrics(df):
     """Calculate average under/over-reporting metrics for each consultant."""
+    # First calculate the metrics for each facility
+    df = calculate_metrics(df)
+    
     # Group by consultant
     consultant_groups = df.groupby('Consultant')
     
@@ -348,6 +382,27 @@ try:
         geocoding_cache = json.load(f)
 except (FileNotFoundError, json.JSONDecodeError):
     geocoding_cache = {}
+
+# Add R8 data to geocoding cache if not already present
+r8_data_path = "data/2023/R8/all_r8/r8_csv/R8_animals.csv"
+if os.path.exists(r8_data_path):
+    print("Adding R8 facility data to geocoding cache...")
+    r8_df = pd.read_csv(r8_data_path)
+    for _, row in r8_df.iterrows():
+        if pd.notna(row['Facility Address']) and pd.notna(row['Latitude']) and pd.notna(row['Longitude']):
+            address = row['Facility Address']
+            if address not in geocoding_cache:
+                geocoding_cache[address] = {
+                    'lat': float(row['Latitude']),
+                    'lng': float(row['Longitude']),
+                    'timestamp': datetime.now().isoformat(),
+                    'successful_format': 'R8 direct data',
+                    'geocoder': 'R8 CSV',
+                    'address': address,
+                    'county': row.get('County')  # If county is available in R8 data
+                }
+    save_geocoding_cache(geocoding_cache)
+    print(f"Added {len(r8_df)} R8 facilities to geocoding cache")
 
 # Process each year and region
 for year in YEARS:

@@ -1,0 +1,3430 @@
+Livingston Dairy Consulting, Inc.  
+1365 E. Prosperity Ave., Ste B, Tulare  
+559-687-1440  
+Oasis Holsteins Dairy WDID 5D155065001  
+18041 Palm Ave. Shafter, CA 93263  
+Annual Report  
+Water Analysis Samples  
+Manure Manifest  
+Facility / Land Map  
+CCA Nitrogen Retrofit Report  
+GEO Tracker Confirmation #  
+Date:
+
+Reporting Period: 1/1/2023 to 12/31/2023  
+Facility Info  
+Name of the Facility  
+Dairy Name: Oasis Holsteins Dairy WDID 5D155065001  
+Facility Address: 18041 Palm Ave. Shafter, CA 93263  
+Original Operation Date: 2/14/1998  
+Facility APN's: x088 x110 x003 xxxx  
+RWQCB Basin Plan Designation: Tulare Lake Basin  
+Owner(s)  
+Owner(s) Name: Peter John & Agnes deJong  
+Mailing Address: 18041 Palm Ave. Shafter, CA 93263  
+Home Phone Number: 661-746-3930  
+Cell Phone Number:  
+Check if any information has changed  
+Operator(s)  
+Operator(s) Name: Same as owner  
+Mailing Address:  
+Home Phone Number:  
+Cell Phone Number:  
+Check if any information has changed  
+Check if any information has changed
+
+Herd Information
+
+|                      | Milk Cows | Dry Cows | Bred Heifers (12-24 mo) | Heifers (3-12 mo) | Calves (0-3 mo) |  
+|----------------------|----------|---------|------------------------|-------------------|-----------------|  
+| Open Confinement:   | 1,925    | 318     | 903                    | 584               | 432             |  
+| Number Under Roof   | 1,925    | 318     | 903                    | 584               | 432             |  
+| Maximum Number     | 1,925    | 318     | 903                    | 584               | 432             |  
+| Average Number      | 1,925    | 318     | 903                    | 584               | 432             |  
+| Average Live Weight (lbs) | 1,400    | 1,450   | 950                    | 630               | -               |
+
+Average Milk Production: 68  
+Predominant Milk Cow Breed: Holstein
+
+Manure Generated:  
+Total manure excreted by the herd: 11,187.89 @40% Moisture ton/yr  
+Total nitrogen from manure: 798,659 lbs  
+135,023 lbs  
+Total salt from manure: 423,959 lbs  
+After Ammonia (30% loss applied) 559,061 lbs per reporting period
+
+Process Wastewater Generated:  
+Process wastewater generated: 28,105,000 gal  
+Total nitrogen generated: 84,276 lbs  
+42,226 lbs  
+113,162 lbs  
+Total salt (TDS) generated: 884,324 lbs
+
+List of Land Application Areas
+
+| Field Name | APN | APN Acres | Cropable Acres | Total Harvest | Type of Waste Applied |  
+|---|---|---|---|---|---|   
+| 1 | x088 x110 x003 xxxx | 154 | 35 | 2 | P.W. & D.M. |  
+| 2 | x088 x110 x003 xxxx |  | 38 | 2 | P.W. & D.M. |  
+| 3 | x088 x110 x002 xxxx | 78 | 74 | 2 | P.W. & D.M. |  
+| 4 | x001 xxxx, x088 x110 x011 xxxx, x088 x110 x010 xxxx, x088 x110 x009 xxxx, x088 x11 | 77 | 77 | 2 | P.W. & D.M. |  
+| 5 | x088 x110 x007 xxxx | 77 | 76 | 2 | P.W. & D.M. |  
+| 6 | x088 x110 x006 xxxx | 77 | 76 | 2 | P.W. & D.M. |  
+| 9-10. | x008 x110 x004 xxxx | 77 | 74 | 2 | P.W. & D.M. |  
+| 2A (8 Ball) | x046 x030 x003 xxxx | 318 | 78 | 1 | Dry Manure |  
+| 2B (8 Ball Lease) | x049 x030 x003 xxxx |  | 78 | 0 | N/A |  
+| 3B (8 Ball) | x046 x030 x003 xxxx |  | 78 | 1 | Dry Manure |  
+| 3S (8 Ball) | x046 x030 x003 xxxx |  | 78 | 1 | Dry Manure |  
+| 4A (8 Ball) | x046 x030 x004 xxxx | 318 | 78 | 1 | Dry Manure |  
+| 4S (8 Ball Lease) | x046 x030 x004 xxxx |  | 78 | 0 | N/A |  
+| 7 | x088 x110 x019 xxxx, x088 x110 x020 xxxx |  | 36 | 0 | N/A |  
+| 8 | x088 x110 x018 xxxx |  | 37 | 0 | N/A |
+
+Total Crop Acres 991.00
+
+List of Land Application Areas
+
+Field Name | APN | APN Acres | Cropable Acres | Total Harvest | Type of Waste Applied  
+---|---|---|---|---|---  
+11 | x088 x110 x003 xxxx | 3 | 3 | 0 | N/A  
+12 | x088 x110 x003 xxxx | 3 | 3 | 0 | N/A  
+8 Ball-1 | x046 x030 x004 xxxx | 318 | 155 | 0 | N/A
+
+Total Crop Acres | 161.00
+
+List of Fresh Water Sources
+
+| Source Description | Type | Subsurface (Tile) Drainage Sources |  
+|---|---|---|   
+| Barn-Dairy (Dom) | Ground Water | No |  
+| 1-Griffith | Ground Water | No |  
+| 2-Cow | Ground Water | No |  
+| 3-Cherry | Ground Water | No |  
+| 4-John Deere | Ground Water | No |  
+| 5-Fred's Well | Ground Water | No |  
+| 6-Gray Well | Ground Water | No |  
+| SE (8 Ball) | Ground Water | No |  
+| SW (8 Ball) | Ground Water | No |  
+| NE (8 Ball) | Ground Water | No |  
+| NW (8 Ball) | Ground Water | No |  
+| Canal | Surface Water | No |
+
+(WINTER) PLANT TISSUE ANALYSIS (Recorded As Received)
+
+| Field | Crop | Moist % | N% | TP% | TK% | Salt | TFS | Sample # | Date | Source |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| 1 | Wheat, Silage | 59.00 | 0.55 | 0.11 | 0.55 | - | 8.97 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 2 | Wheat, Silage | 58.10 | 0.52 | 0.11 | 0.48 | - | 7.86 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 3 | Wheat, Baled | 7.20 | 1.47 | 0.14 | 0.84 | - | 7.65 | 6-14H53953 | 06/14/23 | Valley Tech |  
+| 4 | Wheat, Silage | 56.50 | 0.74 | 0.16 | 0.70 | - | 8.50 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 5 | Wheat, Silage | 48.80 | 0.82 | 0.18 | 0.87 | - | 9.01 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 6 | Wheat, Silage | 53.10 | 0.77 | 0.17 | 0.83 | - | 8.79 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 9-10. | Wheat, Silage | 59.10 | 0.61 | 0.11 | 0.67 | - | 9.34 | 6-1H51908 | 06/01/23 | Valley Tech |  
+| 2A (8 Ball) | Wheat, Baled | 6.00 | 1.84 | 0.12 | 0.85 | - | 6.00 | 6-14H53953 | 06/14/23 | Valley Tech |  
+| 2B (8 Ball Lease) | W. Fallow | - | - | - | - | - | - | Leased |  |  |  
+| 3B (8 Ball) | Wheat, Baled | 6.70 | 2.24 | 0.13 | 1.05 | - | 7.68 | 6-14H53953 | 06/14/23 | Valley Tech |  
+| 3S (8 Ball) | Wheat, Baled | 6.30 | 2.03 | 0.11 | 0.83 | - | 6.32 | 6-14H53953 | 06/14/23 | Valley Tech |  
+| 4A (8 Ball) | Wheat, Baled | 6.10 | 1.93 | 0.11 | 0.82 | - | 7.02 | 6-14H53953 | 06/14/23 | Valley Tech |  
+| 4S (8 Ball Lease) | W. Fallow | - | - | - | - | - | - | Leased |  |  |  
+| 7 | Trees, Almonds | - | - | - | - | - | - | Trees |  |  |  
+| 8 | Trees, Almonds | - | - | - | - | - | - | Trees |  |  |  
+| Detectable Lim Valley Tech | 0.10% | 0.05% | 0.01% | 0.01% | - | 0.05% |  |  |  |  
+| Dellavalle | 0.001% | 0.001% | 0.01% | 0.003% | - | 0.001% |  |  |  |  
+| Detectable Limits |  |  |  |  |  |  |  |  |  |  
+| Valley Tech | 0.10% | 0.05% | 0.01% | 0.01% | - | 0.05% |  |  |  |  
+| Dellavalle | 0.001% | 0.001% | 0.01% | 0.003% | - | 0.001% |  |  |  |
+
+(WINTER) PLANT TISSUE ANALYSIS (Recorded As Received)
+
+| Field | Crop | Moist % | N% | TP% | TK% | Salt | TFS | Sample # | Date | Source |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| 11 | Trees, Almonds | - | 6.50 | 2.50 | 8.50 | - | - | Trees |  |  |  
+| 12 | Trees, Almonds | - | 6.50 | 2.50 | 8.50 | - | - | Trees |  |  |  
+| 8 Ball-1 | Trees, Pistachios | - | 2.81 | 0.42 | 3.09 | - | - | Trees |  |  |  
+| Detectable Lim Valley Tech | | | | 0.10% | 0.05% | 0.01% |  |  |  |  
+| Dellavalle | | | | 0.001% | 0.01% | 0.003% |  |  |  |  
+| Detectable Limits | | | | | | | | |  |  
+| Valley Tech | | | | 0.10% | 0.05% | 0.01% |  |  |  |  
+| Dellavalle | | | | 0.001% | 0.01% | 0.003% |  |  |  |
+
+(SUMMER) PLANT TISSUE ANALYSIS (Recorded As Received)
+
+| Field | Crop | Moist % | N% | TP% | TK% | Salt | TFS | Sample # | Date | Source |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| 1 | Sudangrass Silage | 59.00 | 0.38 | 0.10 | 0.68 |  | 11.20 | 10-11H68940 | 10/11/23 | Valley Tech |  
+| 2 | Corn, Silage | 68.20 | 0.46 | 0.10 | 0.39 |  | 5.99 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 3 | Corn, Silage | 68.70 | 0.50 | 0.09 | 0.49 |  | 6.76 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 4 | Corn, Silage | 68.70 | 0.43 | 0.08 | 0.41 |  | 5.40 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 5 | Corn, Silage | 69.10 | 0.43 | 0.09 | 0.46 |  | 6.97 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 6 | Corn, Silage | 66.00 | 0.46 | 0.10 | 0.38 |  | 6.64 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 9-10 | Corn, Silage | 68.90 | 0.48 | 0.09 | 0.43 |  | 7.78 | 10-19H70153 | 10/19/23 | Valley Tech |  
+| 2A (8 Ball) | S. Fallow |  |  |  |  |  |  | Fallow |  |  |  
+| 2B (8 Ball Lease) | S. Fallow |  |  |  |  |  |  | Leased |  |  |  
+| 3B (8 Ball) | S. Fallow |  |  |  |  |  |  | Fallow |  |  |  
+| 3S (8 Ball) | S. Fallow |  |  |  |  |  |  | Fallow |  |  |  
+| 4A (8 Ball) | S. Fallow |  |  |  |  |  |  | Fallow |  |  |  
+| 4S (8 Ball Lease) | S. Fallow |  |  |  |  |  |  | Leased |  |  |  
+| 7 | Trees, Almonds |  |  |  |  |  |  | Trees |  |  |  
+| 8 | Trees, Almonds |  |  |  |  |  |  | Trees |  |  |  
+|  | Detectable Limits |  | 0.10% | 0.05% | 0.01% |  |  |  | Valley Tech |  
+|  |  |  | 0.01% | 0.01% | 0.003% |  |  |  | Dellavalle |  
+|  |  |  |  | 0.001% |  |  |  |  |  |
+
+(SUMMER) PLANT TISSUE ANALYSIS (Recorded As Received)
+
+| Field | Crop | Moist % | N% | TP % | TK% | Salt | TFS | Sample #: | Date: | Source |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| 11 | Trees, Almonds | - | - | - | - | - | - | Trees | - | - |  
+| 12 | Trees, Almonds | - | - | - | - | - | - | Trees | - | - |  
+| 8 Ball-1 | Trees, Pistachios | - | - | - | - | - | - | Trees | - | - |  
+| Detectable Limits | Valley Tech | 0.10% | 0.05% | 0.01% | 0.01% |  |  |  |  |  |  
+|  | Dellavalle | 0.001% | 0.01% | 0.001% | 0.003% |  |  |  |  |  |
+
+Winter Crops & Harvest
+
+| Field: | Crop | Plant Date | Harvest Date | Lab # | Moisture % | N (mg//kg) | P (mg/kg) | K (mg/kg) | Salt (mg/kg) | TFS | Reporting Basis |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 1 | Wheat, Silage | 10/28/22 | 5/22/23 | 6-1H51908 | 59.00 | 0.55 | 0.11 | 0.55 | - | 8.97 | Dry Weight |  
+| 2 | Wheat, Silage | 10/28/22 | 5/23/23 | 6-1H51908 | 58.10 | 0.52 | 0.11 | 0.48 | - | 7.86 | Dry Weight |  
+| 3 | Wheat, Baled | 11/10/22 | 5/27/23 | 6-14H53953 | 7.20 | 1.47 | 0.14 | 0.84 | - | 7.65 | Dry Weight |  
+| 4 | Wheat, Silage | 11/10/22 | 5/26/22 | 6-1H51908 | 56.50 | 0.74 | 0.16 | 0.70 | - | 8.50 | Dry Weight |  
+| 5 | Wheat, Silage | 11/11/22 | 5/24/23 | 6-1H51908 | 48.80 | 0.82 | 0.18 | 0.87 | - | 9.01 | Dry Weight |  
+| 6 | Wheat, Silage | 11/8/22 | 5/24/23 | 6-1H51908 | 53.10 | 0.77 | 0.17 | 0.83 | - | 8.79 | Dry Weight |  
+| 9-10. | Wheat, Silage | 11/7/22 | 5/23/23 | 6-1H51908 | 59.10 | 0.61 | 0.11 | 0.67 | - | 9.34 | Dry Weight |  
+| 2A (8 Ball) | Wheat, Baled | 11/4/22 | 6/15/23 | 6-14H53953 | 6.00 | 1.84 | 0.12 | 0.85 | - | 6.00 | Dry Weight |  
+| 2B (8 Ball Lease) | W. Fallow |  |  | Leased | - | - | - | - | - | - |  |  
+| 3B (8 Ball) | Wheat, Baled | 11/6/22 | 6/16/23 | 6-14H53953 | 6.70 | 2.24 | 0.13 | 1.05 | - | 7.68 | Dry Weight |  
+| 3S (8 Ball) | Wheat, Baled | 11/4/22 | 6/16/23 | 6-14H53953 | 6.30 | 2.03 | 0.11 | 0.83 | - | 6.32 | Dry Weight |  
+| 4A (8 Ball) | Wheat, Baled | 11/6/22 | 6/15/23 | 6-14H53953 | 6.10 | 1.93 | 0.11 | 0.82 | - | 7.02 | Dry Weight |  
+| 4S (8 Ball Lease) | W. Fallow |  |  | Leased | - | - | - | - | - | - |  |  
+| 7 | Trees, Almonds | 1/1/16 | 11/1/23 | Trees | - | 6.50 | 2.50 | 8.50 | - | - | Dry Weight |  
+| 8 | Trees, Almonds | 1/1/16 | 11/1/23 | Trees | - | 6.50 | 2.50 | 8.50 | - | - | Dry Weight |  
+| Detectable L Valley Tech | Dellavalle |  |  |  | 0.10% | 0.05% | 0.01% | 0.01% | 0.05% | 0.001% |  
+|  |  |  |  |  | 0.001% | 0.01% | 0.01% | 0.003% |  |  |
+
+Winter Crops & Harvest
+
+Field:
+
+| Crop | Plant Date | Harvest Date | Lab # | Moisture % | N (mg//kg) | P (mg/kg) | K (mg/kg) | Salt (mg/kg) | TFS | Reporting Basis |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| 11 | Trees, Almonds | 1/1/05 | 11/1/23 | Trees | - | 6.50 | 2.50 | 8.50 | - | - | Dry Weight |  
+| 12 | Trees, Almonds | 1/1/05 | 11/1/23 | Trees | - | 6.50 | 2.50 | 8.50 | - | - | Dry Weight |  
+| 8 Ball-1 | Trees, Pistachios | 1/1/11 | 11/1/23 | Trees | - | 2.81 | 0.42 | 3.09 | - | - | Dry Weight |
+
+Detectable L Valley Tech  
+Dellavalle  
+0.10%  
+0.01%  
+0.001%  
+0.05%  
+0.01%  
+0.01%  
+0.01%  
+0.003%  
+0.05%  
+0.001%
+
+[{"Field": "1", "Crop": "Sudangrass Silage", "Plant Date": "6/2/23", "Harvest Date": "10/6/23", "Lab #": "10-11H68940", "Moisture %": "59.00", "N (mg/kg)": "0.38", "P (mg/kg)": "0.10", "K (mg/kg)": "0.68", "Salt (mg/kg)": "11.20", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "2", "Crop": "Corn, Silage", "Plant Date": "6/23/23", "Harvest Date": "10/16/23", "Lab #": "10-19H70153", "Moisture %": "68.20", "N (mg/kg)": "0.46", "P (mg/kg)": "0.10", "K (mg/kg)": "0.39", "Salt (mg/kg)": "5.99", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "3", "Crop": "Corn, Silage", "Plant Date": "6/29/23", "Harvest Date": "10/19/23", "Lab #": "10-19H70153", "Moisture %": "68.70", "N (mg/kg)": "0.50", "P (mg/kg)": "0.09", "K (mg/kg)": "0.49", "Salt (mg/kg)": "6.76", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "4", "Crop": "Corn, Silage", "Plant Date": "6/20/23", "Harvest Date": "10/18/23", "Lab #": "10-19H70153", "Moisture %": "69.10", "N (mg/kg)": "0.43", "P (mg/kg)": "0.09", "K (mg/kg)": "0.41", "Salt (mg/kg)": "5.40", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "5", "Crop": "Corn, Silage", "Plant Date": "6/28/23", "Harvest Date": "10/17/23", "Lab #": "10-19H70153", "Moisture %": "66.00", "N (mg/kg)": "0.46", "P (mg/kg)": "0.08", "K (mg/kg)": "0.46", "Salt (mg/kg)": "6.97", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "6", "Crop": "Corn, Silage", "Plant Date": "6/25/23", "Harvest Date": "10/14/23", "Lab #": "10-19H70153", "Moisture %": "68.90", "N (mg/kg)": "0.48", "P (mg/kg)": "0.09", "K (mg/kg)": "0.43", "Salt (mg/kg)": "7.78", "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "9-10", "Crop": "Corn, Silage", "Plant Date": null, "Harvest Date": null, "Lab #": null, "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": "Dry Weight"}, {"Field": "2A (8 Ball)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Fallow", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "2B (8 Ball Lease)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Leased", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "3B (8 Ball)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Fallow", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "3S (8 Ball)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Fallow", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "4A (8 Ball)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Fallow", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "4S (8 Ball Lease)", "Crop": "S. Fallow", "Plant Date": null, "Harvest Date": null, "Lab #": "Leased", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "7", "Crop": "Trees, Almonds", "Plant Date": null, "Harvest Date": null, "Lab #": "Trees", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "8", "Crop": "Trees, Almonds", "Plant Date": null, "Harvest Date": null, "Lab #": "Trees", "Moisture %": null, "N (mg/kg)": null, "P (mg/kg)": null, "K (mg/kg)": null, "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}, {"Field": "Detectable L Valley Tech", "Crop": "Dellavalle", "Plant Date": null, "Harvest Date": null, "Lab #": null, "Moisture %": "0.10%", "N (mg/kg)": "0.05%", "P (mg/kg)": "0.01%", "K (mg/kg)": "0.001%", "Salt (mg/kg)": null, "TFS": null, "Reporting Basis": null}]
+
+Field:	Crop	Plant Date	Harvest Date	Lab #	Moisture %	N (mg//kg)	P (mg/kg)	K (mg/kg)	Salt (mg/kg)	TFS	Reporting Basis  
+11	Trees, Almonds			Trees						  
+12	Trees, Almonds			Trees						  
+8 Ball-1	Trees, Pistachios			Trees						  
+Detectable L Valley Tech	Dellavalle			0.10%	0.05%	0.01%	0.05%  
+				0.001%	0.01%	0.003%	0.001%
+
+Well / Canal Analysis
+
+General Minerals
+
+| Well Name/Number | NO3-N (mg/L) | EC (umhos/cm) | TDS (mg/L) | NH4-N (mg/L) | TN (mg/L) | Ca (mg/L) | Mg (mg/L) | Na (mg/L) | HCO3 (mg/L) | CO3 (mg/L) | SO4 (mg/L) | Cl (mg/L) | Lab# | Date | LAB |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| Barn-Dairy (Dom) | 2.50 | 461 | 260 |  | 2.50 |  |  |  |  |  |  |  | VI 2340876 | 2/10/2023 | FGL Environmental |  
+| 1-Griffith | 4.00 | 582 | 340 |  | 4.00 |  |  |  |  |  |  |  | VI 2344644 | 7/18/2023 | FGL Environmental |  
+| 2-Cow | 0.70 | 237 | 170 |  | 0.70 |  |  |  |  |  |  |  | VI 2344021 | 6/30/2023 | FGL Environmental |  
+| 3-Cherry | 6.20 | 711 | 440 |  | 6.20 |  |  |  |  |  |  |  | VI 2344644 | 7/18/2023 | FGL Environmental |  
+| 4-John Deere | 2.80 | 588 | 340 |  | 2.80 |  |  |  |  |  |  |  | VI 2344644 | 7/18/2023 | FGL Environmental |  
+| 5-Fred's Well | 8.40 | 919 | 550 |  | 8.40 |  |  |  |  |  |  |  | VI 2344644 | 7/18/2023 | FGL Environmental |  
+| 6-Gray Well | 2.00 | 403 | 250 |  | 2.00 |  |  |  |  |  |  |  | VI 2344021 | 6/30/2023 | FGL Environmental |  
+| SE (8 Ball) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Canal |  
+| SW (8 Ball) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Non-Op |  
+| NE (8 Ball) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Canal |  
+| NW (8 Ball) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Canal |  
+| Canal | 0.01 | 320 |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+| Detectable Limits | 0.01 |  | 1 | 10 | 0.2 | NR | 0.1 | 0.1 | 0.15 | 3 | 0.9 | 0.03 | 0.03 |  |  |  
+| Dellavalle |  |  |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  | 6.70 | 37.00 | 2307664-05 | 10/3/2023 | Other |  
+| FGL Environmental |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+| Valley Tech |  |  | 1 |  | NR | NR | NR | NR | NR | NR | NR | NR | NR |  |  |  |  |  |
+
+Soil Analysis (Winter)
+
+Fields:  
+0/1ft. NO3-N (mg/kg)  
+1/2 ft. NO3-N (mg/kg)  
+0/1 ft. Sol. P (mg/kg)  
+0/1 ft. K (mg/kg)  
+0/1 ft. EC (ds/m)  
+OM %  
+Lab #  
+Date  
+Source
+
+1  
+2  
+3  
+4  
+5  
+6  
+9-10.  
+2A (8 Ball)  
+2B (8 Ball Lease)  
+3B (8 Ball)  
+3S (8 Ball)  
+4A (8 Ball)  
+45 (8 Ball Lease)  
+7  
+2.70  
+0.90  
+14.60  
+433.00  
+3.15  
+1.66  
+04-20547186  
+04/20/23  
+Valley Tech  
+8  
+3.90  
+1.40  
+21.50  
+675.00  
+1.27  
+1.16  
+04-20547186  
+04/20/23  
+Valley Tech
+
+Detectable Limits  
+Valley Tech  
+0.1  
+0.1  
+Della Valle  
+0.1  
+0.1  
+1.1  
+0.2  
+0.0015  
+0.0001%
+
+Soil Analysis (Winter)
+
+Fields:  
+0/1 ft. NO3-N (mg/kg)  
+1/2 ft. NO3-N (mg/kg)  
+0/1 ft. Sol. P (mg/kg)  
+0/1 ft. K (mg/kg)  
+0/1 ft. EC (ds/m)  
+OM %  
+Lab #  
+Date  
+Source
+
+11  
+2.9  
+1.20  
+28.40  
+331.00  
+1.57  
+1.06  
+04-20547186  
+04/20/23  
+Valley Tech
+
+12  
+4.6  
+1.90  
+36.50  
+389.00  
+2.88  
+1.06  
+04-20547186  
+04/20/23  
+Valley Tech
+
+8 Ball-1  
+3.9  
+14.80  
+8.30  
+219.00  
+1.28  
+1.64  
+04-20547186  
+04/20/23  
+Valley Tech
+
+Detectable Limits  
+Valley Tech  
+0.1  
+0.1  
+Della Valle  
+0.1  
+0.1  
+1.1  
+0.2  
+0.0015  
+0.0001%
+
+Soil Analysis (Summer)
+
+Fields:	0/1ft. NO3-N (mg/kg)	1/2 ft. NO3-N (mg/kg)	0/1 ft. Sol. P (mg/kg)	0/1 ft. K (mg/kg)	0/1 ft. EC (ds/m)	OM %	Lab #	Date	Source  
+1	-	-	-	-	-	-	-	-	-  
+2	-	-	-	-	-	-	-	-	-  
+3	-	-	-	-	-	-	-	-	-  
+4	-	-	-	-	-	-	-	-	-  
+5	-	-	-	-	-	-	-	-	-  
+6	-	-	-	-	-	-	-	-	-  
+9-10.	-	-	-	-	-	-	-	-	-  
+2A (8 Ball)	-	-	-	-	-	-	-	-	-  
+2B (8 Ball Lease)	-	-	-	-	-	-	-	-	-  
+3B (8 Ball)	-	-	-	-	-	-	-	-	-  
+3S (8 Ball)	-	-	-	-	-	-	-	-	-  
+4A (8 Ball)	-	-	-	-	-	-	-	-	-  
+4S (8 Ball Lease)	-	-	-	-	-	-	-	-	-  
+7	-	-	-	-	-	-	-	-	-  
+8	-	-	-	-	-	-	-	-	-  
+Detectable Limits  
+Valley Tech						0.1	0.1	  
+Della Valle						0.1	0.1	  
+					1.1	0.2	0.0015	0.0001%
+
+Soil Analysis (Summer)
+
+Fields:	0/1ft. NO3-N (mg/kg)	1/2 ft. NO3-N (mg/kg)	0/1 ft. Sol. P (mg/kg)	0/1 ft. K (mg/kg)	0/1 ft. EC (ds/m)	OM %	Lab #	Date	Source  
+11  
+12  
+8 Ball-1  
+Detectable Limits  
+Valley Tech	0.1	0.1	1.1	0.2	0.0015	0.0001%  
+Della Valle	0.1	0.1
+
+Nutrient Import & Export
+
+Nutrient Export - Did you sell, give away or otherwise remove slurry, process water or dry manure from your property?
+
+No  
+X Yes, Manifest attached (Attachment D)
+
+Nutrient Import  
+No Dry manure nutrient imports entered  
+No Process wastewater nutrient imports entered  
+No Commercial or other nutrient imports entered
+
+Total Dry Manure Exported | Total Process Water Exported  
+---|---|---|   
+Field Name | Type of Manure Applied | As Is / Dry Weight | Source  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+ |  |  |   
+3,335 |  |  |
+
+Process Water & Manure Analysis
+
+Process Water
+
+Quarters: | NH4N (mg/L) | TKN (mg/L) | TP (mg/L) | TK (mg/L) | NO3N (mg/L) | NH3N (mg/L) | Ca (mg/L) | Mg (mg/L) | Na (mg/L) | CO3 (mg/L) | HCO3 (mg/L) | SO4 (mg/L) | Cl (mg/L) | EC (ds/m) | TDS (mg/L)  
+------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------  
+1 | 116.0 | 337.0 | 57.6 | 390.0 | 1.0 | | | | | | | | 4 | 2,580  
+2 | 245.0 | 326.0 | 73.9 | 486.0 | 1.0 | | | | | | | | 5 | 3,470  
+3 | 266.0 | 272.0 | 58.4 | 281.0 | 1.0 | | 0.0 | | 53.7 | 116.0 | 0.0 | 31.6 | 67.3 | 7.6 | 5 | 3,570  
+4 | 66.8 | 99.0 | 36.2 | 0.0 | 1.0 | | | | | | | | | | 1,230
+
+Detectable Limits  
+Valley Tech | 2.0 | 5.0 | 0.1 | 0.2 | | | | | | | | | | | 10  
+Dellavalle | 0.2 | 0.7 | 0.02 | 0.2 | | 0.01 | 0.05 | 0.4 | 0.10 | 0.9 | 3 | 0.01 | 0.03 | 0.001 | 10
+
+Inorg N | Org N | P2O5 | K2O  
+------- | -------- | -------- | --------  
+Qtr | Sample # | Sample Date | Source | lbs/Ac In  
+1 | 3-9L44125 | 3/9/2023 | Valley Tech | 26.5 | 50.1 | 29.9 | 106.5  
+2 | 5-12L49734 | 5/12/2023 | Valley Tech | 55.8 | 18.4 | 38.4 | 132.7  
+3 | 8-15L61714 | 8/15/2023 | Valley Tech | 60.5 | 1.4 | 30.3 | 76.7  
+4 | 10-3L67668 | 10/3/2023 | Valley Tech | 15.4 | 7.3 | 18.8 | 0.0
+
+Description | Sample # | Date | As Is/Dry Weight | Source | Material Type  
+------- | -------- | -------- | -------- | -------- | --------  
+Manure | 5-12M49740 | 5/12/2023 | Dry Weight | Valley Tech | Corral Solids  
+Manure | 10-3M67653 | 10/3/2023 | Dry Weight | Valley Tech | Corral Solids
+
+Dry Manure: (As Recv'd)
+
+| | TN % | TP % | TK % | Ca | Mg | Na | S | Cl | Salt | TFS | Moisture %  
+|---|---|---|---|---|---|---|---|---|---|---|---|  
+| Corral | 1.04 | 0.53 | 2.16 | 1.45 | 0.54 | 0.28 | 0.43 | 0.85 | | 54.10 | 39.10  
+| Corral | 1.10 | 0.68 | 1.63 | | | | | | | | 34.90
+
+Detectable Limits  
+Valley Tech | 0.01% | 0.02% | 0.02% | 0.001% | 0.001% | 0.001% | 0.001% | 0.000% | 0.001% | 0.001%  
+Dellavalle | 0.01% | 0.01% | 0.003% | | | | | | | |
+
+Nutrient Applications
+
+Field Name/Number: 1 Acres: 35.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-ln/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 10/25/22 | W. Manure App. | 10.00 | | | | | 83.3 | 106.0 | 432.4 | | | | |  
+| 10/28/22 | W. Planting | | | | | | | | | | | | |  
+| 2/18/23 | 1-Griffith | | | | 5.10 | 1.88 | 4.6 | 24.5 | 166.0 | 236 | | | |  
+| 2/18/23 | Process Water | | | | | | 100.7 | | | 1,098 | | | |  
+| 3/7/23 | 1-Griffith | | | | 5.28 | 1.94 | 4.8 | 25.4 | 171.9 | 244 | | | |  
+| 3/7/23 | Process Water | | | | | | 104.3 | | | 1,137 | | | |  
+| 4/5/23 | 1-Griffith | | | | 6.00 | | 5.4 | | | 277 | | | |  
+| 5/22/23 | W. Harvest | | | | | | (253.4) | (52.9) | (251.5) | | 8.97 | | 23.06 |  
+| 6/2/23 | S. Planting | | | | | | | | | | | | |  
+| 6/13/23 | 1-Griffith | | | | 6.18 | | 5.6 | | | 286 | | | |  
+| 7/5/23 | 1-Griffith | | | | 5.04 | | 4.6 | | | 233 | | | |  
+| 7/5/23 | Process Water | | | | | 1.86 | 80.4 | 24.6 | 118.2 | 1,502 | | | |  
+| 7/20/23 | 1-Griffith | | | | 5.16 | | 4.7 | | | 239 | | | |  
+| 7/20/23 | Process Water | | | | | 1.90 | 82.3 | 25.2 | 121.0 | 1,538 | | | |  
+| 8/1/23 | 1-Griffith | | | | 6.06 | | 5.5 | | | 280 | | | |  
+| 8/17/23 | 1-Griffith | | | | 6.30 | | 5.7 | | | 291 | | | |  
+| 9/7/23 | 1-Griffith | | | | 6.12 | | 5.5 | | | 283 | | | |  
+| 10/6/23 | S. Harvest | | | | | | (149.4) | (40.2) | (268.4) | | | 11.20 | 19.60 |
+
+Totals: 10.0 0 51.21 7.58 95 112 490 7,644 20.17 0 42.66
+
+Dry Weight  
+As Received
+
+Field Name/Number: 1
+
+Acres: 35
+
+| | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 497.5 | 205.6 | 1009.5 | 7644.2 |  
+| Nutrients Removed at Harvest | -402.8 | -93.1 | -519.9 | 0.0 |  
+| Nutrient Balance | 94.6 | 112.5 | 489.7 | 7644.2 |
+
+Winter Nitrogen Crop App / Use Ratio: 1.22
+
+Summer Nitrogen Crop App / Use Ratio: 1.35
+
+Field Name/Number: 1
+
+Acres: 35
+
+Winter Crop: Wheat, Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|   
+| W. Manure App. | 10.0 T/Ac | 83.3 | 242.7 | 518.9 |  
+| W. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q1 | | | |  
+|  | Q2 | 3.8 Ac In/Ac | 205.0 | 114.3 | 405.5 |  
+| Well Water | 16.37 Ac In/Ac | 14.8 | | |  
+| Canal | Ac In/Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| W. Planting | 10/28/22 | | | |  
+| W. Harvest | 5/22/23 | 23.1 T/Ac | (253.4) | (121.3) | (301.8) |
+
+Summer Crop: Sudangrass Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|  
+| S. Manure App. | T/Ac | | | |  
+| S. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q2 | | | | |  
+|  | Q3 | 3.8 Ac In/Ac | 162.7 | 113.9 | 287.1 |  
+|  | Q4 | Ac In/Ac | | | |  
+| Well Water | 34.8 Ac In/Ac | 31.588393 | | |  
+| Canal | Ac In/Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| S. Planting | 6/2/23 | | | |  
+| S. Harvest | 10/6/23 | 19.6 T/Ac | (149.4) | (92.0) | (322.0) |
+
+Nutrient Applications
+
+Field Name/Number: 2  
+Acres: 38.00
+
+| Date | Event / Source | Dry Manure  
+Applied  
+(tons/ac) | Moist. % | Chem Fert  
+total lbs | Fresh  
+Water  
+Applied  
+(ac-in/ac) | Lagoon  
+Water  
+Applied  
+(ac-in/ac) | N (lbs/Ac) | Total P  
+(lbs/Ac) | Total K  
+(lbs/Ac) | Salt  
+(Lbs/Ac) | TFS % | Expected  
+Yield  
+(tons/ac) | Actual Yield  
+(tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 10/28/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 11/22/22 | 2-Cow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 11/22/22 | Process Water | - | - | - | 5.08 | 1.87 | 100.4 | 24.4 | 165.5 | 1,095 | - | - | - |  
+| 2/7/23 | 2-Cow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 2/7/23 | Process Water | - | - | - | 5.25 | 1.93 | 103.7 | 25.2 | 170.9 | 1,131 | - | - | - |  
+| 4/28/23 | 2-Cow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 5/23/23 | W. Harvest | - | - | - | 6.19 | - | (236.7) | (51.5) | (219.5) | 143 | - | 8.97 | 22.78 |  
+| 6/8/23 | 2-Cow | - | - | - | 6.35 | - | 1.0 | - | - | 147 | - | - | - |  
+| 6/23/23 | S. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 6/28/23 | 2-Cow | - | - | - | 6.13 | - | 1.0 | - | - | 142 | - | - | - |  
+| 7/14/23 | 2-Cow | - | - | - | 5.14 | - | 0.8 | - | - | 119 | - | - | - |  
+| 7/14/23 | Process Water | - | - | - | - | 1.89 | 82.0 | 25.1 | 120.5 | 1,532 | - | - | - |  
+| 8/3/23 | 2-Cow | - | - | - | 5.03 | - | 0.8 | - | - | 116 | - | - | - |  
+| 8/3/23 | Process Water | - | - | - | - | 1.85 | 80.2 | 24.5 | 118.0 | 1,499 | - | - | - |  
+| 8/26/23 | 2-Cow | - | - | - | 5.19 | - | 0.8 | - | - | 120 | - | - | - |  
+| 8/26/23 | Process Water | - | - | - | - | 1.91 | 82.9 | 25.3 | 121.8 | 1,548 | - | - | - |  
+| 9/17/23 | 2-Cow | - | - | - | 6.30 | - | 1.0 | - | - | 146 | - | - | - |  
+| 10/16/23 | S. Harvest | - | - | - | - | - | (201.1) | (43.0) | (169.2) | - | - | 11.20 | 21.80 |  
+| Totals: |  | 0.0 | 0 | 50.65 | 9.46 | 19 | 30 | 308 | 7,976 | 20.17 | 0 | 44.58 |
+
+Field Name/Number: 2
+
+Acres: 38.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K Lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 457.2 | 54.4 | 578.4 | 7975.5 |  
+| Nutrients Removed at Harvest | -437.8 | -41.3 | -322.7 | 0.0 |  
+| Nutrient Balance | 19.5 | 13.1 | 255.7 | 7975.5 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.90
+
+Summer Nitrogen Crop App / Use Ratio: 1.28
+
+Field Name/Number: 2
+
+Acres: 38
+
+Winter Crop Wheat, Silage
+
+Nutrient Summary:
+
+| | Applied | N | | |  
+|---|---|---|---|---|   
+| W. Manure App. | - | - | - | - |  
+| W. Comm Fert App. | - | - | - | - |  
+| Process Water | Q1 3.8 Ac In/Ac | 204.1 | 113.8 | 403.7 |  
+|  | Q2 16.5 Ac In/Ac | 2.6 | - | - |  
+| Well Water | Ac In /Ac | - | - | - |  
+| Canal | - | - | - | - |  
+| Atm. Depos. | Yes | 7.0 | - | - |  
+| W. Planting | 10/28/22 | - | - | - |  
+| W. Harvest | 5/23/23 | 22.8 T/Ac | (236.7) | (118.0) | (263.4) |
+
+Summer Crop Corn, Silage
+
+Nutrient Summary:
+
+| | Applied | N | | |  
+|---|---|---|---|---|   
+| S. Manure App. | - | - | - | - |  
+| S. Comm Fert App. | - | - | - | - |  
+| Process Water | Q2 Ac In /Ac | - | - | - |  
+|  | Q3 5.7 Ac In/Ac | 245.1 | 171.5 | 432.4 |  
+|  | Q4 34.1 Ac In/Ac | 5.4 | - | - |  
+| Well Water | Ac In /Ac | - | - | - |  
+| Canal | - | - | - | - |  
+| Atm. Depos. | Yes | 7.0 | - | - |  
+| S. Planting | 6/23/23 | - | - | - |  
+| S. Harvest | 10/16/23 | 21.8 T/Ac | (201.1) | (98.4) | (203.0) |
+
+Nutrient Applications
+
+Field Name/Number: 3  
+Acres: 74.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS | Expected Yield % | Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 11/10/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 12/8/22 | 3-Cherry | - | - | - | 5.22 | 1.83 | 7.3 | 23.9 | 161.7 | 313 | - | - | - | - |  
+| 12/8/22 | Process Water | - | - | - | - | - | 98.1 | - | - | 1,070 | - | - | - | - |  
+| 2/3/22 | 3-Cherry | - | - | - | 6.30 | - | 8.9 | - | - | 377 | - | - | - | - |  
+| 4/10/23 | 3-Cherry | - | - | - | 6.42 | - | 9.0 | - | - | 384 | - | - | - | - |  
+| 5/27/23 | W. Harvest | - | - | - | - | - | (105.6) | (10.0) | (60.8) | - | 8.97 | - | 3.60 | - |  
+| 5/30/23 | S. Manure App. | 9.46 | - | - | - | - | 83.3 | 128.1 | 307.9 | - | - | - | - | - |  
+| 6/11/23 | 3-Cherry | - | - | - | 6.36 | - | 8.9 | - | - | 381 | - | - | - | - |  
+| 6/29/23 | S. Planting | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 7/13/23 | 3-Cherry | - | - | - | 6.45 | - | 9.1 | - | - | 386 | - | - | - | - |  
+| 7/30/23 | 3-Cherry | - | - | - | 5.37 | - | 7.6 | - | - | 322 | - | - | - | - |  
+| 7/30/23 | Process Water | - | - | - | - | - | - | - | - | 1,522 | - | - | - | - |  
+| 8/15/23 | 3-Cherry | - | - | - | 5.28 | 1.88 | 81.5 | 24.9 | 119.8 | 316 | - | - | - | - |  
+| 8/15/23 | Process Water | - | - | - | - | 1.85 | 80.1 | 24.5 | 117.8 | 1,497 | - | - | - | - |  
+| 9/1/23 | 3-Cherry | - | - | - | 6.27 | - | 8.8 | - | - | 375 | - | - | - | - |  
+| 9/17/23 | 3-Cherry | - | - | - | 6.39 | - | 9.0 | - | - | 382 | - | - | - | - |  
+| 10/19/23 | S. Harvest | - | - | - | - | - | (222.9) | (41.8) | (220.1) | - | 11.20 | - | 22.26 | - |  
+| Totals: | 9.5 | 0 | 54.07 | 5.56 | 90 | 150 | 426 | 7,325 | 20.17 | 0 | 25.86 | - |
+
+Field Name/Number: 3
+
+Acres: 74.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 418.9 | 87.9 | 587.0 | 7325.4 |  
+| Nutrients Removed at Harvest | -328.5 | -22.6 | -233.2 | 0.0 |  
+| Nutrient Balance | 90.4 | 65.3 | 353.8 | 7325.4 |
+
+Winter Nitrogen Crop App / Use Ratio: 1.15
+
+Summer Nitrogen Crop App / Use Ratio: 1.36
+
+Field Name/Number: 3
+
+Acres: 74
+
+Winter Crop: Wheat, Baled
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|   
+| W. Manure App. | | |  
+| W. Comm Fert App. | | |  
+| Process Water | | |  
+| Q1 | 1.8 Ac In/Ac | 98.1 | 54.7 | 194.0 |  
+| Q2 | Ac In/Ac | |  
+| Well Water | 11.6 Ac In/Ac | 16.4 |  
+| Canal | Ac In/Ac | |  
+| Atm. Depos. | Yes | 7.0 |  
+| W. Planting | 11/10/22 | |  
+| W. Harvest | 5/27/23 | 3.6 T/Ac | (105.6) | (23.0) | (73.0) |
+
+Summer Crop: Corn, Silage
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|  
+| S. Manure App. | 9.5 T/Ac | 83.3 | 293.3 | 369.5 |  
+| S. Comm Fert App. | lbs/Ac | |  
+| Process Water | | |  
+| Q2 | Ac In/Ac | |  
+| Q3 | 3.7 Ac In/Ac | 161.6 | 113.1 | 285.2 |  
+| Q4 | Ac In/Ac | |  
+| Well Water | 36.1 Ac In/Ac | 50.8 |  
+| Canal | Ac In/Ac | |  
+| Atm. Depos. | Yes | 7.0 |  
+| S. Planting | 6/29/23 | |  
+| S. Harvest | 10/19/23 | 22.3 T/Ac | (222.9) | (95.7) | (264.2) |
+
+Nutrient Applications
+
+Field Name/Number: 4  
+Acres: 77.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 11/5/22 | W. Manure App. | 12.99 |  |  |  |  | 108.2 | 137.6 | 561.5 |  |  |  |  |  
+| 11/10/22 | W. Planting |  |  |  |  |  |  |  |  |  |  |  |  |  
+| 12/8/22 | 4-John Deere |  |  |  | 5.16 | 2.01 | 3.3 | 107.7 | 26.2 | 177.6 | 239 |  |  |  |  
+| 12/8/22 | Process Water |  |  |  |  |  |  |  |  |  | 1,175 |  |  |  |  
+| 2/6/23 | 4-John Deere |  |  |  | 5.24 | 2.04 | 3.3 | 109.3 | 26.6 | 180.2 | 242 |  |  |  |  
+| 2/6/23 | Process Water |  |  |  |  |  |  |  |  |  | 1,192 |  |  |  |  
+| 4/9/23 | 4-John Deere |  |  |  | 6.30 |  | 4.0 | (373.4) | (81.3) | (353.7) | 291 |  |  |  |  
+| 5/26/22 | W. Harvest |  |  |  |  |  |  |  |  |  |  | 8.97 | 25.25 |  |  
+| 6/8/23 | 4-John Deere |  |  |  | 6.17 |  | 3.9 |  |  |  | 285 |  |  |  |  
+| 6/29/23 | S. Planting |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+| 7/5/23 | 4-John Deere |  |  |  | 6.09 |  | 3.9 |  |  |  | 282 |  |  |  |  
+| 7/25/23 | 4-John Deere |  |  |  | 5.19 |  | 3.3 |  |  |  | 240 |  |  |  |  
+| 7/25/23 | Process Water |  |  |  |  | 2.02 | 87.4 |  | 26.7 | 128.6 | 1,634 |  |  |  |  
+| 8/13/23 | 4-John Deere |  |  |  | 6.22 |  | 3.9 |  |  |  | 288 |  |  |  |  
+| 8/30/23 | 4-John Deere |  |  |  | 6.12 |  | 3.9 |  |  |  | 283 |  |  |  |  
+| 9/17/23 | 4-John Deere |  |  |  | 6.20 |  | 3.9 |  |  |  | 287 |  |  |  |  
+| 10/16/23 | S. Harvest |  |  |  |  |  | (183.5) |  | (33.7) | (176.7) |  | 11.20 | 21.55 |  |  
+| Totals: |  | 13.0 | 0 |  | 52.70 | 6.07 | (111) | 102 | 518 | 6,439 | 20.17 | 0 | 46.80 |
+
+Field Name/Number: 4  
+Acres: 77.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 446.2 | 94.8 | 869.9 | 6438.8 |  
+| Nutrients Removed at Harvest | -556.9 | -50.2 | -440.3 | 0.0 |  
+| Nutrient Balance | -110.7 | 44.6 | 429.6 | 6438.8 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.89  
+Summer Nitrogen Crop App / Use Ratio: 1.29
+
+Field Name/Number: 4  
+Acres: 77
+
+Winter Crop: Wheat, Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|   
+| W. Manure App. | 13.0 T/Ac | 108.2 | 315.1 | 673.9 |  
+| W. Comm Fert App. | lbs/Ac |  |  |  |  
+| Process Water | Q1 4.0 Ac In/Ac | 217.1 | 121.0 | 429.4 |  
+|  | Q2 Ac In/Ac |  |  |  |  
+| Well Water | Ac In/Ac |  |  |  |  
+| Canal | Ac In/Ac |  |  |  |  
+| Atm. Depos. | Yes | 7.0 |  |  |  
+| W. Planting | 11/10/22 |  |  |  |  
+| W. Harvest | 5/26/22 | 25.2 T/Ac | (373.4) | (186.1) | (424.4) |
+
+Summer Crop: Corn, Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|  
+| S. Manure App. | T/Ac |  |  |  |  
+| S. Comm Fert App. | lbs/Ac |  |  |  |  
+| Process Water | Q2 Ac In/Ac |  |  |  |  
+|  | Q3 Ac In/Ac |  |  |  |  
+|  | Q4 2.0 Ac In/Ac | 87.4 | 61.2 | 154.3 |  
+| Well Water | Ac In/Ac |  |  |  |  
+| Canal | 52.7 Ac In/Ac | 141.6 |  |  |  
+| Atm. Depos. | Yes | 7.0 |  |  |  
+| S. Planting | 6/29/23 |  |  |  |  
+| S. Harvest | 10/16/23 | 21.5 T/Ac | (183.5) | (77.2) | (212.1) |
+
+Nutrient Applications
+
+Field Name/Number: 5  
+Acres: 76.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 11/1/22 | W. Manure App. | 13.82 | | | | | 115.1 | 146.4 | 597.4 | | | | |  
+| 11/11/22 | W. Planting | | | | | | | | | | | | |  
+| 12/11/22 | 5-Fred's Well | | | | | | | | | | | | |  
+| 12/11/22 | Process Water | | | | | | | | | | | | |  
+| 2/3/23 | 5-Fred's Well | | | | 5.15 | 1.80 | 96.6 | 23.5 | 159.2 | 385 | | | |  
+| 2/3/23 | Process Water | | | | | | | | | 1,053 | | | |  
+| 4/22/23 | 5-Fred's Well | | | | 5.23 | 1.83 | 98.2 | 23.9 | 161.9 | 392 | | | |  
+| 5/24/23 | W. Harvest | | | | 6.19 | | 11.8 | (91.9) | (434.0) | 1,071 | 8.97 | | 24.93 |  
+| 6/2/23 | 5-Fred's Well | | | | 6.13 | | 11.7 | | | 463 | | | |  
+| 6/20/23 | S. Planting | | | | | | | | | 459 | | | |  
+| 7/7/23 | 5-Fred's Well | | | | 6.25 | | 11.9 | | | 468 | | | |  
+| 7/26/23 | 5-Fred's Well | | | | 5.20 | | 9.9 | | | 389 | | | |  
+| 7/26/23 | Process Water | | | | | 1.82 | 78.9 | 24.1 | 116.0 | 1,474 | | | |  
+| 8/13/23 | 5-Fred's Well | | | | 6.08 | | 11.6 | | | 455 | | | |  
+| 9/1/23 | 5-Fred's Well | | | | 5.26 | | 10.0 | | | 394 | | | |  
+| 9/1/23 | Process Water | | | | | 1.84 | 79.8 | 24.4 | 117.3 | 1,490 | | | |  
+| 9/22/23 | 5-Fred's Well | | | | 6.16 | | 11.7 | | | 461 | | | |  
+| 10/18/23 | S. Harvest | | | | | | (209.2) | (42.5) | (227.4) | | 11.20 | | 24.53 |  
+| Totals: | | 13.8 | 0 | | 51.66 | 7.30 | (51) | 108 | 490 | 8,954 | 20.17 | 0 | 49.47 |
+
+Field Name/Number: 5
+
+Acres: 76.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 567.0 | 105.7 | 956.1 | 8954.4 |  
+| Nutrients Removed at Harvest | -617.8 | -58.6 | -549.1 | 0.0 |  
+| Nutrient Balance | -50.8 | 47.1 | 407.0 | 8954.4 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.85 Summer Nitrogen Crop App / Use Ratio: 1.11
+
+Field Name/Number: 5 Acres: 76
+
+Winter Crop Wheat, Silage
+
+Nutrient Summary:
+
+| | Applied | N | P | K |  
+|---|---|---|---|---|   
+| W. Manure App. | 13.8 T/Ac | 115.1 | 335.3 | 716.9 |  
+| W. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q1 3.6 Ac In/Ac | 194.8 | 108.6 | 385.4 |  
+| | Q2 Ac In/Ac | | | |  
+| Well Water | 16.6 Ac In/Ac | 31.5 | | |  
+| Canal | Ac In /Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| W. Planting | 11/11/22 | | | |  
+| W. Harvest | 5/24/23 | 24.9 T/Ac | (408.5) | (210.5) | (520.9) |
+
+Summer Crop Corn, Silage
+
+Nutrient Summary:
+
+| | Applied | N | P | K |  
+|---|---|---|---|---|   
+| S. Manure App. | T/Ac | | | |  
+| S. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q2 Ac in /Ac | | | |  
+| | Q3 3.7 Ac In/Ac | 158.7 | 111.0 | 280.0 |  
+| | Q4 Ac In/Ac | | | |  
+| Well Water | 35.1 Ac In/Ac | 66.8 | | |  
+| Canal | Ac In /Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| S. Planting | 6/20/23 | | | |  
+| S. Harvest | 10/18/23 | 24.5 T/Ac | (209.2) | (97.2) | (272.9) |
+
+Field Name/Number: 6  
+Nutrient Applications  
+Acres: 76.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 11/1/22 | W. Manure App. | 13.16 | - | - | - | - | 109.6 | 139.4 | 568.9 | - | - | - | - |  
+| 11/8/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 12/12/22 | 6-Gray Well | - | - | - | 5.27 | 1.94 | 104.2 | 25.4 | 171.8 | 179 | - | - | - |  
+| 12/12/22 | Process Water | - | - | - | - | - | 2.4 | - | - | 1,137 | - | - | - |  
+| 2/20/23 | 6-Gray Well | - | - | - | 5.33 | 1.96 | 105.3 | 25.6 | 173.6 | 181 | - | - | - |  
+| 2/20/23 | Process Water | - | - | - | - | - | 2.4 | - | - | 1,149 | - | - | - |  
+| 5/3/23 | 6-Gray Well | - | - | - | 6.13 | - | 2.8 | - | - | 209 | - | - | - |  
+| 5/24/23 | W. Harvest | - | - | - | - | - | (373.1) | (81.9) | (402.6) | - | 8.97 | 24.25 | - |  
+| 6/1/23 | S. Manure App. | 10.53 | - | - | - | - | 92.6 | 142.5 | 342.6 | - | - | - | - |  
+| 6/7/23 | 6-Gray Well | - | - | - | 6.21 | - | 2.8 | - | - | 211 | - | - | - |  
+| 6/28/23 | S. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 7/9/23 | 6-Gray Well | - | - | - | 6.35 | - | 2.9 | - | - | 216 | - | - | - |  
+| 7/27/23 | 6-Gray Well | - | - | - | 5.25 | - | 2.4 | - | - | 178 | - | - | - |  
+| 7/27/23 | Process Water | - | - | - | - | 1.93 | 83.7 | 25.6 | 123.1 | 1,565 | - | - | - |  
+| 8/13/23 | 6-Gray Well | - | - | - | 6.27 | - | 2.8 | - | - | 213 | - | - | - |  
+| 8/29/23 | 6-Gray Well | - | - | - | 5.30 | - | 2.4 | - | - | 180 | - | - | - |  
+| 8/29/23 | Process Water | - | - | - | - | 1.95 | 84.6 | 25.9 | 124.4 | 1,581 | - | - | - |  
+| 9/19/23 | 6-Gray Well | - | - | - | 6.32 | - | 2.9 | - | - | 215 | - | - | - |  
+| 10/17/23 | S. Harvest | - | - | - | - | - | (231.1) | (51.7) | (193.2) | - | 11.20 | 25.37 | - |
+
+Totals: 23.7 | 0 | 52.44 | 7.79 | (0) | 251 | 909 | 7,215 | 20.17 | 0 | 49.62 |
+
+Field Name/Number: 6
+
+Acres: 76.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K Lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 604.0 | 167.8 | 1248.9 | 7214.5 |  
+| Nutrients Removed at Harvest | -604.2 | -58.3 | -494.6 | 0.0 |  
+| Nutrient Balance | -0.2 | 109.4 | 754.3 | 7214.5 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.89 Summer Nitrogen Crop App / Use Ratio: 1.23
+
+Field Name/Number: 6
+
+Acres: 76
+
+Winter Crop: Wheat, Silage
+
+| Nutrient Summary | Applied | N | | |  
+|---|---|---|---|---|   
+| W. Manure App. | 13.2 T/Ac | 109.6 | 319.3 | 682.7 |  
+| W. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q1 | 3.9 Ac In/Ac | 209.6 | 116.8 | 414.5 |  
+| | Q2 | Ac In /Ac | | | |  
+| Well Water | 16.7 Ac In/Ac | 7.6 | | |  
+| Canal | Ac In /Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| W. Planting | 11/8/22 | | | |  
+| W. Harvest | 5/24/23 | 24.3 T/Ac | (373.1) | (187.5) | (483.2) |
+
+Summer Crop: Corn, Silage
+
+| Nutrient Summary | Applied | N | | |  
+|---|---|---|---|---|   
+| S. Manure App. | 10.5 T/Ac | 92.6 | 326.4 | 411.2 |  
+| S. Comm Fert App. | lbs/Ac | | | |  
+| Process Water | Q2 | Ac In /Ac | | | |  
+| | Q3 | 3.9 Ac In/Ac | 168.4 | 117.8 | 297.1 |  
+| | Q4 | Ac In /Ac | | | |  
+| Well Water | 35.7 Ac in /Ac | 16.2 | | |  
+| Canal | Ac in /Ac | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| S. Planting | 6/28/23 | | | |  
+| S. Harvest | 10/17/23 | 25.4 T/Ac | (231.1) | (118.5) | (231.8) |
+
+Nutrient Applications
+
+Field Name/Number:	9-10.	Acres:	74.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 11/1/22 | W. Manure App. | 10.14 | | | | | 84.4 | 107.4 | 438.2 | | | | |  
+| 11/7/22 | W. Planting | | | | | | | | | | | | |  
+| 12/14/22 | 3-Cherry | | | | | | 7.6 | | | 323 | | | |  
+| 12/14/22 | Process Water | | | | 5.40 | 1.89 | 101.4 | 24.7 | 167.2 | 1,106 | | | |  
+| 2/11/23 | 3-Cherry | | | | | | 7.4 | | | 316 | | | |  
+| 2/11/23 | Process Water | | | | 5.28 | 1.85 | 99.2 | 24.2 | 163.5 | 1,082 | | | |  
+| 4/6/23 | 3-Cherry | | | | | | 8.8 | | | 375 | | | |  
+| 5/23/23 | W. Harvest | | | | 6.27 | | (291.7) | (53.2) | (321.3) | | 8.97 | 24.10 | |  
+| 6/1/23 | S. Manure App. | 10.14 | | | | | 89.2 | 137.2 | 329.9 | | | | |  
+| 6/10/23 | 3-Cherry | | | | 6.45 | | 9.1 | | | 386 | | | |  
+| 6/25/23 | S. Planting | | | | | | | | | | | | |  
+| 7/8/23 | 3-Cherry | | | | 6.33 | | 8.9 | | | 379 | | | |  
+| 7/24/23 | 3-Cherry | | | | 5.34 | | 7.5 | | | 320 | | | |  
+| 7/24/23 | Process Water | | | | | 1.87 | 81.0 | 24.8 | 119.1 | 1,514 | | | |  
+| 8/9/23 | 3-Cherry | | | | 6.24 | | 8.8 | | | 374 | | | |  
+| 8/24/23 | 3-Cherry | | | | 5.37 | | 7.6 | | | 322 | | | |  
+| 8/24/23 | Process Water | | | | | 1.88 | 81.5 | 24.9 | 119.8 | 1,522 | | | |  
+| 9/18/23 | 3-Cherry | | | | 6.12 | | 8.6 | | | 366 | | | |  
+| 10/14/23 | S. Harvest | | | | | | (253.8) | (46.4) | (228.9) | | 11.20 | 26.67 | |  
+| Totals: | 20.3 | | 0 | 52.81 | 7.49 | 66 | 243 | 788 | 8,386 | 20.17 | 0 | 50.77 |
+
+Field Name/Number: 9-10. Acres: 74.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 611.0 | 149.7 | 1110.5 | 8385.7 |  
+| Nutrients Removed at Harvest | -545.5 | -43.5 | -456.7 | 0.0 |  
+| Nutrient Balance | 65.5 | 106.3 | 653.8 | 8385.7 |
+
+Winter Nitrogen Crop App / Use Ratio: 1.08 Summer Nitrogen Crop App / Use Ratio: 1.22
+
+Field Name/Number: 9-10. Acres: 74
+
+Winter Crop: Wheat, Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|   
+| W. Manure App. | 10.1 T/Ac | 84.4 | 245.9 | 525.9 |  
+| W. Comm Fert App. | lbs/Ac | - | - | - |  
+| Process Water | 3.7 Ac In/Ac | 200.7 | 111.9 | 396.9 |  
+|  | Ac In/Ac | - | - | - |  
+| Well Water | 17.0 Ac In/Ac | 23.8 | - | - |  
+| Canal | Ac In/Ac | - | - | - |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| W. Planting | 11/7/22 | | | |  
+| W. Harvest | 5/23/23 | 24.1 T/Ac | (291.7) | (121.9) | (385.5) |
+
+Summer Crop: Corn, Silage
+
+| Nutrient Summary | Applied | N | P | K |  
+|---|---|---|---|---|  
+| S. Manure App. | 10.1 T/Ac | 89.2 | 314.3 | 395.9 |  
+| S. Comm Fert App. | lbs/Ac | - | - | - |  
+| Process Water | 3.8 Ac In/Ac | 162.5 | 113.7 | 286.8 |  
+| | Ac In/Ac |  |  |  |  
+| Well Water | 35.9 Ac In/Ac | 50.4 | - | - |  
+| Canal | Ac In/Ac | - | - | - |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| S. Planting | 6/25/23 | | | |  
+| S. Harvest | 10/14/23 | 26.7 T/Ac | (253.8) | (106.4) | (274.7) |
+
+Nutrient Applications  
+Field Name/Number: 2A (8 Ball) Acres: 78.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 4/3/23 | W. Comm Fert App. | - | - | 80 | - | - | 80.0 | - | - | - | - | - | - |  
+| 11/4/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 12/13/22 | Canal | - | - | - | 6.29 | - | 0.0 | - | - | - | - | - | - |  
+| 2/6/23 | Canal | - | - | - | 6.15 | - | 0.0 | - | - | - | - | - | - |  
+| 4/3/23 | Canal | - | - | - | 6.39 | - | 0.0 | - | - | - | - | - | - |  
+| 5/8/23 | Canal | - | - | - | 6.22 | - | 0.0 | - | - | - | - | - | - |  
+| 6/15/23 | W. Harvest | - | - | - | - | - | (151.5) | (10.1) | (69.6) | - | - | - | - |  
+| - | S. Fallow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - |  
+| Totals: | - | 0.0 | - | 80 | 25.05 | 0.00 | (71) | (10) | (70) | - | 8.97 | 0 | 4.11 |
+
+Field Name/Number: 2A (8 Ball) Acres: 78.00
+
+Nutrients Applied Total N (lbs/ac) Total P (lbs/ac) Total K (lbs/ac) Total Salts (lbs/ac)  
+80.1 0.0 0.0 0.0  
+Nutrients Removed at Harvest -151.5 -4.4 -57.8 0.0  
+Nutrient Balance -71.5 -4.4 -57.8 0.0
+
+Winter Nitrogen Crop App / Use Ratio: 1.10 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 2A (8 Ball) Acres: 78
+
+Winter Crop Wheat, Baled  
+Nutrient Summary:  
+Applied N  
+W. Manure App. 80.0 T/Ac 80.0  
+W. Comm Fert App. lbs/Ac  
+Process Water Q1 Ac In/Ac  
+Q2 Ac In/Ac  
+Well Water Ac In/Ac 80.0  
+Canal 25.0 Ac In/Ac 0.1  
+Atm. Depos. Yes 7.0  
+W. Planting 11/4/22  
+W. Harvest 6/15/23 4.1 T/Ac (151.5) (23.0) (83.5)
+
+Summer Crop S. Fallow  
+Nutrient Summary:  
+Applied N  
+S. Manure App. T/Ac  
+S. Comm Fert App. lbs/Ac  
+Process Water Q2 Ac In/Ac  
+Q3 Ac In/Ac  
+Q4 Ac In/Ac  
+Well Water Ac In/Ac  
+Canal Ac In/Ac  
+Atm. Depos. Yes 7.0  
+S. Planting #N/A  
+S. Harvest #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications  
+Field Name/Number: 2B (8 Ball Lease) Acres: 78.00  
+Dry Manure Fresh Lagoon Lab Sample Data Yield  
+Applied Water Water Expected  
+Date Event / Source (tons/ac) Moist.% Chem Fert Applied Applied Total P Total K Salt TFS % Yield Actual Yield  
+total lbs (ac-in/ac) (ac-in/ac) N (lbs/Ac) (lbs/Ac) (lbs/Ac) (Lbs/Ac) (tons/ac) (tons/ac)  
+W. Fallow - - - - - - - - - - - -  
+5. Fallow - - - - - - - - - - - -  
+Totals: 0.0 0 0.00 0.00 0.00 0 0.00
+
+Field Name/Number: 2B (8 Ball Lease) Acres: 78.00
+
+Nutrients Applied Total N (lbs/ac) Total P (lbs/ac) Total K Lbs/ac) Total Salts (lbs/ac) 0.0 0.0 0.0 0.0  
+Nutrients Removed at Harvest 0.0 0.0 0.0 0.0  
+Nutrient Balance 0.0 0.0 0.0 0.0
+
+Winter Nitrogen Crop App / Use Ratio: #N/A  
+Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 2B (8 Ball Lease) Acres: 78
+
+Winter Crop W. Fallow  
+Nutrient Summary:  
+W. Manure App. Applied N T/Ac  
+W. Comm Fert App. lbs/Ac  
+Process Water Q1 Ac In/Ac  
+Q2 Ac In/Ac  
+Well Water Ac In /Ac  
+Canal Ac In /Ac  
+Atm. Depos. Yes 7.0  
+W. Planting #N/A  
+W. Harvest 1/1/2000 #N/A T/Ac #N/A #N/A #N/A
+
+Summer Crop S. Fallow  
+Nutrient Summary:  
+S. Manure App. Applied N T/Ac  
+S. Comm Fert App. lbs/Ac  
+Process Water Q2 Ac In /Ac  
+Q3 Ac In/Ac  
+Q4 Ac In /Ac  
+Well Water Ac In /Ac  
+Canal Ac In/Ac  
+Atm. Depos. Yes 7.0  
+S. Planting #N/A  
+S. Harvest - #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications
+
+Field Name/Number: 3B (8 Ball) Acres: 78.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 4/10/23 | W. Comm Fert App. | - | - | 100 | - | - | 100.0 | - | - | - | - | - | - |  
+| 11/6/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 12/20/22 | Canal | - | - | - | 6.25 | - | 0.0 | - | - | - | - | - | - |  
+| 2/13/23 | Canal | - | - | - | 6.39 | - | 0.0 | - | - | - | - | - | - |  
+| 4/10/23 | Canal | - | - | - | 6.15 | - | 0.0 | - | - | - | - | - | - |  
+| 5/15/23 | Canal | - | - | - | 6.22 | - | 0.0 | - | - | - | - | - | - |  
+| 6/16/23 | W. Harvest | - | - | - | - | - | (180.9) | (10.6) | (85.2) | - | 8.97 | - | 4.04 |  
+| - | S. Fallow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| Totals: |  | 0.0 |  | 100 | 25.02 | 0.00 | (81) | (11) | (85) | - | 8.97 | 0 | 4.04 |
+
+Field Name/Number: 3B (8 Ball) Acres: 78.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 100.1 | 0.0 | 0.0 | 0.0 |  
+| Nutrients Removed at Harvest | -180.9 | -4.6 | -70.7 | 0.0 |  
+| Nutrient Balance | -80.8 | -4.6 | -70.7 | 0.0 |
+
+Winter Nitrogen Crop App / Use Ratio: 1.14 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 3B (8 Ball) Acres: 78
+
+Winter Crop Wheat, Baled
+
+| Nutrient Summary | Applied | N | | |   
+|---|---|---|---|---|   
+| W. Manure App. | | | | |  
+| W. Comm Fert App. | 100.0 lbs/Ac | 100.0 | | |  
+| Process Water | Q1 | | | |  
+| | Q2 | | | |  
+| Well Water | | | | |  
+| Canal | 25.0 Ac In/Ac | 0.1 | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| W. Planting | 11/6/22 | | | |  
+| W. Harvest | 6/16/23 | 4.0 T/Ac | (180.9) | (24.2) | (102.2) |
+
+Summer Crop S. Fallow
+
+| Nutrient Summary | Applied | N | | |  
+|---|---|---|---|---|   
+| S. Manure App. | | | | |  
+| S. Comm Fert App. | | | | |  
+| Process Water | Q2 | | | |  
+| | Q3 | | | |  
+| | Q4 | | | |  
+| Well Water | | | | |  
+| Canal | | | | |  
+| Atm. Depos. | Yes | 7.0 | | |  
+| S. Planting | #N/A | | | |  
+| S. Harvest | - | #N/A | #N/A | #N/A | #N/A |
+
+Nutrient Applications
+
+Field Name/Number: 35 (8 Ball) Acres: 78.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | Lab Sample Data | Expected Yield | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|   
+| | | | | | | | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Yield (tons/ac) |  
+| 11/1/22 | W. Manure App. | 10.26 | | | | | 85.4 | 108.7 | 443.5 | | | |  
+| 11/4/22 | W. Planting | | | | | | | | | | | |  
+| 12/6/22 | Canal | | | | 6.36 | | 0.0 | | | | | |  
+| 1/30/23 | Canal | | | | 6.29 | | 0.0 | | | | | |  
+| 3/27/23 | Canal | | | | 6.19 | | 0.0 | | | | | |  
+| 5/1/23 | Canal | | | | 6.39 | | 0.0 | | | | | |  
+| 6/16/23 | W. Harvest | | | | | | (82.1) | (4.5) | (33.7) | | 8.97 | 2.02 |  
+| | S. Fallow | | | | | | | | | | | |  
+| Totals: | 10.3 | | 0 | 25.22 | 0.00 | 3 | 104 | 410 | | 8.97 | 0 | 2.02 |
+
+Field Name/Number: 3S (8 Ball) Acres: 78.00
+
+Nutrients Applied Total N (lbs/ac) Total P (lbs/ac) Total K (lbs/ac) Total Salts (lbs/ac)  
+85.5 47.4 368.1 0.0  
+Nutrients Removed at Harvest -82.1 -2.0 -28.0 0.0  
+Nutrient Balance 3.4 45.4 340.2 0.0
+
+Winter Nitrogen Crop App / Use Ratio: 1.13 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 3S (8 Ball) Acres: 78
+
+Winter Crop Wheat, Baled  
+Nutrient Summary: Applied N  
+W. Manure App. 10.3 T/Ac 85.4 248.9 532.2  
+W. Comm Fert App. lbs/Ac  
+Process Water Q1 Ac In/Ac  
+Q2 Ac In/Ac  
+Well Water Ac In/Ac  
+Canal 25.2 Ac In/Ac 0.1  
+Atm. Depos. Yes 7.0  
+W. Planting 11/4/22  
+W. Harvest 6/16/23 2.0 T/Ac (82.1) (10.4) (40.4)
+
+Summer Crop S. Fallow  
+Nutrient Summary: Applied N  
+S. Manure App. T/Ac  
+S. Comm Fert App. lbs/Ac  
+Process Water Q2 Ac In/Ac  
+Q3 Ac In/Ac  
+Q4 Ac In/Ac  
+Well Water Ac In/Ac  
+Canal Ac In/Ac  
+Atm. Depos. Yes 7.0  
+S. Planting #N/A  
+S. Harvest #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications  
+Field Name/Number: 4A (8 Ball) Acres: 78.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 4/17/23 | W. Comm Fert App. | - | - | 80 | - | - | 80.0 | - | - | - | - | - | - |  
+| 11/6/22 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 12/27/22 | Canal | - | - | - | 6.32 | - | 0.0 | - | - | - | - | - | - |  
+| 2/20/23 | Canal | - | - | - | 6.22 | - | 0.0 | - | - | - | - | - | - |  
+| 4/17/23 | Canal | - | - | - | 6.42 | - | 0.0 | - | - | - | - | - | - |  
+| 5/22/23 | Canal | - | - | - | 6.12 | - | 0.0 | - | - | - | - | - | - |  
+| 6/15/23 | W. Harvest | - | - | - | - | - | (137.2) | (8.0) | (57.9) | - | 8.97 | - | 3.55 |  
+| S. Fallow | - | - | - | - | - | - | - | - | - | - | - | - |  
+| Totals: |  | 0.0 |  | 80 | 25.08 |  | 0.00 | (57) | (8) | (58) | - | 8.97 | 0 | 3.55 |
+
+Field Name/Number: 4A (8 Ball) Acres: 78.00
+
+Nutrients Applied Total N (lbs/ac) Total P (lbs/ac) Total K Lbs/ac) Total Salts (lbs/ac)  
+80.1 0.0 0.0 0.0  
+Nutrients Removed at Harvest -137.2 -3.5 -48.1 0.0  
+Nutrient Balance -57.1 -3.5 -48.1 0.0
+
+Winter Nitrogen Crop App / Use Ratio: 1.22 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 4A (8 Ball) Acres: 78
+
+Winter Crop Wheat, Baled  
+Nutrient Summary: Applied N  
+W. Manure App. T/Ac  
+W. Comm Fert App. 80.0 lbs/Ac 80.0  
+Process Water Q1 Ac In/Ac  
+Q2 Ac In/Ac  
+Well Water Ac In/Ac 80.0  
+Canal 25.1 Ac In/Ac 0.1  
+Atm. Depos. Yes 7.0  
+W. Planting 11/6/22  
+W. Harvest 6/15/23 3.5 T/Ac (137.2) (18.3) (69.5)
+
+Summer Crop S. Fallow  
+Nutrient Summary: Applied N  
+S. Manure App. T/Ac  
+S. Comm Fert App. lbs/Ac  
+Process Water Q2 Ac In/Ac  
+Q3 Ac In/Ac  
+Q4 Ac In /Ac  
+Well Water Ac In/Ac  
+Canal Ac In/Ac  
+Atm. Depos. Yes 7.0  
+S. Planting #N/A  
+S. Harvest #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications  
+Field Name/Number: 45 (8 Ball Lease) Acres: 78.00  
+Lab Sample Data Yield  
+Dry Manure Fresh Lagoon Expected  
+Water Water Yield Actual Yield  
+Applied Chem Fert Applied Applied Total P Total K Salt TFS % (tons/ac) (tons/ac)  
+Date Event/Source (tons/ac) Moist.% total lbs (ac-in/ac) (ac-in/ac) N (lbs/Ac) (lbs/Ac) (lbs/Ac) (Lbs/Ac)  
+W. Fallow - - - - - - - - - - - -  
+S. Fallow - - - - - - - - - - - -  
+Totals: 0.0 0 0.00 0.00 0.00 0 0.00
+
+Field Name/Number: 4S (8 Ball Lease) Acres: 78.00
+
+| Nutrients | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 0.0 | 0.0 | 0.0 | 0.0 |  
+| Nutrients Removed at Harvest | 0.0 | 0.0 | 0.0 | 0.0 |  
+| Nutrient Balance | 0.0 | 0.0 | 0.0 | 0.0 |
+
+Winter Nitrogen Crop App / Use Ratio: #N/A  
+Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 4S (8 Ball Lease) Acres: 78
+
+Winter Crop W. Fallow
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|   
+| W. Manure App. | - | - |  
+| W. Comm Fert App. | - | - |  
+| Process Water | Q1 | - |  
+|  | Q2 | - |  
+| Well Water | - | - |  
+| Canal | - | - |  
+| Atm. Depos. | Yes | 7.0 |  
+| W. Planting | #N/A | - |  
+| W. Harvest | 1/1/2000 | #N/A |  
+|  |  | #N/A |  
+|  |  | #N/A |  
+|  |  | #N/A |
+
+Summer Crop S. Fallow
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|   
+| S. Manure App. | - | - |  
+| S. Comm Fert App. | - | - |  
+| Process Water | Q2 | - |  
+|  | Q3 | - |  
+|  | Q4 | - |  
+| Well Water | - | - |  
+| Canal | - | - |  
+| Atm. Depos. | Yes | 7.0 |  
+| S. Planting | #N/A | - |  
+| S. Harvest | - | #N/A |  
+|  |  | #N/A |  
+|  |  | #N/A |  
+|  |  | #N/A |
+
+Nutrient Applications
+
+Field Name/Number: 7  
+Acres: 36.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 1/1/16 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 3/4/23 | 1-Griffith | - | - | - | 1.81 | - | 1.6 | - | - | 84 | - | - | - |  
+| 4/11/23 | 1-Griffith | - | - | - | 2.97 | - | 2.7 | - | - | 138 | - | - | - |  
+| 5/7/23 | 1-Griffith | - | - | - | 6.53 | - | 5.9 | - | - | 302 | - | - | - |  
+| 6/3/23 | 1-Griffith | - | - | - | 6.82 | - | 6.2 | - | - | 316 | - | - | - |  
+| 7/10/23 | 1-Griffith | - | - | - | 7.23 | - | 6.6 | - | - | 334 | - | - | - |  
+| 8/6/23 | 1-Griffith | - | - | - | 6.30 | - | 5.7 | - | - | 291 | - | - | - |  
+| 9/1/23 | 1-Griffith | - | - | - | 4.72 | - | 4.3 | - | - | 218 | - | - | - |  
+| 10/13/23 | 1-Griffith | - | - | - | 2.92 | - | 2.6 | - | - | 135 | - | - | - |  
+| 11/1/23 | W. Harvest | - | - | - | - | - | (227.5) | (87.5) | (297.5) | - | 8.97 | 1.75 | - |  
+| Totals: | | 0.0 | 0 | 39.29 | 0.00 | - | (192) | (88) | (298) | 1,818 | 8.97 | 0 | 1.75 |
+
+Field Name/Number: 7
+
+Acres: 36.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 35.6 | 0.0 | 0.0 | 1817.7 |  
+| Nutrients Removed at Harvest | -227.5 | -38.2 | -247.0 | 0.0 |  
+| Nutrient Balance | -191.9 | -38.2 | -247.0 | 1817.7 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.19
+
+Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 7
+
+Acres: 36
+
+Winter Crop Trees, Almonds
+
+Nutrient Summary: Applied N
+
+W. Manure App. T/Ac
+
+W. Comm Fert App. lbs/Ac
+
+Process Water Q1 Ac In/Ac
+
+Q2 Ac In/Ac
+
+Well Water 39.3 Ac In/Ac 35.6
+
+Canal Ac In/Ac
+
+Atm. Depos. Yes 7.0
+
+W. Planting 1/1/16
+
+W. Harvest 11/1/23 1.8 T/Ac (227.5) (200.4) (357.0)
+
+Summer Crop Trees, Almonds
+
+Nutrient Summary: Applied N
+
+S. Manure App. T/Ac
+
+S. Comm Fert App. lbs/Ac
+
+Process Water Q2 Ac In/Ac
+
+Q3 Ac In/Ac
+
+Q4 Ac In/Ac
+
+Well Water Ac In/Ac
+
+Canal Ac In/Ac
+
+Atm. Depos. #N/A #N/A
+
+S. Planting #N/A
+
+S. Harvest #N/A #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications
+
+Field Name/Number: 8  
+Acres: 37.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 1/1/16 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 3/4/23 | 1-Griffith | - | - | - | 1.82 | - | 1.6 | - | - | 84 | - | - | - |  
+| 4/11/23 | 1-Griffith | - | - | - | 2.95 | - | 2.7 | - | - | 136 | - | - | - |  
+| 5/7/23 | 1-Griffith | - | - | - | 6.52 | - | 5.9 | - | - | 302 | - | - | - |  
+| 6/3/23 | 1-Griffith | - | - | - | 6.81 | - | 6.2 | - | - | 315 | - | - | - |  
+| 7/10/23 | 1-Griffith | - | - | - | 7.20 | - | 6.5 | - | - | 333 | - | - | - |  
+| 8/6/23 | 1-Griffith | - | - | - | 6.30 | - | 5.7 | - | - | 291 | - | - | - |  
+| 9/1/23 | 1-Griffith | - | - | - | 4.71 | - | 4.3 | - | - | 218 | - | - | - |  
+| 10/13/23 | 1-Griffith | - | - | - | 2.95 | - | 2.7 | - | - | 136 | - | - | - |  
+| 11/1/23 | W. Harvest | - | - | - | - | - | (227.5) | - | (87.5) | (297.5) | - | - | - |  
+| Totals: |  | 0.0 | 0 | 39.25 | 0.00 | (192) | (88) | (298) | 1,816 | 8.97 | 0 | 1.75 |
+
+Field Name/Number: 8
+
+Acres: 37.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K Lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 35.6 | 0.0 | 0.0 | 1815.8 |  
+| Nutrients Removed at Harvest | -227.5 | -38.2 | -247.0 | 0.0 |  
+| Nutrient Balance | -191.9 | -38.2 | -247.0 | 1815.8 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.19
+
+Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 8
+
+Acres: 37
+
+Winter Crop Trees, Almonds
+
+Nutrient Summary:
+
+| | Applied | N |  
+|---|---|---|   
+| W. Manure App. | | |  
+| W. Comm Fert App. | | |  
+| Process Water | | |  
+| Q1 | | |  
+| Q2 | | |  
+| Well Water | | |  
+| Canal | 39.3 Ac In/Ac | 35.6 |  
+| Atm. Depos. | | |  
+| W. Planting | 1/1/16 | Yes 7.0 |  
+| W. Harvest | 11/1/23 | 1.8 T/Ac (227.5) (200.4) (357.0) |
+
+Summer Crop Trees, Almonds
+
+Nutrient Summary:
+
+| | Applied | N |  
+|---|---|---|  
+| S. Manure App. | | |  
+| S. Comm Fert App. | | |  
+| Process Water | | |  
+| Q2 | | |  
+| Q3 | | |  
+| Q4 | | |  
+| Well Water | | |  
+| Canal | | |  
+| Atm. Depos. | #N/A | #N/A |  
+| S. Planting | #N/A | #N/A |  
+| S. Harvest | #N/A | #N/A #N/A #N/A |
+
+Nutrient Applications
+
+Field Name/Number: 11 Acres: 3.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 1/1/05 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 3/11/23 | Canal | - | - | - | 1.86 | - | 0.0 | - | - | - | - | - | - |  
+| 4/3/23 | Canal | - | - | - | 3.00 | - | 0.0 | - | - | - | - | - | - |  
+| 5/10/23 | Canal | - | - | - | 6.54 | - | 0.0 | - | - | - | - | - | - |  
+| 6/5/23 | Canal | - | - | - | 6.80 | - | 0.0 | - | - | - | - | - | - |  
+| 7/8/23 | Canal | - | - | - | 7.25 | - | 0.0 | - | - | - | - | - | - |  
+| 8/1/23 | Canal | - | - | - | 6.27 | - | 0.0 | - | - | - | - | - | - |  
+| 9/4/23 | Canal | - | - | - | 4.77 | - | 0.0 | - | - | - | - | - | - |  
+| 10/12/23 | Canal | - | - | - | 2.92 | - | 0.0 | - | - | - | - | - | - |  
+| 11/1/23 | W. Harvest | - | - | - | - | - | (227.5) | (87.5) | (297.5) | - | - | - | 1.75 |  
+| Totals: | | 0.0 | 0 | 39.41 | 0.00 |  | (227) | (88) | (298) | - | 0.00 | 0 | 1.75 |
+
+Dry Weight  
+As Received
+
+Field Name/Number: 11 Acres: 3
+
+Nutrients Applied Total N (lbs/ac) Total P (lbs/ac) Total K Lbs/ac) Total Salts (lbs/ac)  
+0.1 0.0 0.0 0.0  
+Nutrients Removed at Harvest -227.5 -87.5 -297.5 0.0  
+Nutrient Balance -227.4 -87.5 -297.5 0.0
+
+Winter Nitrogen Crop App / Use Ratio: 0.03 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 11 Acres: 3
+
+Winter Crop Trees, Almonds  
+Nutrient Summary: Applied N  
+W. Manure App. T/Ac   
+W. Comm Fert App. lbs/Ac   
+Process Water Q1 Ac In/Ac   
+Q2 Ac In /Ac   
+Well Water Ac In /Ac   
+Canal 39.4 Ac In/Ac 0.1  
+Atm. Depos. Yes 7.0  
+W. Planting 1/1/05   
+W. Harvest 11/1/23 1.8 T/Ac (227.5) (200.4) (357.0)
+
+Summer Crop Trees, Almonds  
+Nutrient Summary: Applied N  
+S. Manure App. T/Ac   
+S. Comm Fert App. lbs/Ac   
+Process Water Q2 Ac in /Ac   
+Q3 Ac In/Ac   
+Q4 Ac in /Ac   
+Well Water Ac In/Ac   
+Canal Ac in /Ac 0  
+Atm. Depos. #N/A #N/A  
+S. Planting #N/A #N/A  
+S. Harvest #N/A #N/A T/Ac #N/A #N/A #N/A
+
+Nutrient Applications
+
+Field Name/Number: 12  
+Acres: 3.00
+
+| Date | Event/Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS % | Expected Yield (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 1/1/05 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 3/11/23 | Canal | - | - | - | 1.86 | - | 0.0 | - | - | - | - | - | - |  
+| 4/3/23 | Canal | - | - | - | 3.00 | - | 0.0 | - | - | - | - | - | - |  
+| 5/10/23 | Canal | - | - | - | 6.54 | - | 0.0 | - | - | - | - | - | - |  
+| 6/5/23 | Canal | - | - | - | 6.80 | - | 0.0 | - | - | - | - | - | - |  
+| 7/8/23 | Canal | - | - | - | 7.25 | - | 0.0 | - | - | - | - | - | - |  
+| 8/1/23 | Canal | - | - | - | 6.27 | - | 0.0 | - | - | - | - | - | - |  
+| 9/4/23 | Canal | - | - | - | 4.77 | - | 0.0 | - | - | - | - | - | - |  
+| 10/12/23 | Canal | - | - | - | 2.92 | - | 0.0 | - | - | - | - | - | - |  
+| 11/1/23 | W. Harvest | - | - | - | - | - | (227.5) | (87.5) | (297.5) | - | - | 1.75 | - |  
+| Totals: |  | 0.0 |  | 0 | 39.41 |  | 0.00 | (227) | (88) | (298) | 0.00 | 0 | 1.75 |
+
+Field Name/Number: 12
+
+Acres: 3.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Applied | 0.1 | 0.0 | 0.0 | 0.0 |  
+| Nutrients Removed at Harvest | -227.5 | -38.2 | -247.0 | 0.0 |  
+| Nutrient Balance | -227.4 | -38.2 | -247.0 | 0.0 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.03 Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 12 Acres: 3
+
+Winter Crop Trees, Almonds
+
+Nutrient Summary:
+
+| | Applied | N |  
+|---|---|---|   
+| W. Manure App. | | |  
+| W. Comm Fert App. | | |  
+| Process Water | | |  
+| Q1 | | |  
+| Q2 | | |  
+| Well Water | | |  
+| Canal | 39.4 | 0.1 |  
+| Atm. Depos. | Yes | 7.0 |  
+| W. Planting | 1/1/05 | |  
+| W. Harvest | 11/1/23 | |  
+| | 1.8 | (227.5) (200.4) (357.0) |
+
+Summer Crop Trees, Almonds
+
+Nutrient Summary:
+
+| | Applied | N |  
+|---|---|---|  
+| S. Manure App. | | |  
+| S. Comm Fert App. | | |  
+| Process Water | | |  
+| Q2 | | |  
+| Q3 | | |  
+| Q4 | | |  
+| Well Water | | |  
+| Canal | | |  
+| Atm. Depos. | #N/A | #N/A |  
+| S. Planting | #N/A | #N/A |  
+| S. Harvest | #N/A | #N/A |  
+| | | #N/A #N/A #N/A |
+
+Nutrient Applications  
+Field Name/Number: 8 Ball-1 Acres: 155.00
+
+| Date | Event / Source | Dry Manure Applied (tons/ac) | Moist. % | Chem Fert total lbs | Fresh Water Applied (ac-in/ac) | Lagoon Water Applied (ac-in/ac) | N (lbs/Ac) | Total P (lbs/Ac) | Total K (lbs/Ac) | Salt (Lbs/Ac) | TFS | Expected Yield % (tons/ac) | Actual Yield (tons/ac) |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| 1/1/11 | W. Planting | - | - | - | - | - | - | - | - | - | - | - | - |  
+| 3/20/23 | Canal | - | - | - | 1.11 | - | 0.0 | - | - | - | - | - | - |  
+| 4/15/23 | Canal | - | - | - | 1.13 | - | 0.0 | - | - | - | - | - | - |  
+| 5/22/23 | Canal | - | - | - | 2.62 | - | 0.0 | - | - | - | - | - | - |  
+| 6/18/23 | Canal | - | - | - | 5.99 | - | 0.0 | - | - | - | - | - | - |  
+| 7/14/23 | Canal | - | - | - | 8.28 | - | 0.0 | - | - | - | - | - | - |  
+| 8/19/23 | Canal | - | - | - | 7.10 | - | 0.0 | - | - | - | - | - | - |  
+| 9/10/23 | Canal | - | - | - | 5.35 | - | 0.0 | - | - | - | - | - | - |  
+| 10/20/23 | Canal | - | - | - | 2.74 | - | 0.0 | - | - | - | - | - | - |  
+| 11/1/23 | W. Harvest | - | - | - | - | - | (98.4) | (14.7) | (108.2) | - | - | - | 1.75 |  
+| Totals: |  | 0.0 | 0 | 34.31 | 0.00 |  | (98) | (15) | (108) | - | 0.00 | 0 | 1.75 |
+
+Field Name/Number: 8 Ball-1
+
+Acres: 155.00
+
+| Nutrients Applied | Total N (lbs/ac) | Total P (lbs/ac) | Total K (lbs/ac) | Total Salts (lbs/ac) |  
+|---|---|---|---|---|   
+| Nutrients Removed at Harvest | 0.1 | 0.0 | 0.0 | 0.0 |  
+| Nutrient Balance | -98.4 | -6.4 | -89.8 | 0.0 |
+
+Winter Nitrogen Crop App / Use Ratio: 0.07
+
+Summer Nitrogen Crop App / Use Ratio: #N/A
+
+Field Name/Number: 8 Ball-1
+
+Acres: 155
+
+Winter Crop: Trees, Pistachios
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|   
+| W. Manure App. | - | - |  
+| W. Comm Fert App. | - | - |  
+| Process Water | Q1 | - |  
+|  | Q2 | - |  
+| Well Water | - | - |  
+| Canal | 34.3 | 0.1 |  
+| Atm. Depos. | Yes | 7.0 |  
+| W. Planting | 1/1/11 |  |  
+| W. Harvest | 11/1/23 | (98.4) (33.7) (129.8) |
+
+Summer Crop: Trees, Pistachios
+
+| Nutrient Summary | Applied | N |  
+|---|---|---|   
+| S. Manure App. | - | - |  
+| S. Comm Fert App. | - | - |  
+| Process Water | Q2 | - |  
+|  | Q3 | - |  
+|  | Q4 | - |  
+| Well Water | - | - |  
+| Canal | - | - |  
+| Atm. Depos. | #N/A | #N/A |  
+| S. Planting | #N/A | #N/A |  
+| S. Harvest | #N/A | #N/A |
+
+Notes
+
+Without allowance for the significant amount of rainfall during the winter months of 2022/2023, the irrigation logs on each field page of the annual report, reflect canal and/or well used only during that time frame. The facility did not irrigate during the "Significant Storm Events".
+
+It is inaccurate to present "salt" application without acknowledging that there is substantial uptake and utilization of "salts" by crops. If it is possible to calculate "salt" application, it is also possible to calculate "salt" utilization. That calculation should be included in this report. To calculate "salt" utilization is a lengthy process and cannot be done with the constituents required in the Revised General Order sampling requirements.
+
+The signature(s) affixed to this report does not affirmatively refer to those references to "salt" that we know to be incorrect.
+
+_D_
+
+(Initial)
+
+Exception Reporting
+
+Manure, Process Water and Other Dairy Waste Discharges:  
+The following is a summary of all manure and process water discharges from the production area to surface water or to land areas (land application areas or otherwise) when not in accordance with the facility's Nutrient Management Plan.  
+No, manure or process water discharges occurred during the reporting period
+
+Storm Water Discharges:  
+The follow is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility's Nutrient Management Plan.  
+No, storm water discharges occurred during the reporting period
+
+Land Application Area To Surface Water Discharges:  
+The following is a summary of all discharges from the land application area surface water that have occurred during the reporting period when not in accordance with the facility's Nutrient  
+No, land application area to surface water discharges occurred during the reporting period
+
+Nutrient Management Plan (NMP) & Written Agreement Statement
+
+Nutrient Management Plan Statement:  
+Was the facility NMP updated in the reporting period? Yes  
+Was the facility's NMP developed and approved by a certified nutrient management specialist? No
+
+Written Agreements:  
+Are there any written agreements with third parties to receive manure or process water that are new or were revised within the reporting period? No
+
+Owner and/or Operator Certification
+
+*I certify under penalty of law that all information submitted as part of this document is accurate and true. Certification signatures by a California Registered Professional have been supplied as needed in Part II. I have personally examined and am familiar with the information submitted in Parts I and II of this document and all attachments and that, based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment.
+
+Signature of Owner of Facility
+
+Peter John & Agnes deJong  
+Print Name
+
+4-14-24  
+Date
+
+Signature of Operator of Facility
+
+Same as owner  
+Print Name
+
+Date
+
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
+
+Instructions:  
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave.           Shafter          93263  
+                                Number and Street     City        Zip Code  
+Contact Person Name: Pete De Jong                     559-449-1218  
+                      Name                           Phone Number
+
+Manure/Process Wastewater Hauler Information:  
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: P.O. Box 82553, Bakersfield    93380  
+                                   Number and Street             City        Zip Code  
+Contact Person: Jorgen Hundgren                       661 303-5737  
+                                       Name                           Phone Number
+
+Destination Information:  
+Composting Facility / Broker / Farmer / Other (Identify)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as identified above):  
+Bill Park  
+Parkside Model S Dairy, Bakersfield 93308  
+Name Number and Street City Zip Code Phone Number
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number
+
+Dates Hauled: 11-14-22 - 12-11-22
+
+Amount Hauled:  
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 816.17 Tons or Cubic Yards (indicate which units used)  
+Manure Moisture %:  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used in determine the amount.  
+Process Wastewater:                                       Gallons  
+Method used to determine volume of process wastewater:
+
+Written Agreement:  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes     No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party.  
+(Operator shall provide initials here to acknowledge this requirement.)
+
+Certification:  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.
+
+Operator's Signature:                                         Date: 2-12-23  
+Hauler's Signature:                                           Date: 2-12-23
+
+**Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies**
+
+**Instructions:**
+
+1) Complete one manifest for each trucking event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifests with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+**Operator Information:**
+
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave, Shafter 93263  
+Contact Person Name: Pete De Jong  
+Phone Number: (661)-619-1218
+
+**Manure/Process Wastewater Hauler Information:**
+
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: PO Box 82553, Bakersfield 93380  
+Contact Person: Jorgen Hurlburt
+
+**Destination Information:**
+
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as identified above):  
+Name: Hill Ranch  
+Number and Street: Buttonwillow 93206  
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:
+
+Dates Hauled: 4/10/23 - 4/11/23
+
+**Amount Hauled:**
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 76.18 Tons or Cubic Yards (indicate which units used)  
+Manure Moisture %:  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater:                Gallons  
+Method used to determine volume of process wastewater:
+
+**Written Agreement:**
+
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes / No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement.)
+
+**Certification:**
+
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.
+
+Operator's Signature:  
+Date: 4-15-23
+
+Hauler's Signature:  
+Date: 4-15-23
+
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
+
+Instructions:  
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, so long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Number and Street City Zip Code  
+Contact Person Name: Pete De Jong (661) 619-1218  
+Name Phone Number
+
+Manure/Process Wastewater Hauler Information:  
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: P.O. Box 82553 Bakersfield 93380  
+Number and Street City Zip Code  
+Contact Person: Jorgen Lundgren Phone Number  
+Name
+
+Destination Information:  
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as identified above):  
+Wheeler Ranch Bakersfield 93311  
+Name Number and Street City Zip Code Phone Number
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number  
+Dates Hauled: 7/10/23 - 7/13/23
+
+Amount Hauled:  
+Enter the amount of manure hauled in tons or cubic yards (Indicate the units used), the manure solids content (If amount reported in tons) or manure density (If amount reported in cubic yards), and the method used to calculate the amount:  
+Manure: 154 Tons or Cubic Yards (Indicate which units used)  
+Manure Moisture: %  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+Written Agreement:  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements, General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement.)
+
+Certification:  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.  
+Operator's Signature: Date: 7-18-23  
+Hauler's Signature: Date: 7-18-23
+
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
+
+Instructions:  
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Number and Street City Zip Code  
+Contact Person Name: Pete De Jong 661-619-1218  
+Name Phone Number
+
+Manure/Process Wastewater Hauler Information:  
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: PO Box 82553 Bakersfield 93380  
+Number and Street City Zip Code  
+Contact Person: Jorgen Lundgren  
+Name Phone Number
+
+Destination Information:  
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as identified above):  
+Leslie Prouch 4701 Kyte Rd. Bakersfield 93308  
+Name Number and Street City Zip Code Phone Number
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number  
+Dates Hauled: 4/11/23 - 4/17/23
+
+Amount Hauled:  
+Enter the amount of manure hauled in tons or cubic yards (Indicate the units used), the manure solids content (If amount reported in tons) or manure density (If amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 432 Tons or Cubic Yards (Indicate which units used)  
+Manure Moisture %:  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+Written Agreement:  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement.)
+
+Certification:  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.
+
+Operator's Signature: Date: 4-18-23  
+Hauler's Signature: Date: 4-18-23
+
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
+
+Instructions:  
+1) Complete one manifest for each hauling event for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis's Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Number and Street City Zip Code  
+Contact Person Name: Pete De Jong  
+Name Phone Number
+
+Manure/Process Wastewater Hauler Information:  
+Name of Hauling Company/Person: Western Ag Services Inc.  
+Address of Hauling Company/Person: Po Box 82553 Bakersfield 93380  
+Number and Street City Zip Code  
+Contact Person: Jorgen Hundgren  
+Name Phone Number
+
+Destination Information:  
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact information of: Composting Facility, Broker, Farmer, or Other (as identified above):  
+Name: Riverside Dairy Number and Street: Shafter 93263  
+City Zip Code Phone Number  
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel
+
+Date Hauled: 4/21/23  
+Amount Hauled:  
+Enter the amount of manure hauled in tons or cubic yards (Indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 118 Tle Tons or Cubic Yards (indicate which units used)  
+Manure Moisture: %  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+Written Agreement:  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0036) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement.)
+
+Certification:  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.
+
+Operator's Signature: Date: 4-26-23  
+Hauler's Signature: Date: 4-26-23
+
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
+
+Instructions:  
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, so long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Number and Street City Zip Code  
+Contact Person Name: Pete De Jong 559-869-1218  
+Name Phone Number
+
+Manure/Process Wastewater Hauler Information:  
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: PO Box 8255, Bakersfield 93380  
+Number and Street City Zip Code  
+Contact Person: Jorgen Lundgren  
+Name Phone Number
+
+Destination Information:  
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as Identified above):  
+Name: Dinge St. Shafter 93263  
+Number and Street City Zip Code  
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number  
+Dates Hauled: 4/21/23
+
+Amount Hauled:  
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 1.25 8 Tons of Cubic Yards (Indicate which units used)  
+Manure Moisture %:  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+Written Agreement:  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party.  
+(Operator shall provide Initials here to acknowledge this requirement.)
+
+Certification:  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.  
+Operator's Signature: Date: 4-29-23  
+Hauler's Signature: Date: 4-28-23
+
+**Instructions**  
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2) If there are multiple destinations, complete a separate form for each destination.  
+3) The operator must obtain the signature of the hauler upon completion of each manure hauling event.  
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+**Operator Information:**  
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Oasis Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Contact Person Name: Pete De Jong Phone Number: 461-419-1218
+
+**Manure/Process Wastewater Hauler Information:**  
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: PO Box 82553, Bakersfield 93380  
+Contact Person: Jorgen Lundgren Phone Number:
+
+**Destination Information:**  
+Composting Facility / Broker / Farmer / Other (please circle one)  
+Contact information of: Composting Facility, Broker, Farmer, or Other (as Identified above):  
+Magnolia Farm Shafter 93263  
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number
+
+Date Hauled: 4/21/23 - 4/22/23
+
+**Amount Hauled:**  
+Enter the amount of manure hauled in tons or cubic yards (Indicate the units used), the manure solids content (If amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.  
+Manure: 186.47 Tons or Cubic Yards (Indicate which units used)  
+Manure Moisture: %  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.  
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+**Written Agreement**  
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater transferred after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement)
+
+**Certification:**  
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.  
+Operator's Signature: Date: 4-29-23  
+Hauler's Signature: Date: 4-28-23
+
+**Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies**
+
+**Instructions:**
+
+1. Complete one manifest for each hauling event, not each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.  
+2. If there are multiple destinations, complete a separate form for each destination.  
+3. The operator must obtain the signature of the hauler upon completion of each manure hauling event.  
+4. The operator shall submit copies of manure/process wastewater tracking manifest with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+**Operator Information:**
+
+Name of Operator: Pete De Jong  
+Name of Dairy Facility: Dassi's Holsteins  
+Facility Address: 18041 Palm Ave. Shafter 93263  
+Contact Person Name: Pete De Jong Phone Number: 661-619-1218
+
+**Manure/Process Wastewater Hauler Information:**
+
+Name of Hauling Company/Person: Western Ag Services, Inc.  
+Address of Hauling Company/Person: PO Box 82553, Bakersfield 93380  
+Contact Person: Jorgen Lundgren Phone Number:
+
+**Destination Information:**
+
+Composting Facility / Broker / Farmer / Other (Identify) (please circle one)  
+Contact Information of: Composting Facility, Broker, Farmer, or Other (as Identified above):  
+Watts Farm Number and Street: Bakersfield 93314 Phone Number:  
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:  
+Number and Street City Zip Code Assessor's Parcel Number
+
+Dates Hauled: 3/7/23 - 3/9/23
+
+**Amount Hauled:**
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the method used to calculate the amount.
+
+Manure: 324 yds3 Tons or Cubic Yards (Indicate which units used)  
+Manure Solids %:  
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.
+
+Process Wastewater: Gallons  
+Method used to determine volume of process wastewater:
+
+**Written Agreement:**
+
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge Requirements General Order No. R5-2007-0038) with any party that receives process wastewater from the Operator for its own use? (please check one)  
+Yes / No  
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater generated after 31 December 2007 to such party. (Operator shall provide initials here to acknowledge this requirement.)
+
+**Certification:**
+
+I declare under the penalty of law that I personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a fine and imprisonment for knowing violations.
+
+Operator's Signature: Date: 3-7-23  
+Hauler's Signature: Date: 3-19-23
+
+Livingston Dairy Consulting, Inc.  
+FIELD ACTIVITY REPORT
+
+Facility Name: Oasis Dairy  
+18041 Palm Ave, Shafter  
+Kern County
+
+2023
+
+Sample Collection Equipment:  
+Bottle Container
+
+Sample Container: (Circle one)  
+Bottle Container: 8 fl oz  16 fl oz  32 fl oz
+
+Sample Collection Location: (Circle one)  
+Discharge Pipe   Spigot/Faucet
+
+Sample Collection Method: (Circle one) *All Samples are labeled with the facility name, date, contents, location  
+and description ** Please see the Sample and Analysis Plan for more detailed descriptions.
+
+Well: Sample taken at the Discharge Pipe, Spigot or Faucet using a sample container provided by laboratory
+
+Sample Type:
+
+| Date | Well Name | Time | PH | Temp | Ammonium |  
+|---|---|---|---|---|---|   
+| 2-10 | Barn-Dairy (Dom) | 7:43 | 6.8 | 68 | Ø |  
+| 6/30 | Cow Well #2 | 7:36 | 7 | 67 | Ø |  
+| | Gray Well #6 | 7:42 | 6.5 | 66 | Ø |  
+| 7/18 | Cherry Well #3 | 16:18 | 7 | 64 | Ø |  
+| | Fred's Well #5 | 16:22 | 7 | 65 | Ø |  
+| | John Deere #4 | 16:28 | 16.5 | 166 | Ø |  
+| | Griffith Well #1 | 16:33 | 7 | 65 | Ø |
+
+Sample Preservation Method: (Circle one)  
+Ice Chest   Refrigerator   Ice Pack
+
+Livingston Dairy Consulting, Inc. 2020
+
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+March 9, 2023  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Lab No. : VI 2340876  
+Customer No. : 4018505  
+Laboratory Report  
+Introduction: This report package contains a total of 3 pages divided into 3 sections:  
+Case Narrative (1 page) : An overview of the work performed at FGL.  
+Sample Results (1 page) : Results for each sample submitted.  
+Quality Control (1 page) : Supporting Quality Control (QC) results.  
+Case Narrative  
+This Case Narrative pertains to the following samples:  
+Sample Description Date Sampled Date Received FGL Lab No. Matrix  
+Barn-Dairy (Dom) 02/10/2023 02/10/2023 VI 2340876-001 DW  
+Sampling and Receipt Information:  
+The Sample was received in acceptable condition and within temperature requirements, unless noted on the Condition Upon Receipt (CUR) form. The Sample was received, prepared and analyzed within the method specified holding times. All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs). For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.  
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted in the Quality Control Section of this report.  
+Test Summary  
+EPA 351.2 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 2540 C Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-H+B Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-NO3 F Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This report shall not be reproduced except in full, without the written approval of the laboratory.  
+KD: JRD  
+Approved By Kelly A. Dunnahoo, B.S. Digitally signed by Kelly A. Dunnahoo, B.S. Title: Laboratory Director Date: 2023-03-09  
+Section: Case Narrative  
+Page 1 of 3  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775  
+Page 1 of 3  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+March 9, 2023  
+Lab No. : VI 2340876-001  
+Customer No.: 4018505  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Sampled On : February 10, 2023 at 07:43  
+Sampled By : MF / KC  
+Received On : February 10, 2023 at 10:39  
+Matrix : Drinking Water  
+Description :  
+Barn-Dairy (Dom)  
+Project : W-6 Oasis Dairy  
+Sample Results - Inorganic  
+Constituent Result RL Units MCL/AL Dil. DQF Sample Preparation Sample Analysis  
+Dairy Analysis  
+Date Time Who Method Date Time Who  
+Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 U 02/24/2023 11:30 sta EPA 351.2 03/01/2023 17:37 lcr  
+Nitrate Nitrogen 2.5 0.4 mg/L 10 1 02/15/2023 12:00 lfs SM 4500-NO3 F 02/15/2023 14:59 lfs  
+Nitrogen, Total as Nitrogen 2.5 0.5 mg/L 1 02/24/2023 11:30 sta EPA 351.2 03/01/2023 17:37 lcr  
+Nitrate + Nitrite as N 2.5 0.4 mg/L 10 1 02/15/2023 12:00 lfs SM 4500-NO3 F 02/15/2023 14:59 lfs  
+Kjeldahl Nitrogen ND 0.5 mg/L 1 U 02/24/2023 11:30 sta EPA 351.2 03/01/2023 17:37 lcr  
+Conductivity 461 1 umhos/cm 1600² 1 03/01/2023 17:08 amm SM 4500-H+B 03/01/2023 18:37 sta  
+Solids, Total Dissolved (TDS) 260 20 mg/L 1000² 1 02/14/2023 12:50 ctl SM 2540 C 02/15/2023 12:43 ctl  
+DQF Flags Definition:  
+U Constituent results were non-detect.  
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution  
+MCL = Maximum Contamination Level. 2 - Secondary Standard. 3 - CDPH Notification Level. AL = Regulatory Action Level.  
+Section: Sample Results Page 2 of 3  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+March 9, 2023  
+Livingston Dairy Consulting, Inc.
+
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists
+
+Lab No. : VI 2340876  
+Customer No. : 4018505
+
+Quality Control - Wet Chem
+
+| Constituent | Method | Date/ID | Type | Units | Conc. | QC Data | DOO | Note |  
+|---|---|---|---|---|---|---|---|---|   
+| Wet Chem | | | | | | | | |  
+| E. C. | 2320B | (VI 2341105-003) | Dup | umhos/cm | | 0.3% | 5 | |  
+| Solids, Total Dissolved | 2540CE | 02/14/2023:201630CTL | Blank | mg/L | | ND | <20 | |  
+| | | | LCS | mg/L | 990.8 | 98.4% | 90-110 | |  
+| | | (VI 2340882-003) | Dup | mg/L | | 1.4% | 5 | |  
+| Nitrogen, Total Kjeldahl | 351.2 | (VI 2340882-003) | Dup | mg/L | | 4.5% | 5 | |  
+| | | 02/24/2023:202049STA | Blank | mg/L | | ND | <0.5 | |  
+| | | | LCS | mg/L | 12.00 | 91.2% | 73-124 | |  
+| | | (VI 2340880-001) | MS | mg/L | 12.00 | 84.9% | 54-136 | |  
+| | | | MSD | mg/L | 12.00 | 83.6% | 54-136 | |  
+| | | | MSRPD | mg/L | 12.00 | 1.5% | ≤27 | |  
+| | | (VI 2340880-002) | MS | mg/L | 12.00 | 88.2% | 54-136 | |  
+| | | | MSD | mg/L | 12.00 | 89.0% | 54-136 | |  
+| | | | MSRPD | mg/L | 12.00 | 0.8% | ≤27 | |  
+| Nitrate + Nitrite as N | 4500NO3F | 02/15/2023:201689LFS | Blank | mg/L | | ND | <0.4 | |  
+| | | | LCS | mg/L | 11.22 | 95.3% | 80-120 | |  
+| | | | MS | mg/L | 5.609 | 95.0% | 66-125 | |  
+| | | (SP 2302226-001) | MSD | mg/L | 5.609 | 94.2% | 66-125 | |  
+| | | | MSRPD | mg/L | 5.609 | 0.6% | ≤30.4 | |  
+| Nitrate Nitrogen | 4500NO3F | 02/15/2023:201689LFS | Blank | mg/L | | ND | <0.4 | |  
+| | | | LCS | mg/L | 11.22 | 95.3% | 80-120 | |  
+| | | | MS | mg/L | 5.609 | 95.0% | 66-125 | |  
+| | | (SP 2302226-001) | MSD | mg/L | 5.609 | 94.2% | 66-125 | |  
+| | | | MSRPD | mg/L | 5.609 | 0.6% | ≤30.4 | |
+
+Definition  
+Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.  
+DQO : Data Quality Objective - This is the criteria against which the quality control data is compared.  
+Dup : Duplicate Sample - A random sample with each batch is prepared and analyzed in duplicate. The relative percent difference is an indication of precision for the preparation and analysis.  
+LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.  
+MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSRPD : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and analysis.  
+ND : Non-detect - Result was below the DQO listed for the analyte.
+
+Section: Quality Control  
+Page 3 of 3  
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+TEL: (805)392-2000  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063  
+CA ELAP Certification No. 1573
+
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+TEL: (209)942-0182  
+FAX: (209)942-0423  
+CA ELAP Certification No. 1563
+
+Page 3 of 3  
+Office & Laboratory  
+563 E. Lindo Avenue  
+Chico, CA 95926  
+TEL: (530)343-5818  
+FAX: (530)343-3807  
+CA ELAP Certification No. 2670
+
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+TEL: (805)783-2940  
+FAX: (805)783-2912  
+CA ELAP Certification No. 2775
+
+Page 3 of 3  
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+FGL ENVIRONMENTAL  
+AGRICULTURAL  
+Analytical Chemists  
+CHAIN OF CUSTODY  
+www.fglinc.com  
+Laboratory Copy (1 of 3)  
+Special  
+42086:03/01/2022  
+TEST DESCRIPTION - See Reverse side for Container, Preservative and Sampling information  
+Client: Livingston Dairy Consulting, Inc.  
+Address: Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Phone: (559)687-1440 Fax:  
+Contact Person: Noreen Livingston  
+Project Name: W-6 Oasis Dairy  
+Purchase Order Number:  
+Quote Number: VI 20210208-01  
+Sampler(s) MF/ke  
+Sampling Fee:  
+Compositor Setup Date:  
+Lab Number: VI  
+Pickup Fee:  
+Location Description  
+Time:  
+Date 4-18505 Time Sampled  
+Method of Sampling: Composite(C) Grab(G)  
+Type of Sample **SEE REVERSE SIDE**  
+Potable(P) Non-Potable (NP) Ag Water (AgW)  
+Batch Type: Other (O) System (SYS) Source (SR) Waste(W)  
+Batch Reason: Routine (ROUT) Repeat(RPT) Replace(RPL)  
+Other(O) Special(SPL)  
+Dairy Analysis-W-6-Conductivity, NO3-N, Total N,TDS 16oz(P)  
+Sampling-W-6 Total N- Split Bottle 8oz(P)-H2SO4  
+***VI Lab to Split for Total N***  
+Samp  
+Num 1 Barn-Dairy (00m) 1-10-23 7:43 G DW P  
+2 G 1  
+3 G 1  
+4 G 1  
+5 G 1  
+6 G 1  
+7 G 1  
+8 G 1  
+9 G 1  
+10 G 1  
+Remarks:  
+Date: Time: Relinquished Date: Time: Received By:  
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+Phone: (805) 392-2000  
+Env Fax: (805) 525-4172/Ag Fax: (805) 392-2063  
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+Phone: (209) 942-0182  
+Fax: (209) 942-0423  
+2/10/23 1034 MMCul 2-10-23 1031 GLS  
+Office & Laboratory  
+563 E. Lindo  
+Chico, CA 95926  
+Phone: (530) 343-5818  
+Fax: (530) 343-3807  
+Date: 2/11/23 Time: 1210 Received By: CKS  
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+Phone: (805) 783-2940  
+Fax: (805) 783-2912  
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+Phone: (559) 734-9473  
+Fax: (559) 734-8435
+
+FGL Environmental  
+Revision Date: 10/09/14  
+Doc ID: 3D0900002_SOP_12.DOC  
+Page 1 of 1
+
+Inter-Laboratory Condition Upon Receipt (Attach to COC)  
+Sample Receipt at: STK CC CH VI  
+1. Number of ice chests/packages received: 1 Shipping tracking # Otc  
+2. Were samples received in a chilled condition? Temps: 40°C Rol /  
+Surface water SWTR bact samples: A sample that has a temperature upon receipt of >10° C, whether iced or not, should be flagged unless the time since sample collection has been less than two hours.  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. VOAs checked for Headspace? Yes No  
+6. Were sample custody seals intact? Yes No N/A  
+7. If required, was sample split for pH analysis? Yes No  
+8. Were all analyses within holding times at time of receipt? Yes No  
+9. Verify sample date, time and sampler name Yes No  
+Sign and date the COC, place in a ziplock and put in the same ice chest as the samples.  
+Sample Receipt Review completed by (initials):
+
+Sample Receipt at SP:  
+1. Were samples received in a chilled condition? Temps: 2c /  
+Acceptable is above freezing to 6° C. If many packages are received at one time check for tests/H.T.'s/rushes/  
+2. Shipping tracking numbers: 558796176 154 195  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. Were sample custody seals intact? Yes No N/A  
+Sign and date the COC, obtain LIMS sample numbers, select methods/tests and print labels.
+
+Sample Verification, Labeling and Distribution:  
+1. Were all requested analyses understood and acceptable? Yes No  
+2. Did bottle labels correspond with the client's ID's? Yes No  
+3. Were all bottles requiring sample preservation properly preserved? Yes No N/A FGL [Exception: Oil & Grease, VOA and CrVI verified in lab]  
+4. VOAs checked for Headspace? Yes No N/A  
+5. Have rush or project due dates been checked and accepted? Yes No  
+6. Were all analyses within holding times at time of receipt? Yes No  
+Attach labels to the containers and include a copy of the COC for lab delivery.  
+Sample Receipt, Login and Verification completed by (initials):
+
+Discrepancy Documentation:  
+Any items above which are "No" or do not meet specifications (i.e. temps) must be resolved.  
+1. Person Contacted: Phone Number:  
+Initiated By: Date:  
+Problem:  
+Resolution:  
+2. Person Contacted: Phone Number:  
+Initiated By:  
+Problem:  
+Resolution:
+
+(Please use the back of this sheet for additional contacts)  
+(4018505)  
+Livingston Dairy Consulting, Inc.  
+VI 2340876  
+iv 02/13/2023 09:40:21
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+Lab No. : VI 2344021  
+Customer No.: 4018505  
+July 28, 2023  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Laboratory Report  
+Introduction: This report package contains a total of 4 pages divided into 3 sections:  
+Case Narrative (1 page) : An overview of the work performed at FGL.  
+Sample Results (2 pages) : Results for each sample submitted.  
+Quality Control (1 page) : Supporting Quality Control (QC) results.  
+Case Narrative  
+This Case Narrative pertains to the following samples:  
+Sample Description Date Sampled Date Received FGL Lab No. Matrix  
+Cow Well #2 06/30/2023 06/30/2023 VI 2344021-001 AGW  
+Gray Well #6 06/30/2023 06/30/2023 VI 2344021-002 AGW  
+Sampling and Receipt Information:  
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times. All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs). For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.  
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted in the Quality Control Section of this report.  
+Test Summary  
+EPA 351.2 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 2540 C Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-H+B Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-NO3 F Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This report shall not be reproduced except in full, without the written approval of the laboratory.  
+KD: EHB  
+Digitally signed by Kelly A. Dunnahoo, B.S.  
+Approved By Kelly A. Dunnahoo, B.S. FGL Title: Laboratory Director  
+Date: 2023-07-31  
+Section: Case Narrative Page 1 of 4  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775  
+Page 1 of 4  
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+July 28, 2023
+
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274
+
+Description: Cow Well #2  
+Project: W-6 Oasis Dairy
+
+Sample Results - Inorganic
+
+| Constituent | Result | RL | Units | Note | Dil. | DQF | Sample Preparation | Sample Analysis |  
+|---|---|---|---|---|---|---|---|---|   
+|  |  |  |  |  |  |  | Date | Time | Who | Method | Date | Time | Who |  
+| Dairy Analysis | | | | | | | | | | | | | |  
+| Nitrogen, Total Kjeldahl | ND | 0.5 | mg/L |  | 1 | U | 07/18/2023 | 18:20 | lcr | EPA 351.2 | 07/24/2023 | 18:45 | lcr |  
+| Nitrate Nitrogen | 0.7 | 0.4 | mg/L |  | 1 |  | 07/06/2023 | 11:00 | lfs | SM 4500-NO3 F | 07/06/2023 | 12:54 | lfs |  
+| Nitrogen, Total as Nitrogen | 0.7 | 0.5 | mg/L |  | 1 |  | 07/18/2023 | 18:20 | lcr | Calc. | 07/24/2023 | 18:45 | lcr |  
+| Nitrate + Nitrite as N | 0.7 | 0.4 | mg/L |  | 1 |  | 07/06/2023 | 11:00 | lfs | SM 4500-NO3 F | 07/06/2023 | 12:54 | lfs |  
+| Kjeldahl Nitrogen | ND | 0.5 | mg/L |  | 1 | U | 07/18/2023 | 18:20 | lcr | EPA 351.2 | 07/24/2023 | 18:45 | lcr |  
+| Conductivity | 237 | 1 | umhos/cm |  | 1 |  | 07/05/2023 | 14:10 | amm | SM 4500-H+B | 07/05/2023 | 18:29 | sta |  
+| Solids, Total Dissolved (TDS) | 170 | 10 | mg/L |  | 1 |  | 07/03/2023 | 14:20 | ctl | SM 2540 C | 07/05/2023 | 11:30 | ctl |
+
+DQF Flags Definition:  
+U Constituent results were non-detect.
+
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution
+
+Section: Sample Results  
+Page 2 of 4
+
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+TEL: (805)392-2000  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063  
+CA ELAP Certification No. 1573
+
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+TEL: (209)942-0182  
+FAX: (209)942-0423  
+CA ELAP Certification No. 1563
+
+Page 2 of 4
+
+Office & Laboratory  
+563 E. Lindo Avenue  
+Chico, CA 95926  
+TEL: (530)343-5818  
+FAX: (530)343-3807  
+CA ELAP Certification No. 2670
+
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+TEL: (805)783-2940  
+FAX: (805)783-2912  
+CA ELAP Certification No. 2775
+
+Page 2 of 4
+
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+July 28, 2023  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Description : Gray Well #6  
+Project : W-6 Oasis Dairy  
+Sample Results - Inorganic  
+Lab No. : VI 2344021-002  
+Customer No.: 4018505  
+Sampled On: June 30, 2023 at 07:42  
+Sampled By: Marlene Ferreira  
+Received On: June 30, 2023 at 11:47  
+Matrix : Ag Water  
+Constituent Result RL Units Note Dil. DQF Sample Preparation Sample Analysis  
+Dairy Analysis  
+Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 U 07/18/2023 18:20 lcr EPA 351.2 07/24/2023 18:47 lcr  
+Nitrate Nitrogen 2.0 0.4 mg/L 1 07/06/2023 11:00 lfs SM 4500-NO3 F 07/06/2023 12:56 lfs  
+Nitrogen, Total as Nitrogen 2.0 0.5 mg/L 1 07/18/2023 18:20 lcr Calc. 07/24/2023 18:47 lcr  
+Nitrate + Nitrite as N 2.0 0.4 mg/L 1 07/06/2023 11:00 lfs SM 4500-NO3 F 07/06/2023 12:56 lfs  
+Kjeldahl Nitrogen ND 0.5 mg/L 1 U 07/18/2023 18:20 lcr EPA 351.2 07/24/2023 18:47 lcr  
+Conductivity 403 1 umhos/cm 1 07/05/2023 14:10 amm SM 4500-H+B 07/05/2023 18:40 sta  
+Solids, Total Dissolved (TDS) 250 10 mg/L 1 07/03/2023 14:20 ctl SM 2540 C 07/05/2023 11:30 ctl  
+DQF Flags Definition:  
+U Constituent results were non-detect.  
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution  
+Section: Sample Results  
+Page 3 of 4  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists
+
+July 28, 2023  
+Livingston Dairy Consulting, Inc.  
+Lab No. : VI 2344021  
+Customer No. : 4018505
+
+Quality Control - Wet Chem
+
+| Constituent | Method | Date/ID | Type | Units | Conc. | QC Data | DQO Note |  
+|---|---|---|---|---|---|---|---|  
+| Wet Chem | | | | | | | |  
+| E. C. | 2320B | (STK2338587-004) | Dup | umhos/cm | | 0.6% | 5 |  
+| Solids, Total Dissolved | 2540CE | 07/03/2023:207268CTL | Blank | mg/L | | ND | <10 |  
+| | | | LCS | mg/L | 993.7 | 102% | 90-110 |  
+| | | (SP 2311171-001) | Dup | mg/L | | 1.22% | 12.2 |  
+| Nitrogen, Total Kjeldahl | 351.2 | 07/18/2023:207877LCR | Blank | mg/L | | ND | <0.5 |  
+| | | | LCS | mg/L | 12.00 | 96.7% | 73-124 |  
+| | | | MS | mg/L | 12.00 | 98.0% | 54-136 |  
+| | | (STK2338509-004) | MSD | mg/L | 12.00 | 95.4% | 54-136 |  
+| | | | MSRPD | mg/L | | 2.7% | ≤27 |  
+| | | (STK2338568-001) | MS | mg/L | 12.00 | 88.1% | 54-136 |  
+| | | | MSD | mg/L | 12.00 | 89.7% | 54-136 |  
+| | | | MSRPD | mg/L | | 1.4% | ≤27 |  
+| Nitrate + Nitrite as N | 4500NO3F | 07/06/2023:207353LFS | Blank | mg/L | | ND | <0.4 |  
+| | | | LCS | mg/L | 11.22 | 97.8% | 80-120 |  
+| | | | MS | mg/L | 5.609 | 97.1% | 66-125 |  
+| | | (SP 2311380-001) | MSD | mg/L | 5.609 | 97.2% | 66-125 |  
+| | | | MSRPD | mg/L | | 0.1% | ≤30.4 |  
+| Nitrate Nitrogen | 4500NO3F | 07/06/2023:207353LFS | Blank | mg/L | | ND | <0.4 |  
+| | | | LCS | mg/L | 11.22 | 97.8% | 80-120 |  
+| | | | MS | mg/L | 5.609 | 97.1% | 66-125 |  
+| | | (SP 2311380-001) | MSD | mg/L | 5.609 | 97.2% | 66-125 |  
+| | | | MSRPD | mg/L | | 0.1% | ≤30.4 |
+
+Definition  
+Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.  
+DQO : Data Quality Objective - This is the criteria against which the quality control data is compared.  
+Dup : Duplicate Sample - A random sample with each batch is prepared and analyzed in duplicate. The relative percent difference is an indication of precision for the preparation and analysis.  
+LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.  
+MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSRPD : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and analysis.  
+ND : Non-detect - Result was below the DQO listed for the analyte.
+
+Section: Quality Control  
+Page 4 of 4  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+FGL ENVIRONMENTAL AGRICULTURAL Analytical Chemists
+
+Client: Livingston Dairy Consulting, Inc.  
+Address: Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Phone: (559)687-1440 Fax:  
+Contact Person: Noreen Livingston  
+Project Name: W-4 F&L Barcellos  
+Purchase Order Number:  
+Quote Number: VI 20210208-01  
+Sampler(s) Marlene & Noreen  
+Sampling Fee: Pickup Fee:  
+Compositor Setup Date: Time:  
+Lab Number: VI 234472 4-18505
+
+CHAIN OF CUSTODY  
+www.fglinc.com  
+Laboratory Copy (1 of 3)  
+See Reverse side for Container, Preservative and Sampling information
+
+Samp  
+Num Date Time Location Description  
+1 7/20 G 12-101N  
+2 G  
+3 G  
+4 G  
+5 G  
+6 G  
+7 G  
+8 G  
+9 G  
+10 G  
+Special 42085:03/01/2022 TEST DESCRIPTION  
+Method of Sampling: Composite(C) Grab(G)  
+Type of Sample **SEE REVERSE SIDE**  
+Potable (P) Non-Potable (NP) Ag Water(AgW)  
+Bacti Type: Other(O) System(SYS) Source(SR) Waste (W)  
+Bacti Reason: Routine (ROUT) Repeat(RPT) Replace(RPL)  
+Other(O) Special (SPL)  
+(CaCO3), Cl, Conductivity, NO3-N, TDS, SO4, Ca, Na, Mg  
+Dairy Analysis-W-4-Alk. 16oz(P)  
+Sampled Sampled  
+7/20 GSTAMG AGNINP  
+Remarks:
+
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+Phone: (805) 392-2000  
+Env Fax: (805) 525-4172/Ag Fax: (805) 392-2063
+
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+Phone: (209) 942-0182  
+Fax: (209) 942-0423
+
+Office & Laboratory  
+563 E. Lindo  
+Chico, CA 95926  
+Phone: (530) 343-5818  
+Fax: (530) 343-3807
+
+Date: 7/20/23 Time: 1730 Relinquished By: Marl 7/20/23 10:32 SRO  
+Date: 7/20/23 Time: 1730 Received By: 7/20/23 1032 GLS  
+Date: 7/20/23 Time: 1730 Received By: /  
+Date: 7/21/23 Time: 1120 Relinquished By: GC5
+
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+Phone: (805) 783-2940  
+Fax: (805) 783-2912
+
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+Phone: (559) 734-9473  
+Fax: (559) 734-8435  
+ROI 8.5°C
+
+FGL Environmental  
+Revision Date: 10/09/14  
+Doc ID: 3D0900002_SOP_12.DOC  
+Page 1 of 1
+
+Inter-Laboratory Condition Upon Receipt (Attach to COC)  
+Sample Receipt at: STK CC CH VI  
+1. Number of ice chests/packages received: ____ Shipping tracking # OTC ____  
+2. Were samples received in a chilled condition? Temps: R01 / 8.5°C /  
+Surface water SWTR bact samples: A sample that has a temperature upon receipt of >10° C, whether iced or not, should be flagged unless the time since sample collection has been less than two hours.  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. VOAs checked for Headspace? Yes No N/A  
+6. Were sample custody seals intact? Yes No N/A  
+7. If required, was sample split for pH analysis? Yes No N/A  
+8. Were all analyses within holding times at time of receipt? Yes No  
+9. Verify sample date, time and sampler name Yes No  
+Sign and date the COC, place in a ziplock and put in the same ice chest as the samples.  
+Sample Receipt Review completed by (initials): SRO
+
+Sample Receipt at SP:  
+1. Were samples received in a chilled condition? Temps: 1C / /   
+Acceptable is above freezing to 6°C. If many packages are received at one time check for tests/H.T.'s/rushes/  
+2. Shipping tracking numbers: 559803343 3297  
+3542 3359  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. Were sample custody seals intact? Yes No N/A  
+Sign and date the COC, obtain LIMS sample numbers, select methods/tests and print labels.
+
+Sample Verification, Labeling and Distribution:  
+1. Were all requested analyses understood and acceptable? Yes No  
+2. Did bottle labels correspond with the client's ID's? Yes No  
+3. Were all bottles requiring sample preservation properly preserved? Yes No N/A FGL  
+[Exception: Oil & Grease, VOA and CrVI verified in lab]  
+4. VOAs checked for Headspace? Yes No N/A  
+5. Have rush or project due dates been checked and accepted? Yes No N/A  
+6. Were all analyses within holding times at time of receipt? Yes No  
+Attach labels to the containers and include a copy of the COC for lab delivery.  
+Sample Receipt, Login and Verification completed by (initials): MX
+
+Discrepancy Documentation:  
+Any items above which are "No" or do not meet specifications (i.e. temps) must be resolved.  
+1. Person Contacted: Phone Number:  
+Initiated By: Date:  
+Problem:  
+Resolution:
+
+2. Person Contacted:  
+Initiated By:  
+Problem:  
+Resolution:
+
+(Please use the back of this sheet for additional contacts)  
+(4018505)  
+Livingston Dairy Consulting, Inc.  
+VI 2344721  
+iv 07/20/2023 14:25:49
+
+August 11, 2023
+
+FGL ENVIRONMENTAL AGRICULTURAL Analytical Chemists
+
+Chris  
+Lab No. : VI 2344644  
+Customer No. : 4018505
+
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274
+
+Laboratory Report
+
+Introduction: This report package contains a total of 6 pages divided into 3 sections:  
+Case Narrative (1 page) : An overview of the work performed at FGL.  
+Sample Results (4 pages) : Results for each sample submitted.  
+Quality Control (1 page) : Supporting Quality Control (QC) results.
+
+Case Narrative
+
+This Case Narrative pertains to the following samples:  
+Sample Description Date Sampled Date Received FGL Lab No. Matrix  
+Cherry Well #3 07/18/2023 07/18/2023 VI 2344644-001 AGW  
+Fred's Well #5 07/18/2023 07/18/2023 VI 2344644-002 AGW  
+John Deere #4 07/18/2023 07/18/2023 VI 2344644-003 AGW  
+Griffith Well #1 07/18/2023 07/18/2023 VI 2344644-004 AGW
+
+Sampling and Receipt Information:
+
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times. All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs). For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted in the Quality Control Section of this report.
+
+Test Summary
+
+EPA 351.2 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 2540 C Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-H+B Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)  
+SM 4500-NO3 F Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This report shall not be reproduced except in full, without the written approval of the laboratory.
+
+KD: EHB
+
+Approved By Kelly A. Dunnahoo, B.S. Digitally signed by Kelly A. Dunnahoo, B.S. Title: Laboratory Director Date: 2023-08-11
+
+Section: Case Narrative Page 1 of 6  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+August 11, 2023  
+Lab No. : VI 2344644-001  
+Customer No.: 4018505  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Sampled On : July 18, 2023 at 06:18  
+Sampled By : Marlene / Noreen  
+Received On : July 18, 2023 at 10:00  
+Matrix : Ag Water  
+Description : Cherry Well #3  
+Project : W-6 Oasis Dairy  
+Sample Results - Inorganic  
+Constituent Result RL Units Note Dil. DQF Sample Preparation Sample Analysis  
+Dairy Analysis  
+Date Time Who Method Date Time Who  
+Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 U 08/08/2023 08:55 sta EPA 351.2 08/10/2023 18:14 lcr  
+Nitrate Nitrogen 6.2 0.4 mg/L 1 07/19/2023 12:15 lfs SM 4500-NO3 F 07/19/2023 13:43 lfs  
+Nitrogen, Total as Nitrogen 6.2 0.5 mg/L 1 08/08/2023 08:55 sta Calc. 08/10/2023 18:14 lcr  
+Nitrate + Nitrite as N 6.2 0.4 mg/L 1 07/19/2023 12:15 lfs SM 4500-NO3 F 07/19/2023 13:43 lfs  
+Kjeldahl Nitrogen ND 0.5 mg/L 1 U 08/08/2023 08:55 sta EPA 351.2 08/10/2023 18:14 lcr  
+Conductivity 711 1 umhos/cm 1 07/31/2023 21:43 amm SM 4500-H+B 08/01/2023 01:18 amm  
+Solids, Total Dissolved (TDS) 440 20 mg/L 1 07/20/2023 16:15 ctl SM 2540 C 07/21/2023 11:10 ctl  
+DQF Flags Definition:  
+U Constituent results were non-detect.  
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution  
+Section: Sample Results Page 2 of 6  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+August 11, 2023
+
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274
+
+Description : Fred's Well #5  
+Project : W-6 Oasis Dairy
+
+Sample Results - Inorganic
+
+| Constituent | Result | RL | Units | Note | Dil. | DQF | Sample Preparation | Sample Analysis |  
+|---|---|---|---|---|---|---|---|---|   
+| | | | | | | | Date | Time | Who | Method | Date | Time | Who |  
+| Dairy Analysis | | | | | | | | | | | | | |  
+| Nitrogen, Total Kjeldahl | ND | 0.5 | mg/L | | 1 | U | 08/08/2023 | 08:55 | sta | EPA 351.2 | 08/10/2023 | 18:16 | lcr |  
+| Nitrate Nitrogen | 8.4 | 0.4 | mg/L | | 1 | | 07/19/2023 | 12:15 | lfs | SM 4500-NO3 F | 07/19/2023 | 13:46 | lfs |  
+| Nitrogen, Total as Nitrogen | 8.4 | 0.5 | mg/L | | 1 | | 08/08/2023 | 08:55 | sta | Calc. | 08/10/2023 | 18:16 | lcr |  
+| Nitrate + Nitrite as N | 8.4 | 0.4 | mg/L | | 1 | | 07/19/2023 | 12:15 | lfs | SM 4500-NO3 F | 07/19/2023 | 13:46 | lfs |  
+| Kjeldahl Nitrogen | ND | 0.5 | mg/L | | 1 | U | 08/08/2023 | 08:55 | sta | EPA 351.2 | 08/10/2023 | 18:16 | lcr |  
+| Conductivity | 919 | 1 | umhos/cm | | 1 | | 07/31/2023 | 14:51 | amm | SM 4500-H+B | 07/31/2023 | 16:49 | amm |  
+| Solids, Total Dissolved (TDS) | 550 | 20 | mg/L | | 1 | | 07/20/2023 | 10:40 | ctl | SM 2540 C | 07/21/2023 | 11:10 | ctl |
+
+DQF Flags Definition:  
+U Constituent results were non-detect.
+
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution
+
+Section: Sample Results
+
+Page 3 of 6
+
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+TEL: (805)392-2000  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063  
+CA ELAP Certification No. 1573
+
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+TEL: (209)942-0182  
+FAX: (209)942-0423  
+CA ELAP Certification No. 1563
+
+Page 3 of 6
+
+Office & Laboratory  
+563 E. Lindo Avenue  
+Chico, CA 95926  
+TEL: (530)343-5818  
+FAX: (530)343-3807  
+CA ELAP Certification No. 2670
+
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+TEL: (805)783-2940  
+FAX: (805)783-2912  
+CA ELAP Certification No. 2775
+
+Page 3 of 6
+
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+August 11, 2023  
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Description : John Deere #4  
+Project : W-6 Oasis Dairy  
+Sample Results - Inorganic  
+Constituent Result RL Units Note Dil. DQF Sample Preparation Sample Analysis  
+Dairy Analysis Date Time Who Method Date Time Who  
+Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 U 08/08/2023 08:55 sta EPA 351.2 08/10/2023 16:41 lcr  
+Nitrate Nitrogen 2.8 0.4 mg/L 1 07/19/2023 12:15 lfs SM 4500-NO3 F 07/19/2023 13:48 lfs  
+Nitrogen, Total as Nitrogen 2.8 0.5 mg/L 1 08/08/2023 08:55 sta Calc. 08/10/2023 16:41 lcr  
+Nitrate + Nitrite as N 2.8 0.4 mg/L 1 07/19/2023 12:15 lfs SM 4500-NO3 F 07/19/2023 13:48 lfs  
+Kjeldahl Nitrogen ND 0.5 mg/L 1 U 08/08/2023 08:55 sta EPA 351.2 08/10/2023 16:41 lcr  
+Conductivity 588 1 umhos/cm 1 07/31/2023 14:51 amm SM 4500-H+B 07/31/2023 16:51 amm  
+Solids, Total Dissolved (TDS) 340 20 mg/L 1 07/20/2023 10:40 ctl SM 2540 C 07/21/2023 11:10 ctl  
+DQF Flags Definition:  
+U Constituent results were non-detect.  
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution  
+Section: Sample Results Page 4 of 6  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810  
+Lab No. : VI 2344644-003  
+Customer No.: 4018505  
+Sampled On : July 18, 2023 at 06:28  
+Sampled By : Marlene / Noreen  
+Received On : July 18, 2023 at 10:00  
+Matrix : Ag Water
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists
+
+August 11, 2023
+
+Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274
+
+Description : Griffith Well #1  
+Project : W-6 Oasis Dairy
+
+Sample Results - Inorganic
+
+| Constituent | Result | RL | Units | Note | Dil. | DQF | Sample Preparation | Sample Analysis |  
+|---|---|---|---|---|---|---|---|---|   
+|  |  |  |  |  |  |  | Date | Time | Who | Method | Date | Time | Who |  
+| Dairy Analysis |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+| Nitrogen, Total Kjeldahl | ND | 0.5 | mg/L |  | 1 | U | 08/08/2023 | 08:55 | sta | EPA 351.2 | 08/10/2023 | 18:19 | lcr |  
+| Nitrate Nitrogen | 4.0 | 0.4 | mg/L |  | 1 |  | 07/19/2023 | 12:15 | lfs | SM 4500-NO3 F | 07/19/2023 | 13:51 | lfs |  
+| Nitrogen, Total as Nitrogen | 4.0 | 0.5 | mg/L |  | 1 |  | 08/08/2023 | 08:55 | sta | Calc. | 08/10/2023 | 18:19 | lcr |  
+| Nitrate + Nitrite as N | 4.0 | 0.4 | mg/L |  | 1 |  | 07/19/2023 | 12:15 | lfs | SM 4500-NO3 F | 07/19/2023 | 13:51 | lfs |  
+| Kjeldahl Nitrogen | ND | 0.5 | mg/L |  | 1 | U | 08/08/2023 | 08:55 | sta | EPA 351.2 | 08/10/2023 | 18:19 | lcr |  
+| Conductivity | 582 | 1 | umhos/cm |  | 1 |  | 07/31/2023 | 14:51 | amm | SM 4500-H+B | 07/31/2023 | 17:24 | amm |  
+| Solids, Total Dissolved (TDS) | 340 | 20 | mg/L |  | 1 |  | 07/21/2023 | 09:30 | ctl | SM 2540 C | 07/24/2023 | 11:00 | ctl |
+
+DQF Flags Definition:  
+U Constituent results were non-detect.
+
+ND=Non-Detected, RL=Reporting Level, Dil.=Dilution
+
+Section: Sample Results  
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+TEL: (805)392-2000  
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063  
+CA ELAP Certification No. 1573
+
+Page 5 of 6
+
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+TEL: (209)942-0182  
+FAX: (209)942-0423  
+CA ELAP Certification No. 1563
+
+Page 5 of 6
+
+Office & Laboratory  
+563 E. Lindo Avenue  
+Chico, CA 95926  
+TEL: (530)343-5818  
+FAX: (530)343-3807  
+CA ELAP Certification No. 2670
+
+Page 5 of 6
+
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+TEL: (805)783-2940  
+FAX: (805)783-2912  
+CA ELAP Certification No. 2775
+
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+TEL: (559)734-9473  
+FAX: (559)734-8435  
+CA ELAP Certification No. 2810
+
+FGL  
+ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+August 11, 2023  
+Livingston Dairy Consulting, Inc.  
+Lab No. : VI 2344644  
+Customer No. : 4018505  
+Quality Control - Wet Chem  
+Constituent Method Date/ID Type Units Conc. QC Data DQO Note  
+Wet Chem  
+E. C. 2320B (SP 2312486-006) Dup umhos/cm 0.09% 5  
+(VI 2344724-001) Dup umhos/cm 0.1% 5  
+Solids, Total Dissolved 2540CE 07/20/2023:207946CTL Blank mg/L ND <20  
+LCS mg/L 993.7 98.8% 90-110  
+(SP 2312188-006) Dup mg/L 0.9% 5  
+(SP 2312188-006) Dup mg/L 1.38% 5  
+Blank mg/L ND <20  
+LCS mg/L 993.7 102% 90-110  
+(STK2339578-001) Dup mg/L 0.4% 5  
+(STK2339578-001) Dup mg/L 1.98% 5  
+2540CE 07/21/2023:207986CTL Blank mg/L ND <20  
+LCS mg/L 991.5 101% 90-110  
+(SP 2312256-003) Dup mg/L 0.2% 5  
+(SP 2312256-003) Dup mg/L 3.10% 5  
+Nitrogen, Total Kjeldahl 351.2 08/08/2023:208707STA Blank mg/L ND <0.5  
+LCS mg/L 12.00 91.3% 73-124  
+MS mg/L 12.00 85.5% 54-136  
+(VI 2344654-002) MSD mg/l 12.00 85.3% 54-136  
+MSRPD mg/L 0.3% ≤27  
+MS mg/L 12.00 82.8% 54-136  
+(VI 2344644-003) MSD mg/L 12.00 82.5% 54-136  
+MSRPD mg/L 0.3% ≤27  
+Blank mg/L ND <0.5  
+LCS mg/L 12.00 94.2% 73-124  
+MS mg/L 12.00 87.3% 54-136  
+(VI 2344643-002) MSD mg/L 12.00 90.0% 54-136  
+MSRPD mg/L 3.1% ≤27  
+MS mg/L 12.00 93.8% 54-136  
+(VI 2344643-003) MSD mg/L 12.00 93.2% 54-136  
+MSRPD mg/L 0.6% ≤27  
+Nitrate + Nitrite as N 4500NO3F 07/19/2023:207926LFS Blank mg/L ND <0.4  
+LCS mg/L 11.22 97.7% 80-120  
+MS mg/L 5.609 90.8% 66-125  
+(SP 2312214-001) MSD mg/L 5.609 92.7% 66-125  
+MSRPD mg/L 1.0% ≤30.4  
+Nitrate Nitrogen 4500NO3F 07/19/2023:207926LFS Blank mg/L ND <0.4  
+LCS mg/L 11.22 97.7% 80-120  
+MS mg/L 5.609 90.8% 66-125  
+(SP 2312214-001) MSD mg/L 5.609 92.7% 66-125  
+MSRPD mg/L 1.0% ≤30.4  
+Definition  
+Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.  
+DQO : Data Quality Objective - This is the criteria against which the quality control data is compared.  
+Dup : Duplicate Sample - A random sample with each batch is prepared and analyzed in duplicate. The relative percent difference is an indication of precision for the preparation and analysis.  
+LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.  
+MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix affects analyte recovery.  
+MSRPD : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and analysis.  
+ND : Non-detect - Result was below the DQO listed for the analyte.  
+Section: Quality Control  
+Page 6 of 6  
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory  
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue  
+Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291  
+TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473  
+Env FAX: (805)525-4172/Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435  
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
+
+FGL ENVIRONMENTAL AGRICULTURAL  
+Analytical Chemists  
+CHAIN OF CUSTODY  
+www.fglinc.com  
+Laboratory Copy (1 of 2)  
+42086:04/01/2023  
+Special  
+TEST DESCRIPTION - See Reverse side for Container, Preservative and Sampling information  
+Client: Livingston Dairy Consulting, Inc.  
+Address: Livingston Dairy Consulting, Inc  
+1635 E. Prosperity Suite B  
+Tulare, CA 93274  
+Phone: (559)687-1440 Fax:  
+Contact Person: Noreen Livingston  
+Project Name: w:6 Oasis Dairy  
+Purchase Order Number:  
+Quote Number: VI 20210208-01  
+Sampler(s) Marlene & Noreen  
+Sampling Fee: Pickup Fee:  
+Compositor Setup Date:  
+Lab Number: VI 234 46 44 Time: 4-18505  
+Samp Date Time  
+Num Location Description Sampled Sampled  
+1 Cherry Well #3 7/18/23 6:18 AM G  
+2 Fred's Well #5 6:22 AM G  
+3 John Deere #4 6:28 AM G  
+4 Griffith Well #1 6:33 AM G  
+Method of Sampling: Composite(C) Grab(G)  
+Type of Sample **SEE REVERSE SIDE**  
+Potable(P) Non-Potable (NP) Ag Water(AgW)  
+Bacti Type: Other(O) System (SYS) Source(SR) Waste(W)  
+Bacti Reason: Routine (ROUT) Repeat(RPT) Replace(RPL)  
+Other(O) Special (SPL.)  
+Dairy Analysis-W-6-Conductivity, NO3-N, Total N,TDS  
+16oz(P) 8oz(P)-H2SO4  
+Bottles/Containers Split Fee  
+1 1  
+1 1  
+1 1  
+1 1  
+5  
+6  
+7  
+8  
+9  
+10  
+Remarks:  
+G  
+G  
+G  
+G  
+Corporate Offices & Laboratory  
+853 Corporation Street  
+Santa Paula, CA 93060  
+Phone: (805) 392-2000  
+Env Fax: (805) 525-4172/Ag Fax: (805) 392-2063  
+Rol 4.4°C  
+Office & Laboratory  
+2500 Stagecoach Road  
+Stockton, CA 95215  
+Phone: (209) 942-0182  
+Fax: (209) 942-0423  
+Office & Laboratory  
+563 E. Lindo  
+Chico, CA 95926  
+Phone: (530) 343-5818  
+Fax: (530) 343-3807  
+Office & Laboratory  
+3442 Empresa Drive, Suite D  
+San Luis Obispo, CA 93401  
+Phone: (805) 783-2940  
+Fax: (805) 783-2912  
+Office & Laboratory  
+9415 W. Goshen Avenue  
+Visalia, CA 93291  
+Phone: (559) 734-9473  
+Fax: (559) 734-8435  
+Date: 7/18/23 Time: 1730 Relinquished By: SRO Received By:  
+Date: 7/18/23 Time: 1730 GLS  
+Date: 7/18/23 Time: 10:00 Relinquished By: GRO  
+Date: 7/19/23 Time: 11:00
+
+FGL Environmental  
+Revision Date: 10/09/14  
+Doc ID: 3D0900002_SOP_12.DOC  
+Page 1 of 1
+
+Inter-Laboratory Condition Upon Receipt (Attach to COC)  
+Sample Receipt at: STK CC CH VI  
+1. Number of ice chests/packages received: 1 Shipping tracking # OTC  
+2. Were samples received in a chilled condition? Temps: RCI / 4.4°C /  
+Surface water SWTR bact samples: A sample that has a temperature upon receipt of >10° C, whether iced or not, should be flagged unless the time since sample collection has been less than two hours.  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. VOAs checked for Headspace? Yes No N/A  
+6. Were sample custody seals intact? Yes No N/A  
+7. If required, was sample split for pH analysis? Yes No N/A  
+8. Were all analyses within holding times at time of receipt? Yes No  
+9. Verify sample date, time and sampler name Yes No  
+Sign and date the COC, place in a ziplock and put in the same ice chest as the samples.  
+Sample Receipt Review completed by (initials): SRO
+
+Sample Receipt at SP:  
+1. Were samples received in a chilled condition? Temps: 7L  
+Acceptable is above freezing to 6&4 C. If many packages are received at one time check for tests/H.T.'s/rushes/  
+2. Shipping tracking numbers: 55978 7246  
+6815  
+3. Do the number of bottles received agree with the COC? Yes No N/A  
+4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes No  
+5. Were sample custody seals intact? Yes No N/A  
+Sign and date the COC, obtain LIMS sample numbers, select methods/tests and print labels.
+
+Sample Verification, Labeling and Distribution:  
+1. Were all requested analyses understood and acceptable? Yes No  
+2. Did bottle labels correspond with the client's ID's? Yes No  
+3. Were all bottles requiring sample preservation properly preserved? Yes No N/A FGL  
+[Exception: Oil & Grease, VOA and CrVI verified in lab]  
+4. VOAs checked for Headspace? Yes No N/A  
+5. Have rush or project due dates been checked and accepted? Yes No N/A  
+6. Were all analyses within holding times at time of receipt? Yes No  
+Attach labels to the containers and include a copy of the COC for lab delivery.  
+Sample Receipt, Login and Verification completed by (initials): MDC
+
+Discrepancy Documentation:  
+Any items above which are "No" or do not meet specifications (i.e. temps) must be resolved.  
+1. Person Contacted: Phone Number:  
+Initiated By: Date:  
+Problem:  
+Resolution:  
+2. Person Contacted:  
+Initiated By:  
+Problem:  
+Resolution:  
+(4018505)  
+Livingston Dairy Consulting, Inc.  
+VI 2344644  
+iv 07/18/2023 11:29:22  
+(Please use the back of this sheet for additional contacts)
+
+2023 KERN RIVER - CANAL RESULTS
+
+Check #1
+
+LOCATION OF TESTS
+
+IRRIGATION WATER ANALYSIS  
+ALL CONSTITUENTS P.P.M. (MGN/LITER)
+
+| DATE OF TESTING | LABS USED | LAB NUM | ARSENIC | CALCIUM | MAGNESIUM | SODIUM | POTASSIUM | HYDROXIDE | CARBONATE | BICARBONATE | CHLORIDE | FLUORIDE | SULFATE | NITRATE | NITRATE NO 3 | NO 3-N | PHOSPHATE | PH | Bid | EC | TOTAL DISSOLVED SOLIDS | TOTAL HARDNESS AS CACO3 | BORON | WATER | SOIL | Ratio % | SAR | OF ESP | OF GYP | Units | AD REQ. | PHC | SAR |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 02/23/22 | OEC | 2201203-06 | None Det. | 21.00 | 3.40 | 130.00 | 4.10 | None Det. | None Det. | 160.0 | 56.0 | 0.53 | 9.2 | None Det. | None Det. | None Det. | 7.40 | 650.0 | 430.00 | 67.0 | 0.76 | 6.70 | 536.0 | 0.5 | 10 | 0.79 | 6.00 | 536.0 | 0.5 |  
+| 03/15/22 | OEC | 2201604-06 | None Det. | 21.00 | 3.30 | 120.00 | 3.90 | None Det. | None Det. | 180.0 | 94.0 | 0.62 | 8.7 | None Det. | None Det. | None Det. | 7.36 | 650.0 | 470.00 | 67.0 | 0.77 | 0.30 | 406.0 | 7.0 | 20 | 0.79 | 6.00 | 536.0 | 0.5 |  
+| 04/06/22 | OEC | 2202161-06 | None Det. | 22.00 | 3.40 | 120.00 | 4.10 | None Det. | None Det. | 170.0 | 92.0 | 0.50 | 16.0 | None Det. | None Det. | None Det. | 7.43 | 670.0 | 440.00 | 70.0 | 0.77 | 0.30 | 406.0 | 7.0 | 20 | 0.79 | 6.00 | 536.0 | 0.5 |  
+| 05/24/22 | OEC | 2203176-06 | None Det. | 20.00 | 3.20 | 120.00 | 3.90 | None Det. | None Det. | 160.0 | 90.0 | 0.40 | 11.0 | None Det. | None Det. | None Det. | 7.17 | 680.0 | 470.00 | 63.0 | 0.89 | 6.50 | 506.0 | 5.30 | 7.00 | 0.81 | 6.30 | 401.0 | 7.0 |  
+| 06/21/22 | OEC | 2203781-06 | None Det. | 18.00 | 2.90 | 110.00 | 3.20 | None Det. | None Det. | 180.0 | 81.0 | 0.46 | 11.0 | None Det. | None Det. | None Det. | 7.01 | 630.0 | 400.00 | 58.0 | 0.36 | 0.01 | 6.30 | 401.0 | 280.00 | 58.0 | 0.82 | 6.50 | 506.0 | 5.3 |  
+| 07/19/22 | OEC | 2204368-05 | None Det. | 18.00 | 2.40 | 70.00 | 2.40 | None Det. | None Det. | 100.0 | 49.0 | None Det. | 27.0 | None Det. | None Det. | None Det. | 7.42 | 540.0 | 470.00 | 50.0 | 0.61 | 6.30 | 401.0 | 280.00 | 58.0 | 0.82 | 6.50 | 506.0 | 5.3 |  
+| 08/01/22 | OEC | 2204884-08 | None Det. | 19.00 | 2.80 | 110.00 | 3.20 | None Det. | None Det. | 170.0 | 66.0 | 0.54 | 11.0 | None Det. | None Det. | None Det. | 7.57 | 640.0 | 410.00 | 58.0 | 0.62 | 6.50 | 506.0 | 7.0 | 300 | 0.82 | 7.00 | 351.0 | 7.0 |  
+| 09/01/22 | OEC | 2205388-07 | None Det. | 20.00 | 2.90 | 120.00 | 3.40 | None Det. | None Det. | 170.0 | 100.0 | 0.52 | 15.0 | None Det. | None Det. | None Det. | 7.46 | 660.0 | 400.00 | 63.0 | 0.62 | 5.40 | 516.0 | 7.0 | 351 | 0.82 | 7.00 | 351.0 | 7.0 |  
+| 10/06/22 | OEC | 2206260-05 | None Det. | 27.00 | 2.40 | 110.00 | 3.00 | None Det. | None Det. | 150.0 | 90.0 | None Det. | 50.0 | None Det. | None Det. | None Det. | 7.47 | 720.0 | 470.00 | 70.0 | 0.62 | 5.40 | 516.0 | 7.5 | 351 | 0.82 | 7.50 | 351.0 | 7.5 |  
+| 11/03/22 | OEC | 2206972-06 | None Det. | 21.00 | 3.00 | 120.00 | 4.00 | None Det. | None Det. | 160.0 | 94.0 | 0.61 | 15.0 | None Det. | None Det. | None Det. | 7.20 | 670.0 | 420.00 | 66.0 | 0.68 | 6.40 | 585.0 | 8.50 | 67 | 0.82 | 7.50 | 351.0 | 7.5 |  
+| 01/06/23 | OEC | 2300177-06 | None Det. | 21.00 | 3.30 | 120.00 | 4.10 | None Det. | None Det. | 200.0 | 90.0 | 0.51 | 8.4 | None Det. | None Det. | None Det. | 7.67 | 710.0 | 470.00 | 67.0 | 0.75 | 6.30 | 730.0 | 470 | 71 | 0.82 | 7.70 | 351.0 | 7.7 |  
+| 02/09/23 | OEC | 2301937-06 | None Det. | 22.00 | 3.00 | 130.00 | 4.10 | None Det. | None Det. | 200.0 | 100.0 | 0.46 | 8.7 | None Det. | None Det. | None Det. | 7.06 | 730.0 | 470.00 | 71.0 | 0.72 | 5.40 | 640.0 | 460 | 70 | 0.82 | 7.70 | 351.0 | 7.7 |  
+| 03/08/23 | OEC | 2301990-06 | None Det. | 23.00 | 3.20 | 110.00 | 4.10 | None Det. | None Det. | 180.0 | 90.0 | 0.43 | 9.9 | None Det. | None Det. | None Det. | 7.66 | 640.0 | 460.00 | 70.0 | 0.54 | 5.00 | 300.0 | 220 | 47 | 0.82 | 7.70 | 351.0 | 7.7 |  
+| 04/21/23 | OEC | 2303083-06 | None Det. | 14.00 | 2.80 | 42.00 | 2.20 | None Det. | None Det. | 91.0 | 31.0 | None Det. | 7.6 | None Det. | None Det. | None Det. | 7.87 | 300.0 | 220.00 | 47.0 | 0.26 | 70 | 200 | 180 | 40 | 0.82 | 2.50 | 4.5 | 2.5 |  
+| 05/19/23 | OEC | 2303878-05 | None Det. | 13.00 | 4.70 | 2.10 | 37.00 | 2.40 | None Det. | None Det. | 78.0 | 28.0 | None Det. | 5.0 | None Det. | None Det. | None Det. | 7.60 | 200.0 | 180.00 | 40.0 | None Det. | 2.40 | 4.40 | 140 | 84 | 20 | 0.82 | 2.40 | 4.4 | 2.4 |  
+| 06/13/23 | OEC | 2304631-06 | None Det. | 11.00 | 1.90 | 53.00 | 26.00 | 2.10 | None Det. | None Det. | 60.0 | 23.0 | None Det. | 6.0 | None Det. | None Det. | None Det. | 7.60 | 210.0 | 150.00 | 35.0 | None Det. | 2.00 | 4.00 | 63 | 74 | 20 | 0.82 | 2.00 | 4.0 | 2.0 |  
+| 07/11/23 | OEC | 2305247-06 | None Det. | 6.20 | 1.10 | 11.00 | 1.10 | None Det. | None Det. | 37.0 | 6.7 | None Det. | 3.2 | None Det. | None Det. | None Det. | 7.74 | 63.0 | 74.00 | 20.0 | None Det. | 1.10 | 3.10 | 10 | 120 | 32 | 0.82 | 1.10 | 3.1 | 1.1 |  
+| 08/03/23 | OEC | 2306030-04 | None Det. | 10.00 | 1.00 | 27.00 | 1.80 | None Det. | None Det. | 61.0 | 15.0 | None Det. | 4.7 | None Det. | None Det. | None Det. | 7.52 | 180.0 | 120.00 | 32.0 | None Det. | 2.00 | 4.00 | 14 | 320 | 45 | 0.82 | 2.00 | 4.0 | 2.0 |  
+| 09/06/23 | OEC | 2306641-06 | None Det. | 14.00 | 2.30 | 40.00 | 2.00 | None Det. | None Det. | 90.0 | 37.0 | None Det. | 6.7 | None Det. | None Det. | None Det. | 7.28 | 320.0 | 200.00 | 45.0 | 0.31 | 3.20 | 6.20 | 180 | 120 | 32 | 0.82 | 2.00 | 4.0 | 2.0 |  
+| 10/03/23 | OEC | 2307004-05 | None Det. | 10.00 | 1.00 | 27.00 | 1.80 | None Det. | None Det. | 61.0 | 15.0 | None Det. | 4.7 | None Det. | None Det. | None Det. | 7.52 | 180.0 | 120.00 | 32.0 | None Det. | 2.00 | 4.00 | 14 | 320 | 45 | 0.31 | 3.2 | 6.2 |
+
+Check #5
+
+LOCATION OF TESTS
+
+IRRIGATION WATER ANALYSIS  
+ALL CONSTITUENTS P.P.M. (MGN/LITER)
+
+| DATE OF TESTING | LABS USED | LAB NUM | ARSENIC | CALCIUM | MAGNESIUM | SODIUM | POTASSIUM | HYDROXIDE | CARBONATE | BICARBONATE | CHLORIDE | FLUORIDE | SULFATE | NITRATE | NITRATE NO 3 | NO 3-N | PHOSPHATE | PH | Sid Units | EC @ 25 C | TOTAL DISSOLVED SOLIDS | TOTAL HARDNESS AS CACO3 | BORON |  
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|   
+| 02/23/22 | OEC | 2201203-07 | None Det. | 10.00 | 1.50 | 92.00 | 1.90 | None Det. | None Det. | 120.0 | 57.0 | 0.50 | 13.0 | None Det. | None Det. | None Det. | 8.05 | 480.0 | 280.00 | 32.0 | 0.40 |  
+| 03/15/22 | OEC | 2201604-07 | None Det. | 16.00 | 2.40 | 110.00 | 3.00 | None Det. | None Det. | 160.0 | 77.0 | 0.51 | 9.3 | None Det. | None Det. | None Det. | 7.87 | 550.0 | 380.00 | 50.0 | 0.61 |  
+| 04/06/22 | OEC | 2202151-07 | None Det. | 7.10 | 0.84 | 81.00 | 1.30 | None Det. | None Det. | 110.0 | 44.0 | 0.53 | 10.0 | None Det. | None Det. | None Det. | 8.55 | 390.0 | 260.00 | 21.0 | 0.33 |  
+| 05/24/22 | OEC | 2203176-07 | None Det. | 12.00 | 1.60 | 93.00 | 2.00 | None Det. | None Det. | 130.0 | 65.0 | 0.47 | 16.0 | None Det. | None Det. | None Det. | 7.67 | 520.0 | 350.00 | 37.0 | 0.42 |  
+| 06/21/22 | OEC | 2203781-07 | None Det. | 6.40 | 0.79 | 76.00 | 0.96 | None Det. | None Det. | 97.0 | 46.0 | 0.44 | 13.0 | None Det. | None Det. | None Det. | 8.58 | 400.0 | 250.00 | 19.0 | 0.26 |  
+| 07/19/22 | OEC | 2204358-07 | None Det. | 15.00 | 1.90 | 68.00 | 1.90 | None Det. | None Det. | 110.0 | 46.0 | 0.40 | 23.0 | None Det. | None Det. | None Det. | 7.85 | 450.0 | 280.00 | 45.0 | 0.30 |  
+| 08/01/22 | OEC | 2204884-07 | None Det. | 11.00 | 1.80 | 91.00 | 1.90 | None Det. | None Det. | 130.0 | 66.0 | 0.53 | 12.0 | None Det. | None Det. | None Det. | 8.00 | 500.0 | 300.00 | 35.0 | 0.40 |  
+| 09/01/22 | OEC | 2205388-07 | None Det. | 13.00 | 1.80 | 93.00 | 2.10 | None Det. | None Det. | 130.0 | 75.0 | 0.51 | 16.0 | None Det. | None Det. | None Det. | 7.82 | 540.0 | 350.00 | 38.0 | 0.42 |  
+| 10/06/22 | OEC | 2206250-07 | None Det. | 21.00 | 1.50 | 88.00 | 2.40 | None Det. | None Det. | 110.0 | 68.0 | None Det. | 58.0 | None Det. | None Det. | None Det. | 7.93 | 600.0 | 350.00 | 59.0 | 0.33 |  
+| 11/03/22 | OEC | 2206972-07 | None Det. | 15.00 | 2.10 | 100.00 | 3.10 | None Det. | None Det. | 150.0 | 75.0 | 0.54 | 14.0 | None Det. | None Det. | None Det. | 7.68 | 550.0 | 350.00 | 47.0 | 0.51 |
+
+Livingston Dairy Consulting, Inc.  
+1635 E. Prosperity Ave. Ste. B  
+Tulare, CA 93274  
+559-687-1440
+
+Sunday, April 14, 2024
+
+Re: 2023 NMP  
+Oasis Holsteins Dairy WDID 5D155065001  
+18041 Palm Ave. Shafter, CA 93263
+
+Enclosed is the 2023/2024 Nutrient Budget for your facility to comply with the California Regional Water Quality Control Board General Order No. R5-2007-0035.
+
+*2023 Whole Farm Nitrogen Balance
+
+The whole farm nitrogen balance for the crop year 2022 was 1.02  
+Nitrogen Summary will show the balances for each field and for the whole farm.
+
+*Ranges for the Whole Farm Nitrogen Balance
+
+| Factor | Status | Evaluation |  
+|---|---|---|   
+| > 1.65 | Excessive | Too much nitrogen applied |  
+| 1.4 - 1.65 | Slightly High | Nitrogen is satisfactory to slightly high |  
+| 0.9 - 1.4 | Normal | Normal to slightly low |  
+| < 0.9 | Low | Low nitrogen status, additional nitrogen needed |
+
+*Nutrient Management Plan/ Nutrient Budget Certification
+
+This Nutrient Budget was prepared by a Certified Crop Advisor as required by the California Regional Water Quality Control Board.
+
+Butch Brazil  
+Certified Crop Advisor #35629
+
+This Nutrient Management Plan / Nutrient Budget is based on samples collected and analyzed by a third party laboratory. This Certified Crop Advisor was not involved in oversight of outside laboratory sample collection, transportation, or analyses. Interpretation of the data is based on submitted information. Where data was incomplete, book values and / or historical data was used. The third party laboratory or Certified Crop Advisor was not involved with the agronomic growth of the crops and the Nutrient Budget is based on information provided by the owner.
+

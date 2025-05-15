@@ -495,11 +495,6 @@
     "lng": -118.9425085,
     "original_address": "4403 Bear Mountain Blvd Bakersfield"
   },
-  "31348 hanawalt ave": {
-    "lat": 35.659842,
-    "lng": -119.232273,
-    "original_address": "31348 Hanawalt AVE"
-  },
   "7524 s. fairfax road bakersfield ca 93307": {
     "lat": 35.2862052,
     "lng": -118.9321963,
@@ -2453,13 +2448,724 @@
     "address": "California, Rinc\u00f3n de Romos, Aguascalientes",
     "county": null
   },
+  "31348 Hanawalt AVE": {
+    "lat": 35.659961001519,
+    "lng": -119.240955358205,
+    "timestamp": "2025-05-15T10:35:58.741722",
+    "successful_format": "31348 Hanawalt AVE, California",
+    "geocoder": "ArcGIS",
+    "address": "31348 Hanawalt Ave, Mc Farland, California, 93250",
+    "county": null
+  },
   "indicated above": {
     "lat": 21.147898,
     "lng": 79.093151,
-    "timestamp": "2025-05-12T15:58:22.983136",
+    "timestamp": "2025-05-15T10:36:07.444991",
     "successful_format": "indicated above, California",
     "geocoder": "ArcGIS",
     "address": "California",
+    "county": null
+  },
+  ". 2 Soromea Mount) Crad VebiIunve": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-15T12:00:26.791325",
+    "successful_format": ". 2 Soromea Mount) Crad VebiIunve, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  ". 5D0 ORMS By CA. Pera Luma 7445": {
+    "lat": 38.281014199864,
+    "lng": -122.650440963568,
+    "timestamp": "2025-05-15T12:00:28.140422",
+    "successful_format": ". 5D0 ORMS By CA. Pera, Luma, CA 7445",
+    "geocoder": "ArcGIS",
+    "address": "Ormsby Ln, Petaluma, California, 94954",
+    "county": null
+  },
+  "MS Monteiro Dairy": {
+    "lat": 33.8571568,
+    "lng": -118.1911609,
+    "timestamp": "2025-05-15T12:00:30.441282",
+    "successful_format": "MS , Monteiro, CA Dairy",
+    "geocoder": "ArcGIS",
+    "address": "Dairy, Long Beach, California",
+    "county": null
+  },
+  "9200 Edison Avenue": {
+    "lat": 33.997307,
+    "lng": -117.603382,
+    "timestamp": "2025-05-15T12:02:06.384531",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "9200 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "7777 Schaefer Avenue": {
+    "lat": 34.00437,
+    "lng": -117.63346,
+    "timestamp": "2025-05-15T12:02:06.384842",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7777 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "13835 Euclid Avenue": {
+    "lat": 34.00245,
+    "lng": -117.65056,
+    "timestamp": "2025-05-15T12:02:06.384898",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13835 Euclid Avenue",
+    "county": "San Bernardino"
+  },
+  "4050 Ramona Expressway": {
+    "lat": 33.83381,
+    "lng": -117.05547,
+    "timestamp": "2025-05-15T12:02:06.384949",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "4050 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "1907 Boys Republic Drive": {
+    "lat": 33.99642,
+    "lng": -117.72365,
+    "timestamp": "2025-05-15T12:02:06.385006",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1907 Boys Republic Drive",
+    "county": "San Bernardino"
+  },
+  "2733 Cottonwood Avenue": {
+    "lat": 33.79071,
+    "lng": -117.01701,
+    "timestamp": "2025-05-15T12:02:06.385051",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "2733 Cottonwood Avenue",
+    "county": "Riverside"
+  },
+  "36580 Ramona Expressway": {
+    "lat": 33.823518,
+    "lng": -117.028852,
+    "timestamp": "2025-05-15T12:02:06.385092",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "36580 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "3180 Cottonwood Avenue": {
+    "lat": 33.78747,
+    "lng": -116.98983,
+    "timestamp": "2025-05-15T12:02:06.385141",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "3180 Cottonwood Avenue",
+    "county": "Riverside"
+  },
+  "32300 Ramona Expressway": {
+    "lat": 33.839874,
+    "lng": -117.101097,
+    "timestamp": "2025-05-15T12:02:06.385181",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "32300 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "13566 Bon View Avenue": {
+    "lat": 34.007269,
+    "lng": -117.636919,
+    "timestamp": "2025-05-15T12:02:06.385221",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13566 Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "35500 Ramona Expressway": {
+    "lat": 33.83402,
+    "lng": -117.04594,
+    "timestamp": "2025-05-15T12:02:06.385258",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "35500 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "8300 Pine Avenue": {
+    "lat": 33.95891,
+    "lng": -117.62346,
+    "timestamp": "2025-05-15T12:02:06.385295",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8300 Pine Avenue",
+    "county": "San Bernardino"
+  },
+  "16185 Euclid Avenue": {
+    "lat": 33.958315,
+    "lng": -117.650534,
+    "timestamp": "2025-05-15T12:02:06.385332",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "16185 Euclid Avenue",
+    "county": "San Bernardino"
+  },
+  "1455 North Cawston Avenue": {
+    "lat": 33.77187,
+    "lng": -117.01765,
+    "timestamp": "2025-05-15T12:02:06.385369",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1455 North Cawston Avenue",
+    "county": "Riverside"
+  },
+  "8061 Edison Avenue": {
+    "lat": 33.997681,
+    "lng": -117.629148,
+    "timestamp": "2025-05-15T12:02:06.385406",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8061 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "8929 Chino Avenue": {
+    "lat": 34.012341,
+    "lng": -117.610376,
+    "timestamp": "2025-05-15T12:02:06.385443",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8929 Chino Avenue",
+    "county": "San Bernardino"
+  },
+  "7938 Schaefer Avenue": {
+    "lat": 34.004938,
+    "lng": -117.632081,
+    "timestamp": "2025-05-15T12:02:06.385479",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7938 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "10573 Edison Avenue": {
+    "lat": 33.99722,
+    "lng": -117.5732,
+    "timestamp": "2025-05-15T12:02:06.385519",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "10573 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "14213 Bon View Avenue": {
+    "lat": 33.99491,
+    "lng": -117.63565,
+    "timestamp": "2025-05-15T12:02:06.385555",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "14213 Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "14451 South Bon View Avenue": {
+    "lat": 33.991243,
+    "lng": -117.636781,
+    "timestamp": "2025-05-15T12:02:06.385591",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "14451 South Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "14400 South Grove Avenue": {
+    "lat": 33.992338,
+    "lng": -117.628078,
+    "timestamp": "2025-05-15T12:02:06.385628",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "14400 South Grove Avenue",
+    "county": "San Bernardino"
+  },
+  "13752 Bon View Avenue": {
+    "lat": 34.003609,
+    "lng": -117.636869,
+    "timestamp": "2025-05-15T12:02:06.385664",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13752 Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "13575 Walker Avenue": {
+    "lat": 34.007437,
+    "lng": -117.618783,
+    "timestamp": "2025-05-15T12:02:06.385699",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13575 Walker Avenue",
+    "county": "San Bernardino"
+  },
+  "7322 & 7439 Chino Avenue": {
+    "lat": 34.011594,
+    "lng": -117.647009,
+    "timestamp": "2025-05-15T12:02:06.385735",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7322 & 7439 Chino Avenue",
+    "county": "San Bernardino"
+  },
+  "7520 Schaefer Avenue": {
+    "lat": 34.004896,
+    "lng": -117.640807,
+    "timestamp": "2025-05-15T12:02:06.385771",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7520 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "13450 Bon View Avenue": {
+    "lat": 34.00993,
+    "lng": -117.63725,
+    "timestamp": "2025-05-15T12:02:06.385806",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13450 Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "31910 Corydon Road": {
+    "lat": 33.628543,
+    "lng": -117.294932,
+    "timestamp": "2025-05-15T12:02:06.385842",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "31910 Corydon Road",
+    "county": "Riverside"
+  },
+  "1861 North Warren Road": {
+    "lat": 33.819873,
+    "lng": -117.033696,
+    "timestamp": "2025-05-15T12:02:06.385877",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1861 North Warren Road",
+    "county": "Riverside"
+  },
+  "15250 El Sobrante Road": {
+    "lat": 33.8556,
+    "lng": -117.39068,
+    "timestamp": "2025-05-15T12:02:06.385913",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "15250 El Sobrante Road",
+    "county": "Riverside"
+  },
+  "35600 Ramona Expressway": {
+    "lat": 33.82905,
+    "lng": -117.04107,
+    "timestamp": "2025-05-15T12:02:06.385949",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "35600 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "33100 Fernandez Road": {
+    "lat": 33.85542,
+    "lng": -117.08409,
+    "timestamp": "2025-05-15T12:02:06.385985",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "33100 Fernandez Road",
+    "county": "Riverside"
+  },
+  "8484 Schaefer Avenue": {
+    "lat": 34.00515,
+    "lng": -117.61972,
+    "timestamp": "2025-05-15T12:02:06.386021",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8484 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "13456 Walker Avenue": {
+    "lat": 34.009381,
+    "lng": -117.619505,
+    "timestamp": "2025-05-15T12:02:06.386056",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13456 Walker Avenue",
+    "county": "San Bernardino"
+  },
+  "9155 Riverside Drive": {
+    "lat": 34.01644,
+    "lng": -117.60543,
+    "timestamp": "2025-05-15T12:02:06.386091",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "9155 Riverside Drive",
+    "county": "San Bernardino"
+  },
+  "13331 South Walker Avenue": {
+    "lat": 34.009947,
+    "lng": -117.619073,
+    "timestamp": "2025-05-15T12:02:06.386127",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13331 South Walker Avenue",
+    "county": "San Bernardino"
+  },
+  "8185 Edison Avenue \n": {
+    "lat": 33.99581,
+    "lng": -117.62694,
+    "timestamp": "2025-05-15T12:02:06.386163",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8185 Edison Avenue \n",
+    "county": "San Bernardino"
+  },
+  "8311 Edison Avenue": {
+    "lat": 33.997735,
+    "lng": -117.623403,
+    "timestamp": "2025-05-15T12:02:06.386203",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8311 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "8381 Edison Avenue": {
+    "lat": 33.997391,
+    "lng": -117.622865,
+    "timestamp": "2025-05-15T12:02:06.386238",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8381 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "8485 Edison Avenue": {
+    "lat": 33.997207,
+    "lng": -117.621119,
+    "timestamp": "2025-05-15T12:02:06.386273",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8485 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "13567 Whispering Lakes Lane": {
+    "lat": 34.00743,
+    "lng": -117.60655,
+    "timestamp": "2025-05-15T12:02:06.386308",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13567 Whispering Lakes Lane",
+    "county": "San Bernardino"
+  },
+  "9029 Schaefer Avenue": {
+    "lat": 34.004778,
+    "lng": -117.606881,
+    "timestamp": "2025-05-15T12:02:06.386345",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "9029 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "8847 Schaefer Avenue": {
+    "lat": 34.00314,
+    "lng": -117.61278,
+    "timestamp": "2025-05-15T12:02:06.386380",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8847 Schaefer Avenue",
+    "county": "San Bernardino"
+  },
+  "34860 Ramona Expressway": {
+    "lat": 33.837309,
+    "lng": -117.057814,
+    "timestamp": "2025-05-15T12:02:06.386415",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "34860 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "18400 Main Street": {
+    "lat": 33.850872,
+    "lng": -117.085669,
+    "timestamp": "2025-05-15T12:02:06.386451",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "18400 Main Street",
+    "county": "Riverside"
+  },
+  "1970 Warren Road": {
+    "lat": 33.821832,
+    "lng": -117.033713,
+    "timestamp": "2025-05-15T12:02:06.386486",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1970 Warren Road",
+    "county": "Riverside"
+  },
+  "7278 1/2 Eucalyptus Avenue": {
+    "lat": 33.99031,
+    "lng": -117.6505,
+    "timestamp": "2025-05-15T12:02:06.386521",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7278 1/2 Eucalyptus Avenue",
+    "county": "San Bernardino"
+  },
+  "13831 Euclid Avenue": {
+    "lat": 34.0016,
+    "lng": -117.65041,
+    "timestamp": "2025-05-15T12:02:06.386556",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13831 Euclid Avenue",
+    "county": "San Bernardino"
+  },
+  "7330 Edison Avenue": {
+    "lat": 33.997581,
+    "lng": -117.646761,
+    "timestamp": "2025-05-15T12:02:06.386592",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7330 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "8535  Edison Avenue ": {
+    "lat": 33.997769,
+    "lng": -117.618398,
+    "timestamp": "2025-05-15T12:02:06.386627",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8535  Edison Avenue ",
+    "county": "San Bernardino"
+  },
+  "14333 Walker Avenue": {
+    "lat": 33.993203,
+    "lng": -117.618212,
+    "timestamp": "2025-05-15T12:02:06.386664",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "14333 Walker Avenue",
+    "county": "San Bernardino"
+  },
+  "1710 North Warren Road": {
+    "lat": 33.81687,
+    "lng": -117.03368,
+    "timestamp": "2025-05-15T12:02:06.386701",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1710 North Warren Road",
+    "county": "Riverside"
+  },
+  "1655 North Ramona Boulevard": {
+    "lat": 33.813062,
+    "lng": -116.987734,
+    "timestamp": "2025-05-15T12:02:06.386739",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "1655 North Ramona Boulevard",
+    "county": "Riverside"
+  },
+  "13905 Bon View Avenue": {
+    "lat": 33.999927,
+    "lng": -117.636825,
+    "timestamp": "2025-05-15T12:02:06.386775",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13905 Bon View Avenue",
+    "county": "San Bernardino"
+  },
+  "34240 Ramona Expressway": {
+    "lat": 33.838168,
+    "lng": -117.120338,
+    "timestamp": "2025-05-15T12:02:06.386838",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "34240 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "2451 Ramona Expressway": {
+    "lat": 33.823585,
+    "lng": -117.01558,
+    "timestamp": "2025-05-15T12:02:06.387043",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "2451 Ramona Expressway",
+    "county": "Riverside"
+  },
+  "581 North Warren Road": {
+    "lat": 33.795947,
+    "lng": -117.033719,
+    "timestamp": "2025-05-15T12:02:06.387102",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "581 North Warren Road",
+    "county": "Riverside"
+  },
+  "38980 Record Road": {
+    "lat": 33.81701,
+    "lng": -116.9819,
+    "timestamp": "2025-05-15T12:02:06.387150",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "38980 Record Road",
+    "county": "Riverside"
+  },
+  "18051 Gilman Springs Road": {
+    "lat": 33.86242,
+    "lng": -117.02599,
+    "timestamp": "2025-05-15T12:02:06.387191",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "18051 Gilman Springs Road",
+    "county": "Riverside"
+  },
+  "7220 Chino Avenue": {
+    "lat": 34.00975,
+    "lng": -117.64743,
+    "timestamp": "2025-05-15T12:02:06.387230",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7220 Chino Avenue",
+    "county": "San Bernardino"
+  },
+  "13159 Euclid Avenue": {
+    "lat": 34.01333,
+    "lng": -117.650625,
+    "timestamp": "2025-05-15T12:02:06.387268",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "13159 Euclid Avenue",
+    "county": "San Bernardino"
+  },
+  "8625 East Riverside Drive": {
+    "lat": 34.019316,
+    "lng": -117.616687,
+    "timestamp": "2025-05-15T12:02:06.387307",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "8625 East Riverside Drive",
+    "county": "San Bernardino"
+  },
+  "16221 Euclid Avenue": {
+    "lat": 33.957784,
+    "lng": -117.650531,
+    "timestamp": "2025-05-15T12:02:06.387346",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "16221 Euclid Avenue",
+    "county": "San Bernardino"
+  },
+  "7587 Edison Avenue": {
+    "lat": 33.997653,
+    "lng": -117.639275,
+    "timestamp": "2025-05-15T12:02:06.387384",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7587 Edison Avenue",
+    "county": "San Bernardino"
+  },
+  "32309 Holland Road": {
+    "lat": 33.668632,
+    "lng": -117.094154,
+    "timestamp": "2025-05-15T12:02:06.387420",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "32309 Holland Road",
+    "county": "Riverside"
+  },
+  "7360 Pine Avenue": {
+    "lat": 33.955588,
+    "lng": -117.642027,
+    "timestamp": "2025-05-15T12:02:06.387457",
+    "successful_format": "R8 direct data",
+    "geocoder": "R8 CSV",
+    "address": "7360 Pine Avenue",
+    "county": "San Bernardino"
+  },
+  "Holstein Farms": {
+    "lat": 37.99317178491,
+    "lng": -121.669404143968,
+    "timestamp": "2025-05-15T12:02:14.823430",
+    "successful_format": "Holstein Farms, California",
+    "geocoder": "ArcGIS",
+    "address": "Holstein Dr, Oakley, California, 94561",
+    "county": null
+  },
+  "3 5 9 EvoIicl Ave ONte rio CA g WA": {
+    "lat": 33.713097669835,
+    "lng": -117.79267823347,
+    "timestamp": "2025-05-15T12:02:17.459698",
+    "successful_format": "3 5 9 EvoIicl Ave ONte rio CA, g, CA WA",
+    "geocoder": "ArcGIS",
+    "address": "Washington, Irvine, California, 92606",
+    "county": null
+  },
+  "7587 Edison Ave Ontario CA 91761": {
+    "lat": 33.997343775815,
+    "lng": -117.640032776464,
+    "timestamp": "2025-05-15T12:02:18.695345",
+    "successful_format": "7587 Edison Ave Ontario, CA, CA 91761",
+    "geocoder": "ArcGIS",
+    "address": "7587 E Edison Av, Ontario, California, 91762",
+    "county": null
+  },
+  "8311 Edison Ave Ontario CA 91761": {
+    "lat": 33.997536014764,
+    "lng": -117.624864716839,
+    "timestamp": "2025-05-15T12:02:20.418112",
+    "successful_format": "8311 Edison Ave Ontario, CA, CA 91761",
+    "geocoder": "ArcGIS",
+    "address": "8311 E Edison Av, Ontario, California, 91762",
+    "county": null
+  },
+  ". 8300/8384 Pine Ave. Chino CA 91710": {
+    "lat": 33.958997892424,
+    "lng": -117.620658305209,
+    "timestamp": "2025-05-15T12:02:22.134984",
+    "successful_format": ". 8300/8384 Pine Ave. Chino, CA, CA 91710",
+    "geocoder": "ArcGIS",
+    "address": "8384 Pine Ave, Chino, California, 91708",
+    "county": null
+  },
+  "8007 Chino Ave Ontario CA 91762": {
+    "lat": 34.011909218511,
+    "lng": -117.630097538992,
+    "timestamp": "2025-05-15T12:02:23.379786",
+    "successful_format": "8007 Chino Ave Ontario, CA, CA 91762",
+    "geocoder": "ArcGIS",
+    "address": "8007 E Chino Av, Ontario, California, 91761",
+    "county": null
+  },
+  "34240 Ramona Expressway Lakeview": {
+    "lat": 33.840225000791,
+    "lng": -117.066508008664,
+    "timestamp": "2025-05-15T12:02:25.084594",
+    "successful_format": "34240 Ramona, Expressway, CA Lakeview",
+    "geocoder": "ArcGIS",
+    "address": "34240 Ramona Expy, Nuevo, California, 92567",
+    "county": null
+  },
+  "__ 22188 Hwy 1 MarshaIl CA 94940": {
+    "lat": 38.183648981239,
+    "lng": -122.907178990034,
+    "timestamp": "2025-05-15T12:04:38.486617",
+    "successful_format": "__ 22188 Hwy 1 MarshaIl, CA, CA 94940",
+    "geocoder": "ArcGIS",
+    "address": "22188 Highway 1, Marshall, California, 94940",
+    "county": null
+  },
+  "lOO foraiiad RA Sotema FSY7e-": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-15T12:04:54.041103",
+    "successful_format": "lOO foraiiad RA Sotema FSY7e-, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  "_26450 Sir Francis Drake BIvd. Point Reyes CA 94956": {
+    "lat": 37.999382881565,
+    "lng": -122.994947358292,
+    "timestamp": "2025-05-15T12:04:55.323172",
+    "successful_format": "_26450 Sir Francis Drake BIvd. Point Reyes, CA, CA 94956",
+    "geocoder": "ArcGIS",
+    "address": "26450 Sir Francis Drake Blvd, Inverness, California, 94937",
     "county": null
   }
 }

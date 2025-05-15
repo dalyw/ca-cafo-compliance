@@ -13,220 +13,135 @@ from functools import partial
 import pickle
 from datetime import datetime
 
-def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_text=None, column_search_text=None, item_order=None, ignore_before=None, value_pattern=None, ignore_after=None):
-    """
-    Extract text adjacent to a phrase in the specified direction.
-    
-    Args:
-        text (str): The text to search in
-        phrase (str): The phrase to find
-        direction (str): Direction to search ('right', 'below', 'table')
-        row_search_text (str): Text to find in the row
-        column_search_text (str): Text to find in the column
-        item_order (int): Order of the item in a list
-        ignore_before (str): Text to ignore before
-        value_pattern (str): Regex pattern to match numeric values
-        ignore_after (str): Text to ignore after (and including)
-        
-    Returns:
-        str: The extracted text
-    """
-    if not text or not phrase:
-        print('text or phrase not defined')
-        return None
-        
-    # Split text into lines and remove empty lines
-    lines = [line.strip() for line in text.split('\n') if line.strip()]
-    
-    # Find the line containing the phrase
-    phrase_line_idx = None
-    for i, line in enumerate(lines):
-        if phrase.lower() in line.lower():
-            phrase_line_idx = i
-            break
-            
-    if phrase_line_idx is None:
-        print(f'{phrase} not found')
-        return None
-    
-    # if 'DAIRY:' in phrase:
-        # print(lines[phrase_line_idx])
+def extract_value_with_pattern(text):
+    """Extract the first number (int or float) from the text."""
+    if not isinstance(text, str):
+        text = str(text)
+    match = re.search(r'-?\d+\.?\d*', text)
+    if match:
+        return match.group(0)
+    return text
 
+def extract_from_line(line, ignore_before=None, ignore_after=None):
+    if not isinstance(line, str):
+        line = str(line)
+    if ignore_after:
+        idx = line.lower().find(str(ignore_after).lower())
+        if idx != -1:
+            line = line[:idx].strip()
+    if ignore_before:
+        idx = line.lower().find(str(ignore_before).lower())
+        if idx != -1:
+            line = line[idx + len(str(ignore_before)) :].strip()
+    return extract_value_with_pattern(line)
+
+def find_last_data_row(lines, start_idx, stop_phrases):
+    for j in range(start_idx+1, len(lines)):
+        line = lines[j]
+        if not isinstance(line, str):
+            line = str(line)
+        if not line.strip() or any(phrase in line.lower() for phrase in stop_phrases):
+            return j-1
+    return len(lines)-1
+
+def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None):
+    """Extract value from a line using item_order, ignore_before, and ignore_after. If none, return full line."""
+    if not isinstance(line, str):
+        line = str(line)
+    if item_order is None and not ignore_before and not ignore_after:
+        return line
+    # Optionally trim before/after
+    if ignore_after:
+        idx = line.lower().find(str(ignore_after).lower())
+        if idx != -1:
+            line = line[:idx].strip()
+    if ignore_before:
+        idx = line.lower().find(str(ignore_before).lower())
+        if idx != -1:
+            line = line[idx + len(str(ignore_before)) :].strip()
+    # Optionally select item by order
+    if item_order is not None and not pd.isna(item_order):
+        parts = [p for p in line.split() if p]
+        idx = int(item_order)
+        if 0 <= idx < len(parts):
+            return parts[idx]
+        return ''
+    return line
+
+def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_text=None, column_search_text=None, item_order=None, ignore_before=None, ignore_after=None):
+    if not text or not phrase:
+        return None
+    lines = [str(line).strip() for line in text.split('\n') if str(line).strip()]
+    phrase_line_idx = next((i for i, line in enumerate(lines) if isinstance(line, str) and phrase.lower() in line.lower()), None)
+    if phrase_line_idx is None:
+        return None
     if direction == 'right':
-        # Extract text to the right of the phrase
         line = lines[phrase_line_idx]
-        # print(line)
         phrase_idx = line.lower().find(phrase.lower())
         if phrase_idx != -1:
-            # Get text after the phrase
-            # print(line)
-            # print(phrase)
             text_after = line[phrase_idx + len(phrase):].strip()
-
-            # Process ignore_after first if specified
-            if ignore_after and not pd.isna(ignore_after):
-                # Try to find the ignore_after text with various possible formats
-                ignore_text = ignore_after.lower()
-                possible_ignore_texts = [
-                    f"{ignore_text}:",  # Try with colon first since that's most common
-                    ignore_text,
-                    f"{ignore_text}-",
-                    f"{ignore_text} -",
-                    f"{ignore_text} :"
-                ]
-                
-                # Find the earliest occurrence of any version
-                ignore_indices = []
-                for possible_text in possible_ignore_texts:
-                    idx = text_after.lower().find(possible_text)
-                    if idx != -1:
-                        ignore_indices.append(idx)
-                
-                if ignore_indices:
-                    # Use the earliest occurrence
-                    ignore_idx = min(ignore_indices)
-                    text_after = text_after[:ignore_idx].strip()
-
-            # Then process ignore_before if specified
-            if ignore_before and not pd.isna(ignore_before):
-                ignore_idx = text_after.lower().find(ignore_before.lower())
-                if ignore_idx != -1:
-                    text_after = text_after[ignore_idx + len(ignore_before):].strip()
-
-            # If we have a value pattern, use it to extract the numeric value
-            if value_pattern and not pd.isna(value_pattern):
-                try:
-                    match = re.search(str(value_pattern), text_after)
-                    if match:
-                        return match.group(0)
-                except re.error:
-                    # If pattern is invalid, just return the text
-                    return text_after
-
-            # Otherwise return the text after the phrase
-            return text_after
-            
+            return extract_value_from_line(text_after, item_order, ignore_before, ignore_after)
     elif direction == 'below':
-        # Extract text from the line below
-        if phrase_line_idx + 1 < len(lines):
-            next_line = lines[phrase_line_idx + 1].strip()
-            
-            # If ignore_after is specified, cut off text at that point
-            if ignore_after and not pd.isna(ignore_after):
-                ignore_idx = next_line.lower().find(ignore_after.lower())
-                if ignore_idx != -1:
-                    next_line = next_line[:ignore_idx].strip()
-            
-            # If we have a value pattern, use it to extract the numeric value
-            if value_pattern and not pd.isna(value_pattern):
-                try:
-                    match = re.search(str(value_pattern), next_line)
-                    if match:
-                        return match.group(0)
-                except re.error:
-                    # If pattern is invalid, just return the text
-                    return next_line
-                    
-            return next_line
-            
+        # Find the next non-blank line after the phrase
+        next_line = None
+        for j in range(phrase_line_idx + 1, len(lines)):
+            if lines[j].strip():
+                next_line = lines[j].strip()
+                break
+        if next_line is not None:
+            return extract_value_from_line(next_line, item_order, ignore_before, ignore_after)
     elif direction == 'table':
-        # Handle table format
         if row_search_text and column_search_text:
-            # Find the row containing row_search_text
-            row_idx = None
-            for i, line in enumerate(lines):
-                if row_search_text.lower() in line.lower():
-                    row_idx = i
-                    break
-                    
+            row_idx = next((i for i, line in enumerate(lines) if isinstance(line, str) and row_search_text.lower() in line.lower()), None)
             if row_idx is not None:
-                # Find the column containing column_search_text
-                header_line = lines[row_idx]
-                header_parts = [part.strip() for part in header_line.split() if part.strip()]
-                
-                col_idx = None
-                for i, part in enumerate(header_parts):
-                    if column_search_text.lower() in part.lower():
-                        col_idx = i
-                        break
-                        
+                header_parts = [part.strip() for part in str(lines[row_idx]).split() if part.strip()]
+                col_idx = next((i for i, part in enumerate(header_parts) if column_search_text.lower() in part.lower()), None)
                 if col_idx is not None and row_idx + 1 < len(lines):
-                    # Get the value from the next line
-                    value_line = lines[row_idx + 1]
-                    value_parts = [part.strip() for part in value_line.split() if part.strip()]
-                    
+                    value_parts = [part.strip() for part in str(lines[row_idx + 1]).split() if part.strip()]
                     if col_idx < len(value_parts):
-                        value = value_parts[col_idx]
-                        
-                        # If ignore_after is specified, cut off text at that point
-                        if ignore_after and not pd.isna(ignore_after):
-                            ignore_idx = value.lower().find(ignore_after.lower())
-                            if ignore_idx != -1:
-                                value = value[:ignore_idx].strip()
-                        
-                        # If we have a value pattern, use it to extract the numeric value
-                        if value_pattern and not pd.isna(value_pattern):
-                            try:
-                                match = re.search(str(value_pattern), value)
-                                if match:
-                                    return match.group(0)
-                            except re.error:
-                                # If pattern is invalid, just return the value
-                                return value
-                                
-                        return value
-                        
+                        return extract_value_from_line(value_parts[col_idx], item_order, ignore_before, ignore_after)
+    elif direction == 'above':
+        if phrase_line_idx > 0:
+            value_line = lines[phrase_line_idx - 1]
+            return extract_value_from_line(value_line, item_order, ignore_before, ignore_after)
     return None
+
+def find_value_by_text(page_text, row, data_type):
+    if pd.isna(row['row_search_text']):
+        return None
+    extracted_text = extract_text_adjacent_to_phrase(
+        text=page_text,
+        phrase=row['row_search_text'],
+        direction=row['search_direction'],
+        row_search_text=row['row_search_text'],
+        column_search_text=row['column_search_text'],
+        item_order=row['item_order'],
+        ignore_before=row['ignore_before'],
+        ignore_after=row['ignore_after'] if 'ignore_after' in row else None
+    )
+    if extracted_text:
+        item_order = row['item_order']
+        if pd.isna(item_order) or item_order == -1:
+            return convert_to_numeric(extracted_text, data_type)
+        else:
+            parts = extracted_text.split()
+            if item_order < len(parts):
+                return convert_to_numeric(parts[item_order], data_type)
+    return 0 if data_type == 'numeric' else None
 
 def convert_to_numeric(value, data_type):
     """Convert a value to numeric format based on data type."""
     if value is None:
         return 0 if data_type == 'numeric' else None
         
-    # Remove any non-numeric characters except decimal point and minus sign
+    # Remove non-numeric characters
     if data_type == 'numeric':
-        # Remove commas and other non-numeric characters
         value = str(value).replace(',', '')
-        # Try to convert to float
         try:
             return float(value)
         except ValueError:
             return 0
     return value
-
-def find_value_by_text(page_text, row, data_type):
-    """Find a value in the text based on the search parameters."""
-    if pd.isna(row['row_search_text']):
-        return None
-        
-    # Get the item order
-    item_order = row['item_order']
-    
-    # Check if the search text exists in the page
-    if str(row['row_search_text']) in page_text:
-        # Extract the text to the right or below where the string was found
-        extracted_text = extract_text_adjacent_to_phrase(
-            text=page_text,
-            phrase=row['row_search_text'],
-            direction=row['search_direction'],
-            row_search_text=row['row_search_text'],
-            column_search_text=row['column_search_text'],
-            item_order=row['item_order'],
-            ignore_before=row['ignore_before'],
-            value_pattern=row['value_pattern']
-        )
-        
-        if extracted_text:
-            if pd.isna(item_order) or item_order == -1:
-                # If no item order specified, return the extracted text
-                return convert_to_numeric(extracted_text, data_type)
-            else:
-                # If item order specified, split the text and return the specified item
-                parts = extracted_text.split()
-                if item_order < len(parts):
-                    return convert_to_numeric(parts[item_order], data_type)
-                    
-    return 0 if data_type == 'numeric' else None
 
 def load_ocr_text(pdf_path):
     """Load OCR text from file."""
@@ -246,10 +161,17 @@ def load_ocr_text(pdf_path):
 
                 # TODO: remove manual fixes here
                 text = text.replace("Maxiumu", "Maximum")
+                text = text.replace("|", "")
                 text = text.replace(",", "")
                 text = text.replace("=", "")
                 text = text.replace(":", "")
+                text = text.replace("Ibs", "lbs")
+                text = text.replace("/bs", "lbs")
+                text = text.replace("FaciIity", "Facility")
                 text = text.replace("  ", " ")
+                
+                # Remove blank lines
+                text = '\n'.join([line for line in text.split('\n') if line.strip()])
 
                 return text
     
@@ -290,61 +212,6 @@ def find_parameter_value(ocr_text, row, param_types=None):
         print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
         return np.nan if data_type == 'text' else 0
 
-def identify_manifest_pages(ocr_texts):
-    """Identify pages that contain manifests by looking for the manifest header."""
-    manifest_starts = []
-    manifest_header = "Manure / Process Wastewater Tracking Manifest"
-    
-    for i, text in enumerate(ocr_texts):
-        if manifest_header in text and ("NAME OF OPERATOR" in text.upper() or "OPERATOR INFORMATION" in text.upper()):
-            manifest_starts.append(i + 1)
-    
-    return manifest_starts
-
-def process_manifest_pages(ocr_texts, manifest_params):
-    """Process a pair of manifest pages and extract parameters."""
-    manifest_data = {}
-    
-    # Process first page parameters
-    for _, row in manifest_params.iterrows():
-        for page_num in [0, 1]:
-            value = find_parameter_value(ocr_texts[page_num], row, param_types={'text': 'text', 'numeric': 'numeric'})
-            if value and not pd.isna(value):
-                manifest_data[row['parameter_key']] = value
-                break
-    
-    # Extract the date (always on first page)
-    text = ocr_texts[0]
-    date_match = re.search(r'Last date hauled:\s*(\d{2}/\d{2}/\d{4})', text)
-    if date_match:
-        manifest_data['Last Date Hauled'] = datetime.strptime(date_match.group(1), '%m/%d/%Y').date()
-    
-    return manifest_data
-
-def extract_manifests(pdf_path, manifest_params):
-    """Extract all manifests from OCR text."""
-    manifests = []
-    
-    try:
-        ocr_texts = load_ocr_text(pdf_path)
-        if not ocr_texts:
-            return manifests
-            
-        total_pages = len(ocr_texts)
-        manifest_starts = identify_manifest_pages(ocr_texts)
-        
-        for i, start_page in enumerate(manifest_starts):
-            if start_page + 1 <= total_pages:
-                manifest_data = process_manifest_pages(ocr_texts[start_page-1:start_page+1], manifest_params)
-                if manifest_data:
-                    manifest_data['Page Numbers'] = f"{start_page}-{start_page+1}"
-                    manifests.append(manifest_data)
-        
-    except Exception as e:
-        print(f"Error processing manifests in {pdf_path}: {e}")
-        
-    return manifests
-
 def process_pdf(pdf_path, template_params, columns, param_types):
     """Process a single PDF file and extract all parameters from OCR text."""
     result = {col: None for col in columns}
@@ -356,172 +223,161 @@ def process_pdf(pdf_path, template_params, columns, param_types):
     
     # Process main report parameters
     for _, row in template_params.iterrows():
-        if not row['manifest_param']:
-            param_key = row['parameter_key']
-            value = find_parameter_value(ocr_text, row, param_types=param_types)
-            result[param_key] = value
-    
-    # Process manifests if found
-    manifest_params = template_params[template_params['manifest_param']]
-    if not manifest_params.empty:
-        manifests = extract_manifests(pdf_path, manifest_params)
-        if manifests:
-            result['manifests'] = manifests
+        param_key = row['parameter_key']
+        value = find_parameter_value(ocr_text, row, param_types=param_types)
+        result[param_key] = value
     
     return result
 
 def calculate_annual_milk(df):
-    """Calculate annual milk production metrics."""
-    
-    # Calculate reported milk production
-    df['Average Milk Production (kg per cow)'] = df['Average Milk Production (lb per cow per day)'] * LBS_TO_KG
-    df['Average Milk Production (L per cow)'] = df['Average Milk Production (kg per cow)'] * KG_TO_L_MILK
-    df['Reported Annual Milk Production (L)'] = (
-        df['Average Milk Production (L per cow)'] * 
-        (df['Average Milk Cows'] + df['Average Dry Cows']) * 
-        365
+    """Calculate annual milk production metrics using parameter_key columns only."""
+    # Reported milk production
+    df['avg_milk_prod_kg_per_cow'] = safe_calc(
+        df, ['avg_milk_lb_per_cow_day'],
+        lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG
     )
-    
-    # Calculate estimated milk production using default if not reported
-    df['Estimated Milk Production (lb per cow per day)'] = df['Average Milk Production (lb per cow per day)'].fillna(DEFAULT_MILK_PRODUCTION)
-    df['Estimated Milk Production (kg per cow)'] = df['Estimated Milk Production (lb per cow per day)'] * LBS_TO_KG
-    df['Estimated Milk Production (L per cow)'] = df['Estimated Milk Production (kg per cow)'] * KG_TO_L_MILK
-    df['Estimated Annual Milk Production (L)'] = (
-        df['Estimated Milk Production (L per cow)'] * 
-        (df['Average Milk Cows'] + df['Average Dry Cows']) * 
-        365
+    df['avg_milk_prod_l_per_cow'] = safe_calc(
+        df, ['avg_milk_lb_per_cow_day'],
+        lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_TO_L_MILK
     )
-    
-    # Calculate milk production discrepancy
-    df['Milk Production Discrepancy (L)'] = abs(
-        df['Reported Annual Milk Production (L)'] - 
-        df['Estimated Annual Milk Production (L)']
+    df['reported_annual_milk_production_l'] = safe_calc(
+        df, ['avg_milk_lb_per_cow_day', 'avg_milk_cows', 'avg_dry_cows'],
+        lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_TO_L_MILK * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
     )
+    # Estimated milk production
+    df['estimated_milk_lb_per_cow_day'] = df['avg_milk_lb_per_cow_day'].fillna(DEFAULT_MILK_PRODUCTION) if 'avg_milk_lb_per_cow_day' in df.columns else DEFAULT_MILK_PRODUCTION
+    df['estimated_milk_kg_per_cow'] = df['estimated_milk_lb_per_cow_day'] * LBS_TO_KG
+    df['estimated_milk_l_per_cow'] = df['estimated_milk_kg_per_cow'] * KG_TO_L_MILK
+    df['estimated_annual_milk_production_l'] = safe_calc(
+        df, ['estimated_milk_l_per_cow', 'avg_milk_cows', 'avg_dry_cows'],
+        lambda d: d['estimated_milk_l_per_cow'] * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
+    )
+    # Discrepancy
+    df['milk_production_discrepancy_l'] = safe_calc(
+        df, ['reported_annual_milk_production_l', 'estimated_annual_milk_production_l'],
+        lambda d: abs(d['reported_annual_milk_production_l'].fillna(0) - d['estimated_annual_milk_production_l'].fillna(0))
+    )
+
+def safe_calc(df, keys, func, default=np.nan):
+    if all(k in df.columns for k in keys):
+        return func(df)
+    return default
 
 def calculate_all_metrics(df):
-    """Calculate all possible metrics, filling with NA where not applicable"""
-    
-    # Calculate milk production metrics
+    """Calculate all possible metrics, filling with NA where not applicable, using parameter_key columns."""
+
     calculate_annual_milk(df)
-    
+
     # General Order metrics
-    df["Total Herd Size"] = (
-        df["Average Milk Cows"] + 
-        df["Average Dry Cows"] + 
-        df["Average Bred Heifers"] + 
-        df["Average Heifers"] + 
-        df["Average Calves (4-6 mo.)"] + 
-        df["Average Calves (0-3 mo.)"] +
-        df["Average Other/Unspecified Head"]
+    herd_keys = [
+        "avg_milk_cows", "avg_dry_cows", "avg_bred_heifers",
+        "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo", "avg_other"
+    ]
+    df["total_herd_size"] = safe_calc(
+        df, herd_keys,
+        lambda d: sum(d[k].fillna(0) for k in herd_keys if k in d.columns),
+        default=0
     )
 
-    # Common nutrient calculations for both templates
-    nutrient_types = ["N", "P", "K", "Salt"]
+    nutrient_types = ["n", "p", "k", "salt"]
     for nutrient in nutrient_types:
         # Total Applied
-        df[f"Total Applied {nutrient} (lbs)"] = (
-            df[f"Applied {nutrient} Dry Manure (lbs)"] + 
-            df[f"Applied Process Wastewater {nutrient} (lbs)"]
+        dry_key = f"applied_{nutrient}_dry_manure_lbs"
+        ww_key = f"applied_ww_{nutrient}_lbs"
+        total_applied_key = f"total_applied_{nutrient}_lbs"
+        df[total_applied_key] = safe_calc(
+            df, [dry_key, ww_key],
+            lambda d: d[dry_key].fillna(0) + d[ww_key].fillna(0)
         )
 
-        # Total Reported
-        if nutrient == "N":
-            df[f"Total Reported {nutrient} (lbs)"] = (
-                df[f"Total Dry Manure Generated {nutrient} After Ammonia Losses (lbs)"] + 
-                df[f"Total Process Wastewater Generated {nutrient} (lbs)"]
-            )
+        if nutrient == "n":
+            dry_key_reported = "total_manure_gen_n_after_nh3_losses_lbs"
         else:
-            df[f"Total Reported {nutrient} (lbs)"] = (
-                df[f"Total Dry Manure Generated {nutrient} (lbs)"] + 
-                df[f"Total Process Wastewater Generated {nutrient} (lbs)"]
-            )
+            dry_key_reported = f"total_manure_gen_{nutrient}_lbs"
+        ww_key_reported = f"total_ww_gen_{nutrient}_lbs"
+        total_reported_key = f"total_reported_{nutrient}_lbs"
+        df[total_reported_key] = safe_calc(
+            df, [dry_key_reported, ww_key_reported],
+            lambda d: d[dry_key_reported].fillna(0) + d[ww_key_reported].fillna(0)
+        )
 
         # Unaccounted for
-        if nutrient == "N":
-            df[f"Unaccounted-for {nutrient} (lbs)"] = (
-                df[f"Total Dry Manure Generated {nutrient} After Ammonia Losses (lbs)"] + 
-                df[f"Total Process Wastewater Generated {nutrient} (lbs)"] - 
-                df[f"Total Applied {nutrient} (lbs)"] - 
-                df[f"Total Exports {nutrient} (lbs)"]
-            )
-        else:
-            df[f"Unaccounted-for {nutrient} (lbs)"] = (
-                df[f"Total Dry Manure Generated {nutrient} (lbs)"] + 
-                df[f"Total Process Wastewater Generated {nutrient} (lbs)"] - 
-                df[f"Total Applied {nutrient} (lbs)"] - 
-                df[f"Total Exports {nutrient} (lbs)"]
-            )
+        exports_key = f"total_exports_{nutrient}_lbs"
+        unaccounted_key = f"unaccounted_for_{nutrient}_lbs"
+        df[unaccounted_key] = safe_calc(
+            df, [dry_key_reported, ww_key_reported, total_applied_key, exports_key],
+            lambda d: d[dry_key_reported].fillna(0) + d[ww_key_reported].fillna(0) - d[total_applied_key].fillna(0) - d[exports_key].fillna(0)
+        )
 
-    # Wastewater calculations
-    df["Total Process Wastewater Generated (L)"] = df["Total Process Wastewater Generated (gals)"] * 3.78541
-    
-    # Calculate ratio, handling division by zero
-    # First try with reported milk production
-    df["Ratio of Wastewater to Milk (L/L)"] = (
-        df["Total Process Wastewater Generated (L)"] / 
-        df["Reported Annual Milk Production (L)"].replace(0, np.nan)
-    )
-    
-    # For facilities without reported milk production, use estimated values
-    mask = df["Ratio of Wastewater to Milk (L/L)"].isna()
-    df.loc[mask, "Ratio of Wastewater to Milk (L/L)"] = (
-        df.loc[mask, "Total Process Wastewater Generated (L)"] / 
-        df.loc[mask, "Estimated Annual Milk Production (L)"].replace(0, np.nan)
-    )
-    
-    # Add a column to track whether the ratio is based on reported or estimated milk production
-    df["Milk Production Source"] = "Reported"
-    df.loc[mask, "Milk Production Source"] = "Estimated"
-
-    # Calculate manure factor
-    df["Calculated Manure Factor"] = df.apply(
-        lambda row: (
-            row["Total Manure Excreted (tons)"] / 
-            (
-                row["Average Milk Cows"] + 
-                row["Average Dry Cows"] + 
-                (row["Average Bred Heifers"] + row["Average Heifers"]) * HEIFER_FACTOR +
-                (row["Average Calves (4-6 mo.)"] + row["Average Calves (0-3 mo.)"]) * CALF_FACTOR
-            )
-        ) if (
-            row["Average Milk Cows"] + 
-            row["Average Dry Cows"] + 
-            (row["Average Bred Heifers"] + row["Average Heifers"]) * HEIFER_FACTOR +
-            (row["Average Calves (4-6 mo.)"] + row["Average Calves (0-3 mo.)"]) * CALF_FACTOR
-        ) > 0 else np.nan,
-        axis=1
+    df["total_ww_gen_liters"] = safe_calc(
+        df, ["total_ww_gen_gals"],
+        lambda d: d["total_ww_gen_gals"] * 3.78541
     )
 
-    # Calculate percentage deviations for nitrogen estimates
-    reported_n = df["Total Dry Manure Generated N After Ammonia Losses (lbs)"]
+    # Ratio calculations
+    def ratio_func(d, milk_key):
+        return d["total_ww_gen_liters"] / d[milk_key].replace(0, np.nan)
+    df["ratio_ww_to_milk_l_per_l"] = safe_calc(
+        df, ["total_ww_gen_liters", "reported_annual_milk_production_l"],
+        lambda d: ratio_func(d, "reported_annual_milk_production_l")
+    )
+    if df["ratio_ww_to_milk_l_per_l"].isna().all() and "estimated_annual_milk_production_l" in df.columns:
+        df["ratio_ww_to_milk_l_per_l"] = safe_calc(
+            df, ["total_ww_gen_liters", "estimated_annual_milk_production_l"],
+            lambda d: ratio_func(d, "estimated_annual_milk_production_l")
+        )
 
-    # Calculate discrepancies for visualization
-    df["Nitrogen Discrepancy"] = df["USDA Nitrogen Estimate (lbs)"] - df["Total Dry Manure Generated N After Ammonia Losses (lbs)"]
-    df["Wastewater Ratio Discrepancy"] = df["Wastewater to Milk Ratio"] - df["Ratio of Wastewater to Milk (L/L)"]
-    df["Manure Factor Discrepancy"] = df["Calculated Manure Factor"] - BASE_MANURE_FACTOR
+    manure_keys = [
+        "total_manure_excreted_tons", "avg_milk_cows", "avg_dry_cows",
+        "avg_bred_heifers", "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo"
+    ]
+    def manure_factor_func(d):
+        denom = (
+            d["avg_milk_cows"] + d["avg_dry_cows"] +
+            (d["avg_bred_heifers"] + d["avg_heifers"]) * HEIFER_FACTOR +
+            (d["avg_calves_4_6_mo"] + d["avg_calves_0_3_mo"]) * CALF_FACTOR
+        )
+        result = d["total_manure_excreted_tons"] / denom
+        result[denom <= 0] = np.nan
+        return result
+    df["calculated_manure_factor"] = safe_calc(df, manure_keys, manure_factor_func)
 
-    df["USDA Nitrogen % Deviation"] = (
-        (df["USDA Nitrogen Estimate (lbs)"] - reported_n) / 
-        reported_n.replace(0, np.nan) * 100
+    # Nitrogen deviations
+    n_key = "total_manure_gen_n_after_nh3_losses_lbs"
+    usda_key = "usda_nitrogen_estimate_lbs"
+    ucce_key = "ucce_nitrogen_estimate_lbs"
+    if n_key in df.columns:
+        reported_n = df[n_key]
+        df["nitrogen_discrepancy"] = safe_calc(df, [usda_key, n_key], lambda d: d[usda_key] - reported_n)
+        df["usda_nitrogen_pct_deviation"] = safe_calc(df, [usda_key, n_key], lambda d: (d[usda_key] - reported_n) / reported_n.replace(0, np.nan) * 100)
+        df["ucce_nitrogen_pct_deviation"] = safe_calc(df, [ucce_key, n_key], lambda d: (d[ucce_key] - reported_n) / reported_n.replace(0, np.nan) * 100)
+    else:
+        df["nitrogen_discrepancy"] = np.nan
+        df["usda_nitrogen_pct_deviation"] = np.nan
+        df["ucce_nitrogen_pct_deviation"] = np.nan
+
+    # Wastewater ratio discrepancy
+    df["wastewater_ratio_discrepancy"] = safe_calc(
+        df, ["wastewater_to_milk_ratio", "ratio_ww_to_milk_l_per_l"],
+        lambda d: d["wastewater_to_milk_ratio"] - d["ratio_ww_to_milk_l_per_l"]
     )
 
-    df["UCCE Nitrogen % Deviation"] = (
-        (df["UCCE Nitrogen Estimate (lbs)"] - reported_n) / 
-        reported_n.replace(0, np.nan) * 100
+    df["manure_factor_discrepancy"] = safe_calc(
+        df, ["calculated_manure_factor"],
+        lambda d: d["calculated_manure_factor"] - BASE_MANURE_FACTOR
     )
 
     # Fill NA values with 0 for all calculated columns
     calculated_columns = [
-        "Total Herd Size",
+        "total_herd_size",
         "Average Milk Production (kg per cow)", "Average Milk Production (L per cow)", "Total Annual Milk Production (L)",
-        "Total Applied N (lbs)", "Total Applied P (lbs)", "Total Applied K (lbs)", "Total Applied Salt (lbs)",
-        "Total Reported N (lbs)", "Total Reported P (lbs)", "Total Reported K (lbs)", "Total Reported Salt (lbs)",
-        "Unaccounted-for N (lbs)", "Unaccounted-for P (lbs)", "Unaccounted-for K (lbs)", "Unaccounted-for Salt (lbs)",
-        "Total Process Wastewater Generated (L)", "Ratio of Wastewater to Milk (L/L)",
-        "Calculated Manure Factor", "Nitrogen Discrepancy", "Wastewater Ratio Discrepancy", "Manure Factor Discrepancy",
-        "USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation"
+        "total_applied_n_lbs", "total_applied_p_lbs", "total_applied_k_lbs", "total_applied_salt_lbs",
+        "total_reported_n_lbs", "total_reported_p_lbs", "total_reported_k_lbs", "total_reported_salt_lbs",
+        "unaccounted_for_n_lbs", "unaccounted_for_p_lbs", "unaccounted_for_k_lbs", "unaccounted_for_salt_lbs",
+        "total_ww_gen_liters", "ratio_ww_to_milk_l_per_l",
+        "calculated_manure_factor", "nitrogen_discrepancy", "wastewater_ratio_discrepancy", "manure_factor_discrepancy",
+        "usda_nitrogen_pct_deviation", "ucce_nitrogen_pct_deviation"
     ]
-    
     for col in calculated_columns:
         if col in df.columns:
             df[col] = df[col].fillna(0)
@@ -552,25 +408,46 @@ def convert_to_float_list(text, ignore_before=None):
     
     return float_numbers
 
-def main(test_mode=False, process_manifests=True):
-    """Main function to process all PDF files and extract data."""
-    # Define dtype dictionary for parameter_locations.csv
-    dtype_dict = {
-        'region': str,
-        'template': str,
-        'parameter_key': str,
-        'page_search_text': str,
-        'search_direction': str,
-        'row_search_text': str,
-        'column_search_text': str,
-        'item_order': 'Int64',  # Using Int64 to handle NA values
-        'ignore_before': str,
-        'value_pattern': str
-    }
+def process_csv(csv_path, template_params, columns, param_types):
+    """Process a single CSV file and extract all parameters."""
+    result = {col: None for col in columns}
+    result['filename'] = os.path.basename(csv_path)
     
+    try:
+        df = pd.read_csv(csv_path)
+        
+        # Process each parameter
+        for _, row in template_params.iterrows():
+            param_key = row['parameter_key']
+            if pd.isna(row['column_search_text']):
+                continue
+                
+            # Find the column that matches the search text
+            col_name = row['column_search_text']
+            if col_name in df.columns:
+                # For numeric columns, convert to float and handle any formatting
+                if param_types.get(param_key) == 'numeric':
+                    value = pd.to_numeric(df[col_name].iloc[0], errors='coerce')
+                    if pd.isna(value):
+                        value = 0
+                else:
+                    value = df[col_name].iloc[0]
+                result[param_key] = value
+                
+    except Exception as e:
+        print(f"Error processing CSV {csv_path}: {str(e)}")
+        
+    return result
+
+def main(test_mode=False):
+    """Main function to process all PDF files and extract data."""
+
+    dtype_dict = {col: str for col in ['region', 'template', 'parameter_key', 'page_search_text', 
+                                      'search_direction', 'row_search_text', 'column_search_text',
+                                      'ignore_before', 'value_pattern']}
+    dtype_dict['item_order'] = 'Int64'  # Using Int64 to handle NA values
     parameter_locations = pd.read_csv('ca_cafo_compliance/parameter_locations.csv', dtype=dtype_dict)
-    if 'manifest_param' not in parameter_locations.columns:
-        parameter_locations['manifest_param'] = False
+
     parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
     param_types = dict(zip(parameters['parameter_key'], parameters['data_type']))
     
@@ -599,120 +476,137 @@ def main(test_mode=False, process_manifests=True):
                     output_folder = os.path.join(county_output_path, template)
                     name = f"{county.capitalize()}_{year}_{template}"
                     
-                    template_params = parameter_locations[parameter_locations['template'].isin([template, 'manifest'])]
+                    template_params = parameter_locations[parameter_locations['template'] == template]
                     
-                    ocr_folder = os.path.join(folder, 'ocr_output')
-                    handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
-                    
-                    if not os.path.exists(ocr_folder) and not os.path.exists(handwriting_ocr_folder):
-                        continue
+                    # Check if this is a CSV template
+                    if template == 'r8_csv':
+                        # For R8, the CSV files are in data/2023/R8/all_r8/r8_csv/
+                        if region == 'R8':
+                            # Process both animals and manure CSVs
+                            animals_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_animals.csv')
+                            manure_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_manure.csv')
+                            
+                            animals_df = pd.read_csv(animals_path)
+                            manure_df = pd.read_csv(manure_path)
+                            
+                            df = pd.merge(animals_df, manure_df, on='Facility Name', how='outer', suffixes=('', '_manure'))
+                            
+                            results = []
+                            for _, row in df.iterrows():
+                                result = {col: None for col in template_params['parameter_key'].unique()}
+                                result['filename'] = 'R8_animals.csv'  # Use animals CSV as the filename
+                                
+                                # Map CSV columns to parameters
+                                for _, param_row in template_params.iterrows():
+                                    param_key = param_row['parameter_key']
+                                    col_name = param_row['column_search_text']
+                                    if col_name in df.columns:
+                                        if param_types.get(param_key) == 'numeric':
+                                            value = pd.to_numeric(row[col_name], errors='coerce')
+                                            if pd.isna(value):
+                                                value = 0
+                                        else:
+                                            value = row[col_name]
+                                        result[param_key] = value
+                                    elif param_row['row_search_text'] in df.columns:
+                                        # Try using row_search_text as column name
+                                        col_name = param_row['row_search_text']
+                                        if param_types.get(param_key) == 'numeric':
+                                            value = pd.to_numeric(row[col_name], errors='coerce')
+                                            if pd.isna(value):
+                                                value = 0
+                                        else:
+                                            value = row[col_name]
+                                        result[param_key] = value
+                                
+                                results.append(result)
+                            df = pd.DataFrame(results)
+                    else:
+                        # Original PDF processing logic
+                        ocr_folder = os.path.join(folder, 'ocr_output')
+                        handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
                         
-                    pdf_files = []
-                    for text_file in glob.glob(os.path.join(ocr_folder, '*.txt')):
-                        pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
-                        pdf_path = os.path.join(folder, 'original', pdf_name)
-                        if os.path.exists(pdf_path):
-                            pdf_files.append(pdf_path)
-                    
-                    if os.path.exists(handwriting_ocr_folder):
-                        for text_file in glob.glob(os.path.join(handwriting_ocr_folder, '*.txt')):
+                        if not os.path.exists(ocr_folder) and not os.path.exists(handwriting_ocr_folder):
+                            continue
+                            
+                        pdf_files = []
+                        for text_file in glob.glob(os.path.join(ocr_folder, '*.txt')):
                             pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
                             pdf_path = os.path.join(folder, 'original', pdf_name)
-                            if os.path.exists(pdf_path) and pdf_path not in pdf_files:
+                            if os.path.exists(pdf_path):
                                 pdf_files.append(pdf_path)
-                    
-                    if test_mode:
-                        pdf_files = pdf_files[:2]
                         
-                    if not pdf_files:
-                        continue
+                        if os.path.exists(handwriting_ocr_folder):
+                            for text_file in glob.glob(os.path.join(handwriting_ocr_folder, '*.txt')):
+                                pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
+                                pdf_path = os.path.join(folder, 'original', pdf_name)
+                                if os.path.exists(pdf_path) and pdf_path not in pdf_files:
+                                    pdf_files.append(pdf_path)
                         
-                    non_manifest_params = template_params[template_params['manifest_param'] == False]
-                    columns = non_manifest_params['parameter_key'].unique().tolist()
-                    
-                    with mp.Pool(num_cores) as pool:
-                        process_pdf_partial = partial(process_pdf, template_params=template_params, 
-                                                   columns=columns, param_types=param_types)
-                        results = pool.map(process_pdf_partial, pdf_files)
-                    
-                    df = pd.DataFrame([r for r in results if r is not None])
-                    
-                    if process_manifests and 'manifests' in df.columns:
-                        all_manifests = []
-                        for _, row in df.iterrows():
-                            if isinstance(row['manifests'], list) and row['manifests']:
-                                for manifest in row['manifests']:
-                                    manifest['Source File'] = row['filename']
-                                all_manifests.extend(row['manifests'])
-                                
-                        if all_manifests:
-                            os.makedirs(output_folder, exist_ok=True)
-                            manifest_pickle = os.path.join(output_folder, f"{name}_manifests.pickle")
-                            with open(manifest_pickle, 'wb') as f:
-                                pickle.dump(all_manifests, f)
+                        if test_mode:
+                            pdf_files = pdf_files[:2]
                             
-                            manifest_df = pd.DataFrame(all_manifests)
-                            csv_path = os.path.join(output_folder, f"{name}_manifests.csv")
-                            manifest_df.to_csv(csv_path, index=False)
+                        if not pdf_files:
+                            continue
+                            
+                        columns = template_params['parameter_key'].unique().tolist()
                         
-                        df = df.drop('manifests', axis=1)
+                        with mp.Pool(num_cores) as pool:
+                            process_pdf_partial = partial(process_pdf, template_params=template_params, 
+                                                       columns=columns, param_types=param_types)
+                            results = pool.map(process_pdf_partial, pdf_files)
+                        
+                        df = pd.DataFrame([r for r in results if r is not None])
                     
                     for col in df.columns:
                         if param_types.get(col) == 'numeric':
                             df[col] = pd.to_numeric(df[col], errors='coerce')
                     
-                    df = df.rename(columns=dict(zip(parameters['parameter_key'], parameters['parameter_name'])))
+                    # Only now, after all calculations, rename columns to pretty names and fill missing
+                    key_to_name = dict(zip(parameters['parameter_key'], parameters['parameter_name']))
+                    name_to_key = dict(zip(parameters['parameter_name'], parameters['parameter_key']))
                     
-                    # Calculate estimates for each row
+                    # Rename columns to pretty names
+                    df = df.rename(columns=key_to_name)
+                    
+                    # Ensure all pretty names are present, fill missing with np.nan
+                    for pretty_name in key_to_name.values():
+                        if pretty_name not in df.columns:
+                            df[pretty_name] = np.nan
+                    
+                    # Calculate estimates for each row (still using parameter_keys)
                     estimates = []
-                    for _, row in df.iterrows():
-                        # Get animal counts, replacing NaN with 0
-                        milk_dry_cows = (row.get('Average Milk Cows', 0) or 0) + (row.get('Average Dry Cows', 0) or 0)
-                        heifers = (row.get('Average Bred Heifers', 0) or 0) + (row.get('Average Heifers', 0) or 0)
-                        calves = (row.get('Average Calves (4-6 mo.)', 0) or 0) + (row.get('Average Calves (0-3 mo.)', 0) or 0)
-                        
-                        # Calculate manure generation using base factor from conversion_factors.py
+                    for _, row in df.rename(columns={v: k for k, v in key_to_name.items()}).iterrows():
+                        milk_dry_cows = (row.get('avg_milk_cows', 0) or 0) + (row.get('avg_dry_cows', 0) or 0)
+                        heifers = (row.get('avg_bred_heifers', 0) or 0) + (row.get('avg_heifers', 0) or 0)
+                        calves = (row.get('avg_calves_4_6_mo', 0) or 0) + (row.get('avg_calves_0_3_mo', 0) or 0)
                         estimated_manure = (milk_dry_cows * BASE_MANURE_FACTOR) + \
                                          (heifers * HEIFER_FACTOR * BASE_MANURE_FACTOR) + \
                                          (calves * CALF_FACTOR * BASE_MANURE_FACTOR)
-                        
-                        # Calculate nitrogen estimates
-                        # USDA estimate based on manure generation
                         usda_nitrogen = estimated_manure * MANURE_N_CONTENT
-                        
-                        # UCCE estimate based on animal units
                         animal_units = milk_dry_cows + (heifers * HEIFER_FACTOR) + (calves * CALF_FACTOR)
                         ucce_nitrogen = animal_units * DAYS_PER_YEAR
-                        
-                        # Calculate wastewater to milk ratio if data available
                         wastewater_ratio = 0
-                        if all(x in row for x in ['Average Milk Production (lb/cow/day)', 'Total Process Wastewater Generated (gals)']):
-                            milk_production = row['Average Milk Production (lb/cow/day)']
-                            wastewater = row['Total Process Wastewater Generated (gals)']
-                            
-                            # Convert milk to liters and calculate annual production
+                        if all(x in row for x in ['avg_milk_lb_per_cow_day', 'total_ww_gen_gals']):
+                            milk_production = row['avg_milk_lb_per_cow_day']
+                            wastewater = row['total_ww_gen_gals']
                             daily_milk_liters = milk_production * LBS_TO_LITERS * milk_dry_cows
                             annual_milk_liters = daily_milk_liters * DAYS_PER_YEAR
-                            
-                            # Calculate ratio if milk production is non-zero
                             if annual_milk_liters > 0:
                                 wastewater_ratio = wastewater / annual_milk_liters
-                        
                         estimates.append({
                             'Estimated Total Manure (tons)': estimated_manure,
                             'USDA Nitrogen Estimate (lbs)': usda_nitrogen,
                             'UCCE Nitrogen Estimate (lbs)': ucce_nitrogen,
                             'Wastewater to Milk Ratio': wastewater_ratio
                         })
-                    
-                    # Add estimates to dataframe
                     estimates_df = pd.DataFrame(estimates)
                     df = pd.concat([df, estimates_df], axis=1)
                     
-                    calculate_all_metrics(df)
-
+                    calculate_all_metrics(df.rename(columns={v: k for k, v in key_to_name.items()}))
+                    
                     os.makedirs(output_folder, exist_ok=True)
                     df.to_csv(os.path.join(output_folder, f"{name}.csv"), index=False)
 
 if __name__ == "__main__":
-    main(test_mode=False, process_manifests=True)
+    main(test_mode=False)

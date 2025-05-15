@@ -21,6 +21,8 @@ def clean_text(text):
         line = line.replace('0O', 'O')
         line = line.replace('1I', 'I')
         line = line.replace('S5', 'S')
+        line = line.replace('Ibs', 'lbs')
+        line = line.replace('/bs', 'lbs')
         
         # Fix common OCR errors in numbers
         line = re.sub(r'(\d)O(\d)', r'\1O\2', line)
@@ -81,36 +83,35 @@ def process_page(image, rotation=0):
 
 def process_pdf(pdf_path, file_list_df):
     """Process a single PDF file and extract text using OCR."""
+    print(f'Processing {pdf_path}')
     try:
         # Set up directories
         pdf_dir = os.path.dirname(pdf_path)
         parent_dir = os.path.dirname(pdf_dir)
         pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
         ocr_dir = os.path.join(parent_dir, 'ocr_output')
+        handwriting_ocr_dir = os.path.join(parent_dir, 'handwriting_ocr_output')
         
-        # Check if OCR has already been performed
-        text_file = os.path.join(ocr_dir, f'{pdf_name}.txt')
-        if os.path.exists(text_file):
+        # Check if OCR has already been performed in either output folder
+        text_file_ocr = os.path.join(ocr_dir, f'{pdf_name}.txt')
+        text_file_handwriting = os.path.join(handwriting_ocr_dir, f'{pdf_name}.txt')
+        if os.path.exists(text_file_ocr) or os.path.exists(text_file_handwriting):
             return
-        
-        # Get rotation from file list
-        filename = os.path.basename(pdf_path)
-        rotation = file_list_df[file_list_df['filename'] == filename]['rotation'].iloc[0] if not file_list_df.empty else 0
         
         # Perform OCR
         os.makedirs(ocr_dir, exist_ok=True)
         images = convert_from_path(pdf_path, dpi=OCR_DPI)
         
-        # Process each page
+        # Process each page (no rotation)
         combined_text = []
         for i, image in enumerate(images):
-            text = process_page(image, rotation)
+            text = process_page(image, rotation=0)
             combined_text.append(text)
             if i < len(images) - 1:
                 combined_text.append(f"\nPDF PAGE BREAK {i+1}\n")
         
         # Save combined text
-        with open(text_file, 'w') as f:
+        with open(text_file_ocr, 'w') as f:
             f.write('\n'.join(combined_text))
             
     except ImportError:
