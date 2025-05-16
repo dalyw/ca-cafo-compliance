@@ -12,6 +12,7 @@ from datetime import datetime
 from geopy.geocoders import Nominatim, ArcGIS
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 from conversion_factors import *
+import numpy as np
 
 GEOCODING_CACHE_FILE = "outputs/geocoding_cache.json"
 R2_COUNTIES = ["Alameda", "Contra Costa", "Marin", "Napa",  "San Francisco", 
@@ -310,57 +311,40 @@ def parse_address(address):
 
 def calculate_metrics(df):
     """Calculate metrics for each facility."""
-    # Calculate manure factor
-    df['Calculated Manure Factor'] = df.apply(
-        lambda row: row['Total Manure Excreted (tons)'] / row['Total Herd Size'] 
-        if row['Total Herd Size'] > 0 else None, 
-        axis=1
-    )
+    # No need to recalculate metrics that are already in the data
+    # Just ensure the columns exist
+    required_columns = [
+        'ratio_ww_to_milk_l_per_l',
+        'usda_nitrogen_pct_deviation',
+        'ucce_nitrogen_pct_deviation',
+        'calculated_manure_factor'
+    ]
     
-    # Calculate wastewater ratio
-    df['Ratio of Wastewater to Milk (L/L)'] = df.apply(
-        lambda row: row['Total Process Wastewater Generated (gals)'] / (row['Average Milk Production (lb per cow per day)'] * row['Average Milk Cows'] * 365 * 0.45359237)
-        if row['Average Milk Production (lb per cow per day)'] > 0 and row['Average Milk Cows'] > 0 else None,
-        axis=1
-    )
-    
-    # Calculate nitrogen deviations
-    df['USDA Nitrogen % Deviation'] = df.apply(
-        lambda row: ((row['Total Dry Manure Generated N (lbs)'] - row['USDA Nitrogen Estimate (lbs)']) / row['USDA Nitrogen Estimate (lbs)'] * 100)
-        if row['USDA Nitrogen Estimate (lbs)'] > 0 else None,
-        axis=1
-    )
-    
-    df['UCCE Nitrogen % Deviation'] = df.apply(
-        lambda row: ((row['Total Dry Manure Generated N (lbs)'] - row['UCCE Nitrogen Estimate (lbs)']) / row['UCCE Nitrogen Estimate (lbs)'] * 100)
-        if row['UCCE Nitrogen Estimate (lbs)'] > 0 else None,
-        axis=1
-    )
+    for col in required_columns:
+        if col not in df.columns:
+            print(f"Warning: Required column {col} not found in data")
+            df[col] = None
     
     return df
 
 def calculate_consultant_metrics(df):
     """Calculate average under/over-reporting metrics for each consultant."""
-    # First calculate the metrics for each facility
-    df = calculate_metrics(df)
-    
     # Group by consultant
     consultant_groups = df.groupby('Consultant')
     
     metrics = []
     for consultant, group in consultant_groups:
-        # Calculate averages for each metric
-        manure_avg = group['Calculated Manure Factor'].mean()
-        manure_std = group['Calculated Manure Factor'].std()
+        manure_avg = group['Calculated Manure Factor'].mean() if 'Calculated Manure Factor' in group.columns else None
+        manure_std = group['Calculated Manure Factor'].std() if 'Calculated Manure Factor' in group.columns else None
         
-        wastewater_avg = group['Ratio of Wastewater to Milk (L/L)'].mean()
-        wastewater_std = group['Ratio of Wastewater to Milk (L/L)'].std()
+        wastewater_avg = group['Wastewater to Milk Ratio'].mean() if 'Wastewater to Milk Ratio' in group.columns else None
+        wastewater_std = group['Wastewater to Milk Ratio'].std() if 'Wastewater to Milk Ratio' in group.columns else None
         
-        nitrogen_usda_avg = group['USDA Nitrogen % Deviation'].mean()
-        nitrogen_usda_std = group['USDA Nitrogen % Deviation'].std()
+        nitrogen_usda_avg = group['USDA Nitrogen % Deviation'].mean() if 'USDA Nitrogen % Deviation' in group.columns else None
+        nitrogen_usda_std = group['USDA Nitrogen % Deviation'].std() if 'USDA Nitrogen % Deviation' in group.columns else None
         
-        nitrogen_ucce_avg = group['UCCE Nitrogen % Deviation'].mean()
-        nitrogen_ucce_std = group['UCCE Nitrogen % Deviation'].std()
+        nitrogen_ucce_avg = group['UCCE Nitrogen % Deviation'].mean() if 'UCCE Nitrogen % Deviation' in group.columns else None
+        nitrogen_ucce_std = group['UCCE Nitrogen % Deviation'].std() if 'UCCE Nitrogen % Deviation' in group.columns else None
         
         metrics.append({
             'Consultant': consultant,
@@ -423,18 +407,19 @@ for year in YEARS:
         dfs = []
         for csv_file in csv_files:
             df = pd.read_csv(csv_file)
-            
+            # Ensure these columns always exist
+            for col in ["USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation", "ww_to_reported_milk", "ww_to_estimated_milk"]:
+                if col not in df.columns:
+                    df[col] = np.nan
             # Add metadata columns
             df['Year'] = year
             df['Region'] = region
             df['filename'] = os.path.basename(csv_file)
-            
             # Extract template from path
             path_parts = csv_file.split(os.sep)
             region_idx = path_parts.index(region)
             if region_idx + 2 < len(path_parts):
                 df['Template'] = path_parts[region_idx + 2]
-            
             dfs.append(df)
         if not dfs:
             continue
@@ -450,10 +435,8 @@ for year in YEARS:
             axis=1
         )]
         
-        # Add consultant name based on template
         combined_df['Consultant'] = combined_df['Template'].map(consultant_mapping).fillna('Unknown')
         
-        # Calculate total herd size robustly
         herd_cols = [
             'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
             'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)',
@@ -490,7 +473,6 @@ for year in YEARS:
                 # Parse address components
                 street, city, parsed_county, zip_code = parse_address(address)
                 
-                # Use geocoded county if available, otherwise use parsed county
                 final_county = geocoded_county or parsed_county
                 
                 mask = combined_df[address_col] == address
@@ -503,8 +485,10 @@ for year in YEARS:
             
             print(f"Geocoding complete: {new_geocodes} addresses geocoded")
         
-        # Add consultant metrics only for R5 and 2023
-        if year == "2023" and region == "R5":
+        # print(year)
+        # print(type(year))
+        # consultant metrics only for R5 and 2023
+        if year == 2023 and region == "R5":
             consultant_metrics = calculate_consultant_metrics(combined_df)
             metrics_file = f"outputs/consolidated/{year}_{region}_consultant_metrics.csv"
             consultant_metrics.to_csv(metrics_file, index=False)

@@ -42,87 +42,101 @@ def convert_columns(df):
     return df
 
 def load_data():
-    print("\n=== Debug: Loading Data ===")
-    all_files = glob.glob("outputs/consolidated/*.csv")
+    """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""
+    print("\n=== Debug: load_data ===")
+    
+    # Try local files first
+    csv_files = glob.glob("outputs/consolidated/*.csv")
+    print(f"Found {len(csv_files)} CSV files in outputs/consolidated")
+    
     dfs = []
-    if not all_files:
-        try:
-            import requests
-            from io import StringIO
-            print('getting data from github')
-            base_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/outputs/consolidated"
-            files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
-            for file in files_to_load:
-                try:
-                    url = f"{base_url}/{file}"
-                    response = requests.get(url)
-                    if response.status_code == 200:
-                        df = pd.read_csv(StringIO(response.text))
-                        df['Year'] = file.split('_')[0]
-                        dfs.append(convert_columns(df))
-                except Exception as e:
-                    st.warning(f"Error loading {file} from GitHub: {str(e)}")
-            if not dfs:
-                st.error("No data could be loaded from GitHub. Please check the repository URL and file paths.")
-                st.stop()
-        except ImportError:
-            st.error("Could not load data from GitHub.")
-            st.stop()
+    if csv_files:
+        for file in csv_files:
+            print(f"\nReading file: {file}")
+            df = pd.read_csv(file)
+            print(f"File shape: {df.shape}")
+            print(f"Columns: {df.columns.tolist()}")
+            dfs.append(df)
     else:
-        for file in all_files:
+        print("No local CSV files found. Attempting to load from GitHub...")
+        import requests
+        from io import StringIO
+        base_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/outputs/consolidated"
+        YEARS = ["2023", "2024"]
+        REGIONS = ["1", "2", "5", "7", "8"]
+        files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
+        for file in files_to_load:
+            url = f"{base_url}/{file}"
             try:
-                print(f"Loading file: {file}")
-                df = pd.read_csv(file)
-                df['Year'] = os.path.basename(file).split('_')[0]
-                dfs.append(convert_columns(df))
+                response = requests.get(url)
+                if response.status_code == 200:
+                    df = pd.read_csv(StringIO(response.text))
+                    print(f"Loaded {file} from GitHub, shape: {df.shape}")
+                    dfs.append(df)
+                else:
+                    print(f"File {file} not found on GitHub.")
             except Exception as e:
-                st.error(f"Error loading {file}: {str(e)}")
-        if not dfs:
-            st.error("No data could be loaded.")
-            st.stop()
+                print(f"Error loading {file} from GitHub: {e}")
+    
+    if not dfs:
+        print("No data could be loaded from local files or GitHub.")
+        return pd.DataFrame()
     
     combined_df = pd.concat(dfs, ignore_index=True)
-    print(f"\nTotal rows after combining: {len(combined_df)}")
+    print(f"\nCombined dataframe shape: {combined_df.shape}")
+    print(f"Combined columns: {combined_df.columns.tolist()}")
+    # Clean up Year column: drop NaN, convert to int then str, and filter out invalid years
+    if 'Year' in combined_df.columns:
+        combined_df = combined_df[combined_df['Year'].notna()]
+        def year_to_str(x):
+            try:
+                return str(int(float(x)))
+            except Exception:
+                return None
+        combined_df['Year'] = combined_df['Year'].apply(year_to_str)
+        combined_df = combined_df[combined_df['Year'].notna()]
     
-    if 'Consultant' not in combined_df.columns:
-        combined_df['Consultant'] = combined_df['Template'].map(consultant_mapping).fillna('Unknown')
-    else:
-        mask = combined_df['Consultant'].isna() | (combined_df['Consultant'] == 'nan')
-        combined_df.loc[mask, 'Consultant'] = combined_df.loc[mask, 'Template'].map(consultant_mapping).fillna('Unknown')
+    # Check for nitrogen deviation columns before renaming
+    print("\nChecking nitrogen deviation columns before renaming:")
+    print(f"'usda_nitrogen_pct_deviation' in columns: {'usda_nitrogen_pct_deviation' in combined_df.columns}")
+    print(f"'ucce_nitrogen_pct_deviation' in columns: {'ucce_nitrogen_pct_deviation' in combined_df.columns}")
+    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in combined_df.columns}")
+    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in combined_df.columns}")
     
-    # Ensure consistent column names
+    # Rename columns to ensure consistency
     column_mapping = {
         'usda_nitrogen_pct_deviation': 'USDA Nitrogen % Deviation',
         'ucce_nitrogen_pct_deviation': 'UCCE Nitrogen % Deviation',
-        'ratio_ww_to_milk_l_per_l': 'Ratio of Wastewater to Milk (L/L)',
-        'calculated_manure_factor': 'Calculated Manure Factor'
+        'total_manure_gen_n_after_nh3_losses_lbs': 'Total Manure N (lbs)',
+        'usda_nitrogen_estimate_lbs': 'USDA N Estimate (lbs)',
+        'ucce_nitrogen_estimate_lbs': 'UCCE N Estimate (lbs)'
     }
     
-    # Print original column names
-    print("\nOriginal columns before renaming:")
+    # Apply renaming
     for old_col, new_col in column_mapping.items():
         if old_col in combined_df.columns:
-            print(f"{old_col}: {combined_df[old_col].notna().sum()} non-null values")
-    
-    # Rename columns if they exist in the original format
-    for old_col, new_col in column_mapping.items():
-        if old_col in combined_df.columns:
+            print(f"Renaming {old_col} to {new_col}")
             combined_df[new_col] = combined_df[old_col]
-            print(f"Renamed {old_col} to {new_col}")
+        else:
+            print(f"Warning: {old_col} not found in columns")
     
-    # Print final column names and their non-null counts
-    print("\nFinal columns after processing:")
-    for col in ['USDA Nitrogen % Dev Avg', 'UCCE Nitrogen % Dev Avg', 'Wastewater Ratio Avg', 'Manure Factor Avg']:
-        if col in combined_df.columns:
-            print(f"{col}: {combined_df[col].notna().sum()} non-null values")
-            if combined_df[col].notna().sum() > 0:
-                print(f"Sample values: {combined_df[col].dropna().head().tolist()}")
+    # Check for nitrogen deviation columns after renaming
+    print("\nChecking nitrogen deviation columns after renaming:")
+    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in combined_df.columns}")
+    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in combined_df.columns}")
     
-    combined_df['Year'] = combined_df['Year'].astype(str)
-    print("\n=== End Debug: Loading Data ===\n")
+    if 'USDA Nitrogen % Deviation' in combined_df.columns:
+        print(f"USDA Nitrogen % Deviation non-null values: {combined_df['USDA Nitrogen % Deviation'].notna().sum()}")
+        print(f"USDA Nitrogen % Deviation sample values: {combined_df['USDA Nitrogen % Deviation'].dropna().head().tolist() if combined_df['USDA Nitrogen % Deviation'].notna().any() else 'None'}")
+    
+    if 'UCCE Nitrogen % Deviation' in combined_df.columns:
+        print(f"UCCE Nitrogen % Deviation non-null values: {combined_df['UCCE Nitrogen % Deviation'].notna().sum()}")
+        print(f"UCCE Nitrogen % Deviation sample values: {combined_df['UCCE Nitrogen % Deviation'].dropna().head().tolist() if combined_df['UCCE Nitrogen % Deviation'].notna().any() else 'None'}")
+    
+    print("\n=== End Debug: load_data ===\n")
     return combined_df
 
-def create_map(df, selected_year):
+def create_map(df, selected_year): 
     """Create a map visualization of facilities with regional board boundaries."""
     # Convert both to strings for comparison
     year_df = df[df['Year'].astype(str) == str(selected_year)]
@@ -200,9 +214,9 @@ def create_comparison_plots(df):
     # 1. Nitrogen Generation - Percentage Deviation Histograms
     nitrogen_fig = go.Figure()
     
-    # Use the correct column names directly
-    usda_col = 'USDA Nitrogen % Dev Avg'
-    ucce_col = 'UCCE Nitrogen % Dev Avg'
+    # Use the correct column names from read_reports.py
+    usda_col = 'usda_nitrogen_pct_deviation'
+    ucce_col = 'ucce_nitrogen_pct_deviation'
     
     print("\n=== Nitrogen Generation Plot ===")
     print(f"Looking for columns: {usda_col}, {ucce_col}")
@@ -276,15 +290,16 @@ def create_comparison_plots(df):
     # 2. Wastewater to Milk Ratio - Histogram
     wastewater_fig = go.Figure()
     
-    # Use the correct column name directly
-    ratio_col = 'Wastewater Ratio Avg'
+    # Use the correct column names from read_reports.py
+    reported_col = 'ww_to_reported_milk'
+    estimated_col = 'ww_to_estimated_milk'
     
     print("\n=== Wastewater to Milk Ratio Plot ===")
-    print(f"Looking for column: {ratio_col}")
+    print(f"Looking for columns: {reported_col}, {estimated_col}")
     
     # Filter data for reported wastewater ratios
     reported_mask = df['Milk Production Source'] == 'Reported'
-    reported_wastewater_data = df.loc[reported_mask, ratio_col].dropna() if ratio_col in df.columns else pd.Series()
+    reported_wastewater_data = df.loc[reported_mask, reported_col].dropna() if reported_col in df.columns else pd.Series()
     print(f"Reported wastewater data points: {len(reported_wastewater_data)}")
     if not reported_wastewater_data.empty:
         print(f"Reported wastewater data range: {reported_wastewater_data.min():.2f} to {reported_wastewater_data.max():.2f}")
@@ -302,7 +317,7 @@ def create_comparison_plots(df):
     
     # Filter data for estimated wastewater ratios
     estimated_mask = df['Milk Production Source'] == 'Estimated'
-    estimated_wastewater_data = df.loc[estimated_mask, ratio_col].dropna() if ratio_col in df.columns else pd.Series()
+    estimated_wastewater_data = df.loc[estimated_mask, estimated_col].dropna() if estimated_col in df.columns else pd.Series()
     print(f"Estimated wastewater data points: {len(estimated_wastewater_data)}")
     if not estimated_wastewater_data.empty:
         print(f"Estimated wastewater data range: {estimated_wastewater_data.min():.2f} to {estimated_wastewater_data.max():.2f}")
@@ -318,26 +333,17 @@ def create_comparison_plots(df):
     else:
         print("WARNING: No estimated wastewater data available")
     
-    # Add vertical line for estimated ratio if we have any data
+    # Add green rectangle for expected range
     if not reported_wastewater_data.empty or not estimated_wastewater_data.empty:
-        max_count = max(
-            reported_wastewater_data.value_counts().max() if not reported_wastewater_data.empty else 0,
-            estimated_wastewater_data.value_counts().max() if not estimated_wastewater_data.empty else 0
+        wastewater_fig.add_vrect(
+            x0=0,
+            x1=L_WW_PER_L_MILK_LOW,
+            fillcolor="rgba(200,0,0,0.15)",
+            layer="below",
+            line_width=0,
+            annotation_text="Likely<br>Under-Reporting",
+            annotation_position="top"
         )
-        avg_ratio = df['Wastewater to Milk Ratio'].mean()
-        if not pd.isna(avg_ratio):
-            print(f"Average wastewater ratio: {avg_ratio:.2f}")
-            wastewater_fig.add_trace(
-                go.Scatter(
-                    x=[avg_ratio] * 2,
-                    y=[0, max_count],
-                    mode='lines',
-                    name='Average Estimated Ratio',
-                    line=dict(color=base_color, width=2, dash='dash')
-                )
-            )
-        else:
-            print("WARNING: Average wastewater ratio is NaN")
     
     wastewater_fig.update_layout(
         title="Distribution of Wastewater to Milk Ratios",
@@ -354,12 +360,11 @@ def create_comparison_plots(df):
         ),
         barmode='stack'  # Stack the histograms
     )
-    
     # 3. Manure Factor - Histogram
     manure_fig = go.Figure()
     
-    # Use the correct column name directly
-    manure_col = 'Manure Factor Avg'
+    # Use the correct column name from read_reports.py
+    manure_col = 'calculated_manure_factor'
     
     print("\n=== Manure Factor Plot ===")
     print(f"Looking for column: {manure_col}")
@@ -379,16 +384,34 @@ def create_comparison_plots(df):
             )
         )
         
-        # Add vertical line for base factor
-        manure_fig.add_trace(
-            go.Scatter(
-                x=[BASE_MANURE_FACTOR] * 2,
-                y=[0, manure_data.value_counts().max()],
-                mode='lines',
-                name='Base Factor',
-                line=dict(color=base_color, width=2, dash='dash')
-            )
+        # # "reasonable" region: 8 <= x <= 15. $ TODO: check if it should be smaller - 10-12?
+        # manure_fig.add_vrect(
+        #     x0=8, x1=15,
+        #     fillcolor="rgba(0,200,0,0.15)",
+        #     layer="below",
+        #     line_width=0,
+        #     annotation_text="Reasonable<br>Values",
+        #     annotation_position="top"
+        # )
+        # Likely under-reporting if x < 8
+        manure_fig.add_vrect(
+            x0=manure_data.min(), x1=8,
+            fillcolor="rgba(200,0,0,0.15)",
+            layer="below",
+            line_width=0,
+            annotation_text="Likely<br>Under-reporting",
+            annotation_position="top"
         )
+        # # Likely over-reporting
+        # manure_fig.add_vrect(
+        #     x0=15, x1=manure_data.max(),
+        #     fillcolor="rgba(200,0,0,0.15)", 
+        #     layer="below",
+        #     line_width=0,
+        #     annotation_text="Likely<br>Over-reporting",
+        #     annotation_position="top"
+        # )
+        manure_fig.update_yaxes(range=[0, manure_data.value_counts().max() * 1.1])
     else:
         print("WARNING: No manure factor data available")
     
@@ -717,7 +740,7 @@ def filter_tab2(df, selected_year):
     print(f"\nFinal filtered rows: {len(filtered_df)}")
     
     # Check if we have any non-null values in our key columns
-    key_columns = ['USDA Nitrogen % Dev Avg', 'UCCE Nitrogen % Dev Avg', 'Wastewater Ratio Avg', 'Manure Factor Avg']
+    key_columns = ['usda_nitrogen_pct_deviation', 'ucce_nitrogen_pct_deviation', 'ww_to_reported_milk', 'ww_to_estimated_milk', 'calculated_manure_factor']
     for col in key_columns:
         if col in filtered_df.columns:
             non_null = filtered_df[col].notna().sum()
@@ -742,7 +765,7 @@ def main():
         df = load_data()
         
         # Create tabs
-        tab1, tab2, tab3 = st.tabs(["CAFO Maps and Manure Manifests", "CAFO Reporting Data", "Data Availability & Sources"])
+        tab1, tab2, tab3, tab4 = st.tabs(["CAFO Maps and Manure Manifests", "CAFO Reporting Data", "Enforcement", "Data Availability & Sources"])
         
         with tab1:
             st.write("""
@@ -763,12 +786,14 @@ def main():
                 st.metric("Total Animals", f"{map_df['Total Herd Size'].sum():,.0f}")
                 map_fig = create_map(map_df, selected_year)
                 if map_fig is not None:
+                    st.write("*To do: incorporate the CADD dataset for herd size to capture more facilities. And/or Lucia's dataset*")
                     st.plotly_chart(map_fig, use_container_width=True, height=1000)
             else:
                 st.warning("No location data available for the selected year.")
             
             # Add ArcGIS map embed
             st.subheader("CAFO Density around Elementary Schools")
+            st.write("Just an example of how we can embed an ArcGIS map that has been published to an online url. This example is from https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4")
             st.components.v1.iframe(
                 "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
                 height=600,
@@ -786,7 +811,7 @@ def main():
             st.info("""
             **Manure Export Map Coming Soon**
             
-            Manure manifest showing export destinations and volumes
+            Manure manifest showing export destinations and volumes (from Sophia)
             """)
             
             # Add spacing between maps
@@ -812,6 +837,8 @@ def main():
             
             # Comparison plots with explanations
             st.subheader("Estimated vs Actual Comparisons")
+
+            st.write("*Note: We can incorporate any of the figures that Hailey is creating from 2023 here too*")
             
             # Nitrogen Generation Plot
             st.markdown("""
@@ -827,6 +854,7 @@ def main():
             ### Wastewater to Milk Ratio
             Unusually low ratios may indicate under-reporting of wastewater usage.
             The ratio is calculated as: Total Process Wastewater (L) / Annual Milk Production (L). Milk production is either reported or estimated (using 68 lb/cow/day default)
+            
             """)
             st.plotly_chart(wastewater_fig, use_container_width=True)
             
@@ -836,6 +864,8 @@ def main():
             Under-reporting of manure generation can lead to improper nutrient management. Our analysis shows that most facilities are reporting manure generation well below established baselines.
             The base factor is 4.1 tons of manure per cow per year. This is reduced by 40% for heifers and 70% for calves.
             We calculate the dairy's reported manure generation per cow and compare it to this base factor for their herd size. 
+            
+            * note: as of May 16, the zero column is too high since there are some files being read where manure is non-zero but not being picked up. Similarly, the factor for some facilities might be over-counted because the herd size is being under-counted reading the files*
             """)
             st.plotly_chart(manure_fig, use_container_width=True)
             
@@ -862,7 +892,7 @@ def main():
                 facility_df = filtered_df
             
             facility_names = sorted(facility_df['Dairy Name'].unique())
-            selected_facility = st.selectbox("Select a Facility", facility_names)
+            selected_facility = st.selectbox("Select a Facility", facility_names, index=facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0)
             
             if selected_facility:
                 # Get facility details
@@ -929,19 +959,36 @@ def main():
         
         with tab3:
             st.write("""
+            ### Irrigated Lands Regulatory Program (ILRP) Enforcement Actions by the Central Valley Water Board (2015-2025)
+                     
+                     (just added this section based on the great Air team presentation, 
+                     in case we want to highlight their findings!)
+
+            | Enforcement Type                                      | Administrative Civil Liability (ACLs) | Cleanup and Abatement Orders (CAOs) |
+            |------------------------------------------------------|:-------------------------------------:|:-----------------------------------:|
+            | Enforcement for Failure to Obtain Regulatory Coverage| 14                                    |                                     |
+            | Enforcement for Failure to Submit Evaluation Report  | 6                                     |                                     |
+            | Enforcement for Sediment Discharge                   | 1                                     | 2                                   |
+
+            *Source: Central Valley Water Board enforcement data, 2015-2025. https://www.waterboards.ca.gov/centralvalley/water_issues/irrigated_lands/formal_enforcement/
+            
+            *Note: Most enforcement actions are for paperwork violations, not nutrient or wastewater pollution.*
+            """)
+        with tab4:
+            st.write("""
             This section provides information about the data availability and types for each region, based on the provided text.
             This analysis is inherently limited by the accessibility and consistency of the source data, including issues like inconsistent regional reporting formats and levels of detail, the requirement to visit in-person to get data in some regions, and different data collection periods
             """)
 
             st.subheader("R-1 North Coast")
             st.markdown("""
-            **Data Availability:** Annual reports under Order No. R1-2019-0001 requested by emailing the R2 Water Board and transferred via email.
+            Annual reports under Order No. R1-2019-0001 requested by emailing the R2 Water Board and transferred via email.
             - Waste discharge requirements documentation
             """)
 
             st.subheader("R-2 San Francisco Bay")
             st.markdown("""
-            **Data Availability:** Annual reports under Order R2-2016-0031 requested by emailing the R2 Water Board and transferred via email.
+            Annual reports under Order R2-2016-0031 requested by emailing the R2 Water Board and transferred via email.
             - Facility information and animal counts
             - Certification of facility monitoring programs, waste management plans, grazing management plans, and nutrient management plans
             - Pre-rainy season pollution prevention inspection documentation
@@ -950,7 +997,7 @@ def main():
 
             st.subheader("R-5 Central Valley")
             st.markdown("""
-            **Data Availability:** Annual reports under General Order No. R5-2007-0035 requested by emailing the Central Valley Water Board and transferred through their Transfer Portal.
+            Annual reports under General Order No. R5-2007-0035 requested by emailing the Central Valley Water Board and transferred through their Transfer Portal.
             - Animal counts
             - Manure production with nutrient breakdown
             - Wastewater production
@@ -963,7 +1010,7 @@ def main():
 
             st.subheader("R-7 Colorado River Basin")
             st.markdown("""
-            **Data Availability:** Annual reports under Order R7-2021-0029 requested by emailing the R7 Water Board and transferred through their Transfer Portal.
+            Annual reports under Order R7-2021-0029 requested by emailing the R7 Water Board and transferred through their Transfer Portal.
             - Animal counts
             - Composting inventory
             - Land application of manure, litter, and process wastewater report
@@ -973,7 +1020,7 @@ def main():
             
             st.subheader("R-8 Santa Ana")
             st.markdown("""
-            **Data Availability:** Annual reports under Order No. R8-2018-0001 requested by emailing the R8 Water Board and transferred through their Transfer Portal.
+            Annual reports under Order No. R8-2018-0001 requested by emailing the R8 Water Board and transferred through their Transfer Portal.
             The reports are still available for download as of May 2025.
             https://ftp.waterboards.ca.gov/WebInterface/login.html?path=/CAFO%202023%20Annual%20Reports/
             Username: rb8download
