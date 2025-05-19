@@ -17,11 +17,20 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from geopy.geocoders import Nominatim, ArcGIS
+from geopy.geocoders import ArcGIS
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 
 read_reports = True
 consolidate_data = True
+
+def load_parameters():
+    """Load parameters and create mapping dictionaries."""
+    parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
+    return {
+        'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
+        'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
+        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type']))
+    }
 
 def extract_value_with_pattern(text):
     """Extract the first number (int or float) from the text."""
@@ -163,13 +172,9 @@ def load_ocr_text(pdf_path):
     for ocr_dir in ['handwriting_ocr_output', 'ocr_output']:
         text_file = os.path.join(parent_dir, ocr_dir, f'{pdf_name}.txt')
         if os.path.exists(text_file):
-            # if ocr_dir == 'handwriting_ocr_output':
-                # print('found handwriting output')
             with open(text_file, 'r') as f:
                 text = f.read()
-                # print(f'reading {text_file}')
-
-                # TODO: remove manual fixes here
+                # Clean up text
                 text = text.replace("Maxiumu", "Maximum")
                 text = text.replace("|", "")
                 text = text.replace(",", "")
@@ -179,21 +184,18 @@ def load_ocr_text(pdf_path):
                 text = text.replace("/bs", "lbs")
                 text = text.replace("FaciIity", "Facility")
                 text = text.replace("  ", " ")
-                
-                # Remove blank lines
                 text = '\n'.join([line for line in text.split('\n') if line.strip()])
-
                 return text
     
     print(f"OCR text file not found for {pdf_name}")
     return None
 
-def find_parameter_value(ocr_text, row, param_types=None):
+def find_parameter_value(ocr_text, row, data_types):
     """Extract a parameter value from OCR text based on the specified row from parameter_locations."""
     if pd.isna(row['search_direction']):
         return np.nan
         
-    data_type = param_types.get(row['parameter_key'], 'text')
+    data_type = data_types.get(row['parameter_key'], 'text')
     
     try:
         # Get the text to search in
@@ -222,7 +224,7 @@ def find_parameter_value(ocr_text, row, param_types=None):
         print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
         return np.nan if data_type == 'text' else 0
 
-def process_pdf(pdf_path, template_params, columns, param_types):
+def process_pdf(pdf_path, template_params, columns, data_types):
     """Process a single PDF file and extract all parameters from OCR text."""
     result = {col: None for col in columns}
     result['filename'] = os.path.basename(pdf_path)
@@ -234,14 +236,50 @@ def process_pdf(pdf_path, template_params, columns, param_types):
     # Process main report parameters
     for _, row in template_params.iterrows():
         param_key = row['parameter_key']
-        value = find_parameter_value(ocr_text, row, param_types=param_types)
+        value = find_parameter_value(ocr_text, row, data_types)
         result[param_key] = value
     
     return result
 
-def calculate_annual_milk(df):
-    """Calculate annual milk production metrics using parameter_key columns only."""
-    # Reported milk production
+def process_csv(csv_path, template_params, columns, data_types):
+    """Process a single CSV file and extract all parameters."""
+    result = {col: None for col in columns}
+    result['filename'] = os.path.basename(csv_path)
+    
+    try:
+        df = pd.read_csv(csv_path)
+        
+        # Process each parameter
+        for _, row in template_params.iterrows():
+            param_key = row['parameter_key']
+            if pd.isna(row['column_search_text']):
+                continue
+                
+            # Find the column that matches the search text
+            col_name = row['column_search_text']
+            if col_name in df.columns:
+                # For numeric columns, convert to float and handle any formatting
+                if data_types.get(param_key) == 'numeric':
+                    value = pd.to_numeric(df[col_name].iloc[0], errors='coerce')
+                    if pd.isna(value):
+                        value = 0
+                else:
+                    value = df[col_name].iloc[0]
+                result[param_key] = value
+                
+    except Exception as e:
+        print(f"Error processing CSV {csv_path}: {str(e)}")
+        
+    return result
+
+def safe_calc(df, keys, func, default=np.nan):
+    if all(k in df.columns for k in keys):
+        return func(df)
+    return default
+
+def calculate_metrics(df):
+    """Calculate all metrics for the dataframe."""
+    # Calculate annual milk production
     df['avg_milk_prod_kg_per_cow'] = safe_calc(
         df, ['avg_milk_lb_per_cow_day'],
         lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG
@@ -254,34 +292,8 @@ def calculate_annual_milk(df):
         df, ['avg_milk_lb_per_cow_day', 'avg_milk_cows', 'avg_dry_cows'],
         lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_PER_L_MILK * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
     )
-    # Estimated milk production
-    df['estimated_milk_lb_per_cow_day'] = df['avg_milk_lb_per_cow_day'].fillna(DEFAULT_MILK_PRODUCTION) if 'avg_milk_lb_per_cow_day' in df.columns else DEFAULT_MILK_PRODUCTION
-    df['estimated_milk_kg_per_cow'] = df['estimated_milk_lb_per_cow_day'] * LBS_TO_KG
-    df['estimated_milk_l_per_cow'] = df['estimated_milk_kg_per_cow'] * KG_PER_L_MILK
-    df['estimated_annual_milk_production_l'] = safe_calc(
-        df, ['estimated_milk_l_per_cow', 'avg_milk_cows', 'avg_dry_cows'],
-        lambda d: d['estimated_milk_l_per_cow'] * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
-    )
-    # Discrepancy
-    df['milk_production_discrepancy_l'] = safe_calc(
-        df, ['reported_annual_milk_production_l', 'estimated_annual_milk_production_l'],
-        lambda d: abs(d['reported_annual_milk_production_l'].fillna(0) - d['estimated_annual_milk_production_l'].fillna(0))
-    )
 
-def safe_calc(df, keys, func, default=np.nan):
-    if all(k in df.columns for k in keys):
-        return func(df)
-    return default
-
-def calculate_all_metrics(df):
-    """Calculate all possible metrics, filling with NA where not applicable, using parameter_key columns."""
-    print("\n=== Debug: calculate_all_metrics ===")
-    print(f"Input dataframe shape: {df.shape}")
-    print(f"Input columns: {df.columns.tolist()}")
-
-    calculate_annual_milk(df)
-
-    # General Order metrics
+    # Calculate herd size
     herd_keys = [
         "avg_milk_cows", "avg_dry_cows", "avg_bred_heifers",
         "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo", "avg_other"
@@ -292,6 +304,7 @@ def calculate_all_metrics(df):
         default=0
     )
 
+    # Calculate nutrient metrics
     nutrient_types = ["n", "p", "k", "salt"]
     for nutrient in nutrient_types:
         # Total Applied
@@ -322,12 +335,11 @@ def calculate_all_metrics(df):
             lambda d: d[dry_key_reported].fillna(0) + d[ww_key_reported].fillna(0) - d[total_applied_key].fillna(0) - d[exports_key].fillna(0)
         )
 
+    # Calculate wastewater metrics
     df["total_ww_gen_liters"] = safe_calc(
         df, ["total_ww_gen_gals"],
         lambda d: d["total_ww_gen_gals"] * 3.78541
     )
-
-    # Ratio calculations
     df["ww_to_reported_milk"] = safe_calc(
         df, ["total_ww_gen_liters", "reported_annual_milk_production_l"],
         lambda d: d["total_ww_gen_liters"] / d["reported_annual_milk_production_l"].replace(0, np.nan)
@@ -336,15 +348,12 @@ def calculate_all_metrics(df):
         df, ["total_ww_gen_liters", "estimated_annual_milk_production_l"],
         lambda d: d["total_ww_gen_liters"] / d["estimated_annual_milk_production_l"].replace(0, np.nan)
     )
-    # Remove old ratio_ww_to_milk_l_per_l logic
-    # Update any references to wastewater_to_milk_ratio if it refers to estimated ratio
-    # (If wastewater_to_milk_ratio is used elsewhere for a different purpose, leave as is)
-    # Update discrepancy calculation
     df["wastewater_ratio_discrepancy"] = safe_calc(
         df, ["ww_to_estimated_milk", "ww_to_reported_milk"],
         lambda d: d["ww_to_estimated_milk"] - d["ww_to_reported_milk"]
     )
 
+    # Calculate manure metrics
     manure_keys = [
         "total_manure_excreted_tons", "avg_milk_cows", "avg_dry_cows",
         "avg_bred_heifers", "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo"
@@ -359,61 +368,55 @@ def calculate_all_metrics(df):
         result[denom <= 0] = np.nan
         return result
     df["calculated_manure_factor"] = safe_calc(df, manure_keys, manure_factor_func)
-
-    # Nitrogen deviations
-    n_key = "total_manure_gen_n_after_nh3_losses_lbs"
-    usda_key = "usda_nitrogen_estimate_lbs"
-    ucce_key = "ucce_nitrogen_estimate_lbs"
-    
-    print(f"\nChecking nitrogen calculation keys:")
-    print(f"n_key ({n_key}) in columns: {n_key in df.columns}")
-    print(f"usda_key ({usda_key}) in columns: {usda_key in df.columns}")
-    print(f"ucce_key ({ucce_key}) in columns: {ucce_key in df.columns}")
-    
-    if n_key in df.columns:
-        reported_n = df[n_key]
-        print(f"reported_n non-null values: {reported_n.notna().sum()}")
-        print(f"reported_n sample values: {reported_n.dropna().head().tolist() if reported_n.notna().any() else 'None'}")
-        
-        if usda_key in df.columns:
-            print(f"usda_nitrogen_estimate_lbs non-null values: {df[usda_key].notna().sum()}")
-            print(f"usda_nitrogen_estimate_lbs sample values: {df[usda_key].dropna().head().tolist() if df[usda_key].notna().any() else 'None'}")
-        
-        if ucce_key in df.columns:
-            print(f"ucce_nitrogen_estimate_lbs non-null values: {df[ucce_key].notna().sum()}")
-            print(f"ucce_nitrogen_estimate_lbs sample values: {df[ucce_key].dropna().head().tolist() if df[ucce_key].notna().any() else 'None'}")
-        
-        df["nitrogen_discrepancy"] = safe_calc(df, [usda_key, n_key], lambda d: d[usda_key] - reported_n)
-        df["usda_nitrogen_pct_deviation"] = safe_calc(df, [usda_key, n_key], lambda d: (d[usda_key] - reported_n) / reported_n.replace(0, np.nan) * 100)
-        df["ucce_nitrogen_pct_deviation"] = safe_calc(df, [ucce_key, n_key], lambda d: (d[ucce_key] - reported_n) / reported_n.replace(0, np.nan) * 100)
-        
-        # Add pretty-named columns for app compatibility
-        df["USDA Nitrogen % Deviation"] = df["usda_nitrogen_pct_deviation"]
-        df["UCCE Nitrogen % Deviation"] = df["ucce_nitrogen_pct_deviation"]
-        
-        print(f"\nAfter calculation:")
-        print(f"usda_nitrogen_pct_deviation non-null values: {df['usda_nitrogen_pct_deviation'].notna().sum()}")
-        print(f"ucce_nitrogen_pct_deviation non-null values: {df['ucce_nitrogen_pct_deviation'].notna().sum()}")
-        print(f"USDA Nitrogen % Deviation non-null values: {df['USDA Nitrogen % Deviation'].notna().sum()}")
-        print(f"UCCE Nitrogen % Deviation non-null values: {df['UCCE Nitrogen % Deviation'].notna().sum()}")
-    else:
-        print(f"\nWARNING: {n_key} not found in columns, setting nitrogen deviation columns to NaN")
-        df["nitrogen_discrepancy"] = np.nan
-        df["usda_nitrogen_pct_deviation"] = np.nan
-        df["ucce_nitrogen_pct_deviation"] = np.nan
-        df["USDA Nitrogen % Deviation"] = np.nan
-        df["UCCE Nitrogen % Deviation"] = np.nan
-
-    # Wastewater ratio discrepancy
     df["manure_factor_discrepancy"] = safe_calc(
         df, ["calculated_manure_factor"],
         lambda d: d["calculated_manure_factor"] - BASE_MANURE_FACTOR
     )
 
+    # Calculate nitrogen metrics
+    n_key = "total_manure_gen_n_after_nh3_losses_lbs"
+    usda_key = "usda_nitrogen_estimate_lbs"
+    ucce_key = "ucce_nitrogen_estimate_lbs"
+    
+    # Calculate USDA and UCCE nitrogen estimates
+    herd_keys = [
+        "avg_milk_cows", "avg_dry_cows",
+        "avg_bred_heifers", "avg_heifers",
+        "avg_calves_4_6_mo", "avg_calves_0_3_mo"
+    ]
+    
+    # USDA estimate based on manure production and nitrogen content
+    df[usda_key] = safe_calc(
+        df, ["total_manure_excreted_tons"],
+        lambda d: d["total_manure_excreted_tons"] * MANURE_N_CONTENT * 2000  # tons to lbs
+    )
+    
+    # UCCE estimate based on herd size and animal factors
+    df[ucce_key] = safe_calc(
+        df, herd_keys,
+        lambda d: (
+            d["avg_milk_cows"].fillna(0) * BASE_MANURE_FACTOR +
+            d["avg_dry_cows"].fillna(0) * BASE_MANURE_FACTOR +
+            (d["avg_bred_heifers"].fillna(0) + d["avg_heifers"].fillna(0)) * HEIFER_FACTOR * BASE_MANURE_FACTOR +
+            (d["avg_calves_4_6_mo"].fillna(0) + d["avg_calves_0_3_mo"].fillna(0)) * CALF_FACTOR * BASE_MANURE_FACTOR
+        ) * MANURE_N_CONTENT
+    )
+    
+    if n_key in df.columns:
+        reported_n = df[n_key]
+        df["nitrogen_discrepancy"] = safe_calc(df, [usda_key, n_key], lambda d: reported_n - d[usda_key])
+        df["usda_nitrogen_pct_deviation"] = safe_calc(df, [usda_key, n_key], lambda d: (reported_n - d[usda_key]) / d[usda_key].replace(0, np.nan) * 100)
+        df["ucce_nitrogen_pct_deviation"] = safe_calc(df, [ucce_key, n_key], lambda d: (reported_n - d[ucce_key]) / d[ucce_key].replace(0, np.nan) * 100)
+        df["USDA Nitrogen % Deviation"] = df["usda_nitrogen_pct_deviation"]
+        df["UCCE Nitrogen % Deviation"] = df["ucce_nitrogen_pct_deviation"]
+    else:
+        for col in ["nitrogen_discrepancy", "usda_nitrogen_pct_deviation", "ucce_nitrogen_pct_deviation", 
+                   "USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation"]:
+            df[col] = np.nan
+
     # Fill NA values with 0 for all calculated columns
     calculated_columns = [
-        "total_herd_size",
-        "Average Milk Production (kg per cow)", "Average Milk Production (L per cow)", "Total Annual Milk Production (L)",
+        "total_herd_size", "avg_milk_prod_kg_per_cow", "avg_milk_prod_l_per_cow", "reported_annual_milk_production_l",
         "total_applied_n_lbs", "total_applied_p_lbs", "total_applied_k_lbs", "total_applied_salt_lbs",
         "total_reported_n_lbs", "total_reported_p_lbs", "total_reported_k_lbs", "total_reported_salt_lbs",
         "unaccounted_for_n_lbs", "unaccounted_for_p_lbs", "unaccounted_for_k_lbs", "unaccounted_for_salt_lbs",
@@ -425,77 +428,18 @@ def calculate_all_metrics(df):
         if col in df.columns:
             df[col] = df[col].fillna(0)
     
-    print("\n=== End Debug: calculate_all_metrics ===\n")
     return df
-
-def convert_to_float_list(text, ignore_before=None):
-    """Convert text to a list of float numbers, handling various formats and separators."""
-    if not text:
-        return []
-        
-    components = [c for c in text.split() if c]
-    float_numbers = []
-    
-    for component in components:
-        if ignore_before and isinstance(component, str) and isinstance(ignore_before, str):
-            if ignore_before in component:
-                _, component = component.split(ignore_before, 1)
-                component = component.strip()
-            
-        cleaned = ''.join(c for c in component if c.isdigit() or c in '.-')
-        
-        if not any(c.isdigit() for c in cleaned):
-            continue
-            
-        try:
-            float_numbers.append(float(cleaned))
-        except ValueError:
-            continue
-    
-    return float_numbers
-
-def process_csv(csv_path, template_params, columns, param_types):
-    """Process a single CSV file and extract all parameters."""
-    result = {col: None for col in columns}
-    result['filename'] = os.path.basename(csv_path)
-    
-    try:
-        df = pd.read_csv(csv_path)
-        
-        # Process each parameter
-        for _, row in template_params.iterrows():
-            param_key = row['parameter_key']
-            if pd.isna(row['column_search_text']):
-                continue
-                
-            # Find the column that matches the search text
-            col_name = row['column_search_text']
-            if col_name in df.columns:
-                # For numeric columns, convert to float and handle any formatting
-                if param_types.get(param_key) == 'numeric':
-                    value = pd.to_numeric(df[col_name].iloc[0], errors='coerce')
-                    if pd.isna(value):
-                        value = 0
-                else:
-                    value = df[col_name].iloc[0]
-                result[param_key] = value
-                
-    except Exception as e:
-        print(f"Error processing CSV {csv_path}: {str(e)}")
-        
-    return result
 
 def main(test_mode=False):
     """Main function to process all PDF files and extract data."""
     if read_reports:
+        # Load parameters and create mappings
+        params = load_parameters()
         dtype_dict = {col: str for col in ['region', 'template', 'parameter_key', 'page_search_text', 
                                           'search_direction', 'row_search_text', 'column_search_text',
                                           'ignore_before', 'value_pattern']}
-        dtype_dict['item_order'] = 'Int64'  # Using Int64 to handle NA values
+        dtype_dict['item_order'] = 'Int64'
         parameter_locations = pd.read_csv('ca_cafo_compliance/parameter_locations.csv', dtype=dtype_dict)
-
-        parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
-        param_types = dict(zip(parameters['parameter_key'], parameters['data_type']))
         
         available_templates = parameter_locations['template'].unique()
         num_cores = 1 if test_mode else max(1, mp.cpu_count() - 3)
@@ -523,52 +467,48 @@ def main(test_mode=False):
                         name = f"{county.capitalize()}_{year}_{template}"
                         
                         template_params = parameter_locations[parameter_locations['template'] == template]
+                        columns = template_params['parameter_key'].unique().tolist()
                         
-                        # Check if this is a CSV template
-                        if template == 'r8_csv':
-                            # For R8, the CSV files are in data/2023/R8/all_r8/r8_csv/
-                            if region == 'R8':
-                                # Process both animals and manure CSVs
-                                animals_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_animals.csv')
-                                manure_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_manure.csv')
+                        # Process files based on template type
+                        if template == 'r8_csv' and region == 'R8':
+                            # Process R8 CSV files
+                            animals_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_animals.csv')
+                            manure_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_manure.csv')
+                            
+                            animals_df = pd.read_csv(animals_path)
+                            manure_df = pd.read_csv(manure_path)
+                            df = pd.merge(animals_df, manure_df, on='Facility Name', how='outer', suffixes=('', '_manure'))
+                            
+                            results = []
+                            for _, row in df.iterrows():
+                                result = {col: None for col in columns}
+                                result['filename'] = 'R8_animals.csv'
                                 
-                                animals_df = pd.read_csv(animals_path)
-                                manure_df = pd.read_csv(manure_path)
+                                for _, param_row in template_params.iterrows():
+                                    param_key = param_row['parameter_key']
+                                    col_name = param_row['column_search_text']
+                                    if col_name in df.columns:
+                                        if params['data_types'].get(param_key) == 'numeric':
+                                            value = pd.to_numeric(row[col_name], errors='coerce')
+                                            if pd.isna(value):
+                                                value = 0
+                                        else:
+                                            value = row[col_name]
+                                        result[param_key] = value
+                                    elif param_row['row_search_text'] in df.columns:
+                                        col_name = param_row['row_search_text']
+                                        if params['data_types'].get(param_key) == 'numeric':
+                                            value = pd.to_numeric(row[col_name], errors='coerce')
+                                            if pd.isna(value):
+                                                value = 0
+                                        else:
+                                            value = row[col_name]
+                                        result[param_key] = value
                                 
-                                df = pd.merge(animals_df, manure_df, on='Facility Name', how='outer', suffixes=('', '_manure'))
-                                
-                                results = []
-                                for _, row in df.iterrows():
-                                    result = {col: None for col in template_params['parameter_key'].unique()}
-                                    result['filename'] = 'R8_animals.csv'  # Use animals CSV as the filename
-                                    
-                                    # Map CSV columns to parameters
-                                    for _, param_row in template_params.iterrows():
-                                        param_key = param_row['parameter_key']
-                                        col_name = param_row['column_search_text']
-                                        if col_name in df.columns:
-                                            if param_types.get(param_key) == 'numeric':
-                                                value = pd.to_numeric(row[col_name], errors='coerce')
-                                                if pd.isna(value):
-                                                    value = 0
-                                            else:
-                                                value = row[col_name]
-                                            result[param_key] = value
-                                        elif param_row['row_search_text'] in df.columns:
-                                            # Try using row_search_text as column name
-                                            col_name = param_row['row_search_text']
-                                            if param_types.get(param_key) == 'numeric':
-                                                value = pd.to_numeric(row[col_name], errors='coerce')
-                                                if pd.isna(value):
-                                                    value = 0
-                                            else:
-                                                value = row[col_name]
-                                            result[param_key] = value
-                                    
-                                    results.append(result)
-                                df = pd.DataFrame(results)
+                                results.append(result)
+                            df = pd.DataFrame(results)
                         else:
-                            # Original PDF processing logic
+                            # Process PDF files
                             ocr_folder = os.path.join(folder, 'ocr_output')
                             handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
                             
@@ -594,67 +534,30 @@ def main(test_mode=False):
                                 
                             if not pdf_files:
                                 continue
-                                
-                            columns = template_params['parameter_key'].unique().tolist()
                             
                             with mp.Pool(num_cores) as pool:
                                 process_pdf_partial = partial(process_pdf, template_params=template_params, 
-                                                           columns=columns, param_types=param_types)
+                                                           columns=columns, data_types=params['data_types'])
                                 results = pool.map(process_pdf_partial, pdf_files)
                             
                             df = pd.DataFrame([r for r in results if r is not None])
                         
+                        # Convert numeric columns
                         for col in df.columns:
-                            if param_types.get(col) == 'numeric':
+                            if params['data_types'].get(col) == 'numeric':
                                 df[col] = pd.to_numeric(df[col], errors='coerce')
                         
-                        # Only now, after all calculations, rename columns to pretty names and fill missing
-                        key_to_name = dict(zip(parameters['parameter_key'], parameters['parameter_name']))
-                        name_to_key = dict(zip(parameters['parameter_name'], parameters['parameter_key']))
+                        # Calculate metrics
+                        df = calculate_metrics(df)
                         
-                        # Rename columns to pretty names
-                        df = df.rename(columns=key_to_name)
-                        
-                        # Ensure all pretty names are present, fill missing with np.nan
-                        for pretty_name in key_to_name.values():
+                        # Convert to pretty names and ensure all columns exist
+                        df = df.rename(columns=params['snake_to_pretty'])
+                        for pretty_name in params['snake_to_pretty'].values():
                             if pretty_name not in df.columns:
                                 df[pretty_name] = np.nan
                         
-                        # Calculate estimates for each row (still using parameter_keys)
-                        estimates = []
-                        for _, row in df.rename(columns={v: k for k, v in key_to_name.items()}).iterrows():
-                            milk_dry_cows = (row.get('avg_milk_cows', 0) or 0) + (row.get('avg_dry_cows', 0) or 0)
-                            heifers = (row.get('avg_bred_heifers', 0) or 0) + (row.get('avg_heifers', 0) or 0)
-                            calves = (row.get('avg_calves_4_6_mo', 0) or 0) + (row.get('avg_calves_0_3_mo', 0) or 0)
-                            estimated_manure = (milk_dry_cows * BASE_MANURE_FACTOR) + \
-                                             (heifers * HEIFER_FACTOR * BASE_MANURE_FACTOR) + \
-                                             (calves * CALF_FACTOR * BASE_MANURE_FACTOR)
-                            usda_nitrogen = estimated_manure * MANURE_N_CONTENT
-                            animal_units = milk_dry_cows + (heifers * HEIFER_FACTOR) + (calves * CALF_FACTOR)
-                            ucce_nitrogen = animal_units * DAYS_PER_YEAR
-                            wastewater_ratio = 0
-                            if all(x in row for x in ['avg_milk_lb_per_cow_day', 'total_ww_gen_gals']):
-                                milk_production = row['avg_milk_lb_per_cow_day']
-                                wastewater = row['total_ww_gen_gals']
-                                daily_milk_liters = milk_production * LBS_TO_LITERS * milk_dry_cows
-                                annual_milk_liters = daily_milk_liters * DAYS_PER_YEAR
-                                if annual_milk_liters > 0:
-                                    wastewater_ratio = wastewater / annual_milk_liters
-                            estimates.append({
-                                'Estimated Total Manure (tons)': estimated_manure,
-                                'USDA Nitrogen Estimate (lbs)': usda_nitrogen,
-                                'UCCE Nitrogen Estimate (lbs)': ucce_nitrogen,
-                                'Wastewater to Milk Ratio': wastewater_ratio
-                            })
-                        estimates_df = pd.DataFrame(estimates)
-                        df = pd.concat([df, estimates_df], axis=1)
-                        
-                        metrics_df = calculate_all_metrics(df.rename(columns={v: k for k, v in key_to_name.items()}))
-                        for col in metrics_df.columns:
-                            if col not in df.columns or metrics_df[col].notna().any():
-                                df[col] = metrics_df[col]
+                        # Save results
                         os.makedirs(output_folder, exist_ok=True)
-                        # Delete any existing CSVs in the output folder
                         for f in os.listdir(output_folder):
                             if f.endswith('.csv'):
                                 os.remove(os.path.join(output_folder, f))
@@ -672,6 +575,23 @@ def consolidate_outputs():
             geocoding_cache = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         geocoding_cache = {}
+
+    # Load CADD data
+    print("Loading CADD data...")
+    cadd_facilities = pd.read_csv('data/CADD/CADD_Facility General Information_v1.0.0.csv')
+    cadd_herd_size = pd.read_csv('data/CADD/CADD_Facility Herd Size_v1.0.0.csv')
+    
+    # Rename CADD columns to avoid conflicts
+    cadd_facilities = cadd_facilities.rename(columns={
+        'Latitude': 'Latitude_cadd',
+        'Longitude': 'Longitude_cadd',
+        'StreetAddress': 'StreetAddress_cadd',
+        'City': 'City_cadd',
+        'County': 'County_cadd',
+        'ZipCode': 'ZipCode_cadd',
+        'RegionalWaterboard': 'RegionalWaterboard_cadd'
+    })
+
     # Add R8 data to geocoding cache if not already present
     r8_data_path = "data/2023/R8/all_r8/r8_csv/R8_animals.csv"
     if os.path.exists(r8_data_path):
@@ -692,6 +612,7 @@ def consolidate_outputs():
                     }
         save_geocoding_cache(geocoding_cache)
         print(f"Added {len(r8_df)} R8 facilities to geocoding cache")
+
     for year in YEARS:
         base_path = f"outputs/{year}"
         if not os.path.exists(base_path):
@@ -745,45 +666,150 @@ def consolidate_outputs():
                 vals = [v for v in vals if pd.notna(v)]
                 return sum(vals) if vals else 0
             combined_df['Total Herd Size'] = combined_df.apply(calc_herd_size, axis=1)
-            print("Geocoding addresses...")
+
+            # Initialize location columns if they don't exist
+            for col in ['Latitude', 'Longitude', 'Street Address', 'City', 'County', 'Zip']:
+                if col not in combined_df.columns:
+                    combined_df[col] = np.nan
+
+            # Merge with CADD data
+            print(f"\nMerging with CADD data for {year} {region}...")
+            
+            # 1. Exact name matching
+            print("Performing exact name matching...")
+            exact_matches = pd.merge(
+                combined_df,
+                cadd_facilities,
+                left_on='Dairy Name',
+                right_on='FacilityName',
+                how='left',
+                suffixes=('', '_cadd')
+            )
+            
+            # 2. Fuzzy matching for remaining unmatched facilities
+            print("Performing fuzzy matching...")
+            unmatched_mask = exact_matches['FacilityName'].isna()
+            unmatched_df = exact_matches[unmatched_mask].copy()
+            matched_df = exact_matches[~unmatched_mask].copy()
+            
+            def find_fuzzy_match(row):
+                if pd.isna(row['Latitude']) or pd.isna(row['Longitude']):
+                    return None
+                
+                # Calculate distances to all CADD facilities
+                distances = []
+                for _, cadd_row in cadd_facilities.iterrows():
+                    if pd.isna(cadd_row['Latitude_cadd']) or pd.isna(cadd_row['Longitude_cadd']):
+                        continue
+                    
+                    # Calculate distance in meters
+                    lat1, lon1 = float(row['Latitude']), float(row['Longitude'])
+                    lat2, lon2 = float(cadd_row['Latitude_cadd']), float(cadd_row['Longitude_cadd'])
+                    distance = ((lat1 - lat2) ** 2 + (lon1 - lon2) ** 2) ** 0.5 * 111000  # rough conversion to meters
+                    
+                    # Check if names have at least one word in common
+                    name1_words = set(str(row['Dairy Name']).lower().split())
+                    name2_words = set(str(cadd_row['FacilityName']).lower().split())
+                    common_words = name1_words.intersection(name2_words)
+                    
+                    if distance <= 100 and len(common_words) > 0:
+                        distances.append((distance, cadd_row))
+                
+                if distances:
+                    # Return the closest match
+                    return min(distances, key=lambda x: x[0])[1]
+                return None
+            
+            # Apply fuzzy matching
+            print("Applying fuzzy matching to unmatched facilities...")
+            fuzzy_matches = []
+            for _, row in unmatched_df.iterrows():
+                match = find_fuzzy_match(row)
+                if match is not None:
+                    row_dict = row.to_dict()
+                    row_dict.update({
+                        'Latitude_cadd': match['Latitude_cadd'],
+                        'Longitude_cadd': match['Longitude_cadd'],
+                        'StreetAddress_cadd': match['StreetAddress_cadd'],
+                        'City_cadd': match['City_cadd'],
+                        'County_cadd': match['County_cadd'],
+                        'ZipCode_cadd': match['ZipCode_cadd'],
+                        'RegionalWaterboard_cadd': match['RegionalWaterboard_cadd'],
+                        'FacilityName': match['FacilityName']
+                    })
+                    fuzzy_matches.append(row_dict)
+            
+            # Combine exact and fuzzy matches
+            if fuzzy_matches:
+                fuzzy_matches_df = pd.DataFrame(fuzzy_matches)
+                final_df = pd.concat([matched_df, fuzzy_matches_df], ignore_index=True)
+            else:
+                final_df = matched_df
+            
+            # Merge with CADD herd size data for current year
+            print("Merging with CADD herd size data...")
+            current_year_herd = cadd_herd_size[cadd_herd_size['Year'] == int(year)].copy()
+            if not current_year_herd.empty:
+                final_df = pd.merge(
+                    final_df,
+                    current_year_herd,
+                    left_on='FacilityName',
+                    right_on='CADDID',
+                    how='left',
+                    suffixes=('', '_cadd_herd')
+                )
+            
+            # Update geocoding with CADD data where available
+            print("Updating geocoding with CADD data...")
+            # First ensure all location columns exist
+            for col in ['Latitude', 'Longitude', 'Street Address', 'City', 'County', 'Zip']:
+                if col not in final_df.columns:
+                    final_df[col] = np.nan
+            
+            # Then update with CADD data
+            final_df['Latitude'] = final_df['Latitude_cadd'].fillna(final_df['Latitude'])
+            final_df['Longitude'] = final_df['Longitude_cadd'].fillna(final_df['Longitude'])
+            final_df['Street Address'] = final_df['StreetAddress_cadd'].fillna(final_df['Street Address'])
+            final_df['City'] = final_df['City_cadd'].fillna(final_df['City'])
+            final_df['County'] = final_df['County_cadd'].fillna(final_df['County'])
+            final_df['Zip'] = final_df['ZipCode_cadd'].fillna(final_df['Zip'])
+            
+            # Geocode remaining addresses
+            print("Geocoding remaining addresses...")
             address_col = next((col for col in ['Dairy Address', 'Facility Address'] 
-                                if col in combined_df.columns), None)
+                                if col in final_df.columns), None)
             if address_col:
-                combined_df['Latitude'] = None
-                combined_df['Longitude'] = None
-                combined_df['Street Address'] = None
-                combined_df['City'] = None
-                combined_df['County'] = None
-                combined_df['Zip'] = None
-                unique_addresses = combined_df[address_col].dropna().unique()
+                unique_addresses = final_df[address_col].dropna().unique()
                 new_geocodes = 0
                 for address in unique_addresses:
                     # Get the county for this address
-                    county = combined_df[combined_df[address_col] == address]['County'].iloc[0] if not combined_df[combined_df[address_col] == address].empty else None
+                    county = final_df[final_df[address_col] == address]['County'].iloc[0] if not final_df[final_df[address_col] == address].empty else None
                     lat, lng, geocoded_county = geocode_address(address, geocoding_cache, county=county, try_again=False)
                     if lat is not None:
                         new_geocodes += 1
                     # Parse address components
                     street, city, parsed_county, zip_code = parse_address(address)
                     final_county = geocoded_county or parsed_county
-                    mask = combined_df[address_col] == address
-                    combined_df.loc[mask, 'Latitude'] = lat
-                    combined_df.loc[mask, 'Longitude'] = lng
-                    combined_df.loc[mask, 'Street Address'] = street
-                    combined_df.loc[mask, 'City'] = city
-                    combined_df.loc[mask, 'County'] = final_county
-                    combined_df.loc[mask, 'Zip'] = zip_code
+                    mask = final_df[address_col] == address
+                    final_df.loc[mask, 'Latitude'] = lat
+                    final_df.loc[mask, 'Longitude'] = lng
+                    final_df.loc[mask, 'Street Address'] = street
+                    final_df.loc[mask, 'City'] = city
+                    final_df.loc[mask, 'County'] = final_county
+                    final_df.loc[mask, 'Zip'] = zip_code
                 print(f"Geocoding complete: {new_geocodes} addresses geocoded")
+            
             # consultant metrics only for R5 and 2023
             if year == 2023 and region == "R5":
-                consultant_metrics = calculate_consultant_metrics(combined_df)
+                consultant_metrics = calculate_consultant_metrics(final_df)
                 metrics_file = f"outputs/consolidated/{year}_{region}_consultant_metrics.csv"
                 consultant_metrics.to_csv(metrics_file, index=False)
                 print(f"Saved consultant metrics to {metrics_file}")
+            
             output_file = f"outputs/consolidated/{year}_{region}_master.csv"
-            combined_df.to_csv(output_file, index=False)
+            final_df.to_csv(output_file, index=False)
             print(f"Saved consolidated data to {output_file}")
-            print(f"Total records: {len(combined_df)}")
+            print(f"Total records: {len(final_df)}")
 
 def save_geocoding_cache(cache):
     """Save geocoded addresses to cache file."""
@@ -864,54 +890,49 @@ def geocode_address(address, cache, county=None, try_again=False):
                 address_formats.append(f"{clean_address}, {r2_county} County, CA")
         elif county and county not in ["all_r2", "all_r7"]:
             address_formats.append(f"{clean_address}, {county} County, CA")
-    geocoders = [
-        ArcGIS(user_agent="ca_cafo_compliance"),
-        Nominatim(user_agent="ca_cafo_compliance", timeout=30)
-    ]
+    geocoder = ArcGIS(user_agent="ca_cafo_compliance")
+
     successful_locations = []
     max_retries = 2
     retry_delay = 3
-    for geolocator in geocoders:
-        for addr_format in address_formats:
-            for attempt in range(max_retries):
-                try:
-                    if attempt > 0:
-                        time.sleep(retry_delay * (2 ** attempt))
-                    else:
-                        time.sleep(1)
-                    location = geolocator.geocode(addr_format)
-                    if location:
-                        if location.address and ('California' in location.address or 'CA' in location.address):
-                            loc_key = f"{location.latitude:.6f},{location.longitude:.6f}"
-                            if not any(f"{loc['lat']:.6f},{loc['lng']:.6f}" == loc_key for loc in successful_locations):
-                                county_val = None
-                                if isinstance(geolocator, ArcGIS):
-                                    try:
-                                        reverse = geolocator.reverse(f"{location.latitude}, {location.longitude}")
-                                        if reverse and reverse.raw:
-                                            address_components = reverse.raw.get('address', {})
-                                            county_val = address_components.get('County')
-                                    except Exception as e:
-                                        print(f"Error getting county from ArcGIS: {e}")
-                                successful_locations.append({
-                                    'lat': location.latitude,
-                                    'lng': location.longitude,
-                                    'format': addr_format,
-                                    'geocoder': geolocator.__class__.__name__,
-                                    'address': location.address,
-                                    'county': county_val
-                                })
-                            if successful_locations:
-                                break
-                except (GeocoderTimedOut, GeocoderServiceError) as e:
-                    print(f"Geocoding error for address format '{addr_format}' (attempt {attempt + 1}/{max_retries}): {e}")
-                    if attempt == max_retries - 1:
-                        print(f"Failed to geocode after {max_retries} attempts")
-                    continue
-                except Exception as e:
-                    print(f"Unexpected error for address format '{addr_format}': {e}")
-                    break
-            if successful_locations:
+    for addr_format in address_formats:
+        for attempt in range(max_retries):
+            try:
+                if attempt > 0:
+                    time.sleep(retry_delay * (2 ** attempt))
+                else:
+                    time.sleep(1)
+                location = geolocator.geocode(addr_format)
+                if location:
+                    if location.address and ('California' in location.address or 'CA' in location.address):
+                        loc_key = f"{location.latitude:.6f},{location.longitude:.6f}"
+                        if not any(f"{loc['lat']:.6f},{loc['lng']:.6f}" == loc_key for loc in successful_locations):
+                            county_val = None
+                            if isinstance(geolocator, ArcGIS):
+                                try:
+                                    reverse = geolocator.reverse(f"{location.latitude}, {location.longitude}")
+                                    if reverse and reverse.raw:
+                                        address_components = reverse.raw.get('address', {})
+                                        county_val = address_components.get('County')
+                                except Exception as e:
+                                    print(f"Error getting county from ArcGIS: {e}")
+                            successful_locations.append({
+                                'lat': location.latitude,
+                                'lng': location.longitude,
+                                'format': addr_format,
+                                'geocoder': geolocator.__class__.__name__,
+                                'address': location.address,
+                                'county': county_val
+                            })
+                        if successful_locations:
+                            break
+            except (GeocoderTimedOut, GeocoderServiceError) as e:
+                print(f"Geocoding error for address format '{addr_format}' (attempt {attempt + 1}/{max_retries}): {e}")
+                if attempt == max_retries - 1:
+                    print(f"Failed to geocode after {max_retries} attempts")
+                continue
+            except Exception as e:
+                print(f"Unexpected error for address format '{addr_format}': {e}")
                 break
         if successful_locations:
             break
@@ -1006,24 +1027,6 @@ def parse_address(address):
     elif 'santa clara' in address_lower:
         county = 'Santa Clara'
     return street_number + ' ' + street_name, city, county, zip_code
-
-def calculate_metrics(df):
-    """Calculate metrics for each facility."""
-    # No need to recalculate metrics that are already in the data
-    # Just ensure the columns exist
-    required_columns = [
-        'ratio_ww_to_milk_l_per_l',
-        'usda_nitrogen_pct_deviation',
-        'ucce_nitrogen_pct_deviation',
-        'calculated_manure_factor'
-    ]
-    
-    for col in required_columns:
-        if col not in df.columns:
-            print(f"Warning: Required column {col} not found in data")
-            df[col] = None
-    
-    return df
 
 def calculate_consultant_metrics(df):
     """Calculate average under/over-reporting metrics for each consultant."""

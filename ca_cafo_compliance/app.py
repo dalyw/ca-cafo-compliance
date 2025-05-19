@@ -42,9 +42,7 @@ def convert_columns(df):
     return df
 
 def load_data():
-    """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""
-    print("\n=== Debug: load_data ===")
-    
+    """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""    
     # Try local files first
     csv_files = glob.glob("outputs/consolidated/*.csv")
     print(f"Found {len(csv_files)} CSV files in outputs/consolidated")
@@ -54,8 +52,6 @@ def load_data():
         for file in csv_files:
             print(f"\nReading file: {file}")
             df = pd.read_csv(file)
-            print(f"File shape: {df.shape}")
-            print(f"Columns: {df.columns.tolist()}")
             dfs.append(df)
     else:
         print("No local CSV files found. Attempting to load from GitHub...")
@@ -82,9 +78,7 @@ def load_data():
         print("No data could be loaded from local files or GitHub.")
         return pd.DataFrame()
     
-    combined_df = pd.concat(dfs, ignore_index=True)
-    print(f"\nCombined dataframe shape: {combined_df.shape}")
-    print(f"Combined columns: {combined_df.columns.tolist()}")
+    combined_df = pd.concat(dfs, ignore_index=True) 
     # Clean up Year column: drop NaN, convert to int then str, and filter out invalid years
     if 'Year' in combined_df.columns:
         combined_df = combined_df[combined_df['Year'].notna()]
@@ -127,13 +121,11 @@ def load_data():
     
     if 'USDA Nitrogen % Deviation' in combined_df.columns:
         print(f"USDA Nitrogen % Deviation non-null values: {combined_df['USDA Nitrogen % Deviation'].notna().sum()}")
-        print(f"USDA Nitrogen % Deviation sample values: {combined_df['USDA Nitrogen % Deviation'].dropna().head().tolist() if combined_df['USDA Nitrogen % Deviation'].notna().any() else 'None'}")
+        print(f"USDA Nitrogen % Deviation highest values: {combined_df['USDA Nitrogen % Deviation'].dropna().nlargest(5).tolist() if combined_df['USDA Nitrogen % Deviation'].notna().any() else 'None'}")
     
     if 'UCCE Nitrogen % Deviation' in combined_df.columns:
         print(f"UCCE Nitrogen % Deviation non-null values: {combined_df['UCCE Nitrogen % Deviation'].notna().sum()}")
-        print(f"UCCE Nitrogen % Deviation sample values: {combined_df['UCCE Nitrogen % Deviation'].dropna().head().tolist() if combined_df['UCCE Nitrogen % Deviation'].notna().any() else 'None'}")
-    
-    print("\n=== End Debug: load_data ===\n")
+        print(f"UCCE Nitrogen % Deviation higest values: {combined_df['UCCE Nitrogen % Deviation'].dropna().nlargest(5).tolist() if combined_df['UCCE Nitrogen % Deviation'].notna().any() else 'None'}")
     return combined_df
 
 def create_map(df, selected_year): 
@@ -186,9 +178,6 @@ def create_map(df, selected_year):
 
 def create_comparison_plots(df):
     """Create comparison plots between estimated and reported values."""
-    print("\n=== Debug Information for Plots ===")
-    print(f"Total rows in dataframe: {len(df)}")
-    print(f"Available columns: {df.columns.tolist()}")
     
     # Create a copy of the dataframe to avoid SettingWithCopyWarning
     df = df.copy()
@@ -205,7 +194,6 @@ def create_comparison_plots(df):
         df.loc[:, 'Milk Production Source'] = df[milk_col].apply(
             lambda x: 'Reported' if pd.notna(x) and x > 0 else 'Estimated'
         )
-        print(f"\nMilk Production Source distribution:")
         print(df['Milk Production Source'].value_counts())
     else:
         print(f"\nWARNING: Milk production column '{milk_col}' not found")
@@ -225,6 +213,8 @@ def create_comparison_plots(df):
     usda_nitrogen_data = df[usda_col].dropna() if usda_col in df.columns else pd.Series()
     print(f"USDA Nitrogen data points: {len(usda_nitrogen_data)}")
     if not usda_nitrogen_data.empty:
+        # Group extreme values
+        usda_nitrogen_data = usda_nitrogen_data.clip(-100, 100)
         print(f"USDA Nitrogen data range: {usda_nitrogen_data.min():.2f} to {usda_nitrogen_data.max():.2f}")
         nitrogen_fig.add_trace(
             go.Histogram(
@@ -242,6 +232,8 @@ def create_comparison_plots(df):
     ucce_nitrogen_data = df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
     print(f"UCCE Nitrogen data points: {len(ucce_nitrogen_data)}")
     if not ucce_nitrogen_data.empty:
+        # Group extreme values
+        ucce_nitrogen_data = ucce_nitrogen_data.clip(-100, 100)
         print(f"UCCE Nitrogen data range: {ucce_nitrogen_data.min():.2f} to {ucce_nitrogen_data.max():.2f}")
         nitrogen_fig.add_trace(
             go.Histogram(
@@ -272,8 +264,8 @@ def create_comparison_plots(df):
         )
     
     nitrogen_fig.update_layout(
-        title="Distribution of Nitrogen Estimate Deviations",
-        xaxis_title="Percentage Deviation from Reported Value",
+        title="Distribution of Reported Nitrogen Deviations from Estimates",
+        xaxis_title="Percentage Deviation of Reported Value from Estimate",
         yaxis_title="Number of Facilities",
         height=500,
         showlegend=True,
@@ -284,7 +276,22 @@ def create_comparison_plots(df):
             x=1.02,
             y=0.5
         ),
-        barmode='overlay'  # Overlay the histograms
+        barmode='overlay',  # Overlay the histograms
+        xaxis=dict(
+            ticktext=['<-100%', '-100%', '-50%', '0%', '50%', '100%', '>100%'],
+            tickvals=[-100, -100, -50, 0, 50, 100, 100]
+        )
+    )
+    
+    # Add annotations to explain the meaning of positive/negative deviations
+    nitrogen_fig.add_annotation(
+        x=0.5,
+        y=1.1,
+        xref="paper",
+        yref="paper",
+        text="Positive values indicate reported values higher than estimates<br>Negative values indicate reported values lower than estimates",
+        showarrow=False,
+        align="center"
     )
     
     # 2. Wastewater to Milk Ratio - Histogram
@@ -430,7 +437,6 @@ def create_comparison_plots(df):
         )
     )
     
-    print("\n=== End of Debug Information ===\n")
     return nitrogen_fig, wastewater_fig, manure_fig
 
 def create_facility_comparison_plots(df, facility_name):
@@ -451,7 +457,8 @@ def create_facility_comparison_plots(df, facility_name):
             "Wastewater",
             "Manure Factor",
             "Nitrogen Generation"
-        )
+        ),
+        horizontal_spacing=0.25  # Increased from default (0.02) for more white space
     )
     
     # Helper function to safely get value
@@ -560,7 +567,7 @@ def create_facility_comparison_plots(df, facility_name):
     # Update layout
     fig.update_layout(
         height=500,
-        title_text=f"Facility Comparison: {facility_name}",
+        title_text=f"Facility Data: {facility_name}",
         barmode='group',
         legend_title_text=""
     )
@@ -700,7 +707,6 @@ def create_consultant_comparison_plots(df):
     return fig
 
 def filter_tab2(df, selected_year):
-    print("\n=== Debug: Filtering Data ===")
     print(f"Initial rows: {len(df)}")
     print(f"Selected year: {selected_year}")
     
@@ -719,7 +725,6 @@ def filter_tab2(df, selected_year):
     selected_consultants = st.multiselect("Select Consultants", available_consultants, default=available_consultants)
     print(f"Selected consultants: {selected_consultants}")
     
-    # Debug each filter step
     year_filter = df['Year'] == selected_year
     print(f"\nRows after year filter: {year_filter.sum()}")
     
@@ -748,7 +753,6 @@ def filter_tab2(df, selected_year):
             if non_null > 0:
                 print(f"Sample values: {filtered_df[col].dropna().head().tolist()}")
     
-    print("=== End Debug: Filtering Data ===\n")
     return filtered_df, selected_regions, selected_counties, selected_consultants
 
 def main():

@@ -45,3 +45,6 @@ consultant_mapping = {
     'livingston': 'Livingston',
     'provost_pritchard': 'Provost Prichard'
 }
+
+R2_COUNTIES = ["Alameda", "Contra Costa", "Marin", "Napa",  "San Francisco", 
+                "San Mateo", "Santa Clara", "Solano", "Sonoma"]

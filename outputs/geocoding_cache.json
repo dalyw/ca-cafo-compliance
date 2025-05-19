@@ -2692,5 +2692,59 @@
     "geocoder": "ArcGIS",
     "address": "92227, Brawley, California",
     "county": null
+  },
+  "9499": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-19T10:14:45.733588",
+    "successful_format": "9499, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  "16800": {
+    "lat": 19.220056343162,
+    "lng": -99.089854810527,
+    "timestamp": "2025-05-19T10:14:55.075346",
+    "successful_format": "16800, California",
+    "geocoder": "ArcGIS",
+    "address": "Calle California, Xocotitla, Xochimilco, Ciudad de M\u00e9xico, 16880",
+    "county": null
+  },
+  "12429": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-19T10:19:58.429678",
+    "successful_format": "12429, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  "5336": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-19T10:20:06.780372",
+    "successful_format": "5336, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  "8489": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-19T10:20:15.104111",
+    "successful_format": "8489, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
+  },
+  "430": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-05-19T10:20:23.421231",
+    "successful_format": "430, California",
+    "geocoder": "ArcGIS",
+    "address": "California",
+    "county": null
   }
 }
