@@ -38,12 +38,15 @@ L_WW_PER_L_MILK_HIGH = M3_WW_PER_TON_MILK_HIGH / TONS_TO_KG * KG_PER_L_MILK * M3
 GEOCODING_CACHE_FILE = "outputs/geocoding_cache.json"
 
 consultant_mapping = {
-    'general_order': 'Self-completed',
-    'generic_r7': 'Self-completed',
-    'generic_r2': 'Self-completed',
+    'generic_r5': 'Self-completed (R5)',
+    'generic_r7': 'Self-completed (R7)',
+    'generic_r2': 'Self-completed (R2)',
+    'generic_r1': 'Self-completed (R1)',
+    'dellaville': 'Dellavile',
     'innovative_ag': 'Innovative Ag',
     'livingston': 'Livingston',
-    'provost_pritchard': 'Provost Prichard'
+    'provost_pritchard': 'Provost Pritchard',
+    'r8_csv': 'Self-completed (R8)',
 }
 
 R2_COUNTIES = ["Alameda", "Contra Costa", "Marin", "Napa",  "San Francisco", 

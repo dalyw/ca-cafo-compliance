@@ -9,18 +9,28 @@ import os
 import glob
 import geopandas as gpd
 from conversion_factors import *
+import numpy as np
 
-# Streamlit generated and modified with prompts to Claude 3.7, 
+def load_parameters():
+    """Load parameters and create mapping dictionaries."""
+    parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
+    calculated_metrics = pd.read_csv('ca_cafo_compliance/calculated_metrics.csv')
+    return {
+        'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
+        'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
+        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
+        'calculated_metrics': dict(zip(calculated_metrics['metric_key'], calculated_metrics['metric_name']))
+    }
 
 with open("ca_cafo_compliance/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
 
-# Add watermark background at the top of the app (no <h1> here)
+# watermark background
 st.markdown(
     f'''
     <div style="position: relative; width: 100%; height: 260px; margin-bottom: -120px;">
         <img src="data:image/jpeg;base64,{img_base64}" 
-             style="position: absolute; top: 0; left: 0; width: 100%; height: 260px; object-fit: cover; opacity: 0.4; filter: blur(1px); z-index: 0;" />
+             style="position: absolute; top: 0; left: 0; width: 100%; height: 260px; object-fit: cover; opacity: 0.4; z-index: 0;" />
         <div style="position: absolute; top: 20px; left: 0; width: 100%; text-align: center; z-index: 1;">
             <span style="background: rgba(255,255,255,0.7); padding: 0.2em 1em; border-radius: 8px; font-size: 1em; color: #444;">Image: <a href='https://www.vecteezy.com/photo/8336504-steaming-pile-of-manure-on-farm-field-in-dutch-countryside' target='_blank'>Vecteezy</a></span>
         </div>
@@ -90,20 +100,31 @@ def load_data():
         combined_df['Year'] = combined_df['Year'].apply(year_to_str)
         combined_df = combined_df[combined_df['Year'].notna()]
     
-    # Check for nitrogen deviation columns before renaming
-    print("\nChecking nitrogen deviation columns before renaming:")
-    print(f"'usda_nitrogen_pct_deviation' in columns: {'usda_nitrogen_pct_deviation' in combined_df.columns}")
-    print(f"'ucce_nitrogen_pct_deviation' in columns: {'ucce_nitrogen_pct_deviation' in combined_df.columns}")
-    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in combined_df.columns}")
-    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in combined_df.columns}")
+    # Load parameters for consistent column naming
+    params = load_parameters()
+    snake_to_pretty = params['snake_to_pretty']
     
-    # Rename columns to ensure consistency
+    
+
+    # Rename columns to ensure consistency with pretty names
     column_mapping = {
         'usda_nitrogen_pct_deviation': 'USDA Nitrogen % Deviation',
         'ucce_nitrogen_pct_deviation': 'UCCE Nitrogen % Deviation',
         'total_manure_gen_n_after_nh3_losses_lbs': 'Total Manure N (lbs)',
         'usda_nitrogen_estimate_lbs': 'USDA N Estimate (lbs)',
-        'ucce_nitrogen_estimate_lbs': 'UCCE N Estimate (lbs)'
+        'ucce_nitrogen_estimate_lbs': 'UCCE N Estimate (lbs)',
+        'avg_milk_lb_per_cow_day': 'Average Milk Production (lb per cow per day)',
+        'avg_milk_cows': 'Average Milk Cows',
+        'avg_dry_cows': 'Average Dry Cows',
+        'avg_bred_heifers': 'Average Bred Heifers',
+        'avg_heifers': 'Average Heifers',
+        'avg_calves_4_6_mo': 'Average Calves (4-6 mo.)',
+        'avg_calves_0_3_mo': 'Average Calves (0-3 mo.)',
+        'avg_other': 'Average Other',
+        'total_herd_size': 'Total Herd Size',
+        'reported_annual_milk_production_l': 'Reported Annual Milk Production (L)',
+        'avg_milk_prod_kg_per_cow': 'Average Milk Production (kg per cow)',
+        'avg_milk_prod_l_per_cow': 'Average Milk Production (L per cow)'
     }
     
     # Apply renaming
@@ -111,21 +132,15 @@ def load_data():
         if old_col in combined_df.columns:
             print(f"Renaming {old_col} to {new_col}")
             combined_df[new_col] = combined_df[old_col]
-        else:
-            print(f"Warning: {old_col} not found in columns")
+            combined_df = combined_df.drop(columns=[old_col])
+        elif new_col not in combined_df.columns:
+            print(f"Warning: Neither {old_col} nor {new_col} found in columns")
     
-    # Check for nitrogen deviation columns after renaming
-    print("\nChecking nitrogen deviation columns after renaming:")
-    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in combined_df.columns}")
-    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in combined_df.columns}")
+    # Ensure all pretty names from parameters.csv exist in the dataframe
+    for pretty_name in snake_to_pretty.values():
+        if pretty_name not in combined_df.columns:
+            combined_df[pretty_name] = np.nan
     
-    if 'USDA Nitrogen % Deviation' in combined_df.columns:
-        print(f"USDA Nitrogen % Deviation non-null values: {combined_df['USDA Nitrogen % Deviation'].notna().sum()}")
-        print(f"USDA Nitrogen % Deviation highest values: {combined_df['USDA Nitrogen % Deviation'].dropna().nlargest(5).tolist() if combined_df['USDA Nitrogen % Deviation'].notna().any() else 'None'}")
-    
-    if 'UCCE Nitrogen % Deviation' in combined_df.columns:
-        print(f"UCCE Nitrogen % Deviation non-null values: {combined_df['UCCE Nitrogen % Deviation'].notna().sum()}")
-        print(f"UCCE Nitrogen % Deviation higest values: {combined_df['UCCE Nitrogen % Deviation'].dropna().nlargest(5).tolist() if combined_df['UCCE Nitrogen % Deviation'].notna().any() else 'None'}")
     return combined_df
 
 def create_map(df, selected_year): 
@@ -199,12 +214,35 @@ def create_comparison_plots(df):
         print(f"\nWARNING: Milk production column '{milk_col}' not found")
         df.loc[:, 'Milk Production Source'] = 'Estimated'
     
+    # --- Nitrogen Deviation Plot ---
+    # Check for nitrogen deviation columns before renaming
+    print("\nChecking nitrogen deviation columns before renaming:")
+    print(f"'usda_nitrogen_pct_deviation' in columns: {'usda_nitrogen_pct_deviation' in df.columns}")
+    print(f"'ucce_nitrogen_pct_deviation' in columns: {'ucce_nitrogen_pct_deviation' in df.columns}")
+    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in df.columns}")
+    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in df.columns}")
+
+    # Use the correct column names from read_reports.py
+    usda_col = 'USDA Nitrogen % Deviation'
+    ucce_col = 'UCCE Nitrogen % Deviation'
+
+    # Check for nitrogen deviation columns after renaming
+    print("\nChecking nitrogen deviation columns after renaming:")
+    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in df.columns}")
+    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in df.columns}")
+    if usda_col in df.columns:
+        print(f"USDA Nitrogen % Deviation non-null values: {df[usda_col].notna().sum()}")
+        print(f"USDA Nitrogen % Deviation highest values: {df[usda_col].dropna().nlargest(5).tolist() if df[usda_col].notna().any() else 'None'}")
+    if ucce_col in df.columns:
+        print(f"UCCE Nitrogen % Deviation non-null values: {df[ucce_col].notna().sum()}")
+        print(f"UCCE Nitrogen % Deviation higest values: {df[ucce_col].dropna().nlargest(5).tolist() if df[ucce_col].notna().any() else 'None'}")
+    
     # 1. Nitrogen Generation - Percentage Deviation Histograms
     nitrogen_fig = go.Figure()
     
-    # Use the correct column names from read_reports.py
-    usda_col = 'usda_nitrogen_pct_deviation'
-    ucce_col = 'ucce_nitrogen_pct_deviation'
+    # Use the pretty column names
+    usda_col = "USDA Nitrogen % Deviation"
+    ucce_col = "UCCE Nitrogen % Deviation" 
     
     print("\n=== Nitrogen Generation Plot ===")
     print(f"Looking for columns: {usda_col}, {ucce_col}")
@@ -263,51 +301,35 @@ def create_comparison_plots(df):
             )
         )
     
+    # Update layout for nitrogen plot
     nitrogen_fig.update_layout(
-        title="Distribution of Reported Nitrogen Deviations from Estimates",
-        xaxis_title="Percentage Deviation of Reported Value from Estimate",
+        title="Nitrogen Generation - Percentage Deviation from Estimates",
+        xaxis_title="Percentage Deviation",
         yaxis_title="Number of Facilities",
-        height=500,
         showlegend=True,
         legend=dict(
-            orientation="v",
-            yanchor="middle",
-            xanchor="right",
-            x=1.02,
-            y=0.5
-        ),
-        barmode='overlay',  # Overlay the histograms
-        xaxis=dict(
-            ticktext=['<-100%', '-100%', '-50%', '0%', '50%', '100%', '>100%'],
-            tickvals=[-100, -100, -50, 0, 50, 100, 100]
+            yanchor="top",
+            y=0.99,
+            xanchor="left",
+            x=0.01
         )
     )
     
-    # Add annotations to explain the meaning of positive/negative deviations
-    nitrogen_fig.add_annotation(
-        x=0.5,
-        y=1.1,
-        xref="paper",
-        yref="paper",
-        text="Positive values indicate reported values higher than estimates<br>Negative values indicate reported values lower than estimates",
-        showarrow=False,
-        align="center"
-    )
-    
-    # 2. Wastewater to Milk Ratio - Histogram
+    # 2. Wastewater Generation - Ratio to Milk Production
     wastewater_fig = go.Figure()
     
-    # Use the correct column names from read_reports.py
-    reported_col = 'ww_to_reported_milk'
-    estimated_col = 'ww_to_estimated_milk'
+    # Use pretty column names
+    reported_col = "Wastewater to Reported Milk Ratio"
+    estimated_col = "Wastewater to Estimated Milk Ratio"
     
-    print("\n=== Wastewater to Milk Ratio Plot ===")
+    print("\n=== Wastewater Generation Plot ===")
     print(f"Looking for columns: {reported_col}, {estimated_col}")
     
     # Filter data for reported wastewater ratios
     reported_mask = df['Milk Production Source'] == 'Reported'
     reported_wastewater_data = df.loc[reported_mask, reported_col].dropna() if reported_col in df.columns else pd.Series()
     print(f"Reported wastewater data points: {len(reported_wastewater_data)}")
+    
     if not reported_wastewater_data.empty:
         print(f"Reported wastewater data range: {reported_wastewater_data.min():.2f} to {reported_wastewater_data.max():.2f}")
         wastewater_fig.add_trace(
@@ -352,358 +374,302 @@ def create_comparison_plots(df):
             annotation_position="top"
         )
     
+    # Update layout for wastewater plot 
     wastewater_fig.update_layout(
-        title="Distribution of Wastewater to Milk Ratios",
+        title="Wastewater Generation - Ratio to Milk Production",
         xaxis_title="Liters Wastewater per Liter Milk",
         yaxis_title="Number of Facilities",
-        height=500,
         showlegend=True,
+        barmode="stack",
         legend=dict(
-            orientation="v",
-            yanchor="middle",
+            yanchor="top",
+            y=0.99,
             xanchor="right",
-            x=1.02,
-            y=0.5
-        ),
-        barmode='stack'  # Stack the histograms
-    )
-    # 3. Manure Factor - Histogram
-    manure_fig = go.Figure()
-    
-    # Use the correct column name from read_reports.py
-    manure_col = 'calculated_manure_factor'
-    
-    print("\n=== Manure Factor Plot ===")
-    print(f"Looking for column: {manure_col}")
-    
-    # Filter data for manure factors
-    manure_data = df[manure_col].dropna() if manure_col in df.columns else pd.Series()
-    print(f"Manure factor data points: {len(manure_data)}")
-    if not manure_data.empty:
-        print(f"Manure factor data range: {manure_data.min():.2f} to {manure_data.max():.2f}")
-        manure_fig.add_trace(
-            go.Histogram(
-                x=manure_data,
-                nbinsx=50,  # Adjust number of bins as needed
-                name="Calculated Factor",
-                marker_color=reported_color,
-                opacity=0.7
-            )
-        )
-        
-        # # "reasonable" region: 8 <= x <= 15. $ TODO: check if it should be smaller - 10-12?
-        # manure_fig.add_vrect(
-        #     x0=8, x1=15,
-        #     fillcolor="rgba(0,200,0,0.15)",
-        #     layer="below",
-        #     line_width=0,
-        #     annotation_text="Reasonable<br>Values",
-        #     annotation_position="top"
-        # )
-        # Likely under-reporting if x < 8
-        manure_fig.add_vrect(
-            x0=manure_data.min(), x1=8,
-            fillcolor="rgba(200,0,0,0.15)",
-            layer="below",
-            line_width=0,
-            annotation_text="Likely<br>Under-reporting",
-            annotation_position="top"
-        )
-        # # Likely over-reporting
-        # manure_fig.add_vrect(
-        #     x0=15, x1=manure_data.max(),
-        #     fillcolor="rgba(200,0,0,0.15)", 
-        #     layer="below",
-        #     line_width=0,
-        #     annotation_text="Likely<br>Over-reporting",
-        #     annotation_position="top"
-        # )
-        manure_fig.update_yaxes(range=[0, manure_data.value_counts().max() * 1.1])
-    else:
-        print("WARNING: No manure factor data available")
-    
-    manure_fig.update_layout(
-        title="Distribution of Manure Factors",
-        xaxis_title="Tons Manure per Cow per Year",
-        yaxis_title="Number of Facilities",
-        height=500,
-        showlegend=True,
-        legend=dict(
-            orientation="v",
-            yanchor="middle",
-            xanchor="right",
-            x=1.02,
-            y=0.5
+            x=1
         )
     )
     
-    return nitrogen_fig, wastewater_fig, manure_fig
+    return nitrogen_fig, wastewater_fig
+
+# Define standardized colors for the app
+NITROGEN_COLOR = 'rgb(0, 71, 171)'
+NITROGEN_EST_COLOR = 'rgba(0, 71, 171, 0.5)'
+WASTEWATER_COLOR = 'rgb(135, 206, 235)'
+WASTEWATER_EST_COLOR = 'rgba(135, 206, 235, 0.5)'
+MANURE_COLOR = 'rgb(255, 165, 0)'
+MANURE_EST_COLOR = 'rgba(255, 165, 0, 0.5)'
+
+# General dual-use bar plot function
+from typing import List, Tuple
+
+def dual_bar_plot(fig, row, col, reported_label, reported_value, estimated_label, estimated_value, color, est_color, y_label, unit):
+    bars = []
+    if reported_value is not None:
+        bars.append(dict(
+            x=[reported_label],
+            y=[reported_value],
+            name=reported_label,
+            marker_color=color,
+            marker_pattern_shape="",
+            text=[f"{reported_value:,.0f} {unit}"],
+            textposition='auto',
+            legendgroup=reported_label,
+            showlegend=True
+        ))
+    if estimated_value is not None:
+        bars.append(dict(
+            x=[estimated_label],
+            y=[estimated_value],
+            name=estimated_label,
+            marker_color=est_color,
+            marker_pattern_shape="/",
+            text=[f"{estimated_value:,.0f} {unit}"],
+            textposition='auto',
+            legendgroup=estimated_label,
+            showlegend=True
+        ))
+    for bar in bars:
+        fig.add_trace(go.Bar(**bar), row=row, col=col)
+    fig.update_yaxes(title_text=y_label, row=row, col=col)
+
 
 def create_facility_comparison_plots(df, facility_name):
     """Create comparison plots for a specific facility."""
-    facility_df = df[df['Dairy Name'] == facility_name]
-    if facility_df.empty:
+    params = load_parameters()
+    calc = params['calculated_metrics']
+    pretty = params['snake_to_pretty']
+    herd_cols = [
+        'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
+        'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)', 'Average Other'
+    ]
+    if facility_name not in df['Dairy Name'].values:
         return None
-    
-    # Color scheme for consistency
-    reported_color = 'rgb(0, 71, 171)'      # dark blue
-    estimated_color = 'rgb(135, 206, 235)'  # light blue
-    ucce_color = 'rgb(144, 238, 144)'       # light green
-    
-    # Create subplots
+    facility_data = df[df['Dairy Name'] == facility_name].iloc[0]
+    fig = make_subplots(
+        rows=2, cols=2,
+        subplot_titles=(
+            "Herd Breakdown",
+            "Nitrogen Generation", 
+            "Wastewater Generation",
+            "Manure Generation"
+        )
+    )
+    # 1. Herd Breakdown (solid color only)
+    herd_data = [] 
+    for col in herd_cols:
+        if col in facility_data and pd.notna(facility_data[col]):
+            herd_data.append({'name': col, 'value': facility_data[col]})
+    if herd_data:
+        fig.add_trace(
+            go.Bar(
+                x=[d['name'] for d in herd_data],
+                y=[d['value'] for d in herd_data],
+                name='Herd Breakdown',
+                marker_color='gray',
+                text=[f"{d['value']:,.0f}" for d in herd_data],
+                textposition='auto',
+                showlegend=False
+            ),
+            row=1, col=1
+        )
+    # 2. Nitrogen Generation (reported, USDA est, UCCE est)
+    n_reported = calc.get('total_reported_n_lbs', 'Total Reported N (lbs)')
+    n_usda = calc.get('usda_nitrogen_estimate_lbs', 'USDA N Estimate (lbs)')
+    n_ucce = calc.get('ucce_nitrogen_estimate_lbs', 'UCCE N Estimate (lbs)')
+    n_reported_val = facility_data[n_reported] if n_reported in facility_data and pd.notna(facility_data[n_reported]) else None
+    n_usda_val = facility_data[n_usda] if n_usda in facility_data and pd.notna(facility_data[n_usda]) else None
+    n_ucce_val = facility_data[n_ucce] if n_ucce in facility_data and pd.notna(facility_data[n_ucce]) else None
+    # Plot reported (solid), USDA est (hashed), UCCE est (hashed)
+    if n_reported_val is not None:
+        fig.add_trace(go.Bar(
+            x=['Reported N'],
+            y=[n_reported_val],
+            name='Reported',
+            marker_color=NITROGEN_COLOR,
+            marker_pattern_shape="",
+            text=[f"{n_reported_val:,.0f} lbs"],
+            textposition='auto',
+            legendgroup='reported',
+            showlegend=True
+        ), row=1, col=2)
+    if n_usda_val is not None:
+        fig.add_trace(go.Bar(
+            x=['USDA Estimate'],
+            y=[n_usda_val],
+            name='Estimated',
+            marker_color=NITROGEN_EST_COLOR,
+            marker_pattern_shape="/",
+            text=[f"{n_usda_val:,.0f} lbs"],
+            textposition='auto',
+            legendgroup='estimated',
+            showlegend=True
+        ), row=1, col=2)
+    if n_ucce_val is not None:
+        fig.add_trace(go.Bar(
+            x=['UCCE Estimate'],
+            y=[n_ucce_val],
+            name='UCCE Estimate',
+            marker_color=NITROGEN_EST_COLOR,
+            marker_pattern_shape="/",
+            text=[f"{n_ucce_val:,.0f} lbs"],
+            textposition='auto',
+            legendgroup='UCCE Estimate',
+            showlegend=True
+        ), row=1, col=2)
+    # 3. Wastewater Generation
+    ww_reported = calc.get('total_ww_gen_liters', 'Total Wastewater Generated (L)')
+    ww_estimated = None  # If you have an estimated value, set it here
+    ww_reported_val = facility_data[ww_reported] if ww_reported in facility_data and pd.notna(facility_data[ww_reported]) else None
+    ww_estimated_val = None  # Add logic for estimated if available
+    if ww_reported_val is not None:
+        fig.add_trace(go.Bar(
+            x=['Reported WW'],
+            y=[ww_reported_val],
+            name='Reported',
+            marker_color=WASTEWATER_COLOR,
+            marker_pattern_shape="",
+            text=[f"{ww_reported_val:,.0f} L"],
+            textposition='auto',
+            legendgroup='reported',
+            showlegend=False
+        ), row=2, col=1)
+    if ww_estimated_val is not None:
+        fig.add_trace(go.Bar(
+            x=['Estimated WW'],
+            y=[ww_estimated_val],
+            name='Estimated',
+            marker_color=WASTEWATER_EST_COLOR,
+            marker_pattern_shape="/",
+            text=[f"{ww_estimated_val:,.0f} L"],
+            textposition='auto',
+            legendgroup='estimated',
+            showlegend=False
+        ), row=2, col=1)
+    # 4. Manure Generation
+    manure_reported = 'total_manure_excreted_tons'
+    herd_size_col = calc.get('total_herd_size', 'Total Herd Size')
+    manure_reported_val = facility_data[manure_reported] if manure_reported in facility_data and pd.notna(facility_data[manure_reported]) else None
+    manure_estimated_val = BASE_MANURE_FACTOR * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
+    if manure_reported_val is not None:
+        fig.add_trace(go.Bar(
+            x=['Reported Manure'],
+            y=[manure_reported_val],
+            name='Reported',
+            marker_color=MANURE_COLOR,
+            marker_pattern_shape="",
+            text=[f"{manure_reported_val:,.0f} tons"],
+            textposition='auto',
+            legendgroup='reported',
+            showlegend=False
+        ), row=2, col=2)
+    if manure_estimated_val is not None:
+        fig.add_trace(go.Bar(
+            x=['Estimated Manure'],
+            y=[manure_estimated_val],
+            name='Estimated',
+            marker_color=MANURE_EST_COLOR,
+            marker_pattern_shape="/",
+            text=[f"{manure_estimated_val:,.0f} tons"],
+            textposition='auto',
+            legendgroup='estimated',
+            showlegend=False
+        ), row=2, col=2)
+    fig.update_layout(
+        showlegend=True,
+        height=800,
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.08,
+            xanchor="center",
+            x=0.5
+        )
+    )
+    return fig
+
+def create_consultant_comparison_plots():
+    # Load pre-calculated consultant metrics
+    metrics_path = "outputs/consolidated/2023_R5_consultant_metrics.csv"
+    df = pd.read_csv(metrics_path)
+    consultants = df['Consultant']
+
     fig = make_subplots(
         rows=1, cols=3,
-        subplot_titles=(
-            "Wastewater",
-            "Manure Factor",
-            "Nitrogen Generation"
-        ),
-        horizontal_spacing=0.25  # Increased from default (0.02) for more white space
+        subplot_titles=("Nitrogen Deviation", "Wastewater to Milk", "Manure Factor"),
+        horizontal_spacing=0.15  # Add whitespace between subplots
     )
-    
-    # Helper function to safely get value
-    def get_value(df, col, default=0):
-        if col in df.columns:
-            return df[col].iloc[0] if not pd.isna(df[col].iloc[0]) else default
-        return default
-    
-    # 1. Wastewater Comparison (Reported vs Estimated)
-    reported_wastewater = get_value(facility_df, 'Total Process Wastewater Generated (L)')
-    estimated_wastewater = get_value(facility_df, 'Estimated Total Manure (tons)') * 1000  # Convert tons to liters
-    
-    if reported_wastewater > 0:
+
+    # 1. Nitrogen Generation
+    y1 = df['USDA Nitrogen % Dev Avg']
+    y1_std = df['USDA Nitrogen % Dev Std']
+    y2 = df['UCCE Nitrogen % Dev Avg']
+    y2_std = df['UCCE Nitrogen % Dev Std']
+
+    # Only show error bars if std is not null
+    for y, y_std, name, color, col in [
+        (y1, y1_std, "Reported Nitrogen Deviation from USDA Estimate", "blue", 1),
+        (y2, y2_std, "Reported Nitrogen Deviation from UCCE Estimate", "lightblue", 1)
+    ]:
+        error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y_std], visible=True) if not y_std.isnull().all() else None
         fig.add_trace(
             go.Bar(
-                name="Reported",
-                x=["Reported"],
-                y=[reported_wastewater],
-                marker_color=reported_color,
-                legendgroup="wastewater",
-                showlegend=True
+                x=consultants,
+                y=y,
+                name=name,
+                marker_color=color,
+                error_y=error_y if error_y and not all(np.isnan(y_std)) else None,
+                text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y],
+                textposition='auto',
+                showlegend=False
             ),
             row=1, col=1
         )
-    if estimated_wastewater > 0:
-        fig.add_trace(
-            go.Bar(
-                name="Estimated",
-                x=["Estimated"],
-                y=[estimated_wastewater],
-                marker_color=estimated_color,
-                legendgroup="wastewater",
-                showlegend=True if reported_wastewater <= 0 else False
-            ),
-            row=1, col=1
-        )
-    
-    # 2. Manure Factor Comparison (Calculated vs Base)
-    calculated_manure = get_value(facility_df, 'Calculated Manure Factor')
-    if calculated_manure > 0:
-        fig.add_trace(
-            go.Bar(
-                name="Reported",
-                x=["Calculated"],
-                y=[calculated_manure],
-                marker_color=reported_color,
-                legendgroup="manure",
-                showlegend=True
-            ),
-            row=1, col=2
-        )
+
+    # 2. Wastewater Generation
+    y3 = df['Wastewater Ratio Avg']
+    y3_std = df['Wastewater Ratio Std']
+    error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y3_std], visible=True) if not y3_std.isnull().all() else None
     fig.add_trace(
         go.Bar(
-            name="Base Factor",
-            x=["Base"],
-            y=[BASE_MANURE_FACTOR],
-            marker_color=estimated_color,
-            legendgroup="manure",
-            showlegend=True if calculated_manure <= 0 else False
+            x=consultants,
+            y=y3,
+            name="Based on Reported Milk",
+            marker_color="red",
+            error_y=error_y if error_y and not all(np.isnan(y3_std)) else None,
+            text=[f"{v:.2f}" if not np.isnan(v) else "" for v in y3],
+            textposition='auto',
+            showlegend=False
         ),
         row=1, col=2
     )
-    
-    # 3. Nitrogen Generation Comparison (Reported, USDA, UCCE)
-    reported_nitrogen = get_value(facility_df, 'Total Dry Manure Generated N (lbs)') / 2.20462  # Convert lbs to kg
-    usda_nitrogen = get_value(facility_df, 'USDA Nitrogen Estimate (lbs)') / 2.20462  # Convert lbs to kg
-    ucce_nitrogen = get_value(facility_df, 'UCCE Nitrogen Estimate (lbs)') / 2.20462  # Convert lbs to kg
-    
-    if reported_nitrogen > 0:
-        fig.add_trace(
-            go.Bar(
-                name="Reported",
-                x=["Reported"],
-                y=[reported_nitrogen],
-                marker_color=reported_color,
-                legendgroup="nitrogen",
-                showlegend=True
-            ),
-            row=1, col=3
-        )
-    if usda_nitrogen > 0:
-        fig.add_trace(
-            go.Bar(
-                name="USDA Estimate",
-                x=["USDA"],
-                y=[usda_nitrogen],
-                marker_color=estimated_color,
-                legendgroup="nitrogen",
-                showlegend=True if reported_nitrogen <= 0 else False
-            ),
-            row=1, col=3
-        )
-    if ucce_nitrogen > 0:
-        fig.add_trace(
-            go.Bar(
-                name="UCCE Estimate",
-                x=["UCCE"],
-                y=[ucce_nitrogen],
-                marker_color=ucce_color,
-                legendgroup="nitrogen",
-                showlegend=True if (reported_nitrogen <= 0 and usda_nitrogen <= 0) else False
-            ),
-            row=1, col=3
-        )
-    
-    # Update layout
-    fig.update_layout(
-        height=500,
-        title_text=f"Facility Data: {facility_name}",
-        barmode='group',
-        legend_title_text=""
-    )
-    
-    # Update y-axis labels
-    fig.update_yaxes(title_text="Liters per day", row=1, col=1)
-    fig.update_yaxes(title_text="Tons per cow per year", row=1, col=2)
-    fig.update_yaxes(title_text="kg per day", row=1, col=3)
-    
-    return fig
 
-def create_consultant_comparison_plots(df):
-    """Create side-by-side bar plots comparing consultant reporting patterns, with facility counts in labels."""
-    # Load consultant metrics for R5 2023 only
-    metrics_file = "outputs/consolidated/2023_R5_consultant_metrics.csv"
-    if not os.path.exists(metrics_file):
-        return None
-    
-    try:
-        metrics_df = pd.read_csv(metrics_file)
-    except Exception as e:
-        st.warning(f"Error loading consultant metrics: {str(e)}")
-        return None
-    
-    if metrics_df.empty:
-        return None
-    
-    # Define consistent colors for consultants
-    consultant_colors = {
-        'Self-Reported': 'rgb(128, 128, 128)',  # grey
-        'Innovative Ag': 'rgb(255, 215, 0)',    # gold
-        'Livingston': 'rgb(50, 205, 50)',       # lime green
-        'Provost & Pritchard': 'rgb(30, 144, 255)'  # dodger blue
-    }
-    
-    # Prepare consultant labels with facility counts
-    metrics_df['ConsultantLabel'] = metrics_df.apply(
-        lambda row: f"{row['Consultant']} ({int(row['Facility Count'])})", axis=1
-    )
-    
-    # Create subplots: 1 row, 3 columns
-    fig = make_subplots(
-        rows=1, cols=3,
-        subplot_titles=[
-            "Manure Factor",
-            "Wastewater to\nMilk Ratio",
-            "Nitrogen Deviation"
-        ],
-        horizontal_spacing=0.25
-    )
-    
-    # 1. Manure Factor
-    for i, row in metrics_df.iterrows():
-        fig.add_trace(
-            go.Bar(
-                x=[row['ConsultantLabel']],
-                y=[row['Manure Factor Avg']],
-                error_y=dict(
-                    type='data',
-                    array=[row['Manure Factor Std']],
-                    visible=True
-                ),
-                marker_color=consultant_colors.get(row['Consultant'], 'rgb(200, 200, 200)'),
-                showlegend=False
-            ),
-            row=1, col=1
-        )
-    fig.add_shape(
-        type="line",
-        x0=-0.5,
-        y0=BASE_MANURE_FACTOR,
-        x1=len(metrics_df) - 0.5,
-        y1=BASE_MANURE_FACTOR,
-        line=dict(color="red", width=2, dash="dash"),
-        row=1, col=1
-    )
-    fig.update_yaxes(title_text="Avg Manure Factor (tons/cow/year)", row=1, col=1)
-    
-    # 2. Wastewater Ratio
-    for i, row in metrics_df.iterrows():
-        fig.add_trace(
-            go.Bar(
-                x=[row['ConsultantLabel']],
-                y=[row['Wastewater Ratio Avg']],
-                error_y=dict(
-                    type='data',
-                    array=[row['Wastewater Ratio Std']],
-                    visible=True
-                ),
-                marker_color=consultant_colors.get(row['Consultant'], 'rgb(200, 200, 200)'),
-                showlegend=False
-            ),
-            row=1, col=2
-        )
-    fig.update_yaxes(title_text="Avg Wastewater/Milk Ratio (L/L)", row=1, col=2)
-    
-    # 3. Nitrogen Deviation
-    for i, row in metrics_df.iterrows():
-        fig.add_trace(
-            go.Bar(
-                x=[row['ConsultantLabel']],
-                y=[row['USDA Nitrogen % Dev Avg']],
-                error_y=dict(
-                    type='data',
-                    array=[row['USDA Nitrogen % Dev Std']],
-                    visible=True
-                ),
-                marker_color=consultant_colors.get(row['Consultant'], 'rgb(200, 200, 200)'),
-                showlegend=False
-            ),
-            row=1, col=3
-        )
-    fig.add_shape(
-        type="line",
-        x0=-0.5,
-        y0=0,
-        x1=len(metrics_df) - 0.5,
-        y1=0,
-        line=dict(color="red", width=2, dash="dash"),
+    # 3. Milk Production
+    y4 = df['Manure Factor Avg']
+    y4_std = df['Manure Factor Std']
+    error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y4_std], visible=True) if not y4_std.isnull().all() else None
+    fig.add_trace(
+        go.Bar(
+            x=consultants,
+            y=y4,
+            name="Annual Production",
+            marker_color="green",
+            error_y=error_y if error_y and not all(np.isnan(y4_std)) else None,
+            text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y4],
+            textposition='auto',
+            showlegend=False
+        ),
         row=1, col=3
     )
-    fig.update_yaxes(title_text="Avg USDA Nitrogen % Deviation", row=1, col=3)
-    
+
     # Update layout
     fig.update_layout(
+        showlegend=False,  # Remove legend
         height=500,
-        width=1400,
-        barmode='group',
-        showlegend=False,
-        title_text="Consultant Comparison: Manure Factor, Wastewater to Milk Ratio, and Nitrogen Deviation"
+        margin=dict(l=40, r=40, t=80, b=40)
     )
-    
-    # Improve x-axis labels for all subplots
-    for i in range(1, 4):
-        fig.update_xaxes(tickangle=30, row=1, col=i) 
-    
+    fig.update_yaxes(title_text="%", row=1, col=1)
+    fig.update_yaxes(title_text="Liters per Liter Milk", row=1, col=2)
+    fig.update_yaxes(title_text="Manure per Cow", row=1, col=3)
     return fig
 
 def filter_tab2(df, selected_year):
@@ -745,7 +711,7 @@ def filter_tab2(df, selected_year):
     print(f"\nFinal filtered rows: {len(filtered_df)}")
     
     # Check if we have any non-null values in our key columns
-    key_columns = ['usda_nitrogen_pct_deviation', 'ucce_nitrogen_pct_deviation', 'ww_to_reported_milk', 'ww_to_estimated_milk', 'calculated_manure_factor']
+    key_columns = ['USDA Nitrogen % Deviation', 'UCCE Nitrogen % Deviation', 'Wastewater to Reported Milk Ratio', 'Wastewater to Estimated Milk Ratio', 'Calculated Manure Factor']
     for col in key_columns:
         if col in filtered_df.columns:
             non_null = filtered_df[col].notna().sum()
@@ -850,7 +816,7 @@ def main():
             Values above 0% indicate facilities reporting less nitrogen than estimated
             We compare reported nitrogen generation to two estimated metris. The USDA estimate is based on nitrogen per unit of manure generation. The UCCE estimate is based on nitrogen per animal unit.
             """)
-            nitrogen_fig, wastewater_fig, manure_fig = create_comparison_plots(filtered_df)
+            nitrogen_fig, wastewater_fig = create_comparison_plots(filtered_df)
             st.plotly_chart(nitrogen_fig, use_container_width=True)
             
             # Wastewater to Milk Ratio Plot
@@ -871,6 +837,36 @@ def main():
             
             * note: as of May 16, the zero column is too high since there are some files being read where manure is non-zero but not being picked up. Similarly, the factor for some facilities might be over-counted because the herd size is being under-counted reading the files*
             """)
+            # Generate manure_fig
+            manure_col = 'Calculated Manure Factor'
+            manure_fig = go.Figure()
+            if manure_col in filtered_df.columns:
+                manure_data = filtered_df[manure_col].dropna()
+                if not manure_data.empty:
+                    manure_fig.add_trace(
+                        go.Histogram(
+                            x=manure_data,
+                            nbinsx=50,
+                            name="Reported Manure Factor",
+                            marker_color='rgb(255, 165, 0)',
+                            opacity=0.7
+                        )
+                    )
+                # Likely under-reporting if x < 8
+                manure_fig.add_vrect(
+                    x0=manure_data.min(), x1=8,
+                    fillcolor="rgba(200,0,0,0.15)",
+                    layer="below",
+                    line_width=0,
+                    annotation_text="Likely<br>Under-reporting",
+                    annotation_position="top"
+                    )
+                manure_fig.update_layout(
+                    title="Manure Generation Factor Distribution",
+                    xaxis_title="Tons Manure per Cow per Year",
+                    yaxis_title="Number of Facilities",
+                    showlegend=True
+                )
             st.plotly_chart(manure_fig, use_container_width=True)
             
             # Facility search and comparison
@@ -905,16 +901,11 @@ def main():
                 # Display facility details
                 col1, col2 = st.columns(2)
                 with col1:
-                    st.write("**Location Details:**")
-                    st.write(f"County: {facility_data['County']}")
-                    st.write(f"City: {facility_data['City']}")
                     st.write(f"Address: {facility_data['Street Address']}")
-                    st.write(f"Zip: {facility_data['Zip']}")
+                    st.write(f"City, State, Zip: {facility_data['City']}, CA {facility_data['Zip']}")
                 
                 with col2:
-                    st.write("**Facility Details:**")
-                    st.write(f"Region: {facility_data['Region']}")
-                    st.write(f"Consultant: {facility_data['Consultant']}")
+                    st.write(f"Report prepared by: {facility_data['Consultant']}")
                     st.write(f"Total Herd Size: {facility_data['Total Herd Size']:,.0f}")
                 
                 facility_comparison_fig = create_facility_comparison_plots(facility_df, selected_facility)
@@ -932,7 +923,7 @@ def main():
             Each bar represents a consultant's average value, with error bars showing the standard deviation.
             """)
             
-            consultant_comparison_fig = create_consultant_comparison_plots(df)
+            consultant_comparison_fig = create_consultant_comparison_plots()
             if consultant_comparison_fig is not None:
                 st.plotly_chart(consultant_comparison_fig, use_container_width=True)
             

@@ -1,0 +1,32 @@
+metric_key,metric_name,data_type,description
+avg_milk_prod_kg_per_cow,Average Milk Production (kg per cow),numeric,Calculated from average milk production in pounds
+avg_milk_prod_l_per_cow,Average Milk Production (L per cow),numeric,Calculated from average milk production in pounds
+reported_annual_milk_production_l,Reported Annual Milk Production (L),numeric,Calculated from daily milk production and herd size
+total_herd_size,Total Herd Size,numeric,Sum of all animal categories
+total_applied_n_lbs,Total Applied N (lbs),numeric,Sum of dry manure and wastewater N application
+total_applied_p_lbs,Total Applied P (lbs),numeric,Sum of dry manure and wastewater P application
+total_applied_k_lbs,Total Applied K (lbs),numeric,Sum of dry manure and wastewater K application
+total_applied_salt_lbs,Total Applied Salt (lbs),numeric,Sum of dry manure and wastewater salt application
+total_reported_n_lbs,Total Reported N (lbs),numeric,Sum of dry manure and wastewater N generation
+total_reported_p_lbs,Total Reported P (lbs),numeric,Sum of dry manure and wastewater P generation
+total_reported_k_lbs,Total Reported K (lbs),numeric,Sum of dry manure and wastewater K generation
+total_reported_salt_lbs,Total Reported Salt (lbs),numeric,Sum of dry manure and wastewater salt generation
+unaccounted_for_n_lbs,Unaccounted For N (lbs),numeric,Difference between reported and applied N
+unaccounted_for_p_lbs,Unaccounted For P (lbs),numeric,Difference between reported and applied P
+unaccounted_for_k_lbs,Unaccounted For K (lbs),numeric,Difference between reported and applied K
+unaccounted_for_salt_lbs,Unaccounted For Salt (lbs),numeric,Difference between reported and applied salt
+total_ww_gen_liters,Total Wastewater Generated (L),numeric,Converted from gallons
+wastewater_estimated,Estimated Total Wastewater Generated (L),numeric,
+wastewater_to_reported,Wastewater to Reported Milk Ratio,numeric,Ratio of wastewater to reported milk production
+wastewater_to_estimated,Wastewater to Estimated Milk Ratio,numeric,Ratio of wastewater to estimated milk production
+wastewater_ratio_discrepancy,Wastewater Ratio Discrepancy,numeric,Difference between estimated and reported ratios
+calculated_manure_factor,Calculated Manure Factor,numeric,Calculated from manure production and herd size
+manure_factor_discrepancy,Manure Factor Discrepancy,numeric,Difference from base manure factor
+nitrogen_discrepancy,Nitrogen Discrepancy,numeric,Difference between reported and USDA estimated N
+usda_nitrogen_pct_deviation,USDA Nitrogen % Deviation,numeric,Percentage deviation from USDA estimate
+ucce_nitrogen_pct_deviation,UCCE Nitrogen % Deviation,numeric,Percentage deviation from UCCE estimate
+usda_nitrogen_estimate_lbs,USDA N Estimate (lbs),numeric,Nitrogen estimate based on manure production and nitrogen content
+ucce_nitrogen_estimate_lbs,UCCE N Estimate (lbs),numeric,Nitrogen estimate based on herd size and animal factors
+estimated_annual_milk_production_l,Estimated Annual Milk Production (L),numeric,Estimated annual milk production in liters (using default or reported values)
+wastewater_estimated_l,Estimated Wastewater Generation (L),numeric,Estimated wastewater generation in liters (low range)
+Wastewater to Estimated Milk Ratio,Wastewater to Estimated Milk Ratio,numeric,Ratio of total wastewater generated to estimated annual milk production 

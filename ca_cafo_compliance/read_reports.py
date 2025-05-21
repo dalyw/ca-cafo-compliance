@@ -26,10 +26,12 @@ consolidate_data = True
 def load_parameters():
     """Load parameters and create mapping dictionaries."""
     parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
+    calculated_metrics = pd.read_csv('ca_cafo_compliance/calculated_metrics.csv')
     return {
         'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
         'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
-        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type']))
+        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
+        'calculated_metrics': dict(zip(calculated_metrics['metric_key'], calculated_metrics['metric_name']))
     }
 
 def extract_value_with_pattern(text):
@@ -279,16 +281,20 @@ def safe_calc(df, keys, func, default=np.nan):
 
 def calculate_metrics(df):
     """Calculate all metrics for the dataframe."""
+    # Load calculated metrics mapping
+    params = load_parameters()
+    calculated_metrics = params['calculated_metrics']
+
     # Calculate annual milk production
-    df['avg_milk_prod_kg_per_cow'] = safe_calc(
+    df[calculated_metrics['avg_milk_prod_kg_per_cow']] = safe_calc(
         df, ['avg_milk_lb_per_cow_day'],
         lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG
     )
-    df['avg_milk_prod_l_per_cow'] = safe_calc(
+    df[calculated_metrics['avg_milk_prod_l_per_cow']] = safe_calc(
         df, ['avg_milk_lb_per_cow_day'],
         lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_PER_L_MILK
     )
-    df['reported_annual_milk_production_l'] = safe_calc(
+    df[calculated_metrics['reported_annual_milk_production_l']] = safe_calc(
         df, ['avg_milk_lb_per_cow_day', 'avg_milk_cows', 'avg_dry_cows'],
         lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_PER_L_MILK * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
     )
@@ -298,7 +304,7 @@ def calculate_metrics(df):
         "avg_milk_cows", "avg_dry_cows", "avg_bred_heifers",
         "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo", "avg_other"
     ]
-    df["total_herd_size"] = safe_calc(
+    df[calculated_metrics['total_herd_size']] = safe_calc(
         df, herd_keys,
         lambda d: sum(d[k].fillna(0) for k in herd_keys if k in d.columns),
         default=0
@@ -310,7 +316,7 @@ def calculate_metrics(df):
         # Total Applied
         dry_key = f"applied_{nutrient}_dry_manure_lbs"
         ww_key = f"applied_ww_{nutrient}_lbs"
-        total_applied_key = f"total_applied_{nutrient}_lbs"
+        total_applied_key = calculated_metrics[f'total_applied_{nutrient}_lbs']
         df[total_applied_key] = safe_calc(
             df, [dry_key, ww_key],
             lambda d: d[dry_key].fillna(0) + d[ww_key].fillna(0)
@@ -321,7 +327,7 @@ def calculate_metrics(df):
         else:
             dry_key_reported = f"total_manure_gen_{nutrient}_lbs"
         ww_key_reported = f"total_ww_gen_{nutrient}_lbs"
-        total_reported_key = f"total_reported_{nutrient}_lbs"
+        total_reported_key = calculated_metrics[f'total_reported_{nutrient}_lbs']
         df[total_reported_key] = safe_calc(
             df, [dry_key_reported, ww_key_reported],
             lambda d: d[dry_key_reported].fillna(0) + d[ww_key_reported].fillna(0)
@@ -329,28 +335,55 @@ def calculate_metrics(df):
 
         # Unaccounted for
         exports_key = f"total_exports_{nutrient}_lbs"
-        unaccounted_key = f"unaccounted_for_{nutrient}_lbs"
+        unaccounted_key = calculated_metrics[f'unaccounted_for_{nutrient}_lbs']
         df[unaccounted_key] = safe_calc(
             df, [dry_key_reported, ww_key_reported, total_applied_key, exports_key],
             lambda d: d[dry_key_reported].fillna(0) + d[ww_key_reported].fillna(0) - d[total_applied_key].fillna(0) - d[exports_key].fillna(0)
         )
 
     # Calculate wastewater metrics
-    df["total_ww_gen_liters"] = safe_calc(
+    total_ww_gen_liters = calculated_metrics['total_ww_gen_liters']
+    df[total_ww_gen_liters] = safe_calc(
         df, ["total_ww_gen_gals"],
         lambda d: d["total_ww_gen_gals"] * 3.78541
     )
-    df["ww_to_reported_milk"] = safe_calc(
-        df, ["total_ww_gen_liters", "reported_annual_milk_production_l"],
-        lambda d: d["total_ww_gen_liters"] / d["reported_annual_milk_production_l"].replace(0, np.nan)
+
+    wastewater_to_reported = calculated_metrics['wastewater_to_reported']
+    reported_annual_milk = calculated_metrics['reported_annual_milk_production_l']
+    df[wastewater_to_reported] = safe_calc(
+        df, [total_ww_gen_liters, reported_annual_milk],
+        lambda d: d[total_ww_gen_liters] / d[reported_annual_milk].replace(0, np.nan)
     )
-    df["ww_to_estimated_milk"] = safe_calc(
-        df, ["total_ww_gen_liters", "estimated_annual_milk_production_l"],
-        lambda d: d["total_ww_gen_liters"] / d["estimated_annual_milk_production_l"].replace(0, np.nan)
+
+    # Calculate estimated annual milk production (L)
+    est_milk_col = 'estimated_annual_milk_production_l'
+    if 'avg_milk_lb_per_cow_day' in df.columns and df['avg_milk_lb_per_cow_day'].notna().any():
+        df[est_milk_col] = safe_calc(
+            df, ['avg_milk_lb_per_cow_day', 'avg_milk_cows', 'avg_dry_cows'],
+            lambda d: d['avg_milk_lb_per_cow_day'] * LBS_TO_KG * KG_PER_L_MILK * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365
+        )
+    else:
+        df[est_milk_col] = safe_calc(
+            df, ['avg_milk_cows', 'avg_dry_cows'],
+            lambda d: DEFAULT_MILK_PRODUCTION * (d['avg_milk_cows'].fillna(0) + d['avg_dry_cows'].fillna(0)) * 365 * LBS_TO_KG * KG_PER_L_MILK
+        )
+
+    # Calculate estimated wastewater generation (L)
+    wastewater_estimated_col = 'wastewater_estimated_l'
+    df[wastewater_estimated_col] = df[est_milk_col] * L_WW_PER_L_MILK_LOW
+
+    # Calculate Wastewater to Estimated Milk Ratio
+    wastewater_to_estimated = calculated_metrics['wastewater_to_estimated']
+    df[wastewater_to_estimated] = safe_calc(
+        df, [total_ww_gen_liters, est_milk_col],
+        lambda d: d[total_ww_gen_liters] / d[est_milk_col].replace(0, np.nan)
     )
-    df["wastewater_ratio_discrepancy"] = safe_calc(
-        df, ["ww_to_estimated_milk", "ww_to_reported_milk"],
-        lambda d: d["ww_to_estimated_milk"] - d["ww_to_reported_milk"]
+
+    # Calculate Wastewater Ratio Discrepancy
+    wastewater_ratio_discrepancy = calculated_metrics['wastewater_ratio_discrepancy']
+    df[wastewater_ratio_discrepancy] = safe_calc(
+        df, [wastewater_to_estimated, wastewater_to_reported],
+        lambda d: d[wastewater_to_estimated] - d[wastewater_to_reported]
     )
 
     # Calculate manure metrics
@@ -358,6 +391,7 @@ def calculate_metrics(df):
         "total_manure_excreted_tons", "avg_milk_cows", "avg_dry_cows",
         "avg_bred_heifers", "avg_heifers", "avg_calves_4_6_mo", "avg_calves_0_3_mo"
     ]
+    calculated_manure_factor = calculated_metrics['calculated_manure_factor']
     def manure_factor_func(d):
         denom = (
             d["avg_milk_cows"] + d["avg_dry_cows"] +
@@ -367,31 +401,27 @@ def calculate_metrics(df):
         result = d["total_manure_excreted_tons"] / denom
         result[denom <= 0] = np.nan
         return result
-    df["calculated_manure_factor"] = safe_calc(df, manure_keys, manure_factor_func)
-    df["manure_factor_discrepancy"] = safe_calc(
-        df, ["calculated_manure_factor"],
-        lambda d: d["calculated_manure_factor"] - BASE_MANURE_FACTOR
+    df[calculated_manure_factor] = safe_calc(df, manure_keys, manure_factor_func)
+    manure_factor_discrepancy = calculated_metrics['manure_factor_discrepancy']
+    df[manure_factor_discrepancy] = safe_calc(
+        df, [calculated_manure_factor],
+        lambda d: d[calculated_manure_factor] - BASE_MANURE_FACTOR
     )
 
     # Calculate nitrogen metrics
     n_key = "total_manure_gen_n_after_nh3_losses_lbs"
-    usda_key = "usda_nitrogen_estimate_lbs"
-    ucce_key = "ucce_nitrogen_estimate_lbs"
-    
+    usda_key = calculated_metrics['usda_nitrogen_estimate_lbs']
+    ucce_key = calculated_metrics['ucce_nitrogen_estimate_lbs']
     # Calculate USDA and UCCE nitrogen estimates
     herd_keys = [
         "avg_milk_cows", "avg_dry_cows",
         "avg_bred_heifers", "avg_heifers",
         "avg_calves_4_6_mo", "avg_calves_0_3_mo"
     ]
-    
-    # USDA estimate based on manure production and nitrogen content
     df[usda_key] = safe_calc(
         df, ["total_manure_excreted_tons"],
         lambda d: d["total_manure_excreted_tons"] * MANURE_N_CONTENT * 2000  # tons to lbs
     )
-    
-    # UCCE estimate based on herd size and animal factors
     df[ucce_key] = safe_calc(
         df, herd_keys,
         lambda d: (
@@ -401,33 +431,22 @@ def calculate_metrics(df):
             (d["avg_calves_4_6_mo"].fillna(0) + d["avg_calves_0_3_mo"].fillna(0)) * CALF_FACTOR * BASE_MANURE_FACTOR
         ) * MANURE_N_CONTENT
     )
-    
     if n_key in df.columns:
         reported_n = df[n_key]
-        df["nitrogen_discrepancy"] = safe_calc(df, [usda_key, n_key], lambda d: reported_n - d[usda_key])
-        df["usda_nitrogen_pct_deviation"] = safe_calc(df, [usda_key, n_key], lambda d: (reported_n - d[usda_key]) / d[usda_key].replace(0, np.nan) * 100)
-        df["ucce_nitrogen_pct_deviation"] = safe_calc(df, [ucce_key, n_key], lambda d: (reported_n - d[ucce_key]) / d[ucce_key].replace(0, np.nan) * 100)
-        df["USDA Nitrogen % Deviation"] = df["usda_nitrogen_pct_deviation"]
-        df["UCCE Nitrogen % Deviation"] = df["ucce_nitrogen_pct_deviation"]
+        nitrogen_discrepancy = calculated_metrics['nitrogen_discrepancy']
+        usda_pct_dev = calculated_metrics['usda_nitrogen_pct_deviation']
+        ucce_pct_dev = calculated_metrics['ucce_nitrogen_pct_deviation']
+        df[nitrogen_discrepancy] = safe_calc(df, [usda_key, n_key], lambda d: reported_n - d[usda_key])
+        df[usda_pct_dev] = safe_calc(df, [usda_key, n_key], lambda d: (reported_n - d[usda_key]) / d[usda_key].replace(0, np.nan) * 100)
+        df[ucce_pct_dev] = safe_calc(df, [ucce_key, n_key], lambda d: (reported_n - d[ucce_key]) / d[ucce_key].replace(0, np.nan) * 100)
     else:
-        for col in ["nitrogen_discrepancy", "usda_nitrogen_pct_deviation", "ucce_nitrogen_pct_deviation", 
-                   "USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation"]:
-            df[col] = np.nan
+        for col in ['nitrogen_discrepancy', 'usda_nitrogen_pct_deviation', 'ucce_nitrogen_pct_deviation']:
+            df[calculated_metrics[col]] = np.nan
 
     # Fill NA values with 0 for all calculated columns
-    calculated_columns = [
-        "total_herd_size", "avg_milk_prod_kg_per_cow", "avg_milk_prod_l_per_cow", "reported_annual_milk_production_l",
-        "total_applied_n_lbs", "total_applied_p_lbs", "total_applied_k_lbs", "total_applied_salt_lbs",
-        "total_reported_n_lbs", "total_reported_p_lbs", "total_reported_k_lbs", "total_reported_salt_lbs",
-        "unaccounted_for_n_lbs", "unaccounted_for_p_lbs", "unaccounted_for_k_lbs", "unaccounted_for_salt_lbs",
-        "total_ww_gen_liters", "ww_to_reported_milk", "ww_to_estimated_milk",
-        "calculated_manure_factor", "nitrogen_discrepancy", "wastewater_ratio_discrepancy", "manure_factor_discrepancy",
-        "usda_nitrogen_pct_deviation", "ucce_nitrogen_pct_deviation"
-    ]
-    for col in calculated_columns:
+    for col in calculated_metrics.values():
         if col in df.columns:
             df[col] = df[col].fillna(0)
-    
     return df
 
 def main(test_mode=False):
@@ -629,7 +648,7 @@ def consolidate_outputs():
             for csv_file in csv_files:
                 df = pd.read_csv(csv_file)
                 # Ensure these columns always exist
-                for col in ["USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation", "ww_to_reported_milk", "ww_to_estimated_milk"]:
+                for col in ["USDA Nitrogen % Deviation", "UCCE Nitrogen % Deviation", "Wastewater to Reported Milk Ratio", "Wastewater to Estimated Milk Ratio"]:
                     if col not in df.columns:
                         df[col] = np.nan
                 # Add metadata columns
@@ -806,6 +825,13 @@ def consolidate_outputs():
                 consultant_metrics.to_csv(metrics_file, index=False)
                 print(f"Saved consultant metrics to {metrics_file}")
             
+            # Remove snake_case columns from final output
+            snake_case_cols = [col for col in final_df.columns if '_' in col and col not in ['Dairy_Name', 'Dairy_Address']]
+            final_df = final_df.drop(columns=snake_case_cols)
+
+            # Fill missing counties using ZIP code before saving
+            final_df = fill_missing_counties_with_zip(final_df)
+
             output_file = f"outputs/consolidated/{year}_{region}_master.csv"
             final_df.to_csv(output_file, index=False)
             print(f"Saved consolidated data to {output_file}")
@@ -1038,8 +1064,8 @@ def calculate_consultant_metrics(df):
         manure_avg = group['Calculated Manure Factor'].mean() if 'Calculated Manure Factor' in group.columns else None
         manure_std = group['Calculated Manure Factor'].std() if 'Calculated Manure Factor' in group.columns else None
         
-        wastewater_avg = group['Wastewater to Milk Ratio'].mean() if 'Wastewater to Milk Ratio' in group.columns else None
-        wastewater_std = group['Wastewater to Milk Ratio'].std() if 'Wastewater to Milk Ratio' in group.columns else None
+        wastewater_avg = group['Wastewater to Reported Milk Ratio'].mean() if 'Wastewater to Reported Milk Ratio' in group.columns else None
+        wastewater_std = group['Wastewater to Reported Milk Ratio'].std() if 'Wastewater to Reported Milk Ratio' in group.columns else None
         
         nitrogen_usda_avg = group['USDA Nitrogen % Deviation'].mean() if 'USDA Nitrogen % Deviation' in group.columns else None
         nitrogen_usda_std = group['USDA Nitrogen % Deviation'].std() if 'USDA Nitrogen % Deviation' in group.columns else None
@@ -1061,6 +1087,16 @@ def calculate_consultant_metrics(df):
         })
     
     return pd.DataFrame(metrics)
+
+def fill_missing_counties_with_zip(df, zip_col='Zip', county_col='County', mapping_file='data/zipcode_to_county.csv'):
+    """Fill missing County values using Zip and a ZIP-to-county mapping CSV."""
+    # Load ZIP to county mapping
+    zip_map = pd.read_csv(mapping_file, dtype={'zip': str, 'county_name': str})
+    zip_to_county = dict(zip(zip_map['zip'], zip_map['county_name']))
+    # Only fill where county is missing and zip is present
+    mask = df[county_col].isna() & df[zip_col].notna()
+    df.loc[mask, county_col] = df.loc[mask, zip_col].astype(str).map(zip_to_county)
+    return df
 
 if __name__ == "__main__":
     main(test_mode=False)
