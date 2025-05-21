@@ -936,6 +936,8 @@ def main():
             This analysis is inherently limited by the accessibility and consistency of the source data, including issues like inconsistent regional reporting formats and levels of detail, the requirement to visit in-person to get data in some regions, and different data collection periods
             """)
 
+            st.image("ca_cafo_compliance/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
+
             st.subheader("R-1 North Coast")
             st.markdown("""
             Annual reports under Order No. R1-2019-0001 requested by emailing the R2 Water Board and transferred via email.
