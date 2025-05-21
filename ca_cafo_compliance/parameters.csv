@@ -1,12 +1,6 @@
 parameter_key,parameter_name,data_type
 dairy_name,Dairy Name,text
 dairy_address,Dairy Address,text
-max_milk_cows,Maximum Milk Cows,numeric
-max_dry_cows,Maximum Dry Cows,numeric
-max_bred_heifers,Maximum Bred Heifers,numeric
-max_heifers,Maximum Heifers,numeric
-max_calves_4_6_mo,Maximum Calves (4-6 mo.),numeric
-max_calves_0_3_mo,Maximum Calves (0-3 mo.),numeric
 avg_milk_cows,Average Milk Cows,numeric
 avg_dry_cows,Average Dry Cows,numeric
 avg_bred_heifers,Average Bred Heifers,numeric
@@ -26,10 +20,6 @@ total_ww_gen_n_lbs,Total Process Wastewater Generated N (lbs),numeric
 total_ww_gen_p_lbs,Total Process Wastewater Generated P (lbs),numeric
 total_ww_gen_k_lbs,Total Process Wastewater Generated K (lbs),numeric
 total_ww_gen_salt_lbs,Total Process Wastewater Generated Salt (lbs),numeric
-total_exports_n_lbs,Total Exports N (lbs),numeric
-total_exports_p_lbs,Total Exports P (lbs),numeric
-total_exports_k_lbs,Total Exports K (lbs),numeric
-total_exports_salt_lbs,Total Exports Salt (lbs),numeric
 applied_n_dry_manure_lbs,Applied N Dry Manure (lbs),numeric
 applied_p_dry_manure_lbs,Applied P Dry Manure (lbs),numeric
 applied_k_dry_manure_lbs,Applied K Dry Manure (lbs),numeric

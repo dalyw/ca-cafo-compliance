@@ -90,12 +90,12 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,livingston,total_ww_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,(TDS) gen,NA,NA,NA,NA
 2,generic_r2,dairy_name,NA,right,facility name,NA,NA,NA,facility address
 2,generic_r2,dairy_address,NA,right,facility address,NA,NA,NA,NA
-2,generic_r2,avg_milk_cows,NA,right,dry),NA,0,NA,dairy
-2,generic_r2,avg_dry_cows,NA,NA,NA,NA,0,NA,NA
-2,generic_r2,avg_bred_heifers,NA,NA,NA,NA,0,NA,NA
-2,generic_r2,avg_heifers,NA,right,dry),NA,0,cows,heifers
-2,generic_r2,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,NA
-2,generic_r2,avg_calves_0_3_mo,NA,NA,NA,NA,0,NA,NA
+2,generic_r2,avg_milk_cows,NA,right,dry),NA,0,NA,str
+2,generic_r2,avg_dry_cows,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_bred_heifers,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_heifers,NA,right,dry),NA,0,cows,str
+2,generic_r2,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_calves_0_3_mo,NA,NA,NA,NA,0,NA,str
 2,generic_r2,avg_other,NA,NA,NA,NA,NA,NA,NA
 2,generic_r2,total_manure_excreted_tons,NA,NA,NA,NA,0,NA,NA
 7,generic_r7,dairy_name,NA,right,facility name,NA,NA,NA,NA

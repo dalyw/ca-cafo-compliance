@@ -65,17 +65,24 @@ def find_last_data_row(lines, start_idx, stop_phrases):
             return j-1
     return len(lines)-1
 
-def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None):
+def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None, param_key=None):
     """Extract value from a line using item_order, ignore_before, and ignore_after. If none, return full line."""
     if not isinstance(line, str):
         line = str(line)
+    original_line = line  # For debugging
     if item_order is None and not ignore_before and not ignore_after:
         return line
     # Optionally trim before/after
     if ignore_after:
-        idx = line.lower().find(str(ignore_after).lower())
-        if idx != -1:
-            line = line[:idx].strip()
+        if ignore_after == 'str':
+            # If ignore_after is 'str', trim at first non-numeric character after a numeric sequence
+            match = re.match(r'([-+]?\d*\.?\d+)', line.strip())
+            if match:
+                line = match.group(1)
+        else:
+            idx = line.lower().find(str(ignore_after).lower())
+            if idx != -1:
+                line = line[:idx].strip()
     if ignore_before:
         idx = line.lower().find(str(ignore_before).lower())
         if idx != -1:
@@ -84,12 +91,18 @@ def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_af
     if item_order is not None and not pd.isna(item_order):
         parts = [p for p in line.split() if p]
         idx = int(item_order)
+        if param_key == 'avg_dry_cows':
+            print(f"[DEBUG extract_value_from_line] param_key: {param_key} | original_line: '{original_line}' | after trim: '{line}' | parts: {parts} | item_order: {item_order}")
+            if 0 <= idx < len(parts):
+                print(f"[DEBUG extract_value_from_line] Returning value for avg_dry_cows: {parts[idx]}")
+            else:
+                print(f"[DEBUG extract_value_from_line] item_order {item_order} out of range for line: '{line}' (parts: {parts})")
         if 0 <= idx < len(parts):
             return parts[idx]
         return ''
     return line
 
-def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_text=None, column_search_text=None, item_order=None, ignore_before=None, ignore_after=None):
+def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_text=None, column_search_text=None, item_order=None, ignore_before=None, ignore_after=None, param_key=None):
     if not text or not phrase:
         return None
     lines = [str(line).strip() for line in text.split('\n') if str(line).strip()]
@@ -101,7 +114,7 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
         phrase_idx = line.lower().find(phrase.lower())
         if phrase_idx != -1:
             text_after = line[phrase_idx + len(phrase):].strip()
-            return extract_value_from_line(text_after, item_order, ignore_before, ignore_after)
+            return extract_value_from_line(text_after, item_order, ignore_before, ignore_after, param_key=param_key)
     elif direction == 'below':
         # Find the next non-blank line after the phrase
         next_line = None
@@ -110,7 +123,7 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
                 next_line = lines[j].strip()
                 break
         if next_line is not None:
-            return extract_value_from_line(next_line, item_order, ignore_before, ignore_after)
+            return extract_value_from_line(next_line, item_order, ignore_before, ignore_after, param_key=param_key)
     elif direction == 'table':
         if row_search_text and column_search_text:
             row_idx = next((i for i, line in enumerate(lines) if isinstance(line, str) and row_search_text.lower() in line.lower()), None)
@@ -120,14 +133,14 @@ def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_
                 if col_idx is not None and row_idx + 1 < len(lines):
                     value_parts = [part.strip() for part in str(lines[row_idx + 1]).split() if part.strip()]
                     if col_idx < len(value_parts):
-                        return extract_value_from_line(value_parts[col_idx], item_order, ignore_before, ignore_after)
+                        return extract_value_from_line(value_parts[col_idx], item_order, ignore_before, ignore_after, param_key=param_key)
     elif direction == 'above':
         if phrase_line_idx > 0:
             value_line = lines[phrase_line_idx - 1]
-            return extract_value_from_line(value_line, item_order, ignore_before, ignore_after)
+            return extract_value_from_line(value_line, item_order, ignore_before, ignore_after, param_key=param_key)
     return None
 
-def find_value_by_text(page_text, row, data_type):
+def find_value_by_text(page_text, row, data_type, param_key=None):
     if pd.isna(row['row_search_text']):
         return None
     extracted_text = extract_text_adjacent_to_phrase(
@@ -138,9 +151,13 @@ def find_value_by_text(page_text, row, data_type):
         column_search_text=row['column_search_text'],
         item_order=row['item_order'],
         ignore_before=row['ignore_before'],
-        ignore_after=row['ignore_after'] if 'ignore_after' in row else None
+        ignore_after=row['ignore_after'] if 'ignore_after' in row else None,
+        param_key=param_key
     )
     if extracted_text:
+        # If it's a single value, just return it
+        if isinstance(extracted_text, str) and len(extracted_text.split()) == 1:
+            return convert_to_numeric(extracted_text, data_type)
         item_order = row['item_order']
         if pd.isna(item_order) or item_order == -1:
             return convert_to_numeric(extracted_text, data_type)
@@ -186,6 +203,7 @@ def load_ocr_text(pdf_path):
                 text = text.replace("/bs", "lbs")
                 text = text.replace("FaciIity", "Facility")
                 text = text.replace("  ", " ")
+                text = text.replace("___", "")
                 text = '\n'.join([line for line in text.split('\n') if line.strip()])
                 return text
     
@@ -196,9 +214,8 @@ def find_parameter_value(ocr_text, row, data_types):
     """Extract a parameter value from OCR text based on the specified row from parameter_locations."""
     if pd.isna(row['search_direction']):
         return np.nan
-        
     data_type = data_types.get(row['parameter_key'], 'text')
-    
+    param_key = row['parameter_key']
     try:
         # Get the text to search in
         search_text = ocr_text
@@ -206,22 +223,17 @@ def find_parameter_value(ocr_text, row, data_types):
             # If page_search_text is provided, use it to find the starting point
             clean_search = ' '.join(row['page_search_text'].split())
             clean_text = ' '.join(ocr_text.split())
-            
             pos = clean_text.find(clean_search)
             if pos == -1:
                 return np.nan if data_type == 'text' else 0
-                
             # Start searching from after the page_search_text
             search_text = ocr_text[pos + len(row['page_search_text']):]
-        
         # If no row_search_text, we can't find the value
         if pd.isna(row['row_search_text']):
             return np.nan if data_type == 'text' else 0
-            
         # Search for the value in the appropriate text section
-        value = find_value_by_text(page_text=search_text, row=row, data_type=data_type)
+        value = find_value_by_text(page_text=search_text, row=row, data_type=data_type, param_key=param_key)
         return value
-            
     except Exception as e:
         print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
         return np.nan if data_type == 'text' else 0
@@ -230,17 +242,20 @@ def process_pdf(pdf_path, template_params, columns, data_types):
     """Process a single PDF file and extract all parameters from OCR text."""
     result = {col: None for col in columns}
     result['filename'] = os.path.basename(pdf_path)
-    
     ocr_text = load_ocr_text(pdf_path)
     if not ocr_text:
         return result
-    
     # Process main report parameters
     for _, row in template_params.iterrows():
         param_key = row['parameter_key']
         value = find_parameter_value(ocr_text, row, data_types)
+        # Debug print for avg_dry_cows assignment
+        # if param_key == 'avg_dry_cows':
+        #     print(f"[DEBUG assign] param_key: {param_key} | value: {value}")
         result[param_key] = value
-    
+    # Print the result dict before appending
+    # if 'R5' in pdf_path:
+    #     print(f"[DEBUG result dict] {result}")
     return result
 
 def process_csv(csv_path, template_params, columns, data_types):
@@ -369,7 +384,7 @@ def calculate_metrics(df):
         )
 
     # Calculate estimated wastewater generation (L)
-    wastewater_estimated_col = 'wastewater_estimated_l'
+    wastewater_estimated_col = 'wastewater_estimated'
     df[wastewater_estimated_col] = df[est_milk_col] * L_WW_PER_L_MILK_LOW
 
     # Calculate Wastewater to Estimated Milk Ratio
@@ -471,38 +486,34 @@ def main(test_mode=False):
                 region_output_path = os.path.join(base_output_path, region)
                 if not os.path.exists(region_data_path):
                     continue
-                
+                print(f"\n[DEBUG] Processing region: {region} ({year})")
                 for county in [d for d in os.listdir(region_data_path) if os.path.isdir(os.path.join(region_data_path, d))]:
                     county_data_path = os.path.join(region_data_path, county)
                     county_output_path = os.path.join(region_output_path, county)
-                    
                     for template in [d for d in os.listdir(county_data_path) if os.path.isdir(os.path.join(county_data_path, d))]:
                         print(f'processing {template} in {county}')
                         if template not in available_templates:
                             continue
-                        
                         folder = os.path.join(county_data_path, template)
                         output_folder = os.path.join(county_output_path, template)
                         name = f"{county.capitalize()}_{year}_{template}"
-                        
                         template_params = parameter_locations[parameter_locations['template'] == template]
                         columns = template_params['parameter_key'].unique().tolist()
-                        
                         # Process files based on template type
                         if template == 'r8_csv' and region == 'R8':
                             # Process R8 CSV files
                             animals_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_animals.csv')
                             manure_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_manure.csv')
-                            
                             animals_df = pd.read_csv(animals_path)
                             manure_df = pd.read_csv(manure_path)
+                            print(f"[DEBUG] R8: avg_dry_cows in animals_df: {animals_df.get('avg_dry_cows', pd.Series()).head()}")
+                            print(f"[DEBUG] R8: avg_dry_cows in manure_df: {manure_df.get('avg_dry_cows', pd.Series()).head()}")
                             df = pd.merge(animals_df, manure_df, on='Facility Name', how='outer', suffixes=('', '_manure'))
-                            
+                            print(f"[DEBUG] R8: avg_dry_cows after merge: {df.get('avg_dry_cows', pd.Series()).head()}")
                             results = []
                             for _, row in df.iterrows():
                                 result = {col: None for col in columns}
                                 result['filename'] = 'R8_animals.csv'
-                                
                                 for _, param_row in template_params.iterrows():
                                     param_key = param_row['parameter_key']
                                     col_name = param_row['column_search_text']
@@ -523,58 +534,48 @@ def main(test_mode=False):
                                         else:
                                             value = row[col_name]
                                         result[param_key] = value
-                                
                                 results.append(result)
                             df = pd.DataFrame(results)
+                            print(f"[DEBUG DataFrame head]\n{df.head()}")
                         else:
                             # Process PDF files
                             ocr_folder = os.path.join(folder, 'ocr_output')
                             handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
-                            
                             if not os.path.exists(ocr_folder) and not os.path.exists(handwriting_ocr_folder):
                                 continue
-                                
                             pdf_files = []
                             for text_file in glob.glob(os.path.join(ocr_folder, '*.txt')):
                                 pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
                                 pdf_path = os.path.join(folder, 'original', pdf_name)
                                 if os.path.exists(pdf_path):
                                     pdf_files.append(pdf_path)
-                        
                             if os.path.exists(handwriting_ocr_folder):
                                 for text_file in glob.glob(os.path.join(handwriting_ocr_folder, '*.txt')):
                                     pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
                                     pdf_path = os.path.join(folder, 'original', pdf_name)
                                     if os.path.exists(pdf_path) and pdf_path not in pdf_files:
                                         pdf_files.append(pdf_path)
-                        
                             if test_mode:
                                 pdf_files = pdf_files[:2]
-                                
                             if not pdf_files:
                                 continue
-                            
                             with mp.Pool(num_cores) as pool:
                                 process_pdf_partial = partial(process_pdf, template_params=template_params, 
                                                            columns=columns, data_types=params['data_types'])
                                 results = pool.map(process_pdf_partial, pdf_files)
-                            
                             df = pd.DataFrame([r for r in results if r is not None])
-                        
+                            print(f"[DEBUG DataFrame head]\n{df.head()}")
                         # Convert numeric columns
                         for col in df.columns:
                             if params['data_types'].get(col) == 'numeric':
                                 df[col] = pd.to_numeric(df[col], errors='coerce')
-                        
                         # Calculate metrics
                         df = calculate_metrics(df)
-                        
                         # Convert to pretty names and ensure all columns exist
                         df = df.rename(columns=params['snake_to_pretty'])
                         for pretty_name in params['snake_to_pretty'].values():
                             if pretty_name not in df.columns:
                                 df[pretty_name] = np.nan
-                        
                         # Save results
                         os.makedirs(output_folder, exist_ok=True)
                         for f in os.listdir(output_folder):
@@ -583,6 +584,13 @@ def main(test_mode=False):
                         df.to_csv(os.path.join(output_folder, f"{name}.csv"), index=False)
     if consolidate_data:
         consolidate_outputs()
+
+def validate_and_fix_zip(df):
+    if 'Zip' in df.columns:
+        df['Zip'] = df['Zip'].astype(str)
+        df['Zip'] = df['Zip'].str.replace(r'[^\d]', '', regex=True)
+        df.loc[df['Zip'] == '', 'Zip'] = np.nan 
+    return df
 
 def consolidate_outputs():
     """Consolidate all output CSVs into master files and perform geocoding and consultant metrics."""
@@ -676,15 +684,9 @@ def consolidate_outputs():
                 axis=1
             )]
             combined_df['Consultant'] = combined_df['Template'].map(consultant_mapping).fillna('Unknown')
-            herd_cols = [
-                'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
-                'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)',
-            ]
-            def calc_herd_size(row):
-                vals = [row.get(col, 0) for col in herd_cols if col in row]
-                vals = [v for v in vals if pd.notna(v)]
-                return sum(vals) if vals else 0
-            combined_df['Total Herd Size'] = combined_df.apply(calc_herd_size, axis=1)
+            
+            # Validate and fix cow columns
+            combined_df = validate_and_fix_zip(combined_df)
 
             # Initialize location columns if they don't exist
             for col in ['Latitude', 'Longitude', 'Street Address', 'City', 'County', 'Zip']:
@@ -831,6 +833,10 @@ def consolidate_outputs():
 
             # Fill missing counties using ZIP code before saving
             final_df = fill_missing_counties_with_zip(final_df)
+
+            # Validate cow columns one final time before saving
+            print("\nPerforming final validation of cow columns...")
+            final_df = validate_and_fix_zip(final_df)
 
             output_file = f"outputs/consolidated/{year}_{region}_master.csv"
             final_df.to_csv(output_file, index=False)
@@ -1023,7 +1029,8 @@ def parse_address(address):
     street_name = ' '.join(parts[1:-2])
     city = parts[-2]
     state_zip = parts[-1]
-    zip_code = state_zip[-5:] if len(state_zip) >= 5 else None
+    # Clean ZIP code - keep only numeric characters
+    zip_code = ''.join(filter(str.isdigit, state_zip[-5:])) if len(state_zip) >= 5 else None
     county = None
     address_lower = address.lower()
     if 'fresno' in address_lower or 'madera' in address_lower:

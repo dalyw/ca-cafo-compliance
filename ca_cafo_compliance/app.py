@@ -103,32 +103,13 @@ def load_data():
     # Load parameters for consistent column naming
     params = load_parameters()
     snake_to_pretty = params['snake_to_pretty']
+    calculated_metrics = params['calculated_metrics']
     
-    
-
-    # Rename columns to ensure consistency with pretty names
-    column_mapping = {
-        'usda_nitrogen_pct_deviation': 'USDA Nitrogen % Deviation',
-        'ucce_nitrogen_pct_deviation': 'UCCE Nitrogen % Deviation',
-        'total_manure_gen_n_after_nh3_losses_lbs': 'Total Manure N (lbs)',
-        'usda_nitrogen_estimate_lbs': 'USDA N Estimate (lbs)',
-        'ucce_nitrogen_estimate_lbs': 'UCCE N Estimate (lbs)',
-        'avg_milk_lb_per_cow_day': 'Average Milk Production (lb per cow per day)',
-        'avg_milk_cows': 'Average Milk Cows',
-        'avg_dry_cows': 'Average Dry Cows',
-        'avg_bred_heifers': 'Average Bred Heifers',
-        'avg_heifers': 'Average Heifers',
-        'avg_calves_4_6_mo': 'Average Calves (4-6 mo.)',
-        'avg_calves_0_3_mo': 'Average Calves (0-3 mo.)',
-        'avg_other': 'Average Other',
-        'total_herd_size': 'Total Herd Size',
-        'reported_annual_milk_production_l': 'Reported Annual Milk Production (L)',
-        'avg_milk_prod_kg_per_cow': 'Average Milk Production (kg per cow)',
-        'avg_milk_prod_l_per_cow': 'Average Milk Production (L per cow)'
-    }
+    # Combine all mappings for renaming
+    all_rename_map = {**snake_to_pretty, **calculated_metrics}
     
     # Apply renaming
-    for old_col, new_col in column_mapping.items():
+    for old_col, new_col in all_rename_map.items():
         if old_col in combined_df.columns:
             print(f"Renaming {old_col} to {new_col}")
             combined_df[new_col] = combined_df[old_col]
@@ -136,8 +117,8 @@ def load_data():
         elif new_col not in combined_df.columns:
             print(f"Warning: Neither {old_col} nor {new_col} found in columns")
     
-    # Ensure all pretty names from parameters.csv exist in the dataframe
-    for pretty_name in snake_to_pretty.values():
+    # Ensure all pretty names from parameters.csv and calculated_metrics.csv exist in the dataframe
+    for pretty_name in list(snake_to_pretty.values()) + list(calculated_metrics.values()):
         if pretty_name not in combined_df.columns:
             combined_df[pretty_name] = np.nan
     
@@ -215,28 +196,9 @@ def create_comparison_plots(df):
         df.loc[:, 'Milk Production Source'] = 'Estimated'
     
     # --- Nitrogen Deviation Plot ---
-    # Check for nitrogen deviation columns before renaming
-    print("\nChecking nitrogen deviation columns before renaming:")
-    print(f"'usda_nitrogen_pct_deviation' in columns: {'usda_nitrogen_pct_deviation' in df.columns}")
-    print(f"'ucce_nitrogen_pct_deviation' in columns: {'ucce_nitrogen_pct_deviation' in df.columns}")
-    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in df.columns}")
-    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in df.columns}")
-
-    # Use the correct column names from read_reports.py
     usda_col = 'USDA Nitrogen % Deviation'
     ucce_col = 'UCCE Nitrogen % Deviation'
 
-    # Check for nitrogen deviation columns after renaming
-    print("\nChecking nitrogen deviation columns after renaming:")
-    print(f"'USDA Nitrogen % Deviation' in columns: {'USDA Nitrogen % Deviation' in df.columns}")
-    print(f"'UCCE Nitrogen % Deviation' in columns: {'UCCE Nitrogen % Deviation' in df.columns}")
-    if usda_col in df.columns:
-        print(f"USDA Nitrogen % Deviation non-null values: {df[usda_col].notna().sum()}")
-        print(f"USDA Nitrogen % Deviation highest values: {df[usda_col].dropna().nlargest(5).tolist() if df[usda_col].notna().any() else 'None'}")
-    if ucce_col in df.columns:
-        print(f"UCCE Nitrogen % Deviation non-null values: {df[ucce_col].notna().sum()}")
-        print(f"UCCE Nitrogen % Deviation higest values: {df[ucce_col].dropna().nlargest(5).tolist() if df[ucce_col].notna().any() else 'None'}")
-    
     # 1. Nitrogen Generation - Percentage Deviation Histograms
     nitrogen_fig = go.Figure()
     
@@ -518,9 +480,8 @@ def create_facility_comparison_plots(df, facility_name):
         ), row=1, col=2)
     # 3. Wastewater Generation
     ww_reported = calc.get('total_ww_gen_liters', 'Total Wastewater Generated (L)')
-    ww_estimated = None  # If you have an estimated value, set it here
     ww_reported_val = facility_data[ww_reported] if ww_reported in facility_data and pd.notna(facility_data[ww_reported]) else None
-    ww_estimated_val = None  # Add logic for estimated if available
+    ww_estimated_val = facility_data['Estimated Total Wastewater Generated (L)']
     if ww_reported_val is not None:
         fig.add_trace(go.Bar(
             x=['Reported WW'],
@@ -761,6 +722,17 @@ def main():
             else:
                 st.warning("No location data available for the selected year.")
             
+            # Add Manure Manifests map placeholder
+            st.subheader("Manure Export Patterns")
+            st.write("""
+            This map visualizes the movement of manure exports throughout the Central Valley region, 
+            revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
+            *To Do: Update to ArcGIS Link*
+            """)
+            
+            # Display placeholder image
+            st.image("ca_cafo_compliance/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
+
             # Add ArcGIS map embed
             st.subheader("CAFO Density around Elementary Schools")
             st.write("Just an example of how we can embed an ArcGIS map that has been published to an online url. This example is from https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4")
@@ -769,21 +741,7 @@ def main():
                 height=600,
                 scrolling=True
             )
-            
-            # Add Manure Manifests map placeholder
-            st.subheader("Manure Export Patterns")
-            st.write("""
-            This map visualizes the movement of manure exports throughout the Central Valley region, 
-            revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
-            """)
-            
-            # Placeholder for the map
-            st.info("""
-            **Manure Export Map Coming Soon**
-            
-            Manure manifest showing export destinations and volumes (from Sophia)
-            """)
-            
+                        
             # Add spacing between maps
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
@@ -919,8 +877,9 @@ def main():
             st.markdown("---")
             st.subheader("Consultant Comparison")
             st.write("""
-            This section compares reporting patterns across different consultants and self-reported facilities.
+            Many facilities in region 5 use consultatns to prepare their reports. This section assesses reporting patterns across different consultants and self-reported facilities, to understand if there are any systematic issues with certain consultants.
             Each bar represents a consultant's average value, with error bars showing the standard deviation.
+            *Note: missing 3 consultants in this comparison currently*
             """)
             
             consultant_comparison_fig = create_consultant_comparison_plots()
@@ -940,7 +899,9 @@ def main():
                 'Template': 'Template (Raw)',
                 'Consultant': 'Consultant'
             })
-            
+            # Ensure Zip is always a string for display and export
+            if 'Zip' in display_df.columns:
+                display_df['Zip'] = display_df['Zip'].astype(str)
             st.dataframe(display_df)
             
             # Download button
