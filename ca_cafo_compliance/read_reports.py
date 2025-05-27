@@ -20,6 +20,9 @@ from datetime import datetime
 from geopy.geocoders import ArcGIS
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 
+# Initialize geolocator at module level
+geolocator = ArcGIS(user_agent="ca_cafo_compliance")
+
 read_reports = True
 consolidate_data = True
 

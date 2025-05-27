@@ -9,6 +9,7 @@ import numpy as np
 import re
 import pandas as pd
 from conversion_factors import *
+import csv
 
 def clean_text(text):
     """Clean up OCR text output while preserving original line structure."""
@@ -155,12 +156,18 @@ def main():
     processed_files = sum(1 for pdf_path in pdf_files 
                          if os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)), 
                                                       'ocr_output', 
+                                                      f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt'))
+                         or os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)),
+                                                      'handwriting_ocr_output',
                                                       f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt')))
-    
+
     files_to_process = [pdf_path for pdf_path in pdf_files 
-                       if not os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)), 
+                       if not (os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)), 
                                                         'ocr_output', 
-                                                        f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt'))]
+                                                        f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt'))
+                                or os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)),
+                                                               'handwriting_ocr_output',
+                                                               f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt')))]
     
     print(f"\nFound {len(pdf_files)} PDF files total")
     print(f"Already processed: {processed_files}")
@@ -177,5 +184,39 @@ def main():
     
     print("\nOCR processing complete")
 
+def update_reports_available():
+    """Count PDFs in R5 subfolders by region/county and update reports_available.csv."""
+    # Define region-county mapping
+    region_county_map = {
+        '5F': ['kern'],
+        '5S': ['fresno_madera', 'kings', 'tulare_west'],
+        '5R': []  # Add counties for 5R if needed
+    }
+    base_path = 'data/2023/R5'
+    pdf_counts = {}
+    for region, counties in region_county_map.items():
+        total = 0
+        for county in counties:
+            county_path = os.path.join(base_path, county)
+            for root, dirs, files in os.walk(county_path):
+                total += sum(1 for f in files if f.lower().endswith('.pdf'))
+        pdf_counts[region] = total
+    # Read and update reports_available.csv
+    csv_path = 'data/reports_available.csv'
+    rows = []
+    with open(csv_path, 'r', newline='') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            region = row['region']
+            if region in pdf_counts:
+                row['acquired'] = str(pdf_counts[region])
+            rows.append(row)
+    with open(csv_path, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=['region', 'acquired', 'total'])
+        writer.writeheader()
+        writer.writerows(rows)
+    print('Updated reports_available.csv with PDF counts:', pdf_counts)
+
 if __name__ == "__main__":
+    update_reports_available()
     main() 

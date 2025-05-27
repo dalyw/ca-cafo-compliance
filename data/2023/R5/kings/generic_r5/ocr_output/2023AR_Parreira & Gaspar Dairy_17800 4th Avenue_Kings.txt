@@ -1,187 +1,107 @@
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
-
-Physical address of dairy:
-17800 4th AVE
-
-Parreira Gaspar Dairy
-
 DAIRY FACILITY INFORMATION
-
-Hanford Kings
-
-93230
-
-Number and Street
-
-Street and nearest cross street (if no address):
-
-City County
-
-Zip Code
-
-Date facility was originally placed in operation: 05/15/1974
-
-Regional Water Quality Control Board Basin Plan designation:
-
-County Assessor Parcel Number(s) for dairy facility:
-
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY Parreira Gaspar Dairy
+Physical address of dairy
+17800 4th AVE Hanford Kings 93230
+Number and Street City County Zip Code
+Street and nearest cross street (if no address)
+Date faciIity was originaIly pIaced in operation 05/15/1974
+Regional Water QuaIity Control Board Basin PIan designation TuIare Basin
+County Assessor Parcel Number(s) for dairy faciIity
 X028-X190-X027-XXXX
-
 B. OPERATORS
-
 Gaspar, Steve
-
-Operator name: Gaspar, Steve
-
-Tulare Basin
-
-Telephone no.:
-
-(559) 381-0947
-
+Operator name Gaspar, Steve TeIephone no. (559) 381-0947
+LandIine CeIluIar
+17800 4th AVE Hanford CA 93230
+MaiIing Address Number and Street City State Zip Code
+This operator is responsibIe for paying permit fees.
 C. OWNERS
-
-Landline Cellular
-
-17800 4th AVE Hanford CA 93230
-
-Mailing Address Number and Street City State Zip Code
-
-This operator is responsible for paying permit fees.
-
 Parreira, Joe
-
-Legal owner name: Parreira, Joe Telephone no.: (559) 737-2300
-Landline Cellular
-
+Legal owner name. Parreira, Joe TeIephone no. (559) 737-2300
+LandIine CeIluIar
 17800 4th AVE Hanford CA 93230
-
-Mailing Address Number and Street City State Zip Code
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 1 of 37
+MaiIing Address Number and Street City State Zip Code
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 1 of 37
 
 PDF PAGE BREAK 1
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-A. HERD INFORMATION
-
-Bred Heifers Heifers (7-14
-
-Milk Cows Dry Cows (15-24 mo.) mo. to breeding).
-
-Number open confinement 0 135 268 247
-Number under roof 1,208 0 0 0
-Maximum number 1,231 145 281 259
-Average number 1,208 135 268 247
-Avg live weight (Ibs) 1,400 1,450 1,000 750
-
-Predominant milk cow breed: Holstein
-
-Average milk production:
-
-B. MANURE GENERATED
-
-Total manure excreted by the herd:
-
-75 pounds per cow per day
-
-39,350.15 tons per reporting period
-
-Total nitrogen from manure: 496,196.17 /bs per reporting period
-Total phosphorus from manure: 82,394.79 Ibs per reporting period
-Total potassium from manure: 236,674.99 Ibs per reporting period
-Total salt from manure: 599,830.05 /bs per reporting period
-
-C. PROCESS WASTEWATER GENERATED
-
-Process wastewater generated: 64,091,006 gallons 64,091,006 gallons applied
-Total nitrogen generated: 223,691.47 Ibs + 0 gallons exported
-Total phosphorus generated: 46,566.21 Ibs - 0 gallons imported
-Total potassium generated: 485,306.48 /bs = 64,091,006 gallons generated
-
-Total salt generated: 2,515,208.57 Ibs
-
-D. FRESH WATER SOURCES
-
-Source Description
-
-D1
-D2
-D3
-P-13
-P-4
-
-06/10/2024 16:24:52
-
-Type
-
-Ground water
-Ground water
-Ground water
-Ground water
-Ground water
-
-Calves Calves
-(4-6 mo.) (0-3 mo.)
-172 0
-
-0 0
-
-184 0
-
-172 0
-
-After ammonia losses (30% loss applied): 347,337.32 Ibs per reporting period
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
 AVAILABLE NUTRIENTS
-
-Page 2 of 37
+A. HERD INFORMATION
+Bred Heifers Heifers (7-14 CaIves CaIves
+MiIk Cows Dry Cows (15-24 mo.) mo. to breeding) (4-6 mo.) (0-3 mo.)
+Number open confinement 0 135 268 247 172 0
+Number under roof 1,208 0 0 0 0 0
+Maximum number 1,231 145 281 259 184 0
+Average number 1,208 135 268 247 172 0
+Avg live weight (lbs) 1,400 1,450 1,000 750
+Predominant miIk cow breed HoIstein
+Average miIk production 75 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd 39,350.15 fons per reporting period
+Total nitrogen from manure 496,196.17 lbs per reporting period After ammonia losses (30 loss appIied). 347,337.32 lbs per reporting period
+Total phosphorus from manure 82,394.79 ibs per reporting period
+Total potassium from manure 236,674.99 lbs per reporting period
+Total saIt from manure 599,830.05 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated 64,091,006 gaIlons 64,091,006 gaIlons appIied
+Total nitrogen generated 223,691.47 lbs 0 gaIlons exported
+Total phosphorus generated 46,566.21 lbs - 0 gaIlons imported
+Total potassium generated 485,306.48 lbs - 64,091,006 gaIlons generated
+Total saIt generated 2,515,208.57 lbs
+D. FRESH WATER SOURCES
+Source Description Type
+D1 Ground water
+D2 Ground water
+D3 Ground water
+P-13 Ground water
+P-4 Ground water
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 2 of 37
 
 PDF PAGE BREAK 2
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
 Source Description Type
 
 P-5 Ground water
-P-6 Ground water
-P-7 Ground water
 
+P-6 Ground water
+
+P-7 Ground water
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
 
-No subsurface (tile) drainage sources entered.
-
+No subsurface (tiIe) drainage sources entered.
 F. NUTRIENT IMPORTS
+
 No dry manure nutrient imports entered.
+
 No process wastewater nutrient imports entered.
+
 No commercial or other nutrient imports entered.
 G. NUTRIENT EXPORTS
-No solid nutrient exports entered.
+
+No soIid nutrient exports entered.
 
 No liquid nutrient exports entered.
 
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52 Page 3 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+
+06/10/2024 162452 Page 3 of 37
 
 PDF PAGE BREAK 3
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-A. LIST OF LAND APPLICATION AREAS
-
 APPLICATION AREA
-
-Field name Controlled acres Cropable acres Total harvests Type of waste applied Parcel number
+A. LIST OF LAND APPLICATION AREAS
+FieId name ControIled acres CropabIe acres Total harvests Type of waste appIied Parcel number
 1 160 160 2 process wastewater X028-X180-X006-XXXX
 3 153 153 2 process wastewater X028-X180-X012-XXXX
 5 85 85 2 process wastewater X028-X190-X068-XXXX
@@ -189,3474 +109,1787 @@ Field name Controlled acres Cropable acres Total harvests Type of waste applied 
 X028-X190-X067-XXXX
 7 57 57 1 process wastewater X028-X190-X027-XXXX
 X028-X190-X067-XXXX
-Totals for areas that were used for application 508 508 8
-Totals for areas that were not used for application
-Land application area totals 508 508 8
+TotaIs for areas that were used for appIication 508 508 8
+TotaIs for areas that were not used for appIication
+Land appIication area totaIs 508 508 8
 B. CROPS AND HARVESTS
 1
-Field name: 1
-11/13/2022: Wheat, silage, soft dough
-Crop: Wheat, silage, soft dough Acres planted: 160 Plant date: 11/13/2022
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
-05/22/2023 3,172.00 ton Dry-weight 71.3 16,900.00 3,700.00 19,900.00 10.80
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+FieId name 1
+11/13/2022 Wheat, siIage, soft dough
+Crop Wheat, siIage, soft dough Acres pIanted 160 PIant date 11/13/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+05/22/2023 3,172.00 fon Dry-weight 71.3 16,900.00 3,700.00 19,900.00 10.80
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 18.00 198.00 30.60 149.40 1,494.00
 Total actual harvest content 19.83 192.31 42.10 226.45 1,228.99
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 4 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 4 of 37
 
 PDF PAGE BREAK 4
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 1
-
-06/25/2023: Corn, silage
-
-Crop: Corn, silage
-
-Acres planted:
-
-Harvest date Yield Reporting basis Density (Ibs/cu ft)
-
-10/16/2023 4,525.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 30.00 240.00
-Total actual harvest content 28.28 269.55
-
-Field name: 3
-
-Total P (Ibs/acre)
-
-Moisture (%) N (mg/kg)
-64.7 13,500.00
-
-P (mg/kg)
-2,500.00
-
-K (mg/kg)
-12,300.00
-
-Total K (Ibs/acre)
-
-45.00 198.00
-49.92 245.59
-
-Salt (Ibs/acre)
-
-1,500.00
-1,054.23
-
-160 Plant date: 06/25/2023
-
-Salt (mg/kg)
-
-TFS (%)
-5.28
-
-11/11/2022: Wheat, silage, soft dough
-Crop: Wheat, silage, soft dough
-
-Acres planted:
-
-Harvest date Yield Reporting basis Density (Ibs/cu ft)
-
-05/21/2023 3,056.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 18.00 198.00
-Total actual harvest content 19.97 189.22
-
-06/26/2023: Corn, silage
-
-Crop: Corn, silage
-
-Total P (Ibs/acre)
-
-Moisture (%) N (mg/kg)
-72.3 17,100.00
-
-P (mg/kg)
-3,900.00
-
-K (mg/kg)
-19,600.00
-
-Total K (Ibs/acre)
-
-30.60 149.40
-43.16 216.88
-
-Salt (Ibs/acre)
-
-1,494.00
-1,316.80
-
-Acres planted:
-
-Harvest date Yield Reporting basis Density (Ibs/cu ft)
-
-10/16/2023 4,320.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 30.00 240.00
-Total actual harvest content 28.24 271.84
-
-Total P (Ibs/acre)
-
-Moisture (%) N (mg/kg)
-66.1 14,200.00
-
-P (mg/kg)
-2,400.00
-
-K (mg/kg)
-13,500.00
-
-Total K (Ibs/acre)
-
-45.00 198.00
-45.94 258.44
-
-Salt (Ibs/acre)
-
-1,500.00
-1,054.81
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-153 Plant date: 11/11/2022
-
-Salt (mg/kg)
-
-TFS (%)
-11.90
-
-153 Plant date: 06/26/2023
-
-Salt (mg/kg)
-
-TFS (%)
-5.51
-
-Page 5 of 37
+06/25/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 160 PIant date 06/25/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/16/2023 4,525.00 ton Dry-weight 64.7 13,500.00 2,500.00 12,300.00 5.28
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 30.00 240.00 45.00 198.00 1,500.00
+Total actual harvest content 28.28 269.55 49.92 245.59 1,054.23
+3
+FieId name 3
+11/11/2022 Wheat, siIage, soft dough
+Crop Wheat, siIage, soft dough Acres pIanted 153 PIant date 11/11/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+05/21/2023 3,056.00 fon Dry-weight 72.3 17,100.00 3,900.00 19,600.00 11.90
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 18.00 198.00 30.60 149.40 1,494.00
+Total actual harvest content 19.97 189.22 43.16 216.88 1,316.80
+06/26/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 153 PIant date 06/26/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/16/2023 4,320.00 ton Dry-weight 66.1 14,200.00 2,400.00 13,500.00 5.51
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 30.00 240.00 45.00 198.00 1,500.00
+Total actual harvest content 28.24 271.84 45.94 258.44 1,054.81
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 5 of 37
 
 PDF PAGE BREAK 5
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 5
-
-Field name: 5
-
-11/14/2022: Wheat, silage, soft dough
-
-Crop: Wheat, silage, soft dough Acres planted: 85 Plant date: 11/14/2022
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+FieId name 5
+11/14/2022 Wheat, siIage, soft dough
+Crop Wheat, siIage, soft dough Acres pIanted 85 PIant date 11/14/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 05/21/2023 1,640.00 ton Dry-weight 73.3 16,000.00 4,000.00 21,300.00 10.90
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 18.00 198.00 30.60 149.40 1,494.00
 Total actual harvest content 19.29 164.85 41.21 219.46 1,123.03
-
-06/28/2023: Corn, silage
-
-Crop: Corn, silage Acres planted: 85 Plant date: 06/28/2023
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
-10/19/2023 2,430.00 ton Dry-weight 62.6 12,000.00 2,600.00 6,700.00 5.28
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+06/28/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 85 PIant date 06/28/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/19/2023 2,430.00 fon Dry-weight 62.6 12,000.00 2,600.00 6,700.00 5.28
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 30.00 240.00 45.00 198.00 1,500.00
 Total actual harvest content 28.59 256.61 55.60 143.27 1,129.08
-
-Field name: 6
-
-01/10/2018: Alfalfa, hay
-
-Crop: Alfalfa, hay Acres planted: 53 Plant date: 01/10/2018
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
-11/14/2023 420.00 ton Dry-weight 8.6 32,500.00 2,800.00 24,500.00 10.90
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+6
+FieId name 6
+01/10/2018 AIfaIfa, hay
+Crop AIfaIfa, hay Acres pIanted 53 PIant date 01/10/2018
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+11/14/2023 420.00 fon Dry-weight 8.6 32,500.00 2,800.00 24,500.00 10.90
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 8.00 480.00 43.20 336.00 1,600.00
 Total actual harvest content 7.92 470.80 40.56 354.91 1,578.98
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 6 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 6 of 37
 
 PDF PAGE BREAK 6
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 7
-
-Field name: 7
-
-01/10/2018: Alfalfa, hay
-
-Crop: Alfalfa, hay Acres planted: 57 Plant date: 01/10/2018
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
-11/14/2023 445.00 ton Dry-weight 8.5 35,700.00 3,000.00 23,800.00 11.30
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+FieId name 7
+01/10/2018 AIfaIfa, hay
+Crop AIfaIfa, hay Acres pIanted 57 PIant date 01/10/2018
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+11/14/2023 445.00 fon Dry-weight 8.5 35,700.00 3,000.00 23,800.00 11.30
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 8.00 480.00 43.20 336.00 1,600.00
 Total actual harvest content 7.81 510.04 42.86 340.03 1,614.41
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 7 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 7 of 37
 
 PDF PAGE BREAK 7
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
-
 A. LAND APPLICATIONS
-
-1 - 11/13/2022: Wheat, silage, soft dough
-
-Field name: 1
-
-Crop: Wheat, silage, soft dough Plant date: 11/13/2022
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
+1 - 11/13/2022 Wheat, siIage, soft dough
+FieId name 1
+Crop Wheat, siIage, soft dough PIant date 11/13/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 10/24/2022 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 80.35 21.07 187.97 1,601.90 4,798,980.00 gal
-P-7 Ground water 1.27 0.00 0.00 177.58  24,319,565.00 gal
-Application event totals 81.61 21.07 187.97 1,779.48
+P-7 Ground water 1.27 0.00 0.00 177.58 24,319,565.00 gal
+AppIication event totaIs 81.61 21.07 187.97 1,779.48
 01/15/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-Lagoon Process wastewater 85.55 21.06 150.85, 842.54 3,106,580.00 gal
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 85.55 21.06 150.85 842.54 3,106,580.00 gal
 P-7 Ground water 1.22 0.00 0.00 171.37 23,468,800.00 gal
-Application event totals 86.77 21.06 150.85 1,013.91
+AppIication event totaIs 86.77 21.06 150.85 1,013.91
 03/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 80.65 17.60 194.36 598.80 3,865,600.00 gal
 P-7 Ground water 1.17 0.00 0.00 163.62 22,408,450.00 gal
-Application event totals 81.81 17.60 194.36 762.42
-
-1 - 06/25/2023: Corn, silage
-Field name: 4
-Crop: Corn, silage Plant date: 06/25/2023
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 8 of 37
+AppIication event totaIs 81.81 17.60 194.36 762.42
+1 - 06/25/2023 Corn, siIage
+FieId name 4
+Crop Corn, siIage PIant date 06/25/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 8 of 37
 
 PDF PAGE BREAK 8
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-1 - 06/25/2023: Corn, silage
-
-Application date Application method
-
-06/05/2023 Surface (irrigation)
-
-Source description
-
-Lagoon
-P-7
-Application event totals
-
-07/15/2023 Surface (irrigation)
-
-Source description
-P-7
-Application event totals
-
-07/26/2023 Surface (irrigation)
-
-Source description
-P-7
-Application event totals
-
-08/08/2023 Surface (irrigation)
-
-Source description
-Lagoon
-
-P-7
-
-Application event totals
-
-08/21/2023 Surface (irrigation)
-
-Source description
-Lagoon
-
-P-7
-
-Application event totals
-
-06/10/2024 16:24:52
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Process wastewater
-Ground water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-98.07
-1.23
-99.30
-
-N (Ibs/acre)
-
-1.35
-1.35
-
-N (Ibs/acre)
-
-1.35
-1.35
-
-N (Ibs/acre)
-
-108.21
-1.24
-109.45
-
-N (Ibs/acre)
-
-98.74
-1.27
-100.01
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-21.40 236.34
-0.00 0.00
-21.40 236.34
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-17.44 234.02
-0.00 0.00
-17.44 234.02
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-15.91 213.54
-0.00 0.00
-15.91 213.54
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-728.14
-172.77
-900.90
-
-Amount
-
-4,700,565.00 gal
-23,660,525.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-189.55
-189.55
-
-Amount
-
-25,959,550.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-188.79
-188.79
-
-Amount
-
-25,854,540.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-1,518.65
-174.14
-1,692.79
-
-Amount
-
-4,500,366.00 gal
-23,848,400.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-1,385.79
-178.21
-1,564.00
-
-Amount
-
-4,106,650.00 gal
-24,405,510.00 gal
-
-Page 9 of 37
+1 - 06/25/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 98.07 21.40 236.34 728.14 4,700,565.00 gal
+P-7 Ground water 1.23 0.00 0.00 172.77 23,660,525.00 gal
+AppIication event totaIs 99.30 21.40 236.34 900.90
+07/15/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-7 Ground water 1.35 0.00 0.00 189.55 25,959,550.00 gal
+AppIication event totaIs 1.35 0.00 0.00 189.55
+07/26/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-7 Ground water 1.35 0.00 0.00 188.79 25,854,540.00 gal
+AppIication event totaIs 1.35 0.00 0.00 188.79
+08/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 108.21 17.44 234.02 1,518.65 4,500,366.00 gal
+P-7 Ground water 1.24 0.00 0.00 174.14 23,848,400.00 gal
+AppIication event totaIs 109.45 17.44 234.02 1,692.79
+08/21/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 98.74 15.91 213.54 1,385.79 4,106,650.00 gal
+P-7 Ground water 1.27 0.00 0.00 178.21 24,405,510.00 gal
+AppIication event totaIs 100.01 15.91 213.54 1,564.00
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 9 of 37
 
 PDF PAGE BREAK 9
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-1 - 06/25/2023: Corn, silage
-
-Application date Application method
-09/04/2023
-
-Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
+1 - 06/25/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+09/04/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-7 Ground water 1.22 0.00 0.00 171.34 23,465,650.00 gal
-Application event totals 1.22 0.00 0.00 171.34
+AppIication event totaIs 1.22 0.00 0.00 171.34
 09/20/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
-
-P-7 Ground water 1.14 0.00 0.00
-Application event totals 1.14 0.00 0.00
-
-Amount
-
-160.03 21,916,500.00 gal
-
-160.03
-
-3 - 11/11/2022: Wheat, silage, soft dough
-
-Field name: 3
-
-Crop: Wheat, silage, soft dough Plant date: 11/11/2022
-
-Application date Application method
-10/22/2022
-
-Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Surface (irrigation)
-
-Source description
-Lagoon
-
-P-7
-
-Application event totals
-
-01/30/2023 Surface (irrigation)
-
-Source description
-Lagoon
-
-P-7
-
-Application event totals
-
-06/10/2024 16:24:52
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Process wastewater
-Ground water
-
-No precipitation
-
-N (Ibs/acre)
-
-73.69
-1.26
-74.95
-
-No precipitation
-
-N (Ibs/acre)
-
-92.18
-1.15
-93.33
-
-No precipitation
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
-19.33 172.40 1,469.23 4,208,950.00 gal
-0.00 0.00 176.46 23,108,665.00 gal
-19.33 172.40 1,645.68
-
-No precipitation No precipitation
-
-P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
-22.70 162.54 907.86 3,200,950.00 gal
-0.00 0.00 160.95 21,078,450.00 gal
-22.70 162.54 1,068.81
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-Page 10 of 37
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-7 Ground water 1.14 0.00 0.00 160.03 21,916,500.00 gal
+AppIication event totaIs 1.14 0.00 0.00 160.03
+3 - 11/11/2022 Wheat, siIage, soft dough
+FieId name. 3
+Crop Wheat, siIage, soft dough PIant date 11/11/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+10/22/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 73.69 19.33 172.40 1,469.23 4,208,950.00 gal
+P-7 Ground water 1.26 0.00 0.00 176.46 23,108,665.00 gal
+AppIication event totaIs 74.95 19.33 172.40 1,645.68
+01/30/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 92.18 22.70 162.54 907.86 3,200,950.00 gal
+P-7 Ground water 1.15 0.00 0.00 160.95 21,078,450.00 gal
+AppIication event totaIs 93.33 22.70 162.54 1,068.81
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 10 of 37
 
 PDF PAGE BREAK 10
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-3 - 11/11/2022: Wheat, silage, soft dough
-
-Application date Application method
-03/30/2023
-
-Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Surface (irrigation)
-
-Source description Material type
-
-No precipitation
-
-N (Ibs/acre)
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-
+3 - 11/11/2022 Wheat, siIage, soft dough
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+03/30/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 85.21 18.60 205.35 632.68 3,905,650.00 gal
 P-7 Ground water 1.09 0.00 0.00 153.22 20,065,600.00 gal
-Application event totals 86.30 18.60 205.35 785.90
-
-3 - 06/26/2023: Corn, silage
-
-Field name: 3
-
-Crop: Corn, silage Plant date: 06/26/2023
-
-Application date Application method
-06/06/2023
-
-Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
+AppIication event totaIs 86.30 18.60 205.35 785.90
+3 - 06/26/2023 Corn, siIage
+FieId name. 3
+Crop Corn, siIage PIant date 06/26/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 108.29 23.63 260.98 804.06 4,963,620.00 gal
 P-7 Ground water 1.30 0.00 0.00 181.40 23,756,650.00 gal
-Application event totals 109.59 23.63 260.98 985.47
-
+AppIication event totaIs 109.59 23.63 260.98 985.47
 07/16/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-7 Ground water 1.35 0.00 0.00 189.26 24,785,500.00 gal
-Application event totals 1.35 0.00 0.00 189.26
-
+AppIication event totaIs 1.35 0.00 0.00 189.26
 07/27/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 102.00 22.26 245.82 757.34 4,675,210.00 gal
-P-7 Ground water 1.31 0.00 0.00 183.31  24,006,500.00 gal
-Application event totals 103.31 22.26 245.82 940.66
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 11 of 37
+P-7 Ground water 1.31 0.00 0.00 183.31 24,006,500.00 gal
+AppIication event totaIs 103.31 22.26 245.82 940.66
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 11 of 37
 
 PDF PAGE BREAK 11
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 06/26/2023: Corn, silage
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
+3 - 06/26/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 08/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Amount
-
-22,989,840.00 gal
-
-Salt (Ibs/acre)
-
-175.55
-175.55
-
-Source description Material type N (Ibs/acre)
-
-1.25
-1.25
-
-P (Ibs/acre)
-
-0.00
-0.00
-
-K (Ibs/acre)
-
-0.00
-0.00
-
-P-7 Ground water
-Application event totals
-
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-7 Ground water 1.25 0.00 0.00 175.55 22,989,840.00 gal
+AppIication event totaIs 1.25 0.00 0.00 175.55
 08/20/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-7 Ground water 1.22 0.00 0.00 171.06 22,401,860.00 gal
-Application event totals 1.22 0.00 0.00 171.06
+AppIication event totaIs 1.22 0.00 0.00 171.06
 09/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description
-
-Lagoon
-
-P-7
-
-Application event totals
-09/19/2023 Surface (irrigation)
-
-Source description
-
-P-7
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Ground water
-
-N (Ibs/acre)
-
-108.29
-1.17
-109.46
-
-No precipitation
-
-N (Ibs/acre)
-1.09
-
-P (Ibs/acre) K (Ibs/acre)
-
-17.45 234.20
-0.00 0.00
-17.45 234.20
-
-No precipitation
-
-P (Ibs/acre)
-0.00
-
-K (Ibs/acre)
-0.00
-
-Salt (Ibs/acre)
-1,519.86
-163.17
-1,683.03
-
-Amount
-
-4,306,890.00 gal
-21,368,980.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-152.76
-
-Amount
-
-20,005,454.00 gal
-
-Application event totals 1.09 0.00 0.00 152.76
-
-5 - 11/14/2022: Wheat, silage, soft dough
-
-Field name: 5
-
-Crop: Wheat, silage, soft dough Plant date: 11/14/2022
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 12 of 37
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 108.29 17.45 234.20 1,519.86 4,306,890.00 gal
+P-7 Ground water 1.17 0.00 0.00 163.17 21,368,980.00 gal
+AppIication event totaIs 109.46 17.45 234.20 1,683.03
+09/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-7 Ground water 1.09 0.00 0.00 152.76 20,005,454.00 gal
+AppIication event totaIs 1.09 0.00 0.00 152.76
+5 - 11/14/2022 Wheat, siIage, soft dough
+FieId name 5
+Crop Wheat, siIage, soft dough PIant date 11/14/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 12 of 37
 
 PDF PAGE BREAK 12
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-5 - 11/14/2022: Wheat, silage, soft dough
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+5 - 11/14/2022 Wheat, siIage, soft dough
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 10/26/2022 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 69.41 10.70 88.05 578.69 1,808,090.00 gal
 P-4 Ground water 8.91 0.00 0.00 216.06 13,754,820.00 gal
-Application event totals 78.32 10.70 88.05 794.75
+AppIication event totaIs 78.32 10.70 88.05 794.75
 02/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 62.33 11.47 68.72 664.10 1,808,650.00 gal
-P-4 Ground water 8.97 0.00 0.00 217.54  13,848,540.00 gal
-Application event totals 71.30 11.47 68.72 881.64
+P-4 Ground water 8.97 0.00 0.00 217.54 13,848,540.00 gal
+AppIication event totaIs 71.30 11.47 68.72 881.64
 04/02/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 58.55 12.77 120.55 776.05 1,406,520.00 gal
 P-4 Ground water 9.14 0.00 0.00 221.57 14,105,650.00 gal
-Application event totals 67.69 12.77 120.55 997.62
-
-5 - 06/28/2023: Corn, silage
-
-Field name: 5
-
-Crop: Corn, silage Plant date: 06/28/2023
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+AppIication event totaIs 67.69 12.77 120.55 997.62
+5 - 06/28/2023 Corn, siIage
+FieId name 5
+Crop Corn, siIage PIant date 06/28/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 06/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 110.15 24.04 265.47 817.89 2,804,990.00 gal
-P-13 Ground water 11.11 0.00 0.00 306.54 13,009,550.00 gal
-Application event totals 121.27 24.04 265.47 1,124.43
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 13 of 37
+P-13 Ground water 11.11 0.00 0.00 306.54 13,009,550.00 gai
+AppIication event totaIs 121.27 24.04 265.47 1,124.43
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 13 of 37
 
 PDF PAGE BREAK 13
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-5 - 06/28/2023: Corn, silage
-
-Application date Application method
-
-07/18/2023 Surface (irrigation)
-
-Source description
-P-4
-Application event totals
-
-07/29/2023 Surface (irrigation)
-
-Source description
-
-Lagoon
-P-4
-Application event totals
-
-08/11/2023 Surface (irrigation)
-
-Source description
-P-4
-Application event totals
-
-08/23/2023 Surface (irrigation)
-
-Source description
-
-Lagoon
-P-4
-Application event totals
-
-09/07/2023 Surface (irrigation)
-
-Source description
-P-13
-Application event totals
-
-09/23/2023 Surface (irrigation)
-
-Source description
-
-P-4
-Application event totals
-
-06/10/2024 16:24:52
-
-Material type
-
-Ground water
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Ground water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-5.75
-5.75
-
-N (Ibs/acre)
-
-90.91
-6.18
-97.09
-
-N (Ibs/acre)
-
-6.17
-6.17
-
-N (Ibs/acre)
-
-77.60
-5.69
-83.29
-
-N (Ibs/acre)
-
-10.47
-10.47
-
-N (Ibs/acre)
-
-5.31
-5.31
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-14.65 196.61
-0.00 0.00
-14.65 196.61
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-12.51 167.82
-0.00 0.00
-12.51 167.82
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-178.84
-178.84
-
-Amount
-
-13,011,800.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-1,275.90
-192.37
-1,468.26
-
-Amount
-
-2,008,650.00 gal
-13,995,668.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-191.96
-191.96
-
-Amount
-
-13,965,870.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-1,089.09
-176.88
-1,265.97
-
-Amount
-
-1,714,560.00 gal
-12,868,900.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-288.89
-288.89
-
-Amount
-
-12,260,690.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-165.07
-165.07
-
-Amount
-
-12,009,860.00 gal
-
-Page 14 of 37
+5 - 06/28/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+07/18/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 5.75 0.00 0.00 178.84 13,011,800.00 gal
+AppIication event totaIs 5.75 0.00 0.00 178.84
+07/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 90.91 14.65 196.61 1,275.90 2,008,650.00 gal
+P-4 Ground water 6.18 0.00 0.00 192.37 13,995,668.00 gal
+AppIication event totaIs 97.09 14.65 196.61 1,468.26
+08/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 6.17 0.00 0.00 191.96 13,965,870.00 gal
+AppIication event totaIs 6.17 0.00 0.00 191.96
+08/23/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 77.60 12.51 167.82 1,089.09 1,714,560.00 gal
+P-4 Ground water 5.69 0.00 0.00 176.88 12,868,900.00 gal
+AppIication event totaIs 83.29 12.51 167.82 1,265.97
+09/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-13 Ground water 10.47 0.00 0.00 288.89 12,260,690.00 gal
+AppIication event totaIs 10.47 0.00 0.00 288.89
+09/23/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 5.31 0.00 0.00 165.07 12,009,860.00 ga/
+AppIication event totaIs 5.31 0.00 0.00 165.07
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 14 of 37
 
 PDF PAGE BREAK 14
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-6 - 01/10/2018: Alfalfa, hay
-
-Field name: 6
-
-Crop: Alfalfa, hay
-
-Application date Application method
-
-03/30/2023
-
-Source description
-
-Lagoon
-P-4
-Application event totals
-
-04/30/2023
-
-Source description
-
-P-4
-Application event totals
-
-05/29/2023
-
-Source description
-
-P-4
-Application event totals
-
-06/28/2023
-
-Source description
-
-P-4
-Application event totals
-
-07/25/2023
-
-Source description
-
-P-4
-Application event totals
-
-06/10/2024 16:24:52
-
-Surface (irrigation)
-
-Surface (irrigation)
-
-Surface (irrigation)
-
-Surface (irrigation)
-
-Surface (irrigation)
-
-Material type
-
-Process wastewater
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Ground water
-
-Material type
-
-Ground water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-76.33
-5.62
-81.96
-
-N (Ibs/acre)
-
-5.67
-5.67
-
-N (Ibs/acre)
-
-6.10
-6.10
-
-N (Ibs/acre)
-
-6.23
-6.23
-
-N (Ibs/acre)
-
-6.28
-6.28
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-16.58 183.05
-0.00 0.00
-16.58 183.05
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-Plant date: 01/10/2018
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-563.97
-174.86
-738.83
-
-Amount
-
-1,205,995.00 gal
-7,932,565.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-176.33
-176.33
-
-Amount
-
-7,999,002.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-189.72
-189.72
-
-Amount
-
-8,606,440.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-193.69
-193.69
-
-Amount
-
-8,786,560.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-195.41
-195.41
-
-Amount
-
-8,864,600.00 gal
-
-Page 15 of 37
+6 - 01/10/2018 AIfaIfa, hay
+FieId name 6
+Crop AIfaIfa, hay PIant date 01/10/2018
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+03/30/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Lagoon Process wastewater 76.33 16.58 183.05 563.97 1,205,995.00 gal
+P-4 Ground water 5.62 0.00 0.00 174.86 7,932,565.00 gal
+AppIication event totaIs 81.96 16.58 183.05 738.83
+04/30/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 5.67 0.00 0.00 176.33 7,999,002.00 gal
+AppIication event totaIs 5.67 0.00 0.00 176.33
+05/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 6.10 0.00 0.00 189.72 8,606,440.00 gal
+AppIication event totaIs 6.10 0.00 0.00 189.72
+06/28/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 6.23 0.00 0.00 193.69 8,786,560.00 gal
+AppIication event totaIs 6.23 0.00 0.00 193.69
+07/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 6.28 0.00 0.00 195.41 8,864,600.00 gal
+AppIication event totaIs 6.28 0.00 0.00 195.41
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 15 of 37
 
 PDF PAGE BREAK 15
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-6 - 01/10/2018: Alfalfa, hay
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+6 - 01/10/2018 AIfaIfa, hay
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 08/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 6.06 0.00 0.00 188.40 8,546,710.00 gal
-Application event totals 6.06 0.00 0.00 188.40
+AppIication event totaIs 6.06 0.00 0.00 188.40
 09/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 5.88 0.00 0.00 183.08 8,305,650.00 gal
-Application event totals 5.88 0.00 0.00 183.08
-
-7 - 01/10/2018: Alfalfa, hay
-
-Field name: 7
-
-Crop: Alfalfa, hay Plant date: 01/10/2018
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
+AppIication event totaIs 5.88 0.00 0.00 183.08
+7 - 01/10/2018 AIfaIfa, hay
+FieId name. 7
+Crop AIfaIfa, hay PIant date 01/10/2018
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 03/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Lagoon Process wastewater 76.80 18.91 135.42 756.38 993,540.00 gal
 P-4 Ground water 4.97 0.00 0.00 154.56 7,540,620.00 gal
-Application event totals 81.77 18.91 135.42 910.94
+AppIication event totaIs 81.77 18.91 135.42 910.94
 04/26/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-P-4 Ground water 5.43 0.00 0.00 168.82 8,236,565.00 gal
-Application event totals 5.43 0.00 0.00 168.82
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 543 0.00 0.00 168.82 8,236,565.00 gal
+AppIication event totaIs 5.43 0.00 0.00 168.82
 05/26/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-P-4 Ground water 5.87 0.00 0.00 182.55 8,906,500.00 gal
-Application event totals 5.87 0.00 0.00 182.55
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52 Page 16 of 37
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+P-4 Ground water 5.87 0.00 0.00 182.55 8,906,500.00 gai
+AppIication event totaIs 5.87 0.00 0.00 182.55
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 16 of 37
 
 PDF PAGE BREAK 16
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-7 - 01/10/2018: Alfalfa, hay
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+7 - 01/10/2018 AIfaIfa, hay
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 06/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 6.00 0.00 0.00 186.65 9,106,450.00 gal
-Application event totals 6.00 0.00 0.00 186.65
+AppIication event totaIs 6.00 0.00 0.00 186.65
 07/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 6.13 0.00 0.00 190.71 9,304,650.00 gal
-Application event totals 6.13 0.00 0.00 190.71
+AppIication event totaIs 6.13 0.00 0.00 190.71
 08/23/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 5.93 0.00 0.00 184.60 9,006,565.00 gal
-Application event totals 5.93 0.00 0.00 184.60
+AppIication event totaIs 5.93 0.00 0.00 184.60
 09/23/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 P-4 Ground water 5.34 0.00 0.00 166.15 8,106,440.00 gal
-Application event totals 5.34 0.00 0.00 166.15
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 17 of 37
+AppIication event totaIs 5.34 0.00 0.00 166.15
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 16.2452 Page 17 of 37
 
 PDF PAGE BREAK 17
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 B. NUTRIENT BUDGET
-
-1 - 11/13/2022: Wheat, silage, soft dough
-Field name: 1 Crop: Wheat, silage, soft dough
-
-Nutrient budget in Ibs/acre
-
-4,000 3,556 Ml Applied
-9 Anticipated
-
-0.00
-0.00
-0.00
-0.00
-3,043.24
-512.57
-0.00
-
-3,555.81
-1,494.00
-1,228.99
-
-2,326.82
-
-° 3,000 MN Harvest
-
-8 2,000 494
-
-~ 1,000 367 533
-
-0 192 60 31 42 799
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) | Total salt (lbs/acre)
-
-Existing soil nutrient content 0.00 0.00 0.00
-Plowdown credit 0.00 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00 0.00
-Dry manure 0.00 0.00 0.00
-Process wastewater 246.54 59.74 533.18
-Fresh water 3.66 0.00 0.00
-Atmospheric deposition 7.00 0.00 0.00
-Total nutrients applied 257.20 59.74 533.18
-Anticipated crop nutrient removal 198.00 30.60 149.40
-Actual crop nutrient removal 192.31 42.10 226.45
-Nutrient balance 64.89 17.64 306.72
-Applied to removed ratio 1.34 1.42 2.35
-
-2.89
-
-Fresh water applied
-70,196,815.00 gallons
-2,585.11 acre-inches
-
-16.16 inches/acre
-
-Process wastewater applied
-11,771,160.00 gallons
+1 - 11/13/2022 Wheat, siIage, soft dough
+FieId name 1 Crop Wheat, siIage, soft dough PIant date 11/13/2022
+Nutrient budget in lbs/acre
+4,000 3,556 ME AppIied
+Anticipated
+o 3,000 MB Harvest
+& 2,000 494
+2
+ 1,000 533
+                 ios aes 80 ff
+31 42 149
+0 22
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 70,196,815.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 2,585.11 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 16.16 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 246.54 59.74 533.18 3,043.24 Process wastewater appIied
+Fresh water 3.66 0.00 0.00 512.57 41,771,160.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
 433.49 acre-inches
-
-2.71 inches/acre
-
-Total harvests for the crop
-
-1 harvests
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Plant date: 11/13/2022
-
-Page 18 of 37
+Total nutrients appIied 257.20 59.74 533.18 3,555.81
+_ - 2.71 inches/acre
+Anticipated crop nutrient removal 198.00 30.60 149.40 1,494.00
+Actual crop nutrient removal 192.31 42.10 226.45 1,228.99 Total harvests for the crop
+Nutrient baIance 64.89 17.64 306.72 2,326.82 41 harvests
+AppIied to removed ratio 1.34 1.42 2.35 2.89
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 18 of 37
 
 PDF PAGE BREAK 18
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-1 - 06/25/2023: Corn, silage
-
-Field name: 1 Crop: Corn, silage Plant date: 06/25/2023
-
-Nutrient budget in Ibs/acre
-5,000 (Applied
-1 Anticipated
-
-4,000 ME Harvest
-8 3,000
+1 - 06/25/2023 Corn, siIage
+FieId name 1 Crop Corn, siIage PIant date 06/25/2023
+Nutrient budget in lbs/acre
+5,000 MB AppIied
+Anticipated
+o 4,000 MB Harvest
+5 3,000
 8 2,000 500
-
-1,000 321-270 534
-
-0 55 45 50 pet98
-N Pp K salt
-
-Total N (Ibs/acre)
-
-Total P (Ibs/acre)
-
-Total K (Ibs/acre) Total salt (Ibs/acre)
-
-Fresh water applied
-
-Existing soil nutrient content 0.00 0.00 0.00 0.00 169,110,675.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 6,227.77 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 38.92 inches/acre
+684
+1,000 321 270 gs 45 50 198 g
+0 a nn ae
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 169,110,675.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 6,227.77 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 38.92 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 305.01 54.76 683.90 3,632.58 Process wastewater applied
-Fresh wat 8.82 0.00 0.00 1,234.83
-resn water . 13,307,581.00 gallons
+Process wastewater 305.01 54.76 683.90 3,632.58 Process wastewater appIied
+Fresh water 8.82 0.00 0.00 1,234.83 43,307,581.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 490.07 acre-inches
-Total nutrients applied 320.83 54.76 683.90 4,867.41
+Total nutrients appIied 320.83 54.76 683.90 4,867.41
 _ . 3.06 inches/acre
 Anticipated crop nutrient removal 240.00 45.00 198.00 1,500.00
 Actual crop nutrient removal 269.55 49.92 245.59 1,054.23 Total harvests for the crop
-Nutrient balance 51.28 4.84 438.31 3,813.17 4 harvests
-Applied to removed ratio 1.19 1.10 2.78 4.62
-
-06/10/2024 16:24:52
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-Page 19 of 37
+Nutrient baIance 51.28 4.84 438.31 3,813.17 41 harvests
+AppIied to removed ratio 1.19 1.10 2.78 4.62
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 19 of 37
 
 PDF PAGE BREAK 19
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 11/11/2022: Wheat, silage, soft dough
-
-Field name: 3 Crop: Wheat, silage, soft dough
-
-Plant date: 11/11/2022
-
-Nutrient budget in Ibs/acre
-
-4,000 3,500
-3,000
+3 - 11/11/2022 Wheat, siIage, soft dough
+FieId name 3 Crop Wheat, siIage, soft dough PIant date 11/11/2022
+Nutrient budget in lbs/acre
+4,000 3,500 MME AppIied
+Anticipated
+o 3,000 MB Harvest
+& 2,000 494
 2
-£ 2,000 494
-=
-1,000 540.
-262 189 61 31 43 149
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre)
-Existing soil nutrient content 0.00 0.00
-Plowdown credit 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00
-Dry manure 0.00 0.00
-Process wastewater 251.08 60.62
-Fresh water 3.50 0.00
-Atmospheric deposition 7.00 0.00
-Total nutrients applied 261.59 60.62
-Anticipated crop nutrient removal 198.00 30.60
-Actual crop nutrient removal 189.22 43.16
-Nutrient balance 72.37 17.47
-Applied to removed ratio 1.38 1.40
-
-MN Applied
-
-1 Anticipated
-
-MB Harvest
-
-Total K (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-540.30
-0.00
-0.00
-
-540.30
-149.40
-216.88
-323.42
-
-2.49
-
-Total salt (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-3,009.76
-490.63
-0.00
-
-3,500.39
-1,494.00
-1,316.80
-
-2,183.60
-2.66
-
-Fresh water applied
-64,252,715.00 gallons
-2,366.21 acre-inches
-
-15.47 inches/acre
-
-Process wastewater applied
-11,315,550.00 gallons
+ 1,000 540
+                 262 189 gy
+31 43 149
+0 i _ __ __ Y me 21
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 64,252,715.00 gaIions
+PIowdown credit 0.00 0.00 0.00 0.00 2,366.21 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 45.47 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 251.08 60.62 540.30 3,009.76 Process wastewater appIied
+Fresh water 3.50 0.00 0.00 490.63 11,315,550.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
 416.71 acre-inches
-
-2.72 inches/acre
-
-Total harvests for the crop
-
-4 harvests
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 20 of 37
+Total nutrients appIied 261.59 60.62 540.30 3,500.39
+_ . 2.72 inches/acre
+Anticipated crop nutrient removal 198.00 30.60 149.40 1,494.00
+Actual crop nutrient removal 189.22 43.16 216.88 1,316.80 Total harvests for the crop
+Nutrient baIance 72.37 17.47 323.42 2,183.60 41 harvests
+AppIied to removed ratio 1.38 1.40 2.49 2.66
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 20 of 37
 
 PDF PAGE BREAK 20
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 06/26/2023: Corn, silage
-
-Field name: 3 Crop: Corn, silage Plant date: 06/26/2023
-Nutrient budget in Ibs/acre
-5,000 4,298 Ml Applied
-1 Anticipated
-© 4,000 MN Harvest
+3 - 06/26/2023 Corn, siIage
+FieId name 3 Crop Corn, siIage PIant date 06/26/2023
+Nutrient budget in lbs/acre
+5,000 4,298 ME AppIied
+Anticipated
+o 4,000 MB Harvest
 5 3,000
 8 2,000 500
 741
-1,000 334-272
-, 63 45 46 198
-0 eee en 25)
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 159,314,784.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 5,867.02 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 38.35 inches/acre
+1,000 334-272 63 45 46 198 f
+0 oo ee
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 159,314,784.00 gaIlons
+PIowdown credit 0.00 0.00 0.00 0.00 5 867.02 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 38.35 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 318.58 63.35 741.00 3,081.26 Process wastewater applied
-Fresh water 8.69 0.00 0.00 1,216.52 13,945,720.00 gallons
+Process wastewater 318.58 63.35 741.00 3,081.26 Process wastewater appIied
+Fresh water 8.69 0.00 0.00 1,216.52 43,945,720.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 513.57 acre-inches
-Total nutrients applied 334.27 63.35 741.00 4,297.78
+Total nutrients appIied 334.27 63.35 741.00 4,297.78
 _ . 3.36 inches/acre
 Anticipated crop nutrient removal 240.00 45.00 198.00 1,500.00
 Actual crop nutrient removal 271.84 45.94 258.44 1,054.81 Total harvests for the crop
-Nutrient balance 62.43 17.41 482.57 3,242.97 4 harvests
-Applied to removed ratio 1.23 1.38 2.87 4.07
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 21 of 37
+Nutrient baIance 62.43 17.41 482.57 3,242.97 1 harvests
+AppIied to removed ratio 1.23 1.38 2.87 4.07
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 21 of 37
 
 PDF PAGE BREAK 21
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-5 - 11/14/2022: Wheat, silage, soft dough
-
-Field name: 5 Crop: Wheat, silage, soft dough
-
-Plant date: 11/14/2022
-
-Nutrient budget in Ibs/acre
-
-3,000 2,674
-2,500
-@ 2,000
-& 1,500 123
+5 - 11/14/2022 Wheat, siIage, soft dough
+FieId name 5 Crop Wheat, siIage, soft dough PIant date 11/14/2022
+Nutrient budget in lbs/acre
+3,000 2,674 MB AppIied
+2,500 Anticipated
+ 2,000 494 MB Harvest
+5
+s 1,500 1,123
 2 1,000
-500 224 165 35 34 gy 277219
-0 |
-N Pp K salt
-
-Total N (Ibs/acre) Total P (Ibs/acre)
-Existing soil nutrient content 0.00 0.00
-Plowdown credit 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00
-Dry manure 0.00 0.00
-Process wastewater 190.28 34.95
-Fresh water 27.03 0.00
-Atmospheric deposition 7.00 0.00
-Total nutrients applied 224.31 34.95
-Anticipated crop nutrient removal 198.00 30.60
-Actual crop nutrient removal 164.85 41.21
-Nutrient balance 59.46 -6.26
-Applied to removed ratio 1.36 0.85
-
-MN Applied
-
-1 Anticipated
-
-MB Harvest
-
-Total K (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-277.31
-0.00
-0.00
-
-277.31
-149.40
-219.46
-57.86
-1.26
-
-Total salt (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-2,018.84
-655.17
-0.00
-
-2,674.01
-1,494.00
-1,123.03
-
-1,550.98
-2.38
-
-Fresh water applied
-41,709,010.00 gallons
-1,536.00 acre-inches
-
-18.07 inches/acre
-
-Process wastewater applied
-5,023,260.00 gallons
+500 224 165 a5 31 41 277 219
+0 a ee
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 41,709,010.00 gaIlons
+PIowdown credit 0.00 0.00 0.00 0.00 1,536.00 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 18.07 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 190.28 34.95 277.31 2,018.84 Process wastewater appIied
+Fresh water 27.03 0.00 0.00 655.17 5,023,260.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
 184.99 acre-inches
-
-2.18 inches/acre
-
-Total harvests for the crop
-
-4 harvests
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 22 of 37
+Total nutrients appIied 224.31 34.95 277.31 2,674.01
+_ . 2.18 inches/acre
+Anticipated crop nutrient removal 198.00 30.60 149.40 1,494.00
+Actual crop nutrient removal 164.85 41.21 219.46 1,123.03 Total harvests for the crop
+Nutrient baIance 59.46 6.26 57.86 1,550.98 41 harvests
+AppIied to removed ratio 1.36 0.85 1.26 2.38
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 22 of 37
 
 PDF PAGE BREAK 22
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-5 - 06/28/2023: Corn, silage
-
-Field name: 5 Crop: Corn, silage Plant date: 06/28/2023
-Nutrient budget in Ibs/acre
-5,000 Ml Applied
-1 Anticipated
-© 4,000 MN Harvest
+5 - 06/28/2023 Corn, siIage
+FieId name 5 Crop Corn, siIage PIant date 06/28/2023
+Nutrient budget in lbs/acre
+5,000 MB AppIied
+Anticipated
+o 4,000 MB Harvest
 5 3,000
-2 2,000 “500
-1,000 336-257 5, gs gg oa
-0 a |:
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 91,122,338.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 3,355.73 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 39.48 inches/acre
+8 2,000 500
+630
+1,000 336 257-64 45 56 143 f
+0 ao i nf _
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 91,122,338.00 gaIions
+PIowdown credit 0.00 0.00 0.00 0.00 3,355.73 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 39.48 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 278.66 51.20 629.91 3,182.88 Process wastewater applied
-Fresh water 50.68 0.00 0.00 1,500.54 6,528,200.00 gallons
+Process wastewater 278.66 51.20 629.91 3,182.88 Process wastewater appIied
+Fresh water 50.68 0.00 0.00 1,500.54 6,528,200.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 240.41 acre-inches
-Total nutrients applied 336.34 51.20 629.91 4,683.42
+Total nutrients appIied 336.34 51.20 629.91 4,683.42
 _ . 2.83 inches/acre
 Anticipated crop nutrient removal 240.00 45.00 198.00 1,500.00
 Actual crop nutrient removal 256.61 55.60 143.27 1,129.08 Total harvests for the crop
-Nutrient balance 79.73 -4.40 486.63 3,554.35 4 harvests
-Applied to removed ratio 1.31 0.92 4.40 4.15
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 23 of 37
+Nutrient baIance 79.73 -4.40 486.63 3,554.35 41 harvests
+AppIied to removed ratio 1.31 0.92 4.40 4.15
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 23 of 37
 
 PDF PAGE BREAK 23
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-6 - 01/10/2018: Alfalfa, hay
-
-Field name: 6 Crop: Alfalfa, hay Plant date: 01/10/2018
-Nutrient budget in Ibs/acre
-2,000 Applied
-ee) 9 Anticipated
-» 1,500 ME Harvest
-£ 1,000
-2 480 355
-0
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 59,041,527.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 2,174.30 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 41.02 inches/acre
+6 - 01/10/2018 AIfaIfa, hay
+FieId name 6 Crop AIfaIfa, hay PIant date 01/10/2018
+Nutrient budget in lbs/acre
+2,000 AppIied
+1,579 - PP A
+Anticipated
+o 1,500 ,60 MB Harvest
+& 1,000
+3 480 355
+500 132 17 43 41 183
+0 _ _ _ Pec _
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 59,041,527.00 gaIions
+PIowdown credit 0.00 0.00 0.00 0.00 2,174.30 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 41.02 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 76.33 16.58 183.05 563.97 Process wastewater applied
-Fresh water 41.83 0.00 0.00 1,301.48 1,205,995.00 gallons
+Process wastewater 76.33 16.58 183.05 563.97 Process wastewater appIied
+Fresh water 41.83 0.00 0.00 1,301.48 1,205,995.00 gaIlons
 Atmospheric deposition 14.00 0.00 0.00 0.00
 44.41 acre-inches
-Total nutrients applied 132.17 16.58 183.05 1,865.44
+Total nutrients appIied 132.17 16.58 183.05 1,865.44
 _ . 0.84 inches/acre
 Anticipated crop nutrient removal 480.00 43.20 336.00 1,600.00
 Actual crop nutrient removal 470.80 40.56 354.91 1,578.98 Total harvests for the crop
-Nutrient balance -338.63 -23.98 -171.86 286.46 1 harvests
-Applied to removed ratio 0.28 0.41 0.52 1.18
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 24 of 37
+Nutrient baIance -338.63 -23.98 -171.86 286.46 1 harvests
+AppIied to removed ratio 0.28 0.41 0.52 1.18
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 24 of 37
 
 PDF PAGE BREAK 24
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-7 - 01/10/2018: Alfalfa, hay
-
-Field name: 7 Crop: Alfalfa, hay Plant date: 01/10/2018
-Nutrient budget in Ibs/acre
-2,000 1614 Ml Applied
-: 1 Anticipated
-© 1,500 MM Harvest
-£ 1,000
+7 -01/10/2018 AIfaIfa, hay
+FieId name 7 Crop AIfaIfa, hay PIant date 01/10/2018
+Nutrient budget in lbs/acre
+2,000 MB AppIied
+1,614 se
+Anticipated
+o 1,500 ,60 MB Harvest
+S 1,000
 2 500 480
-0
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 60,207,790.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 2,217.25 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 38.90 inches/acre
+130 a 19 43.43 135 i
+0 _ _ _
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 60,207,790.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 2,217.25 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 38.90 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 76.80 18.91 135.42 756.38 Process wastewater applied
-Fresh water 39.67 0.00 0.00 1,234.05 993,540.00 gallons
+Process wastewater 76.80 18.91 135.42 756.38 Process wastewater appIied
+Fresh water 39.67 0.00 0.00 1,234.05 993,540.00 gaIlons
 Atmospheric deposition 14.00 0.00 0.00 0.00
 36.59 acre-inches
-Total nutrients applied 130.47 18.91 135.42 1,990.43
+Total nutrients appIied 130.47 18.91 135.42 1,990.43
 _ . 0.64 inches/acre
 Anticipated crop nutrient removal 480.00 43.20 336.00 1,600.00
 Actual crop nutrient removal 510.04 42.86 340.03 1,614.41 Total harvests for the crop
-Nutrient balance -379.57 -23.95 -204.61 376.02 1 harvests
-Applied to removed ratio 0.26 0.44 0.40 1.23
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 25 of 37
+Nutrient baIance -379.57 -23.95 -204.61 376.02 41 harvests
+AppIied to removed ratio 0.26 0.44 0.40 1.23
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 25 of 37
 
 PDF PAGE BREAK 25
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
-
 A. MANURE ANALYSES
-
 Manure
-
-Sample and source description: Manure
-
-Sample date: 05/02/2023 Material type: Corral solids Source of analysis: Lab analysis Method of reporting: Dry-weight
-Moisture: 16.6 %
-Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
-(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
-Value 11,900.00 2,500.00 14,500.00
+SampIe and source description Manure
+SampIe date 05/02/2023 Material type. Corral soIids Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 16.6
+Total N Total P Total K CaIcium Magnesium Sodium SuIfur ChIoride Total saIt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+VaIue 11,900.00 2,500.00 14,500.00
 DL 100.00 200.00 200.00
 Manure
-
-Sample and source description: Manure
-
-Sample date: 10/03/2023 Material type: Corral solids Source of analysis: Lab analysis Method of reporting: Dry-weight
-Moisture: 56.7 %
-Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
-(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
-Value 20,000.00 4,800.00 43,100.00
+SampIe and source description Manure
+SampIe date 10/03/2023 Material type Corral soIids Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 56.7
+Total N Total P Total K CaIcium Magnesium Sodium SuIfur ChIoride Total saIt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+VaIue 20,000.00 4,800.00 43,100.00
 DL 100.00 200.00 200.00
-
 B. PROCESS WASTEWATER ANALYSES
-
 Lagoon
-
-Sample and source description: Lagoon
-
-Sample date: 11/18/2022 Material type: Process wastewater Source of analysis: Lab analysis pH:
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 321.00 283.00 84.20 751.00 9,640.00 6,400
+SampIe and source description Lagoon
+SampIe date 11/18/2022 Material type Process wastewater Source of anaIysis Lab anaIysis pH
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 321.00 283.00 84.20 751.00 9,640.00 6,400
 DL 10.00 2.00 0.20 0.50 100.00 10
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52 Page 26 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 26 of 37
 
 PDF PAGE BREAK 26
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 Lagoon
-
-Sample and source description: Lagoon
-
-Sample date: 02/22/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.10
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 526.00 226.00 2.00 130.00 931.00 7,830.00 5,200
+SampIe and source description Lagoon
+SampIe date 02/22/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH 7.10
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 526.00 226.00 2.00 130.00 931.00 7,830.00 5,200
 DL 10.00 2.00 2.00 0.20 0.50 100.00 10
 Lagoon
-Sample and source description: Lagoon
-Sample date: 05/02/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 400.00 380.00 87.30 964.00 4,480.00 2,970
+SampIe and source description Lagoon
+SampIe date 05/02/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 400.00 380.00 87.30 964.00 4,480.00 2,970
 DL 10.00 2.00 0.20 0.50 100.00 10
 Lagoon
-Sample and source description: Lagoon
-Sample date: 08/04/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 461.00 450.00 74.30 997.00 9,740.00 6,470
+SampIe and source description Lagoon
+SampIe date 08/04/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 461.00 450.00 74.30 997.00 9,740.00 6,470
 DL 10.00 2.00 0.20 0.50 100.00 10
 Lagoon
-Sample and source description: Lagoon
-Sample date: 11/08/2023 Material type: Process wastewater Source of analysis: Lab analysis pH:
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 540.00 473.00 226.00 953.00 8,100.00 5,380
+SampIe and source description Lagoon
+SampIe date 11/08/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 540.00 473.00 226.00 953.00 8,100.00 5,380
 DL 10.00 2.00 0.20 0.50 100.00 10
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 27 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 27 of 37
 
 PDF PAGE BREAK 27
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
 D2
-
-Domestic well
-
-Sample description: Domestic well
-Sample date: 12/06/2023
-
-Source of analysis: Lab analysis
-
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+Domestic weIl
+SampIe description Domestic weIl
+SampIe date 12/06/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 0.80 8.00 0.00 35.00 110.00 0.00 1.10 3.00 196.00 110
-DL 0.10 1.00 1.00 1.00 10.00 10.00 0.17 1.00 1.00 20
+VaIue 0.80 8.00 0.00 35.00 110.00 0.00 1.10 3.00 196.00 110
+OL 0.10 1.00 1.00 1.00 10.00 10.00 0.17 1.00 1.00 20
 P-13
-Irrigation well
-Sample description: Irrigation well
-Sample date: 09/14/2023 Source of analysis: Lab analysis
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+Irrigation weIl
+SampIe description Irrigation weIl _____
+SampIe date 09/14/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 8.70 8.70 21.00 0.00 52.00 120.00 0.00 8.80 16.00 382.00 240
-DL 0.50 0.10 1.00 1.00 1.00 10.00 10.00 0.17 1.00 1.00 20
+VaIue 8.70 8.70 21.00 0.00 52.00 120.00 0.00 8.80 16.00 382.00 240
+OL 0.50 0.10 1.00 1.00 1.00 10.00 10.00 0.17 1.00 1.00 20
 P-4
-Irrigation well
-Sample description: Irrigation well
-Sample date: 09/14/2023 Source of analysis: Lab analysis
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+Irrigation weIl
+SampIe description Irrigation weIl oO
+SampIe date 09/14/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 4.50 4.50 230.00 140
+VaIue 4.50 4.50 230.00 140
 DL 0.50 0.40 1.00 20
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52
-
-Page 28 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 28 of 37
 
 PDF PAGE BREAK 28
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 P-7
-
-Irrigation well
-
-Sample description: Irrigation well
-Sample date: 09/14/2023 Source of analysis: Lab analysis
-
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+Irrigation weIl
+SampIe description Irrigation weIl _____
+SampIe date 09/14/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 1.00 1.00 206.00 140
-DL 0.50 0.40 1.00 20
-
+VaIue 1.00 1.00 206.00 140
+OL 0.50 0.40 1.00 20
 D. SOIL ANALYSES
-No soil analyses entered.
-
+No soil anaIyses entered.
 E. PLANT TISSUE ANALYSES
-
-1 - 11/13/2022: Wheat, silage, soft dough
-
-wheat sample
-
-Sample and source description: wheat sample
-
-Sample date: 05/22/2023 Source of analysis: Lab analysis Method of reporting: Dry-weight
-Moisture: 71.3 %
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 16,900.00 3,700.00 19,900.00 10.80
+1 - 11/13/2022 Wheat, siIage, soft dough
+wheat sampIe
+SampIe and source description wheat sampIe
+SampIe date 05/22/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 71.3
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 16,900.00 3,700.00 19,900.00 10.80
 DL 500.00 200.00 200.00 0.05
-
-1 - 06/25/2023: Corn, silage
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 29 of 37
+1 - 06/25/2023 Corn, siIage
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 29 of 37
 
 PDF PAGE BREAK 29
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-1 - 06/25/2023: Corn, silage
-
-corn sample
-
-Sample and source description: corn sample
-Sample date: 10/16/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 64.7 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 13,500.00 2,500.00 12,300.00 5.28
+1 - 06/25/2023 Corn, siIage
+corn sampIe
+SampIe and source description. corn sampIe
+SampIe date 10/16/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 64.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 13,500.00 2,500.00 12,300.00 5.28
 DL 500.00 200.00 200.00 0.05
-
-3 - 11/11/2022: Wheat, silage, soft dough
-
-wheat sample
-
-Sample and source description: wheat sample
-Sample date: 05/21/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 72.3 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 17,100.00 3,900.00 19,600.00 11.90
+3 - 11/11/2022 Wheat, siIage, soft dough
+wheat sampIe
+SampIe and source description wheat sampIe
+SampIe date 05/21/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 72.3
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 17,100.00 3,900.00 19,600.00 11.90
 DL 500.00 200.00 200.00 0.05
-
-3 - 06/26/2023: Corn, silage
-
-corn sample
-
-Sample and source description: corn sample
-
-Sample date: 10/16/2023 Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 66.1 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 14,200.00 2,400.00 13,500.00 5.51
+3 - 06/26/2023 Corn, siIage
+corn sampIe
+SampIe and source description. corn sampIe
+SampIe date 10/16/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 66.1
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 14,200.00 2,400.00 13,500.00 5.51
 DL 500.00 200.00 200.00 0.05
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52
-
-Page 30 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 30 of 37
 
 PDF PAGE BREAK 30
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-5 - 11/14/2022: Wheat, silage, soft dough
-
-wheat sample
-
-Sample and source description: wheat sample
-Sample date: 05/21/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 73.3 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 16,000.00 4,000.00 21,300.00 10.90
+5 - 11/14/2022 Wheat, siIage, soft dough
+wheat sampIe
+SampIe and source description wheat sampIe
+SampIe date 05/21/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 73.3
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 16,000.00 4,000.00 21,300.00 10.90
 DL 500.00 200.00 200.00 0.05
-
-5 - 06/28/2023: Corn, silage
-
-corn sample
-
-Sample and source description: corn sample
-Sample date: 10/19/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 62.6 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 12,000.00 2,600.00 6,700.00 5.28
+5 - 06/28/2023 Corn, siIage
+corn sampIe
+SampIe and source description. corn sampIe
+SampIe date 10/19/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 62.6
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 12,000.00 2,600.00 6,700.00 5.28
 DL 500.00 200.00 200.00 0.05
-
-6 - 01/10/2018: Alfalfa, hay
-
-alfalfa sample
-
-Sample and source description: alfalfa sample
-
-Sample date: 11/14/2023 Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 8.6 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 32,500.00 2,800.00 24,500.00 10.90
+6 - 01/10/2018 AIfaIfa, hay
+aIfaIfa sampIe
+SampIe and source description. aIfaIfa sampIe
+SampIe date 11/14/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 8.6
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 32,500.00 2,800.00 24,500.00 10.90
 DL 500.00 200.00 200.00 0.05
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52
-
-Page 31 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 31 of 37
 
 PDF PAGE BREAK 31
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-7 - 01/10/2018: Alfalfa, hay
-
-alfalfa sample
-
-Sample and source description: alfalfa sample
-Sample date: 11/14/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 8.5 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 35,700.00 3,000.00 23,800.00 11.30
+7 - 01/10/2018 AIfaIfa, hay
+aIfaIfa sampIe
+SampIe and source description. aIfaIfa sampIe
+SampIe date 11/14/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 8.5 4
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 35,700.00 3,000.00 23,800.00 11.30
 DL 500.00 200.00 200.00 0.05
-
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
-
-No subsurface (tile) drainage analyses entered.
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52
-
-Page 32 of 37
+No subsurface (tiIe) drainage anaIyses entered.
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 32 of 37
 
 PDF PAGE BREAK 32
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
-
 A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
-
-Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Total N (lbs) Total P (lbs) Total K (lbs) Total saIt (lbs)
 Existing soil nutrient content 0.00 0.00 0.00 0.00
-Plowdown credit 0.00 0.00 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00
+PIowdown credit 0.00 0.00 0.00 0.00
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00
 Dry manure 0.00 0.00 0.00 0.00
 Process wastewater 223,691.47 46,566.21 485,306.48 2,515,208.57
 Fresh water 14,945.58 0.00 0.00 863,331.94
 Atmospheric deposition 7,112.00 0.00 0.00 0.00
-Total nutrients applied 245,749.05 46,566.21 485,306.48 3,378,540.51
+Total nutrients appIied 245,749.05 46,566.21 485,306.48 3,378,540.51
 Anticipated crop nutrient removal 227,124.00 34,840.80 175,225.20 1,367,612.00
 Actual crop nutrient removal 234,288.36 41,177.30 217,274.44 1,095,308.32
-Nutrient balance 11,460.69 5,388.91 268,032.04 2,283,232.19
-Applied to removed ratio 1.05 1.13 2.23 3.08
-
+Nutrient baIance 11,460.69 5,388.91 268,032.04 2,283,232.19
+AppIied to removed ratio 1.05 1.13 2.23 3.08
 B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
-
-3,500,000 (MN Applied
-3,378,541 9) Anticipated
-3,000,000 MM Harvested
-
+3,500,000 ME AppIied
+3,341 Anticipated
+3,000,000 MB Harvested
 2,500,000
-2,000,000
-1,500,000 712
-1,000,000 wm 5
-500,000 245,749 234,288 sloos
-, 6.566
-0 1337 1BA84 se — lee.
-
-N Pp salt
-
-Ibs
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 33 of 37
+ 2000,000
+8 7,612
+1,500,000 1,095,308
+1,000,000 485.306
+500,000 245,749, 2.288 as 205
+0 MB, Ms ot is
+N P K saIt
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 33 of 37
 
 PDF PAGE BREAK 33
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+Pounds of nitrogen appIied Pounds of phosphorus appIied
 
-Pounds of nitrogen applied | Pounds of phosphorus applied |
+l
+Existing soil nutrient content 0 Existing soil nutrient content 0
+PIowdown credit 0 PIowdown credit 0
+Commercial fertiIizer / Other 9 Commercial fertiIizer / Other 0
+Drymanure 0 Dry manure 0
+Fresh water 14,946 Fresh ,
 
-Existing soil nutrient content Existing soil nutrient content -0
-
-Plowdown credit Plowdown credit —0
-
-Commercial fertilizer / Other Commercial fertilizer / Other —0
-
-ooo 8
-
-Dry manure
-vy Dry manure —0
-
-Fresh water | 14,946
-
-. we Fresh water 0
-Atmospheric deposition i 7112
-
-Atmospheric deposition —0
-
-0 100,000 200,000
+resh water
+Atmospheric deposition IJ 7,112
+Atmospheric deposition 0
+it) 100,000 200,000
 50,000 150,000 250,000 0 10,000 20,000 30,000 40,000 50,000
-Ibs Ibs
-Pounds of potassium applied Pounds of salt applied
-Existing soil nutrient content —0 Existing soil nutrient content —0
-Plowdown credit —0 Plowdown credit —0
-Commercial fertilizer / Other 0 Commercial fertilizer / Other 0
-Dry manure —0 Dry manure —0
-Process wastewater: lll sSrs06) Process wastewater |Sitiltir57657205}
-Fresh water -0 Fresh water || |-863,332
-Atmospheric deposition —0 Atmospheric deposition 0
-0 200,000 400,000 0 1,000,000 2,000,000 3,000,000
+lbs lbs
+
+ee, _/
+
+Pounds of potassium appIied Pounds of saIt appIied
+Existing soil nutrient content 0 Existing soil nutrient content 0
+PIowdown credit 0 PIowdown credit 0
+Commercial fertiIizer / Other 0 Commercial fertiIizer / Other 0
+Dry manure 0 Dry manure 0
+
+Fresh water 0 Fresh water 863,332
+Atmospheric deposition 0 Atmospheric deposition 0
+it) 200,000 400,000 it) 1,000,000 2,000,000 3,000,000
 100,000 300,000 500,000 500,000 1,500,000 2,500,000
-Ibs Ibs
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 34 of 37
+lbs lbs
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 34 of 37
 
 PDF PAGE BREAK 34
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
-
 A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
-
-The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise)
-when not in accordance with the facility's Nutrient Management Plan.
-
+The foIlowing is a summary of aIl manure and process wastewater discharges from the production area to surface water or to land areas (land appIication areas or otherwise)
+when not in accordance with the faciIitys Nutrient Management PIan.
 No manure or process wastewater discharges occurred during the reporting period.
-
 B. STORM WATER DISCHARGES
-
-The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient
-Management Plan.
-
+The foIlowing is a summary of aIl storm water discharges from the production area to surface water during the reporting period when not in accordance with the faciIity s Nutrient
+Management PIan.
 No stormwater discharges occurred during the reporting period.
-
 C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
-
-The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the
-facility's Nutrient Management Plan.
-
-No land application area to surface water discharges occurred during the reporting period.
-
+The foIlowing is a summary of aIl discharges from the land appIication area to surface water that have occurred during the reporting period when not in accordance with the
+faciIitys Nutrient Management PIan.
+No land appIication area to surface water discharges occurred during the reporting period.
 NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
-
 A. NUTRIENT MANAGEMENT PLAN STATEMENTS
-Was the facility's NMP updated in the reporting period? Yes
-
-Was the facility's NMP developed by a certified nutrient management planner Yes
-(specialist) as specified in Attachment C of the General Order?
-
-Was the facility's NMP approved by a certified nutrient management planner Yes
-(specialist) as specified in Attachment C of the General Order?
-
+Was the faciIitys NMP updated in the reporting period Yes
+Was the faciIitys NMP deveIoped by a certified nutrient management pIanner Yes
+(speciaIist) as specified in Attachment C of the General Order
+Was the faciIitys NMP approved by a certified nutrient management pIanner Yes
+(speciaIist) as specified in Attachment C of the General Order
 B. EXPORT AGREEMENT STATEMENT
-
 Are there any written agreements with third parties to receive manure or process No
-wastewater that are new or were revised within the reporting period?
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 35 of 37
+wastewater that are new or were revised within the reporting period
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 35 of 37
 
 PDF PAGE BREAK 35
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
-
 A. NOTES
-
-Wells D1, D3, P5, and P6 were out of service in 2023.
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 36 of 37
+WeIls D1, D3, P5, and P6 were out of service in 2023.
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 36 of 37
 
 PDF PAGE BREAK 36
+
 Annual Report - General Order No. R5-2007-0035
-
 Reporting period 01/01/2023 to 12/31/2023.
-
 CERTIFICATION
-
 A. OWNER AND/OR OPERATOR CERTIFICATION
+ certify under penaIty of law that I have personaIly examined and am famiIiar with the information submitted in this document and aIl attachments and that, based on my inquiry
+of those individuaIs immediateIy responsibIe for obtaining the information, beIieve that the information is true, accurate, and compIete. am aware that there are significant
+penaIties for submitting faIse information, incIuding the possibiIity of fine and imprisonment.
+s
 
-! certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry
-of those individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant
-penalties for submitting false information, including the possibility of fine and imprisonment.
-a
+SIGNATIGRE OF IER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
 
-SIGNATURE OF OPERATOR OF FACILITY
+Joe PAtrreira Steve Gaspar
 
-Steve Gaspar
-OR TYPE NAME PRINT OR TYPE NAME
+PRINT OR TYPE NAME PRINT OR TYPE /o4
 
-6/,4[24 G4 (2y
+6(,3(44 Y(24
 DATE DATE
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-06/10/2024 16:24:52 Page 37 of 37
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 37 of 37
 
 PDF PAGE BREAK 37
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
 A. REQUIRED ATTACHMENTS
-
-The following lists the required documents that should be attached to the Annual Report when submitted .
-Annual Dairy Facility Assessment
-
-Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
-page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
-
+The foIlowing lists the required documents that shouId be attached to the Annual Report when submitted .
+Annual Dairy FaciIity Assessment
+Provide an Annual Dairy FaciIity Assessment (an update to the PreIiminary Dairy FaciIity Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, cIick on the ADFA Report button to generate an ADFA report after updating information as needed.
 Manure/Process Wastewater Tracking Manifests
-
-Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
-
+Provide copies of aIl manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauIer.
 Corrective Actions Documents
-
-Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
-General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
-
+Provide records documenting any corrective actions taken to correct deficiencies noted as a resuIt of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an expIanation of the factors preventing immediate correction.
 Groundwater Monitoring
-
-Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+Dischargers that monitor suppIy weIls or subsurface (tiIe) drainage systems, or that have monitoring weIl systems must submit monitoring resuIts as directed in the
 General Order, Groundwater Reporting Section starting on page MRP-13.
-
 Storm Water Monitoring
-
-Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Dischargers that are required to monitor storm water more frequentIy than required in the General Order must submit monitoring resuIts as directed in the General Order,
 Storm Water Reporting Section on page MRP-14.
-
-Parreira Gaspar Dairy | 17800 4th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
-
-06/10/2024 16:24:52 Page 1 of 1
+Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
+06/10/2024 162452 Page 1 of 1
 
 PDF PAGE BREAK 38
+
+(sN
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
-October 4, 2023
-
-Lab No. : VI 2346275
-Sentry Ag Services Customer No. _: 4019696
-Attn: Monique Baldivez Reference : 3160
-
+AnaIytical Chemists
+October 4, 2023 Lab No. VI 2346275
+. Customer No. 4019696
+Sentry Ag Services
+Attn Monique BaIdivez Reference 3160
 P.O. Box 7750
-Visalia, CA 93290
-
+VisaIia, CA 93290
 Laboratory Report
-Introduction: This report package contains a total of 7 pages divided into 3 sections:
-
-Case Narrative (1 page)
-
-: An overview of the work performed at FGL.
-Sample Results (3 pages) _ : Results for each sample submitted.
-Quality Control (3 pages) — : Supporting Quality Control (QC) results.
-
+Introduction This report package contains a total of 7 pages divided into 3 sections
+Case Narrative (1 page) An overview of the work performed at FGL.
+SampIe ResuIts (3 pages) ResuIts for each sampIe submitted.
+QuaIity Control (3 pages) Supporting QuaIity Control (QC) resuIts.
 Case Narrative
-This Case Narrative pertains to the following samples:
-
-P-13 09/14/2023 09/14/2023 VI 2346275- 001
-P-7 09/14/2023 09/14/2023 VI 2346275-002 “an
-P-4 09/14/2023 09/14/2023 VI 2346275-003 AGW
-
-Sampling and Receipt Information:
-
-All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition
-Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times.
-All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
-For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
-
-Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
-in the Quality Control Section of this report.
-
+This Case Narrative pertains to the foIlowing sampIes
+SampIe Description Date SampIed Date Received FGL Lab No. / Matrix
+P-13 09/14/2023 09/14/2023 VI 2346275-001 AGW
+P-7 09/14/2023 09/14/2023 VI 2346275-002 AGW
+Pp-4 09/14/2023 09/14/2023 VI 2346275-003 AGW
+SampIing and Receipt Information
+AIl sampIes were received in acceptabIe condition and within temperature requirements, unIess noted on the Condition
+Upon Receipt (CUR) form. AIl sampIes were received, prepared and anaIyzed within the method specified hoIding times.
+AIl sampIes arrived on ice. AIl sampIes were checked for pH if acid or base preservation is required (except for VOAs).
+For detaiIs of sampIe receipt information, pIease see the associated Chain of Custody and Condition Upon Receipt Form.
+QuaIity Control AIl sampIes were prepared and anaIyzed according to estabIished quaIity control criteria. Any exceptions are noted
+in the QuaIity Control Section of this report.
 Test Summary
-
-EPA 200.7 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-EPA 300.0 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-EPA 351.2 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-SM 2540 C Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-SM 4500-H+B
-
-Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-
-SM 4500-NO3 F Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-
-Certification: I certify that this data package is in compliance with ELAP standards, both technically and for
-completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
-
-package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
-report shall not be reproduced except in full, without the written approval of the laboratory.
-
-KD: EHB
-
-Digitally signed by Kelly A. Dunnahoo, B.S.
-Approved By Kelly A. Dunnahoo, B.S. @ Tile Laboratory Director
-
-Section: Case Narrative Page | of 7
-
-Page | of 7
+EPA 200.7 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+EPA 300.0 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+EPA 351.2 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 2540 C Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 4500-H4B Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 4500-NO3 F Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+Certification I certify that this data package is in compIiance with ELAP standards, both technicaIly and for
+compIeteness, except for any conditions listed above and in the QC Section. ReIease of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the foIlowing eIectronic signature. This
+report shaIl not be reproduced except in fuIl, without the written approval of the laboratory.
+KD EHB
+DigitaIly signed by KeIly A. Dunnahoo, B.S.
+Approved By KeIly A. Dunnahoo, B.S. Q TiIes Laboratory Director
+Section Case Narrative Page 1 of 7 Page 1 of 7
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
-853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423
-
-FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-CA ELAP Certification No. 1573
-
-CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 39
+
+EN
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 October 4, 2023
-
-Lab No. : VI 2346275-001
-
-Sentry Ag Services Customer No. : 4019696
-Attn: Monique Baldivez Reference _: 3160
-P.O. Box 7750 Sampled On : September 14, 2023 at 08:10
-Visalia, CA 93290 Sampled By : Brandon
-
-wae Received On : September 14, 2023 at 15:14
-Description : P-13 Matrix Ag Water
-Project : Parriera Gaspar
-
-Sample Results - Inorganic
-
-| Constituent | Result | RL | Units | Note | Dil._|
-
-Sample Preparation Sample Analysis
-
-Dairy Analysis Date Time Who Method Date Time Who
-Alkalinity (as CaCO3) 110 10 mg/L 09/22/2023 19:41 amm SM 4500-H+B 09/23/2023 02:07 amm
-Bicarbonate 120 10 mg/L 09/22/2023 19:41 amm SM 4500-H+B 09/23/2023 02:07 amm
-Carbonate ND 10 mg/L U 09/22/2023 19:41 amm SM 4500-H+B 09/23/2023 02:07 amm
-Hydroxide ND 10 mg/L U 09/22/2023 19:41 amm SM 4500-H+B 09/23/2023 02:07 amm
-Chloride 16 1 mg/L 09/15/2023 15:07 Idm EPA300.0 09/16/2023 01:59 Idm
-Nitrogen, Total Kjeldahl ND 0.5 mg/L Ul = 09/28/2023 10:26 sta EPA351.2 10/03/2023 22:23 ler
-Nitrate Nitrogen 8.7 0.1 mg/L 09/15/2023 15:07 Idm EPA300.0 09/16/2023 01:59 Idm
-Nitrogen, Total as Nitrogen 8.7 0.5 mg/L 1 09/28/2023 10:26 sta Calc. 10/03/2023 22:23 ler
-Nitrate + Nitrite as N 8.7 0.1 mg/L 09/15/2023 15:07 Idm EPA300.0 09/16/2023 01:59 Idm
-Kjeldahl Nitrogen ND 0.5 mg/L Ul = 09/28/2023 10:26 sta EPA351.2 10/03/2023 22:23 ler
-Conductivity 382 1 umhos/cm 09/22/2023 19:41 amm SM 4500-H+B 09/23/2023 02:07 amm
-Sulfate Sulfur 8.80 0.17 mg/L b 09/15/2023 15:07 Idm EPA300.0 09/16/2023 01:59 Idm
-Solids, Total Dissolved (TDS) 240 20 mg/L 09/19/2023 11:20 ctl SM2540C 09/20/2023 11:00 ctl
-Calcium 21 1 mg/L 09/21/2023 10:32 ejc EPA200.7 09/25/2023 17:50 ac
-Magnesium ND 1 mg/L ji 09/21/2023 10:32 ejc EPA200.7 09/25/2023 17:50 ac
-Sodium 52 1 mg/L 09/21/2023 10:32 ejc EPA200.7 09/25/2023 17:50 ac
-DOF Flags Definition:
-
-U_ Constituent results were non-detect.
-
+Lab No. VI 2346275-001
+Sentry Ag Services Customer No. 4019696
+Attn Monique BaIdivez Reference 3160
+P.O. Box 7750 SampIed On September 14, 2023 at 0810
+VisaIia, CA 93290 SampIed By Brandon
+D inti P13 Received On _ September 14, 2023 at 1514
+escrip Jon a Matrix Ag Water
+Project Parriera Gaspar
+SampIe ResuIts - Inorganic
+ Constituent ResuIt, RL Units Note Dil. DQF SampIe Preparation SampIe AnaIysis
+Dairy AnaIysis Date Time Who Method Date Time Who
+AIkaIinity (as CaCO3) 110 10 mg/L 1 09/22/2023 1941 amm SM 4500-H4B 09/23/2023 0207 amm
+Bicarbonate 120 10 mg/L 1 09/22/2023 1941 amm SM 4500-H4B 09/23/2023 0207 amm
+Carbonate ND 10 mg/L 1 U 09/22/2023 1941 amm SM 4500-H4B 09/23/2023 0207 amm
+Hydroxide ND 10 mg/L 1 U 09/22/2023 1941 amm SM 4500-H4B 09/23/2023 0207 amm
+ChIoride 16 1 mg/L 1 09/15/2023 1507 Idm EPA300.0 09/16/2023 0159 Idm
+Nitrogen, Total KjeIdahl ND 0.5 mg/L 1 UL 09/28/2023 1026 sta EPA351.2 10/03/2023 2223. ler
+Nitrate Nitrogen 8.7 0.1 mg/L 1 09/15/2023 1507 Idm EPA300.0 09/16/2023 0159 Idm
+Nitrogen, Total as Nitrogen 8.7 0.5 mg/L 1 1 09/28/2023 1026 sta CaIc. 10/03/2023 2223 ler
+Nitrate t Nitrite as N 8.7 0.1 mg/L 1 09/15/2023 1507 Idm EPA300.0 09/16/2023 0159 Idm
+KjeIdahl Nitrogen ND 0.5 mg/L 1 UL 09/28/2023 1026 sta EPA351.2 10/03/2023 2223 ler
+Conductivity 382 1 umhos/em 1 09/22/2023 1941 amm SM 4500-H4B 09/23/2023 0207 amm
+SuIfate SuIfur 8.80 0.17 mg/L 1 b 09/15/2023 1507 Idm EPA300.0 09/16/2023 0159 Idm
+SoIids, Total DissoIved (TDS) 240 20 mg/L 1 09/19/2023 1120 ctl SM2540C 09/20/2023 1100 ctl
+CaIcium 21 1 mg/L 1 09/21/2023 1032 ejc EPA200.7 09/25/2023 1750 ac
+Magnesium ND 1 mg/L 1 Jl 09/21/2023 1032 ejc EPA200.7 09/25/2023 1750 ac
+Sodium 52 1 mg/L 1 09/21/2023 1032 ejc EPA200.7 09/25/2023 1750 ac
+DOF FIags Definition
+U_ Constituent resuIts were non-detect.
 1 The MS/MSD did not meet QC criteria.
-
-b_ The Blank was positive for constituent but less than the PQL
-
-J Reported value is estimated; detected at a concentration below the RL and above the laboratory MDL.
-
-ND=Non-Detected, RL=Reporting Level , Dil.=Dilution
-
-Section: Sample Results Page 2 of 7 Page 2 of 7
+b The BIank was positive for constituent but less than the PQL
+J Reported vaIue is estimated detected at a concentration beIow the RL and above the laboratory MDL.
+NDNon-Detected, RLReporting Level , Dil.DiIution
+Section SampIe ResuIts Page 2 of 7 Page 2 of 7
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
-853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
-CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 40
+
+EGL
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 October 4, 2023
-
-Lab No. : VI 2346275-002
-
-Sentry Ag Services Customer No. : 4019696
-Attn: Monique Baldivez Reference _: 3160
-P.O. Box 7750 Sampled On : September 14, 2023 at 08:20
-Visalia, CA 93290 Sampled By : Brandon
-
-wae Received On : September 14, 2023 at 15:14
-Description : P-7 Matrix : Ag Water
-Project : Parriera Gaspar
-
-Sample Results - Inorganic
-
-Constituent | Result | RL | Units | Note | Dil. | DQF| Sample Preparation Sample Analysis
-
-Dairy Analysis Date Time Who Method Date Time Who
-
-Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 Ul =: 09/28/2023 10:26 sta EPA 351.2 10/03/2023 22:35 ler
-Nitrate Nitrogen 1.0 0.4 mg/L 1 09/15/2023 13:00 lfs SM4500-NO3F 09/15/2023 15:49  Ifs
-Nitrogen, Total as Nitrogen 1 0.5 mg/L 1 1 09/28/2023 10:26 sta Calc. 10/03/2023 22:35 ler
-Nitrate + Nitrite as N 1.0 0.4 mg/L 1 09/15/2023 13:00 lfs SM4500-NO3F 09/15/2023 15:49  Ifs
-Kjeldahl Nitrogen ND 0.5 mg/L 1 Ul =: 09/28/2023 10:26 sta EPA 351.2 10/03/2023 22:35 ler
-Conductivity 206 1 umhos/cm 1 I 09/21/2023 11:31 krh SM4500-H+B 09/21/2023 15:55 krh
-Solids, Total Dissolved (TDS) 140 20 mg/L 1 09/19/2023 09:45 ctl SM 2540C 09/20/2023 11:00 ctl
-DOF Flags Definition:
-U_ Constituent results were non-detect.
+Lab No. VI 2346275-002
+Sentry Ag Services Customer No. 4019696
+Attn Monique BaIdivez Reference 3160
+P.O. Box 7750 SampIed On September 14, 2023 at 0820
+VisaIia, CA 93290 SampIed By Brandon
+D inti P-7 Received On September 14, 2023 at 1514
+escripuon aa Matrix Ag Water
+Project Parriera Gaspar
+SampIe ResuIts - Inorganic
+Constituent ResuIt RL Units Note Dil. DQF SampIe Preparation SampIe AnaIysis
+Dairy AnaIysis Date Time Who Method Date Time Who
+Nitrogen, Total KjeIdahl ND 0.5 mg/L 1 Ul 09/28/2023 1026 sta EPA 351.2 10/03/2023 2235 ler
+Nitrate Nitrogen 1.0 0.4 mg/L 1 09/15/2023 1300 Ifs SM4500-NO3F 09/15/2023 1549 Ifs
+Nitrogen, Total as Nitrogen 1 0.5 mg/L 1 1 09/28/2023 1026 sta CaIc. 10/03/2023 2235 ler
+Nitrate t Nitrite as N 1.0 0.4 mg/L 1 09/15/2023 1300 Ifs SM4500-NO3F 09/15/2023 1549 Ifs
+KjeIdahl Nitrogen ND 0.5 mg/L 1 Ul 09/28/2023 1026 sta EPA 351.2 10/03/2023 2235 ler
+Conductivity 206 1 umhos/cm 1 I 09/21/2023 1131 krh SM4500-H4B 09/21/2023 1555 krh
+SoIids, Total DissoIved (TDS) 140 20 mg/L 1 09/19/2023 0945 ctl SM 2540C 09/20/2023 11-00 etl
+DOF FIags Definition
+U Constituent resuIts were non-detect.
 1 The MS/MSD did not meet QC criteria.
-I The RPD for the laboratory duplicate exceeded laboratory criteria.
-ND=Non-Detected, RL=Reporting Level , Dil.=Dilution
-Section: Sample Results Page 3 of 7 Page 3 of 7
+I The RPD for the laboratory dupIicate exceeded laboratory criteria.
+ND-Non-Detected, RLReporting Level , Dil.DiIution
+Section SampIe ResuIts Page 3 of 7 Page 3 of 7
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
 853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
-CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 41
+
+EGL
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 October 4, 2023
-
-Lab No. : VI 2346275-003
-
-Sentry Ag Services Customer No. : 4019696
-Attn: Monique Baldivez Reference —: 3160
-P.O. Box 7750 Sampled On : September 14, 2023 at 08:30
-Visalia, CA 93290 Sampled By : Brandon
-
-wou Received On : September 14, 2023 at 15:14
-Description : P-4 Matrix : Ag Water
-Project : Parriera Gaspar
-
-Sample Results - Inorganic
-
-Constituent | Result | RL | Units | Note | Dil. | DQF| Sample Preparation Sample Analysis
-
-Dairy Analysis Date Time Who Method Date Time Who
-
-Nitrogen, Total Kjeldahl ND 0.5 mg/L 1 Ul =: 09/28/2023 10:26 sta EPA 351.2 10/03/2023 22:37 ler
-Nitrate Nitrogen 45 0.4 mg/L 1 09/15/2023 13:00 lfs SM4500-NO3 F 09/15/2023 15:52  Ifs
-Nitrogen, Total as Nitrogen 45 0.5 mg/L 1 1 09/28/2023 10:26 sta Calc. 10/03/2023 22:37 ler
-Nitrate + Nitrite as N 45 0.4 mg/L 1 09/15/2023 13:00 lfs SM4500-NO3 F 09/15/2023 15:52  Ifs
-Kjeldahl Nitrogen ND 0.5 mg/L 1 Ul =: 09/28/2023 10:26 sta EPA 351.2 10/03/2023 22:37 ler
-Conductivity 230 1 umhos/cm 1 I 09/21/2023 11:31 krh SM4500-H+B 09/21/2023 16:01 krh
-Solids, Total Dissolved (TDS) 140 20 mg/L 1 09/19/2023 09:45 ctl SM 2540C 09/20/2023 11:00 ctl
-DOF Flags Definition:
-U_ Constituent results were non-detect.
+Lab No. VI 2346275-003
+Sentry Ag Services Customer No. 4019696
+Attn Monique BaIdivez Reference 3160
+P.O. Box 7750 SampIed On September 14, 2023 at 0830
+VisaIia, CA 93290 SampIed By Brandon
+D inti pA Received On September 14, 2023 at 1514
+escripuon Matrix Ag Water
+Project Parriera Gaspar
+SampIe ResuIts - Inorganic
+Constituent ResuIt RL Units Note Dil. DQF SampIe Preparation SampIe AnaIysis
+Dairy AnaIysis Date Time Who Method Date Time Who
+Nitrogen, Total KjeIdahl ND 0.5 mg/L 1 Ul 09/28/2023 1026 sta EPA 351.2 10/03/2023 2237 ler
+Nitrate Nitrogen 4.5 0.4 mg/L 1 09/15/2023 1300 Ifs SM4500-NO3F 09/15/2023 1552 Ifs
+Nitrogen, Total as Nitrogen 4.5 0.5 mg/L 1 1 09/28/2023 1026 sta CaIc. 10/03/2023 2237 ler
+Nitrate t Nitrite as N 4.5 0.4 mg/L 1 09/15/2023 1300 Ifs SM4500-NO3F 09/15/2023 1552 Ifs
+KjeIdahl Nitrogen ND 0.5 mg/L 1 Ul 09/28/2023 1026 sta EPA 351.2 10/03/2023 2237 ler
+Conductivity 230 1 umhos/cm 1 I 09/21/2023 1131 krh SM4500-H4B 09/21/2023 1601 krh
+SoIids, Total DissoIved (TDS) 140 20 mg/L 1 09/19/2023 0945 ctl SM 2540C 09/20/2023 11-00 etl
+DOF FIags Definition
+U Constituent resuIts were non-detect.
 1 The MS/MSD did not meet QC criteria.
-I The RPD for the laboratory duplicate exceeded laboratory criteria.
-ND=Non-Detected, RL=Reporting Level , Dil.=Dilution
-Section: Sample Results Page 4 of 7 Page 4 of 7
-Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+I The RPD for the laboratory dupIicate exceeded laboratory criteria.
+ND-Non-Detected, RLReporting Level , Dil.DiIution
+Section SampIe ResuIts Page 4 of 7 Page 4 of 7
 853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
-CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 42
+
+PGL
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 October 4, 2023
-
-Sentry Ag Service Lab No. : VI 2346275
-
-Customer No. : 4019696
-
-Quality Control - Metals
-
-Constituent | Method Date/ID QC Data | DOO | Note |
-
-Metals
-Calcium 200.7 09/21/2023:210620EJC Blank mg/L ND <1
-LCS mg/L 12.00 93.6% 85-115
-MS mg/L 12.00 31.6% <% 406
-(SP 2315861-001) MSD mg/L 12.00 76.9% 75-125
-MSRPD mg/L 5.3% <20.0
-Magnesium 200.7 09/21/2023:210620EJC Blank mg/L ND <1
-LCS mg/L 12.00 96.4% 85-115
-MS mg/L 12.00 97.2% 75-125
-(SP 2315864-001) MSD mg/L 12.00 66.9% <1/4
-MSRPD mg/L 2.0% <20
-MS mg/L 12.00 73.2% 75-125 435
-(SP 2315861-001) MSD mg/L 12.00 89.1% 75-125
-MSRPD mg/L 4.1% <20
-Sodium 200.7 09/21/2023:210620EJC Blank mg/L ND <1
-LCS mg/L 12.00 91.3% 85-115
-MS mg/L 12.00 23.5% <% 406
-(SP 2315861-001) MSD mg/L 12.00 77.6% 75-125
-MSRPD mg/L 5.4% <20.0
+. Lab No. VI. 2346275
+Sentry Ag Service
+Customer No. _ 4019696
+QuaIity Control - MetaIs
+F constituent Method Datei type _ Units Conc. QC Data DOO Note
+MetaIs
+CaIcium 200.7 09/21/2023210620EJC BIank mg/L ND 1
+LCS mg/L 12.00 93.6 85-115
+MS mg/L 12.00 31.64 406
+(SP 2315861-001) MSD mg/L 12.00 76.9 75-125
+MSRPD mg/L. 5.34 20.0
+Magnesium 200.7 09/21/2023210620EJC BIank mg/L ND 1
+LCS mg/L 12.00 96.4 85-115
+MS mg/L 12.00 97.2 75-125
+(SP 2315864-001) MSD mg/L 12.00 66.9 1/4
+MSRPD mg/L 2.0 20
+MS mg/L 12.00 73.2 75-125 435
+(SP 2315861-001) MSD mg/L 12.00 89.1 75-125
+MSRPD mg/L 4.14 20
+Sodium 200.7 09/21/2023210620EJC BIank mg/L ND 1
+LCS mg/L 12.00 91.3 85-115
+MS mg/L 12.00 23.5 406
+(SP 2315861-001) MSD mg/L 12.00 77.6 75-125
+MSRPD mg/L 5.44 20.0
 Definition
-Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.
-DQO : Data Quality Objective - This is the criteria against which the quality control data is compared.
-LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.
-MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix
-affects analyte recovery.
-MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyted. The recoveries are an
-
-indication of how that sample matrix affects analyte recovery.
-MSRPD _ : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and
-
-analysis.
-ND : Non-detect - Result was below the DQO listed for the analyte.
-Explanation
-406 : Matrix Spike (MS) not within the Acceptance Range (AR) because of high analyte concentration in the sample. Data was accepted based
+BIank Method BIank - Prepared to verify that the preparation process is not contributing contamination to the sampIes.
+DQO Data QuaIity Objective - This is the criteria against which the quaIity control data is compared.
+LCS Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is not affecting anaIyte recovery.
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte. The recoveries are an indication of how that sampIe matrix
+affects anaIyte recovery.
+MSD Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with a known amount of anaIyted. The recoveries are an
+indication of how that sampIe matrix affects anaIyte recovery.
+MSRPD _ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for the preparation and
+anaIysis.
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
+ExpIanation
+406 . Matrix Spike (MS) not within the Acceptance Range (AR) because of high anaIyte concentration in the sampIe. Data was accepted based
 on the LCS or CCV recovery.
-435 : Sample matrix may be affecting this analyte. Data was accepted based on the LCS or CCV recovery.
+435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 
-Section: Quality Control Page 5 of 7 Page 5 of 7
+Section QuaIity Control Page 5 of 7 Page 5 of 7
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
 853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
-CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 43
+
 October 4, 2023
+. Lab No. VI. 2346275
 Sentry Ag Service
-
+Customer No. _ 4019696
+QuaIity Control - Wet Chem
+f constituent Method DateID___ Type Units Conc, QC Data DQO Note,
 Wet Chem
-% G
-
-Solids, Total Dissolved.
-
-Chloride
-
-Nitrate + Nitrite as N
-
-Nitrate Nitrogen
-
-Sulfate Sulfur
-
-Nitrogen, Total Kjeldahl
-
-2320B
-2320B
-2540CE
-
-300.0
-
-300.0
-
-300.0
-
-300.0
-
-351.2
-
-Lab No.
-
-Customer No.
-
-Quality Control - Wet Chem
-
-[Constituent | Method] _DateD__| Type | Units | Conc. | OC Data | DQO | Note |
-
-09/21/2023:210608KRH
-(SP 2315816-002)
-09/19/2023:210493CTL
-
-(SP 2315608-001)
-(SP 2315608-001)
-
-(CC 2383155-001)
-(CC 2383155-001)
-09/15/2023:210455LDM
-
-(VI 2346275-001)
-
-(STK2352450-001)
-
-09/15/2023:210455LDM
-
-(VI 2346275-001)
-
-(STK2352450-001)
-
-09/15/2023:210455LDM
-
-(VI 2346275-001)
-
-(STK2352450-001)
-
-09/15/2023:210455LDM
-
-(VI 2346275-001)
-
-(STK2352450-001)
-
-09/28/2023:210923STA
-
-(SP 2315701-001)
-
-(SP 2315701-003)
-
-Page 6 of 7
-
-ND
-Dup
-Blank
-ECS)
-Dup
-Dup
-Blank
-ECS)
-Dup
-Dup
-Blank
-ECS)
-MS
-MSD
-MSRPD
-MS
-MSD
-MSRPD
-Blank
-ECS)
-MS
-MSD
-MSRPD
-MS
-MSD
-MSRPD
-Blank
-ECS)
-MS
-MSD
-MSRPD
-MS
-MSD
-MSRPD
-Blank
-ECS)
-MS
-MSD
-MSRPD
-MS
-MSD
-MSRPD
-Blank
-ECS)
-MS
-MSD
-MSRPD
-MS
-MSD
-MSRPD
-
-umhos/cm
-umhos/cm
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-mg/L
-
-: VI 2346275
-: 4019696
-
-991.5
-
-991.5
-
-25.00
-50.00
-50.00
-10.00
-50.00
-50.00
-10.00
-
-20.00
-40.00
-40.00
-10.00
-40.00
-40.00
-10.00
-
-20.00
-40.00
-40.00
-10.00
-40.00
-40.00
-10.00
-
-50.00
-100.0
-100.0
-10.00
-100.0
-100.0
-10.00
-
-12.00
-12.00
-12.00
-
-12.00
-12.00
-
-110%
-0.8%
-ND
-99.7%
-0.8%
-0.7%
-ND
-101%
-0.4%
-2.89%
-ND
-102 %
-97.7%
-98.0 %
-0.2%
-100 %
-100 %
-0.1%
-ND
-102 %
-89.4%
-89.5 %
-0.03%
-101 %
-100 %
-0.3%
-ND
-102 %
-89.4%
-89.5 %
-0.03%
-101 %
-100 %
-0.3%
-1
-102 %
-98.3 %
-98.7 %
-0.3%
-98.1 %
-98.0 %
-0.02%
-ND
-91.0%
-89.3%
-89.7%
-0.4%
-89.9%
-92.8%
-3.2%
-
-<0.5
-90-110
-18-165
-18-165
-<7
-18-165
-18-165
-<7
-<0.5
-73-124
-90-110
-90-110
-<20
-90-110
-90-110
-<20
-
-Page 6 of 7
-
-435
-
-435
-435
-
-435
+E. C. 2320B 09/21/2023210608KRH ND umhos/cm 110 5 435
+2320B (SP 2315816-002) Dup umhos/cm 0.84 5
+SoIids, Total DissoIved 2540CE 09/19/2023210493CTL BIank mg/L ND 20
+LCS mg/L 991.5 99.7 90-110
+(SP 2315608-001) Dup mg/L 0.8 5
+(SP 2315608-001) Dup mg/L 0.7 5
+BIank mg/L ND 20
+LCS mg/L 991.5 101 90-110
+(CC 2383155-001) Dup mg/L 0.4 5
+(CC 2383155-001) Dup mg/L 2.89 5
+ChIoride 300.0 09/15/2023210455LDM BIank mg/L ND l
+LCS mg/L 25.00 102 90-110
+MS mg/L 50.00 97.7 67-117
+(VI 2346275-001) MSD mg/L 50.00 98.0 67-117
+MSRPD mg/L 10.00 0.2 s7
+MS mg/L 50.00 100 67-117
+(STK2352450-001) MSD mg/L 50.00 100 67-117
+MSRPD mg/L 10.00 0.1 s7
+Nitrate Nitrite as N 300.0 09/15/2023210455LDM BIank mg/L ND 0.4
+LCS mg/L 20.00 102 90-110
+MS mg/L 40.00 89.4 86-112
+(VI 2346275-001) MSD mg/L 40.00 89.5 86-112
+MSRPD mg/L 10.00 0.03 s7
+MS mg/L 40.00 101 86-112
+(STK2352450-001) MSD mg/L 40.00 100 86-112
+MSRPD mg/L 10.00 0.3 s7
+Nitrate Nitrogen 300.0 09/15/2023210455LDM BIank mg/L ND 0.4
+LCS mg/L 20.00 102 90-110
+MS mg/L 40.00 89.4 86-112
+(VI 2346275-001) MSD mg/L 40.00 89.5 86-112
+MSRPD mg/L 10.00 0.03 s7
+MS mg/L 40.00 101 86-112
+(STK2352450-001) MSD mg/L 40.00 100 86-112
+MSRPD mg/L 10.00 0.3 s7
+SuIfate SuIfur 300.0 09/15/2023210455LDM BIank mg/L 1 0.5
+LCS mg/L 50.00 102 90-110
+MS mg/L 100.0 98.3 18-165
+(VI 2346275-001) MSD mg/L 100.0 98.7 18-165
+MSRPD mg/L 10.00 0.3 s7
+MS mg/L 100.0 98.1 18-165
+(STK2352450-001) MSD mg/L 100.0 98.0 18-165
+MSRPD mg/L 10.00 0.02 s7
+Nitrogen, Total KjeIdahl 351.2 09/28/2023210923STA BIank mg/L ND 0.5
+LCS mg/L 12.00 91.0 73-124
+MS mg/L 12.00 89.3 90-110 435
+(SP 2315701-001) MSD mg/L 12.00 89.74 90-110 435
+MSRPD mg/L 0.4 20
+MS mg/L 12.00 89.9 90-110 435
+(SP 2315701-003) MSD mg/L 12.00 92.8 90-110
+MSRPD mg/L 3.2 20
+Page 6 of 7 Page 6 of 7
 
 PDF PAGE BREAK 44
+
 October 4, 2023
-
-Sentry Ag Service Lab No. : VI 2346275
-
-Customer No. : 4019696
-
-Quality Control - Wet Chem
-
-Feconstnuent So] Method So] Datei] type nits | conce | OC Data | DOO | Note |
-
-Nitrate + Nitrite as N 4500NO3F 09/15/2023:210406LFS Blanl mg/L <0.4
-LCS mg/L 11.22 05.2% 80-120
-MS mg/L 5.609 94.5% 66-125
-(CH 2377879-001) MSD mg/L 5.609 96.2% 66-125
-MSRPD mg/L 1.3% <30.4
-Nitrate Nitrogen 4500NO3F 09/15/2023:210406LFS Blanl mg/L ND <0.4
-LCS mg/L 11.22 95.2% 80-120
-MS mg/L 5.609 94.5% 66-125
-(CH 2377879-001) MSD mg/L 5.609 96.2% 66-125
-MSRPD mg/L 1.3% <30.4
+. Lab No. VI. 2346275
+Sentry Ag Service
+Customer No. _ 4019696
+QuaIity Control - Wet Chem
+P constituent Method _Datetb type units Conc. QC Data DQO Note
+Nitrate Nitrite as N 4500NO3F 09/15/2023210406LFS BIank mg/L ND 0.4
+LCS mg/L 11.22 95.2 80-120
+MS mg/L 5.609 94.5 66-125
+(CH 2377879-001) MSD mg/L 5.609 96.2 66-125
+MSRPD mg/L 1.3 30.4
+Nitrate Nitrogen 4500NO3F 09/15/2023210406LFS BIank mg/L ND 0.4
+LCS mg/L 11.22 95.2 80-120
+MS mg/L 5.609 94.5 66-125
+(CH 2377879-001) MSD mg/L 5.609 96.2 66-125
+MSRPD mg/L 1.3 30.4
 Definition
-Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.
-Dup : Duplicate Sample - A random sample with each batch is prepared and analyzed in duplicate. The relative percent difference is an
-indication of precision for the preparation and analysis.
-LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.
-MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix
-affects analyte recovery.
-MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyted. The recoveries are an
-
-indication of how that sample matrix affects analyte recovery.
-MSRPD__ : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and
-
-analysis.
-ND : Non-detect - Result was below the DQO listed for the analyte.
-Explanation
-435 : Sample matrix may be affecting this analyte. Data was accepted based on the LCS or CCV recovery.
-
+BIank Method BIank - Prepared to verify that the preparation process is not contributing contamination to the sampIes.
+Dup DupIicate SampIe - A random sampIe with each batch is prepared and anaIyzed in dupIicate. The reIative percent difference is an
+indication of precision for the preparation and anaIysis.
+LCS Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is not affecting anaIyte recovery.
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte. The recoveries are an indication of how that sampIe matrix
+affects anaIyte recovery.
+MSD Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with a known amount of anaIyted. The recoveries are an
+indication of how that sampIe matrix affects anaIyte recovery.
+MSRPD _ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for the preparation and
+anaIysis.
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
+ExpIanation
+435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 7 of 7 Page 7 of 7
 
 PDF PAGE BREAK 45
-Laboratory Analysis mos Order 3160
-264097
 
-SITE NAME: Lie LABORATORY: 224 GL 4-19696
+Sy Laboratory AnaIysis Work Order 3160
+, DEY 0975_ _ ,
+SITE NAME WIC (7d LABORATORY 27 GL 4-19696
 ee
-Billing: Sentry Ag Services, LLC Authorized Copy Release to:
-P.O. Box 7750, Visalia, CA 93290 labs@sentryagservices.com
-ANALYSIS TOBECOMPLETED .
-Irrigation/Ground Water “Y Stan Is) Process Waste Water (lagoon)
-Wi EC, NO;N (Dom) os Vv we L1 EC, NH,N, TKN, TP, TK, TOS (Quarterly)
-EC, NON, TDS, TN (Ir) L2 EC,NO;N, NH,N, TKN, TP, TK, TDS, pH (Annually)
-3. NHN (Ammonium) L3 Ca, Mg, Na, HCO3,CO;, SO,S, Cl (Biennially)
-W4. EC, NOSN, Ca, Mg, Na, HCO, COs, at Cl, a (Dom, GM) L4 Other:
-aio 3s NON, TDS, TN, Ca, Mg, Na, HCO, CO, SO,S, Cl (Inn, GM)
-NON, NO, (Dom ILRP, Annually) Manure
-W7 Ca, Mg, Na, K, HCO3, COs, SO,, Cl + Lab Filtering (GWM) M1 TN, TP, TK, %M (2/year)
-WS Othe; M2_ TN, TP, K, %M, Ca, Mg, Na, S Cl, ash (Biennially)
-M3 Other:
-Plant Tissue
-P14 TN, NON, PO,P, K (Mid Season - Wheat) Soil
-P2_ TN, P, K (Mid-season - Com) S14 SP%, pH, EC, Ca, Mg, Na, K, ESP, LP, B, NON,
-P3_ TN, TP, TK, Ash, %M (At Harvest) PO,P, K-AA, Zn, Mn, Fe, Cu, SO,S
-P4 TN, %M $2 S1+CEC, CaCO3, OM, C:N, TN
-PS % Moisture $3 NON, NH,N
-P6 NIR $4 Other:
-P7 Other:
-Sample ID Description Analysis Date/Time
+BiIling Sentry Ag Services, LLC Authorized Copy ReIease to
+P.O. Box 7750, VisaIia, CA 93290 labsGsentryagservices.com
+                                 ANALYSISTOBE COMPLETED - .
+Irigation/Ground Water (ELAR Stan eIs) LAN Process Waste Water (lagoon)
+Wi EC, NO3N (Dom) ) Lt EC, NH,N, TKN, TP, TK, TDS (QuarterIy)
+ EC, NO,N, TDS, TN (Isr) NN Ue L2 EC,NON, NH,N, TKN, TP, TK, TDS, pH (AnnuaIly)
+3. NHN (Ammonium) IN L3_ Ca, Mg, Na, HCO3,COs, SO,S, Cl (BienniaIly)
+W4. EC, NOJN, Ca, Mg, Na, HCO, COs, S0,S, Cl, TDS (Dom, GM) L4 Othe
+ae 3s NON, TOS, TN, Ca, Mg, Na, HCO, COs, S0,S, Ci (Ir, GM)
+NON, NO, (Dom ILRP, AnnuaIly) Manure
+W7 Ca, Mg, Na, K, HCO, COs, SO,, Cl Lab FiItering (GWM) M1 TN, TP, TK, 4M (2tyear)
+W8 Other. M2 TN, TP, K, 9M, Ca, Mg, Na, S Cl, ash (BienniaIly)
+M3 Othen
+PIant Tissue
+P1 TN, NON, PO,P, K (Mid Season - Wheat) SoIl
+P2_ TN, P, K (Mid-season - Com) St SP, pH, EC, Ca, Mg, Na, K, ESP, LP, B, NON,
+P3_ TN, TP, TK, Ash, 4M (At Harvest) PO,P, K-AA, Zn, Mn, Fe, Cu, SO,S
+Pa TN, M S2_ S11 4CEC, CaCO3, OM, C.N, TN
+PS Moisture S3_ NON, NH.N
+P6 NIR S4 Other.
+07 Others
+ _SASUSEONIY FIELD Tests
+SampIe ID Description AnaIysis Date/Time SampIed by NH,N pH Temp
+a A
+a SO OO
+es ee SE
+SC OO
+LS SD
+ee eS
+LS eS a
+SO) SR
+3 a eS SS A
+FieId Test of ammonium nitrogen may onIy be made by 8 trained technician. Postive test to be anaIyzed for ammonism itrogen by the laboratory.
 
-P
-ee a
-¢/ A oe SR QT 277;
+Al sampIes are to fotIow the proceduras noted in the SampIing & AnaIysis PIan of the NMP and the RWQCB specifications. Any sampIes taken outside of these procedures shaIl provide the procedures an the notes betow.
+AdditionaIly, any preservatives ate used in the coIlectons ot processing of sampes, pIease note beIow.
 
-* Field Test of ammonium nitrogen may only be made by a trained technician. Postive test to be analyzed for ammonium nitrogen by the laboratory.
-All samples are to follow the procedures noted in the Sampling & Analysis Pian of the NMP and the RWQCB specifications. ‘Any samples taken outside of these procedures shall provide the procedures on the notes below.
-Additionally, if any preservatives are used in the collections ot processing of sampes, please note below.
-
-NOTES:
-a
-nn
+NOTES
+eee
+OOO
 
 CHAIN OF CUSTODY RECORDING
+el a 2) re Ns 2s eee 0
+ILASORATORY USE ONLY .
 
-TABORATORY USE ONLY — °
-Logged In By: Total Samples: Laboratory No.:
-
-W523
-“YS
-
+GL OY 5 a3
+Ya WIS
 
 PDF PAGE BREAK 46
-~ FGI, Environmental Doc ID: 3D0900002_SOP_12.DOC
-* Revision Date: 10/09/14 Page 1 of 1
 
+_ FGI, Environmental Doc ID 3D0900002_SOP_12.DOC
+Revision Date 10/09/14 Page 1 of 1
 Inter-Laboratory Condition Upon Receipt (Attach to COC)
-Sample Receipt at! STK CC ) CH VI
-1. Number of ice chests/packages received: Shipping tracking #_@ 5} Ce
-
-2. Were samples received in a chilled condition? Temps | / / Ie Oc __} /
-Surface water SWTR bact samples: A sample that has a temperatixe upon receipt of >10° C, whether iced or not,
-should be flagged unless the time since sample collection has been less than two hours.
-
-3. Do the number of bottles received agree with the COC? &s) No WN/A
-4. Were samples received intact? (i.e. no broken bottles, leaks etc.) No
-5. VOAs checked for Headspace? Yes No
-6. Were sample custody seals intact? Yes No
-7.  frequired, was sample split for pH analysis? Yes No
-8. Were all analyses within holding times at time of receipt? (f€) No
-9. Verify sample date, time and sampler name No
-Sign and date the COC, place in a ziplock and p same ice chest as the sam: opi 5)
-Sample Receipt Review completed by Gites po “xO
-Sample Receipt at SP:
-1. Were samples received in a chilled condition? Temps: te / / / /
-Acceptable is above freezing to 6 C. If many packages are received at one time check for tests/H.T.’s/rushes/
-2. Shipping tracking numbers: SloD[ L609 $
+SampIe Receipt at. STK CC ) CH VI
+1. Number of ice chests/packages received Shipping tracking 4_C 5 C_
+2. Were sampIes received in a chiIled condition Temps / / LO cf /
+Surface water SWTR bact sampIes A sampIe that has a temperate upon receipt of 10 C, whether iced or not,
+shouId be fIagged unIess the time since sampIe coIlection has been less than two hours.
+3. Do the number of bottIes received agree with the COC7 &s) No WNA
+4. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) No
+5. VOAs checked for Headspace Yes No
+6. Were sampIe custody seaIs intact Yes No
+7. Mfrequired, was sampIe spIit for pH anaIysis Yes No
+8. Were aIl anaIyses within hoIding times at time of receipt No
+9. Verify sampIe date, time and sampIer name ces No
+Sign and date the COC, pIace in a zipIock and pyt4 same ice chest as the samy 7)
+SampIe Receipt Review compIeted by (nites po xO
+SampIe Receipt at SP
+1, Were sampIes received in a chiIled condition Temps le / / t /
+AcceptabIe is above freezing to 655 C. If many packages are received at one time check for tests/H.T. s/rushes/
+2. Shipping tracking numbers. SILodI L603
 OCS
-3. Do the number of bottles received agree with the COC? Yes No NA
-4. Were samples received intact? (i.e. no broken bottles, leaks etc.) Yes» No
-5. | Were sample custody seals intact? Yes No pA
-Sign and date the COC, obtain LIMS sample numbers, select methods/tests and print labe
-
-Sample Verification, Labeling and Distribution:
-
-1. Were all requested analyses understood and acceptable? , Yes No
-
-2. Did bottle labels correspond with the client’s ID’s? Yes No
-
-3. Were all bottles requiring sample preservation properly preserved? Yes No N/A FGL
-{Exception: Oil & Grease, VOA and CrVI verified in tab]
-
-4. VOAs checked for Headspace? Yes No NW
-
-5. Have rush or project due dates been checked and accepted? Yes No NSA
-
-6. Were all analyses within holding times at time of receipt? Yi No
-
-Attach labels to the containers and include a copy of the COC for lab delivery.
-Sample Receipt, Login and Verification completed by (initials): a 7
-
-Discrepancy Documentation:
-Any items above which are “No” or do not meet specifications (i.e. temps) must be resolved.
-
-1. Person Contacted: Phone Number:
-Initiated By: Date:
-Problem:
-Resolution:
-2. Person Contacted: ~ Tiere = Rennes
-Initiated By: (4019696)
-
-Problem: | Sentry Ag Service
-| V1 2346275
-
-(Please use the back of this sheet for additional « de 09/14/2023 18:04:58
-
-m
-Pease ic
+3. Do the number of bottIes received agree with the COC7 Yes No NA
+4. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) Yes- No .
+5. Were sampIe custody seaIs intact Yes No vA
+Sign and date the COC, obtain LIMS sampIe numbers, seIect methods/tests and print label5- .
+SampIe Verification, LabeIing and Distribution
+1. Were aIl requested anaIyses understood and acceptabIe , Yes No
+2. Did bottIe labeIs correspond with the cIients IDs Yes No
+3. Were aIl bottIes requiring sampIe preservation properIy preserved Yes No N/A FGL
+fException Oil & Grease, VOA and CrVI verified in tab)
+4. VOdAs checked for Headspace Yes No NW
+5. Have rush or project due dates been checked and accepted Yes No NA
+6. Were aIl anaIyses within hoIding times at time of receipt xs No ,
+Attach labeIs to the containers and incIude a copy of the COC for lab deIivery.
+SampIe Receipt, Login and Verification compIeted by (initiaIs). Mae.
+Discrepancy Documentation
+Any items above which are No or do not meet specifications (i.e. temps) must be resoIved.
+1. Person Contacted Phone Number. .
+Initiated By- Date
+ProbIem
+ResoIution
+2. Person Contacted me Titer RT eremn tere me
+Initiated By vA 1 Se ,
+ProbIem
+(PIease use the back of this sheet for additional c mde 09/14/2023 18-04-58
+contacts 1
+                       Uni
 
 PDF PAGE BREAK 47
+
+EN
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
-December 18, 2023
-
-Lab No. : VI 2348252
-Sentry Ag Services Customer No. _: 4019696
-Attn: Monique Baldivez Reference : 3460
-
+AnaIytical Chemists
+December 18, 2023 Lab No. VI 2348252
+. Customer No. 4019696
+Sentry Ag Services
+Attn Monique BaIdivez Reference 3460
 P.O. Box 7750
-Visalia, CA 93290
-
+VisaIia, CA 93290
 Laboratory Report
-Introduction: This report package contains a total of 4 pages divided into 3 sections:
-
-Case Narrative (1 page)
-Sample Results (1 page)
-Quality Control (2 pages)
-
-: An overview of the work performed at FGL.
-: Results for each sample submitted.
-: Supporting Quality Control (QC) results.
-
+Introduction This report package contains a total of 4 pages divided into 3 sections
+Case Narrative (1 page) An overview of the work performed at FGL.
+SampIe ResuIts (1 page) ResuIts for each sampIe submitted.
+QuaIity Control (2 pages) Supporting QuaIity Control (QC) resuIts.
 Case Narrative
-This Case Narrative pertains to the following samples:
-
-12/06/2023 12/06/2023 VI 2348252- 001
-
-Sampling and Receipt Information:
-
-The Sample was received in acceptable condition and within temperature requirements, unless noted on the Condition
-Upon Receipt (CUR) form. The Sample was received, prepared and analyzed within the method specified holding times.
-All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
-For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
-
-Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
-in the Quality Control Section of this report.
-
+This Case Narrative pertains to the foIlowing sampIes
+SampIe Description Date SampIed Date Received FGL Lab No. Matrix
+D2 12/06/2023 12/06/2023 VI 2348252-001 DW
+SampIing and Receipt Information
+The SampIe was received in acceptabIe condition and within temperature requirements, unIess noted on the Condition
+Upon Receipt (CUR) form. The SampIe was received, prepared and anaIyzed within the method specified hoIding times.
+AIl sampIes arrived on ice. AIl sampIes were checked for pH if acid or base preservation is required (except for VOAs).
+For detaiIs of sampIe receipt information, pIease see the associated Chain of Custody and Condition Upon Receipt Form.
+QuaIity Control AIl sampIes were prepared and anaIyzed according to estabIished quaIity control criteria. Any exceptions are noted
+in the QuaIity Control Section of this report.
 Test Summary
-
-EPA 200.7 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-EPA 300.0 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-SM 2540 C Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-SM 4500-H+B
-
-Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
-
-Certification: I certify that this data package is in compliance with ELAP standards, both technically and for
-completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
-package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
-report shall not be reproduced except in full, without the written approval of the laboratory.
-
-KD: JRD
-
-Digitally signed by Kelly A. Dunnahoo, B.S.
-Approved By Kelly A. Dunnahoo, B.S. @ Title: Laboratory Director
-Date: 2023-12-18
-
-Section: Case Narrative Page | of 4
-
-Page | of 4
+EPA 200.7 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+EPA 300.0 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 2540 C Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 4500-H4B Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+Certification I certify that this data package is in compIiance with ELAP standards, both technicaIly and for
+compIeteness, except for any conditions listed above and in the QC Section. ReIease of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the foIlowing eIectronic signature. This
+report shaIl not be reproduced except in fuIl, without the written approval of the laboratory.
+KD JRD
+Approved By KeIly A. Dunnahoo, B.S. & Pee one nee Punnahoo, 3.
+Date 2023-12-18
+Section Case Narrative Page I of 4 Page 1 of 4
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
-853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-CAELAP Certification No. 1573
-
-CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 48
+
+PGL
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 December 18, 2023
-
-Lab No. : VI 2348252-001
-
-Sentry Ag Services Customer No. : 4019696
-Attn: Monique Baldivez Reference _: 3460
-P.O. Box 7750 Sampled On : December 6, 2023 at 08:20
-Visalia, CA 93290 Sampled By : Brandon
-
-an Received On : December 6, 2023 at 12:47
-Description : D2 Matrix : Drinking Water
-Project : Parriera Gaspar
-
-Sample Results - Inorganic
-
-MCL/AL{_Dil._| DQF | Sample Preparation Sample Analysis
-
-Dairy Analysis Date Time Who Method Date Time
-Alkalinity (as CaCO3) 90 10 mg/L 12/09/2023 15:04 amm SM 4500-H+B 12/09/2023 21:24 amm
-
-Bicarbonate 110 10 mg/L 12/09/2023 15:04 amm SM 4500-H+B 12/09/2023 21:24 amm
-
-Carbonate ND 10 mg/L U 12/09/2023 15:04 amm SM 4500-H+B 12/09/2023 21:24 amm
-
-Hydroxide ND 10 mg/L U 12/09/2023 15:04 amm SM 4500-H+B 12/09/2023 21:24 amm
-Chloride 5) 1 mg/L 500? 12/07/2023 11:23 ldm EPA300.0 12/08/2023 06:06 Idm
-Nitrate Nitrogen 0.8 0.1 mg/L 10 12/07/2023 11:23 ldm EPA300.0 12/08/2023 06:06 Idm
-Conductivity 196 1 umhos/cm 1600? 12/09/2023 15:04 amm SM 4500-H+B 12/09/2023 21:24 amm
-Sulfate Sulfur 1.10 0.17 mg/L 12/07/2023 11:23 ldm EPA300.0 12/08/2023 06:06 Idm
-Solids, Total Dissolved (TDS) 110 20 mg/L 1000? 12/08/2023 09:50 ctl SM2540C 12/11/2023 11:30 ctl
-Calcium 8 1 mg/L 12/07/2023 07:15 ejc EPA200.7 12/08/2023 20:45 ac
-Magnesium ND 1 mg/L U 12/07/2023 07:15 ejc EPA200.7 12/08/2023 20:45 ac
-Potassium ND 1 mg/L U 12/07/2023 07:15 ejc EPA200.7 12/08/2023 20:45 ac
-Sodium Bo) 1 mg/L 12/07/2023 07:15 ejc EPA200.7 12/08/2023 20:45 ac
-DOF Flags Definition:
-
-U_ Constituent results were non-detect.
-
-ND=Non-Detected, RL=Reporting Level , Dil.=Dilution
-MCL = Maximum Contamination Level. 2 - Secondary Standard. 3 - CDPH Notification Level. AL = Regulatory Action Level.
-
-Section: Sample Results Page 2 of 4 Page 2 of 4
+Lab No. VI 2348252-001
+Sentry Ag Services Customer No. 4019696
+Attn Monique BaIdivez Reference 3460
+P.O. Box 7750 SampIed On December 6, 2023 at 0820
+VisaIia, CA 93290 SampIed By Brandon
+D inti D2 Received On December 6, 2023 at 1247
+escrip Jon . Matrix Drinking Water
+Project Parriera Gaspar
+SampIe ResuIts - Inorganic
+) Constituent ResuIt, ORL Units MCL/AL Dil. DOF SampIe Preparation SampIe AnaIysis
+Dairy AnaIysis Date Time Who Method Date Time Who
+AIkaIinity (as CaCO3) 90 10 mg/L 1 12/09/2023 1504 amm SM 4500-H4B 12/09/2023 2124 amm
+Bicarbonate 110 10 mg/L 1 12/09/2023 1504 amm SM 4500-H4B 12/09/2023 2124 amm
+Carbonate ND 10 mg/L 1 U 12/09/2023 1504 amm SM 4500-H4B 12/09/2023 2124 amm
+Hydroxide ND 10 mg/L 1 U 12/09/2023 1504 amm SM 4500-H4B 12/09/2023 2124 amm
+ChIoride 3 1 mg/L 5007 1 12/07/2023 1123 Idm EPA300.0 12/08/2023 0606 Idm
+Nitrate Nitrogen 0.8 0.1 mg/L 10 1 12/07/2023 1123 Idm EPA300.0 12/08/2023 0606 Idm
+Conductivity 196 1 umhos/cem 1600 1 12/09/2023 1504 amm SM 4500-H4B 12/09/2023 2124 amm
+SuIfate SuIfur 1.10 0.17 mg/L 1 12/07/2023 1123 Idm EPA300.0 12/08/2023 0606 Idm
+SoIids, Total DissoIved (TDS) 110 20 mg/L 10007 1 12/08/2023 0950 ctl SM2540C 12/11/2023 1130 ctl
+CaIcium 8 1 mg/L 1 12/07/2023 0715 ejc EPA200.7 12/08/2023 2045 ac
+Magnesium ND 1 mg/L 1 U 12/07/2023 0715 ejc EPA200.7 12/08/2023 2045 ac
+Potassium ND 1 mg/L 1 U 12/07/2023 0715 ejc EPA200.7 12/08/2023 2045 ac
+Sodium 35 1 mg/L 1 12/07/2023 0715 ejc EPA200.7 12/08/2023 2045 ac
+DOF FIags Definition
+U_ Constituent resuIts were non-detect.
+ND-Non-Detected, RLReporting Level , Dil.DiIution
+MCL Maximum Contamination Level. 2 - Secondary Standard. 3 - CDPH Notification Level. AL - ReguIatory Action Level.
+Section SampIe ResuIts Page 2 of 4 Page 2 of 4
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
-853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 49
+
+FGL
 ENVIRONMENTAL AGRICULTURAL
-
-Analytical Chemists
-
+AnaIytical Chemists
 December 18, 2023
-
-Sentry Ag Service Lab No. : VI 2348252
-
-Customer No. : 4019696
-
-Quality Control - Metals
-
-Constituent | Method Date/ID QC Data | DOO | Note |
-
-Metals
-Calcium 200.7 12/07/2023:213815EJC Blank mg/L ND <1
-LCS mg/L 12.00 91.5% 85-115
-MS mg/L 12.00 72.6% <% 406
-(CC 2384296-003) MSD mg/L 12.00 115% 75-125
-MSRPD mg/L 7.1% <20.0
-MS mg/L 12.00 126% <% 406
-(CC 2384274-002) MSD mg/L 12.00 108% 75-125
-MSRPD mg/L 3.3% <20.0
-Magnesium 200.7 12/07/2023:213815EJC Blank mg/L ND <1
-LCS mg/L 12.00 93.4% 85-115
-MS mg/L 12.00 76.9% 75-125
-(CC 2384296-003) MSD mg/L 12.00 114% 75-125
-MSRPD mg/L 6.6% <20
-MS mg/L 12.00 123% 75-125
-(CC 2384274-002) MSD mg/L 12.00 105% 75-125
-MSRPD mg/L 3.7% <20
-Potassium 200.7 12/07/2023:213815EJC Blank mg/L ND <1
-LCS mg/L 12.00 92.2% 85-115
-MS mg/L 12.00 95.5% 75-125
-(CC 2384296-003) MSD mg/L 12.00 99.7% 75-125
-MSRPD mg/L 3.8% <20.0
-MS mg/L 12.00 110% 75-125
-(CC 2384274-002) MSD mg/L 12.00 99.0% 75-125
-MSRPD mg/L 44% <20.0
-Sodium 200.7 12/07/2023:213815EJC Blank mg/L ND <1
-LCS mg/L 12.00 89.3% 85-115
-MS mg/L 12.00 82.9% 75-125
-(CC 2384296-003) MSD mg/L 12.00 108% 75-125
-MSRPD mg/L 4.3% <20.0
-MS mg/L 12.00 129% <% 406
-(CC 2384274-002) MSD mg/L 12.00 111% 75-125
-MSRPD mg/L 2.1% <20.0
+. Lab No. VI. 2348252
+Sentry Ag Service
+Customer No. _ 4019696
+QuaIity Control - MetaIs
+ constituent Method Datei type _ Units Conc. QC Data DOO Note
+MetaIs
+CaIcium 200.7 12/07/2023213815EJC BIank mg/L ND 1
+LCS mg/L 12.00 91.5 85-115
+MS mg/L 12.00 72.6 406
+(CC 2384296-003) MSD mg/L 12.00 115 75-125
+MSRPD mg/L 71G 20.0
+MS mg/L 12.00 126 406
+(CC 2384274-002) MSD mg/L 12.00 108 75-125
+MSRPD mg/L 3.34 20.0
+Magnesium 200.7 12/07/2023213815EJC BIank mg/L ND 1
+LCS mg/L 12.00 93.4 85-115
+MS mg/L 12.00 76.9 75-125
+(CC 2384296-003) MSD mg/L 12.00 114 75-125
+MSRPD mg/L. 6.6 20
+MS mg/L 12.00 123 75-125
+(CC 2384274-002) MSD mg/L 12.00 105 75-125
+MSRPD mg/L 3.7 20
+Potassium. 200.7 12/07/2023213815EJC BIank mg/L ND 1
+LCS mg/L 12.00 92.2 85-115
+MS mg/L 12.00 95.5 75-125
+(CC 2384296-003) MSD mg/L 12.00 99.7 75-125
+MSRPD mg/L 3.84 20.0
+MS mg/L 12.00 110 75-125
+(CC 2384274-002) MSD mg/L 12.00 99.0 75-125
+MSRPD mg/L 44 20.0
+Sodium 200.7 12/07/2023213815EJC BIank mg/L ND 1
+LCS mg/L 12.00 89.3 85-115
+MS mg/L 12.00 82.9 75-125
+(CC 2384296-003) MSD mg/L 12.00 108 75-125
+MSRPD mg/L 4.3M 20.0
+MS mg/L 12.00 129 406
+(CC 2384274-002) MSD mg/L 12.00 111 75-125
+MSRPD mg/L 2.14 20.0
 Definition
-Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.
-DQO : Data Quality Objective - This is the criteria against which the quality control data is compared.
-LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.
-MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix
-affects analyte recovery.
-MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyted. The recoveries are an
-
-indication of how that sample matrix affects analyte recovery.
-MSRPD _ : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and
-
-analysis.
-ND : Non-detect - Result was below the DQO listed for the analyte.
-Explanation
-406 : Matrix Spike (MS) not within the Acceptance Range (AR) because of high analyte concentration in the sample. Data was accepted based
-
+BIank Method BIank - Prepared to verify that the preparation process is not contributing contamination to the sampIes.
+DQO Data QuaIity Objective - This is the criteria against which the quaIity control data is compared.
+LCS Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is not affecting anaIyte recovery.
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte. The recoveries are an indication of how that sampIe matrix
+affects anaIyte recovery.
+MSD Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with a known amount of anaIyted. The recoveries are an
+indication of how that sampIe matrix affects anaIyte recovery.
+MSRPD _ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for the preparation and
+anaIysis.
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
+ExpIanation
+406 Matrix Spike (MS) not within the Acceptance Range (AR) because of high anaIyte concentration in the sampIe. Data was accepted based
 on the LCS or CCV recovery.
 
-Section: Quality Control Page 3 of 4 Page 3 of 4
+Section QuaIity Control Page 3 of 4 Page 3 of 4
 Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
 853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, SuiteD 9415 W. Goshen Avenue
-Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 Visalia, CA 93291
-TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
-Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
-
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 50
+
 December 18, 2023
-
-Sentry Ag Service Lab No. : VI 2348252
-
-Customer No. : 4019696
-
-Quality Control - Wet Chem
-
-Constituent Method Date/ID QC Data | DQO [Note]
-
+. Lab No. VI. 2348252
+Sentry Ag Service
+Customer No. _ 4019696
+QuaIity Control - Wet Chem
+ constituent. Method DateiD___Type Units Conc QC Data DQONote
 Wet Chem
-Alkalinity (as CaCO3) 2320B 12/09/2023:213884AMM ND mg/L 0.4% 10 406
-Bicarbonate 2320B (VI 2348309-001) Dup mg/L 0.4% 10
-% G 2320B (VI 2348309-001) Dup umhos/cm 0.2% 5
-Solids, Total Dissolved. 2540CE 12/08/2023:213823CTL Blank mg/L ND <20
-LCS mg/L 991.5 99.5% 90-110
-(SP 2320140-001) Dup mg/L 0.6% 5
-(SP 2320140-001) Dup mg/L 0.2% 5
-Chloride 300.0 12/07/2023:213946LDM Blank mg/L ND <1
-LCS mg/L = 25.00 98.5% 90-110
-MS mg/L 50.00 02% 67-117
-(CH 2373985-001) MSD mg/L 50.00 02% 67-117
-MSRPD mg/L 0.0% <7
-MS mg/L 50.00 00% 67-117
-(VI 2348252-001) MSD mg/L 50.00 01% 67-117
-MSRPD mg/L 0.8% <7
-Nitrate Nitrogen 300.0 12/07/2023:213946LDM Blank mg/L ND <0.4
-LCS mg/L 20.00 96.6% 90-110
-MS mg/L 40.00 01% 86-112
-(CH 2373985-001) MSD mg/L 40.00 01% 86-112
-MSRPD mg/L 0.1% <7
-MS mg/L 40.00 01% 86-112
-(VI 2348252-001) MSD mg/L 40.00 02% 86-112
-MSRPD mg/L 0.9% <7
-Sulfate Sulfur 300.0 12/07/2023:213946LDM Blank mg/L ND <0.5
-LCS mg/L 50.00 99.8% 90-110
-MS mg/L 100.0 03% 18-165
-(CH 2373985-001) MSD mg/L 100.0 03% 18-165
-MSRPD mg/L 0.1% <7
-MS mg/L 100.0 02% 18-165
-(VI 2348252-001) MSD mg/L 100.0 03% 18-165
-MSRPD- mg/L 0% <7
+AIkaIinity (as CaCO3) 2320B 12/09/2023213884AMM ND mg/L 0.4 10 406
+Bicarbonate 2320B (VI 2348309-001) Dup mg/L 0.4 10
+E.C. 2320B (VI 2348309-001) Dup umhos/cm 0.2 5
+SoIids, Total DissoIved. 2540CE 12/08/2023213823CTL BIank mg/L ND 20
+LCS mg/L 991.5 99.5 90-110
+(SP 2320140-001) Dup mg/L 0.6 5
+(SP 2320140-001) Dup mg/L 0.2 5
+ChIoride 300.0 12/07/2023213946LDM BIank mg/L ND 1
+LCS mg/L 25.00 98.5 90-110
+MS mg/L 50.00 102 67-117
+(CH 2373985-001) MSD mg/L 50.00 102 67-117
+MSRPD- mg/L 0.0 s7
+MS mg/L 50.00 100 67-117
+(VI 2348252-001) MSD mg/L 50.00 101 67-117
+MSRPD- mg/L 0.8 s7
+Nitrate Nitrogen 300.0 12/07/2023213946LDM BIank mg/L ND 0.4
+LCS mg/L 20.00 96.6 90-110
+MS mg/L 40.00 101 86-112
+(CH 2373985-001) MSD mg/L 40.00 101 86-112
+MSRPD- mg/L 0.1 s7
+MS mg/L 40.00 101 86-112
+(VI 2348252-001) MSD mg/L 40.00 102 86-112
+MSRPD- mg/L 0.9 s7
+SuIfate SuIfur 300.0 12/07/2023213946LDM BIank mg/L ND 0.5
+LCS mg/L 50.00 99.8 90-110
+MS mg/L 100.0 103 18-165
+(CH 2373985-001) MSD mg/L 100.0 103 18-165
+MSRPD- mg/L 0.1 s7
+MS mg/L 100.0 102 18-165
+(VI 2348252-001) MSD mg/L 100.0 103 18-165
+MSRPD- mg/L 1.0 s7
 Definition
-Blank : Method Blank - Prepared to verify that the preparation process is not contributing contamination to the samples.
-Dup : Duplicate Sample - A random sample with each batch is prepared and analyzed in duplicate. The relative percent difference is an
-indication of precision for the preparation and analysis.
-LCS : Laboratory Control Standard/Sample - Prepared to verify that the preparation process is not affecting analyte recovery.
-MS : Matrix Spikes - A random sample is spiked with a known amount of analyte. The recoveries are an indication of how that sample matrix
-affects analyte recovery.
-MSD : Matrix Spike Duplicate of MS/MSD pair - A random sample duplicate is spiked with a known amount of analyted. The recoveries are an
-
-indication of how that sample matrix affects analyte recovery.
-MSRPD _ : MS/MSD Relative Percent Difference (RPD) - The MS relative percent difference is an indication of precision for the preparation and
-
-analysis.
-ND : Non-detect - Result was below the DQO listed for the analyte.
-Explanation
-406 : Matrix Spike (MS) not within the Acceptance Range (AR) because of high analyte concentration in the sample. Data was accepted based
-
+BIank Method BIank - Prepared to verify that the preparation process is not contributing contamination to the sampIes.
+Dup DupIicate SampIe - A random sampIe with each batch is prepared and anaIyzed in dupIicate. The reIative percent difference is an
+indication of precision for the preparation and anaIysis.
+LCS Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is not affecting anaIyte recovery.
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte. The recoveries are an indication of how that sampIe matrix
+affects anaIyte recovery.
+MSD Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with a known amount of anaIyted. The recoveries are an
+indication of how that sampIe matrix affects anaIyte recovery.
+MSRPD _ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for the preparation and
+anaIysis.
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
+ExpIanation
+406 Matrix Spike (MS) not within the Acceptance Range (AR) because of high anaIyte concentration in the sampIe. Data was accepted based
 on the LCS or CCV recovery.
-
 Page 4 of 4 Page 4 of 4
 
 PDF PAGE BREAK 51
-Laboratory Analysis Work Order 3460
 
-ZANG2ZS2- :
-SITENAME: __ Vanpy'ern Corfe LABORATORY:
-
-Billing: Sentry Ag Services, LLC Authorized Copy Release to:
-P.O. Box 7750, Visalia, CA 93290 labs@sentryagservices.com
-
-: ANALYSIS TO BE COMPLETED
-
+  Laboratory AnaIysis Work Order 3460
+S ry anaIy 2BN6282- .
+SITE NAME P. artrera ( oe Yor LABORATORY VT 4-19696
+__ a
+BiIling Sentry Ag Services, LLC Authorized Copy ReIease to
+P.O. Box 7750, VisaIia, CA 93290 labssentryagservices.com
+           ANALYSIS TO BE COMPLETED
 Irrigation/Ground Water (ELAP Standards) Process Waste Water (lagoon)
-W1_ EC, NO;N (Dom) L1 EC, NHN, TKN, TP, TK, TDS (Quarterly)
-W2 EC, NON, TDS, TN (Ir) L2 EC,NO;N, NH,N, TKN, TP, TK, TDS, pH (Annually)
-W3_NH,-N (Ammonium) L3_ Ca, Mg, Na, HCO,,CO;, S0,S, Cl (Biennially)
-(= NON, Ca, Mg, Na, HCO, COs, SO,S, Cl, TDS (Dom, GM) AD CRE L4 Other:
-5 EC, NON, TDS, TN, Ca, Mg, Na, HCO;, CO3, SO,S, Cl(in,GM)
-W6 NO,N, NO, (Dom ILRP, Annually) ; Tu Manure
-W7 Ca, Mg, Na, K, HCO;, COs, SO,, Cl + Lab Filtering (GWM) | M1 TN, TP, TK, %M (2/year) ;
-W8 Othe; M2 TN, TP, K, %M, Ca, Mg, Na, S Cl, ash (Biennially)
-M3 Other:
-Plant Tissue ;
-P14 TN, NO3N, PO,P, K (Mid Season - Wheat) Soil
-P2_ TN, P, K (Mid-season - Com) S1 SP%, pH, EC, Ca, Mg, Na, K, ESP, LP, B, NON,
-P3_ TN, TP, TK, Ash, %M (At Harvest) PO,P, K-AA, Zn, Mn, Fe, Cu, SO,S
-P4 TN, %M $2 S1+CEC, CaCO3, OM, C:N, TN
-P5 % Moisture $3 NON, NHN
-P6 NIR S4 Other:
-P7 Other.
-
-Sample ID Description Analysis Date/Time
-
-* Field Test of ammonium nitrogen may only be made by a trained technician, Positve test to be analyzed for ammonium nitrogen by the laboratory.
-‘All samples are to folow the procedures noted in the Sampling & Analysis Plan of the NMP and the RWOCB specifications. Any samples taken outside of these procedures shall provide the procedures on the notes below.
-Additionally, if any preservatives are used in the collections or processing of sampes. please note below.
-
-NOTES:
-
+W1_ EC, NON (Dom) Lt EC, NHWN, TKN, TP, TK, TOS (QuarterIy)
+W2_ EC, NON, TDS, TN (tr) L2_ EC, NON, NH.N, TKN, TP, TK, TDS, pH (AnnuaIly)
+W3_NH,-N (Ammonium) L3_ Ca, Mg, Na, HCO,,COs, S0,S, Cl (BienniaIly)
+Ce NON, Ca, Mg, Na, HCO,, COs, SO,S, Cl, TDS (Dom, GM) AB CRE L4 Othes
+5 EC, NON, TDS, TN, Ca, Mg, Na, HCOs, COs, S0,8, Cl(Im, GM) &
+W6 NON, NO, (Dom ILRP, AnnuaIly) Manure
+W7 Ca, Mg, Na, K, HCOs, CO,, S0,, Cl Lab FiItering (GWM) TVkdD M1 TN, TP, TK, M (2iyear)
+W8 Other M2 TN, TP, K, 4M, Ca, Mg, Na, S Cl, ash (BienniaIly)
+M3 Other.
+PIant Tissue
+P41 TN, NON, PO,P, K (Mid Season - Wheat) Soil
+P2_ TN, P, K (Mid-season - Com) S1 SP, pH, EC, Ca, Mg, Na, K, ESP, LP, B, NO3N,
+P3_ TN, TP, TK, Ash, SM (At Harvest) PO,P, K-AA, Zn, Mn, Fe, Cu, SO,S
+P4 TN, 4M S2_14CEC, CaCO3, OM, CN, TN
+PS Moisture S3_ NON, NHN
+P6& NIR S4 Other.
+P7 Othen
+SampIe ID Description AnaIysis Date/Time SampIed by NH,N pH Temp
+5 re en OS CN
+a QO OO
+cn ON GO OS
+eS OR SS
+A (OO OO
+a OO
+a eS I
+YO OC
+CL) a cS SS OS
+i) a eS
+tT Tf
+FieId Test of ammonium nitrogen may onIy be made by a tained technician. Positve test to be anstyzed for arnmonium nitrogen by the laboratory.
+AIl sampIes are to foIlow the procedures noted in the Sampting & AnaIysis Ptan of the NMP and the RWOCB specifications. Any sampIes taken outside of these procedures shaIl provide the procedures on the notes beIow.
+AdditionaIly, i any preservatives are used in the coIlections er processing of sampes. pIease note beIow.
+NOTES.
+ee
+eee eee
 CHAIN OF CUSTODY RECORDING
-
-|__Company | __Received Date a Time | Relinquished Date & Time _
-a Ita (77
-
-[LABORATORY USE ONLY
-Logged In By: Total Samples:
+NT SC 7 (SR ay
+LABORATORY USE ONLY i
 
 PDF PAGE BREAK 52
-FGL Environmental Doc ID: 3D0900002_SOP_14.DOC
-Revision Date: 10/10/23 Page 1 of 1
 
-Inter-Laboratory Condition Upon Receipt (Attach to COC)
-Sample Receipt at: ce CH STK
-1. Number of ice chests/packages received: _\ Shipping tracking #(s): fac
-
-2. Temp IR Gun ID #: TYNOT
-
-3. | Were samples received on ice? No _ Temps: mAY/ JL / / /
-Surface water SWTR bact samples: A sample that has a temperature upon receipt of >10° C, whether iced or not,
-should be flagged unless the time since sample collection has been less than two hours.
-
-4. Do the number of bottles received agree with the COC? G2, No N/A
-
-5. Were samples received intact? (i.e. no broken bottles, leaks etc.) No
-
-6. VOAs checked for Headspace? Yes No G2
-
-7. — Were all analyses within holding times at time of receipt? % No
-
-8. Verify sample date, time and sampler name No
-
-Sign and date the COC, place in a ziplock and put in the same ice chest as the samples.
-Sample Receipt Review completed by (initials):
-
-Sample Receipt at SP:
-1.
-
-Number of ice chests/packages received: GG. Shipping trackin [PIOSALA Slasius 00s
-TUOSVAh, PVs a0) SW 44, ae
-
-2. TempIRGunIp#: Ws oe
-(ves) Wo Temps: tr {y_ Ly Li, (
-ry Pi
-
-3. | Were samples received on ice?
-Acceptable is above freezing to 6°C. I ackages are received at one time check for tests/H.T.’s/rushes/
-
-4. Do the number of bottles received agree with the COC? No N/A
-5. | Were samples received intact? (i.e. no broken bottles, leaks etc.) No
-Sign and date the COC, obtain LIMS sample numbers, select methods/tests and print labels.
-
-Sample Verification, Labeling and Distribution:
-
-1. Were all requested analyses understood and acceptable? No
-
-2. Did bottle labels correspond with the client’s ID’s? No
-
-3. Were all bottles requiring sample preservation properly preserved? No N/A FGL
-(Exception: Oil & Grease, VOA and CrVI verified in lab]
-
-4. VOAs checked for Headspace? Yes No
-
-5. Have rush or project due dates been checked and accepted? Yes_ No iA
-
-6. Were all analyses within holding times at time of receipt? eS No
-
-Attach labels to the containers and include a copy of the COC for lab delivery.
-Sample Receipt, Login and Verification completed by (initials):
-
-Discrepancy Documentation:
-Any items above which are “No” or do not meet specifications (i.e. temps) must be resolved.
-1. Person Contacted: Phone Number:
-
-Initiated By: Date:
-
-Problem:
-
-Resolution:
-
-2. Person Contacted: Phone Number:
-
-Initiated By:  t—<‘—s—s
-Problem: (4019696)
-
-Resolution: Sentry Ay Service
-
-W225 ;
-
-(Please use the back of this sheet for additional comments iv 12/07/2023 08:37:40
-
-LON
-
+FGL Environmental Doc ID 3D0900002_SOP_14.DOC
+Revision Date 10/10/23 Page 1 of 1
+Inter-Laboratory Condition Upon Receipt (Attach to COC) .
+SampIe Receipt at ce CH STK ras)
+1. Number of ice chests/packages received ( Shipping tracking 4(s). aK .
+2. Temp IR Gun ID 4 TYNOT
+3. Were sampIes received on ice No Temps_2. Z L / / /
+Surface water SWTR bact sampIes A sampIe that has a temperature upon receipt of -10 C, whether iced or not,
+shouId be fIagged unIess the time since sampIe coIlection has been less than two hours.
+4. Do the number of bottIes received agree with the COC7 Go, No WNA
+5. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) No
+6. VOAs checked for Headspace Yes No G2
+7. Were aIl anaIyses within hoIding times at time of receipt No
+8. Verify sampIe date, time and sampIer name No
+Sign and date the COC, pIace in a zipIock and put in the same ice chest as the sampIes.
+SampIe Receipt Review compIeted by (initiaIs) Ade
+SampIe Receipt at SP
+1. Number of ice chests/packages received (y Shipping asking Ji 4, SIaysieue O08
+Wil SHOR 1 SUSIE SWb Stree
+2. Temp IR Gun ID 4. (
+3. Were sampIes received on ice No Temps / / ( / i_ (
+AcceptabIe is above freezing to 6C. Iftrafy packages are received at one time check for tests/H.T.s/rushes/
+4. Do the number of bottIes received agree with the COC2 No N/A
+5. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) No
+Sign and date the COC, obtain LIMS sampIe numbers, seIect methods/tests and print labeIs.
+SampIe Verification, LabeIing and Distribution
+1. Were aIl requested anaIyses understood and acceptabIe No
+2. Did bottIe labeIs correspond with the cIients IDs No
+3. Were aIl bottIes requiring sampIe preservation properIy preserved7 No N/A FGL
+(Exception Oi & Grease, VOA and CrVI verified in lab)
+4. VOAs checked for Headspace Yes No
+5. Have rush or project due dates been checked and accepted Yes _ No
+6. Were aIl anaIyses within hoIding times at time of receipt ae No
+Attach labeIs to the containers and incIude a copy of the COC for lab deIivery.
+SampIe Receipt, Login and Verification compIeted by (initiaIs). t he
+Discrepancy Documentation
+Any items above which are No or do not meet specifications (i.e. temps) must be resoIved.
+1. Person Contacted Phone Number.
+Initiated By Date
+ProbIem
+ResoIution
+2. Person Contacted __. Phone Number- Le
+pnitiated Bys__ (4019696)
+ResoIution Sentry Ay Service
+(PIease use the back of this sheet for additional comments iv ace /
+nn

@@ -2746,5 +2746,140 @@
     "geocoder": "ArcGIS",
     "address": "California",
     "county": null
+  },
+  "16508 S CIovis AVE SeIma Kings 93662": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:34.114626"
+  },
+  "2792 W Mt. Whitney AVE RiverdaIe Fresno 93656": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:38.648435"
+  },
+  "17800 4th AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:46.307330"
+  },
+  "4356 Kansas AVE Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:50.811692"
+  },
+  "7755 Fargo Ave. Hanford Kings 93230": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:55.427161"
+  },
+  "5593 Avenue 176 TuIare TuIare 93274": {
+    "lat": null,
+    "lng": null,
+    "error": "All address formats failed",
+    "timestamp": "2025-05-26T15:21:59.932935"
+  },
+  "16800 Rd 96 Tipton TuIare 93272": {
+    "lat": 36.092220012141,
+    "lng": -119.354005995837,
+    "timestamp": "2025-05-26T15:22:53.821256",
+    "successful_format": "16800 Rd 96 Tipton, TuIare, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "16800 Road 96, Tipton, California, 93272",
+    "county": null
+  },
+  "6775 232 AVE Tulare Tulare 93274": {
+    "lat": 36.207687014811,
+    "lng": -119.426317009808,
+    "timestamp": "2025-05-26T15:22:54.978381",
+    "successful_format": "6775 232 AVE Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "6775 Avenue 232, Tulare, California, 93274",
+    "county": null
+  },
+  "5041 Ave. 192 Tulare Tulare 93274": {
+    "lat": 36.137263982621,
+    "lng": -119.459252021955,
+    "timestamp": "2025-05-26T15:22:56.156724",
+    "successful_format": "5041 Ave. 192 Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "5041 Avenue 192, Tulare, California, 93274",
+    "county": null
+  },
+  "19493 Road 30 Tulare Tulare 93274": {
+    "lat": 36.142596004597,
+    "lng": -119.505171021216,
+    "timestamp": "2025-05-26T15:22:58.367494",
+    "successful_format": "19493 Road 30 Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "19493 Road 30, Tulare, California, 93274",
+    "county": null
+  },
+  "9295 Avenue 88 PixIey TuIare 93256": {
+    "lat": 35.94614799877,
+    "lng": -119.36236996174,
+    "timestamp": "2025-05-26T15:22:59.503082",
+    "successful_format": "9295 Avenue 88 PixIey, TuIare, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "9295 Avenue 88, Pixley, California, 93256",
+    "county": null
+  },
+  "2608 Avenue 199 Tulare Tulare 93274": {
+    "lat": 36.150253490416,
+    "lng": -119.513759039826,
+    "timestamp": "2025-05-26T15:23:02.656979",
+    "successful_format": "2608 Avenue 199 Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "2608 Avenue 199, Tulare, California, 93274",
+    "county": null
+  },
+  "9441 Avenue 104 PixIey TuIare 93272": {
+    "lat": 35.978604692222,
+    "lng": -119.362149794321,
+    "timestamp": "2025-05-26T15:23:03.820056",
+    "successful_format": "9441 Avenue 104 PixIey, TuIare, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "9441 Avenue 104, Pixley, California, 93256",
+    "county": null
+  },
+  "18809 Road 64 TuIare TuIare 93274": {
+    "lat": 36.131855014773,
+    "lng": -119.4294029751,
+    "timestamp": "2025-05-26T15:23:04.985184",
+    "successful_format": "18809 Road 64 TuIare, TuIare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "18809 Road 64, Tulare, California, 93274",
+    "county": null
+  },
+  "5780 Avenue 296 VisaIia TuIare 93291": {
+    "lat": 36.327733978584,
+    "lng": -119.444391141615,
+    "timestamp": "2025-05-26T15:23:06.144772",
+    "successful_format": "5780 Avenue 296 VisaIia, TuIare, CA 93291",
+    "geocoder": "ArcGIS",
+    "address": "5780 Avenue 296, Visalia, California, 93291",
+    "county": null
+  },
+  "17297 Road 96 Tulare Tulare 93274": {
+    "lat": 36.104061232448,
+    "lng": -119.357825584886,
+    "timestamp": "2025-05-26T15:23:07.311829",
+    "successful_format": "17297 Road 96 Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "17297 Road 96, Tulare, California, 93274",
+    "county": null
+  },
+  "3235 Avenue 199 Tulare Tulare 93274": {
+    "lat": 36.149700002814,
+    "lng": -119.501256001881,
+    "timestamp": "2025-05-26T15:23:09.619536",
+    "successful_format": "3235 Avenue 199 Tulare, Tulare, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "3235 Avenue 199, Tulare, California, 93274",
+    "county": null
   }
 }

@@ -1,4108 +1,1731 @@
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 DAIRY FACILITY INFORMATION
-
-A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Kerman Cattle Co
-
-Physical address of dairy:
-
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY Kerman CattIe Co
+Physical address of dairy
 4301 S Dickenson Fresno Fresno 93706
 Number and Street City County Zip Code
-
-Street and nearest cross street (if no address):
-
-Date facility was originally placed in operation: 01/01/1970
-Regional Water Quality Control Board Basin Plan designation: Tulare Basin
-
-County Assessor Parcel Number(s) for dairy facility:
-
+Street and nearest cross street (if no address)
+Date faciIity was originaIly pIaced in operation 01/01/1970
+Regional Water QuaIity Control Board Basin PIan designation TuIare Basin
+County Assessor Parcel Number(s) for dairy faciIity
 B. OPERATORS
-
-Gailey, Matt
-Operator name: Gailey, Matt Telephone no.: (559) 280-2972
-Landline Cellular
+GaiIey, Matt
+Operator name GaiIey, Matt TeIephone no. (559) 280-2972
+LandIine CeIluIar
 PO Box 370 Kerman CA 93630
-Mailing Address Number and Street City State Zip Code
-This operator is responsible for paying permit fees.
+MaiIing Address Number and Street City State Zip Code
+This operator is responsibIe for paying permit fees.
 C. OWNERS
 Bos Capital
-Legal owner name: Bos Capital Telephone no.: (559) 268-2349
-Landline Cellular
+Legal owner name Bos Capital TeIephone no. (559) 268-2349
+LandIine CeIluIar
 4301 S Dickenson Fresno CA 93706
-Mailing Address Number and Street City State Zip Code
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 1 of 36
+MaiIing Address Number and Street City State Zip Code
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 1 of 36
 
 PDF PAGE BREAK 1
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-A. HERD INFORMATION
-
-Number open confinement
-Number under roof
-Maximum number
-Average number
-
-Avg live weight (Ibs)
-
 AVAILABLE NUTRIENTS
-
-Bred Heifers Heifers (7-14 Calves Calves
-Milk Cows Dry Cows (15-24 mo.) mo. to breeding). (4-6 mo.) (0-3 mo.)
-770 70 100 50 50 0
-0 0 0 0 0 0
-770 70 100 50 50 0
-770 70 100 50 50 0
-1,200 1,300 1,000 800
-
-Predominant milk cow breed: Holstein
-
-Average milk production:
-
+A. HERD INFORMATION
+Bred Heifers Heifers (7-14 CaIves CaIves
+MiIk Cows Dry Cows (15-24 mo.) mo. to breeding) (4-6 mo.) (0-3 mo.)
+Number open confinement 770 70 100 50 50 0
+Number under roof (0) 0 0 0 0 0
+Maximum number 770 70 100 50 50 0
+Average number 770 70 100 50 50 0
+Avg live weight (lbs) 1,200 1,300 1,000 800
+Predominant miIk cow breed HoIstein
+Average miIk production 69 pounds per cow per day
 B. MANURE GENERATED
-
-Total manure excreted by the herd:
-
-Total nitrogen from manure:
-Total phosphorus from manure:
-Total potassium from manure:
-Total salt from manure:
-
-69 pounds per cow per day
-
-22,349.87 tons per reporting period
-
-286,626.14 /bs per reporting period After ammonia losses (30% loss applied): 200,638.30 /bs per reporting period
-47,777.66 Ibs per reporting period
-
-146,956.21 Ibs per reporting period
-
-378,651.00 /bs per reporting period
-
+Total manure excreted by the herd 22,349.87 tons per reporting period
+Total nitrogen from manure 286,626.14 lbs per reporting period After ammonia losses (30 loss appIied). 200,638.30 lbs per reporting period
+Total phosphorus from manure 47,777.66 ibs per reporting period
+Total potassium from manure 146,956.21 lbs per reporting period
+Total saIt from manure 378,651.00 lbs per reporting period
 C. PROCESS WASTEWATER GENERATED
-
-Process wastewater generated:
-Total nitrogen generated:
-
-Total phosphorus generated:
-Total potassium generated:
-
-Total salt generated:
-
+Process wastewater generated 43,520,000 gaIlons 43,520,000 gaIlons appIied
+Total nitrogen generated 181,482.88 lbs 0 gaIlons exported
+Total phosphorus generated 19,613.97 lbs - 0 gaIlons imported
+Total potassium generated 141,133.20 lbs - 43,520,000 gaIlons generated
+Total saIt generated 937,763.37 lbs
 D. FRESH WATER SOURCES
-
-Source Description
-
-Barn
-Canal
-
-06/27/2024 07:52:34
-
-937,763.37 Ibs
-
-43,520,000 gallons 43,520,000 gallons applied
-181,482.88 lbs + 0 gallons exported
-19,613.97 Ibs - 0 gallons imported
-
-141,133.20 Ibs 43,520,000 gallons generated
-
-Type
-
-Ground water
-Surface water
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-Page 2 of 36
+Source Description Type
+Barn Ground water
+Canal Surface water
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 2 of 36
 
 PDF PAGE BREAK 2
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
-
-No subsurface (tile) drainage sources entered.
-
+No subsurface (tiIe) drainage sources entered.
 F. NUTRIENT IMPORTS
 No dry manure nutrient imports entered.
 No process wastewater nutrient imports entered.
 No commercial or other nutrient imports entered.
 G. NUTRIENT EXPORTS
-Date Material type Quantity Reporting basis Moisture (%) Density (Ibs/cu ft) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
-10/22/2023 Corral solids 5,200.00 ton As-is 28.9 9,500.00 5,600.00 19,900.00 55.65
-
+Date Material type Quantity Reporting basis Moisture () Density (lbs/cu ft) N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/22/2023 Corral soIids 5,200.00 ton As-is 28.9 9,500.00 5,600.00 19,900.00 55.65
 No liquid nutrient exports entered.
-
-Material type Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Material type Total N (lbs) Total P (lbs) Total K (lbs) Total saIt (lbs)
 Dry manure 98,800.00 58,240.00 206,960.00 4,114,983.60
 Process wastewater 0.00 0.00 0.00 0.00
-Total exports for all materials 98,800.00 58,240.00 206,960.00 4,114,983.60
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 3 of 36
+Total exports for aIl materiaIs 98,800.00 58,240.00 206,960.00 4,114,983.60
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 3 of 36
 
 PDF PAGE BREAK 3
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
-
 A. LIST OF LAND APPLICATION AREAS
-
-Field name Controlled acres Cropable acres Total harvests Type of waste applied Parcel number
-
+FieId name ControIled acres CropabIe acres Total harvests Type of waste appIied Parcel number
 1 75 75 2 process wastewater X025-X060-X064-XXXX
 2 50 50 2 process wastewater X025-X060-X064-XXXX
 3 70 70 2 process wastewater X025-X060-X031-XXXX
 4 65 65 2 process wastewater X025-X060-X031-XXXX
-Totals for areas that were used for application 260 260 8
-
-Totals for areas that were not used for application
-
-Land application area totals 260 260 8
-
+TotaIs for areas that were used for appIication 260 260 8
+TotaIs for areas that were not used for appIication
+Land appIication area totaIs 260 260 8
 B. CROPS AND HARVESTS
-
 1
-
-Field name: 41
-
-11/01/2022: Wheat, silage, boot stage
-
-Crop: Wheat, silage, boot stage Acres planted: 75 Plant date: 11/01/2022
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+FieId name 1
+11/01/2022 Wheat, siIage, boot stage
+Crop Wheat, siIage, boot stage Acres pIanted 75 PIant date 11/01/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 05/23/2023 1,350.00 ton Dry-weight 58.8 29,100.00 4,700.00 37,700.00 11.89
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 16.00 256.00 44.80 192.00 0.00
 Total actual harvest content 18.00 431.61 69.71 559.17 1,763.52
-
-06/01/2023: Corn, silage
-
-Crop: Corn, silage Acres planted: 75 Plant date: 06/01/2023
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+06/01/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 75 PIant date 06/01/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 10/28/2023 1,875.00 ton Dry-weight 69.4 23,500.00 2,700.00 22,700.00 6.58
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 28.00 224.00 42.00 184.80 0.00
 Total actual harvest content 25.00 359.55 41.31 347.31 1,006.74
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 4 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 4 of 36
 
 PDF PAGE BREAK 4
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 2
-
-Field name: 2
-
-11/01/2022: Wheat, silage, boot stage
-
-Crop: Wheat, silage, boot stage Acres planted: 50 Plant date: 11/01/2022
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+FieId name 2
+11/01/2022 Wheat, siIage, boot stage
+Crop Wheat, siIage, boot stage Acres pIanted 50 PIant date 11/01/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 05/23/2023 900.00 ton Dry-weight 69.8 17,100.00 4,100.00 23,200.00 9.91
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 16.00 256.00 44.80 192.00 0.00
 Total actual harvest content 18.00 185.91 44.58 252.23 1,077.42
-06/01/2023: Corn, silage
-Crop: Corn, silage Acres planted: 50 Plant date: 06/01/2023
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+06/01/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 50 PIant date 06/01/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 10/27/2023 1,250.00 ton Dry-weight 66.7 21,600.00 2,600.00 16,000.00 7.58
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 28.00 224.00 42.00 184.80 0.00
 Total actual harvest content 25.00 359.64 43.29 266.40 1,262.07
 3
-Field name: 3
-11/01/2022: Wheat, silage, boot stage
-Crop: Wheat, silage, boot stage Acres planted: 70 Plant date: 11/01/2022
-Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+FieId name 3
+11/01/2022 Wheat, siIage, boot stage
+Crop Wheat, siIage, boot stage Acres pIanted 70 PIant date 11/01/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
 05/23/2023 1,260.00 ton Dry-weight 65.3 23,000.00 4,500.00 21,500.00 9.87
-Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
 Anticipated harvest content 16.00 256.00 44.80 192.00 0.00
 Total actual harvest content 18.00 287.32 56.21 268.58 1,232.96
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 5 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 5 of 36
 
 PDF PAGE BREAK 5
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 3
-
-06/01/2023: Corn, silage
-
-Crop: Corn, silage
-
-Acres planted:
-
-Harvest date Yield Reporting basis
-
-10/27/2023 1,750.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 28.00 224.00
-Total actual harvest content 25.00 415.94
-
-Field name: 4
-
-Density (Ibs/cu ft)
-
-K (mg/kg)
-16,100.00
-
-Moisture (%) N (mg/kg)
-64.9 23,700.00
-
-P (mg/kg)
-3,100.00
-
-Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
-
-42.00 184.80 0.00
-54.41 282.56 1,114.43
-
-70 Plant date: 06/01/2023
-
-Salt (mg/kg)
-
-TFS (%)
-6.35
-
-11/01/2022: Wheat, silage, boot stage
-Crop: Wheat, silage, boot stage
-
-Acres planted:
-
-Harvest date Yield Reporting basis
-
-05/23/2023 1,170.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 16.00 256.00
-Total actual harvest content 18.00 225.77
-
-06/01/2023: Corn, silage
-
-Crop: Corn, silage
-
-Density (Ibs/cu ft)
-
-K (mg/kg)
-23,500.00
-
-Moisture (%) N (mg/kg)
-66.1 18,500.00
-
-P (mg/kg)
-3,900.00
-
-Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
-
-44.80 192.00 0.00
-47.60 286.79 1,189.89
-
-Acres planted:
-
-Harvest date Yield Reporting basis
-
-10/27/2023 1,625.00 ton Dry-weight
-Yield (tons/acre) Total N (Ibs/acre)
-Anticipated harvest content 28.00 224.00
-Total actual harvest content 25.00 188.10
-
-Density (Ibs/cu ft)
-
-K (mg/kg)
-19,000.00
-
-Moisture (%) N (mg/kg)
-71.5 13,200.00
-
-P (mg/kg)
-2,200.00
-
-Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
-
-42.00 184.80 0.00
-31.35 270.75 1,169.93
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34
-
-65 Plant date: 11/01/2022
-
-Salt (mg/kg)
-
-TFS (%)
-9.75
-
-65 Plant date: 06/01/2023
-
-Salt (mg/kg)
-
-TFS (%)
-8.21
-
-Page 6 of 36
+06/01/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 70 PIant date 06/01/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/27/2023 1,750.00 ton Dry-weight 64.9 23,700.00 3,100.00 16,100.00 6.35
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 28.00 224.00 42.00 184.80 0.00
+Total actual harvest content 25.00 415.94 54.41 282.56 1,114.43
+4
+FieId name 4
+11/01/2022 Wheat, siIage, boot stage
+Crop Wheat, siIage, boot stage Acres pIanted 65 PIant date 11/01/2022
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+05/23/2023 1,170.00 ton Dry-weight 66.1 18,500.00 3,900.00 23,500.00 9.75
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 16.00 256.00 44.80 192.00 0.00
+Total actual harvest content 18.00 225.77 47.60 286.79 1,189.89
+06/01/2023. Corn, siIage
+Crop Corn, siIage Acres pIanted 65 PIant date 06/01/2023
+Harvest date YieId Reporting basis Density (lbs/cu ft) Moisture () N (mg/kg) P (mg/kg) K (mg/kg) SaIt (mg/kg) TFS ()
+10/27/2023 1,625.00 ton Dry-weight 71.5 13,200.00 2,200.00 19,000.00 8.21
+YieId (tons/acre) Total N (lbs/acre) Total P (lbs/acre) _ Total K (lbs/acre) SaIt (lbs/acre)
+Anticipated harvest content 28.00 224.00 42.00 184.80 0.00
+Total actual harvest content 25.00 188.10 31.35 270.75 1,169.93
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 6 of 36
 
 PDF PAGE BREAK 6
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
-
 A. LAND APPLICATIONS
-
-1 - 11/01/2022: Wheat, silage, boot stage
-
-Field name: 1
-
-Crop: Wheat, silage, boot stage
-
-Application date Application method
-
-12/23/2022 Surface (irrigation)
-
-Source description
-Www
-Application event totals
-
-01/24/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-02/24/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-03/25/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-1 - 06/01/2023: Corn, silage
-
-06/27/2024 07:52:34
-
-Material type
-
-Process wastewater
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-36.14
-36.14
-
-N (Ibs/acre)
-
-108.42
-0.00
-108.42
-
-N (Ibs/acre)
-108.42
-0.00
-108.42
-
-N (Ibs/acre)
-
-108.42
-0.00
-108.42
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-4.01 23.93
-4.01 23.93
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-12.04 71.78
-0.00 0.00
-12.04 71.78
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-12.04 71.78
-0.00 0.00
-12.04 71.78
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-12.04 71.78
-0.00 0.00
-12.04 71.78
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Plant date: 11/01/2022 _
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-139.58
-139.58
-
-Amount
-
-500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-418.75
-9.48
-428.23
-
-Amount
-
-1,500,000.00 gal
-7,100,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-418.75
-
-9.48
-
-428.23
-
-Amount
-
-1,500,000.00 gal
-7,100,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-418.75
-9.48
-428.23
-
-Amount
-
-1,500,000.00 gal
-7,100,000.00 gal
-
-Page 7 of 36
+1 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 1
+Crop Wheat, siIage, boot stage PIant date 11/01/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+12/23/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 36.14 4.01 23.93 139.58 500,000.00 gai
+AppIication event totaIs 36.14 4.01 23.93 139.58
+01/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 108.42 12.04 71.78 418.75 1,500,000.00 gal
+Canal Surface water 0.00 0.00 0.00 9.48 7,100,000.00 gal
+AppIication event totaIs 108.42 12.04 71.78 428.23
+02/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 108.42 12.04 71.78 418.75 1,500,000.00 gal
+Canal Surface water 0.00 0.00 0.00 9.48 7,100,000.00 gal
+AppIication event totaIs 108.42 12.04 71.78 428.23
+03/25/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 108.42 12.04 71.78 418.75 1,500,000.00 gal
+Canal Surface water 0.00 0.00 0.00 9.48 7,100,000.00 gal
+AppIication event totaIs 108.42 12.04 71.78 428.23
+1 - 06/01/2023 Corn, siIage
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 7 of 36
 
 PDF PAGE BREAK 7
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-1 - 06/01/2023: Corn, silage
-
-Field name: 4
-
-Crop: Corn, silage
-
-Application date Application method
-
-06/29/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-07/09/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-07/19/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-07/29/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/09/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-66.73
-0.00
-66.73
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-66.73
-0.00
-66.73
-
-N (Ibs/acre)
-
-66.73
-0.00
-66.73
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-7.84 49.63
-0.00 0.00
-7.84 49.63
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-7.84 49.63
-0.00 0.00
-7.84 49.63
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-7.84 49.63
-0.00 0.00
-7.84 49.63
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Plant date: 06/01/2023
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-14.66
-14.66
-
-Amount
-
-10,980,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-370.77
-14.66
-385.43
-
-Amount
-
-1,580,000.00 gal
-10,980,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-14.66
-14.66
-
-Amount
-
-10,980,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-370.77
-14.66
-385.43
-
-Amount
-
-1,580,000.00 gal
-10,980,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-370.77
-14.66
-385.43
-
-Amount
-
-1,580,000.00 gal
-10,980,000.00 gal
-
-Page 8 of 36
+1 - 06/01/2023 Corn, siIage
+FieId name 1
+Crop Corn, siIage PIant date 06/01/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 14.66
+07/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 66.73 7.84 49.63 370.77 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 ga/
+AppIication event totaIs 66.73 7.84 49.63 385.43
+07/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 ga/
+AppIication event totaIs 0.00 0.00 0.00 14.66
+07/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 66.73 7.84 49.63 370.77 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 gai
+AppIication event totaIs 66.73 7.84 49.63 385.43
+08/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 66.73 7.84 49.63 370.77 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 gai
+AppIication event totaIs 66.73 7.84 49.63 385.43
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 8 of 36
 
 PDF PAGE BREAK 8
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-1 - 06/01/2023: Corn, silage
-
-Application date Application method
-
-08/19/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/29/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-09/09/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-2 - 11/01/2022: Wheat, silage, boot stage
-
-Field name: 2
-
-Precipitation 24 hours prior
-
-No precipitation
-
-Material type N (Ibs/acre)
-
-Process wastewater 80.80
-Surface water 0.00
-80.80
-
-No precipitation
-
-Material type N (Ibs/acre)
-
-0.00
-0.00
-
-Surface water
-
-No precipitation
-
-Material type N (Ibs/acre)
-
-Process wastewater 80.80
-Surface water 0.00
-80.80
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-7.51 82.49
-0.00 0.00
-7.51 82.49
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-7.51 82.49
-0.00 0.00
-7.51 82.49
-
-Precipitation 24 hours following
-No precipitation
-
-Salt (Ibs/acre) Amount
-
-574.69 1,580,000.00 gal
-14.66 10,980,000.00 gal
-589.36
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-14.66 10,980,000.00 gal
-14.66
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-
-574.69 1,580,000.00 gal
-14.66 10,980,000.00 gal
-589.36
-
-Crop: Wheat, silage, boot stage
-
-Plant date: 11/01/2022 _
-
-Application date Application method
-
-12/28/2022 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Precipitation 24 hours prior
-
-No precipitation
-
-Material type N (Ibs/acre)
-
-0.00
-0.00
-
-Surface water
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00
-0.00
-
-0.00
-0.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Precipitation 24 hours following
-No precipitation
-Salt (Ibs/acre)
-
-9.01 4,500,000.00 gal
-9.01
-
-Amount
-
-Page 9 of 36
+1 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+08/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 80.80 7.51 82.49 574.69 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 gai
+AppIication event totaIs 80.80 7.51 82.49 589.36
+08/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 ga/
+AppIication event totaIs 0.00 0.00 0.00 14.66
+09/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 80.80 7.51 82.49 574.69 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.66 10,980,000.00 gai
+AppIication event totaIs 80.80 7.51 82.49 589.36
+2 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 2
+Crop Wheat, siIage, boot stage PIant date 11/01/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+12/28/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 9.01 4,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 9.01
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 9 of 36
 
 PDF PAGE BREAK 9
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-2 - 11/01/2022: Wheat, silage, boot stage
-
-Application date Application method
-
-01/26/2023 Surface (irrigation)
-
-Source description
-Www
-Application event totals
-
-02/24/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-
-Application event totals
-03/20/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-2 - 06/01/2023: Corn, silage
-
-Field name: 2
-
-Material type
-
-Process wastewater
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-N (Ibs/acre)
-
-126.85
-126.85
-
-No precipitation
-
-N (Ibs/acre)
-
-126.85
-0.00
-126.85
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre)
-
-14.09
-14.09
-
-K (Ibs/acre)
-
-83.99
-83.99
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-14.09 83.99
-0.00 0.00
-14.09 83.99
-
-No precipitation
-
-P (Ibs/acre)
-
-0.00
-0.00
-
-K (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-489.94
-489.94
-
-Amount
-
-1,170,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-
-489.94 1,170,000.00 gal
-9.01 4,500,000.00 gal
-498.95
-
-No precipitation
-
-Amount
-
-4,500,000.00 gal
-
-Salt (Ibs/acre)
-
-9.01
-9.01
-
-Crop: Corn, silage
-
-Application date Application method
-
-06/27/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre)
-
-0.00
-0.00
-
-K (Ibs/acre)
-
-0.00
-0.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Salt (Ibs/acre)
-
-Plant date: 06/01/2023
-Precipitation 24 hours following
-No precipitation
-
-Amount
-
-15.22 7,600,000.00 gal
-
-15.22
-
-Page 10 of 36
+2 - 11/01/2022 Wheat, siIage, boot stage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+01/26/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 126.85 14.09 83.99 489.94 1,170,000.00 gal
+AppIication event totaIs 126.85 14.09 83.99 489.94
+02/24/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 126.85 14.09 83.99 489.94 1,170,000.00 gal
+Canal Surface water 0.00 0.00 0.00 9.01 4,500,000.00 gai
+AppIication event totaIs 126.85 14.09 83.99 498.95
+03/20/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 9.01 4,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 9.01
+2 - 06/01/2023 Corn, siIage
+FieId name 2
+Crop Corn, siIage PIant date 06/01/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/27/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 15.22
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 10 of 36
 
 PDF PAGE BREAK 10
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-2 - 06/01/2023: Corn, silage
-
-Application date Application method
-
-07/07/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-07/17/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-07/27/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/07/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-08/17/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-100.10
-0.00
-100.10
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-100.10
-0.00
-100.10
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-121.20
-0.00
-121.20
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.76 74.44
-0.00 0.00
-11.76 74.44
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.76 74.44
-0.00 0.00
-11.76 74.44
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.26 123.73
-0.00 0.00
-11.26 123.73
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-556.15
-15.22
-571.37
-
-Amount
-
-1,580,000.00 gal
-7,600,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-15.22
-15.22
-
-Amount
-
-7,600,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-556.15
-15.22
-571.37
-
-Amount
-
-1,580,000.00 gal
-7,600,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-15.22
-15.22
-
-Amount
-
-7,600,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-862.04
-15.22
-877.26
-
-Amount
-
-1,580,000.00 gal
-7,600,000.00 gal
-
-Page 11 of 36
-
-PDF PAGE BREAK 11
-Annual Report - General Order No. R5-2007-0035
-Reporting period 01/01/2023 to 12/31/2023.
-
-2 - 06/01/2023: Corn, silage
-
-Application date Application method
-
-08/27/2023 Surface (irrigation)
-
-Source description
-
-Canal
-
-Application event totals
-09/07/2023 Surface (irrigation)
-
-Source description
-
-Material type
-
-Surface water
-
-Material type
-
-Precipitation 24 hours prior
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-No precipitation
-
-N (Ibs/acre)
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-Salt (Ibs/acre)
-
-Salt (Ibs/acre)
-
-Precipitation 24 hours following
-
-No precipitation
-
-Amount
-15.22 7,600,000.00 gal
-15.22
-No precipitation
-Amount
-
+2 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+07/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 100.10 11.76 74.44 556.15 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 100.10 11.76 74.44 571.37
+07/17/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 15.22
+07/27/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 100.10 11.76 74.44 556.15 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 100.10 11.76 74.44 571.37
+08/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 15.22
+08/17/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 WW Process wastewater 121.20 11.26 123.73 862.04 1,580,000.00 gal
 Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
-Application event totals 121.20 11.26 123.73 877.26
+AppIication event totaIs 121.20 11.26 123.73 877.26
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 11 of 36
 
-3 - 11/01/2022: Wheat, silage, boot stage
+PDF PAGE BREAK 11
 
-Field name: 3
-
-Crop: Wheat, silage, boot stage Plant date: 11/01/2022
-
-Application date Application method
-12/26/2022
-
-Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
-
-Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre)
-
-195.54
-195.54
-
-P (Ibs/acre)
-
-21.72
-21.72
-
-K (Ibs/acre) Salt (Ibs/acre)
-
-129.47
-129.47
-
-Amount
-
-WW Process wastewater 2,525,000.00 gal
-
-Application event totals
-
-755.25
-755.25
-
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+2 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+08/27/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 15.22
+09/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 121.20 11.26 123.73 862.04 1,580,000.00 gal
+Canal Surface water 0.00 0.00 0.00 15.22 7,600,000.00 gal
+AppIication event totaIs 121.20 11.26 123.73 877.26
+3 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 3
+Crop Wheat, siIage, boot stage PIant date 11/01/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+12/26/2022 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 195.54 21.72 129.47 755.25 2,525,000.00 gal
+AppIication event totaIs 195.54 21.72 129.47 755.25
 01/18/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre)
-
-Canal Surface water 0.00 0.00 0.00 9.30
-Application event totals 0.00 0.00 0.00 9.30
-
-Amount
-
-6,500,000.00 gal
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 12 of 36
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 9.30 6,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 9.30
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 12 of 36
 
 PDF PAGE BREAK 12
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 11/01/2022: Wheat, silage, boot stage
-
-Application date Application method
-
-02/21/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-03/17/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-3 - 06/01/2023: Corn, silage
-
-Field name: 3
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-N (Ibs/acre)
-
-195.54
-0.00
-195.54
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-21.72 129.47
-0.00 0.00
-21.72 129.47
-
-No precipitation
-
-P (Ibs/acre)
-
-0.00
-0.00
-
-K (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation 24 hours following
-No precipitation
-
-Salt (Ibs/acre) Amount
-
-755.25 2,525,000.00 gal
-9.30 6,500,000.00 gal
-764.55
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-9.30 6,500,000.00 gal
-9.30
-
-Crop: Corn, silage
-
-Plant date: 06/01/2023
-
-Application date Application method
-
-06/28/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-07/08/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-No precipitation
-
-N (Ibs/acre)
-
-100.69
-0.00
-100.69
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre)
-
-0.00
-0.00
-
-K (Ibs/acre)
-
-0.00
-0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.83 74.88
-0.00 0.00
-11.83 74.88
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Precipitation 24 hours following
-No precipitation
-Salt (Ibs/acre)
-
-15.02
-15.02
-
-Amount
-
-10,500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre) Amount
-
-559.42 —_2,225,000.00 gal
-15.02  10,500,000.00 gal
-574.44
-
-Page 13 of 36
+3 - 11/01/2022 Wheat, siIage, boot stage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+02/21/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 195.54 21.72 129.47 755.25 2,525,000.00 gal
+Canal Surface water 0.00 0.00 0.00 9.30 6,500,000.00 gai
+AppIication event totaIs 195.54 21.72 129.47 764.55
+03/17/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 9.30 6,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 9.30
+3 - 06/01/2023 Corn, siIage
+FieId name 3
+Crop Corn, siIage PIant date 06/01/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/28/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 16.02 10,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 15.02
+07/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 100.69 11.83 74.88 559.42 2,225,000.00 gal
+Canal Surface water 0.00 0.00 0.00 16.02 10,500,000.00 gai
+AppIication event totaIs 100.69 11.83 74.88 574.44
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 13 of 36
 
 PDF PAGE BREAK 13
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 06/01/2023: Corn, silage
-
-Application date Application method
-
-07/18/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-07/28/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/08/2023 Surface (irrigation)
-
-Source description
-Canal
-Application event totals
-
-08/18/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/28/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-100.69
-0.00
-100.69
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-121.91
-0.00
-121.91
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.83 74.88
-0.00 0.00
-11.83 74.88
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-11.33 124.46
-0.00 0.00
-11.33 124.46
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-15.02
-15.02
-
-Amount
-
-10,500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-559.42
-15.02
-574.44
-
-Amount
-
-2,225,000.00 gal
-10,500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-15.02
-15.02
-
-Amount
-
-10,500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-867.11
-15.02
-882.13
-
-Amount
-
-2,225,000.00 gal
-10,500,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-1.50
-1.50
-
-Amount
-
-1,050,000.00 gal
-
-Page 14 of 36
+3 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+07/18/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.02 10,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 15.02
+07/28/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 100.69 11.83 74.88 559.42 2,225,000.00 gal
+Canal Surface water 0.00 0.00 0.00 15.02 10,500,000.00 gai
+AppIication event totaIs 100.69 11.83 74.88 574.44
+08/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 15.02 10,500,000.00 gai
+AppIication event totaIs 0.00 0.00 0.00 15.02
+08/18/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 121.91 11.33 124.46 867.11 2,225,000.00 gal
+Canal Surface water 0.00 0.00 0.00 15.02 10,500,000.00 gai
+AppIication event totaIs 121.91 11.33 124.46 882.13
+08/28/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 1.50 1,050,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 1.50
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 14 of 36
 
 PDF PAGE BREAK 14
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
+3 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 
-3 - 06/01/2023: Corn, silage
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
 09/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 WW Process wastewater 121.91 11.33 124.46 867.11 2,225,000.00 gal
-Canal Surface water 0.00 0.00 0.00 15.02 10,500,000.00 ga/
-Application event totals 121.91 11.33 124.46 882.13
+Canal Surface water 0.00 0.00 0.00 16.02 10,500,000.00 gai
+AppIication event totaIs 121.91 11.33 124.46 882.13
 
-4 - 11/01/2022: Wheat, silage, boot stage
+4 - 11/01/2022 Wheat, siIage, boot stage
 
-Field name: 4
-
-Crop: Wheat, silage, boot stage Plant date: 11/01/2022
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+FieId name. 4
+Crop Wheat, siIage, boot stage PIant date 11/01/2022
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 
 02/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-Www Process wastewater 138.86 15.42 91.94 536.32 1,665,000.00 gal
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 138.86 15.42 91.94 536.32 1,665,000.00 gal
 Canal Surface water 0.00 0.00 0.00 8.40 5,450,000.00 gal
-Application event totals 138.86 15.42 91.94 544.72
+AppIication event totaIs 138.86 15.42 91.94 544.72
 03/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
-Www Process wastewater 137.61 15.29 91.11 531.49 1,650,000.00 gal
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 137.61 15.29 91.11 531.49 1,650,000.00 gal
 Canal Surface water 0.00 0.00 0.00 8.40 5,450,000.00 gal
-Application event totals 137.61 15.29 91.11 539.89
+AppIication event totaIs 137.61 15.29 91.11 539.89
 04/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Canal Surface water 0.00 0.00 0.00 8.40 5,450,000.00 gal
-Application event totals 0.00 0.00 0.00 8.40
+AppIication event totaIs 0.00 0.00 0.00 8.40
 
-4 - 06/01/2023: Corn, silage
+4 - 06/01/2023 Corn, siIage
 
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 15 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 15 of 36
 
 PDF PAGE BREAK 15
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-4 - 06/01/2023: Corn, silage
-
-Field name: 4
-
-Crop: Corn, silage
-
-Application date Application method
-
-06/29/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-07/09/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-07/19/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-07/29/2023 Surface (irrigation)
-
-Source description
-
-Www
-Canal
-Application event totals
-
-08/09/2023 Surface (irrigation)
-
-Source description
-
-Canal
-Application event totals
-
-06/27/2024 07:52:34
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Material type
-
-Process wastewater
-Surface water
-
-Material type
-
-Surface water
-
-Precipitation 24 hours prior
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-No precipitation
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-76.27
-0.00
-76.27
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-N (Ibs/acre)
-
-76.27
-0.00
-76.27
-
-N (Ibs/acre)
-
-0.00
-0.00
-
-Precipitation during application
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-8.96 56.72
-0.00 0.00
-8.96 56.72
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-8.96 56.72
-0.00 0.00
-8.96 56.72
-
-No precipitation
-
-P (Ibs/acre) K (Ibs/acre)
-
-0.00 0.00
-0.00 0.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Plant date: 06/01/2023
-
-Precipitation 24 hours following
-
-No precipitation
-
-Salt (Ibs/acre)
-
-14.68
-14.68
-
-Amount
-
-9,530,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-423.74
-14.68
-438.43
-
-Amount
-
-1,565,000.00 gal
-9,530,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-14.68
-14.68
-
-Amount
-
-9,530,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-423.74
-14.68
-438.43
-
-Amount
-
-1,565,000.00 gal
-9,530,000.00 gal
-
-No precipitation
-
-Salt (Ibs/acre)
-
-14.68
-14.68
-
-Amount
-
-9,530,000.00 gal
-
-Page 16 of 36
+4 - 06/01/2023 Corn, siIage
+FieId name 4
+Crop Corn, siIage PIant date 06/01/2023
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
+06/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 14.68
+07/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 76.27 8.96 56.72 423.74 1,565,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
+AppIication event totaIs 76.27 8.96 56.72 438.43
+07/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 14.68
+07/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+WW Process wastewater 76.27 8.96 56.72 423.74 1,565,000.00 gal
+Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
+AppIication event totaIs 76.27 8.96 56.72 438.43
+08/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
+Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
+AppIication event totaIs 0.00 0.00 0.00 14.68
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 16 of 36
 
 PDF PAGE BREAK 16
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-4 - 06/01/2023: Corn, silage
-
-Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+4 - 06/01/2023 Corn, siIage
+AppIication date AppIication method Precipitation 24 hours prior Precipitation during appIication Precipitation 24 hours foIlowing
 08/19/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 WW Process wastewater 92.34 8.58 94.27 656.81 1,565,000.00 gal
 Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
-Application event totals 92.34 8.58 94.27 671.50
+AppIication event totaIs 92.34 8.58 94.27 671.50
 08/29/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
-Application event totals 0.00 0.00 0.00 14.68
+AppIication event totaIs 0.00 0.00 0.00 14.68
 09/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
-Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Source description Material type N (lbs/acre) P (lbs/acre) K (lbs/acre) SaIt (lbs/acre) Amount
 Canal Surface water 0.00 0.00 0.00 14.68 9,530,000.00 gal
-Application event totals 0.00 0.00 0.00 14.68
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 17 of 36
+AppIication event totaIs 0.00 0.00 0.00 14.68
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 07.5234 Page 17 of 36
 
 PDF PAGE BREAK 17
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 B. NUTRIENT BUDGET
+1 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 1 Crop Wheat, siIage, boot stage PIant date 11/01/2022
+Nutrient budget in lbs/acre
+2,000 1,764 MME AppIied
+1,424 Anticipated
 
-1 - 11/01/2022: Wheat, silage, boot stage
+o 1,500 MB Harvest
 
-Field name: 1
+& 1,000
 
-Crop: Wheat, silage, boot stage
+g aoa 432 559
 
-Plant date: 11/01/2022
-
-Nutrient budget in Ibs/acre
-
-2,000
-1,500
-iJ
-3 1,000 wo
-=~ 500 368
+500 40 48 10 239
 0
-
-N
-
-Total N (Ibs/acre)
-
-Existing soil nutrient content 0.00
-Plowdown credit 0.00
-Commercial fertilizer / Other 0.00
-Dry manure 0.00
-Process wastewater 361.40
-Fresh water 0.00
-Atmospheric deposition 7.00
-Total nutrients applied 368.40
-Anticipated crop nutrient removal 256.00
-Actual crop nutrient removal 431.61
-Nutrient balance -63.21
-Applied to removed ratio 0.85
-
-1,764
-1,424
-
-salt
-
-Total P (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-40.15
-0.00
-0.00
-40.15
-44.80
-69.71
--29.57
-0.58
-
-MN Applied
-9 Anticipated
-(MiHanest | Harvest
-
-Total K (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-239.28
-0.00
-0.00
-239.28
-192.00
-559.17
--319.89
-0.43
-
-Total salt (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-1,395.84
-28.44
-0.00
-1,424.28
-0.00
-1,763.52
--339.24
-0.81
-
-Fresh water applied
-21,300,000.00 gallons
-784.41 acre-inches
-
-10.46 inches/acre
-
-Process wastewater applied
-5,000,000.00 gallons
+0 i _ _ H.o2
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 21,300,000.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 784.41 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 10.46 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 361.40 40.15 239.28 1,395.84 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 28.44 5,000,000.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
 184.13 acre-inches
-
-2.46 inches/acre
-
-Total harvests for the crop
-
-1 harvests
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34
-
-Page 18 of 36
+Total nutrients appIied 368.40 40.15 239.28 1,424.28 7
+Anticipated crop nutrient removal 256.00 44.80 192.00 0.00 2.46 inches/acre
+Actual crop nutrient removal 431.61 69.71 559.17 1,763.52 Total harvests for the crop
+Nutrient baIance -63.21 -29.57 -319.89 -339.24 41 harvests
+AppIied to removed ratio 0.85 0.58 0.43 0.81
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 18 of 36
 
 PDF PAGE BREAK 18
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-1 - 06/01/2023: Corn, silage
-
-Field name: 1 Crop: Corn, silage Plant date: 06/01/2023
-Nutrient budget in Ibs/acre
-2,500 Applied
-9 Anticipated
-© 2,000 MB Harvest
-5 1,500 1,007
-2 1,000
-369 360 314. 347
-500 39 42 41 (0)
-0 Bae Bip
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 87,840,000.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 3,234.85 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 43.13 inches/acre
+1 - 06/01/2023 Corn, siIage
+FieId name 1 Crop Corn, siIage PIant date 06/01/2023
+Nutrient budget in lbs/acre
+2,500 MB AppIied
+Anticipated
+o 2,000 MB Harvest
+3 1,500 1,007
+g 1,000
+369 360
+500 39 42 41 aneenedd 0
+ of 2
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 87,840,000.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 3,234.85 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 43.13 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 361.80 38.54 313.86 2,261.68 Process wastewater applied
-Fresh water 0.00 0.00 0.00 117.28 7,900,000.00 gallons
+Process wastewater 361.80 38.54 313.86 2,261.68 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 117.28 7,900,000.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 290.93 acre-inches
-Total nutrients applied 368.80 38.54 313.86 2,378.97
+Total nutrients appIied 368.80 38.54 313.86 2,378.97
 _ . 3.88 inches/acre
 Anticipated crop nutrient removal 224.00 42.00 184.80 0.00
 Actual crop nutrient removal 359.55 41.31 347.31 1,006.74 Total harvests for the crop
-Nutrient balance 9.25 -2.77 -33.45 1,372.23 4 harvests
-Applied to removed ratio 1.03 0.93 0.90 2.36
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 19 of 36
+Nutrient baIance 9.25 -2.77 -33.45 1,372.23 41 harvests
+AppIied to removed ratio 1.03 0.93 0.90 2.36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 19 of 36
 
 PDF PAGE BREAK 19
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-2 - 11/01/2022: Wheat, silage, boot stage
-Field name: 2 Crop: Wheat, silage, boot stage Plant date: 11/01/2022
-
-Nutrient budget in Ibs/acre
-1,200 4,007 1,077 lM Applied
-
+2 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 2 Crop Wheat, siIage, boot stage PIant date 11/01/2022
+Nutrient budget in lbs/acre
+1,200 1,007 1,077 MB AppIied
 1,000 Anticipated
-© 3800 (MiiHarest | Harvest
-S
-3 600 261
-= 400 186
-ee) ee 22 Sl
-0
-N salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 13,500,000.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 497.16 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 9.94 inches/acre
+     800 MB Harvest
+& 600
+2
+2 00 261 186 468 252
+256) 28 45 45 0
+en co a
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 13,500,000.00 gaIlons
+PIowdown credit 0.00 0.00 0.00 0.00 497.16 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 9.94 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 253.70 28.18 167.97 979.88 Process wastewater applied
-Fresh water 0.00 0.00 0.00 27.04 2,340,000.00 gallons
+Process wastewater 253.70 28.18 167.97 979.88 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 27.04 2,340,000.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 86.17 acre-inches
-Total nutrients applied 260.70 28.18 167.97 1,006.92
+Total nutrients appIied 260.70 28.18 167.97 1,006.92
 _ . 1.72 inches/acre
 Anticipated crop nutrient removal 256.00 44.80 192.00 0.00
 Actual crop nutrient removal 185.91 44.58 252.23 1,077.42 Total harvests for the crop
-Nutrient balance 74.79 -16.39 -84.26 -70.50 4 harvests
-Applied to removed ratio 1.40 0.63 0.67 0.93
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 20 of 36
+Nutrient baIance 74.79 -16.39 -84.26 -70.50 41 harvests
+AppIied to removed ratio 1.40 0.63 0.67 0.93
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 20 of 36
 
 PDF PAGE BREAK 20
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-2 - 06/01/2023: Corn, silage
-
-Field name: 2 Crop: Corn, silage Plant date: 06/01/2023
-Nutrient budget in Ibs/acre
-3,000 ME Applied
-2,500 (9) Anticipated
-» 2,000 MB Harvest
+2 - 06/01/2023 Corn, siIage
+FieId name 2 Crop Corn, siIage PIant date 06/01/2023
+Nutrient budget in lbs/acre
+3,000 HB AppIied
+2,500 Anticipated
+ 2,000 MB Harvest
 & 1,500 1,262
 2 1,000
-500 450 360 396 966
-46°42 43 0
-i SS ae |
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 60,800,000.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 2,239.06 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 44.78 inches/acre
+500 450 360 396 266
+46 42 43 0
+0 Ba 0
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 60,800,000.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 2,239.06 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 44.78 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 442.60 46.04 396.34 2,836.38 Process wastewater applied
-Fresh water 0.00 0.00 0.00 121.77 6,320,000.00 gallons
+Process wastewater 442.60 46.04 396.34 2,836.38 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 121.77 6,320,000.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 232.74 acre-inches
-Total nutrients applied 449.60 46.04 396.34 2,958.15
+Total nutrients appIied 449.60 46.04 396.34 2,958.15
 _ . 4.65 inches/acre
 Anticipated crop nutrient removal 224.00 42.00 184.80 0.00
 Actual crop nutrient removal 359.64 43.29 266.40 1,262.07 Total harvests for the crop
-Nutrient balance 89.96 2.75 129.94 1,696.08 4 harvests
-Applied to removed ratio 1.25 1.06 1.49 2.34
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 21 of 36
+Nutrient baIance 89.96 2.75 129.94 1,696.08 41 harvests
+AppIied to removed ratio 1.25 1.06 1.49 2.34
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 21 of 36
 
 PDF PAGE BREAK 21
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 11/01/2022: Wheat, silage, boot stage
-
-Field name: 3 Crop: Wheat, silage, boot stage
-
-Plant date: 11/01/2022
-
-Nutrient budget in Ibs/acre
-
-MN Applied
-9 Anticipated
-MN Harvest
-
-Total K (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-258.93
-0.00
-0.00
-
-258.93
-192.00
-268.58
--9.64
-0.96
-
-Total salt (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-1,510.50
-27.90
-0.00
-1,538.39
-0.00
-1,232.96
-305.43
-1.25
-
-Fresh water applied
-19,500,000.00 gallons
-718.12 acre-inches
-
-10.26 inches/acre
-
-Process wastewater applied
-5,050,000.00 gallons
-185.97 acre-inches
-
-2.66 inches/acre
-
-Total harvests for the crop
-
-4 harvests
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-2,000
-1,538
-
-» 1,500 4,233
-
+3 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 3 Crop Wheat, siIage, boot stage PIant date 11/01/2022
+Nutrient budget in lbs/acre
+2,000 MB AppIied
+1,538 Anticipated
+   1,500 1,233 MB Harvest
 6
-
-5 1,000
-
-~ 500 398.287 259-269
-
+3 1,000
+- 500 398287 259 269
 43 45 56 0
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre)
-Existing soil nutrient content 0.00 0.00
-Plowdown credit 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00
-Dry manure 0.00 0.00
-Process wastewater 391.09 43.44
-Fresh water 0.00 0.00
-Atmospheric deposition 7.00 0.00
-Total nutrients applied 398.09 43.44
-Anticipated crop nutrient removal 256.00 44.80
-Actual crop nutrient removal 287.32 56.21
-Nutrient balance 110.77 -12.77
-Applied to removed ratio 1.39 0.77
-06/27/2024 07:52:34
-
-Page 22 of 36
+0 _ Ye
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 19,500,000.00 gaIlons
+PIowdown credit 0.00 0.00 0.00 0.00 718.12 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 10.26 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 391.09 43.44 258.93 1,510.50 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 27.90 5,050,000.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
+185.97 acre-inches
+Total nutrients appIied 398.09 43.44 258.93 1,538.39
+_ . 2.66 inches/acre
+Anticipated crop nutrient removal 256.00 44.80 192.00 0.00
+Actual crop nutrient removal 287.32 56.21 268.58 1,232.96 Total harvests for the crop
+Nutrient baIance 110.77 -12.77 -9.64 305.43 41 harvests
+AppIied to removed ratio 1.39 0.77 0.96 1.25
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 22 of 36
 
 PDF PAGE BREAK 22
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-3 - 06/01/2023: Corn, silage
-
-Field name: 3
-
-Crop: Corn, silage
-
-Plant date: 06/01/2023
-
-Nutrient budget in Ibs/acre
-
-3,000
-2,500
-2,000
-1,500
-1,000
-
-500
-
-Ibs/acre
-
-Existing soil nutrient conten’
-Plowdown credit
-Commercial fertilizer / Othe:
-Dry manure
-
-Process wastewater
-
-Fresh water
-
-Atmospheric deposition
-
-Total nutrients applied
-
-Anticipated crop nutrient removal
-
-Actual crop nutrient removal
-
-Nutrient balance
-
-Applied to removed ratio
-
-06/27/2024 07:52:34
-
-452 416 399 | 983
-
-46-42-54
-CM aoe
-N Pp K
-
-Total N (Ibs/acre)
-
-t 0.00
-0.00
-
-r 0.00
-0.00
-
-445.20
-
-0.00
-
-7.00
-
-452.20
-224.00
-415.94
-36.26
-1.09
-
-114
-
-ff
-
-salt
-
-Total P (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-46.31
-0.00
-0.00
-
-46.31
-42.00
-54.41
--8.09
-0.85
-
-MN Applied
-
-1 Anticipated
-
-MB Harvest
-
-Total K (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-398.67
-0.00
-0.00
-
-398.67
-184.80
-282.56
-116.12
-
-1.41
-
-Total salt (Ibs/acre)
-
-0.00
-0.00
-0.00
-0.00
-2,853.05
-106.65
-0.00
-
-2,959.70
-0.00
-1,114.43
-
-1,845.27
-2.66
-
-Fresh water applied
-74,550,000.00 gallons
-2,745.42 acre-inches
-
-39.22 inches/acre
-
-Process wastewater applied
-8,900,000.00 gallons
+3 - 06/01/2023 Corn, siIage
+FieId name 3 Crop Corn, siIage PIant date 06/01/2023
+Nutrient budget in lbs/acre
+3,000 HB AppIied
+2,500 Anticipated
+ 2,000 MB Harvest
+& 1,500 1,114
+2
+1 S00 452 416 399-983
+46 42 54 0
+0 Ge - 0
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 74,550,000.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 2,745.42 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 39.22 inches/acre
+Dry manure 0.00 0.00 0.00 0.00
+Process wastewater 445.20 46.31 398.67 2,853.05 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 106.65 8,900,000.00 gaIlons
+Atmospheric deposition 7.00 0.00 0.00 0.00
 327.76 acre-inches
-
-4.68 inches/acre
-
-Total harvests for the crop
-
-4 harvests
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-Page 23 of 36
+Total nutrients appIied 452.20 46.31 398.67 2,959.70
+_ . 4.68 inches/acre
+Anticipated crop nutrient removal 224.00 42.00 184.80 0.00
+Actual crop nutrient removal 415.94 54.41 282.56 1,114.43 Total harvests for the crop
+Nutrient baIance 36.26 -8.09 116.12 1,845.27 41 harvests
+AppIied to removed ratio 1.09 0.85 1.41 2.66
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 23 of 36
 
 PDF PAGE BREAK 23
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-4 - 11/01/2022: Wheat, silage, boot stage
-Field name: 4 Crop: Wheat, silage, boot stage Plant date: 11/01/2022
-
-Nutrient budget in Ibs/acre
-
-1,200 1,093 ME Applied
-1,000 ) Anticipated
-a 300 (MiiHarest | Harvest
+4 - 11/01/2022 Wheat, siIage, boot stage
+FieId name 4 Crop Wheat, siIage, boot stage PIant date 11/01/2022
+Nutrient budget in lbs/acre
+1,200 1,093 HB AppIied
+1,000 1 Anticipated
+     800 MB Harvest
 & 600
-2 400 283.
-226 ell 83
-a id
-0 i
-N Pp salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 16,350,000.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 602.11 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 9.26 inches/acre
+2 400 283 996 183 287
+200 Bes 31 45 48 0
+0 gS Be
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 16,350,000.00 gaIlons
+PIowdown credit 0.00 0.00 0.00 0.00 602.11 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 9.26 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 276.47 30.71 183.05 1,067.82 Process wastewater applied
-Fresh wat 0.00 0.00 0.00 25.19
-resn water 3,315,000.00 gallons
+Process wastewater 276.47 30.71 183.05 1,067.82 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 25.19 3,315,000.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 122.08 acre-inches
-Total nutrients applied 283.47 30.71 183.05 1,093.01
+Total nutrients appIied 283.47 30.71 183.05 1,093.01
 _ . 1.88 inches/acre
 Anticipated crop nutrient removal 256.00 44.80 192.00 0.00
 Actual crop nutrient removal 225.77 47.60 286.79 1,189.89 Total harvests for the crop
-Nutrient balance 57.70 -16.88 -103.75 -96.88 4 harvests
-Applied to removed ratio 1.26 0.65 0.64 0.92
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 24 of 36
+Nutrient baIance 57.70 -16.88 -103.75 -96.88 1 harvests
+AppIied to removed ratio 1.26 0.65 0.64 0.92
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 24 of 36
 
 PDF PAGE BREAK 24
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
-4 - 06/01/2023: Corn, silage
-
-Field name: 4 Crop: Corn, silage Plant date: 06/01/2023
-Nutrient budget in Ibs/acre
-2,000 a] [MI Applied
-, 1 Anticipated
-» 1,500 1,170 ME Harvest
-6
-£ 1,000
-=
-500 252 488 208-271
-27 31 0
-N Pp K salt
-Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
-Existing soil nutrient content 0.00 0.00 0.00 0.00 76,240,000.00 gallons
-Plowdown credit 0.00 0.00 0.00 0.00 2,807.66 acre-inches
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00 43.19 inches/acre
+4 - 06/01/2023 Corn, siIage
+FieId name 4 Crop Corn, siIage PIant date 06/01/2023
+Nutrient budget in lbs/acre
+2,000 1,622 MM AppIied
+Anticipated
+o 1,500 1,170 MB Harvest
+s 1,000
+2
+500 252 188 am 28 21 3
+0 Boe Om,
+N P K saIt
+Total N (lbs/acre) Total P (lbs/acre) Total K (lbs/acre) Total saIt (lbs/acre) Fresh water appIied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 76,240,000.00 gaIfons
+PIowdown credit 0.00 0.00 0.00 0.00 2,807.66 acre-inches
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00 43.19 inches/acre
 Dry manure 0.00 0.00 0.00 0.00
-Process wastewater 244.88 26.50 207.71 1,504.30 Process wastewater applied
-Fresh water 0.00 0.00 0.00 117.46 4,695,000.00 gallons
+Process wastewater 244.88 26.50 207.71 1,504.30 Process wastewater appIied
+Fresh water 0.00 0.00 0.00 117.46 4,695,000.00 gaIlons
 Atmospheric deposition 7.00 0.00 0.00 0.00
 172.90 acre-inches
-Total nutrients applied 251.88 26.50 207.71 1,621.76
+Total nutrients appIied 251.88 26.50 207.71 1,621.76
 _ . 2.66 inches/acre
 Anticipated crop nutrient removal 224.00 42.00 184.80 0.00
 Actual crop nutrient removal 188.10 31.35 270.75 1,169.93 Total harvests for the crop
-Nutrient balance 63.78 -4.85 -63.04 451.83 4 harvests
-Applied to removed ratio 1.34 0.85 0.77 1.39
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 25 of 36
+Nutrient baIance 63.78 -4.85 -63.04 451.83 41 harvests
+AppIied to removed ratio 1.34 0.85 0.77 1.39
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 25 of 36
 
 PDF PAGE BREAK 25
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
-
 A. MANURE ANALYSES
-
 Dry Manure
-Sample and source description: Dry Manure
-Sample date: 06/09/2023 __ Material type: Corral solids Source of analysis: Lab analysis Method of reporting: Dry-weight
-Moisture: 64.5 %
-Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
-(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
-Value 8,800.00 1,700.00 6,500.00 4,300.00 1,700.00 1,700.00 16,001.00 214.40 23.60
+SampIe and source description Dry Manure
+SampIe date 06/09/2023 Material type. Corral soIids Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 64.5
+Total N Total P Total K CaIcium Magnesium Sodium SuIfur ChIoride Total saIt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+VaIue 8,800.00 1,700.00 6,500.00 4,300.00 1,700.00 1,700.00 16,001.00 214.40 23.60
 DL 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00 1.00
 Dry Manure
-Sample and source description: Dry Manure
-Sample date: 10/27/2023 Material type: Corral solids Source of analysis: Lab analysis Method of reporting: Dry-weight
-Moisture: 28.9 %
-Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
-(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
-Value 9,500.00 5,600.00 19,900.00 55.65
+SampIe and source description Dry Manure
+SampIe date 10/27/2023 Material type Corral soIids Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 28.9
+Total N Total P Total K CaIcium Magnesium Sodium SuIfur ChIoride Total saIt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) ()
+VaIue 9,500.00 5,600.00 19,900.00 55.65
 DL 100.00 100.00 100.00 1.00
-
 B. PROCESS WASTEWATER ANALYSES
-
 1st Qtr WW
-Sample and source description: 1st Qtr WW
-Sample date: 02/03/2022 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.54
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK = Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 649.61 161.07 0.00 0.00 72.16 430.10 3,920.00 2,509
+SampIe and source description 1st Qtr WW
+SampIe date 02/03/2022 Material type Process wastewater Source of anaIysis Lab anaIysis pH 7.54
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 649.61 161.07 0.00 0.00 72.16 430.10 3,920.00 2,509
 DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 26 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 26 of 36
 
 PDF PAGE BREAK 26
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 2nd Qtr WW
-Sample and source description: 2nd Qtr WW
-
-Sample date: 06/09/2022 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.58
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 379.60 138.60 0.00 0.00 44.60 282.30 5.90 4.80 6.00 31.60 0.00 1.10 3.70 3,296.00 2,109
+SampIe and source description 2nd Qtr WW
+SampIe date 06/09/2022 Material type Process wastewater Source of anaIysis. Lab anaIysis pH 7.58
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 379.60 138.60 0.00 0.00 44.60 282.30 5.90 4.80 6.00 31.60 0.00 1.10 3.70 3,296.00 2,109
 DL 67.00 0.57 0.01 0.01 0.64 0.01 0.02 0.01 0.01 0.10 0.10 0.01 0.01 1.00 19
 3rd Qtr WW
-Sample and source description: 3rd Qtr WW
-Sample date: 09/13/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.84
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 459.60 242.90 0.00 0.00 42.70 469.20 5,108.00 3,269
+SampIe and source description 3rd Qtr WW
+SampIe date 09/13/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH 7.84
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 459.60 242.90 0.00 0.00 42.70 469.20 5,108.00 3,269
 DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 4th Qtr WW
-Sample and source description: 4th Qtr WW
-Sample date: 12/08/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.38
-Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
-(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
-Value 279.70 121.00 0.00 0.00 56.98 226.80 3,059.00 1,957
+SampIe and source description 4th Qtr WW
+SampIe date 12/08/2023 Material type Process wastewater Source of anaIysis. Lab anaIysis pH 7.38
+KjeIdahl-N NH4-N NH3-N _ Nitrate-N Total P TotaIK CaIcium Magnes. Sodium Bicarb. Carb. SuIfate ChIoride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+VaIue 279.70 121.00 0.00 0.00 56.98 226.80 3,059.00 1,957
 DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
-
 C. FRESH WATER ANALYSES
-
 Barn
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34
-
-Page 27 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 27 of 36
 
 PDF PAGE BREAK 27
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Barn
-
 Barn
-
-Sample description: Barn
-
-Sample date: 12/13/2023 Source of analysis: Lab analysis
-
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+SampIe description Barn
+SampIe date 12/13/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 0.70 1,120.00
-DL 0.10 10.00
-
+VaIue 0.70 1,120.00
+OL 0.10 10.00
 Canal
-
 Canal
-
-Sample description: Canal
-Sample date: 08/17/2023 Source of analysis: Lab analysis
-
-Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+SampIe description Canal OO
+SampIe date 08/17/2023 Source of anaIysis Lab anaIysis
+Total N NH4-N Nitrate-N CaIcium Magnesium Sodium Bicarbonate Carbonate SuIfate ChIoride Ec TDS
 (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
-Value 0.00 20.00
+VaIue 0.00 20.00
 DL 0.10 1.00
-
 D. SOIL ANALYSES
-No soil analyses entered.
-
+No soil anaIyses entered.
 E. PLANT TISSUE ANALYSES
-
-1 - 11/01/2022: Wheat, silage, boot stage
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 28 of 36
+1 - 11/01/2022 Wheat, siIage, boot stage
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 28 of 36
 
 PDF PAGE BREAK 28
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-1 - 11/01/2022: Wheat, silage, boot stage
+1 - 11/01/2022 Wheat, siIage, boot stage
 1
-
-Sample and source description: 1
-Sample date: 05/23/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 58.8 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 29,100.00 4,700.00 37,700.00 11.89
+SampIe and source description 1
+SampIe date 05/23/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 58.8
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 29,100.00 4,700.00 37,700.00 11.89
 DL 100.00 100.00 100.00 1.00
-
-1 - 06/01/2023: Corn, silage
+1 - 06/01/2023 Corn, siIage
 1
-
-Sample and source description: 1
-Sample date: 10/27/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 69.4 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 23,500.00 2,700.00 22,700.00 6.58
+SampIe and source description 1
+SampIe date 10/27/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 69.4
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 23,500.00 2,700.00 22,700.00 6.58
 DL 100.00 100.00 100.00 1.00
-
-2 - 11/01/2022: Wheat, silage, boot stage
+2 - 11/01/2022 Wheat, siIage, boot stage
 2
-Sample and source description: 2
-
-Sample date: 05/23/2023 Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 69.8 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 17,100.00 4,100.00 23,200.00 9.91
+SampIe and source description 2
+SampIe date 05/23/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 69.8
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 17,100.00 4,100.00 23,200.00 9.91
 DL 100.00 100.00 100.00 1.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34
-
-Page 29 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 29 of 36
 
 PDF PAGE BREAK 29
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-2 - 06/01/2023: Corn, silage
+2 - 06/01/2023 Corn, siIage
 2
-
-Sample and source description: 2
-Sample date: 10/27/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 66.7 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 21,600.00 2,600.00 16,000.00 7.58
+SampIe and source description 2
+SampIe date 10/27/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 66.7
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 21,600.00 2,600.00 16,000.00 7.58
 DL 100.00 100.00 100.00 1.00
-
-3 - 11/01/2022: Wheat, silage, boot stage
+3 - 11/01/2022 Wheat, siIage, boot stage
 3
-
-Sample and source description: 3
-Sample date: 05/26/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 65.3 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 23,000.00 4,500.00 21,500.00 9.87
+SampIe and source description 3
+SampIe date 05/26/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 65.3
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 23,000.00 4,500.00 21,500.00 9.87
 DL 100.00 100.00 100.00 1.00
-
-3 - 06/01/2023: Corn, silage
+3 - 06/01/2023 Corn, siIage
 3
-
-Sample and source description: 3
-
-Sample date: 10/27/2023 Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 64.9 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 23,700.00 3,100.00 16,100.00 6.35
+SampIe and source description 3
+SampIe date 10/27/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 64.9
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 23,700.00 3,100.00 16,100.00 6.35
 DL 100.00 100.00 100.00 1.00
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34
-
-Page 30 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 30 of 36
 
 PDF PAGE BREAK 30
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-4 - 11/01/2022: Wheat, silage, boot stage
+4 - 11/01/2022 Wheat, siIage, boot stage
 4
-
-Sample and source description: 4
-Sample date: 05/26/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 66.1 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 18,500.00 3,900.00 23,500.00 9.75
+SampIe and source description 4
+SampIe date 05/26/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 66.1
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 18,500.00 3,900.00 23,500.00 9.75
 DL 100.00 100.00 100.00 1.00
-
-4 - 06/01/2023: Corn, silage
+4 - 06/01/2023 Corn, siIage
 4
-
-Sample and source description: 4
-Sample date: 10/27/2023
-
-Source of analysis: Lab analysis
-
-Method of reporting: Dry-weight
-Moisture: 71.5 %
-
-Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
-Value 13,200.00 2,200.00 19,000.00 8.21
+SampIe and source description 4
+SampIe date 10/27/2023 Source of anaIysis Lab anaIysis Method of reporting Dry-weight
+Moisture 71.5
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total saIt (mg/kg) TFS ()
+VaIue 13,200.00 2,200.00 19,000.00 8.21
 DL 100.00 100.00 100.00 1.00
-
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
-
-No subsurface (tile) drainage analyses entered.
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34
-
-Page 31 of 36
+No subsurface (tiIe) drainage anaIyses entered.
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 31 of 36
 
 PDF PAGE BREAK 31
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
-
 A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
-
-Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Total N (lbs) Total P (lbs) Total K (lbs) Total saIt (lbs)
 Existing soil nutrient content 0.00 0.00 0.00 0.00
-Plowdown credit 0.00 0.00 0.00 0.00
-Commercial fertilizer / Other 0.00 0.00 0.00 0.00
+PIowdown credit 0.00 0.00 0.00 0.00
+Commercial fertiIizer / Other 0.00 0.00 0.00 0.00
 Dry manure 0.00 0.00 0.00 0.00
 Process wastewater 181,482.88 19,613.97 141,133.20 937,763.37
 Fresh water 0.00 0.00 0.00 37,059.81
 Atmospheric deposition 3,640.00 0.00 0.00 0.00
-Total nutrients applied 185,122.88 19,613.97 141,133.20 974,823.18
+Total nutrients appIied 185,122.88 19,613.97 141,133.20 974,823.18
 Anticipated crop nutrient removal 124,800.00 22,568.00 97,968.00 0.00
 Actual crop nutrient removal 162,744.03 25,594.58 168,736.92 642,449.07
-Nutrient balance 22,378.85 -5,980.62 -27,603.72 332,374.10
-Applied to removed ratio 1.14 0.77 0.84 1.52
-
+Nutrient baIance 22,378.85 -5,980.62 -27,603.72 332,374.10
+AppIied to removed ratio 1.14 0.77 0.84 1.52
 B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
-
-1,000,000 (MN Applied
-9 3 9) Anticipated
+1,000,000 ME AppIied
+9 3 Anticipated
 800,000 MB Harvested
 642,449
-
-Ibs
-
 600,000
+8
 400,000
 185,123
-200,000 , 141,133
-0 mend
-N Pp K
-
-salt
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 32 of 36
+                        141,133
+200,000 tem iby
+ofl mee F o
+                           Ot
+0 _ So
+N P K saIt
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 32 of 36
 
 PDF PAGE BREAK 32
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
-
 C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+Pounds of nitrogen appIied Pounds of phosphorus appIied
+Existing soil nutrient content 0 Existing soil nutrient content 0
+PIowdown credit 0 PIowdown credit 0
+Commercial fertiIizer / Other 0 Commercial fertiIizer / Other 0
+Dry manure 0 Dry manure 0
+Fresh water 0 Fresh water 0
+Atmospheric deposition 3,640 Atmospheric deposition 0
+) 50,000 100,000 150,000 200,000 0 5,000 10,000 15,000 20,000
+lbs lbs
 
-Pounds of nitrogen applied | Pounds of phosphorus applied |
-Existing soil nutrient content —0 Existing soil nutrient content —0
-Plowdown credit —0 Plowdown credit —0
-Commercial fertilizer / Other —9 Commercial fertilizer / Other —0
-Dry manure —0 Dry manure -0
-Fresh water 0 Fresh water —0
-Atmospheric deposition | 3,640 Atmospheric deposition —0
-0 50,000 100,000 150,000 200,000 0 5,000 10,000 15,000 20,000
-Ibs Ibs
+a, YY
 
-Pounds of potassium applied Pounds of salt applied
-Existing soil nutrient content —0 Existing soil nutrient content —0
-Plowdown credit —0 Plowdown credit —0
-Commercial fertilizer / Other —0 Commercial fertilizer / Other —0
-Dry manure —0 Dry manure —0
+Pounds of potassium appIied Pounds of saIt appIied
+Existing soil nutrient content 0 Existing soil nutrient content 0
+PIowdown credit 0 PIowdown credit 0
+Commercial fertiIizer / Other 0 Commercial fertiIizer / Other 0
+Dry manure 0 Dry manure 0
 
-Process wastewater. lll Process wastewater |i i is37i7633
-Fresh water —0 Fresh water B 37,060
-Atmospheric deposition —0 Atmospheric deposition —0
-0 40,000 80,000 120,000 160,000 0 400,000 800,000
+Fresh water 0 Fresh water 37,060
+Atmospheric deposition 0 Atmospheric deposition 0
+it) 40,000 80,000 120,000 160,000 it) 400,000 800,000
 20,000 60,000 100,000 140,000 200,000 600,000 1,000,000
-Ibs Ibs
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 33 of 36
+lbs lbs
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 33 of 36
 
 PDF PAGE BREAK 33
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
-
 A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
-
-The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise)
-when not in accordance with the facility's Nutrient Management Plan.
-
+The foIlowing is a summary of aIl manure and process wastewater discharges from the production area to surface water or to land areas (land appIication areas or otherwise)
+when not in accordance with the faciIitys Nutrient Management PIan.
 No manure or process wastewater discharges occurred during the reporting period.
-
 B. STORM WATER DISCHARGES
-
-The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient
-Management Plan.
-
+The foIlowing is a summary of aIl storm water discharges from the production area to surface water during the reporting period when not in accordance with the faciIity s Nutrient
+Management PIan.
 No stormwater discharges occurred during the reporting period.
-
 C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
-
-The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the
-facility's Nutrient Management Plan.
-
-No land application area to surface water discharges occurred during the reporting period.
-
+The foIlowing is a summary of aIl discharges from the land appIication area to surface water that have occurred during the reporting period when not in accordance with the
+faciIitys Nutrient Management PIan.
+No land appIication area to surface water discharges occurred during the reporting period.
 NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
-
 A. NUTRIENT MANAGEMENT PLAN STATEMENTS
-Was the facility's NMP updated in the reporting period? No
-
-Was the facility's NMP developed by a certified nutrient management planner Yes
-(specialist) as specified in Attachment C of the General Order?
-
-Was the facility's NMP approved by a certified nutrient management planner Yes
-(specialist) as specified in Attachment C of the General Order?
-
+Was the faciIitys NMP updated in the reporting period No
+Was the faciIitys NMP deveIoped by a certified nutrient management pIanner Yes
+(speciaIist) as specified in Attachment C of the General Order
+Was the faciIitys NMP approved by a certified nutrient management pIanner Yes
+(speciaIist) as specified in Attachment C of the General Order
 B. EXPORT AGREEMENT STATEMENT
-
 Are there any written agreements with third parties to receive manure or process No
-wastewater that are new or were revised within the reporting period?
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 34 of 36
+wastewater that are new or were revised within the reporting period
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 34 of 36
 
 PDF PAGE BREAK 34
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
 
 A. NOTES
 
-All wells were all negative for Ammonia which we tested onsite using a test strip .
+AIl weIls were aIl negative for Ammonia which we tested onsite using a test strip.
 
-We had an extremely wet year and had early flood release water and then Canal water thru the whole year so no wells were turned on .
+We had an extremeIy wet year and had earIy fIood reIease water and then Canal water thru the whoIe year so no weIls were turned on .
 
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 35 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+
+06/27/2024 075234 Page 35 of 36
 
 PDF PAGE BREAK 35
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
-
 A. OWNER AND/OR OPERATOR CERTIFICATION
-
-| certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry
-of those individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant
-penalties for submitting false information, including the possibility of fine and imprisonment.
-
+ certify under penaIty of law that I have personaIly examined and am famiIiar with the information submitted in this document and aIl attachments and that, based on my inquiry
+of those individuaIs immediateIy responsibIe for obtaining the information, beIieve that the information is true, accurate, and compIete. am aware that there are significant
+penaIties for submitting faIse information, incIuding the possibiIity of fine and imprisonment.
 SIGNATURE OF OWNER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
-Bos Capital Matt Gailey
-
+Bos Capital Matt GaiIey
 PRINT OR TYPE NAME PRINT OR TYPE NAME
-
 DATE DATE
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 36 of 36
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 36 of 36
 
 PDF PAGE BREAK 36
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
 A. REQUIRED ATTACHMENTS
-
-The following lists the required documents that should be attached to the Annual Report when submitted .
-Annual Dairy Facility Assessment
-
-Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
-page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
-
+The foIlowing lists the required documents that shouId be attached to the Annual Report when submitted .
+Annual Dairy FaciIity Assessment
+Provide an Annual Dairy FaciIity Assessment (an update to the PreIiminary Dairy FaciIity Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, cIick on the ADFA Report button to generate an ADFA report after updating information as needed.
 Manure/Process Wastewater Tracking Manifests
-
-Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
-
+Provide copies of aIl manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauIer.
 Corrective Actions Documents
-
-Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
-General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
-
+Provide records documenting any corrective actions taken to correct deficiencies noted as a resuIt of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an expIanation of the factors preventing immediate correction.
 Groundwater Monitoring
-
-Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+Dischargers that monitor suppIy weIls or subsurface (tiIe) drainage systems, or that have monitoring weIl systems must submit monitoring resuIts as directed in the
 General Order, Groundwater Reporting Section starting on page MRP-13.
-
 Storm Water Monitoring
-
-Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Dischargers that are required to monitor storm water more frequentIy than required in the General Order must submit monitoring resuIts as directed in the General Order,
 Storm Water Reporting Section on page MRP-14.
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-
-06/27/2024 07:52:34 Page 1 of 1
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 1 of 1
 
 PDF PAGE BREAK 37
+
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
-
 A. OWNER AND/OR OPERATOR CERTIFICATION
-
-| certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry
-of those individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant
-penalties for submitting false information, including the possibility of fine and imprisonment.
-
-SIGNATURE OF
-
-IER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
-Bos Capital Matt Gailey
+ certify under penaIty of law that have personaIly examined and am famiIiar with the information submitted in this document and ail attachments and that, based on my inquiry
+of those individuaIs immediateIy responsibIe for obtaining the information, beIieve that the information is accurate, and compIete. am aware that there are significant
+penaIties for submitting faIse information, incIuding the possibiIity of fine and imprisonment.
+a
+/
+SIGNATURE OF IER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
+Bos Capital Matt GaiIey
 PRINT OR TYPE NAME PRINT OR TYPE NAME
-(14 ah
-DATE DATE
-
-Kerman Cattle Co | 4301 S Dickenson | Fresno, CA 93706 | Fresno County | Tulare Basin
-06/27/2024 07:52:34 Page 36 of 36
+(pIiiky (aIana
+DATE OATE
+Kerman CattIe Co 4301 S Dickenson Fresno, CA 93706 Fresno County TuIare Basin
+06/27/2024 075234 Page 36 of 36
 
 PDF PAGE BREAK 38
+
 Manure / Process Wastewater Tracking Manifest
 For
-
-Existing Milk Cow Dairies
+Existing MiIk Cow Dairies
 General Order No. R5-2007-0035, Attachment D
-
 INSTRUCTIONS
-
-1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
-manure is being hauled to the same destination.
-
-2) If there are multiple destinations, complete a separate form for each destination.
-3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
-
-4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
-Existing Milk Cow Dairies.
-
+1) CompIete one manifest for each hauIing event, for each destination. A hauIing event may last for several days, as long as the
+manure is being hauIed to the same destination.
+2) If there are muItipIe destinations, compIete a separate form for each destination.
+3) The operator must obtain the signature of the hauIer upon compIetion of each manure/process wastewater hauIing event.
+4) The operator shaIl submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing MiIk Cow Dairies.
 OPERATOR INFORMATION
-
-Name of Operator: Matt Gailey
-Name of Dairy Facility: Kerman Cattle Co
-
-Facility Address:
-
+Name of Operator. Matt GaiIey me
+Name of Dairy FaciIity Kerman CattIe Co Ce
+FaciIity Address
 4301 S Dickenson Fresno Fresno 93706
-
 Number and Street City County Zip Code
-
-Contact Person Name and Phone Number: Matt Gailey (559) 280-2972
+Contact Person Name and Phone Number. Matt GaiIey (589) 280-2972
 Name Phone Number
-
 MANURE HAULER INFORMATION
-
-Name of Hauling Company/Person: Burrows Brothers Trucking
-Address of Hauling Company/Person:
-
+Name of HauIing Company/Person. Burrows Brothers Trucking
+Address of HauIing Company/Person
 13265 W Kamm AVE Kerman CA 93656
-
 Number and Street City State Zip Code
-
-Contact Person: Lonie Burrows (559) 246-3831
+Contact Person Lonie Burrows (559) 246-3831
 Name Phone Number
-
-DESTINATION INFORMATION ‘
-
-Composting Facility / Broker / Farmer / Other (identify): Broker
-Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
-
+DESTINATION INFORMATION .
+Composting FaciIity / Broker / Farmer / Other (identify) Broker
+Contact information of Composting FaciIity, Broker, Farmer, or Other (as identified above).
 Burrow Brother Trucking (559) 246-3831
 Name Phone Number
 13265 Kerman Kerman CA 93656
 Address City State Zip Code
-Destination Address or Assessor's Parcel Number:
-
+Destination Address or Assessors Parcel Number-
 Kerman 93656
 Address City Zip Code
 Kamm Fresno
 Street and nearest cross street (if no address) County
-Assessor's Parcel Number Assessor's Parcel Number County
-
-Last date hauled: 10/22/2023
+Assessors Parcel Number Assessors Parcel Number County
+Last date hauted 10/22/2023
 
 PDF PAGE BREAK 39
+
 Manure / Process Wastewater Tracking Manifest
 For
-
-Existing Milk Cow Dairies
+Existing MiIk Cow Dairies
 General Order No. R5-2007-0035, Attachment D
-
 MANURE AMOUNT HAULED
-Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
-Manure: 5,200.00 tons
-Manure Solids Content: 71.1 %
-Method used to determine amount of manure:
-
+Enter the amount of manure hauIed in tons, manure soIids content, and the method used to caIcuIate the amount
+Manure. 5,200.00 tons
+Manure SoIids Content. 71.1
+Method used to determine amount of manure
 Weighted Average
-
 CERTIFICATION
-
-| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
-based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
-accurate, ahd ‘complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
-
-fine and imprisonment for knowing violations.
-(y [27l04
-
-Oper: ignature Date
-~. Buonews (lpale4
-
-Hauler Signature Date
-
+ decIare under penaIty of law that personaIly examined and am famiIiar with the information submitted in this document, and that
+based on my inepiry of those individuaIs immediateIy responsibIe for obtaining the information, I beIieve that the information is true ,
+accurate, afid compIete. 1 am aware that there are significant penaIties for submitting faIse information, incIuding the possibiIity of a
+fine apd imprisonment for knowing vioIations.
+(27hy
+Oper ignature Date
+, OIly
+HauIer Signature Date
 
 PDF PAGE BREAK 40
-SELLAVALLE™
 
-LABORATORY INC
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+SampIes in this Report
 
-Kerman Cattle Co
-PO Box 370
-Kerman, CA 93630
+Lab ID SampIe Matrix SampIed By Crop Date SampIed
+23L0669-01 Barn Ag Water Medeiros 12/12/2023 7210
+DefauIt CooIer Temperature on Receipt C 19.2
 
-Account# 00-0025824
-Account Manager: Ben Nydam
-Submitted By: Christina Medeiros
-
-Samples in this Report
-
-Lab ID Sample Matrix Sampled By Crop
-
-23L0669-01 Barn Ag Water Medeiros
-
-Default Cooler
 Containers Intact
-COC/Labels Agree
+
+COC/LabeIs Agree
+
 Received On Ice
 
-Temperature on Receipt °C: 19.2
-
 Notes and Definitions
-Item Definition
-H Hold Time Exceeded
-MCL Drinking Water Maximum Contaminant Level
-ND Analyte NOT DETECTED at or above the reporting limit.
-NES Not Enough Sample
-* Not Taken
-RPD Relative Percent Difference
-%REC Percent Recovery
-Source Sample that was matrix spiked or duplicated.
 
-Lox M4 picllenel
+Item Definition
+H HoId Time Exceeded
+MCL Drinking Water Maximum Contaminant Level
+ND AnaIyte NOT DETECTED at or above the reporting limit.
+NES Not Enough SampIe
+                  Not Taken
+RPD ReIative Percent Difference
+YREC Percent Recovery
+Source SampIe that was matrix spiked or dupIicated.
 
 Laboratory Director/Technical Manager
 
-ELAP Certification #1595
-A2LA Certification #6440.02
+ELAP Certification 1595
 
-Received: 12/13/2023 7:00
-Reported: 12/20/2023 11:17
+A2LA Certification 46440.02
 
-Date Sampled
-
-12/12/2023 7:10
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody decument. This anaIytical report must be reproduced in its entireIy.
+AIl resuIts listed in this report are for the excIusive use of the submitting party. DeIlavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 8
 
 PDF PAGE BREAK 41
-SELLAVALLE™
 
-LA
-
-Kerman
-PO Box
-
-BORATORY
-
-Cattle Co
-370
-
-Kerman, CA 93630
-
-Sample: Barn
-
-23L0669-01 (Water)
-
-INC
-
-Account# 00-0025824 Received: 12/13/2023 7:00
-Account Manager: Ben Nydam Reported: 12/20/2023 11:17
-
-Submitted By: Christina Medeiros
-
-Sample Results
-
-Sampled: 12/12/2023 7:10
-Sampled By: Medeiros
-
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+SampIe ResuIts
+SampIe Barn SampIed 12/12/2023 710
+23L0669-01 (Water) SampIed By Medeiros
 Reporting DW Date/Time
-Units Limit DIL MCL Analyzed Method
-
-Notes Batch
-
-Analyte Result
-
-Electrical Conductivity 1.12
-Electrical Conductivity umhos 1120
-Ammonia (as N) ND
-Nitrate Nitrogen as NO3N 0.7
-Temperature 25.0
-pH 7.7
-
-mmbhos/cm 0.01 1 12/13/23 16:09 SM 2510B
-umhos/cm 10.0 1 12/13/23 16:09 SM 2510B
-mg/L 0.00 1 12/12/23 07:10 Field
-mg/L 0.1 1 10 12/14/23 07:23 EPA 300.0
-units 0.0 1 12/13/23 16:09 SM 4500-H+
-units 1.0 1 12/13/23 16:09 SM 4500-H+
-
-BELO496
-BELO496
-BELOS16
-BELOS69
-H BELO496
-H BELO496
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+AnaIyte ResuIt Units Limit DIL MCL AnaIyzed Method Notes Batch
+EIectrical Conductivity 1.12) mmhos/cm 0.01 1 12/13/23 1609 SM 2510 B BELO496
+EIectrical Conductivity umhos 1120) umhos/cm 10.0 1 12/13/23 1609 SM 2510 B BELO496
+Ammonia (as N) ND mg/L 0.00 1 12/12/23 0710 FieId BELO516
+Nitrate Nitrogen as NO3N 0.7 mg/L OL 1 10 12/14/23 0723 EPA 300.0 BELOS69
+Temperature 25.0 units. 0.0 1 12/13/23 1609 SM 4500-H4 H BELO496
+pH WW units 1.0 1 12/13/23 1609 SM 4500-H4 H BELO496
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIfavaite Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 8
 
 PDF PAGE BREAK 42
-SELLAVALLE™
 
-LABORATORY INC
-
-Kerman Cattle Co Account# 00-0025824 Received: 12/13/2023 7:00
-PO Box 370 Account Manager: Ben Nydam Reported: 12/20/2023 11:17
-Kerman, CA 93630 Submitted By: Christina Medeiros
-
-Quality Control
-
-Reporting Spike Source
-
-Result Qual it Units Level Result %REC
-
-Batch: BELO496
-
-Blank (BEL0496-BLK1) Prepared & Analyzed: 12/13/2023
-
+T
+a
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+QuaIity Control
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
+Batch BELO496
+BIank (BEL0496-BLK1) Prepared & AnaIyzed 12/13/2023
 Temperature 25.0 0.0 units
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
-Electrical Conductivity umhos ND 10.0 umhos/cm
-
+EIectrical Conductivity ND 0.01 mmhos/cm
+EIectrical Conductivity umhos ND 10.0 umhos/cm
 pH 5.7 1.0 units
-
-Blank (BEL0496-BLK2) Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
+BIank (BEL0496-BLK2) Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity ND 0.01 mmhos/cm
 Temperature 25.0 0.0 units
-
-Electrical Conductivity umhos ND 10.0 umhos/cm
-
-pH 7.7 1.0 units
-
-Blank (BEL0496-BLK3) Prepared & Analyzed: 12/13/2023
-
+EIectrical Conductivity umhos ND 10.0 umhos/cm
+pH 77 1.0 units
+BIank (BEL0496-BLK3) Prepared & AnaIyzed 12/13/2023
 Temperature 25.0 0.0 units
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
-Electrical Conductivity umhos ND 10.0 umhos/cm
-
-pH 7.7 1.0 units
-
-Duplicate (BELO496-DUP1) Source: 23L0678-01 Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 0.26 0.01 mmhos/cm 0.26 0.960 10
-Electrical Conductivity umhos 262 10.0 umhos/cm 259 0.960 10
+EIectrical Conductivity ND 0.01 mmhos/cm
+EIectrical Conductivity umhos ND 10.0 umhos/cm
+pH 77 1.0 units
+DupIicate (BELO496-DUP1) Source 23L0678-01 Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 0.26 0.01 mmhos/cm 0.26 0.960 10
+EIectrical Conductivity umhos 262 10.0 umhos/cm 259 0.960 10
 pH 9.4 1.0 units 9.4 0.00 10
-Duplicate (BELO496-DUP2) Source: 23L0687-04 Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 0.43 0.01 mmhos/cm 0.42 0.587 10
+DupIicate (BELO496-DUP2) Source 23L0687-04 Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 0.43 0.01 mmhos/cm 0.42 0.587 10
 pH 8.2 1.0 units 8.2 0.00 10
-Electrical Conductivity umhos 427 10.0 umhos/cm 425 0.587 10
-Reference (BEL0496-SRM1) Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 444 umhos/cm 426.0 104 90-110
-
-Reference (BEL0496-SRM2) Prepared & Analyzed: 12/13/2023
-
-pH 75 units 7.520 100 67021-101.3:
-
-Reference (BEL0496-SRM3) Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 1070 umhos/cm 1000 107 90-110
-
-Electrical Conductivity umhos 1070 umhos/cm 1000 107 90-110
-
-Reference (BEL0496-SRM4) Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 1080 umhos/cm 1000 108 90-110
-
-Electrical Conductivity umhos 1080 umhos/cm 1000 108 90-110
-
-Reference (BEL0496-SRM5) Prepared & Analyzed: 12/13/2023
-
-Electrical Conductivity 1090 umhos/cm 1000 109 90-110
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+EIectrical Conductivity umhos 427 10.0 umhos/cm 425 0.587 10
+Reference (BELO0496-SRM1) Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 444 umhos/cm 426.0 104 90-110
+Reference (BELO0496-SRM2) Prepared & AnaIyzed 12/13/2023
+pH 7.5 units 7.520 100 6 7021-101.3.
+Reference (BELO0496-SRM3) Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 1070 umhos/cm 1000 107 90-110
+EIectrical Conductivity umhos 1070 umhos/cm 1000 107 90-110
+Reference (BEL0496-SRM4) Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 1080 umhos/cm 1000 108 90-110
+EIectrical Conductivity umhos 1080 umhos/cm 1000 108 90-110
+Reference (BEL0496-SRM5) Prepared & AnaIyzed 12/13/2023
+EIectrical Conductivity 1090 umhos/cm 1000 109 90-110
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIfavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 8
 
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
 PDF PAGE BREAK 43
-SELLAVALLE™
 
-LABORATORY INC
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
 
-Kerman Cattle Co Account# 00-0025824 Received: 12/13/2023 7:00
-PO Box 370 Account Manager: Ben Nydam Reported: 12/20/2023 11:17
-Kerman, CA 93630 Submitted By: Christina Medeiros
-Quality Control
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+
+QuaIity Control
 (Continued)
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
 
-Reporting Spike Source
+Batch BELO496 (Continued)
 
-Result Qual it Units Level Result %REC
+Reference (BEL0496-SRM5) Prepared & AnaIyzed 12/13/2023
 
-Batch: BELO496 (Continued)
+EIectrical Conductivity umhos 1090 umhos/cm 1000 109 90-110
 
-Reference (BEL0496-SRM5) Prepared & Analyzed: 12/13/2023
+Reference (BEL0496-SRM6) Prepared & AnaIyzed 12/13/2023
 
-Electrical Conductivity umhos 1090 umhos/cm 1000 109 90-110
-Reference (BEL0496-SRM6) Prepared & Analyzed: 12/13/2023
+pH 4.0 units 4,000 100 97.5-102.5
 
-pH 4.0 units 4.000 100 97.5-102.5
-Reference (BEL0496-SRM7) Prepared & Analyzed: 12/13/2023
+Reference (BEL0496-SRM7) Prepared & AnaIyzed 12/13/2023
 
 pH 4.0 units 4.000 101 97.5-102.5
-Reference (BEL0496-SRM8) Prepared & Analyzed: 12/13/2023
 
-pH 4.0 units 4.000 100 97.5-102.5
+Reference (BEL0496-SRM8) Prepared & AnaIyzed 12/13/2023
 
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+pH 4.0 units 4,000 100 97.5-102.5
+
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIlavaIle Laboratory, inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 8
 
 PDF PAGE BREAK 44
-SELLAVALLE™
 
-LABORATORY INC
-
-Kerman Cattle Co Account# 00-0025824 Received: 12/13/2023 7:00
-PO Box 370 Account Manager: Ben Nydam Reported: 12/20/2023 11:17
-Kerman, CA 93630 Submitted By: Christina Medeiros
-Quality Control
+T
+a
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+QuaIity Control
 (Continued)
-
-Reporting Spike Source %REC
-
-Result Qual Limit Units Level Result %REC Limits
-
-Batch: BELO569
-
-Blank (BELO569-BLK1) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-Blank (BELO569-BLK2) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-Blank (BELO569-BLK3) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-Blank (BELO569-BLK4) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-LCS (BELO569-BS1) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 5.0 0.1 mg/L 5.000 99.3 90-110
-LCS (BELO569-BS2) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 5.2 0.1 mg/L 5.000 103 90-110
-LCS (BELO569-BS3) Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 49 0.1 mg/L 5.000 98.7 90-110
-Duplicate (BELO569-DUP1) Source: 23L0625-01 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 0.06 0.1 mg/L 0.06 1.77 10
-Duplicate (BELO569-DUP2) Source: 23L0674-01 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 0.06 0.1 mg/L 0.06 0.00 10
-Duplicate (BELO569-DUP3) Source: 23L0730-02 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 0.06 0.1 mg/L 0.05 1.83 10
-Matrix Spike (BELO569-MS1) Source: 23L0625-01 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 5.0 0.1 mg/L 5.000 0.06 98.6 90-110
-Matrix Spike (BELO569-MS2) Source: 23L0674-01 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 48 0.1 mg/L 5.000 0.06 94.2 90-110
-Matrix Spike (BEL0569-MS3) Source: 23L0730-02 Prepared & Analyzed: 12/14/2023
-Nitrate Nitrogen as NO3N 48 0.1 mg/L 5.000 0.05 94.1 90-110
-Reference (BELO569-SRM1) Prepared & Analyzed: 12/14/2023
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
+Batch BELO569
+BIank (BELO569-BLK1) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+BIank (BELO569-BLK2) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+BIank (BELO569-BLK3) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+BIank (BELO569-BLK4) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+LCS (BELO569-BS1) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 5.0 O1 mg/L 5,000 99.3 90-110
+LCS (BELO569-BS2) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 5.2 O1 mg/L 5,000 103 90-110
+LCS (BELO569-BS3) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 4s O1 mg/L 5,000 98.7 90-110
+DupIicate (BELO569-DUP1) Source 23L0625-01 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 0.06 O1 mg/L 0.06 1.77 10
+DupIicate (BELO569-DUP2) Source 23L0674-01 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 0.06 O1 mg/L 0.06 0.00 10
+DupIicate (BELO569-DUP3) Source 23L0730-02 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 0.06 O1 mg/L 0.05 1.83 10
+Matrix Spike (BELO569-MS1) Source 23L0625-01 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 5.0 O1 mg/L 5,000 0.06 98.6 90-110
+Matrix Spike (BELO569-MS2) Source 23L0674-01 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 48 O1 mg/L 5,000 0.06 94.2 90-110
+Matrix Spike (BELO569-MS3) Source 23L0730-02 Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 48 O1 mg/L 5,000 0.05 94.1 90-110
+Reference (BELO569-SRM1) Prepared & AnaIyzed 12/14/2023
 Nitrate Nitrogen as NO3N 9.7 mg/L 10.00 97.4 90-110
-Reference (BELO0569-SRM2) Prepared & Analyzed: 12/14/2023
+Reference (BELO569-SRM2) Prepared & AnaIyzed 12/14/2023
 Nitrate Nitrogen as NO3N 9.8 mg/L 10.00 98.4 90-110
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIfavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 8
 
 PDF PAGE BREAK 45
-SELLAVALLE™
 
-LABORATORY INC
-
-Kerman Cattle Co
-PO Box 370
-Kerman, CA 93630
-
-Account# 00-0025824
-
-Received: 12/13/2023 7:00
-
-Account Manager: Ben Nydam Reported: 12/20/2023 11:17
-
-Submitted By: Christina Medeiros
-
-Quality Control
+Kerman CattIe Co Account 00-0025824 Received 12/13/2023 700
+PO Box 370 Account Manager Ben Nydam Reported 12/20/2023 1117
+Kerman, CA 93630 Submitted By Christina Medeiros
+QuaIity Control
 (Continued)
-
-Reporting Spike Source
-
-Result Qual it Units Level Result %REC
-
-Batch: BELO569 (Continued)
-
-Reference (BELO0569-SRM3)
-Nitrate Nitrogen as NO3N
-
-Prepared & Analyzed: 12/14/2023
-9.9 mg/L 10.00 99.0 90-110
-
-Reference (BELO569-SRM4)
-Nitrate Nitrogen as NO3N
-
-Prepared & Analyzed: 12/14/2023
-10.0 mg/L 10.00 99.7 90-110
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
+Batch BELO569 (Continued)
+Reference (BELO569-SRM3) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 9.9 mg/L 10.00 99.0 90-110
+Reference (BELO569-SRM4) Prepared & AnaIyzed 12/14/2023
+Nitrate Nitrogen as NO3N 10.0 mg/L 10.00 99.7 90-110
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIlavaIle Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
+1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 8
 
 PDF PAGE BREAK 46
-AWMNUIITI
 
-II
-
-| 12/13/23 07:00 23L0669
-j
-4 DELLAVALLE LABORATORY, INC.
-| WATER WORK REQUEST 1910 W. McKinley Avenue, Spite 110 + Fresno, CA 93728 ]
-Acct No. Cons www.dellavallelab.com 559 233-612§ + 800 228-9896 * Fax 559 268-8174
-; Bill To No. of Samples No. Bottles
-Water Type: Drinking Wastewater
-[Wag water (_] Ground Water LD Mon. well
-Purchase Order No. ‘ResultsNewkedBy ———SOSOS~ST (_] Supply Water Other
-i
-i Client Kerman Cattle Co Analysis and Bottles Required: (Please Indicate Analysis)
-] Address PO Box 370 Yi EC, NO,-N
-City, State, Zip Kerman CA 93630 (1) LL plastic, unpreserved (white)
-Email kermancattle@outlook.com DWWI: (EC, pH, NO,-N, NH,-N Field Test)
-| (1) 1L plastic, unpreserved (white)
-| DWW2?: (DWWI Plus SO,, CO;, HCOs, Cl, Ca, Mg, Na, TDS)
-Copy to: mel_tinamedeiros@yahoo.com (1) |L plastic, unpreserved (white)
-| Requested by/Cell: Christina Medeiros/ 559-903-2490 (1 DCW}: (EC, NO;-N, TDS)
-| () LL plastic, unpreserved (white)
-Facility:
-
-DPW1: (EC, pH, NO,-N, NHN, TKN, TDS, TP, TK )
-Date sampled (1) LL plastic, unpreserved (white)
-DPW2: (DPWI Plus Ca, Mg, Na, HCO;, CO3, SO,, Cl)
-
-Sampled by Me Le At os ~ (1) \L plastic, unpreserved (white)
-
-¥] QA/QC Document YZ] Copy of Chain ~— [_] RWacB Other t/e.
-
-|
-i
-i
-
-| Banat Time Field Received
-a DESCRIPTION OF SAMPLES Pm se NH4-N (mg/L) Temp °C
-
-j 0 _//_—— ea I nie Tre © 140-7 |.8
-
-vermomet 13
-IR Thermometer SN: 20056072:
-orc
-Correction Factor: .
-ean Due: 03/06/2024
-Location: Laboratory
-
-IR Thermometer SN: 221511276
-Correction Factor: 0°C
-Calibration Due: 03/06/2024
-Location: Hanford
-
-Case pee fe Received (DateTime)
-rm | \ Jp“ BEVIEVEGSIECE!,
-ee
-
-Third
-
-i a 5s 2 es ra
-
-1 gusrarte that asthe cient, oon half ofthe client named have the authority to contrat the ave raed services. Should ithe fou hat do nat have such authority, agree tobe personally Hable forall costs and if thee sul be ation against efor this Breach, rensaable
-storeys fes. tis understond that payment is expected tobe cash with samples unless terms have been previously arranged. Terms ar et 30 days; overdue acouns wil be charged a dated damage feof 2% per month (annually 24 %) or $5.00 per month whichever is greater.
-
-[payment is oot made when due and legitimate dispute exists concering the product of services of Dellaalle Laboratory, Inc it wil be submited 19 mediation under the Rules and Procedures of Creative Alternative wo [itgation, Ic. (cal) Ie dispute i nt resolved in mation, then
-the dispute wil be submited w binding arbitration through cal under its Rules and Procedures. Te pties wil equally bear the coats of mediatoa/abitration If however. the mediator declares that oo lpia dispie exists, then deblor will pay all mediation and arbitration cos, and in the event
-of arberanon,reesonable attorney fs of Dellavalle Laboratory
-
-Invoicing Information: Shipping
-Medeiros Pricing 2023
-‘Sampling Hrs Miles___ Consulting Signature
-
-‘Sample received in cooler with ice?
-Amt Paid B Check No. [ 1Yes [ 1 No eftupdate 2020
-
+12/13/23 0700 23L0669
+DELLAVALLE LABORATORY, INC.
+WATER WORK REQUEST 1910 W. McKinIey Avenue, Spite 110 Fresno, CA 93728 i
+Acct No. Cons, www.deIlavaIleIab.com 559 233-6129 800 228-9896 Fax 559 268-8174
+BiIl To No. of SampIes No. BottIes
+Water Type Drinking Wastewater
+                                                                                                                                                                                    TLAg Water (Ground water DB Mon. wer
+                                                   Purchase Order No. ResuIts Newded By (_T suppIy Water CJ other
+y CIient Kerman CattIe Co AnaIysis and BottIes Required (PIease Indicate AnaIysis)
+Address PO Box 370 Y EC, NO,-N
+City, State, Zip Kerman CA 93630 (1) LL pIastic, unpreserved (white)
+Email KermancattIeoutIook.com (0 DWwIs (EC, pH, NO,-N, NHN FieId Test)
+                                                                                                                         ()1L pIastic, unpreserved (white)
+1 Dww2 (DWW1 Phis SO,, COs, HCO, Cl, Ca, Mg, Na, TDS)
+Copy to mel_tinamedeirosyahoo.com (DLL pIastic, unpreserved (white)
+Requested by/CeIl Christina Medeiros/ 559-903-2490 C1 Dcw1 (EC, NO,-N, TDS)
+(1) LL pIastic, unpreserved (white)
+FaciIity
+TTT os) DP WI (EC, pH, NO -N, NH,-N, TKN, TDS, TP, TK )
+Date sampIed (1) LL pIastic, unpreserved (white)
+CtCzZYEOdDD P22 (DPPW1L PIus Ca, Mg, Na, HCO, COs, SO,, Cl)
+SampIed by_ MECARACOS (DLL pIastic, unpreserved (white)
+1 aavacdocument (Z) Copyofchain ( Rwaces O Other
+. Visa Meee ll Tere it /-.
+2 ies
+3 pee
+ee 200560723
+4 Eee ee IR Thermometer eel
+ee rection Far 2008
+7 ee ee Wa Thesmometar SH 221511276
+2 Sa a a rr
+(CHAIN OF CUSTODY
+Pm AN fs i 3apn 1
+re ee ee ee
+qi a 77
+rr ee 7 ee 2s
+T gemramene thai aa the cfient, oF on haiheIf of Gee cHinad memes, U have the sudenrity to contract the uhave requened anrvicgs. StrouId i bet fowrt that t do mot have mach sathority, 1 agree to be personaIly ViabIe Sar afl enate and, 1 there about be action agaives. nee for this broach, resonabIe
+oor tab rriol ba poy ogre ner wi rg me es hon revo wegen et 30 ye to soil eared te aay 2 pr mth ay 249 058.00 pu ma crs ga
+Types erence a onc oer pe cay be Preteen a Darcey bil beodesttw nobones ure tIesed rohnert AbeIe gt. 2). rpc tenia mei et
+tes dinpate wiIl bs soteminved to hieaIing ethinvation Gereugh cal wader tts RtvIcs und Precederes. Ths prtios wiIl squniIy beer the onetx of maviation/ntetritiog if, however. the cixeistor decIbecs thei go legsngens diapns enicts, the debtor wiIl pay al) wadiatiod and arbitration coms, and us dhe evene
+el atin tember hae Date Urey.
+5 invoicing Information Shipping
+Medeiros Pricing 2023 s in
+                                                   SampIing Hre___MiIes__Corwukting s Ow Signature
+SampIe received in cooIer with icc
+Amt Paid Rec B (Check No. Date C 1Yes 1No ottsupdate 2020
 Page 7 of 8
 
 PDF PAGE BREAK 47
-antl
 
-Shipping Information: Shipped Inca Picked-Upo Walking DLISamplero Othero
-co Samples refridgerated before pick up a Picked up samples ee in.Jce chest
-Container: Ice Chest 2 Refrigerant: Wetlcet Bluelces Noneo
+EIU ,
 
-amples Preserved with HNO, or H2SO, were: o Received Preserved a Preserved on Receipt at Laborato:
+4 12/13/23 0700 23L0669
+j __ Shipping information Shipped Ina Picked-Upo WaIk Ingf DLISampIero Otherc
+      iL unpreserved (White) PIastic __) 4. i Ig 11 pe _1
+it air cgi gan te Subsenued (lod Caren
+                J RS OAR ON NS G2 cs
+                   LUST CTC SS as I a ee A
 
-yee  Conkainerte) Reseed RE SE A Os
-
-a a tt a ts sss
-
-PRO ni reserved ites Paste]
-ams a das es a Me —
-u a | se See ee ee A ee
-OR a a 2 ee 2 oe
-ee Ee 2 2 Se eee 2 ee ee
-1900 mL unpreserved (White) Plastic [| ra
-i J unorecet vas hite) Plastic Reh... SS 2! See Ree
-i a a Sees Sec eure ee Gee memes
-gs Mont uressned Melee | oot
-1 ni
-(2)
-
-PO4-P Kit
-
-VUA
-
-40mL AG VOA unpreserved (White) (Setof3)] |
-av mL AG VOA, neces ara (Setof3)[ |
-
-70m VOA, FigPOs
-
-som Na2S3! = ere
-a NI AA
-
-n
-
-a
-2
-oO
-
-Na2520
-\oa=
-~ = 90mL Plastic w/Borate/H
-anide - 500 mL NaOH
-sbestos - 1L P wrapped in foil (Set of 2
-ulfide - 1 L AG or P NaOH + ZnAc
-hlorite/Bromate - 250 mL AG with ED
-JAAS - 250mL AG Ammonium Chlorite
-O KIT
-
-as:
-
-APE
-
-|3
-TEE TEE ETT
-
-| |
-U
-
+HOMCVOK Nesaa(anenieros) TT eT Tt
+      ENE ein ie NS A TL A ST LS LS CS
+      LAG unpreserved(White) ss s Sd tT COU) SCOUT CUT CCC
+      Se ae a A A AT A SS LS
+      Asbestos - 1L P wrapped infol(Setor2) ft _ .. .) 1 j 1
+     8 Chiorte/Bromate-250mLAGwithEDAT y- J . _
+    & HAAS-250mL AG Ammonium Chiorte 4 1 / J. / 4d
+      en ST SS SS RA A A A RO NY
+. a SS TS ST A RS RS NN GS-0
 
 PDF PAGE BREAK 48
-SELLAVALLE™
 
-LABORATORY INC
+Kerman CattIe Co Account 00-0025824 Received 08/17/2023 8.40
+PO Box 370 Account Manager Ben Nydam Reported 08/23/2023 1415
+Kerman, CA 93630 Submitted By Christina Medeiros
+SampIes in this Report
 
-Kerman Cattle Co
-PO Box 370
-Kerman, CA 93630
+Lab ID SampIe Matrix SampIed By Crop Date SampIed
+23H1580-01 Canal Ag Water 08/16/2023 1530
+DefauIt CooIer Temperature on Receipt C 0.8
 
-Account# 00-0025824
-Account Manager: Ben Nydam
-Submitted By: Christina Medeiros
-
-Samples in this Report
-
-Lab ID Sample Matrix Sampled By Crop
-
-23H1580-01 Canal Ag Water
-
-Default Cooler
 Containers Intact
-COC/Labels Agree
+
+COC/LabeIs Agree
+
 Received On Ice
 
-Temperature on Receipt °C: 0.8
-
 Notes and Definitions
+
 Item Definition
 MCL Drinking Water Maximum Contaminant Level
-ND Analyte NOT DETECTED at or above the reporting limit.
-NES Not Enough Sample
-* Not Taken
-
-Lox M4 picllenel
+ND AnaIyte NOT DETECTED at or above the reporting limit.
+NES Not Enough SampIe
+                    Not Taken
 
 Laboratory Director/Technical Manager
 
-ELAP Certification #1595
-A2LA Certification #6440.02
+ELAP Certification 41595
 
-Received: 08/17/2023 8:40
-Reported: 08/23/2023 14:15
+A2LA Certification 46440.02
 
-Date Sampled
-
-08/16/2023 15:30
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody decument. This anaIytical report must be reproduced in its entireIy.
+AIl resuIts listed in this report are for the excIusive use of the submitting party. DeIlavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 6
 
 PDF PAGE BREAK 49
-SELLAVALLE™
 
-LABORATORY INC
-
-Kerman Cattle Co Account# 00-0025824 Received: 08/17/2023 8:40
-PO Box 370 Account Manager: Ben Nydam Reported: 08/23/2023 14:15
-Kerman, CA 93630 Submitted By: Christina Medeiros
-
-Sample Results
-
-Sample: Canal Sampled: 8/16/2023 15:30
-23H1580-01 (Water) Sampled By:
+Kerman CattIe Co Account 00-0025824 Received 08/17/2023 840
+PO Box 370 Account Manager Ben Nydam Reported 08/23/2023 14115
+Kerman, CA 93630 Submitted By Christina Medeiros
+SampIe ResuIts
+SampIe Canal SampIed 8/16/2023 1530
+23H1580-01 (Water) SampIed By
 Reporting DW Date/Time
-Analyte Result Units DIL MCL Analyzed Method Notes Batch
-Electrical Conductivity 0.02 =mmhos/cm 0.01 1 08/18/23 17:11 SM 2510B BEH0918
-Nitrate Nitrogen as NO3N ND mg/L 0.1 1 10 08/17/23 20:52 EPA 300.0 BEHO886
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+AnaIyte ResuIt Units Limit DIL MCL AnaIyzed Method Notes Batch
+EIectrical Conductivity 0.02) mmhos/cm 0.01 1 08/18/23 1711 SM 2510 B BEHO918
+Nitrate Nitrogen as NO3N ND mg/L O01 1 10 08/17/23 2052 EPA 300.0 BEHO886
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIl resuits listed in this report are for the excIusive use of the submitting party. DeIlavaIle Laboratory, inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 6
 
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
 PDF PAGE BREAK 50
-SELLAVALLE™
 
-LABORATORY INC
-
-Received: 08/17/2023 8:40
-Reported: 08/23/2023 14:15
-
-Kerman Cattle Co
-PO Box 370
-Kerman, CA 93630
-
-Account# 00-0025824
-Account Manager: Ben Nydam
-Submitted By: Christina Medeiros
-
-Quality Control
-
-Reporting Spike Source %REC
-
-Result Qual Limit Units Level Result %REC Limits
-
-Batch: BEHO886
-Blank (BEHO886-BLK1)
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-
-Prepared & Analyzed: 8/17/2023
-
-Blank (BEHO886-BLK2)
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-
-Prepared & Analyzed: 8/17/2023
-
-Blank (BEHO886-BLK3)
-Nitrate Nitrogen as NO3N ND 0.1 mg/L
-
-Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-LCS (BEHO886-BS1) Prepared & Analyzed: 8/17/2023
-Nitrate Nitrogen as NO3N 49 0.1 mg/L 5.000 97.8 90-110
-
-LCS (BEHO886-BS2) Prepared: 8/17/2023 Analyzed: 8/18/2023
-Nitrate Nitrogen as NO3N 49 0.1 mg/L 5.000 98.4 90-110
-
-Duplicate (BEHO886-DUP1) Source: 23H0170-01 Prepared & Analyzed: 8/17/2023
-Nitrate Nitrogen as NO3N 0.2 0.1 mg/L 0.2 0.475 10
-
-Duplicate (BEHO886-DUP2) Source: 23H1556-01 Prepared: 8/17/2023 Analyzed: 8/18/2023
-Nitrate Nitrogen as NO3N 5.8 0.1 mg/L 5.8 0.172 10
-
-Source: 23H0170-01
-
-Matrix Spike (BEHO886-MS1)
-Nitrate Nitrogen as NO3N
-
-5.2
-
-0.1
-
-mg/L
-
-Prepared & Analyzed: 8/17/2023
-5.000 0.2 99.6 90-110
-
-Matrix Spike (BEHO886-MS2)
-
-Source: 23H1556-01
-
-Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Nitrate Nitrogen as NO3N 10.8 0.1 mg/L 5.000 5.8 98.9 90-110
-Reference (BEHO886-SRM1) Prepared & Analyzed: 8/17/2023
-
+T
+a
+Kerman CattIe Co Account 00-0025824 Received 08/17/2023 840
+PO Box 370 Account Manager Ben Nydam Reported 08/23/2023 1415
+Kerman, CA 93630 Submitted By Christina Medeiros
+QuaIity Control
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
+Batch BEHO886
+BIank (BEHO886-BLK1) Prepared & AnaIyzed 8/17/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+BIank (BEHO886-BLK2) Prepared & AnaIyzed 8/17/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+BIank (BEHO886-BLK3) Prepared 8/17/2023 AnaIyzed 8/18/2023
+Nitrate Nitrogen as NO3N ND O1 mg/L
+LCS (BEHO886-BS1) Prepared & AnaIyzed 8/17/2023
+Nitrate Nitrogen as NO3N 4s O1 mg/L 5,000 97.8 90-110
+LCS (BEHO886-BS2) Prepared 8/17/2023 AnaIyzed 8/18/2023
+Nitrate Nitrogen as NO3N 4s O1 mg/L 5,000 98.4 90-110
+DupIicate (BEHO886-DUP1) Source 23H0170-01 Prepared & AnaIyzed 8/17/2023
+Nitrate Nitrogen as NO3N 0.2 O1 mg/L 0.2 0.475 10
+DupIicate (BEHO886-DUP2) Source 23H1556-01 Prepared 8/17/2023 AnaIyzed 8/18/2023
+Nitrate Nitrogen as NO3N 5.8 O1 mg/L 5.8 0.172 10
+Matrix Spike (BEHO886-MS1) Source 23H0170-01 Prepared & AnaIyzed 8/17/2023
+Nitrate Nitrogen as NO3N 5.2 O1 mg/L 5,000 0.2 99.6 90-110
+Matrix Spike (BEHO886-MS2) Source 23H1556-01 Prepared 8/17/2023 AnaIyzed 8/18/2023
+Nitrate Nitrogen as NO3N 10.8 O1 mg/L 5,000 5.8 98.9 90-110
+Reference (BEHO886-SRM1) Prepared & AnaIyzed 8/17/2023
 Nitrate Nitrogen as NO3N 9.9 mg/L 10.00 98.8 90-110
-Reference (BEHO886-SRM2) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
+Reference (BEHO886-SRM2) Prepared 8/17/2023 AnaIyzed 8/18/2023
 Nitrate Nitrogen as NO3N 10.0 mg/L 10.00 99.6 90-110
-Reference (BEHO886-SRM3) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
+Reference (BEHO886-SRM3) Prepared 8/17/2023 AnaIyzed 8/18/2023
 Nitrate Nitrogen as NO3N 10.0 mg/L 10.00 99.6 90-110
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIfavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 6
 
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
 PDF PAGE BREAK 51
-SELLAVALLE™
 
-LABORATORY
-
-Kerman Cattle Co
-PO Box 370
-Kerman, CA 93630
-
-Batch: BEHO918
-
-INC
-
-Account# 00-0025824
-Account Manager: Ben Nydam
-Submitted By: Christina Medeiros
-
-Quality Control
+T
+a
+Kerman CattIe Co Account 00-0025824 Received 08/17/2023 840
+PO Box 370 Account Manager Ben Nydam Reported 08/23/2023 1415
+Kerman, CA 93630 Submitted By Christina Medeiros
+QuaIity Control
 (Continued)
-
-Reporting Spike Source
-
-Result Qual Limit Units Level Result
-
-Received: 08/17/2023 8:40
-Reported: 08/23/2023 14:15
-
-%REC
-%REC Limits
-
-Blank (BEH0918-BLK1) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
-Blank (BEH0918-BLK2) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
-Blank (BEH0918-BLK3) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity ND 0.01 mmhos/cm
-
-Duplicate (BEHO918-DUP1) Source: 23H1497-03 Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 0.02 0.01 mmhos/cm 0.02 9.30 10
-Duplicate (BEHO918-DUP2) Source: 23H1590-01 Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 0.02 0.01 mmhos/cm 0.02 0.00 10
-Reference (BEHO918-SRM1) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 511 umhos/cm 538.0 94.9 90-110
-Reference (BEHO918-SRM3) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 956 umhos/cm 1000 95.6 90-110
-Reference (BEHO918-SRM4) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 956 umhos/cm 1000 95.6 90-110
-Reference (BEHO918-SRM5) Prepared: 8/17/2023 Analyzed: 8/18/2023
-
-Electrical Conductivity 971 umhos/cm 1000 97.1 90-110
-
-The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
-All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
-
+Reporting Spike Source REC RPD.
+AnaIyte ResuIt Qual Limit. Units Level ResuIt REC Limits RPD Limit
+Batch BEHO918
+BIank (BEH0918-BLK1) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity ND 0.01 mmhos/cm
+BIank (BEH0918-BLK2) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity ND 0.01 mmhos/cm
+BIank (BEH0918-BLK3) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity ND 0.01 mmhos/cm
+DupIicate (BEHO918-DUP1) Source 23H1497-03 Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 0.02 0.01 mmhos/cm 0.02 9.30 10
+DupIicate (BEHO0918-DUP2) Source 23H1590-01 Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 0.02 0.01 mmhos/cm 0.02 0.00 10
+Reference (BEHO918-SRM1) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 511 umhos/cm 538.0 94.9 90-110
+Reference (BEHO918-SRM3) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 956 umhos/cm 1000 95.6 90-110
+Reference (BEHO918-SRM4) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 956 umhos/cm 1000 95.6 90-110
+Reference (BEHO918-SRM5) Prepared 8/17/2023 AnaIyzed 8/18/2023
+EIectrical Conductivity 971 umhos/cm 1000 97.1 90-110
+The resuIts in this report appIy to the sampIes as received and were anaIyzed in accordance with the chain of custody document. This anaIytical report must be reproduced in its entirety.
+AIf resuIts listed in this report are for the excIusive use of the submitting party. DeIfavaife Laboratory, Inc. assumes no responsibiIity for report aIteration, separation, detachment or third
 party interpretation.
-
-1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
-
+1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 6
 
 PDF PAGE BREAK 52
-WINONA x
 
-08/17/23 08:40 23H1580
-
+08/17/23 08.40 23H1580 )
 DELLAVALLE LABORATORY, INC.
-
-| WATER WORK REQUEST 1910 W. McKinley Avenue, Suite 110 * Fresno, CA 93728
-! Acct No Cons www.dellavallelab.com 559 233-619) + 800 228-9896 + Fax 559 268-8174
-
-Bill To: [=| No. of Samples No. Bottles
-
-Watgy Type: Drinking Wastewater
-Bes Water (J Ground Water Mon. Well
-i Purchase Order No. Results Needed By Supply Water Other
-j Client Kerman Cattle Co Analysis and Bottles Required: (Please Indicate Analysis)
-] Address PO Box 370 EC, NO,-N
-| City, State, Zip Kerman CA 93630 (1) |L plastic, unpreserved (white)
-] Email kermancattle@outlook.com (J DWWI: (EC, pH, NO;-N, NHN Field Test)
-| (1) LL plastic, unpreserved (white)
-(J DWww2: (DWWI1 Plus SO,, CO3, HCO;, Cl, Ca, Mg, Na, TDS)
-
-| Copy to: mel_tinamedeiros@yahoo.com (1) LL plastic, unpreserved (white)
-| Requested by/Cell: Christina Medeiros/ 559-903-2490 DCW1: (EC, NO,-N, TDS)
-| (1) LL plastic, unpreserved (white)
-I Facility:
-i (1 DPW1: (EC, pH, NO;-N, NH.-N, TKN, TDS, TP, TK )
-
-Date sampled (1) LL plastic, unpreserved (white)
-1 (] DPW2: (DPW1 Plus Ca, Mg, Na, HCO;, CO3, SO,, Cl)
-
-Sampled by (1) IL plastic, unpreserved (white)
-
-<
-
-¥} QA/QC Document
-
-CopyofChain  [_] RwacB
-
-1 DESCRIPTION OF SAMPLES
-
-| IN OF CUSTODY
-
-ee
-| [mm I Ad aw all”,
-ere ee De ee ier
-
-| nw | epee
-
-| Fourth
-
-|
-
-| guaran that asthe cot, om bal of he clon amc have the author W crct he above rogue sie. Shaul it be oul hat! do not hee sch authority gros toe personaly Hac fr al cosa f the should baton agin me Fri rach, sone
-storeys fees. Is understood that payment i expected io be cash with samples uniess tems have been previously arranged. Terms are net 30 days; overdue acount wil be chargod dated damage fe 2% pr month (anally 24%) $5.00 per month whichever is rete
-
-| payment ot ade when due and lepitate dss exists cocering the esc ot services of Dellavalle Labor, nt wl be bed 1 mediation tte Rus ami Procedurs of Creative Altemativ to Ligatia, lae. (al). he dase resolved in mahi, then
-
-| te dapte wil be subted tobi arbaraton trough aude ts Rules and Procedures. The rics wil equally Bette cos af ediatowarraton If however, be meditr dle fat 0 lente dapat exits, the der wil ay ll edit a asraton Gon, a he ee
-
-of erirtion, ensomble attoreyy fee of Dellavalle Laboratory
-
-Invoicing Information: Shipping
-Medeiros Pricing 2023
-‘Sampling Hrs Miles__ Consulting Signature
-
-Sample received in cooler with ice?
-
-Amt Paid Rec B ‘Check No. { 1Yes { ] No cttupdate 2020
-
-| IR Thermometer SN: 200560723
-
-Correction Factor: 0°C
-Calibration Due: 9/26/2023
-Location: Laboratory
-
+WATER WORK REQUEST 1910 W. McKinIey Avenue, Suite 110 Fresno, CA 93728
+Acct No. Con www deIlavaIleIab.com 559 233-612 - 800 228-9896 Fax 559 268-8174 (
+BiIl To 25824 No. of Samptes No. BottIes
+Watgp Type Drinking Wastewater
+Bote 3) Ground Water C1 Men. wet
+Purchase Order No. Reus Neated By SuppIy Water LJ other
+CIient Kerman CattIe Co Bo aired Indicate AnaIysis
+Address PO Box 370 EC, NON
+City, State, Zip Kerman CA 93630 (2) LL pIastic, unpreserved (white)
+Email kermancattIeGoutIook.com ( DWwW1 (EC, pH, NO,-N, NHN FieId Test)
+(1) LL pIastic, unpreserved (white)
+C) DWW2 (DWWI PIus SO,, CO, HCO,, Cl, Ca, Mg, Na, TDS)
+Copy to met_tinamedeirosyahoo.com (1) LL pIastic, unpreserved (white)
+Requested by/CeIl- Christina Medeiros/ 559-903-2490 (2 Dewi (EC, NO,-N, TDS)
+(1) 1L pIastic, unpreserved (white)
+FaciIity
+                                        Ti _ DPWI (EC, pH, NO,-N, NHN, TKN, TDS, TP, TK )
+j Date sampIed (1) LL pIastic, unpreserved (white)
+( DPw2 PW1 PIus Ca, Mg, Na, HCO, CO,, SO,, Ci)
+SampIed by (I) LL pIastic, unpreserved (white)
+ QA/QC Document Copy ofChain ( Rwace LI Other
+F Date Time FieId Received
+                             DESCRIPTION OF SAMPLES SampIed SamoIed NOON Gee) Temp C
+1. Cana) eset fee RIvi23 _ 3 Spon 0.3
+                           Fn.
+i So Beet Brogee
+4. Froms
+                          FB ge
+                           6. EompIed From
+                           8. Seupied From
+er.
+                           10. SampIed Brose a anette
+CHAIN OF CUSTODY
+ rms AA A cde fT BS
+_ sx Bon hae Der B/e/fer oiSioISG/es
+a a Se Ye 77 2 7 -
+iguarannce that ts the ches, or on behaIf of tho cficat memcd, ( have the autheriry no contract tho abow maymctied sorvicce, Sheath i be domed thet 1 dp not herve each pothorsty. I aygroc to be porsceaIty Kabic for aIl cents and, if thor souk bo action againat mec for this broach, rcammabhe
+aboraey Reem. 1.is wiueesiond thai zaryrnent is expected to be cash with manpIon unieas term have tees previousIy arranged. Tortts ary act 3) daye ovordes coon wiIl be chargod a catad damage fee of 25 per month (ammuaIly 24) or 53.00 per month whichever is presser.
+yamaha pnt pe rine ccc rox eof tae tei be wl be eens rp ete Rae ad Prcetrso Cretve Abert tL istoa ac che dope at chet ao,
+se aay ol tnd wing bIero ro al omer iIe and Poche. Th ra wl ly berth cos tiation, bowen eIs tht lege dpe ava ten ec wil py al eon ed tata cot anda nee
+often, sche stant fof Bvt Lary.
+mvoicing Information Shipping
+Medeiros Pricing 2023 s in
+SampIing His MiIes__ConsuIting s Ou Signature
+SampIe received in cooIer with ice
+Ani Paid, Roc B Check No. Date. 1 1Yes L JNo cvupdate 2020
+JR Thermometer SN 200560723
+Correction Factor 0C
+CaIibration Due 9/26/2023
+Location Laboratory
 Page 5 of 6
 
-
 PDF PAGE BREAK 53
-08/17/23 08:40 23H1580
 
-ATION ea
-
-Shipping Information: Shipped Inca Picked-Upo Walking DLI Sampler Other o
-
-ou Samples refrigerated before pick up ca Picked up samples placed in Ice chest
-Container: Ice Chest Boxa Noneo Refrigerant: __Weticew Bluelceo Noneo
-
-Samples Preserved with HNO, or H,SO, were: oc Received Preserved oc Preserved Upon Receipt at Laboratory
-soe: oesre wnat OES DAE I ES A EE P:R HNES PR
-
-500 mL _unpreserved (White) Plastic
-1 L unpreserved (White) Plastic
-
-me Ey
-500mL unpreserved (White) Glass
-PO4-P Kit
-
-25)
-
-Se ee
-| | a eT
-Ttnvesones hee Paste PPP} Ft | |
-| — a 2
-
-SU i Ee a a |
-
-Plastics
-
-40mL AG VOA un}
-
-40mL VOA, H3PO,
-
-VOA Vials
-
-77
-250 mL AG unpreserved (White)
-
-250 mL AG NazS.0, + MCAA
-500 mL glass unpreserved (White)
-
-1 LAG unpreserved (White
-
-Cyanide-500mLNaOH |
-Sulfide - 1 L AG or P NaOH + ZnAc
-HAAS - 250mL AG Ammonium .Chlorite
-DO KIT
-
-Page 6 of 6
+08/17/23 0840 23H1580 x
+Shipping Information Shipped Ina Picked-Upo WaIk ino DLI SampIers Other a
+o SampIes refrigerated before pick up a __ Picked up sampIes pIaced in Ice chest
+Container Ice Chestu Boxu Noneo Refrigerant WetIicew BIueicec Noneo
+j
+                CCCSSammpIe Number
+                Type of Container(s)ReceIved PFs ae sg a a Ts To
+t
+4 SRG 2
+               250 mL unpreserved (White) PIastic fT TT
+                                          en es ee
+               500 mLunpreserved (White) PIastic oT fT OT TT
+j 1 L unpreserved (White) PIastic 2 en ee ee ee ee ee
+               500mL unpreserved (White)GIass_ TT
+PO4-P Kit a a a ee ee ee ee ee
+H ce eeenemsceert 6fCCUUT CUCU CCC
+H 250 mL unpreserved (White) PIastic 7 TT
+               260 mL H,SO, (YeIlow) PIastic TTT
+               1 L_unpreserved (White) PIastic 1
+j Pe bering 2 at op eT TT
+B 40mL AG VOA unpreserved (White)(Setofs) ft Tee
+             PMN ae he ea AD A oe A i cn de a
+            g sOmL VOA, HPO, (Set of 3) Es Ss es ee ee ee
+                        250 ml. AG unpreserved (White) es ee ee
+               500 mL gIass unpreserved (White) fT
+                                          Peed UD eed
+               LAG unpreserved (White a aa ee es es es eee
+i , en ee eee eee ee
+               jGr-50mi PIastic wBorateHCOyCO, FT ee
+               Cyanide - 500 mL. NaOH ee ee ee eee ee eee eee
+Asbestos -1LPwrappedinfoil(Setof2, of ss sy Te
+               SuIfide-1LAGorPNaQHZnAc Te
+            Chiorite/Bromate-250mLAGwithEDA To Of
+j HAAS -250mLAGAmmonumchiote TT CUT SCT eT COP TUCO
+               poke FT
+l other er
+                                                                                                                                                  Page 6 of 6

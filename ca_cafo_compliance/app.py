@@ -733,14 +733,14 @@ def main():
             # Display placeholder image
             st.image("ca_cafo_compliance/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
 
-            # Add ArcGIS map embed
-            st.subheader("CAFO Density around Elementary Schools")
-            st.write("Just an example of how we can embed an ArcGIS map that has been published to an online url. This example is from https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4")
-            st.components.v1.iframe(
-                "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
-                height=600,
-                scrolling=True
-            )
+            # # Add ArcGIS map embed
+            # st.subheader("CAFO Density around Elementary Schools")
+            # st.write("Just an example of how we can embed an ArcGIS map that has been published to an online url. This example is from https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4")
+            # st.components.v1.iframe(
+            #     "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
+            #     height=600,
+            #     scrolling=True
+            # )
                         
             # Add spacing between maps
             st.markdown("---")
@@ -914,22 +914,56 @@ def main():
             )
         
         with tab3:
-            st.write("""
-            ### Irrigated Lands Regulatory Program (ILRP) Enforcement Actions by the Central Valley Water Board (2015-2025)
-                     
-                     (just added this section based on the great Air team presentation, 
-                     in case we want to highlight their findings!)
+            st.write("Coming soon: Enforcement Data")
 
-            | Enforcement Type                                      | Administrative Civil Liability (ACLs) | Cleanup and Abatement Orders (CAOs) |
-            |------------------------------------------------------|:-------------------------------------:|:-----------------------------------:|
-            | Enforcement for Failure to Obtain Regulatory Coverage| 14                                    |                                     |
-            | Enforcement for Failure to Submit Evaluation Report  | 6                                     |                                     |
-            | Enforcement for Sediment Discharge                   | 1                                     | 2                                   |
-
-            *Source: Central Valley Water Board enforcement data, 2015-2025. https://www.waterboards.ca.gov/centralvalley/water_issues/irrigated_lands/formal_enforcement/
+            # --- Violation Summary ---
+            st.markdown("""
+            **Summary of Violations by Region and Type**
             
-            *Note: Most enforcement actions are for paperwork violations, not nutrient or wastewater pollution.*
+            Most violations issued by the Water Boards are for paperwork and reporting issues (such as late or missing reports), not for actual non-compliance with nutrient management or environmental protection. This is despite the fact that many submitted reports show clear evidence of over-application of manure and nitrogen, which can lead to water quality violations and environmental harm.
+            
+            The table and chart below summarize the types of violations recorded in the enforcement data.
             """)
+
+            # Load and summarize violation data
+            try:
+                violations_path = "data/Detailed_Violation_Report.csv"
+                if os.path.exists(violations_path):
+                    vdf = pd.read_csv(violations_path, encoding = 'latin1')
+                else:
+                    import requests
+                    from io import StringIO
+                    url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
+                    response = requests.get(url)
+                    if response.status_code == 200:
+                        vdf = pd.read_csv(StringIO(response.text))
+                    else:
+                        st.warning("Could not load Detailed_Violation_Report.csv from local or GitHub.")
+                        vdf = pd.DataFrame()
+
+                if not vdf.empty:
+                    # Clean up region and type columns, and map RB for display
+                    vdf['RB'] = vdf['RB'].astype(str)
+                    vdf['Violation Type'] = vdf['Violation Type'].astype(str)
+                    rb_map = {'5F': 'R5-F', '5S': 'R5-S', '5R': 'R5-R', '1': 'R1', '2': 'R2', '3': 'R3', '6V': 'R6V', '7': 'R7', '8': 'R8', '9': 'R9', '6B': 'R6B'}
+                    vdf['Region'] = vdf['RB'].map(rb_map).fillna(vdf['RB'])
+                    summary = vdf.groupby(['Region', 'Violation Type']).size().reset_index(name='Count')
+                    summary_pivot = summary.pivot(index='Region', columns='Violation Type', values='Count').fillna(0).astype(int)
+                    summary_pivot = summary_pivot.reindex(sorted(summary_pivot.index, key=lambda x: (x not in ['R5-F','R5-S','R5-R'], x)))
+                    st.dataframe(summary_pivot)
+
+                    # Bar chart of violation types by region (show R5-F, R5-S, R5-R as separate bars)
+                    bar_df = summary.copy()
+                    bar_df['Region'] = pd.Categorical(bar_df['Region'], categories=['R5-F','R5-S','R5-R','R1','R2','R3','R6V','R6B','R7','R8','R9'], ordered=True)
+                    fig = px.bar(bar_df, x='Region', y='Count', color='Violation Type', barmode='stack',
+                                 title='Violations by Region and Type',
+                                 labels={'Region': 'Region', 'Count': 'Number of Violations'})
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.info("No violation data available.")
+            except Exception as e:
+                st.warning(f"Error loading or processing violation data: {e}")
+        
         with tab4:
             st.write("""
             This section provides information about the data availability and types for each region, based on the provided text.
@@ -937,6 +971,85 @@ def main():
             """)
 
             st.image("ca_cafo_compliance/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
+
+            # --- Data Availability Pie Chart ---
+            # Try to load reports_available.csv locally, else from GitHub
+            csv_path = "data/reports_available.csv"
+            if os.path.exists(csv_path):
+                reports_df = pd.read_csv(csv_path)
+            else:
+                import requests
+                from io import StringIO
+                url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
+                response = requests.get(url)
+                if response.status_code == 200:
+                    reports_df = pd.read_csv(StringIO(response.text))
+                else:
+                    st.error("Could not load reports_available.csv from local or GitHub.")
+                    reports_df = pd.DataFrame(columns=["region", "acquired", "total"])
+
+            # Enhanced region/county mapping for labels
+            def get_region_label(row):
+                region = str(row.get('region', ''))
+                county = str(row.get('county', '')).lower() if 'county' in row else ''
+                if region == '5':
+                    if county == 'kern':
+                        return 'R5-F'
+                    elif county in ['fresno_madera', 'kings', 'tulare_west']:
+                        return 'R5-S'
+                    else:
+                        return 'R5-R'
+                region_map = {
+                    'R1': 'R1', 'R2': 'R2', 'R3': 'R3', 'R6V': 'R6V', 'R7': 'R7', 'R8': 'R8', 'R9': 'R9'
+                }
+                return region_map.get(region, region)
+
+            # If county column is not present, infer from region key (for legacy CSVs)
+            if 'county' not in reports_df.columns:
+                # For legacy, use region key directly for 5F, 5S, 5R
+                def legacy_label(region):
+                    if region == '5F':
+                        return 'R5-F'
+                    elif region == '5S':
+                        return 'R5-S'
+                    elif region == '5R':
+                        return 'R5-R'
+                    region_map = {'1': 'R1', '2': 'R2', '3': 'R3', '6V': 'R6V', '7': 'R7', '8': 'R8', '9': 'R9'}
+                    return region_map.get(region, region)
+                reports_df['region_label'] = reports_df['region'].apply(legacy_label)
+            else:
+                reports_df['region_label'] = reports_df.apply(get_region_label, axis=1)
+
+            available_regions = reports_df['region_label'].unique().tolist()
+            selected_regions = st.multiselect("Select Regions to Display", available_regions, default=available_regions)
+            filtered_df = reports_df[reports_df['region_label'].isin(selected_regions)]
+
+            # Calculate totals for pie chart
+            acquired = pd.to_numeric(filtered_df['acquired'], errors='coerce').fillna(0).sum()
+            total = pd.to_numeric(filtered_df['total'], errors='coerce').fillna(0).sum()
+            not_acquired = total - acquired
+
+            # Pie chart
+            pie_fig = go.Figure(data=[
+                go.Pie(
+                    labels=["Acquired", "Not Acquired"],
+                    values=[acquired, not_acquired],
+                    marker=dict(colors=["#5B8DB8", "#FFFBE6"]),
+                    textinfo='label+percent',
+                    hole=0.3
+                )
+            ])
+            pie_fig.update_layout(
+                title=f"Annual Reports Acquired Across Selected Regions",
+                annotations=[dict(text=f"{int(acquired)} of {int(total)} ({(acquired/total*100) if total else 0:.1f}%)", x=0.5, y=0.5, font_size=16, showarrow=False)]
+            )
+            st.plotly_chart(pie_fig, use_container_width=True)
+
+            st.caption("Status: ")
+            st.markdown(
+                f"<span style='color:#5B8DB8;font-weight:bold;'>■</span> Acquired &nbsp;&nbsp; <span style='color:#FFFBE6;font-weight:bold;'>■</span> Not Acquired",
+                unsafe_allow_html=True
+            )
 
             st.subheader("R-1 North Coast")
             st.markdown("""
