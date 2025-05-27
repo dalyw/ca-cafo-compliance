@@ -94,12 +94,12 @@ def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_af
     if item_order is not None and not pd.isna(item_order):
         parts = [p for p in line.split() if p]
         idx = int(item_order)
-        if param_key == 'avg_dry_cows':
-            print(f"[DEBUG extract_value_from_line] param_key: {param_key} | original_line: '{original_line}' | after trim: '{line}' | parts: {parts} | item_order: {item_order}")
-            if 0 <= idx < len(parts):
-                print(f"[DEBUG extract_value_from_line] Returning value for avg_dry_cows: {parts[idx]}")
-            else:
-                print(f"[DEBUG extract_value_from_line] item_order {item_order} out of range for line: '{line}' (parts: {parts})")
+        # if param_key == 'avg_dry_cows':
+            # print(f"[DEBUG extract_value_from_line] param_key: {param_key} | original_line: '{original_line}' | after trim: '{line}' | parts: {parts} | item_order: {item_order}")
+            # if 0 <= idx < len(parts):
+            #     print(f"[DEBUG extract_value_from_line] Returning value for avg_dry_cows: {parts[idx]}")
+            # else:
+            #     print(f"[DEBUG extract_value_from_line] item_order {item_order} out of range for line: '{line}' (parts: {parts})")
         if 0 <= idx < len(parts):
             return parts[idx]
         return ''
@@ -205,6 +205,7 @@ def load_ocr_text(pdf_path):
                 text = text.replace("Ibs", "lbs")
                 text = text.replace("/bs", "lbs")
                 text = text.replace("FaciIity", "Facility")
+                text = text.replace("CattIe", "Cattle")
                 text = text.replace("  ", " ")
                 text = text.replace("___", "")
                 text = '\n'.join([line for line in text.split('\n') if line.strip()])
@@ -489,7 +490,7 @@ def main(test_mode=False):
                 region_output_path = os.path.join(base_output_path, region)
                 if not os.path.exists(region_data_path):
                     continue
-                print(f"\n[DEBUG] Processing region: {region} ({year})")
+                # print(f"\n[DEBUG] Processing region: {region} ({year})")
                 for county in [d for d in os.listdir(region_data_path) if os.path.isdir(os.path.join(region_data_path, d))]:
                     county_data_path = os.path.join(region_data_path, county)
                     county_output_path = os.path.join(region_output_path, county)
@@ -509,10 +510,10 @@ def main(test_mode=False):
                             manure_path = os.path.join(base_data_path, 'R8', 'all_r8', 'r8_csv', 'R8_manure.csv')
                             animals_df = pd.read_csv(animals_path)
                             manure_df = pd.read_csv(manure_path)
-                            print(f"[DEBUG] R8: avg_dry_cows in animals_df: {animals_df.get('avg_dry_cows', pd.Series()).head()}")
-                            print(f"[DEBUG] R8: avg_dry_cows in manure_df: {manure_df.get('avg_dry_cows', pd.Series()).head()}")
+                            # print(f"[DEBUG] R8: avg_dry_cows in animals_df: {animals_df.get('avg_dry_cows', pd.Series()).head()}")
+                            # print(f"[DEBUG] R8: avg_dry_cows in manure_df: {manure_df.get('avg_dry_cows', pd.Series()).head()}")
                             df = pd.merge(animals_df, manure_df, on='Facility Name', how='outer', suffixes=('', '_manure'))
-                            print(f"[DEBUG] R8: avg_dry_cows after merge: {df.get('avg_dry_cows', pd.Series()).head()}")
+                            # print(f"[DEBUG] R8: avg_dry_cows after merge: {df.get('avg_dry_cows', pd.Series()).head()}")
                             results = []
                             for _, row in df.iterrows():
                                 result = {col: None for col in columns}
@@ -539,7 +540,7 @@ def main(test_mode=False):
                                         result[param_key] = value
                                 results.append(result)
                             df = pd.DataFrame(results)
-                            print(f"[DEBUG DataFrame head]\n{df.head()}")
+                            # print(f"[DEBUG DataFrame head]\n{df.head()}")
                         else:
                             # Process PDF files
                             ocr_folder = os.path.join(folder, 'ocr_output')
@@ -567,7 +568,7 @@ def main(test_mode=False):
                                                            columns=columns, data_types=params['data_types'])
                                 results = pool.map(process_pdf_partial, pdf_files)
                             df = pd.DataFrame([r for r in results if r is not None])
-                            print(f"[DEBUG DataFrame head]\n{df.head()}")
+                            # print(f"[DEBUG DataFrame head]\n{df.head()}")
                         # Convert numeric columns
                         for col in df.columns:
                             if params['data_types'].get(col) == 'numeric':
@@ -833,6 +834,18 @@ def consolidate_outputs():
             # Remove snake_case columns from final output
             snake_case_cols = [col for col in final_df.columns if '_' in col and col not in ['Dairy_Name', 'Dairy_Address']]
             final_df = final_df.drop(columns=snake_case_cols)
+
+            # Ensure Dairy Name is valid: if missing or <3 chars, use filename (without .pdf)
+            if 'Dairy Name' in final_df.columns and 'filename' in final_df.columns:
+                def fix_dairy_name(row):
+                    name = str(row['Dairy Name']) if pd.notna(row['Dairy Name']) else ''
+                    if len(name.strip()) < 3:
+                        fname = str(row['filename'])
+                        if fname.lower().endswith('.pdf'):
+                            fname = fname[:-4]
+                        return fname
+                    return name
+                final_df['Dairy Name'] = final_df.apply(fix_dairy_name, axis=1)
 
             # Fill missing counties using ZIP code before saving
             final_df = fill_missing_counties_with_zip(final_df)

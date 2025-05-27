@@ -33,8 +33,8 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,generic_r5,applied_to_removed_ratio_p,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,1,NA,NA
 5,generic_r5,applied_to_removed_ratio_k,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,2,NA,NA
 5,generic_r5,applied_to_removed_ratio_salt,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,3,NA,NA
-5,innovative_ag,dairy_name,facility Information,right,name of Dairy,NA,NA,NA,NA
-5,innovative_ag,dairy_address,facility Information,right,facility address,NA,NA,NA,NA
+5,innovative_ag,dairy_name,NA,right,name of dairy,NA,NA,NA,NA
+5,innovative_ag,dairy_address,NA,right,facility address,NA,NA,NA,NA
 5,innovative_ag,avg_milk_cows,Estimated Manure and Nutrients Generated,right,Milk Cows,NA,1,),NA
 5,innovative_ag,avg_dry_cows,Estimated Manure and Nutrients Generated,right,Dry Cows,NA,1,),NA
 5,innovative_ag,avg_bred_heifers,Estimated Manure and Nutrients Generated,right,Bred Heifers,NA,1,),NA
@@ -66,8 +66,8 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,innovative_ag,applied_to_removed_ratio_p,NA,NA,NA,NA,NA,NA,NA
 5,innovative_ag,applied_to_removed_ratio_k,NA,NA,NA,NA,NA,NA,NA
 5,innovative_ag,applied_to_removed_ratio_salt,NA,NA,NA,NA,NA,NA,NA
-5,livingston,dairy_name,facility Information,right,name of Dairy,NA,NA,NA,NA
-5,livingston,dairy_address,facility Information,right,facility address,NA,NA,NA,NA
+5,livingston,dairy_name,NA,right,dairy name,NA,NA,NA,NA
+5,livingston,dairy_address,NA,right,facility address,NA,NA,NA,NA
 5,livingston,avg_milk_cows,Herd Information,table,Average Number,Milk Cows,NA,NA,NA
 5,livingston,avg_dry_cows,Herd Information,table,Average Number,Dry Cows,NA,NA,NA
 5,livingston,avg_bred_heifers,Herd Information,table,Average Number,Bred Heifers (12-24 mo),NA,NA,NA
@@ -100,13 +100,13 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 2,generic_r2,total_manure_excreted_tons,NA,NA,NA,NA,0,NA,NA
 7,generic_r7,dairy_name,NA,right,facility name,NA,NA,NA,NA
 7,generic_r7,dairy_address,NA,right,facility address,NA,NA,NA,NA
-7,generic_r7,avg_milk_cows,NA,right,Cows,NA,1,NA,NA
-7,generic_r7,avg_dry_cows,NA,right,Dry Cows,NA,1,NA,NA
-7,generic_r7,avg_bred_heifers,NA,right,Heifers,NA,1,NA,NA
-7,generic_r7,avg_heifers,NA,right,Heifers,NA,1,NA,NA
-7,generic_r7,avg_calves_4_6_mo,NA,right,Calves,NA,1,NA,NA
-7,generic_r7,avg_calves_0_3_mo,Estimated Manure and Nutrients Generated,right,NA,NA,1,NA,NA
-7,generic_r7,avg_other,NA,right,Other Cattle,NA,NA,NA,NA
+7,generic_r7,avg_milk_cows,number in open,right,cows,NA,1,NA,NA
+7,generic_r7,avg_dry_cows,number in open,right,dry cows,NA,1,NA,NA
+7,generic_r7,avg_bred_heifers,number in open,right,heifers,NA,1,NA,NA
+7,generic_r7,avg_heifers,number in open,right,NA,NA,1,NA,NA
+7,generic_r7,avg_calves_4_6_mo,number in open,right,calves,NA,1,NA,NA
+7,generic_r7,avg_calves_0_3_mo,number in open,right,NA,NA,1,NA,NA
+7,generic_r7,avg_other,number in open,right,cattle,NA,NA,NA,NA
 7,generic_r7,total_manure_excreted_tons,"Manure, Litter, And Process",right,manure gen during the reporting period,NA,NA,NA,NA
 7,generic_r7,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA
 7,generic_r7,total_manure_gen_n_after_nh3_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA
@@ -138,11 +138,11 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,provost_pritchard,total_manure_gen_p_lbs,Attachment A,right,Total Phosphorus,NA,NA,NA,NA
 5,provost_pritchard,total_manure_gen_k_lbs,Attachment A,right,Total Potassium,NA,NA,NA,NA
 5,provost_pritchard,total_manure_gen_salt_lbs,Attachment A,right,Total Salts,NA,NA,NA,NA
-5,provost_pritchard,total_ww_gen_gals,Attachment A,right,Total Process Wastewater Generated,NA,NA,NA,NA
-5,provost_pritchard,total_ww_gen_n_lbs,Attachment A,right,Total Nitrogen in Process Wastewater,NA,NA,NA,NA
-5,provost_pritchard,total_ww_gen_p_lbs,Attachment A,right,Total Phosphorus in Process Wastewater,NA,NA,NA,NA
-5,provost_pritchard,total_ww_gen_k_lbs,Attachment A,right,Total Potassium in Process Wastewater,NA,NA,NA,NA
-5,provost_pritchard,total_ww_gen_salt_lbs,Attachment A,right,Total Salts in Process Wastewater,NA,NA,NA,NA
+5,provost_pritchard,total_ww_gen_gals,NA,below,000 gals,NA,0,NA,NA
+5,provost_pritchard,total_ww_gen_n_lbs,NA,below,000 gals,NA,1,NA,NA
+5,provost_pritchard,total_ww_gen_p_lbs,NA,below,000 gals,NA,2,NA,NA
+5,provost_pritchard,total_ww_gen_k_lbs,NA,below,000 gals,NA,3,NA,NA
+5,provost_pritchard,total_ww_gen_salt_lbs,NA,below,000 gals,NA,4,NA,NA
 8,r8_csv,dairy_name,NA,right,Facility Name,NA,NA,NA,NA
 8,r8_csv,dairy_address,NA,right,Facility Address,NA,NA,NA,NA
 8,r8_csv,avg_milk_cows,NA,right,Milking Cows,NA,0,NA,NA

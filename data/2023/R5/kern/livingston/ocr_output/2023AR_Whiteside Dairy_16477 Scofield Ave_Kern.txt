@@ -7,13 +7,13 @@ Whiteside Dairy _ WDID 50155087001
 
     x Annual Report
 
-    x water AnaIysis SampIes
+    x Water AnaIysis SampIes
 
-IN Manure Manifest
+LN Manure Manifest
 
-LNK FaciIity / Land Map
+LNs FaciIity / Land Map
 
- d__CCA Nitrogen Retrofit Report
+ x_CCA Nitrogen Retrofit Report
 
 GEO Tracker Confirmation 4 Date
 
@@ -33,275 +33,280 @@ Owner(s) Name John Vander Poel
 MaiIing Address 16461 ScofieId Avenue Wasco, CA 93280
 Home Phone Number.
 CeIl Phone Number 661-354-8577
-          Jcneck if any information has changed
+          Joneck if any information has changed
 Operator(s)
 Operator(s) Name Same as owner
 MaiIing Address
 Home Phone Number.
 CeIl Phone Number.
+          Jenece if any information has changed
 
 PDF PAGE BREAK 2
 
 Herd Information
-_ncoms onycow teeta) (eazm) (osmel_
+_Mwcows orvcous ipztme) (eizm)_ (03m)
 (12-24 mo) (3-12 mo) (0-3 mo)
-____OpenConfinement aa ws a st
-___NumberUnderRoof, sat PT -
- Maximum Number 2.258 aaa ase wat
- _AverageNumber 2,258aa ee wa st
- Average Live Weight (Ibs) ss t400_ asf 50 sto
+___OpenConfinement - a asf a sat
+___NumberUnderRoof sat TP
+ Maximum Number 2.2sat gaa ae wt
+ Average Number 2.258 gaa as ct sat
+ Average Live Weight (lbs) t400 aso sso wo
 Average MiIk Production 69
 Predominant MiIk Cow Breed HoIstein
 Manure Generated
 Total manure excreted by the herd 8,750.79 40 Moisture ton/yr
-Total nitrogen from manure 420,735 tbs After Ammonia (30 loss appIied)
-52,325 tbs
-249,751 tbs 294,515 ibs per reporting period
-Total saIt from manure - tbs
+Total nitrogen from manure 420,735 lbs After Ammonia (30 loss appIied)
+2,325 lbs
+249,751 lbs 294,515 _lbs per reporting period
+Total saIt from manure - lbs
 Process Wastewater Generated
 Process wastewater generated 32,966,800 gal
-Total nitrogen generated 294,842 lbs
-84,078 tbs
-360,350 Ibs
-Total saIt (TDS) generated 2,757,211 ths
+Total nitrogen generated 294,842 los
+84,078 lbs
+360,350 lbs
+Total saIt (TDS) generated 2,757,214 lbs
 
 PDF PAGE BREAK 3
 
 List of Land AppIication Areas
 . Total Type of Waste
-Ce ee
-a 2 tS
-a a 2 7
-a 2
-a Cy OO TS
-a a 2 CS
-eG ST -1
-a oS - S
-Po wsa tort ts0 ose tc STM,
-P ws2 Tort atsororzee TCTs SE
-ec l,l
-P wss Tt narttz0 02x Tg Ts STM
-Pct sas tt0 x05 cox toto ty Marre
-Paster tt arse TC CTO yar
+eIe owen
+a a cS 1
+Per z00 x01 Cd le CTC Cd
+Pca art z00x001 woe TCE CT SMC
+pt ear x200 008000 tse Te TM
+ 2 wart ts0 x09 Tt Te TMC
+ce) - T-
+a dS
+Po wsa sara vasoronsee ts ST TTC
+a DS
+ sa Tart xt90 1015 mom, ori etgorotemn TTT at wR,
+ wss Teoma 2002 TT SS d a MC
+rr) CD SS WO 7
+a eS OT
 
 PDF PAGE BREAK 4
 
 List of Land AppIication Areas
-Oe
-TESS oye. ce Harvest. (7s AppIied
-PoP nasrtovozzwoe ts re ory manure
-a CCE 7
-St Psat x10 1017 0x, x07 1300020000 etre Po NAC
-eS OU EE OO 7
-RS a ce) MO ESS -
- 81074 119091200005 10712190070 000, 07 180050 Te To TNA
-Se 7 Cn 7
-a nO OSC
-a GN GCE Sea
-SS COCOONS OSES
-a 22SEC a
-a Sc
-a 62 Ce
-ae CRC ee
+a
+MUS pene. ope Harvest 17 AppIied
+PoP nas xorzwe tse ory manure
+a Dc SO 7
+ Sa Peart 30017 mm, x07Aa130x020m00 za tore TNA
+SD STD SO
+PA ort ntsomrpoe a ta
+LE St 1074 x19022202000, 1071 119020700004 x071 903058000 TP tae Po TA
+a 0c) Se 7 Ca 7
+pe ES OOO
+a a COTE ea
+Pe eee Ss
+Pe aap
+a eS (2S
+Pe ee
+a Se Ce
+ee QO Fe
 
 PDF PAGE BREAK 5
 
 List of Fresh Water Sources
-J iar sCiiECSC( CCGround Water CSCSCsNSSC(SCSNNCNCNCCS
-Po Groundwater dT SCCNSCCNCCS
-Po Groundwater dT COCNSCCSCCCS
-Po tt C(i Groundwater SSCSNSC(ONOCOCSCSCSCS
-PK Groundwater dT NSC(CCdS
-Po C(COCL Groundwater tNCSC(CSCCd
-Po CGC(iCSCSLSCCC Groundwater CCCCNSCCNCOCCCCS
-Po Cid Groundwater TCisNSCOCCd
-Po CiiLSCCCSCGround Water CCtwNSCSC((CNNCCC
-Po Groundwater C tt CCCNSCCNCCOCdS
- tc GSC((CSCLCCONCCCWGrowndWaters(CWidLS)26)))))6UNOUCS&Y
-J CSC CtCidLSSCCCCCGroundWaterCCSCSCNSCCSCNC(CC
-ee OQ
-a QO
-a QO
-a
-SQ
-a
-a CO
-a CO
-a (
-a CG
+J Citar stCiiEC( CGroundWaterCSSCsNGSSCCNSNNCNCCS
+Po Cd Groundwater dT CNSCCONSNCCCS
+Po Groundwater dT CSCNSCCONSCC(CS
+Po tC((siSC Groundwater SCwNSC(CNCNCC
+PO Groundwater NOCC(CCdiS
+Po TTC((CSSCL Groundwater iiNSCOCOCOCOCCCCCCd
+Po CCGC(CSCSCsLSCCCC Ground Water CCNSCCSCCd
+Po t((CSdL Groundwater CCitwNSC(C SSNNCOC(C
+Pp Cd Groundwater CS CSCNSCCONSCNCdC
+Po Groundwater CCNSCCSCCSS
+Ss cs
+a 7
+QQ
+a GO
+a GR
 a
 a
+a Se
 aD QO
-OO OT _...._._._.
-TL _VWNnw0-____ Sd
-eS QS
+a CO
+SQ
+a GG
 a
- Canal (tid CSCCiSrfnceWaterC(itisPCs((sSSCOCUCNODOCSY
+OT _.....__
+nD QR
+CO OT _NW....).___
+OT _VNW.._.._ Yd
+a
+a OO
+ Canal Sd CSurfIace Water CNSCSCSCSS
 
 PDF PAGE BREAK 6
 
-_ _(WINTER) PLAN F-TISSUE ANALYSISi(Rebofaenimasiateited) ate seen rs
-j nwa cop mex oe rox roe soe rs compete oot source
-Pct we rattow fT atIow
- cz Wheat, siIage eaco o42ot2t oes 0.00 6-aHs1912 06/01/23 vaIley Tech_
-pcs weraIow TT rattow
-pcs weratow TP rato
- __ci____ Wheat, sitage soso oso os ovat sof eansio12 06/01/23 vaIley Tech_
-_ 62 Wheat, siIage 6330 oaa oso osa 9.64 6-ansi912 06/01/23 VaIley Tech
- cs ratIow PT rattow
-ce weratiow PT - P atIow
- wsi_Wheat,siIage 67.20 oazoso oss- 20.40 6-ansio12 06/01/23 VaIley tech
-_ws2_ Wheat, siIage 65.10 osol os oss 30.40 6-ansi912 06/01/23 VaIley Tech _
- ws we ratIow Pratt
- wsa weratow TT ratiow Td
-___wss___ Wheat, sitage saco oas ooo ost - t0.00 6-ansi912 06/01/23 VaIley Tech _
- ct Wheat, siIage sasof asf oso ozo - T7.94 e-1nsis12 06/01/23 vaIley Tech
- cz we rattow TP TT rattow
-DetectabIe Lim VaIley Tech 0.109 0.059 0.01 0.01 0.059
-DeIlavaiIe 0.001 0.01 0.01 0.003 0.0014
+              _ (WINTER) .PLANT-TISSUE ANALYSIS) Recordeamuiiece (ted) sar apmianman airs.
+js _ crop __frmasexe x _ rors rome son res sempiee note source _
+a ce
+ cz Wheat, siIage eaco o42 o12oes- t0.00 e-ansi912 06/01/23 vaIley Tech
+Pcs weratIow TPT - ratIow
+pce weraiow TP - ratow
+_ ct _Wheat,siIage_ soco osol o1st oat - sof 6252912 6/01/23 VaIley Tech
+ cz Wheat,sitage 6330 osa oao osat- 9.6a 6-ansioiz 06/01/23 VaIleyTech
+ cs weratIow TT TO rato TC CS
+Pca weratow TT TT TT ratIow
+___wsr_wheat,siIage 6720 oaz2_oso oss - 10.40 6ansio12 06/01/23 VaIley Tech
+___wsz_ Wheat siIage 65.10 oso oasoss - 10.40 6-ansi912 06/01/23 VaIley Tech
+ ws Tw ratIow TT - ratIow TCC CS
+_wsa weratiow TT PT rattow
+__wss__Wheat,siIage 64.00 a.3s coat oast- t0.00 6ansi912 06/01/23 VaIleyTech
+_ cn Wheat, siIage sa.90 o3sorof os- S7.94 6ansigi2 06/01/23 vaIleyTech
+ ce weratow TT TT ratIow TO
+DetectabIe Lim VaIley Tech 0.104 0.05 0.014 0.01 0.059
+
+DeIlavaIle 0.0019 0.01 0.014 0.003 0.001
 DetectabIe Limits
-VaIley Tech 0.10 0.05 0.01 0.014 0.05
-DeIlavaIle 0.001 0.014 0.01 0,003 0.001
+VaIley Tech 0.10 0.05 0.01 0.014 0.054
+DeIlavaIle 0.001 9 0.014 0.014 0.003 0.0019
 
 PDF PAGE BREAK 7
 
-a ah - Pa Lm ed . Gem kT RS RAF STS iJ He aan WE be Pe .
-_ (WINTER) /PLANT. TISSUE ANALYSIS (REGREGEMIAGRBGbIveR) ee eve Oey Sie ee
- rat _ crop tour ome _ rox roe son res _ samen oe _ source
- cis Comsitage 67.70 as ooa o.g3 6.02 8-6n61802 08/16/23 vaIley Tech _
-pce we ratiow Prato
- sis trees,aimonds - esol 2sof sof - - Bookvaue aiyo23
- at Trees, aimonds - 6sof 2zsof sof - - Bookvaiue 11/01/23
- a2 trees, aImonds - 6sof 2sof asof - - Bookvatue iyoy23
- cst Trees, aImonds - 6sof 2sof sof - - Bookvaue 1101/23
-_ sz trees, aImonds - 6sof 2sot asof - - Bookvaue t1orz3
+__(WINTER) sPLANT-TISSUE ANALYSIS (RecordennenbecIied) pa 602 vrata ew I
+ rit crop meters vos _ tex row _ soe res samptess ower source _
+ cs Com, stage 67.70 oss oos sat 6.02 8-a6n6iso1 08/16/23 vaIleyTech_
+pc weratiow PT EO - - Tratow TT
+ saz trees, aImonds - 6sof 2sofasol - - Bookvaue it/oiza SS -
+ at Trees,aimonds - oso zsofasof - Book vaIue 11/01/23
+ a2 trees, aImonds - 65o 2sofasof Ss - - Bookvaue 11/023 i
+ asi Trees, aImonds - 6sof 2sof sof - - Bookvawe 11/01/23 i
+_asz__ trees, aImonds - 65o 2sof sof - - Bookvaue 11/01/23
 po
-pO
-ee CO GC
-I CQO GO (OO CO
-PO
-a ss OR OY CO CO
+a Rs GS GO OO (O
+po
+Re es Gs QO OS CO OOO OO
+Rs Gs CO CN SG OO
+a CO OE OS
+Rs GO DO (OR QO
 PT
-RR Rs GO SS GO S(O
-DetectabIe Lim VaIley Tech 0.10 0.05 0.01 0.014 0.05
-DeIlavaIle 0.001 0.014 0.019 0.003 0.0014
+DetectabIe Lim VaIley Tech 0.10 0.05 0.01 0.01 0.05
+
+DeIlavaIle 0.001 0.01 0.01 0.003 0.001
 DetectabIe Limits
-VaIley Tech 0.10 0.054 0.014 0.01 0.05
-DeIlavaIle 0.001 0.014 0.01 0.003 0.001
+VaIley Tech 0.10 0.054 0.01 0.01 0.05
+DeIlavaIte 0.001 0.014 0.014 0.003 0.001
 
 PDF PAGE BREAK 8
 
-(SUMMER) PLANT TISSUE ANALYSIS (REUSrOeHING ReCaIved uses yeh s
-nes _ crop _ motte nx _ rex moe sate ves sampIes ater source _
-a tom siIage _67a0 038 _o09 03a. _- _e77 sa2netaor 09712723 vaIley Tech
-a com stage 60.90 051 0.12 0a 5.68 a1-aOn7ase0 11/10/23 vaIley Tech
-Pe saIlow Sato
-/ ex ienarass Stage 7300 0as 008 070 2430 ar-ton7aser auyso7ea vaIley Tech
-pe _comm stage 73201 036 008 023 saz ax-aanranen 21/14/23 vaIley Tech
-/ a2 com, Stage 61.901 049 0a 038 a 7a an-aonrasse 1/14/02 vaIley Tech
-/ es com, siIage 640 04a 0.0 04s - sx a0-1aneaaa0 0/13/23 VaIley Tech
-ee comm stage 66.60 047 009 0a - 5 20 an-aOs7asee 11/20/23 vaIley Tech
-/ ws comm stage 7350 033 0.08 028 - 597 an-aanraaen a1/sar2a vaIley Teen
-L ws comm sage 5.70 04a a3 03a sas a1-aenraoen 11/14/23 vaIley Tech
-/ ws comm sage 6a30 031 o.09 30 5.26 s-a2nenaon 09/12/23 vaIley Tech
-/ wot comm stage 66.10 036 oa0 034-62 s-aznexeon 09/12/23 vaIley Tech
-tes com sage e0.0 08 o0 ozal- 0.66 as-aenranen 3/24/23 vaIley Tech
-Pos taIow sO Stow OO
- ca Saangrass stage vaso 03a oo7 asa - azn asaonraser aursoras vat Tech
+(SUMMER) PLANT TISSUE ANALYSIS (REUSrGeHINS ReCaIvid foxes cee Se ng o
+it _( crop matex wx _ rex moc soe res sampIes pater _( source
+Y _c1___ _Corn,SiIage 6730 0.38/ ao9 033 - 677 912H61801 09/12/23 VaIleyTech_
+acorn Stage 60.90 051 0.12 01 sa a2-aOn7as00 1/10/23 vaIley Tech
+Pe Ls FaIow PP Stow
+ __c4 _ SudangrassSiIage 73.00/ 0.45 a.og 0.70 -_ 14.30 11-10872597 11/10/23 _ VaIley Tech _
+par _comn, stage v2.20 0a6 008 02a saz ax-aanraaen aaaarza vaIey Tech
+/ er orm Stage 61.90 049 0.1 038 47a an-aOnrasee aa/te/o2 vaIey Tech
+/ es com, SiIage 6as0 04a 0.09 os 51 a0-1anea039 0/11/23 vaIey Tech
+ encom, Stage 66.60 047 009 01 5 20 ax-aOn7asee asaOr23 vaIley Tech
+/ wss comm stage 7350 033 0.08 028 s7 fax-aanrzaen aaerza vaiey tech
+_wsz____Corn,SiIage 59.70 o48 013 038 - 54541-a4H72961 11/14/23 VvaIleyTech
+ _wss___ _Corn,SiIage 64.30/ 0.31/ o.09 030 - 5.26 9-12H61801 09/12/23 VaIleyTech_
+/ ws comm stage 6610 036 040 034-62 s-apnexeon 0/12/23 _vatey Tech
+/ ws com, sage 60.20 038 009 02a 0.66 J as-aenranen 1/24/23 VaIley Tech
+Pans raIow To - P-L tote OO
+Lea Sudengrass stage 7an0 03a oor asa - azao fasaonrassr aarsores _vatey Tech
 DetectabIe Limits
-VaIley Tech 0.104 0.05 0.01 0.014 0.05
+VaIley Tech 0.104 0.05 0.019 0.01 0.05
 DeIlavaiIe 0.001 0.01 0.01 0.003 0.001
 
 PDF PAGE BREAK 9
 
-     . , ee he ae wee a ee ay AAT GER Ter - ES ET SEE ee BRE eo ae
+. . a . ees ee Se ee we ar node SE SMUT CAN RE FAIS a SR Te se OR EES
 
-            _(SUMMER)., 2 PLANT TISSUE/ANALYSIS( ReGOr CER NCLG ELEVEN MES Nn AR ei. 4 TRS
-jnet_ cop _woinx x _ tex rox _ sat res_ somes oar source
- cs Sudangrasssitage 68.20 0.42 o.tt og2- tt.00 11-1072597 11/10/23 vaIley Tech _
-J cas. ratIow oT TT - - attow
-_sua_ trees,aImonds - - - - - - trees
- At Trees aImonds - - fT trees
- a2 Trees, aimonds - - OT - T- trees TTC
- asi trees, aimonds - - - - f - - tees TT -
-_asz__ trees, AImonds - - - - - trees TT -
+. _(SUMMER), 2 PLANT TISSUBANALYSIS(KGGorUSteASIGaLe ANREP ERARerAM SeIa TR
+jnet_ cop _ moe wx _ tex rox sat res_ samtets oaer_ source
+ cs sudangrass sitage 68.20 0.42ott oaz 1.00 a1-tOH725971 14/10/23 VaIley Tech _
+ aS. ratIow oT TT TO - atiow
+sua trees,aImonds - - - - - - tres TO -_
+ At Trees AImonds - - - - - - trees
+_ a2 Trees, aimonds - - TO - T- T- trers ST Cd
+ cst trees aImonds - fT trees
+_as2__ trees, aImonds - - TO - - trees TT -C
+a es ee (GO
+A es GC CO
+a es es es
+pT
+es CO CO GO
 Po
-a sO GS OO
-a es es ee ND GC
-a es sD QO GOO
-a es es GO QO QC
-Po
-es QO S(O CO CO
+a (CO CO GO
 Po
 DetectabIe Limits
-VaIley Tech 0.104 0.05 0.01 0.01 0.054
-DeIlavatie 0,001 0.014 0.014 0,003 0.001
+VaIley Tech 0.10 0.054 0.014 0.019 0.059
+DeIlavatie 0.0019 0.01 0.01 0.003 0.001
 
 PDF PAGE BREAK 10
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reporting
-fra com rumome Yar ee (MS aang Patel a TS Sau
- a weraIow fatow - - - -j7 - -T
- cz ___ wheat,siIage asts/22 syaoa_ einsisi2 oa.6o oazotz se osa 10.00 ry Weight _
- 3 _ waeraIow faIow - - - -J - -T Jf
-es a GT OO OO
- ci __ wheat,siIage syiv23s syaas eansisiz so.eo aso oas o7a 959) Dry Weight
-_cz___ wheat siIage aysozz s/aza_ eansigiz 6330 aga oto oea ST 9.64 ry Weight
-ce a GG
- cs weFaIlow s FaIlow SS - SO - CO dT Ce CUTOUT
- _wsa _ wheat,siIage as2a/zz syas/za_ e-tnsisiz 67.20 Ssaaz_sostooss - 10.40 Dry Weight _
-__wsz__ wheat,SiIage ss/20/2z s/25/aa_ o-1n5i912 65.10 Ss oso ss .a3_ es Ss - 10.40 Dry Weight
-_wss weFaIlow Ss FaIow SO - CO - CC TC TCU TC
-_wse weFaiow _ratIow - - - -/ - - J
- _wss _ Wheat,SiIage a1raz2 s/as/a_ 61nsigi2 64.00 Ss 3s oop ss oaa ss - 10.00 Dry Weight
- cu _ wheatsiIage a1is2z_ srooya eansioi2 sacol oas oto ogg - s 7.94 Ory Weight
-a ce OT OO
+
+j rats coe framone Mee MS nanan Se egy an
+ a weratow fatow - - - - - -7
+Tcz__ wheat,siIage s1is/2 syzoraa_ cansioiz eaco o.a2oz ea 10.00 ry Weight _
+ cs weaIow FaIow - - - -J - -T Jf
+Ta weraIlow aIlow - - - -f - -J
+ ca wheat,siIage aaiv23 s/aaas_ e1nsigiz seo aso as o73 959 Dry Weight
+T_cz___ wheat,siIage ayioyz sas e1nsiozz 63g0 a3aoto es - 8.64 ry Weight
+a en DO QO
+ _wsi__ wheat,SiIage au/2saz_ syasraa_ eansigiz 67.20 ss aaz oo oss - S10.40 Dry Weight
+ _wsz__ wheat,SiIage ss/20/2 sass eansi9iz es.to oso ss o.3 oes 10.40 Dry Weight
+_wss_ waFaIlow SS FaIlow ( - CC CU TCC TCU TCU
+a ce
+__wss _ Wheat,siIage syiaz2 syasfea etnsigi2 64.00 ss oas ooa oaa - S 10.00 Dry Weight _
+__c _ Wheat,siIage syis/22 syooza eansioi2 sago os o.to ss ozo ss - S 7.94 Dry Weight
+Tz weratow Ss _rFaIow - - -J -Jf - -Jj J
 DetectabIe L VaIley Tech 0.10 0.05 0.01 0.01 0.05
+
 DeIlavaIle 0.001 0.01 0.014 0.003 0.001
 
 PDF PAGE BREAK 11
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reportin
-rat coe fpomoan Maret at saan P eto e sien me Mae
- as Com,siIage 473 7/312s_ esenersoi 6770 oss oe osa- 02 ry weight _
-a eS OO SO
-sia___ Trees aImonds wiis _ 1u23_ BookvaIue -_( sso soy aso - ry Weight
-ft trees aImonds yiaa_ sas BookvaIue -_- eso asot se sso - ry Weight _
- az Trees, aImonds s/s au23_ BookvaIue Ss-_- Ss gso ss 2so se ssof - ry Weight _
-_csi__ Trees, aimonds yaos _ 11/1/23 Bookvatue ss -_ oso so aso ry Weight _
-__asz__ Ttrees,aImonds sys au/u/22_ BookvaIue -_( 650250 sot - ry Weight _
-Po UTCCitidS
-sn es SE GO I (SO (CO
-es SD GO
+ret coe fromomn See ate Shae Peete sien mE ae
+ cs Comsitage wars 7/ayza_ stenersor 67-70 soas oos o.3a_- ST 02 ry Weight _
+a
+ sua Trees,aImonds wis ses Bookvaue - seso s2so ss aso - - ry weight
+ at treesaImonds war ayios_ Bookvaue ss -_ _ssof szsof se ssof - ry Weight
+ az __ Trees AImonds sats auayoa_ Bookvaue S-_- _seso zso ss asol - ry Weight _
+__asi___ Trees, aImonds s/1oe__ 31/1/23 Bookvawe Ss - sso 2so ss aso - S ry Weight _
+__asz___ trees aImonds s/sos__ aua/az_ BookvaIue Ss-_- s6so_ ss 2so ss aso ss S ry Weight
+Ds GD OS GS
 PTC
-Pp TCUTCiSSCSC(S SSS
-Pp CTCCiisSC Sf
-se RD QO GO UO (OO
-PCT CC ff
+ss SD OS QO CO
+POT
+Pp COUTCiSC((ST
+Rs Rs SD OD (OO ON OO
+se GO OO
+Rs ee Ge DD OD GO GO GN CO
 DetectabIe L VaIley Tech 0.10 0.05 0.01 0.01 0.05
 DeIlavaIle 0.001 0.01 0.01 0.003 0.001
 
 PDF PAGE BREAK 12
 
-Harvest Moisture N SaIt Reporting
-ws com freon) Manet tee MS arg (rere keel he ms ea
-ane asm parem o oss ane os ee
-a sen see star ssf aesezase) _sisn/)_051)_ou2-_nn)___s)_onei
-ae ee es
-a naan sige ueas Tamas ramnraser tenes eae or mo
-a) om stoge ova cava artanraseil7ea0 03e 008 02s or we
-Pe Lem stage enna toners aiaonrassel eus0 as eat oa at orem
-acm stage cise sas a tansasseensOoe tos 0s et ore
-a orstene Tens Cioran arinrasse aeso oar aes on Lae ee
-a eee Canoe Caonare Lurarraserl assess eee eas sar ewe
-ae eam stage 7 Cenares cavers Laraanrasersea0 as as oss es ee
-wes Lom stage canara nana s-taneiaor e1a0 oan a00 oan a8 ore wee
-wee oom sIoge anans canara tanexeor eso 0ae aan ose ea on ween)
-Was) eom stage enna tonans at-sanrasei epa0 oae 00s 028 ne ornare
-a OO a (Pa a
-/ ae indogassstnge aman Cams anaonaser yaa ose a os oe
+PIant Date vest MoIsture N P (mg/kg) (K (me/ke)) SaIt Reporting
+Date (me//ke) (mg/kg) Basis
+
+ae ease paren eo ssa os ee
+2 en sate sass _fasorast)__sosb)_05x/_ou2_n__)_s)_onei
+SS eR RR es
+Sa eotnpessige aes wane aaomsn vaso eas ons eo eI
+a eamstoge nw cans azuanraseiraa0 038008 0x8 sar owen
+Pee eam iIoge ona reas ataonrasseen00 oa 0ax 038 ann on wei
+Scam stoge cers arses no taneasse e100) o00 ows sar ore I
+Som sieee causes cuvaens asaomassa esao oar oon oan sao oe
+ear ege Teter amar fcuenrasen rsso oss ees nage sar oc I
+ie eam siege 7 Cons cavers atenmasease0 as oas ose sas owe
+/ wes eam SIage Canars anans sazveiens e1a0 oat 000 oso 326 on wet
+wer) Team loge Cars cans staneient eea0 oae oao ose a2 on wean
+eT cam tage Conan CIaas erenrasea eeao oe 00s ane nase ce
+Se a
+/ ae eanges singe nas ines etomassr aso os) oor La LI
 DetectabIe L VaIley Tech 0.10 0.054 0.01 0.01 0.059
 
 DeIlavaIle 0.001 0.014 0.01 0.0034 0.001
@@ -309,168 +314,157 @@ DeIlavaIle 0.001 0.014 0.01 0.0034 0.001
 PDF PAGE BREAK 13
 
 Harvest Moisture N SaIt Reporti
-pra com romome ooo tH a Piette oy me eae
- cs sudangrass siIage eyss/z3_ ssyayza_aa-sOn7asa7___68.20 oaz ots oz 1.00) ry Weight _
-eS CO
- sis treesatmonds Trees ST OO OT CUT COT
-a es
-ce oe
-es1__ trees aimonds trees, ST TC TO
-a ee
-a a Ds es Rs CO ((S
-RS es Rs QO CO OO
-a es es Cs ND EN EE RE
-a Re es es Rs es GS
-a se ee es
-a es es es Ss
-a a Rs es es
-Rs es es CO GO
-DetectabIe t VaIley Tech 0.104 0.054 0.01 0.01 0.054
+oe fel rapeseed ca AE
+ cs sudangrass siIage e/ss/23__ 1syayza_ar-son7asg7__ 68.20 aaa oat oz 4 tt.00 ry Weight _
+se CO
+ sis treesatmonds ss Ss trees Sf OO - OT CUT CU TO
+ as trees, aimonds trees, CO - TO - CO- T O-
+ a2 treesaimonds trees Sf - CO - T O- CO- -
+_es1__ trees, aimonds trees ST TT - T -
+esz__ trees, aimonds trees ST TT - T -
+a a es ss (OO
+a es es NS GO CO
+a es es SS EN (NUE OE
+a Rs es es Rs Ss
+Rs Rs es Rs
+a a ss nD CC
+a Rs es es es
+Rs es es Rs CO
+DetectabIe L VatIey Tech 0.104 0.054 0.01 0.01 0.054
 
-DeIlovatIe 0.001 0.01 0.01 0.003 0.001
+DeIlavatIe G.001 0.01 0.01 0.003 0.001
 
 PDF PAGE BREAK 14
 
 WeIl / Canal AnaIysis
 General MineraIs
-noe eure Reese Hon ra a (ae yi ss NCE eo TEARS Sesh aM TL AWS faIe HE Sew a aI egy
+anal meas Ramet HEN we bee yet ss ISL BLN. Seok Ty aT AWA nit Se EE a ANI Ae
 
-a NE) ED) OE) TE SE I EN cc eS
-ae SN SS a
-a
-rs - -J -/ -J -f - fT TT eT redone TO
-GS GN ORO ON -C
-Qs I GO GOO EO DO
-SS OD GY ON GO QO GOS OOOO G1
-p 7 ao aa aot To fT rzances TO craerznns lr enviromental
-a A COS SN SS OOS GE EN EN G11 OG
-Looe Te secon
-a a OD I GE EGS OE ESD OT OO
-a SO I ONT
-CCT CC eee
-A NS SY GC OO
-a RS ( (
-SR RR RS I I
-a
-SS RS NS SS OS OO
-PCC ee
-SS
-SS NO CO
-SS RS (NN OS OOS IN OS OS SO (SS GS CUE
-A I I RS I SS ND OS UD CO
-I RS I SS
-a A A I OS NO SO
-SS SS SS
-a RS RD UD
-A A CR GR GO EN ON SO OS (OO
-RR SS CS OS COS (OS (OO
- canal Toff too fs f aso oon oor s.70) 37.00) zsarsse.os _soys/202s ower
+Team tsof safc OT sso fT Tr aaters aytoyanea pat Enviromental
+a a A Ee Ns
+NS SS
+rs - - - -f -f) - TTT tredtent PT
+Se eS eG SS nO OT
+a OS QO GE GE OS SE OO GO 1 DO
+Ss es SS GR GN CE OS I GOO OSU G1
+p77 saat ara - Tstof TP - - -T iczeces YT rranyznas lt envirarneneat
+Pes TCC CT seca
+oon econ
+a CR OO GOO ONTO
+a a a en OO Os
+Se RS AS CR GO A GO ROS OU (OO QO QO (OE
+a SN SS
+Rs RN RS RSS RN CRD GO GOS OO GO EN (OO
+SR RS ON RN ROOD OD EE ONO (OE
+CCC eee
+RS RS RS RN SS DN (OS GO
+a RS CR NS OS OS NS GO OS
+RS ee SS
+RR RS SS OS GD GS (OR QO
+SS OD OO OS CON NOS (ES (OO (GUS CO (OE
+RS QR NS ES OS USE QO QO
+A I RS SD OO
+A RN RS RS RR UD (OY (OO OOO (OO (OE
+SR RS GN QO SO (OO (OE
+a RR Se
+Se CN SS NS CY CS S(O OO OS OO (CS (OR
+SS GS ND GOS OS OS OR (OO EE
+cant ost got fT tof aot anoof oor oor cro 37.00 zsorese.os roysy20rs Jotrer
 DetectabIe Limits
 
-DeIlavatIe 0.02 i 10 02 NR Od O41 O45 3 09 0.03 9.03
+DeIlavatIe 0.01 i 10 O2 NR Od O41 0.45 3 09 0.03 0.03
 
 FGL Enviromental o 0 oO Q a a 0 oO a 8 0 Qo
 
-VaIley Tech 0.4 4 NR NR NR NR NR NR NR NR NR NR
+vaIley Tech 0.2 i NR NR NR NR NR NR NR NR NR NR
 
 PDF PAGE BREAK 15
 
 Soil AnaIysis (Winter)
 
-a ee ee
+se rs ons can aIles
 
-O/1ft. NO3-N 1/2ft.NO3-N 0/1 ft. Sol. P aftecK 2) ofa tee Be C SiR eB arr eae tay Ege te Sd RG aed SM Ge
-tite wrest nasa Nims) _- mag amy Ae Ohne Baa i. at RR ba IR CaGROp
-a es (
-RS a es OC
-a ss QO (OR
-poe
-SS C(O GO
-poz fT
+.NO3-N 1/2ft.NO-N 0/1 ft. Sol. P afk ofa Ree BC SiR EB are ae tay Ege pe Sad RG aid SM Ge
+SS es OO QO (
+RS ss CO CO (
+a es ee QO (
+S(O
+poate
+es OG OO QO
 pgs Of
-a CO QO
-pws fT
- owsz fT
-Powss PP
-poowse Ps
- ows PT
-Poca PT
-Pocz fT
+a GO OO OO
+pow fT
+ ows fT
+ ows fT
+J oowse Ps
+powss PP
+a es QO OO
+Poe Te
 DetectabIe Limits
 VaIley Tech 0.1 0.1
-DeIlavaIte 0.1 0.1 11 0.2 0.0015 0,0001
+DeIlavatIe 0.2 a1 Li 0.2 0.0015 0.0001
 
 PDF PAGE BREAK 16
 
 Soil AnaIysis (Winter)
-rare mre 2 22 eae St acy ota mse LEAR DMeaee MPa SSUES
-NS NS RR NR (
-Ts NS NE (CO
-fms t- , -/ -, -J/ -/ -/ yy
-rm .-) -, - - -/ -) oT fT
-raf -) -f - - -/ -) Tf
-res -) -f - - -j -y of
-rae - i) - -) - -/ -y7) Oy 7
-rf . J yp
-NS A A CS CO CO OD GN SN (RU
-ry... J fp
-rt... J Tp
-SS RS ES GO (SO (SU
-ry COrtCCSrSCCCCCCCST
-oo
-Lt . . . Jy Tey fd
+Pd ema Yrs 2 RTE fed nese a7i A (OR RTS ea oC DMA Dacre (Lae eas
+Es NS NS SS NS ON (
+os td C(CtCCdTCOCSSCCLCOCCdYC CCC
+fast - . -) - -J -/ -7 yy
+Tm - 1 - - - -/)-T) oT fT
+raf -if -f -/ -/ -J) -f Tf
+er - i) - - - -y -y) ff
+SS SS (S(O
+rf. yp
+fr OCOdCCCSrYSC((CCCrCCCd
+ry... J fT tp
+rf). . . . yy pp
+rt fT
+rf .
+ee A NN RS (GS OE CO (SD
+rt. . . J yf
 DetectabIe Limits
 VaIfey Tech 0.1 0.1
-DeIlaVatIle 0.1 01 11 0.2 0.0015 0.00019
+DeIlaVaIle 0.1 Ou4 1.1 0.2 0.0015 -0,0001
 
 PDF PAGE BREAK 17
 
 Soil AnaIysis (Summer)
-O/1ft. NOB-N 4/2 ft.NOS-N O/1ft.Sol.P O/1ft.-K 0/2 fees oo pS Ant eRee Heetke PRMD eR AOL
-(rogfke) _(me/eg) _ marke) _ (eng/ke)s (asim) SS osiieirs LRP S(t Somer abet heoiree sl
 
-ss QE OO CO
-RS es a eC CO
-poo - - - fe fe
-SR es es OO
-QQ QO
-a QO
-Poo TO
-es
-Pow - Te
-powsz fT Te
-ae es a
-Rs ee
-Powss Te
-SS A OO GO
-P oo2 CO TT
+(mg/kg) (make) (rmgreg) _ (emg/kg) --tds/m) 18 ones agehiree St Somer aide maourea se
+Ss es es QO OO
+Ss es Ce CC
+Rs CO OQ
+ss
+GO
+ne CO OO
+Re es sD GO
+es CO QO
+Powss fo TT
+GG SO
+powsa - fT
+power
+Re GO OS
+ey OC
+Po oo2 TO TT
 DetectabIe Limits
 VaIley Tech 0.1 0.4
-DeIlaVaiIe 01 0.1 44 0.2 0.0015 0.0001
+DeIlaVatIe O14 0.1 11 0.2 0.0015 0.0001
 
 PDF PAGE BREAK 18
 
 Soil AnaIysis (Summer)
+/tft. NOI-N 1/2 ft. NON O/T RESOLP, Ges 1 COM FECU IS Sea eet Raters Une
+(mg/ke) _ -_trme/ke) ) abscess (ds/ th) ROM Ses baie ata dette Lane Dateien Se sautee tiie a
 
-O/Aft. NO3-N 1/2 ft. NO3-N. 0/1-fSBLiP, gor Of FRZECRS LR Sgt tear A see SIe casters cic ane) o
-fs -, -f -yJ -f o-oo -T
-ro - i - - -J -7 o-oo ff
-Ta 26 2aOf owa 7agoo o.ga 9.0 10-2ss7o6o2 10/25/23 vaIleyTech__
-rm te tof te grsio0 om 2600 10-25570602 so/zs/23_ _vaIleyTech
-ra 70 a1o 20s tzz000 aaa_51.60 20-25870602 rOvas/2a__ _vaIleyTech__
-rosa -i 24 a6of a7o sooo aga 2040 10-25870602 ro/2s/23_ vaIley Tech
- os 19 220 osz 73aco oma 5.0 s0-2ssvocoz 1025/23, vaIleyTech
-rT ,_ , PT
-Fr . CTCSCSdrCCSsSsrS(CSCSdYC
-rp ,
-Fr , (JT ppp
-Fr COUMCOCOC YT CSE
-Fr COUrTTCTTCSCCSsSC(CCsSsdSC(CiCstsSsdrSC(C((CSSCd
-Fr TCOUTTCOCOCCYTSC(CtsiCsrSC( CS
-rt. fo
+Ysa 26 2a0 oss zgco 0.33 9.50 so-2ss7acez 10/25/23
+ra 18 _10 zal so7s.o0 Son 26.90 a0-25s7oes2 0/25/23 vaIleyTech_
+ra 70 ato 20s az2000/ aaa s.60_20-25s70602 soy2s/za_ vaIleyTech_
+ron 24 360 o7o saooo aga 20.40 so-zssvo6z 10/25/23 vaIleyTech_
+res 19 220 oaz 7aacof o.ma _5.tOs0-25s7oe2 10/25/23 vaIleyTech___
 DetectabIe Limits
 VaIley Tech 0.1 0.1
-DeIlavaIle 0.1 0.2 Lt 0.2 0.0015 0.0001
+DeIlavaIle 0.1 0.4 14 0.2 0.0015 0.0001
 
 PDF PAGE BREAK 19
 
@@ -480,1727 +474,2164 @@ x No
 _.. Yes, Manifest attached (Attachment D) Total Dry Manure Exported
 Nutrient Import
 No Dry manure nutient imports entered
-No Process wastewater nutrient imports entered Total Process Water Exported SCs
+No Process wastewater nutrient imports entered Total Process Water Exported( SCs
 No Commerical or other nutrient imports entered
 Type of Manure
 FieId Ni Asts / Dry Weigh
-eId Name AppIied is / Dry Weight
+eId Name AppIied s/ Dry Weight
 
 PDF PAGE BREAK 20
 
 Process Water & Manure AnaIysis
-
-specu Seva 7 Spy PA Pegi ke aIti ELIA CREP sl Ad CRETE CA OTORAED LOIN LERSSR OT PRO RT
-r 2 1 _s2o _sar0 _aeg assof roi - - - - - f -j - 7 - J 3 6630
-2 7260 7aso _agal sooo 10f - - - - - -, -f - J) al 782
-. 3 t7roOas00 asao e5.0 10/ - 220 asz0 azz0 oo aac zosof az a2 7,740
-L 4 77507600f 498 sof 10/ - - -jf - -f - -J -J - J 6650/
+QuareRs pues ac 29 ea BSC Pei Sg a il te a, eC Le LU dg my th
+L272 s270/ 6910 a5o 1o/ - - -/ - - - - - 10 6630
+a es 2 eS) Y 1) - -j, -j -j - -J -f - 7 al 782
+ 3 7oo asoo 15a0 615.0 Y__10/ - 2s20 920 2220/ ooj aa6 20s0 92 27,740
+L 4 750 700 age) eno so -1 -. -f - -f - -J -J - J 6650/
 DetectabIe Limits
-
 VaIley Tech 2.0 5.0 O21 0.2 0.10 10
-
-DeIlavaIle 0.2 0.7 0.02 0.2 0.01 0.05 0.4 0.10 09 3 0.01 0.03 0.001 10
-yt 3-9144124 3/9/2023 VaIleyTech _tt9.737.2 asa 236.2
-Lz 5-12149733 5/12/2023 VaIleyTech aeaaaz9f 46.3 2703
- 3s 8-15L61715 8/15/2023 VaIleyTech_ _i74aaaaa2a 167.9
-ee ee ES 10/3/2023 VaIleytech f 1759/ GaIl 259 1832
- Manure 5-12M49747 5/12/2023 Dry Weight VaIley Tech Corral SoIids
-__Manure _ 10-3M67651 10/3/2023 Dry Weight VaIley Tech Corral SoIids
-rc SS 68 I I 32.10
-tort - o7 o2s 1t8 cas o22 o16 o2f os2f- ssof 25.90
+DeIiavaIte 0.2 0.7 0.02 0.2 0.01 0.05 04 10 Og 3 0.01 0.03 0.001 10
+BTR ALLS a
+ae 3-9144124 3/9/2023 VaIleyTech 19.7)37.2 45.1 236.2
+Lz 5-12149733 5/12/2023 VaIleyTech i16a8 129( aa 2703
+ 3 8-15L61715 8/15/2023 VaIleyTech 1748 agaIa2zal 167.9
+rai 10-3167672 10/3/2023 VaIleyTech 1759 aj 25.9) 183.2
+ Manure _ 5-12M49747 5/12/2023 Dry Weight VaItey Tech Corral SoIids
+_Manure _ 10-3M67651 10/3/2023 Dry Weight VaIley Tech Corral SoIids
+ES 8 7 A 32.10
+T_toral4 Coma o2o 1t8 oao o22 o16 o2 oozf - sof 26.90
 DetectabIe Limits
-
 VaIley Tech 0.01 0.02 0.02
-
-DeIlavatie 0.01 0.01 0.003 0.001 0.001 0.001 0.0019. 0,000 0.0019 0.001
+DeIlavatie 0,01 0.01 0.003 0.001 0.001 0.001 0.001 0.000K 0.001 0.001X
 
 PDF PAGE BREAK 21
 
-BS sIo leIa leIa fw le
-fe LLU Beseeeepeel UI Te
-3
-SEA EEEEEEEEEEEEECELEEEEEE ELE EEEE
-HEE EECEEMEEEEECEEEEEEE ERLE
-F s
-LEE HEEEE eee lel EE Se/ bbl Aba &
-EARLE BEE EEEE EEL EU Iet &
-eT 8
-HEHE EE eIle le eA EEEEELE 8
-PH EPH eE EER Ete bet E ELLE RE
-7 &
-HP EEE BEE EEE PEL EEL Re
-z
-EEE EEE EEE LEEEETL Fb
-EEE EEE EERTLEETE P
-LETT TTT eat
-PULSELEEEEEREEEEEEEEEEET EEL EEE
+Nutrient AppIications
+FIeld Name/Number ci Acres 74.00
+Dry Manure Water Woter Expected
+Ce eee nicl
+Event / Source ftonsfac) total ibs dac-Infac) (ac-infac) Ni ifbs/Ach (fbs/mch (ibs /Ach ftonsfac) ftons/ac)
+a SD A I CD IOS (OOS OE
+Po wera ee
+po ep
+a NE
+a ee Oe es
+a es
+a ee a I a SS
+A ee en (CD OO PU ONY NN GO NN I GO GOS
+nN OO CS US OO OO A
+a es A
+a Rs ss ee
+Re) OD DO
+ 4523 s.ptanting eee ep
+ee nC RD GC ON I
+Laases You PP ef of
+ee 9 DO CS
+_sva/23_Processwater 0 ee eos ser seas aarT TT
+2 a a 9 RS 7 UD
+ee SF 0 Q ) OD ED
+Ee I TY
+I Oe) cS) cd PD
+a ae es A ee ee Gs
+a SD I
+a es A NS
+a as ee sD GS ON SO SOO
+a Se es sO
+a a SN OO GD Un OE (ORES
+a a es ee ee ee ee GOs
+a ee es ee DO
+aS DS EO SE OOO SORE COS SUED CS SO (OE
+pee Pee ee eee eee ee
+A eS LE EN GOO CONE IO OOO OIE (CIO OCI SO (SEE
+Totatss L201 _ Lo sear ( an Tefen ovr oo 259
+Dry Weight
+As Received
 
 PDF PAGE BREAK 22
 
-z
-z
-a
-nue yyevIzy S2298 7FEs2 z ZIzZIz z
-goz G28 Fiots asses 2 & BIeR g
-sg 8 22 5)8 8 p28 eos & 5 Zz aie z
-ee & Sesieo ag & SasIe 2 5 2leB 5
-, 233(8 3 , efeIz5 Farge
-R33 Ra Fa A g
-pel3s Biz 3 Bie s g
-g 33 g z
-S13 go 3 &
-        2 &
- 2)
-gee ge & 88 & 2 / ie
-ae 3 BB ry g Ea
-ae 2 85 5
-sv rf
-Be 3 A 2
-4 4
-wp Fy... gIe s e..,,../8
-- b a i 0
-_ - rs)
-53555 5F 53533 3 3
-BEEBE EEEE . &
-PEERS PEPE wit
-wo
-bIe
-3 3 3 . as
-N nN z el
-Nowom - 2G Bower rise i
- oeE a in o
-. 3
--
-Fs ogee B S ee 8 g
-bh io N Lf E)
-e i
-s s 3 5
-8 1.8.8 S tae 3 S
-2 we w wt 4
-ar
-t
-3 Z H
-3 a bed &
-J S bad ry
-z jo ie
-oJ)
-   8
-F-) I)
-2
-. 3
-uIe
-aIe
-mIe
-eS
-2
-B fa
+FieId Name/Number cL Acres ma
+(Nutrients AppIied SCdSCCsga dT Swe
+(Nutrients Removed atHarvest aaa SBT toa
+(Nutrient BaIance CY CEC CE grt
+Winter Nitrogen Crop App / Use Ratio N/A Summer Nitrogen Crop App / Use Ratio 1.20
+FieId Name/Number a Acres 74
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - Tac . - -
+W. Comm Fert App. - ths/Ac -
+Process Water Qi - Acin/Ac - - -
+is4 - Acin fac - - -
+WeIl Water - Acin/Ac -
+Canal - AcIn /Ac -
+Atm. Depos. Yes 7.0
+W. PIanting N/A
+W. Harvest 1/1/2006 N/A TiAc N/A N/A ANIA
+Summer Crop Corn, SiIage
+Nutrient Summary AppIied N
+S. Manure App. 10.1 T/A 575 135.7 286.3
+S. Comm Fert App. - lbs/Ac - - -
+Process Water coy 16 Acin/Ac 201.5 749 436.2
+a3 - Acin/Ac . - -
+aa - Acin/Ac . - .
+WeIl Water - Acin fac 2,043E-14
+Canal 37.4 Acin fac O41
+Atm. Depos. Yes 7.0
+S, PIanting 4/5/23
+S, Harvest 8/5/23 29.4 T/Ac (221.2) (123.3) (233.0)
 
 PDF PAGE BREAK 23
 
-sieIeleIelsiaisig (eIsleisisieIe
-TTT T ese eabl MRR Te
-Ly 7 z
- FI
-i if
-g
-z
-OE SE EE A EEE PELE EEERL ALLER
-if
-cay z
-7 5
-EE et eIl eIl le Et3
-FEEL E LEELA ELLA &
-weIl teIlll lel ltl ) &
-See ELEC el eIl bl) (4 EE
-AE EE EEEBE MeL al ELE) (EE
-ECE EEEEEEELEE EAL LU(BE
-I EEEIEETTTEELTTTEEE TESTE F
-TLL ET Ea
-BEE EEE BLED EEL E/E
-Rt
+Nutrient AppIications
+
+FieId Name/Number a Acres 75.00
+
+Dey Manure Water Water Expected
+SS aIee Te oe eT She
+Event / Source ftons/sc) total ibs (ac-infac) (ac-infach N(tbs/Acj (ibs/Ac) dibsfAch ftons/ach ftons/ach
+CL , .- - - ey
+fr -) -) -f - ff -
+ safse2 wrmmng - - t - - ff
+Ee SE) CE -) OE A IO CO LOE
+aos lomo T - - d mt oof
+ 2720a Promsswater - - 1 - 1 - ssaaaaIaa suas asss
+Ee I SE GS TO CD GOGO SE
+ anos lem st -t -i - i ssl - if oof - - fof - fT
+L svzores womonet t - TT tse eroa TT ace
+fr _- - -/ -/ -y-y-y yo -fT -p-t
+a RE SO GE (ON NCA CS OO OI (OS CO
+ sama smanreame tooo) - - - - ser sas sat - fT OT
+sears fem Ss - J - i - i) ex - oof - fy TT
+eres (some 1 -1 -. - 1 - -f -y o-oo -f)- TT
+ws lomt Ss SS SC d CC dT of Poof
+sans fons - - -J ss -f oof - -, oo -f - fT
+ sas rrocesswater - - 1 - - seal zise sao azsz zen fT
+ES SS CT) I OO OC GO
+2 eS ES OS SO A OS RY) EO I GO (OR
+es a OE GS Te) sD
+rT -) -t - J 7 fe
+fr , -j - -j - fy
+rf - -)J -t -j -f --yU-y -y - ty
+Cr. -)- if -f7 -f -f -o- 7 - py te
+rc -, -) - -j -f -) - -f- TT - y
+Ct. _-/ -j -jf -J - 7 - Tyee
+Cf _-) -/ -J -/ -y-T p-Tp
+eS ET NC I ED ON TO ON EN OO OS GP
+TJ - -) - ye
+C j -) - - -) yy
+rT - -f -f - -
+L . - -) -
+TotaIss L100 Lo sss sm al ea sizsaerJ ow of aay
 
 PDF PAGE BREAK 24
 
-Zz
-Ey
-a
-yu, PpYeeIzw y 2 z nm zIzlz z
-Seo s Fase Feoms ESeee 2 F gIsle &
-ge s 3 g/8 2 aa 2 s32lio y z FaId z
-sae ExaiIe aah & Faseg 2 FF (Eee 5
-   gazIse gezis5 2 BBE z
-SP ig sig 2 8 4aIels g
-3 8 3 ie 3 3 35 a
-7 2 iF
-Be 28k Gogg ge s & (3
-se 2 ge 4 ad
-gBR 2 88h 2 5
-a a Ni a a
-ao wr & 9 R
-     z x 2
-& i b 8 Bs a 5 8
-3 BRRR RTS 2 RPeERRFS
-z S355 558 & S55 58 o 3
-22255 ZS
-BEEF BREE & leIeleIt
-BisIz
-Bie
-8 N 2 cy u 2 . i
-Bo wuooth B Ro yoo Bes e
-ww SPO N B be -
-BS a ay nw
-E gE. 8 E Bos A a
-2 & io & a 8 aIels
-wo uw i
-e Lal r
-s - 5 ES
-& & a & a z
-a al
-3 g
-3s B x
-3 ABE
-2
-S tid
-s
-a
-2
-Fi
-z st
-Ed 3
-ge 3
-Ed
-5 s.
-ES
+FieId Name/Number a Acres 75.00
+(Nutrients AppIied CCidSC aww 5268
+Nutrients Removed atHarvest ss tO TT zg To
+(Nutrient BaIance CTs
+Winter Nitrogen Crop App / Use Ratio- 0.97 Summer Nitrogen Crop App / Use Ratio 1.26
+FieId Name/Number Qa Acres 75
+Winter Crop Wheat, SiIage
+Nutrient Summary Appiied N
+W. Manure App. - Thc - . -
+W. Comm Fert App. - tbs/Ac -
+Process Water a 16 Acin/Ac 1744 TL6 373.6
+Q2 - Acin /Ac - - -
+WeIl Water - Acin fac -
+Canal 25.3 Acin/ac O1
+Atm. Depos. Yes 7.0
+W. PIanting 12/15/22
+W. Harvest 5/20/23 22.3 T/Ac (186.2) (119.2) (335.0)
+Summer Crop Corn, SiIage
+Nutrient Summary AppIied N
+. Manure App. 10.0 T/Ac 56.7 133.9 282.5
+S. Comm Fert App. - lbs/Ac - . -
+Process Water a2 - Actin /Ac - . -
+aa 1.6 Acin/Ac 218.6 132.8 2708
+O4 - AcinfAc - -
+WeIl Water - Actn /Ac 0.0
+Canal 32.2 Acin /Ac 01
+Atm. Depos. Yes 7.0
+S. PIanting 6/22/23
+S. Harvest 10/21/23 219 T/Ac (224.3) (417.6) (217.8)
 
 PDF PAGE BREAK 25
 
-UIT
-ETT
-FEE EEE EEEE EE EEEEEEEEEEEE REET
-EERE BEEBE EEE EB
+Nutrient AppIications
 
-EEE EEE EEE PEELE EEE EEEEEPGI
-AAAAOAUOABUANARERBAUARUAVAROGHONLCLL
-FE EEE Latta
-SE EEEEEEE ELLE PEELEEEEEEPEBEEEEL EE 8
-SEEMEEEE EEE PEELE ELL PEELE EL
+FieId Name/Number a Acres 76.00
 
-SEER EEEEEEE EEE EEEEE BE PEPE APH
-
-SEEEEEEEEEEE EEE EEEEEEEEPEREEL FET
-SEERA
-egal d bo hae
-SAP ELE EY BEP ELE EPSP BEE EB
+Dry Manare Water Water Expected
+AppIied Chem Fert AppIied Appied Total P Total K YieId Actual Yieud
+wens _ A ee SS SE ana as SS ata of te
+ES SS NE SE ES NE OE SS I ED
+SS GN A MD SE ES
+Se NS Te A OS (OOS OE CS
+SS A EE SE OO GN DO OS PS
+eS A GC SS EN EN OO GS
+LS SS NS CS OS I EC
+SS OE SS SN EN
+A NN CS IS OO I (OD
+a CR ND EN RS GN I I
+a es I SS eS NS ES ES I GR
+a GS ES ES RS EN NO OS
+a CS A ES EN ES ON OO
+a a ES NS es a
+CS eS RS RS ES SS
+Ss Es ES ON SD I OO
+Ss a Ss I SC
+eS RAs SS NS COR I SS
+SE NS Ee Ss ES ES EN SN Sn GO
+a Ss a I
+SS es eS NE I I CESS GS I ES
+a es Ss NS NN SS ES I
+Sa Rs es Es es Se ee ee
+es Se Ns eS ES TS SUNN SN GS OE
+a es TS RS I RN SS GI I
+a es ae ad ee OO QS GE NO OO
+SS Ses EN NN CI) ES ES I
+Se SS OD I A ES
+a es SS SN I ON Gs PO SS (
+SS es Se OE CSN OO NE OD ES RSE (ED ED
+(eee
+a es RS EN AS SE OS SO
+SS eS ES ES (OS
+Totatss Loo Lo ooo Too TO - tT Tom fT 00
 
 PDF PAGE BREAK 26
 
-zm
-Es
-a
-2
-Bree 89 Eis J e352 8 322 bad if 2
-gos isIes Fios Eege 2 & FB &
-se s 39/88 aaa 23 6(2 z Fa 2
-3 8 Sasieo Fae & Free g Fg EIae 5
-, ga 3s a2jss & BEB Fa
-zja z PIs - & aigIa 8
-e ie 2 i 3 g
- z -
-7 8 iF
-  eee fe os ree s 2 8
-Es 2 3 ry e 4
-S 5 33 5 g
-Ed 2 a
-zy z F
-ra - z
-s2...,,..18 e......fk
-SI PRPPPPEA a PeRRega 8
-Fs s5555 58 z S55 528 z 3
-Ey
-ra
-o S
-F3 7
-td o
-H id
-Es 3
-3 3
-cee
-8 g
-z iE
-  B
-g
-r.J
-2
-ge 3
-kag
-  s
-2 ns
-5 s
+FieId Name/Number Ga Acres 76.00
+NuentsappiedSsSsSCSidSCSC(itCT CCP
+INutrientsRemovedatHarvet Ss oo CT
+(NutrientBaIane CCT OCCT
+Winter Nitrogen Crop App / Use Ratio HN/A Summer Nitrogen Crop App / Use RatIoz aN/A
+FieId Name/Number tej Acres 76
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - TA - - -
+
+W. Comm Fert App. - lbs/Ac -
+
+Process Water Qi - AcIn fAc - - -
+Qz bd Acin Ac - - -
+
+WeIl Water - Actin fAc -
+
+Canal - Actin fAc -
+
+Atm. Depos. Yes 7.0
+
+W. PIanting aN/A
+
+W. Harvest 1/1/2000 aN/A T/Ac aN/A HN/A aN/A
+
+Surnmer Crop 5. FaIlow
+
+Nutrient Summary AppIied N
+
+S. Manure App. - fac - - -
+
+S. Comm Fert App. - bsfAc - . -
+
+Process Water az - Acin fac - - -
+a3 - AcIn/Ac - - -
+a4 - Acin /Ac - - -
+
+WeIl Water - AciIn /Ac .
+
+Canal Ain fac .
+
+Atm. Depos. Yes 7.0
+
+S. PIanting N/A
+
+S. Harvest - ANJA TfAc AN/A aN/A HN/A
 
 PDF PAGE BREAK 27
 
-SSSI SIS ISISISIE
-Z
-TEEPHEEEEEEEEEEEEEELEEAEEEEE EE
-zi z
-feesl &
-SH ELLELEEL Et meIee bl EU BEG)
-iF
-SEER EEPHEEEEEEBEEES EEE EL ebtH) &
-2
-eH EEEEELEEEEEEE BIelet-Eel EEE 8
-SE EEEEEELELEELEFEEEEEEEEELE EEE Bee
-E
-GE HEEEEELEEEPEEBELELEE EEL EE EEE A
-APANAAENARATEARAGYONARARATONORN
-SONSOATOATSEUICOAGONNENVOAINEAICANN)
-HLTA EET Te
-SL BEEEELEEEBEEEEEEEEEEEEBEE EEE Bd
+Nutrient AppIications
+
+FieId Name/Number c Acres 76.00
+Apptied (Chem Fert - AppiIed AppIied Total P Total K YieId Actual Yiekd
+wetiens _ Rs nc Ss SE an RS HS a wf ate
+a ES RE I CT OO ES NTS EE EE GOO
+ wrote TT CC dT CO ed
+Ge SO OS QE SE SS OE OE PS
+L de
+a Se NO ER NE A OO EO GE RE SE CTE EY (OE
+a eC SN ENE ED SS OS EE ES
+ e/s2j23_(S Commer. - - sof - sof TP
+ae NE OO 9 SE
+a A GS A NE CI
+ee I ON 9 OR QO 1) SN OS
+sores eo SO COT Teast Tf
+ee CS GS I OS 2 OG NS NE OS
+a CE DR OOS EE
+76/23 rrocesswater ST SO OT tea pons sea oval zass PT
+_ mops fema TT TC Trot Too
+OO ES SS) Se)
+a SS Rs SS RE NS NS ES SE CE
+a ee SS EO Oe OES ES I
+a Ne Qs ME CE OO GS SE CE ES
+a a SD DE EE Ce
+a a a OS OO (OE
+( , i ee
+eS Ss Cs RN NS DS ND NS SS PS
+Cr - it - ft Pe
+PTC CS
+a es Gs
+a I EE ES ES GSES OU CS ES
+Ss NN A SO
+Y -i - it - Pe
+PCC
+a eS eC SE OO
+Le
+TotaIas Loo J oo se (asa eof at zaIzees err To T3592
 
 PDF PAGE BREAK 28
 
-2
-a
-vw py yw 5
-eoage gosIeg Sie gece & F GRE H
-cdots GFiee fipts agit 2 ot lege 3
-bef 2 gists oa22 F ciIia Ff (eIele 7
-   eisIeg S gases & g ERE i
-3a s3 2 2 (le g
-3 18 3 5o a
-2 ba e 3)
-  g 3 B
-gee g sg, ee & gf
-ge 3 z a
-8 zg
-ze z z .
-. z 2
-w fy... .88 -e...,..(E
-wo I n o
-a Pad s F 2
-g FERRERS e FRERES 2
-2
-2
-        & ie
-Fa z s
-. s
-1 aor z 2
-8 B no . a &
-bed Z
-g
-        8 Fi ie
-& z
- f
-4
-9 dIele z
- (Isisisl. bd
-g (Sel
-   8
-&
-z
-g a
-z 2
-e 8
-it
+FieId Name/Number a Acres 76.00
+(NutrientsAppied SCT STS
+INutrients RemovedatHawest 822.0 T es TC atssa To
+INutrientBaIance CY Tess
+Winter Nitrogen Crop App / Use Ratio N/A Summer Nitrogen Crop App / Use Ratio 1.21
+FieId Name/Number a Acres 76
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - Tac - . -
+
+W. Comm Fert App. - lbs/Ac -
+
+Process Water qi - AcIn /Ac - - -
+a2 . Acin /Ac - - -
+
+WeIl Water - Ac In /Ac -
+
+Canal . AcIn /Ac -
+
+Atm. Depos. Yes 7.0
+
+W. PIanting N/A
+
+W. Harvest 1/1/2000 HN/A TiAc aNj/A HN/A HN/A
+
+Summer Crop Sudangrass SiIage
+
+Nutrient Summary AppIied N
+
+5. Manure App. - Tac - - -
+
+5. Comm Fert App. 90,0 lbs/Ac 90.0 - -
+
+Process Water a2 - Acin fac . - -
+a3 16 Acin/Ac 202.5 133.5 272.3
+a4 - Acin /Ac - - -
+
+WeIl Water - Acin /Ac 90.0
+
+Canal 38.7 Acin fac 0.1
+
+Atm. Depos. Yes 7.0
+
+S. Pianting 4/6/23
+
+S. Harvest 8/5/23 35.9 T/Ac (322.0) (128.8) (600.5)
 
 PDF PAGE BREAK 29
 
-LLETLETEILIT BReBiBi GeSesee
-e -per z
-j
-i
-Po 3
-i
-FI
-SEE EEE PEELE EEL DECLARE
-SOPRA AAR A ASA AOSRRAATAAARAROOEE
-Rg 2
-H Fi 5
-EERE EEL DaIle feeIs) EE8) g
-.
-EEE EE EPEELLL ELLE E PERE) &
-2 3
-Fe ee eIldl-lIel( eIe &
-,
-FS EEE TD TIe EE ie
-PEER Lb EL ef
-- g
-eee eC fee E EE
-eS PEET EEE EEE TT TEEETT TE 1
-TLETEEEEEEEEEEEEEELT TLL eed
-. f
-EES PEEP LLLEEEPEEL ELLE
+Nutrient AppIications
+FieId Name/Number G1 Acres 74.00
+         . Fresh tagoon Leb Semptotets sini
+Dey Manure Water Water Expected
+
+2 eel ee iS
+
+Event / Source (ronsfae) total tas focctnfach fac-tifac) wifteefac (bs/ae) frons/ac)_ tronsfac
+
+Lasos Wittoweam. worst - - - - sas asf sof TT
+layares w.rtonting - - J - i) -t - - - -jf - -y)- yf
+0 ED A AS SC GD NE EE
+ saoes ome - - t - it ssf - oof - TT
+ anos omm - it - it - i ssf - oof TT
+ arzorzs roceswaer - - - - se2 was sav ses asf TT
+syeajza wonoest - 1 - -i1 - - senf ese ual - TT esas
+Ct TCTCOCSCdTCSCCdYC CC eT
+Cc .. -)J - - -/ -f -f - yy yy yt
+ aaa Stommretaee - - ) - - mol - o-oo 7 -f fT.
+a a DS I SS) SE GO
+rats seentme - -t -i) -f -1 - - - -J) -J) oT .
+ee SE SO) CD SY GO GN
+ED ND SG PS
+sos emt - - - i -Jj eas - oof - - fo. fo -y
+sonore fom - - - . e7 - of - yo - f -T fT
+sues swovest - - -. - - tazal asl oval - sz) azas
+a Se RE NS TO CSN SE I PS
+pt -. -f - fe
+rT -)y -j -/ - - - yyy Tt
+a ES CS ES SO GS EO
+Pr -j - - -f - yyy yp te
+rT -t -/ -( -f - - -y- TU
+Tr . -) - -f -f -f 7 -T yp py
+r -) -f -f -f - pp
+Pt -t -), -) - - -j - yey t-te.
+Cc , _ -j - - -f ype
+rT -t -) -) -f -f -j oy) yy pt
+Pr -i)J -f -/ -f -J yyy
+ry -t-iy -) -f -f - 7
+a Se EE NE OSE ES SE GOES CESS IO GO OR SO
+Cf td
+___ TotaIss L ww sem see cal 2 ase za oxy To 345 _
 
 PDF PAGE BREAK 30
 
-a
-Le
-a
-vy yyevizg BOs yFes/z2 Zz ZIzlzZ z
-g22 Reig Fe s gs a oz & (gis g
-23 8 g3cIen 822 & F28le9 2 F ieIels 5
-, gS 3/5 8 ag2ia5 8 FER 3
-me sea gO PRR
-         g
-22 se 2/8
-Q 3
-ee OE 1S gk i
-ss 2 SS Ed g
-BS g 8B 2 Fy o
-iz lz Fy a
-        Ss
-ws Be....g fe zw feo... oIf
-o to o s o n bu o
-a BERRI al PRrerRa -
-3 rersskF 2 S55 558 P
-. 4/8 /gIz
-_ eh
-Bo zee 8 Bg a8
-     . 4
-Ro) w io ) & eIslaIs
-g SseIg
-          3 iS
-RS a N S x i
-3 sa 2
-o 3 8
-3 x Hs
-z ta
-. cH
-z
-gz
-. 3 i
-le 3
-aIe
-eIe
-r S
-8
+FieId Name/Number G1 Acres 74.00
+(NutrientsAppIied SC Store Tag saa ena
+INutrientsRemovedatHarest Sssd S790 Sa geno
+INutrientBaIance CLC Tg ana
+Winter Nitrogen Crop App / Use Ratio- 0.95 Summer Nitrogen Crop App / Use Ratio 1.20
+FieId Name/Number Gi Acres 74
+Winter Crop Wheat, SiIage
+Nutrient Summary AppIied N
+W. Manure App. 10.1 T/Ac 59.5 141.8 408.0
+Ww. Comm Fert App. - ibs/Ac -
+
+Process Water Qt - Acin/Ac . - -
+Q2 16 Acin/Ac 1779 Wag 436.2
+
+Weil Water - Acin /Ac -
+
+Canal 18.9 Acin /Ac .
+
+Atm. Depos. Yes 70
+
+W. PIanting 11/17/23
+
+W. Harvest 5/24/23 21.4 Ac (256.2) (150.3) (373.5)
+
+Summer Crop Com, SiIage
+
+Nutrient Summary AppIied N
+
+S. Manure App. - TIAc - - .
+
+S. Comm Fert App. 70.0 lbs/Ac 70.0 - -
+
+Process Water ae - Acin /Ac - . -
+eB - Acin fac - -
+aa - Actin /Ac - - .
+
+WeIl Water - Acin fac 7.0
+
+Canal 33.8 Acin/Ac o1
+
+Atm. Depos. Yes 7.0
+
+S. PIanting 7/14/23
+
+S. Harvest 11/8/23 17.0 T/Ac (122.8) (62.9) (93.4)
 
 PDF PAGE BREAK 31
 
-LUI Meee I I Raf
-i i ie i
-ee
-FEEL ELEEE EEE AEE
-gf z
-ie
-AAT He ett EEL LT Mitel BEG g
--
-FU AEE EERE ELL LED i
-8
-AAA teIl wet eIle &
-z
-GHEE BLM EEL EEEBL ALL PE
-LEAF BULLE BL ELLE EL ELE
-Bx
-i
-BEAL MR EEEEE ELE Ef
-FEEL EEEEEE ELLER
-TUTTE TTT el
-OAL EL PEEP BEEBE Ebi BE
-ie gs
-ty s
+Nutrient AppIications
+
+FieId Name/Number G2 Acres 74.00
+_ _. Fresh iagoon ah SompIeDete va
+San ee SE) Te (zs che
+Event / Source (tons/ac) tora Is (ac-infac) fac-infac) (thsfac) (ibsfAcd (tonsyec) (tons/ach
+Y -) -f -
+aoe witommretaee. - - mt - - woIf ft
+Lawrorz Tworaning ) CO PCC dT OU TU PUK PT TT
+ wfaea om dT ST TC Tet Poo
+L_ wages foo TS dT CO) Toe Po fT
+es SN TY GO 0 AO GO (OR
+ee a PG ON) 9 I OO GR
+NS MN eZ) MU EY 9
+a a NN COS Se CO
+Cr -)J -/ -/ -( - oy... ye
+r - -f - fp
+PT TTTCt CT
+L Cd
+_ 525723 sMenweAp ee) - - - f - mat aso f swf TP
+ svens fem ST SS SS Ts oof
+a SO CS ON CO EE
+7 RS OOS OD GE
+(aos lcm CT CO OT me Tf
+ arses leme SS TC dT Pst Poof Te
+_ evzorzs rrocesswater SS TO OT CT CdSe tos seo lf zsal zaz TT
+ee ES) OO RS EE
+ sores swaet TT TO asf cf of eta
+SE es NS SRN QOS GOO GO
+a NS ST NC I
+a ee I QO OO OO
+P -il -f -f -
+SS a a S(O
+a SS NS SN RS AR GY
+Cr -it -f - (ee
+ES Es ES AS A CE GN GSE OO CO ON
+a SS NS A ES PN I GT GO GO OE
+AS A SE SE SN QOS QE SO SES (UE (OP
+TotaIss Ls L_w ego ae (wal ssf asa ae err To Tass
 
 PDF PAGE BREAK 32
 
-z
-a
-z
-verge geeIze ZEz208 FES/(FE ZF & (ZZ /5 Fa
-ge2a SxS gata t goxl8s & 8 lage 2
-g3o2 83883 FFos Asse 2 & Bs
-Be 3/2 g22 gz z (fIale 2
-fae FxreIeo R23 8 S828 3g F FIab z
-- 4288 n gipIgs & g iss 3
-A 53/3 0 SA 515 2 a aIolr g
-3 z PIa S 8 s
-Po 3 Fi 9 e
-. _ . 7 Fr a o
-AJ ad
-2 ) iF
-. RR g 4 Re s 3 2
-Se 3 Ss g S 4
-g w x5 rag &
-33 Fy Nv e FJ
-Paid g oN 4 Fy g
-ie Pa 8
-     iS Fd
-yp Se... aIe a ee
-& a 5 i 5 BS 5 o
-N
-so SERRE RFS g RBRRRES
-2 533555 SF zg 555558 . 7
-sep h Ly
-BEREE PERE 5 leIeleIe
-SPE
-rs) ir z ry z be
-RF yobs Bs S woes 3s
-& bHRE a ow B&B SHO 3
-                      ot
-& to ib & EA 3
-- - i
-   o wo ue oI x
-. a
-3 z z
-3 lal 3
-3 BS a
-3 SIalE
-x is
-   2
-&
-z
-2 z i.
-& B
-BRIE 8
-BIS SIe
-o oF
-b iS
-is
-g
+FieId Name/Number G2 Acres 74.00
+(NutrientsApphed SSSCYCCSCi SSCS To
+Nutrients Removed atHarvest _s 72a Tt. asa To
+INutrient BaIance Lee TE
+Winter Nitrogen Crop App / Use Ratio 1.16 Summer Nitrogen Crop App / Use Ratio 1.47
+FIeld Name/Number G2 Acres 74
+Winter Crop Wheat, SiIage
+Nutrient Summary t AppIied N
+W. Manure App. - TfAc - - -
+
+W. Comm Fert App. 70.0 lbs/Ac 70.0
+
+Process Water Ql - Acin /Ac - - -
+Q - Acin/Ac - . -
+
+WeIl Water - Acin /Ac 70.0
+
+Canal 27.8 Acin /Ac 0.1
+
+Atm. Depos. Yes 7.0
+
+W. PIanting 11/10/22
+
+W. Harvest 5/24/23 18.6 T/Ac (127.3) (87.8) (282.5)
+
+Summer Crop Com, SiIage
+
+Nutrient Semmary AppIied N
+
+S. Manure App. 14.9 TfAc 84.3 199.1 419.9
+
+S. Cornm Fert App. . lbs/Ac . . -
+
+Process Water az - Acinf/Ac - . .
+(or) 1.6 Acin /Ac 195.6 132.8 271.0
+Q4 - Actin fAc - - -
+
+WeIl Water - Acin /Ac (0.0)
+
+Canal 33.5 Acin /Ac 0.1
+
+Atm. Depos. Yes 70
+
+S. PIanting 6/23/23
+
+S. Harvest 10/26/23 24.9 TAC (245.1) (421.8) (230.3)
 
 PDF PAGE BREAK 33
 
-LLILTIITTTTBebeeieae 1h
-SEERA EL EEEET ELEC i EEE
-EEE EEE EELEEEEL- ERTL E ESE
-Bz z
-ES
-FH
-ET EEEEEEETEEL ELL lIl Lita)
-ry
-a EE EEEEEE REEL ELL LEL Mite)
-EEE EEEEETEEA aIlel LE 1)
-AA EELEEE-EEL EEE LL LGU EEE
-uw E
-GAEL ELE REL ELLE
-be g
-BEER ELT ELLE HeIl bl LU
-a
-ASAE BEELER EERE
-LTT EEE eet
-EL LELEEEERTERELEEEELEEELE ELE EEE
+Nutrient AppIications
+
+FieId Name/Number- G3 Acres 77.00
+E res Ze mol 2 a aa fo te
+Appied Chem Fert AppIied ApoIied Tow P Total K Sat YieId Actual YieId
+Event / Source ttons/ac) total tbs fac-infac) (ac-in/ac) Wesfach ihsfach iLbs/Ach (tonsjac)_ rons/ac)
+rf. -t - -7, -j -7, - -t -yoey fp yy
+Sg a EN CD ES ES AE A
+A ES RS ES
+SS RS A ES I OS ES AS RS
+ans sMeweame uel - - -. - 7 ms ssf TT T
+Ee 7) ) Md OO 9
+leases arms ss - -) -/ - - -/ - o-oo -T) -T fT.
+Ls 1 A G9 MR 9 CS)
+leaves _ mot i - it - if eol - aef - fap
+7) ES 8 I) QS Ed
+ eares poceswaer - -. - - 16 mol a7sates saat OT
+leans vol -f -) -j) emf - f - - ef TT
+sma sneens - - it -i) - - cael teal coral - ( sv 2270
+eS SE ES USN A ST EC
+eS SS EY SS ES SEN EE COC NO A SO GO
+LCC dC de
+rf. - i) -)J - - -, --T Ty yy
+Cy 1 -f - -f -T -y7 -f ey
+Cf i- i. -t -j ft
+SS a es a
+Lf. rd Cd
+eS ES RN NN ES OS GD
+rf.) -t -) - -f - - TTP yy
+Lt 1-1 - - -, -) tp yt
+rt -1 -, - -/ -/ -y -7 -y yyy
+rf. -t - - - -, -, -) yy. Ay
+a ES A SN AE OS OE GO
+a ES ES TS A CE ES OG LORI GO
+Cf - tt -t -f -/ -, -7 -y yy
+Ce
+a ES NE QA SD CE GC CCG CO
+Ss ES ES EY NS CS a I
+Totats L230 Lo we sa 26) sal ass( esos ovr oo 2920
 
 PDF PAGE BREAK 34
 
-a
-&
-z
-vy pyeyIz2e p F 2s sl2 n z2/22 2
-eeaei ogecIke fSe8i gSS8s 2 F BEE 3
-eee a 89s FRSe eras rary
-a28 & ag 2/8 aBP gg/88 2 & 18g (8 &
-832 8 235/52 &32 25lp0 & e z
-8 8 oF eo fag 8 Faces FZ BIzlp 5
-   3333 3235 3 3 s13/8 z
-Bri PIa E 82/8 g
-Be la 3 i 3 3 &
-- . g s E
- 2
-gbe g & ge s 3 2
-wo 3 nz Py A Ea
-gh 2 35 Fd ry
-g8 Ey & z a
-s 2 &
-wp Soe... we Be Sf ..,, Le
-NM ry to 2 a
-a PRPRP RS a) BESR FL
-BERPRF EERE z
-Fd
-3 y z z By
-a oo a oe oN i)
-- s
-g Load ts H z
-a o & bd i)
-. s 3 z
-2 wo & z
- 4
-S a z
-fs 3
-g PERE
-   tA
-&
-2
-&
-2 a
-z 3
-Fa 8
-BeIgie
-oo ot
-   id
-b es
+FieId Name/Number G3 Acres 77.00
+INutientsAppIied SSSCiYS ODT a8
+(Nutrients Removed atHarvestSCidLSC ens zag Tag
+INutrient BaIance CCA CLS Tas
+Winter Nitrogen Crop App / Use Ratio aN/A Summer Nitrogen Crop App / Use Ratio 1.16
+FieId Name/Number 63 Acres 77
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. . Tac - - -
+
+W. Comm Fert App. - ths/Ac .
+
+Process Water Qi - AcIn /Ac - - -
+a . Actn /Ac - - -
+
+WeIl Water - Ac in /Ac -
+
+Canal Ac tn /Ac -
+
+Atm. Depos. Yes 7.0
+
+W. PIanting N/A
+
+W. Harvest 1/1/2000 HN/AT/Ac aN/A aN/A N/A
+
+Summer Crop Corn, SiIage
+
+Nutrient Summary AppIied N
+
+S. Manure App. 13.0 T/Ac 73.7 173.9 366.8
+
+S. Comm Fert App. - lbs/Ac - - -
+
+Process Water a2 19 Acin fAc 204.0 85.9 500.3
+a3 - Acin /Ac - - -
+a4 - Ac In fAc - - -
+
+WeiIl Water 31.8 Acin /Ac 22.4
+
+Canal - Acin /Ac .
+
+Atm. Depos. Yes 70
+
+S, PIanting 5/15/23
+
+S. Harvest 9/5/23 29.7. T/Ac (263.6) (125.6) (321.4)
 
 PDF PAGE BREAK 35
 
-TTT ETTTTLLLLELRRBRRReRLL TLL
-2
-g
-FT EEE PEELE EEE
-A EEECEEEECEETEETCEETTLLTT EET
-PEPER CCPL TEESE EE REE
-iq Zz
-FEEL T EEE EEP al Adel EEELL ABE
-BTEC CREEL EEEELL ERE
-8
-PETIT BIeleIltel ll 1
-EE EEEEL TTT TTA E EES
-7 3
-EMBER EEE EEE LEM
-2 i
-Be EEE EEE eIite ll FEEL EE
-EEE ELLIE A EEEELEEEEE.
-STATI THL ET
+Nutrient AppIications
+FieId Name/Number G4 Acres 73.00
+         _.. Fresh lagoon tab SampIes tied
+an (ocr Se Sl ea. She
+Event f Source (tons/ac) total ibs fac-infac) fac-infac) fosfac)_ Mbsfach fronsfach
+
+fF - -) -/ -) - fo -y eT
+r __-, - - -jJ - - --fo-y yy
+L___wrstow i - i -) -t -f -f -f Py yy
+Cc -4-) - - jE
+ry. -. - -) -) -f - -y yp
+Ss NE ES A NS QS ES ER
+oe vot - - i -i) eaf - a7) - 7m
+(wens smontme -i) -) -) - -J -J - -,) -J)-y) OT)
+EY SS ON QO 8 I 0 Ce)
+Lumens rol - ij - if -) saf - a7f Po sf
+swans zoo. - - -) s - sel - f- asf Te
+ saazs lorcenswaer - ) - - - 1 aas(o7s aes aacef
+(enazs ool - if - i, - t es - a7 - - (wy ft
+Es a A SN NE GSS OS) ) Ce) cD
+Cr OUT. TTTTCCdrSCSCSsdrYSC(SSE CC
+SS SS Ss NS PR ND I
+Cf i. - i) - if - fe
+Cr -7y -) -) - - -j, -) -y-y yy tT
+rf. -7, -) - - - -t- fy yy
+a NE NE RS SS ES EN
+rr -7, -t -f -f -jJ) --y 7 -
+A A NE NN SS NS GS I I
+Cc -/ - - - -J/ - - fy
+(J -)j - - -J -f -
+rf - -f - -T-t Ty
+rt -, -, - -j -j - py
+ry. - . -) -) - -y -) ye
+a es ES ES EC
+Cf. -i. i. -if - if
+a ES TS CD ES GND OOO EO EC
+a es A SS NS A NOS RC ON NO
+Lf. -f -, - -f -, yy
+Totates Loo Lo x2 we a 2) ml asa7 en To T 2230
 
 PDF PAGE BREAK 36
 
-nm
-zw
-a
-yup s zy yviIzu 2 P z mn z/z2/z2 2
-3 2 FI S
-geg f 83288 322 23222 F 2 ial g
-es 38 Z28le ss s aIe FI S (Pip &
-   z 23158 eR FaEsIas & aad FI
-33/30 3313 Fa q 3 2(E if
-aE g gg FaF 4
-        - EH 3 g
-7 x
-. gee e & ee g
-Bu 3 88 z - (i
-RS & g /
-33 2 85 3 3
-oe g & g
-4 z f .
-  . z 5
-ve Bog... dE ......k
-4 28 a
-gs BERBRES s REREES .
-BEREF ERE aIsloIe
-RBSIE
-E mia
- o NI an cr)
-s . 3 z
-S Bie S wo 8
-& ES) 8 i 2
-ge edo
-o s 3 kd
-My s tl z
-a
-3 J P4
-o Ss
-3 hg
-   a.
-i
-zg
-cy PI
-z a
- oad Fad
-i
-5 Ey
+FieId Name/Number G4 Acres 73.00
+INutientsAppied SSCS Sg Tt asa
+INutrientsRemovedatHarvet i mat Teta Tsao
+INutrient BaIance CSCC Ts Casa
+Winter Nitrogen Crop App / Use Ratia HN/A Summer Nitrogen Crop App / Use RatIo 1.26
+FieId Name/Number G4 Acres 73
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - Tac - - -
+
+W. Comm Fert App. . lbs/Ac -
+
+Process Water ai - AcIn fAc - - -
+a2 - Acin fAc - - .
+
+WeIl Water - Acin /Ac -
+
+Canal - Ac in /Ac -
+
+Atm. Depos. Yes 70
+
+W. PIanting N/A
+
+W. Harvest 1/1/2000 HN/A T/AC aN/A N/A aN/A
+
+Summer Crop Corn, SiIage
+
+Nutrient Summary AppIied N
+
+S. Manure App. - TAC - - -
+
+S. Comm Fert App. - lbs/Ac - - -
+
+Process Water Q2 Ac In /Ac - - -
+Q3 19 Acin /Ac 234.6 154.7 315.4
+as - Acin /Ac - . -
+
+WeIl Water 32.3 AcIn /Ac 22.7
+
+Canal - Acin /Ac -
+
+Atm. Depos. Yes 70
+
+5. PIanting 7/6/23
+
+S. Harvest 10/26/23 22.3 T/Ac (230.1) (95.5) (221.7)
 
 PDF PAGE BREAK 37
 
-LLTTLETLRBRebeeeel Reef
-F J Z
-i i i r ff
-i i - (ff
-       i ig
-god
-AAPA AEE LEE I
-cary 2
-Taeal &
-ESP EPR el-b EE El Wl) e88i)
-S
-SPELL LEL PERL LUE EL AEA) &
-s
-                s &
-EEE UeIelIl lee (PIl ( be &
-EEE EEE EELELHELEPEEE BEE bE
-SEE PEE PBE EEE EEE / ECL EE
-fi
-FEE EEE ELEEEEEEEE ILE LIBEL f
-TEMA EEEETT PLETE LP
-TELE TEEPE fat
-. i
-TEESE EPBELEEEEEEEEEEEEELEE Hb
+Nutrient AppIications
+
+FieId Name/Number- WwSs1i Acres 28.00
+
+Dry Manure) Water Water Expected
+AppIied Chem Fert. AppIied AppIied TotaIP Tota Sait YieId Actual Vieid)
+wens A a SRT St Se Lan ae es ta ef ate
+ee a ES RN ES I OS QS ES SS SE ED GE
+Se NS ES NS EE A GON GCS
+Lsyeapz wirtemng - SO CU TC CUE UAT
+Ee ES ESS PES AO RE OO) I GO A
+ vases fet dT TC CT CC Te Toot
+ansyos wroceswarer - SO (tea are ara sans 2am FT
+AN 9 CY) A
+( srspa lwonanest ot - - - if - - wosail rail eeesif TT asa
+a RN ES RN HS CO RS SN CO
+r .-it -f - -f yy
+r -), - - - - yO -f ye
+Tr -J - - -J -y Ty
+wana Scommrenap. - J - eof - - sat TP
+eC 9)
+Leos srunng ot - - tC UC TUN
+Ea TS SN 7) 7 EO OG (OPO
+eS A 3 I O) RS ES OE ES OOO
+A A SS QD GC
+L soa fom TC dT ome of
+QO C9 VO OD ES EO EN
+Lomas fanart TT OT OU TT ance aor eT 2078
+es A Ss QS I
+Tr - - - -f yyy
+Cr -) - - -f -y yyy yey
+Tr -)J - - -f- yy
+Cr) -y -f - -f -f -7 py
+CT . -t -/ tp ee
+rf - if -f -f fp
+YT -, -fJ - -f -f -y ye
+Pr J-t -f - - -j -,- yyy yy
+rT. -f -t -f -f - 7
+Cl. -t -f - -f fy
+TotaIs Loo Lo sea ses wa fo To ma Tem ToT se0
 
 PDF PAGE BREAK 38
 
-2
-S
-a
-YEO zy vIz 2e2oe FeeIF 2 2(2 z
-geiee peIe zaeae TE & F BEE 3
-30 8353 s3 gig 2 z S (siss
-7 a 238 3 bd F 4
-agi i ZztIeq 823 & E2529 3 F ieee z
-  gazIss gies & ssk 3
- 553 8 53a 2 igIele g
-BB 3 s 2 Fy aie
-2 g Fi
-gee 8 ee 1
-a 2 m a 4 2 1h
-ss 3 ss H a
-J a ee s g
-8s 5 BN 2
-88 3 os g g z
-ze Pad 8
-  x
-y &e....g 2 y Be... Lk
-- o be wo an s
-_ _ ww
-GZ RRRRRES go oR RRERES .
-. 222257 . 2SSR a
-BREPE ERER & la loIple
-8 z
-co
-Be z 3 6 z s
-Bo woB Be g wer ges
-a oShO o & oo
-- a
-Fy sores 8 go H a
-& B a Ld g/
-w SIe
-2 s 3 reg
-o 3 w
-i
-a 2
-3 a Fl
-3 & x a
-Zz ie E
-  a
-i
-y i
-EIelBIe
-i
-b is
+FieId Name/Number Wws1 Acres 28.00
+(NutientsAppIed SSCdSCCSi ST ttn
+(NutvientsRemovedatHavest stS aT Tso To
+INutrient BaIance SCC CY Ta zea
+Winter Nitrogen Crop App / Use Ratto 0,91 Summer Nitrogen Crap App / Use Ratio- 1.21
+FieId Name/Number ws Acres 23
+Winter Crop Wheat, SiIage
+Nutrient Summary AppIied N
+W. Manure App. - T/Ac - - -
+
+W. Comm Fert App. - ihs/Ac -
+
+Process Water at 16 Acin/Ac 178.9 PBS 383.4
+a2 - AcIn/Ac - . -
+
+Weil Water - Acin /Ac -
+
+Canal 18.9 Acin /Ac 0.0
+
+Atm. Depos. Yes 7.0
+
+W. PIanting 11/23/22
+
+W. Harvest 5/25/23 24.1 TAC (204.3) (108.8) (317.4)
+
+Summer Crop Com, SiIage
+
+Nutrient Summary AppIied u
+
+S. Manure App. T/Ac - - .
+
+S. Comm Fert App. 80.0 lbs/Ac 80.0 - -
+
+Process Water fora - Ac in fAc - - -
+aa - Acin /Ac - - .
+aa - Acin fA - - .
+
+WeIt Water - Acin /Ac 80.0
+
+Canal 39.4 Acin/Ac o1
+
+Atm. Depos. Yes 7.0
+
+5. PIanting 6/20/23
+
+S. Harvest 10/12/23 20.8 T/Ac (138.6) (78.1) (129.3)
 
 PDF PAGE BREAK 39
 
-Sisie/sIaiseIsie (SISISISERE
-EL AEEEELLEBEEEELEMEEEE ELLE EL ELE I,
-HE EEEEEEEEEEEEEEEEEE PEELE
-HE LLEELEEELEELEELEELE EEE EL Ei
-Bg z
-mn oe
-SEE EELL l WeIl t eel Et3) g
-A EEEEEELLEELS LEE Ml EL)
-AEE PETEV TT FRCWLLT( FaBSLOMALE T) &
-                       . a
-SELLS EEEL EL EERE HeEHEEE BRP Pete
-OLA EEEEEEELERU EEL EL abet bE fl
-                                        i
-EE EEEEEL PELE EERE HE
-aE ETE ET EEL EEEELTEETEELEEL AE
-TLE EET et
-EAU ETE EEE EREAELEET EERE ELE EU
+Nutrient AppIications
+FieId Name/Number- Wws2. Acres 36.00
+            uae ral
+Ory Monure Water Water Expected
+
+2 soe Tes a ee
+Event / Source ttons/ac) totaIihs (ec-infac) fac-infarp fibafAch ftonsfac) ttonsfac)
+a OS OC
+vase (Weetanwearp a7zt- s TO TC Soy ssatasaf PT
+Ce TS Re ES EE ESN CSS ED PS
+EL a ee A AS) A RT) SS GN
+a A QS OT -) ES EE ES
+ 22/23 Processwater SS - SS CO CC tara anz aise zat TT.
+_areres fom OT TT ef To
+ea a es eS LE REN A) SC Tk ed
+SS Re eS QR OS SD OO I I
+a es CS QO CO A OS
+2 a I A SO OT) RN GN SE OO
+ee EN ES GRE GE EE I
+ee SY
+SC GS) OO) ES ND
+a ee TD A NT) ES NE OO
+ z2s(z3 (Processwater ST SS ee zz sas zars zacef -
+A OS cD OT) OO SS
+PE CN NN 9 SY GE
+ soe72s (SHawest ST OT CO TT coral isa neoay arr s0.00
+( . -f -f - - -f - ft ye pee
+a es CO SS I SS ST
+( -j -t - -f -7)-T- ft - fy
+a es ES CS SD OS nS OS A I OS
+a eS ES ES NN GC
+a NE EQ A EE
+Cr . -) -j - -f - fy TT
+a es OS GN OS GON CS
+a es SE OO SC MS
+L - i
+( - -f - - fee
+aS A MES CS CO CO EE GE OI GO GO GO
+eS A A CN ES PN ES SE
+TotaIs Ls7 Lo sxe ax al ml 5 sal em T oo ase
 
 PDF PAGE BREAK 40
 
-mn
-&
-a
-g22 geIig G22 22552 2 Bie 3
-aaB 8 FasIe R33 8 35/29 3 F leIa z
-   e223 , S agIis GE a
-. ePR BPE F BIe ls
-Pp ie 3 ie 3 3 a
-2 g ge s 2/8
-Ba 88 3 ge z Ka F3
-Ne . Bs H & a
-SB 2 2&8 & 3
-By & 88 z z 5
-     S s
-pe Fee ewe OR po Fee ea o/h
-sD we n w o n s s
-a
-3 RRR RREG i BRRREG cd
-BO BseeS3F eee ea . 3
-Fy
-EPEERE EERE leIeleIe
-SIele
-s 2 8 . z ee
-B woe Boo. a - _
-bw oro & & oo fo &
-c c -
-& & 2 se o biga
-g eIa
-z s 3 e 2 3 5
-.
-3 se g 2 8 j
-5 o iS we z
-a
-FA ez z
-8 ou g
-J aisIe bg
-3 ere
-3
-   ie
-g
-z
-FE Z g
-aIleIe 3
-58 1B at
-rl
-ie
-5 e
+FIeld Name/Number ws2 Acres 36.00
+lNutrientsAppiied YS Tanase
+INutrients Removed atHarest s tore az Tepe
+Nutrient BaIance LTT aT See
+Winter Nitrogen Crop App / Use Ratio 1.09 Summer Nitrogen Crop App / Use Ratio 1.21
+FieId Name/Number ws2 Acresi 36
+Winter Crop Wheat, SiIage
+Nutrient Summary AppIied N
+W. Manure App. 9.7 T/Ac 57.0 136.1 391.3
+W. Comm Fert App. - lbs/Ac -
+
+Process Water ai 1.6 Acin/Ac 176.9 727 379.1
+a2 - Acin/Ac - - -
+WeIl Water - Acin/Ac .
+Canal 19.0 Acin /Ac 00
+Atm. Depos. Yes 7.0
+W. PIanting 11/20/22
+W. Harvest 5/25/23 22.3 T/Ac (220.5) (131.6) (354.1)
+Summer Crop Corn, SiIage
+Nutrient Summary AppIied N
+S. Manure App. - TjAc - - -
+5S. Comm Fert App. - tbs/Ac - - -
+Process Water a - Acin fac - - -
+. aa 1.6 Acin fac 220.5 133.9 273.1
+aa - Acin fac . - -
+WeIl Water - Acin/Ac a0
+Canal 38.3 Acin/Ac O48
+Atm. Depos. Yes 2.0
+S. PIanting 6/25/23
+S. Harvest 10/27/23 19.7 T/Ac (187.3) (116.3) (179.1)
 
 PDF PAGE BREAK 41
 
-TL ETTELLTTETL ETF EBRseee ee feb
-g
+Nutrient AppIications
 
-SEL EE EEE E EEE EEC EEE
-SC EEE ELLE TECEL LLL EE
+FieId Name/Number ws3 Acres 76.00
+         _. Fresh Lagoon stab SarmpIeDote vied
 
-ry z
-
-g7/ &
-
-SEE EEET TLL Lek lIl tel Ebea)
-
-P
-
-BEE C ELL EEEEEEEEE Ffe-//4-/4- EEE &
-
-3
-
-TEE TLL teIe lIe -VE_ ) 3
-PEE EESEEELTL LL LLLP LE De Ee
-k
-CELE EEE EEEEEBE AIleIe
-ANVUNNANARNAANANANGAWOAPNONOANONECEH)
-SU AAVAAAAAATAT ARNON ARARARTOWAOT OQ an)
-PETE eed
-SLEEPER EEEETTL LAL EEE EES EEE
+Dry Manure Water Water Expected
+an oe Tee eT Shee
+Event f Source ttonsfac) total ibs (ac-infac (ac-infacd foafach fibsfAc) ftonsfec_ (tensfach
+rT, - - -j- fy eee
+wre - - -/ -t -/ - - fT yf ty
+Cr -t -f- ff
+ 2nsja smanweam sooof- j - I - 1 - sez sesIasat TT
+ET CS IS ED A 79 OO) QO OD CN CON LS
+anaes seonng 1 - i) -) -) -J - - -f 7 - oo - 7. y fT
+a ED ES 9 SE ) CN OO (OT
+2 a A EN NS SY ) ON CO GO
+a OE TY ES ) SS GE OS CGO
+ee 3 Dg 2
+a CE 9 NT ) RE
+a ES NN OS) ec) Dc
+a ES RT ES ES RO es MO
+C , 7) -) -t - ff
+Cc -j - - - ye
+LC -i -f -t -/ - 7p
+Cr . - - - jy
+Cc . _ -t- -/ -J --7- Tp
+CL . -it - it. if
+Cr . -f -f -
+Cr f i) -t -t -f - yy
+CT) - i) -t - if Pe
+rf -, - - -f -f -y) -y o-oo. T tet
+rt -j -) -) -f - -f oo --yo- 7 - TT
+rf. - - - -y - -f) -y7-y yey
+a ES SE ES ES (ESS NS SO CON CSO ES C(O
+fF -. - -f -j -
+Cr -Y-) -) -f -f ff -y
+Cr - -J -if - fe
+fr -f-f -f -) -) pe
+a RS ES ES GEN ES CO GC OO OS EE OOO (OE
+r . _-) - -f- fo -T jp ayy pe
+TotaIs L100 Lo aso ace asl ewe sms er oo azar _
 
 PDF PAGE BREAK 42
 
-zm
-o
-z
-yeRpe BeIz 2296 782 z (Fz 2 z
-gag & 2/32 222 2 222/28 2 2 i2laIe Fa
-88 Sz2le B22 8 238/e9 3 g EIels zg
-   g 22153 , PG3)38 g leas
-2i BBB 06S laIa ig q
-Pook 3 a 9 Ea
-     F & gfe
-gee e & ee je /f
-3g
-ge 3 8s 2 - i
-ge 2 BS FS g
-SS - g
-, Bary a z 2 s
-iz a s bg
-E S
-ge Fe... sik a rs 2
-ry w ry o s
-FA
-a Peppered a RRRERES 4
-BEEBE EEEE lel
-S188 /Z
-CIee
-    e z z 2 5
-Buco a B re
-2 Gero o oN o
-- . 3
-2 of bd i 2
-oJ x
-- 3 g APPR
-& BAB S boa i &
-y aa
-& 4
-a 3 ze
-2 ly g
-gel x 8
-2 Fae
-   5
-zt Fa
-Begel 6
-BIeee
-. Ra
-8 5
+FieId Name/Number Wws3 Acress 76.00
+INutrientsAppied CYC aT S006 TS 0
+INutrients Removed atHarvests BST Tet
+Winter Nitrogen Crop App / Use Ratia HN/A Summer Nitrogen Crop App / Use Ratio 1.23
+FieId Name/Number ws3 Acres 76
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - TiAc - - -
+
+W. Comm Fert App. - lbsfAc -
+
+Process Water a - Acin/ac - - -
+Qa - Acin /Ac - - -
+
+WeIl Water - Acin/Ac .
+
+Canal - AcinjAc -
+
+Atm. Depos. Yes 7.0
+
+W. PIanting aN/A
+
+W. Harvest 1/1/2000 aN/A T/AC N/A AN/A aN/A
+
+Summer Crop Corn, SiIage
+
+Nutrient Summary AppIied N
+
+5. Manure App. 10.0 T/Ac 56.7 133.9 282.5
+
+5S. Comm Fert App. - lbs/Ac - - -
+
+Process Water a2 1.6 Acin/Ac 179.9 75.8 4411
+a3 - Acin/Ac . - a
+a4 - Actin /Ac - - -
+
+WeIl Water - Acin fac ike)
+
+Canal 32.3) Acin/Ac O14
+
+Atm. Depos, Yes 7.0
+
+5. PIanting 4/13/23
+
+S, Harvest 8/14/23 32.4 T/Ac (198.8) (132.3) (235.7)
+
+.
 
 PDF PAGE BREAK 43
 
-TTA Be beeeee ie
-AAAR &
-i i
-EEL EEE LECTURE CESARE
-EEE EEEET LEE EEEEEL DEEP
-EEE EELEEEE EE I
-Ay z
-Secs) &
-FEEL EELL lel le el) Q888)
-  D
-FEE EEE EEEEEM/ EMER &
-a
-Py S
-ESE EbIe ekbEEME ) &
-EEE EEEE TL Et ELLE EBE (EE
-WEEE ETT ETE RTT Ce 8
-  NM z
-DT EERL CREEL LEE Bj
-EEE TETTETLEEETT TET TERE F
-TUTTE ETE TeIs
-SEE PEELE LEE LEPEPE EEE
-a gE
+Nutrient AppIications
+
+FieId Name/Number wsa Acres 77.00
+a _. Fresh Lagoon abSummptetoce vied
+
+ory Manure Water Water Expected
+2) feel se ee lee
+Event / Source ftonsfach total hs (accinfac) (apdnfac) Gasfecy thstac) Ubs/ad ftonsfach
+a ES ES EO ES ES NR ES OS GO I
+ _wraw . -. -) - - - -/ -)-7 0-7) -y
+ry. - - -/ -) - yy
+Pr . -)J -f -j -jJ - - yy Ty yp
+ aesa Seanuretop- izset- - 1 - -i) rt aj se7f - fT
+Ee ON 8 CN OS)
+ aizna seonme - 1 - - -/ - - - -f -J)-y Ty
+laasaa loom it - i. -i) - ea( - of - pf yy
+L ssens et it - - i -j) sel - oof - - fo. fo -f Td
+sees erocenweer - - - - se4 asal sal sera 2e TT
+a RS CS ON) TC) GO
+ za fon. - it - -4 ef - oof - - - ft) -f T -d
+lems lem - -it -i) - esl - oof - J) - yy
+a TC 7)
+a a SS RE NC NC
+A NE ES ES RS I POR ON OS EE EE
+cr -) -/ -/ -/ -T-T fo -T -T-tT
+Pr -i -f -t -, -f - yyy
+Cf - -, - -f -f -y yy
+fr -j -f - -f -f -y fy pe
+Cf. -. -) -) -t -f --f fay
+CJ. -, -/ -j ./ -)-y ef-s
+Cr - -t -t -y - yy
+Cy. - -) - - -f -J) - Ty
+r - - - -/ - - -, -J) yy Ty
+Cr -, -)y -) -f -f -f Po -p-y tA
+SE NN EN SS ES SS SON QOS ES
+Cf
+a CE SE ES TC NG OSS CAE OD OU MP
+a OE NESS ES SD SS SS CO OE CI
+Pr - i) -f -f -f -) pp
+SS ES SE SS ES ON Se SS CS SO OO
+TotaIss L130 Co se 10 a7 sl ae zon) om oo azsr
 
 PDF PAGE BREAK 44
 
-z
-yuvEgQe pyvl2zge a
-TELE seage 75eke 2 F (GER z
-digs GLEE ffes GTREe g a faIse i
-g 8 a sig 835 26 8 z aIala rs
-z25/2 9 28 & Easie3 2 leIa zZ
-Bas rSrl5e & 3 jfIsle
-2 PiRe Ras 13/0 a
-18 33(2 2 & faIels g
-ae bs a bo FI 2 aIe a
-- FF fe
-2s BER g & ge - 2
-se 3 ss Sis
-as - 35 a 4
-a8 5 g 3
-8 z i
-a S 3 S e
-g Boo en B/E Se... fk
-222558 Fo Bass RF 2 3
-BPRRF EERE 3 zg
-5 z
-_ N is
-B -..4 Ed
-Bowvee 2 a rr i 5
-roy 3
-   tig d 2
-3 Fa g PS oe . 3 3
-    so
-- y jaIoloIe
-e 8 2 Z eS
-a oF
-PTiiky og
-8 laIate 3
-S (SBIR .
-3 re SIE
-   z
-7
-FJ
-&
-hd al
-z 5)
-el oIale
-eIeleIa 8
-bIe
-im z
-B 3.
+FieId Name/Number ws4 Acres 77.00
+(NuentsAppied OSOCSCCsrCSiiaSCSCSCdSCCtiG Ts
+INutientsRemoved atMarvet sit SST eT ts
+fwutrienteaiance SS SSSSCSCdCSS tt CTs
+Winter Nitrogen Crop App / Use Ratio- N/A Summer Nitrogen Crop App / Use Ratio- 1.10
+FieId Name/Number ws4 Acres 7
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - TiAc - - -
+
+Ww. Comm Fert App. - lbs/Ac .
+
+Process Water Qi - Acin /Ac . - -
+a - Acin /Ac - - -
+
+WeIl Water - Acin/Ac -
+
+Canat - Acin/Ac -
+
+Atm. Depos, Yes 7.0
+
+W. PIanting HN/A
+
+W. Harvest 3/1/2000 aN/A TiAc AN/A aN/A N/A
+
+Summer Crop Corn, SiIage
+
+Nutrient Summary AppIied N
+
+S. Manure App. 13.0 T/Ac 737 173.9 366.8
+
+S. Comm Fert App. - lbs/Ac - - .
+
+Process Water az 2.6 Ac in /Ac 179.8 1ST 440.8
+a3 - Acin fac - . -
+a4 - Acin /Ac - - .
+
+WeIl Water - AcIn fAc (0.0)
+
+Canal 38.9 Acin/Ac O1
+
+Atm. Depos. Yes 70
+
+S. PIanting 4/12/23
+
+S. Harvest 8/14/23 32.6 T/Ac (236.3) (146.7) (262.4)
 
 PDF PAGE BREAK 45
 
-ALLL Rebeeete (RRR
-e a
+Nutrient AppIications
 
-i ok
-
-SHEE EE He EE
-
-Fz 2
-
-. 5
-
-SL EEEELEEL Ee betel Leb REE
-
-is
-
-FEE EEEELEEEEEEEEH-EEEEEEEEE Eee &
-
-21 &
-
-EE EHEEEL EEE HeIleIell/-EEEELRE
-BAP EEEEEELEELEEEEEEEEUEEE EE E8
-TERETE ALT ee I
-BEE EELEEEEEEEEPBEEEEEEEEPEEEEHE
-SELEEEEEEEEEEEPREEEEEL-EEEEEEEEEE (LP
-LETTE ETT et
-. i
-EULEEEEEEEELLEEEBEEEEEEEELSEELL EEE
+FieId Name/Number wss. Acres 36.00
+         _. fresh tagoon stomSampensta vets
+2 feces fae he
+Event / Source ftons/ac) total tbs _ tac-infec) (ac-infach N fibsfAc) (s/Ac) dtons/acj. (tons/arc)
+NE ES RS SE CC SS GO OO OO
+_ anor w.commretap. - - mal - - of - Pe
+ avsee2 (wrimne - - i) -1 - - ) - J) - -y Oo - fy
+ET) RE ) MO OO GO
+ee ) 2 GD OG
+Lames aot CC COC ee
+(sacra wwowet - - TC dT sel aeof aes
+aS NO CO EN OR EE ES CO
+rT , _ -)J - - -f -J -J) yo-yo Ty ep
+A CN 9 ND
+ ene seonine - 1 - -f -t - - -f - -f - ff.
+Ee SS 0 SD
+ wares emt - - -i et - oof - fet
+ ama lena -j - -1 sat - oof - - oo - fo - fT
+ eas Processwater - LS Cd Case ane ( seo f as aye OT
+(sea (cm -j - - 1 sul - oof - TP fe
+Ee a es eS RS ES (CIN OTS) ee BT
+Pp -j - - -/ - Typ td
+f . - - - - WT
+fF -it - if fe
+fr -) -J - - (A
+Cj - - - - , - J). yp
+Yr .- -j - -f -f -y - oo -yU-T eT eT
+a es Es I
+r _-j -f -/- pT pT
+rT - - ee
+C - - -/ -f 77
+C ._ - -j -/ - . J)
+r i -f -f 7p
+r - -j -/ -f) - spe
+Cr _ - - - - - Te
+SS ES ES EN CS SC EN SD
+TotoIs Loo J Lm ses ( ase al asl onl _areo om oo ase
 
 PDF PAGE BREAK 46
 
-J
-z
-a
-yee pevIze eRe FeeIFe F 22/2 z
-reise ogogIeG Ssh FSees z 2 REE 5
-ag & F2sIen 228 8 FIslee 3 F leas 5
-Ba2ls 8 , aizie ERB H
-aa ie ha E 3 18/2 le g
-3 8
-       Pog 2/ if
-gee ee e F/ fi
-ws
-se 3 gs 4 / 8
-BB 2 O88 3
-3s a su w 2
-a5 & an ry & 5
-        Ra)
-wu Fey... . lk e fon. . gfe
-bo wo n to - a i
-a PP rPRao a PREP RI
-z BERRIES & gssshF )
-SVR wre See e &
-BEEPS BREE S ,IgIele
-Do bea baa
-z is
-ry z
-gv obra & o o ca)
-   p e a
-8 (Bs FS oe . 3 e
-- - g (BEBE
-s - FI ES
-ES 2 ey F
-a
-a al
-B leIelel of
-x bs
-g Seg
-   8
-i
-3 a
-n_ in 8
-gIeisIe
-. e
-t B
-B 8.
+FieId Name/Number WSs Acres 36.00
+(Nutients AppIied SS SSCCSsSCitiSCCd tag ara
+INutrientsRemovedatHarest_Ssd 89 kz OT zag
+Winter Nitrogen Crop App / Use Ratio 1.47 Summer Nitrogen Crop App / Use Ratio- 1.35
+FieId Name/Number- Wwss Acres 36
+Winter Crop Wheat, SiIage
+Nutrient Summary AppIied N
+W. Manure App. - TfAc - - -
+W. Comm Fert App. 70.0 lbs/Ac 70.0
+Process Water Qu - AcIn/Ac . - -
+ford - Acin /Ac - .
+WeIl Water 21.1 Acin /Ac 70.0
+Canal - Acin/Ac -
+Atm. Depos. Yes 7.0
+W. PIanting 14/18/22
+W. Harvest /25/23 17.8 T/Ac (125.2) (73.2) (204.0)
+Summer Crop Corn, SiIage
+Nutrient Summary AppIied N
+. Manure App. - TfAe . - -
+5. Comm Fert App. - lbs/Ac - - -
+Process Water az - Acin /Ac - - -
+a3 2.6 Acin/Ac 214.7 130.4 265.9
+a4 Actin fAc - . -
+WeIl Water - Acin/Ac (0.0)
+Canal 30.9 Acin /Ac 01
+Atm. Depos. Yes 7.0
+S. PIanting 6/28/23
+S. Harvest 10/12/23 22.8 T/Ac 163.7) (90.5) (130.4)
 
 PDF PAGE BREAK 47
 
-ULLAL RSs
-i
+Nutrient AppIications
+FieId Name/Number a Acres 80.00
+           -_ ,
+Ory Manure Weter Water Espected
 
-i oP
-
-EEE EEEEEEEEEEEEELL AL ELLE He
-gg z
-EEE LEE PEPE ELH Pet BOtH)
-ry -
-CURADSDRENAERAUSYENOANRSUODONAE TCE
-A A EAEEEE EEE EEEEEEEEELPPELEEE abe fg
-
-A AEE PEE PEELE EEEEE ACEH eb
-ALEEEEEEEE REEL EEELEEEL PEEL MT
-BE PEEPLEL EL ELEEEEEERL PEELE
-PLETE Tet
-
-BUA EL BEEBE EBERLE EE PED Bb Ee
+2 feel SIT me ee
+Event / Source frons/ach totaIs (ac-infac) (ac-in/ac) (es/acy ftonsfach_ ftons/oct
+a As ES NO GR I
+ ayaa wMenweape tzsol- - - - 7aa meal assaf TT
+a eS OC SN RO ES ES OR A
+Luan fon TO TT owe tO P
+a Cs eS A 2 ES EN EC I PS
+ aos too C CC EC TCC ot
+sro (wwower oT TT Tf esl ef as
+SS ES NS A NE GS RE CE EN
+es a SS NS I OE GOCE SN EN
+YT - -) - fy
+a en ND NN OO SC
+DP CCS
+LL i. - i - fet
+SD NS EN OOS EN OO
+a Ne a SS A CS ON OS GE
+L_ - it - it.
+SS a eS a
+LC . iY
+a a RS ES ES OO ES OE EE
+SS Rs as
+a a A SS
+a a SS NES RS SG
+Se a es SS QQ
+rT, -it -f -f -fo-yo- T-type
+ee nO DS
+es A A A EE OO CS A GC
+EN EN SN SE NO OOO OD EGO OE
+a SS NS SS NN OO A RR DE CO RE
+SS Ns SO SCO GE GE AGS GO ES SE OU
+a I ES CN RES NN SE QE GOD EN SN (OO I
+A NE NS A EN SE GCA OO GA GS CA CO PS
+LS SN CSN SO EO GS ES IE GES GO SE OI (OO
+Totatss Las L 9 was Too J wl ssf aT Too To Yas
 
 PDF PAGE BREAK 48
 
-z
-a
-vyvRO Pr yviz z z z 2/2 z
-sige ge site eeyce FeIis 2 (EG g
-gios gis Frets goiIge 2 & BIe 3
-aoe 225108 &38 s35/29 & a laIa 2
-8 83s a3 F3sIeo 2 F gIee Z
-3252 egs25 g ess8 FI
-zg ge2 Ff eee a
- ie 3 FA 2
-   Re8 ia - ge Fs g/ i
-s z of z aa
-s g 8k B f
-Ss 2 2
-2 f 5 g
-x Ss oy 3
-re t 4 po Boe... BIe
-i 2 5 o
-gd FERRER ES gg eeRRES e
-B OREEEEEs oF EREEER 5
-BeEEE EERE 5 Es
-aIslaIz
-ey Fea Ps
-Fs - Ea
-ne bl ee i is.
-& a 8 is
-s Pa)
-   trae 3 ta 3 H 2
-2 e 8 2
-g SieIole
-z 3 n 3 ie
-   eras a ta 8 if a
-ES 2 &F
-3
-Ej a
-3 waIel 4
-3 tod ea
-FA 3s
-Zz
-z 8
-e 8
-g ig
-   8
+FieId Name/Number- ai Acres 80.00
+(Nutients AppIied CTS saa
+INutrientsRemovedatHarvest SS Sn taf
+INutrientBaIance CT eT
+Winter Nitrogen Crop App / Use RatIo 1.01 Surnmer Nitrogen Crop App / Use Ratio- N/A
+FieId Name/Number ct Acres 80
+Winter Crop Wheat, SiIage
+Nutrient Summary AppIied N
+W. Manure App. 12.5 Tac 73.3 174.9 503.1
+W. Comm Fert App. - lbs/Ac -
+Process Water qi - AcIn /Ac - - -
+a2 - Acin fac - - -
+Weil water 20.12 Acin /Ac -
+Canal - Actin /Ac -
+Atm. Depos, Yes 70
+W. PIanting 12/15/22
+W. Harvest 5/20/23 113 T/Ac (73.5) (52.9) (105.4)
+Summer Crop S. FaIlow
+Nutrient Summary AppiIed N
+S. Manure App. - TA - - -
+S. Comm Fert App. - lbs/Ac - - -
+Process Water az - Acin /Ac - - -
+aa - Acin/Ac - . -
+a4 - Actin /Ac . - .
+WeIl Water - AcinjAc -
+Canat - Acin /Ac -
+Atm. Depos. Yes 7.0
+S. PIanting aN/A
+S. Harvest . HN/A T/AC HN/A aN/A HN/A
 
 PDF PAGE BREAK 49
 
-LEE eee Ue
-SEE EEEEELEEEEELL EEE He
-EEELLBELEELLELL EEL et EU Be
-D
-EEE EEEEEEL EEE EEL ET beat)
-EEE EEEEEEEELEEL ELL BIe EVE )
-AHHH ELEEEEUEETLE BEET ET Be
-E
-a AAU EERE EETE ET EL ETL Te
-g
-PE EEEEEEEELEEELEELL EEL ETT ELT Ee
-EET LEEEEEEETEEEREETELE
-UATE TTT Peet
-EEL EEEELRELETEELE ELL EEEELE LE EI
-i
+Nutrient AppIications
+FieId Name/Number a2 Acres 80.00
+Dry Manure Water Water Eepected
+Aprtied ChemFert AppIied AppIied toe Totatk SaIt YieId f Actual Yietel
+emusune _ Ss ans (SSDS Ss ana ae SS Sta tat
+a ee ae Oe I OR
+A a a Se
+a a a es a ee
+_sovso/2a (s.commrerap - fT sof TO soo
+EE I OS
+a Re 9 GN)
+EL OD)
+_avafzs (s.nanese ff eof azaIeas
+a a es Rs ss Ge O
+a Hs a
+a es es es
+a es ss a es a Ne ee es ee
+a a ee
+a ss Qe
+a a ee
+a a es es ee
+a a es es Ge
+. a Se ee ee
+a es es se ee es
+a a a
+SS SS es
+a as a ee
+A A GO ON QO SO
+a ss ee es ee ee es ee es
+a a ee se ee
+a es ND ES I
+SS a OO I SN GS TE OO I
+po
+a SN NS I GO ES OO NS OE
+a NE I EE
+Po eee
+ae a I NS CO I OO OD
+TotaIs L_ vo J Lo Tasos Too Teal ant aol err ToT zs
+t
 
 PDF PAGE BREAK 50
 
-x
-z
-BE
-giots Goiad figts Reege Ff leis i
-Bef 8 23588 fe8 8 eeaIko F 2 FIala 2
-BR Ras ag 8 spsIeg 2 2 (EIe 5
-e Pi 3318 2 & (33le z
-Pe Ed & 3 812 /s g
-eR 3 ie FI 3 a
-        2 ze 3 &
-g af
-_ 2BR ge oS. ge s 3 3
-BS FI 3 z
- & 3 g
-Lae 3 g
-f Re 68 z
-p Pe... .g./88 s 8... z
-i 2 oS a
-3 BRE Fs a PERRED N
-Fy ERERIES Fy BERRRS 2 4
-BEERS BEERS A
-8/32
-ais
-Fs eB
-B wes sl7 5 en bel z
-& 8656 & 5
--_ 3 4
-8 tee oo . z &
-A 3 3 ig
-z ,
-a R
-fer
-A
-e i
-5
-FJ
-5
-5 Fi
-ie
-bi
-fa
-& is
+FieId Name/Number a2 Acres 80.00
+lNutrientsAppIied CTC
+INutrientsRemoved atHarvest ss 94 TST SST
+INutrient BaIance LS tts To
+Winter Nitrogen Crop App / Use Ratio aNn/A Summer Nitrogen Crop App / Use Ratioz 1.20
+FieId Name/Number az Acres 80
+Winter Crop W. FaIlow
+Nutrient Summary AppIied 3
+W. Manure App. TiAc - - -
+
+W. Comm Fert App. ibs/Ac -
+
+Process Water a . Acin /Ac - - -
+a2 - Acin/aAc - . -
+
+WeIl Water - Acin/ac .
+
+Canal - Acin/ac .
+
+Atm. Depos, Yes 7.0
+
+W. PIanting AN/A
+
+W. Harvest 1/1/2000 HN/A TAC 4N/A HNJA aN/A
+
+Summer Crop Sudangrass SiIage
+
+Nutrient Summary AppIied N
+
+5. Manure App. - ThAc - - -
+
+5, Comm Fert App. 50.0 lbs/Ac 50.0 - -
+
+Process Water Qa - Acin /Ac . - -
+a3 - AcIn/Ac - - -
+Oa - Acin Ac - - -
+
+WeIl Water - Acin/Ac 50.0
+
+Canal 14.0 Acin /Ac 0.0
+
+Atm. Depos. Yes 7.0
+
+S. PIanting 8/18/23
+
+S. Harvest 11/4/23 13.1 T/Ac (89.4) (39.2) (168.2)
 
 PDF PAGE BREAK 51
 
-B23 EiBS/ se 2)x/S/a/s/eIeleIe
-ie,
-ae 8 s
-z
-a
-Pa
-gai
-TEETER EEELEEEEEEEEEEE MEE
-2
-SE EEL EMEEEEEEEEEEEEEEEEEEE
-if
-8 ea z
-H Fa
-FA FiIle ll WIeleeel ebat) &
-x
-SEE EEEEEEEE PEEL EE EE bet &
-ee aR LELI REET)
-HEEL aIls
-GEE EEEBEE LET EEE EEE
-_E
-EEE EERE EEELEEBEEEEEEEL BE
-i
-EEE EEER EE EEE-EEEEEEEEEEL LB f
-EEE EM EREEELLEEE-EEEEEEEEE Ee
-a1 iz
-ETT Te
-SU ACTEREEE EE EE EEEEEL REEL ESE
+Nutrient AppIications
+FieId Name/Number a3 . Acres 76.00
+ _ _ rest lagoon tab SompIeData eid
+Dry Manure Water Water Seed
+2 (oor Se me se fee
+Event / Source (tons/ec) totaIlbs_ factnfach fac-tn/ac Hbafac) (bs/Acd ftonsfac)_j_ftonsfach
+rp -) - -f - -f 7p apy yyy
+snares wacommretaon - - mol - - amof fy
+ ams wreming TT CU dT UT PT
+eS CS ) A SE) GO ON
+eS A) ) SS
+OS RS 1 MO ) OD
+a CS DY SS) PO NS
+ee OS AS 9 ES
+NO A ND ED ET) EC ON
+CS NN NS 7) ed
+a ER ES OO
+rT it -f - fe
+a ES ED NS NE ES GC EE
+_ ssa scommrentape - - f o - - snap PT
+LD OC OE OO HO
+L eros com TS TT mf oof
+a SS 8 NS )
+ee a A OD ES 8) Oe
+EN ) I T-3 OU NE OS
+(sare (swawen - TT ttn essa) sno fT 326
+a SS GN CSE SES ES RR HRN SD IE CO
+a ES ES NS SS SS GQ I
+rT it -f - -f yp
+LS (ON SS CO COED OAD OCS OS SNE QO HOS
+CT if -f -f ye
+Pr - it - i) -f -y -
+a SS a I OO
+LT -it -f -f -f yy
+a A
+es NS NS A A Ga I
+Cr if - if - fe
+EN SS A EC RS
+Totes _ oo _ eT ae
+Dry Weight
+As Received
 
 PDF PAGE BREAK 52
 
-Pa
-a
-a
-verge yevIRe s2Res zesIFB F (ELE Ff
-zPags TLE zeigt ge site z 2 (is 3
-ge2 geIbg og28 & 2271S & 2 (eIe Fy
-wag & FesIe 9 aes S goaIies 2 8 lee 5
-   gaIs egzige S feIge z
-es PIa z S ag 8
-Bp fa 3 ie 3 9 &
-, 2 z
-gee 2 ge g 3s 2
-ES s ge 3 s EF
-Bae z ge rr) &
-Be 28 E z e
-raed iB s .
-P Hey _ f
-ee g fe... BaIe
-oe 8 & & OR 5 e
-a PDP za a PrPrPrpseat bad
-B FREREES 3 fssiss
-PEEPEO PEPE 6 Le
-FREER RRER 2 eIelgIz
-BaIe
-5 8
-an
-BE oe Bel G Jo8. B./
-& ors o we oro i)
-s B ot
-gy re) 8 rk g &
-2 c-4 a
-- _ 5
-8 Ces 3 te 3
-7 & F
-a
-   Pa 2
-9 & Fi
-   x g
-g ig
-   3
-CJ
-2 a
-iy Fl
-Es
-8 8
-s
+FieId Name/Number a3 Acres 76
+INutientsRemovedatHarvest ss tak Tz Tas
+INutient BaIance tes Ta Pas To
+Winter Nitrogen Crop App / Use RatIo 1.04 Summer Nitrogen Crop App / Use Ratio 2.14
+FieId Name/Numberz 3 Acres 76
+Winter Crop Corn, SiIage
+Nutrient Summary z AppIied N
+W. Manure App. - WAc - - -
+
+W. Comm Fert App. 120.0 lbs/Ac 120.0
+
+Process Water al - AciIn /Ac - - -
+az - Acin /Ac . - -
+
+WeIl Water - Acin /Ac 120.0
+
+Canal 37.4 Acin/Ac 0.1
+
+Atm. Depos. Yes 7.0
+
+W. PIanting 4/8/23
+
+W. Harvest 7/3af23 34.3 T/Ac (237.3) (132.0) (274.4)
+
+Summer Crop Sudangrass SiIage
+
+Nutrient Summary AppIied N
+
+S. Manure App. - Tfac - - -
+
+S. Comm Fert App. 60.0 lbs/Ac 60.0 - -
+
+Process Water az - Acin fac - - -
+a3 - Acin/Ac - . -
+aa - Acin fac - - -
+
+WeIl Water - Acin/Ac 60
+
+Canal 25.0 Acin/Ac O21
+
+Atm. Depos. Yes 7.0
+
+S. PIanting 8/15/23
+
+S. Harvest 11/3/23 13.3 T/Ac (111.3) (67.6) (260.1)
 
 PDF PAGE BREAK 53
 
-LUTTE Te
-LATTE
-CUE A EEE EE BEEEE EE BERLE
-PEELE FEELERS
+Nutrient AppIications
 
-EE EAE EE EEEEEEEEE PEELE
-CE EEE PEELE EL tt)
-BE LEE PEL EE EEELEEL EEL PEEEEE Ly Bb
-EEE EEE EEE EEEEERLE EERE T)
-SALAH EEE EEME PEELE ELBE FE HE)
+FieId Name/Number ca Acres 76.00
 
-EEE EE EEE EEEEEEEEREL EL PEPE BEE
-
-SEERA PEPLEEEEEEE ELLE
-EEE EEE EBERLE REL EEELEE
-SU ERIRIMRIe i
-SLL ALE EEL BEEEBELEL EEE EEE ES
+Dry Manvre Water Water Expected
+a ore S/S se a ae
+Event / Source ttons/ac) total tbs factn/ac) (acinfach Qbsinc)_ Bhefac) (Lbs/Ac) ftons/ac)__ (tons/ac)
+a ES a SC ee
+rT. - it -f - ft
+a C2 NS CD IS EN OR A SD OO
+PT, Tt
+Cy) - it -f - if
+Cr . -) -/ -f --) Ty
+rT - i - it fe
+Tr. -t - - - fe
+rT - -f -j - - apy
+rp it -t fT
+Tf -f -f -f - -f Tepe
+a SN I CS A GO I
+CT ,- if -t -f - fp
+a NS RS
+P , - - - ff
+Cc -) - -f -j - tae
+r .- i. i) -f ye
+rt. - i -t -f -f - py
+rT. -t -t -tf -f -) tye et
+rc -f_-J - -) -/, - -y yf yy pe
+SS RE EN SE OED GN CO OOS SO NO OS
+Cr .-f -f - ff
+rT -i lf - ff
+rT -i) - - fe
+a SS
+rT -t -f -f - -
+rT - i) -it - ft -
+CJ, -) - -f - Py
+DP - if -t -f - fy
+TC , if -f -j -f fe pee
+p -it -f - fr
+eS SS QR GE OS OG CEI
+TotaIs Loo L so om ooo - tT - fo fT oo fo Tom
 
 PDF PAGE BREAK 54
 
-2
-&
-YY ROS yevIze eee zz sl/2 Zz z2/zZz/2 2
-aif ge 822/832 222 g 438) Fy z (iIele 2
-&B z&lee 2p 8 2sIe9 z 62 (EIe z
-   BASl5 8 , raed ee g Bis 3
-7p Pio 3/2 z 8 (3 eIF g
-s a z & 4 (2 Bd
-B48 3h FI 9 &
-ey oe y g 3
-   gBR eoo8 ee e /8
-S s 8S 5 3
-& 3 z 9
-se....... 8 S..,...(f
-g
-go BRR RRES Ss FERRES
-z sae55 52 Fy 555558 FE x
-SSEES SESE S &
-eeEEE SESE z
-fa
-5
-o o
-3 3 Pt
-oo i -)
-g iF
-s ez
-es 8
-g a
-3 a H
-s &
-Ks FI
-7 a
-Zz
-iy I
-Ea
-a 8
-   Fy
+FieId Name/Number aa Acres 76.00
+INutrientsAppied SCT SCE CTT
+INutrientsRemovedatHarvest Ss OCTET
+INutrientBatance TCC GS TT
+Winter Nitrogen Crop App / Use Ratio N/A Summer Nitrogen Crop App / Use Ratio- N/A
+FieId Name/Number. ca Acres 76
+Winter Crop W. FaIlow
+Nutrient Summary AppIied N
+W. Manure App. - TA - - -
+
+W. Comm Fert App. - lbs/Ac -
+
+Process Water Qu - Acin /Ac - - .
+Qa - Acin fac - - .
+
+WeIl Water - Acin/ac -
+
+Canal - Acin /Ac -
+
+Atm, Depos. Yes 7.0
+
+W. PIanting N/A
+
+W. Harvest 1/1/2000 N/A T/Ac N/A HN/A aN/A
+
+Summer Crop S. FaIlow
+
+Nutrient Summary AppIied N
+
+. Manure App. - TiAc - - -
+
+S. Comm Fert App. - lbs/Ac - - -
+
+Process Water a2 - Acin /Ac - - -
+Qa - Acin /Ac - - -
+Oa - Acin /Ac - -
+
+WeIl Water - Acin fac -
+
+Canal - Acin/Ac -
+
+Atm. Depos. Yes 70
+
+S. PIanting aN/A
+
+S. Harvest - N/A TiAc aN/A HN/A HN/A
 
 PDF PAGE BREAK 55
 
-ALTA Tetiebiieeel
-i i
-2
-SALE EEEEEEL EEE EE PEELE GE
-EE EPULEEEEEEEEEL-EEEEL ES BIE
-EPEEPEEBEEPEEBEL EE eIle EL EEI3)
-p
-FETE EEPEEEEEEEEEEEEEEEEE EEL EIEHH) &
-2
-BE CHEEEEHEEEELEEL EE BeIelIelIeet EEE &
-G EEEEEEECEEEEEEEEEERE-E-EEL EEL HE
-&
-SOTHOAT ORT SQUNONSARNONVEQITENIANEY
-TALE EEE EL Fea
-EL EELEELEEELELEEEEREEEEEEEEEL ECE
+Nutrient AppIications
+
+FieId Name/Number 41,3 Acres 100.77
+en toe eee st fee ee
+Event / Source itonafac) seta tes twcdnysc) facsnfach goafact cisad unsac (tonsfac)_ ftons/ac)
+r . -- - - -/ -f TT
+rt. - -) - - - 7-7 yp
+r -. -) -) -/ -f -f -y 7 yy
+wins wetmns -) -/ -/ - -f) --o-f oy .y yd
+_ sana leme ot - J - f - sef - oof Tot pf
+A rE ES ES NE) 1) CU
+ svoes emt it - - it - 1 4a7 - oof Pe
+Tenses foot t -il -) -) sel - oof PT pt
+SD NY GS OS OE
+a SD ES QO NY 9 NO ) On (OP
+sna loot it i. - -) sf - of - f o- -f - fT.
+ES MY ET) OY A QE OE EE
+a rs SS SES QS OCC) OT) dD
+Cr - -l -
+Cc . -j - - -/ -)- ft 7p ayy
+f(t 7-7. -) -/ - -J -, o-Ps
+Cr . - - -jJ - J 7 P
+C . -J -) -/ -/ -J 7p
+Cc. i) -l -jf - -J -T 7
+rr. _ -) - -j -f -f- ye
+r . _ -t - -t -f ye
+r . - i. -if
+cr . _-, - -/ -/ -/ -J -) -y -y) -y- 7 y).
+Cc -f -f - - - - -f -) -y)-y-y Ty.
+Cr -, -J -/ -/ - -/) - -y yyy
+Cy) i) -it -if - i.
+CI -/ - -/ -/ - -7) -f py
+C , - i) -t - i) -f - fp
+Cc). -J -/ - - fT
+Lt) ft -) -) - -7) - fe
+Pr f -7. -t -f -f -f -
+Cc. . -j - -/ - --T- ye TTeyet T -
+TotaIss Loo J To 208 oo arml ol uel - eoe oo J oso
 
 PDF PAGE BREAK 56
 
-Py
-z
-yy pz pe vIzg 22298 Fe82 z Z/zE z
-egidi ofese G3222 Ge58F & F GRE H
-g27 8 834182 323 3 eseIee g & (BB i
-42 sasIea 853 & 235129 3 & oe z
-ge PS ea g
-4 3 i
-QaR z . ge 3 S/R
-ry
-is ee z z 2
-w
-5 8 2
-gg RRERR ES g BRREES u
-Ea S35 5558 S355 5R - z
-z
-lz
-aE E4 - Ay
-3S oF
-           ot
-s be 5 be g ze
-& R igIol
-2 INN iF
-z Rg 5 a
-- 3 Fy
-3
-EI s 2
-g z d
-a x g
-z
-i
-8
-g
-g ot
-e
-ce
-s Ea
-   g
+FieId Name/Number 1,3 Acres 100.77
+NuvientsAppied CT TTT
+INutrientsRemovedatHarvest SS SS a9.0sY eae Tt To
+INutrient BaIance Sanwa sts
+Winter Nitrogen Crop App / Use Ratio 0.05 Summer Nitrogen Crop App / Use Ratio N/A
+FieId Name/Number 51,3 Acres 100.77
+Winter Crop Trees, AImonds
+Nutrient Summary AppIied N
+W. Manure App. - TiAc - - -
+
+Ww. Comm Fert App. - lbs/Ac -
+
+Process Water Qi - Ac In fAc - - -
+a - AcIn /Ac - - -
+
+WeIl Water - Acin/Ac -
+
+Canal 26.9 Acin fac O14
+
+Atm. Depos. Yes 7.0
+
+W. PIanting Yf1/16
+
+W. Harvest 11/1/23 10 T/Ac (129.0) (123.6) (202.4)
+
+Summer Crop Trees, AImonds
+
+Nutrient Summary AppIied N
+
+S. Manure App. - TiAc - - -
+
+S. Comm Fert App. - tbs/Ac - - -
+
+Process Water a2 - Ac In /Ac - - -
+Q3 - Acin/Ac - - -
+Qa - Acin/Ac - - -
+
+WeIl Water - Acin/Ac .
+
+Canal - Acin /Ac .
+
+Atm. Depos. aN/A ana
+
+5. PIanting N/A
+
+S. Harvest HN/A aN/A T/Ac HN/A aN/A HN/A
 
 PDF PAGE BREAK 57
 
-ATTETTETT Bieeeiises) fe
-i i
-foi
+Nutrient AppIications
 
-3
-
-FEE EE ELEEEEEEEDEL EIREE
-
-EEE ELEC ERELCEREL ELLE EIR
-
-TELE EEALEEL (feIts MEt8)
-ze
-
-BEE SELLE EEEECECELLELEE MERE) &
-
-3
-
-Se EP PEED E BIe bb
-
-GH EE PEEEELLEEEE RE EEE PE
-a. Ie
-
-BH EEE EEAE-EPELELLEELEEE Ded
-
-TETEEEPETEEETETETETET TET ETE EET Bs
-
-e LEELEEREEUECLEELEEREEUELEBEEELE LF
-
-TATE TT (eet
-
-EEE EEELEEBEEEEELL BPEL LIER
+FieId Name/Number Al Acres 1.00
+ _ _. Freah togoon stab SumpIe Data Met
+oR
+Event / Source (tonsfac) totaIlbs factnfach ec-Wi/ar) fea/ach (ibs /ach itonsfack (tons/ac)
+Yr -) -f -f -/ yet
+rT - i). - i
+C -/ - - -
+_ wea wormming - - CU TU TU
+ET a ED ES OR CY TO EE CO
+_ seas jemi f - - it - i) 42f - oof pp
+ sons lcm TT CTC CT Comat Too
+_ es lcm -t - i - J ssf - J oof fT - T -
+22 GD OO OU GOES
+ snons lem it - -i - 4 ol - oof - -f - -,
+Ee CS RN QO 2) TT)
+Ee ES OS) OT)
+ avaes woewer t - TT Tersoff soe ts
+Cc -) - -( -f eet
+T.-C
+NS ES CS MCSE CN SN ES SE PS I OO NO
+rT - -j -l -
+NS TS CSS ESS SCS SN OE CE OE CO CO
+C - it -t -y
+L . 7. ye
+Lf -/ -it i ee
+L - - -/ - J.T py Tp
+a a GE Ss SH
+Yr -J - - - -) ft -f-p-T yt
+r - - -f yy Tye -T
+ES CSS SORE ME CN ON SO RE GS ES EN
+Cr -) - - . fT
+r - -j - -/) yyy yet
+eS SS SS SE ES ES SG EE ES OOO
+SS ES NES EN I DS IE OE OO GPS
+Cc - - - - Jy T Tye
+ES ESS ES ES SN GN SE COC SA QOS OO GONE
+TotaIss Loo (o seas oo cz taf oa - 1 ooz oo avs I
 
 PDF PAGE BREAK 58
 
-z
-o
-&
-z 2/2/22 2
-eeeee geeIlf GS3fi G238F & OF OER j
-2 7He Parg eo SSeS
-&2 8 38leo B82 & 23le9 3 & leIee Z
-z 42153 , ef2jas S 8 jess
-p PS aIz 2 (eeIs z
-3K ge & 26 /Pe 3
-- fF fF 2 is
-FI 22 zs 2/8
-g
-ae PEE TF. 3 S/k
-z s ss g g
-Fy we 3 2 z
-ga ge 3
-s & a ao
-ee Lt p Fe... fk
- is zB
-a PRERPRPeRFA a PRERPREFS
-Ea g555588 3 555588 . 7
-s3EEF PERE 2 lsIeloIe
-Pa z
-zg 2 8 z g
-M&M ob
-5 g 5
-s - H z
-- wa
-c-J bs Zz
-i
-a al
-& jel t e F
-3 5 Rx &
-g BERR
-   Ea
-z
-s PI
-Ea e
-ig 2
-i
+FieId Name/Number AL Acres 1.00
+(Nutientsappied CE STOTT
+INutrients Removed atHarvest SS zee a
+INutient BaIance Lena azo
+Winter Nitrogen Crap App / Use Ratio 0.03 Summer Nitrogen Crop App / Use Ratio aN/A
+FieId Name/Number Al Acres 1
+Winter Crop Trees, AImonds
+Nutrient Summary AppIied N
+W. Manure App. - TiAc - - -
+
+W. Comm Fert App. - lbs/Ac -
+
+Process Water fox . Acin /Ac - - -
+Q . Acin /Ac - - -
+
+WeIl Water . Acin /Ac -
+
+Canal 58.9 Acin /Ac oa
+
+Atm. Depos. Yes 7.0
+
+W. PIanting 1/1/21.
+
+W. Harvest 11/1/23 18 T/Ac (227.5) (200.4) (357.0)
+
+Summer Crop Trees, AImonds
+
+Nutrient Summary AppIied N
+
+5S. Manure App. - Tac . - -
+
+S. Comm Fert App. - Tbs/Ac . - -
+
+Process Water Qa - Actn/Ac . - .
+a3 - Acin Jac - - -
+Qa - Acin /Ac - -
+
+WeIl Water - Acin/Ac .
+
+Canal - Acin/Ac -
+
+Atm. Depos. eN/A HN/A
+
+5. PIanting BN/A
+
+5S. Harvest HNJA N/A TfAc aN/A HIN/A N/A,
 
 PDF PAGE BREAK 59
 
-ALAA eeeseaas
-ba
-z
-i or
-COTE EEC EELEEAEE EE
-AEE EL lIa LL BEG
--
-AEE EEE ELL Bea
-a
-ALLELE UIlal LUE) 8
-ge
-A HAT ETE EA EL Be
-EAE EL Pe ELE Ee
- i
-A EERE ETELELEELEL EL EEE PL)
-AP EEEPEEEUE TERT ETT f
-TUTTE TT eet
-AP LPELELL EEE ERE EL EEE Eg
+Nutrient AppIications
+
+FieId Name/Number A2 Acres 0.60
+
+Dry Manure, Water Water Expected
+2 sce Se le ac Sh
+Event / Source itons/ac) totaItes_ feccinfecd fec-tn/acd dihsfacy tbsfac) fLbs/Ach ftons/ac) ftons/ac)
+fr. - -t -f -tf -) fee
+SS ES ES A NE RS CS OS ON
+eS ES ES NS SS EAE CEN NN I EN
+sane wetmg - 1 -) -) -j) - -f --,) -y) 7) Ty
+a ) RQ) DO TS
+ apna font i. i. dT met Poof
+l sans lena - - i -, -. sat - oof
+Leyes fen - - - -J sl - oof 7p
+0 OO 9 ) A
+eS QD 9 OE
+L srs om -i -i) -j) sal - oof py ft -f T-
+soars om iL - J - i -t ssf - oof - f - fo -f -T fT .
+Lass wtenes - - - i. - i - aval ers pars sont 375
+Cr -). -, -j -j -f- fay
+SS ES ES NE A NS A AS ES GS SE
+Ct, -y -f -tf -f -f yay
+a SS EE EN NN SE QS GD OS GOD GO OG
+CL -J, -) -) - - - -y yyy yt
+eS A ES NE A OIE ESS EN SN ON ES OU
+Ct. -, -) - -fJ -) - yy pp
+rT. -i -) - - - - fy pet
+Pr -, -, - -jf -,)-y TO -y-y
+rr. -, - - -7t - - -j yy ey fT
+rt. -7, -) - -) - J -y TT
+r J - - - -f ---f yy
+rc. -, -, -/ -J - - -)-y-y- yet
+SS a RE TE OS NES EO OO CO
+Cf. -J -j, - -/ - -7 -j ayy
+SES ESN SE SESE GS GD SE GOED ED
+a A EA ES A SE CCE CEN ES OOS COCO
+Ct. - it -) -) -t -t -y yy
+a NE NS A A GS ND OO GOO GO GO
+TotaIss L_ ao Lo azz oo onl coil cowl - soz fof aas J
 
 PDF PAGE BREAK 60
 
-z
-z
-w 2
-giots GssIig fees GSFee 2 & BE Z
-RES 8 S58 g28 F s3eIbo F 2 BIale 2
-ef sysIog Fak 8 SasIeg a & lel A
- BES 33i2 ZF aIe z
-3 8 gr 5 a (la 2
-- z 3 Fi
-zee z ge z, 3 f
-gz g By g Pp 8
-s Ss Col
-ss Ae 28 z z
-Zz 2 z SS &
-S00... /87 4 Fa... sk
-y
-sg ERERREY 2 zs B
-RB 5555558 z RRREGS a
-ESEEE BEER s Ff
-8 W8RIolz
-2 3 . eid
-g BE
-z 3 E a
-2 iy z
-. g e
-z - ms
-S bs g tao z 3
-ss z
-3 ot
-lee Hl
-3 5 nm bd
-c 2.
-. B
-7 a
-& e
-7 8
-Ed
-s g.
-S S
+FieId Name/Number a2 Acres 0.60
+INutrientsAppied CTC CT
+INutrientsRemovedatHarvest_ SS 27 Tw Tazo Tt
+INutrientBaIance Yee ww aT
+Winter Nitrogen Crop App / Use Ratios 0.03 Summer Nitrogen Crop App / Use Ratio aN/A
+FIeld Name/Number A2 Acres 0.6
+Winter Crop Trees, AImonds
+Nutrient Summary AppIied N
+W. Manure App. - T/Ac - - -
+
+W. Comm Fert App. - Ins/Ac -
+
+Process Water ai - AcIn/Ac - i -
+a - AcIn /Ac - - -
+
+WeIl Water - Actn/Ac -
+
+Canal 47.7 AcIn fAc 0.1
+
+Atm. Depos. Yes 7.0
+
+W. PIanting 3/2/18
+
+W. Harvest 11/1/23 1.8 TAc (227.5) (200.4) (357.0)
+
+Summer Crop Trees, AImonds
+
+Nutrient Summary AppIiled N
+
+S. Manure App. - TjAc . . -
+
+S. Comm Fert App. - ibs/Ac - - -
+
+Process Water a2 - Actin /Ac . -
+a3 - Acin fAc . - .
+Oa - Actin /Ac - . .
+
+WeIl Water Acin /Ac -
+
+Canal . AcIn /Ac -
+
+Atm. Depos. HN/A aN/A
+
+S. PIanting HN/A
+
+S. Harvest HN/A AN/A T/AC aN/A HN/A N/A
 
 PDF PAGE BREAK 61
 
-ALT TT iiseeaee
-z 3
-a iF
-Py 3
-2
-SLE EEL EEBEEEEL ELLE PEED
-EE EEE EE EEEEEEEEEEEEEEEPEL Hg
-gq 2
-5
-SLU MEEELELL EEL eiIe) ENC)
-FEEL PEEEEEEE PEELE Bad)
-e 3
-AEH MAL HEMEL BeIlet 8
-GA AEE E-BEELL EPR BEE
-BAA EEE EE EEE BEE EU PEELE
-BEIVEEAT EBT OBNSEANEENRENNEBNGON ca
-ETT et
-5
-ALLELE BELT EP EEE BLE Pi
+Nutrient AppIications
+FieId Name/Number GS1 Acresi 127.76
+Dry btznure Weter Water Expected T
+2 feo ese mel a re
+Event / Source tone fact total ios _ tacda/ech factnfacd MMibsfAc) dthsfach (bs/Ach ftona/ae)_ ttonsfac)
+SS a
+rT _ - - - -- Ty
+we weenie - 1 -1 -J -1 -) - -f -7 -7)-7 J
+CO GOR CS A YE NR CO
+a eS SE ESS A YD SE ES OR
+ sss eme - - i - es2 - oof - PP
+ sere cmm - - - es, - oof - - yo - fo. TT
+L vans cmm - - - east - oof Te
+2 RS A) 2 OO ID
+Loans fom J -, - -4i) sel - oof - - - - J
+Ee SS DY eS SO OE
+EC NT CO) Ce OY OED
+Cr - - -J- 7.7
+rT i -j - -j - -j - 7-7-7
+CT. - i - i) fe
+r - - - - J.) fy
+SE ES SED SE OE CN OOOO OO ESO NOSE OEE CO GOS
+ES ES I NS ES RS SN I CO OE GOS
+Y . - - -j-
+y - -/ - - -J) Typ
+CT - i - it)
+pF . - - - -/ -,) - 7 -)y py
+a Es SN OS CR SO QE ES
+C _- - -/ -/ yyy Te
+aS EE OS ES OC SS GN A OS ED (ORO
+ES EE RE GN ES ES EE GN EE ON OO
+r - -f - - - yap pe
+p - - - - -J) yp
+aS CS SE ES SNCS EN GN CSE QE OO OO GEE
+f , - i) i-if - if. fe
+Cc - - - - -) yyy pp
+SS ES SE ES CS OARS CN CEN GORE EO
+Totatst Loo Lo ss oo wel wnl wont - oo To Jf 17
 
 PDF PAGE BREAK 62
 
-7
-s
-vYRD zyy z
-eouee gocIee f8388 25528 g F EEE z
-geeee goes FFF age & isIze
-def F G3sIa 328 F gGHee og of GRE i
-3 & aeiIy a Ss s o G
-   gasIeg 48 & Eases a og Eee 5
-- P33 Sa 55 3 a (5/3/38
-eal ssjz F & (aIeig g
-2 3 a 3 Oo g Pl
-g iis
-2BR F z z
-z2 a ry ge 8 g 2
-ee ge s a
-PY ss 5 Fy
-3 BR F z o
-S S...... 048 &3..,..,/87
-MM io a
-go Beeeeeey 3 Fa
-  E5555 5 2 tits . ot
-8
-BEERS EEF 8 g
-z
-c 7 a ie
-& oF
-3 -
-S es & Fy
-S FS Do 1 g an &
-bi aIu 73
-5 _ 4 oo/e
-& 8 z
-2
-4
-9 z HI
-g e g
-2 z
-   ta
-a
-z
-i F
-. w
-2 /
+FieId Name/Number GS1 Acres 127.76
+(NutientsAppied CT To
+NutrientsRemoved atHarvest _ ozs T a2
+Nutrient BaIance Tams Ta
+Winter Nitrogen Crop App / Use Ratio 0.03 Summer Nitrogen Crop App / Use Ratio N/A
+FieId Name/Number G51 Acres 127.76
+Winter Crop Trees, AImonds
+Nutrient Summary AppIied N
+W. Manure App. - Tac - - -
+
+W. Comm Fert App. - lbsf/Ac -
+
+Process Water Qu - Acin /Ac . - -
+Q - Acin/Ac . - -
+
+WeIl Water - Acin fAc -
+
+Canal 49.9 Acin/Ac O21
+
+Atm, Depos. Yes 7.0
+
+W. PIanting 1/1/06
+
+W. Harvest 11/1/23 1.7 Tf/Ac (225.9) (199.0) (354.5)
+
+Summer Crop Trees, AImonds
+
+Nutrient Summary AppIied N
+
+S. Manure App. - iA - . -
+
+S, Comm Fert App. - tbs/Ac - - -
+
+Process Water me - AcIn/Ac - - .
+as - Acin/Ac - - -
+a4 - Ac in /Ac - - -
+
+Weil Water - Acin /Ac -
+
+Canal - Acin /Ac -
+
+Atm. Depos, aN/A aN/A
+
+S. PIanting HN/A
+
+5. Harvest HN/A aN/A TfAc aN/A HN/A BN/A
 
 PDF PAGE BREAK 63
 
-ATTA Bebe bees
-a
-A
-3
-FEE EEELEEBELEEEEEEEEEEEELEEHEED
-SEE EE ESE ETEETLET TIE
-PELE PEEEEPEEEEEEEEELEEEEEL LEU EEE
-ey z
-EUEEELLEEELEEEEEEEE Bek E/EEta)
-EEE EEELLEEEEEEELEEEEEE EEE A EEEH)
-Fy
-ECE MHEEELEEE LHL BIeeIeteIele-/4-bLE
-OEP HEEEECEEEEEEPIREEEEEEE EEE se
-AUDADANERSANESUAU ANNA ONHANENERR
-g
-i Bri
-HEE EEEEEEEEEEEEEELEEEEELEE Be
-e z
-BS PEELE EERE PEELE (FP
-SAA AHH
-E Eg
+Nutrient AppIications
+FieId Name/Number GS2 Acres 74.45
+             ral
+Dry Manure Water Water Expected
+
+25). el mel sae le
+Event / Source ftons/ac) total ibs fec-infach (ac-lefac) (ibsfacy (sia) Gbs/Ac) (tonsfach
+a a es es ee ee ee se
+a ee ES SS
+a a es
+eS Ce Oe I DO
+a a SO ND OS
+ED 7D SO ) NN I NE
+ aes (om OT PT sro oo
+a a eS )
+A SS) ) en
+ wars fom ao oof
+ee A SZ) RS SC) EN EN
+_ sors Loot TT ssf oof
+sofas Peat TP aa oof
+L swap (wenaest Tf PT easaifesof eal eof a8
+a a A ES ES OES OD I ES OE
+RS SO OE OO I I
+a I ORI COED SUNN OD NT QO CE OO SED (ONE ESE
+a A QO OOS ES OS TE OE
+po ee
+eS ES OS ES OOO
+fee
+a es I a ee es ee ee
+a ee Qs ED RS ES SS COS OO OE SS
+a SS GS RS SS OS OS
+a es es sy Re OS NS ED PS
+pee eee
+ee DPD yee
+po ee
+eee eT
+a SS ES ON NS OIE GON (SRY OOOO OEE CS UENO
+po eee
+SS Sa OO SS SS ES EN GSN GOIN QUO COO ROO OE (EE
+TotaIss Loo Lo ase Toon asf tenes coe Tt)
 
 PDF PAGE BREAK 64
 
-Z
-oe
-yvrEros RreyIzy SS29S Pesfz 2 2/2/2 z
-ze 4822 389 8288s 2 3/8 lg &
-gi8 8 3 & age z2, & z (FIale 2
-eas 8 SIo Ei S2E2lR 0 zi 2
-g 8 z Sl 2e2 & gasIeg 3 2 l2p
-   222/53 9335 BE 3
-3 is BPs z 6 6(gieig g
-P fe 3 ie 2 3 aye
-2 7 Og a
-    8
-eee 3 ee 3 8
-ZZ ge g 4
-es b se b 8
-Fy Re FI a
-3 8 La
-s 3 ge x Be -
-SS. ....../8 w &... 0. dE
-_ a
-ww
-g eReereg a BERR ES 8
-BEPEE BEPE g lel ie
-8 uIate
-Ba Ed
-2
- 2 i
-s a
-Bb
-cy
-2 e 5 Fy
-z 5 iz
-2 Fy z
-a I
-a 3 2
-a 3 o
- (RISz
-2 Pere
--
-i-J
-8
-4
-z P
-3 x
-g &
-ie
-   ed
-5 e
+FieId Name/Number GS2 . Acres 74.45
+(Numientsapptied Tt
+INutrientsRemoved stHarvest_ tas. are Tamas
+NutrientBaIance Teg cag Tas To
+Winter Nitrogen Crop App / Use Ratio 0.03 Summer Nitrogen Crop App / Use Ratio HN/A
+FieId Name/Number 6S2 Acres 74A5
+Winter Crop Trees, AImonds
+Nutrient Summary AppIied N
+W. Manure App. - T/A - - -
+
+W. Comm Fert App. - lbs/Ac -
+
+Process Water ai - Acin /Ac - - -
+az . Ac in /Ac - - -
+
+WeIl Water - Acin/Ac -
+
+Canal - AcIn /Ac -
+
+Atm. Depos. Yes 70
+
+W. PIanting 5/1/05
+
+W. Harvest 14/1/22 L7 Tac (225.3) (198.4) (353.5)
+
+Summer Crop Trees, AImonds
+
+Nutrient Summary AppIied N
+
+5. Manure App. - TAc - - -
+
+S. Comm Fert App. . los/Ac - - .
+
+Process Water a2 - Acinf/Ac - - -
+aa - Ac In /Ac - - -
+aa - Acin/Ac - - -
+
+WeIl Water Ac in /Ac .
+
+Canal - Actin fac -
+
+Atm. Depos. HN/A aN/A
+
+S. PIanting N/A
+
+S. Harvest HN/A N/A T/Ac aN/A HN/A HN/A
 
 PDF PAGE BREAK 65
 
-i
-Notes
-f Without aIlowance for the significant amount of rainfaIl during the winter months of 2022/2023, the Irrigation logs on each fieId page of the
-j annual report, refIect canal and/or weIl used onIy during that time frame. The factIity did not irrigate during the Significant Storm Events. i
-A if
-t A tl
-j Jit is inaccurate to present saIt appIication without acknowIedging that there is substantial uptake and utIlization of saIts by crops. If it is
-i possibIe ta caIcuIate saIt appIication, it Is aIso possibIe to caIcuIate saIt utiIization. That caIcuIation shouId be incIuded in this report. To
-caIcuIate saIt utiIization is a lengthy process and cannot be done with the constituents required in the Revised General Order sampIing
-           requirements. 7
-                 The signature(s) affixed to this report does not affirmativeIy refer to those references to saIt that we know to be Incorrect.
-                           J UW _. (Initial)
-i
-t
-j
+2. 2o
+s 4
+o 2 ,25
+, ge BEE
+Be 322
+4 22 Sen 8
+S 5 259 2
+2 sae &
+ --8 3
+22 S29 o
+2p 23 FS
+Re eis c
+5 a x
+Es Bez g
+3 se g
+cP 235 &
+ee i L
+Ss 303
+a5 E88 2
+823 ff 3 r
+Se 825
+es 282
+g2 282 4
+2 we 5 &
+5 - ss 8 ry
+by Exe 3
+w gas 8
+g & eS -
+3 sf oes
+zz fe BBS Rg
+   Po Sa 2
+( Es 8a
+i Ee 325 o
+   2 an) 2
+i af 32
+, 5 896
+, SS zip
+i 3 5 35 3
+SE gas &
+   eo gee & i
+   gS
+ gee s .
+    SS FRE 8
+   e2 ae i
+. BE EES 2
+a & oy & _
+ge ghe 2 3
+f Sg aa 3 2
+   2 28 Ps & t
+a a3 S25 E
+Ae g2 832. s
+   sh s832 28
+H 2e Bets 2 ,
+ss ga 85 & ,
+   23 235 &
+i 2s eE 2gae Fe
 
 PDF PAGE BREAK 66
 
-Exception Reporting
-Manure , Process Water and Other Dairy Waste Discharges
-The foIlowing is a summary of aIl manure and process water discharges from the production area to surface water or to land areas
-(land appIication areas or otherwise) when not in accordance with the faciIitys Nutrient Management PIan.
-No, manure or process water discharges occurred during the reporting period
-Storm Water Discharges
-The foIlow is a summary of aIl storm water discharges from the production area to surface water during the reporting period when
-not in accordance with the faciIitys Nutrient Management PIan.
-No, storm water discharges occurred durging the reporting period
-Land AppIication Area To Surface Water Discharges
-The foIlowing is a summary of aIl discharges from the land appIication area surface water that have occurred during the reporting
-period when not in accordance with the faciIitys Nutrient
-No, land appIication area to surface water discharges occurred during the reporting period
-Nutrient Management PIan (NMP) & Written Agreement Statement
-Nutrient Management PIan Statement
-Was the faciItiy NMP updated in the reporting period Yes
-Was the faciIitys NMP deveIoped and approved by a certified nutrient management speciaIist2
-Yes
-Written Agreements
-Are there any written agreements with third parties to receive manure or process water that are
-new or were revised within the repoting period No
+3 no
+o
+2 2 2
+& ES e
+2 3 a
+   -_ wo
+& 5 2
+9 a a
+   bp s
+(-) & eo
+5 e &
+ry 6
+a -3 S
+s a 3
+ES i-9 z . . 3
+Qo . ry 2 2 9
+oe 2 ge . g 8
+oS r 5 2
+ta oo 3 5
+24 & o
+ae 5 E
+3 & Z 3 g ,
+ & g z c & g
+a) 2 s ts 5
+nm -_
+ss S & 2 z
+es 4 s re 8 E
+4 & 8 c o .
+Be o 5 8 Q is
+3 g & v S 5
+33 5 e 8 2
+Bw S BS 5 2 8
+gs 9 8 2 a ev w
+as & o & 2 E 4
+oz . 2 s 5 3
+oa s 5 & 8
+bad o
+EE 2g S o iq c 4 2
+eo os o 6 ty o 2 5
+s a& S 8 o s _ x o
+ ae Ps o 2 z 4 2
+2 S22 es E a 5 5
+oo Ss 3 5 2 s g
+2 st 6 rs .
+al fs5 6 5 3 s 5 2
+aj g2 s &. 8 8 8 Ie E
+e 3 82 & & 8 Ie 3 g
+4 wy eo S g 2 3
+Ss) 22 & ge 2 ge & 5 e 2
+Ss 2 F 8 SE 2B . 8 .
+o ss 3 & 8 vs wn no) o -
+8 28 8 88 88 & Ie gOS 2
+x ga 3 pe & 2 & 5 is 2.
+Wiz es 8 2s 2 Ev 8 a. a2 83
+Boo 2 S ge 2 c rf 3 ze
+ oo se noe Ss 5 - 6 2
+eo tj han 4 3 S g Eg
+e&sc 8 5 os 2 . Be 5 5 5 at
+Zawv eo 5 rr 2 g 2 aa
+aael oc be) on od v 3s o 2 se
+a 2 S 3 3 ss 2 3 2s
+a2 2 Sy 22 5s EGS Ey Lt) o 2 3
+Sas Ss e vy Cas re o g S 2 2
+a s 2 & 35 2 o 4 s os 25
+gEe2e sez 8 23 S HA 3 Zo
+- 5s Peg se o 2S Ss s g 9
+Se5 3 -cG 8 ALg 3 2 3 o es
+_ o os 9S e oe a oe 3 2 E
+Fos 2 2 xg 2 is) es o c
+gee 3 og & BSP S 5 s 3 & Ss
+sES 2 ff 8 28 & lel ee 8 F 2 3
+SEs & fe g8e8 8 Is ga 53
+2 R) c
+628 8 2 Ss 2c & 2,/ 6 2 2 zB
+uO a ae S has s . 53
+549 ra o & 2 ome 2 & 2 z - &
+sPR s e2b ORE S . oc 3 Be
+gs2 5& & 8 e See 8 eE ae
+S 2 6 pd & Oo aot wo w 5 2
+ao & & ZL ee wn ee 6 3 , - E s
+3 ye ove es 225 S ge 8 8 g 23
+y S 0 Po c
+erFef 2- ,Fe & REFER 2 8 5
+   2 2
+   s & e 5
+2 E x i
+5 3 2 E
+2 a al z
 
 PDF PAGE BREAK 67
 
-                         Owner and/or Operator Certification
-                             I certify under penaIty of jaw that aIl information submitted 05 port of this document is accurate and true. Certification Signatures by a CaIifornia Registered Professional have been
-suppIied as needed in Part i, have personaIly examined and om fomiIiar with the information submitted in Parts Land ff of this document and aIl attachments and that, based on my
-inquiry of those individuats immediateIy responsibIe for obtaining the information, t beIieve that the information is true, accurate, and compIete. am aware that there ore significant
-penoIties for submitting faIse information, incIuding the possibiIity of fine and imprisonment.
-Signature of Owner of FacIlity Signature of Operator of FaciIity .
-t
-i JohnVanderPoel . sd. Same as owner _.
-j Print Name - Print Name
-, 41 /ay _ . _
-Date Date eee _ ,
+fi3
+Hi
+iF
+a F
+5 Ril i
+un aE .
+B eis ee I
+Sol 5 gIe 18
+ 4 a SIE
+S ffs
+Ss I
+5 al i
+z aii i
+e iup
+2 2s
+c Hi
+ul l
+sas 2 .
+ges z
+g33 E .
+or 7 1 x
+a Is &
+ee a
+aai Si i,
+3 if S3 .
+eIe ee
 
 PDF PAGE BREAK 68
 
-a 5
-e )
-) 210
-3 fy eIe 2g 2If 4 ny )
-S fF 21315 (3 3 9,
-q _ a o x
-. A aIo SeIeaIs FS z
-3 o13 a g
-g 2 sOIsiOl FO z
-2 SIolzIolaso
-if a ee eo g
-F hs Os se /l/ Soa 3
-8 C S xi s123 a
-eIo le&e
-S & /5 S/z8 ees
-s 7 siSi(uIo) 7 Bag
-Ol) 2 A 19 2 a,8
-i o sIes io c aa
-              ge & S/S eS e/ 582
-3 g eRIgio g1iese _
-E &3sFigis o a 5
-- o pr 1S . 3
-3 7 2 o498 ot 3 -
-               225/88 7 5
-               ewarl(ts 3 oq
-3 o eal 2 -
-4 B2,, g o
-            Stal g 22 x S
-. ml3 2 23 m9
-3 x z e8 8 1 ad
-5 ee a
-Q
-e oo o
-2 e (gee 188 3
-z leg a go z3 20
-& o 8a 7. x O
-                  BBS zo . of
-g e 23 33 i
-8 se as cf,
-3 9. as at
-& Oo) 1z 25 3
-S z o. 2 co &
-- RI S 12S st ga
-5 3 ed
-3 3 a
-a 3 a Na _
-z s. S m3 a
-                fal 2 .
-              4 s 3 o
-g Tie z N &
-                g B
-2 s
-                gs 5 8 we
-Fa gj g
-Ey 2 g .
-                se
-5
-s
-8
+       Xp/ Livingston Dairy ConsuIting, Inc.
+FIELD ACTIVITY REPORT
+FaciIity Name whiteside Dairy 2 0 by) 3
+16461 ScofieId Ave., Wasco
+Kern County _
+SampIe CoIlection Equipment SampIe Containers icircte one)
+BottIe Container BottIe Container 8fIoz 16fIoz 32 fIoz
+SampIe CoIlection Location (cite one)
+Discharge Pipe Spigot/Faucet
+SampIe CoIlection Method (circie one) AIl SampIes are labeIed with the faciIity name, date, contents, location
+and description PIease see the SampIe and AnyIsis PIan for more detaiIed descriptions.
+Weil SampIe taken at the Discharge Pipe, Spigot or Faucet using a sampIe container provided by laboratory
+SampIe Type
+_Date TT weIlName Time Tate ammo J
+SampIe Preservation Method (cirie one) ice Chest _ Refrigerator Ice Pack
+Y Livingston Dairy ContuIing, inc. 2020
 
 PDF PAGE BREAK 69
 
@@ -2208,608 +2639,602 @@ PDF PAGE BREAK 69
 
 PDF PAGE BREAK 70
 
-z .
-4 5 oO be p
-2 Fe Fl eRe a.
-xO gage 5 3 9 Fy 3 ag 2
-ges g 3e ghey 3 EE 2 Sys
-206 ES 3 a 2 rs BF 5 S Pas 8
-5 g88s 88 2 65 Begs & Ee E Soy 8
-- 8 a4 gsr Lo ro ee 4 9 BEE
-mangos a Bae 8 oa 73 nw L6.8 ry ea GS Sy a w
-maf 8 Bas 4 ba 4 fin ae 2 2
-SBer aol & te 5 ae - 2 3 aS geo we
-22009 z SB oe 2 res 4 ce ,
-era z BO o & g tm - 8 I
-LOTHE sass fig b. ass . B
-oa Stes g oF y g a fe a 5
-23 3 gS ge 38 ceBe & F 8 8 Z
-a BEES Pot et ot E 8 oe os ie GaIan g Ps)
-az OS irae ceee ac Begs & aS EEE 2 g
-            oRSse eB Be Epes 8 se ea
-3S Bo aa es a8 by Shai ff2s85
-8 B8oae8 fy 4 6 cf a
-BS 3o f Eda oa e
-8 had a B o& & GB g Sag & &B 2 Fe 7 22
- op PORES ZEEE OO BESS By SEs 2 3) l an
-sedges Eyes Tee hae 9 geac g ALi)
-Caote a8 ao a i 82a Seu 5 g ee
-Sees ee 28 eu css g 828 328 g
-oeeoEs Bag. cege a BSS losis d 2/2
-EIse seg5 gag 2 oS go 6838 BIO
-25S oR E280 ss ee 9 SUE a . aia
-geokss see 8 agag P GREE 2 ages & 6
-5 4 eae rm S , bo)
-- rS eo PP oY Y Cd a a SE i B s
-8 g gees EEEE & oo 8s ac. BRS Ss & S
-odes z y a2 QS FEE & & Sp Beal SEE a m
-nehesaS i eee e BeSs & zee 8 3
-geese zn Beet 28 2) 55 o m6
-PTELEE otha bee A ase g gS es
-gee 28 J ao 2s & Ey S455 . & tS .
-gye 52 e228 PERE Po See8 ae
-Fd ) 8 Aaa an 8 Bo f
-3 er gees g gee el a8
-x ama 3 a os. 8 ou c
-saves 3 ceed 2 838s aS S,
-oeaees g g285 z re Si S
-aa s 48 ag PEE 36 .
-35g ie 5 are g BEaSs eG
-BRS O Be Bae
-ES30 28 6 ae g Boos
-gee ry BEB 3 Bree
-5 Be BE es & BEES z
-3 Gg A Bg sp B goa 8 oe
-3 it ges g ESee
-ezdgegl i BE s o888
-panpesIa 3 z 88
-Age _ . oO by
-siBoeel Be
-geegee1S 5 &
-Fepes a
-pea 78
-z &
-8
+- fa vA id f
+ENVIRONMENTAL AGRICULTURAL
+AnaIytical Chemists
+eee ae
+March 9, 2023 Lab No. VE 2340875
+ae . mer No. 401850
+Livingston Dairy ConsuIting, Inc Customer 018505
+1635 E. Prosperity Suite B
+TuIare, CA 93274
+Laboratory Report
+Introduction This report package contains a total of 3 pages divided into 3 sections
+Case Narrative (1 page) An overview of the work performed at FGL.
+SampIe ResuIts (1 page) ResuIts for each sampIe submitted.
+QuaIity Control (1 page) Supporting QuaIity Control (QC) resuIts.
+Case Narrative
+This Case Narrative pertains to the foIlowing sampIes
+Barn 02/10/2023 02/10/2023 VI 2340875-001 DW
+SampIing and Receipt Information
+The SampIe was received in acceptabIe condition and within temperature requirements, unIess noted on the Condition
+Upon Receipt (CUR) form. The SampIe was received, prepared and anaIyzed within the method specified hoIding times.
+AIl sampIes arrived on ice. AIl sampIes were checked for pH if acid or base preservation is required (except for VOAs).
+For detaiIs of sampIe receipt information, pIease see the associated Chain of Custody and Condition Upon Receipt Form.
+QuaIity Control AIl sampIes were prepared and anaIyzed according to estabIished quaIity control criteria. Any exceptions are noted
+in the QuaIity Control Section of this report.
+Test Summary
+Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+EPA 351.2 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 2540 C Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 4500-NO3 F Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+Certification I certify that this data package is in compIiance with ELAP standards, both technicaIly and for
+compIeteness, except for any conditions listed above and in the QC Section. ReIease of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the foIlowing eIectronic signature. This
+report shaIl not be reproduced except in fuIl, without the written approval of the laboratory.
+KD JRD
+DigitaIly signed by KeIly A. Dunnahoo, B.S.
+Approved By KeIly A. Dunnahoo, B.S, Gi) Tie-latorin bunctr
+Section Case Narrative Page 1 of 3 Page 1 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San LuIs Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (630)343-5818 TEL (805)763-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435,
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 71
 
-gcdegeIs oo Z2298n
-
-mae oats ZZ a8 Rea2geg & vo ese -&
-
-STH 87 coREteeidiBh se Efe 8
-oaeeee g aZ i SER SB 25 mae 8 2 mg
-RES eoss & 88 yo FZ2ESERR eR & Ls y
-BLES oe fe geo gig5xBS S weFF 8
-23 88c 8 5 i 882 ae. . ser &
-a3 Ss, a 8. - ae
-go cig TE 3o
-z
-X a it & . 5 es
-                                          ER) 6 ae
-8 5S Be sv ae
-8 Bg BEWromuye oe &G E
-                                                 Bg S8Gebeed 2. a
-
-aC -
-
-oOTAGgYN Ee) F
-aaa ty we soeee 5 5
-canis oy Brak aka 3 o
-oo ges 2Y pEaepeaHa a
-RESNS a 5 B.
-eee Fe SEESEEE B g
-mn 5
-z 2 - Ga
-a md mz wr
-                                           B 22 5 8 aS
-ozaoael gz A AIe
-przsmel ny e Bay N
-or ed BS ee pe ant Fy
-ageorel s g , aioe
-SeeRss z eign oe. / En
-SY Sea ban) fo SpIeen fea tty 2)
-g Ba 3 z e c Up Ba ate Sah ae ZIG
-gIe 5a Bees cea a 12
-. & SSsssssia Sete a.. S
-g 8 SESESES I eee. -
-ozdges o OEOG5 58 wet re hee Saar wee a
-ozates geecceee Sees. ie
-Sesem 2 SEREEEREEE Be tec (oa ae
-cB Rose AR 6G a S- Fl . area igi .
-gaseet apeceregq 8 feree oe
-e eos o M ae ergy gr Seu Bs.
-cag gt z gg _ Beas, eae
-grooe rh 2 Beis Sx PRE Ee Be
-a &8 a RB Bebsae me, eae z
-5 88 3 f B2SEeF 0 aa
-opdseg B 22) ea
-Qpdeegl a4 esesoescsg , 2 Cy at aie FS
-neeeeaIa 8 BSERES Eom eee ew
-cage se/ 8 . SSSRSS Sea Reber.
-B20 3 See ME ik oa
-oos a Py a SSBSSS8S age Be SBS ot O86 G
-Seegse He g SOR OU Ba B aaa eae
-Peeusa bee ead ek kh gg eres ong ne ae
-sea 2 Speake ze 0 ROS ES at .
-3 ge SSR RR pske ee. oH ane i
-                                                                  REESE STE 1 RE ee
-o
+ENVIRONMENTAL AGRICULTURAL
+AnaIytical Cheinisis
+Lab figs, RRS ERR A soars
+Cannas, waieses 22, A ee
+Livingston Dairy ConsuIting, Inc be o.206 28305 NOE PRE ATT ee oe
+1635 E. Prosperity Suite B fee a ae pare eed eae eae
+TuIare, CA 93274 -Bapiieaan -henatiuiy toredoaatnas ceIe seer
+escripuon - am , Matra Bnifiiting Water. See
+Project W-6 Whiteside Dairy Teno , ae per IS Jeet
+SampIe ResuIts - Inorganic
+P Constituent ResuIt ort f units (MCuAIL pil, DO SampIe Preparation SampIe AnaIysis
+Nitrogen, Total KjeIdah ND 0.5 mg/L 1 U 02/24/2023 1130 sta EPA351.2 03/01/2023 1735 Jer
+Nitrate Nitrogen 19 04 mg/L 10 1 02/22/2023 1145 Its SM4500-NO3F 02/22/2023 1252 fs
+Nitrogen, Total as Nitrogen 19 0.5 mg/L 1 02/24/2023 1130 sta EPA351.2 03/01/2023 1735 ler
+Nitrate Nitrite as N 19 0.4 mg/L 10 1 02/22/2023 11-45 ifs SM4500-NO3F 02/22/2023 1252 ifs
+KjeIdahi Nitrogen ND 0.5 mg/L 1 Us 02/24/2023 1130 sta EPA351.2 03/01/2023 1735 ler
+Conductivity 338 1 umhos/cm 16007 1 02/21/2023 1402_ sta 02/21/2023 1401 sta
+SoIids, Total DissoIved (TDS) 170 20 mg/L 10007 1 02/14/2023 1527 ctl SM 2540C 02/15/2023 1228 cil
+U_ Comstituent resuIts were non-detect,
+ND-Non-Detected, RL-Reporting Level , Dil.DiIution
+MCL Maximum Contamination Level. 2 - Secondary Standard. 3 - CDPH Notification Level. AL ReguIatory Action Level.
+Section SampIe ResuIts Page 2 of 3 Page 2 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (569)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
+CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 GA ELAP Certification No. 2775 GA ELAP Certification No. 2810
 
 PDF PAGE BREAK 72
 
-OMAD w
-Seneee iy
-Poet og/g
-reaIs Ze & RS
-eu 3 g8 Va z &F 2
-Baye .
-ra
-34 He 9 Seeee RS e 5 j _
-   -c1s S ye CG . 8 2 , 7
-ce aE SEGRE REE REE E i a ie
-a3 Og SEGRE EE EE g an Fe
-eS a cigecaiel 5 i ii
-                  i ery z 3 8 E Eas
-              BHAL Bae ge
-8 J FI oF g B z i 3 . a z
-OedeR & BS B Ay .
-te i 3 BES Hl 3 i S
-pee eeg B g Fe J g g , j
-ap J g ae Bese & Es S a. s & 8
-Qeeoeh 2 8 ES PEaa ES S i eo B
-ai ees 2s Peas S aE
-eee gS i a ee a a
-7 & z Lue a7s8e5e 8 oS el
-z & - 5ee a 8E 2 3 8 8 8 a
-3 e a a aul g 8 SS a2 Sag 878
-oIl Pau ahue Bs 8 8 e S88 Bes z
-fz & fe bang Ss 8g & s gee 8s Z
-se8oce 3 see bp ee - 5 ge 8 & gas G82 B 3
-ae gf s3 oe BEESEIEESS _ ee Fy E
-gue 53 , BY a5 a Eade ed cece 5 i z
-3 E / a nO ed ea 28 Fal
-                           ne REREEEEEEOE rect aees eee Be ata)
-a e & Bee 33 SS 2 eee gags gal B Za Ase
-Szage a Be ahe ie Pee gee ap 2B a
-peeeee B oe area ggg ivan wn Be ae gaIe 3B 2 ma
-eS F ao ees 8888 iB2B5 BEREBER MES g ez. 5
-PCE e B 3 aa . q BS (8888888 L 3 a Le A
-RRS os a (ace. oe BF 5 Be
-mie 4 i eo oe ees
-z &e s Be gs Fe
-Be et Be. WeBeeS eee SF8.,
-Edges eR & AG SpigbogkigeIg2 a2 i &- ee
-TATE 4 Z ae RF eeugesudieee 2 i) 3 Sii
-See ore eS E F z. 6 iy eee RFRKRR Ze eo g FS o Sey
-eraaee 2 go BYR aEE - ES es
-pe . a as 43 oe yt Sey
-_ Bid Bi Hep e ee oh
-g ae or ips Fm ara a -
-     . Be oF wort SORE s 22 SaIt eee boo. , ee
-                        Poe Bae SEY ID ETE def SyEES cE goa el
-. a rs Seeoew PRRs PRRs Neeser eh f3 rete
+FGL
+ENVIRONMENTAL AGRICULTURAL
+AnaIytical Cheimists
+March 9, 2023 See OTA Ra SI St SOS
+Livingston Dairy ConsuIting, Inc. LabsNo. i. VL 234087546 Sa St ai
+5 gine. Ciistomer No... 4018505. Fre ae
+QuaIity Control - Wet Chem
+E.C. 2510B 02/21/2023201893STA BIank jumbos/cm, ND 1
+. i (V12340956-001)_ Dup jumbos/em 08H
+SoIids, Total DissoIved 2540CE ,02/14/2023201630CTL BIank i mg/L 1 ND ai
+                                   1 Les mg/L / 990.8 101 90-110)
+. (STK2331874-006) Dup mg , 14 5
+oe , ,_(STK2331874-006)_ Dup j mol if 0am
+Nitrogen, Total KjeIdahl. 351.2 02/24/2023202049STA BIank mg/L t ND. , O.5
+                                   ( LCS mg/l, (12.00 91,2 73-124)
+i Ms / mg/L 12.00 84.9 154-136,
+(V1 2340880-001) MSD i mg/L 12.00 83.64 (54-136
+IMSRPD. mg/L 12.00 1.54 227
+i MS mg/L, 12,00 88.2 154-136)
+(VI 2340880-002) MSD mg/L 12.00 89.0 154-136
+- ae oo eee ee oe (MSRPD mg/L 12.00 08 ST _
+Nitrate 4 Nitrite as N 4500NO3F .02/22/2023201947LFS BIank j mg/l. i ND 0.4
+, LCS mg 11.223 98.3 (80-120,
+ MS mgf. 5.609 97.3 166-125)
+(SP 2302530-001). MSD mg/L 5.609 99.4 166-125,
+IMSRPD. mg/L, 5.609 . A8m _(s304
+Nitrate Nitrogen 4500NO3F -02/22/2023201947LFS BIank mg/L ND 04
+                                   LLCS mg. 11.22 98.3 80-120,
+i MS mg/L 5,609 97.3 166-125)
+i (SP 2302530-001) MSD mg/L 5.609 99.45 66-125,
+MSRPD. mg/L . 5.609 1.8 1230.4/
+BIank Method BIank - Prepared to verify that the preparation process is-not conertaig conterution jo the sauipIes . -. wae os
+DQO _ Data QuaIity Objective - This is the criteria against which the quiIliy oimttoIidatas ofmpareds (F-18 SAIS L- a 1 RSE sath
+Dup DupIicate SampIe - A random sampIe with each batch is prepared and anaIyzed in dupIicate- The reIative porceut difference tach od acy
+indication of precision for the preparation and anaIysis, Sa 0 eee
+LCs Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is not affecting anaIyte recovery. 9-7. -- -
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte The recoveries are an indication of haw that simpIe matrix.
+affects anaIyte recovery. 7 , So
+MSD Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with a known amount of anaIyted. The Tecoveries are an
+indication of how that sampIe matrix affects anaIyte recovery. oe ee Live -
+MSRPD_ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for the preparation and.)
+anaIysis.
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
+Section QuaIity Contral Page 3 of 3 Page 3 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenus 3442 Empresa Drive, Suite D 9415 W, Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispe, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
+CAELAP Certification No. 1573 CAELAP Certification No. 1563 GA ELAP Ceriification No. 2670 GA ELAP Centification No. 2775 CAELAP Centification No. 2810
 
 PDF PAGE BREAK 73
 
-om FGL , Cnain or Custopy
-Ma ENVIRONMENTAL... AGRICULTURAL Special wun fgIinc.com
-AnaIytical Chemists Laboratory Copy (1 of 3)
-_eeeeeeeeeeeeeeeeeeeEeeeeeEeEeEeEeEeEeeeeee
-CTEM) 28 603rOn2022 TEST DESCRIPTION - See Reverse side for Container, Preservative and SampIing information
-iCIient Livingston Dairy ConsuIting, Inc.
-Address Livingston Dairy ConsuIting, Inc
-j 1635 E. Prosperity Suite B a
-    TuIare, CA 93274 e z
-Phone (559)687-1440 Fax 2 a a
-Contact Person Noreen Livingston 3 i ge FE z
-one W-6 Whiteside Doi 4 8 2 8 e &
-, Purchase Order Number o a s 8 g z
-Quote Number. VI 20210208-01 co a a e &B 19 /e
-SampIer(s) a 2 g & e i
-som mel te Ae lEILE la 3 3
-                    CIe (2 1 ja g ze
-  , . , . BIe lza/9 38
-SampIing Fee _ Pickup Fee 2 & (ES fee- s 2
-Compositor Secup Dase- if Time / Fy & gl3 28 e in &
-_ _-- 21/0 /.8/2
-B/E /(oIgsIe 2 28
-Lab Number. VI OC7TS asses s SE le 5 52 & 3a
-Samy Date Time z 3 FS Po ay ee 4 Se
-( bam sf afoeys3 fo foooIe ti Po TT TTT
-pe f
-es sO dO OO GG I OO
-fos
-oto
-sf
-mf
-ef ee
-pet EE ee
-pot ef PE
-Remarks ReIinquishs Date Time /ReIinquished Date Time ReIinquished Date Time
-                        lal ds paIo a
-Received By Date Time Received By i fad Received By Date Time
-. he, 7-023 24) WO WN VO Va
-ZI Zz
-853 Corporation Street 2500 Stagecoach Road 563 E. Lindo 3442 Empresa Driv Suite D 9415 W. Goshen Avenue
-Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
-Phone (805) 392-2000 -.- Phone (209) 942-0182 Phone (530) 343-5818 Phone (805) 783-2940 Phone (559) 734-9473 - _
-Env Fax (805) 525-4172 / Ag Fax (805) 392-2063 Fax. (209) 942-0423 Fax (530) 343-3807 Fax (805) 783-2912 Fax (559) 734-8435.
+be g
+ms saIe zp
+& Qk g 58
+& & SIe fog
+Pay cada
+Dn 5 garg
+Bos ZQaaK
+o Pai (leo
+, zg z Bags
+52 5 S Zeeks
+    E 4 J aoie
+. .
+wa js ,
+et
+_
+O 2/2 a3 28
+Qo )&8 3 E Beers
+oO eg ANE Ry 8
+ 3 3 3 a soas
+B/E 4 fs ao cea
+8 E . . Fo Ph ob
+BE ae q2ae
+rae & qke geoee
+- guise
+Si S88
+g 11855 25
+5 5 ASAie
+                                                   8 B
+8 a Te
+3 a.
+2
+3 Y
+f-4
+3 2
+                                                   3 On
+2 a fy oo8
+z g bd pe ore
+g FSIS Bee
+E S18 g338
+x 5 g S42 5628
+3 Fa POSZH-(a)zOg x Wa A aes x
+z a xaaN TOL Joy dS 01 OPT Aeee _, a E Bore
+E- B e ad aa
+a amog jds - N THO - 9-Ay-Zuydueg
+(D2091 - BN se 1
+SCLLN IOLN-CON AnAnonpuog-9-mi-sishpeny Areq 7yO TO aw Es Y
+x y
+(Tas)erseds (0)TO YS 2
+g (Tawscedey (Laueedsy (LoOweunnoy -uoseey noeg AY 8 2
+& (mw asem CaS). 7 . aes
+a ODIO y
+S__tavasem casinos asymasis conn aaunoral TT TT TT S835
+8 (M8vyeIem Sy (aN)qBIOg-ON (arquiog lal tf i tT fl . 8535
+Ss z cy g
+a ss getg
+s seHGIS SSUTATY ATSex -ofedueg Jo ad, aIt T itt ey yl 3 3 3898
+Es Ey osey
+                               (9)q21n (Q)eusoduiog -Burjdues 37/0 2 q 3 Race
+                             g zm
+5 4 Ee 2) 3
+3 1) Eats 4
+rar 8
+oz s 2 z/NI 3
+Ear Bt p ge g
+ae ge 8 Fa
+Cae 22 z
+Me fe. 2.8 s 18 E
+z som gos IO .
+(2 ee 8 Ys - g 3
+zs4 5 Eg 2 e 3 e
+a So Soe Se . i B88y-
+2 ) 2A eRe
+ D c) re 8 8
+_ BS 3 g
+BBSesis ceees) S eIls eee
+2 (Eee aIan BSS,
+A sess og a Be zs &/.14he Baek
+   Hea see S228 25 z e 3 RD Sees
+  ae 7 4 m 8 z
+eel ee Oa ee eee
+, mers g22332)/2 Fl ZIes E
+. & 8 -
+. 82 8 82 8/3 4 &) 4) g2 ae a aE
 
 PDF PAGE BREAK 74
 
-Front he ry _
-53 ee epee eee pease yore ggeznawes 2 Now re
-gS PES rae Beane duck Beey ue ae Be oor By 2 g8
-oy F227 GEETTE oasis S2f2 2072 oie ekaGeiSi2 ahi be Be
-too 3 a 8, e ao 3 a an os
-o 8 g 8 WEes SS h5 gone & sae - S & fg. s
-gs B 2B F Ghose 78 Bese BES 8 gege SEB s dl 5 53 og i
-S 7 SHaef CEES & a6 & me B ae. og Be A 3 gag SS FF Se
-a g oo S8 BSFES Of OFF R GAR PRES FaS spe Sh
-o z REE Gog ge 8225 ogn8 Bees 2Qege a ke 42 Shs Se
-g & Ree BE8Se 22s NBss SG GARB AEDES ena 8 7
-ea Pe peags See oes sre 2ORag eres Fae roe
-E Se Rae RGEE Bead eIe Stesecer fa 98
-an 3 ao, sg og re Bg oe oO BoB So rey 8
-kb 6 gReR See oe B Bab 8 Ane Be gore eB 33 & ES
-al a 5&8 8&2 ge SBR8. r oe ane eo o g8o 8 QS
-g g EEag PeBeG fReg oF eogeee ted goe FOS
-F begh seche ests ph ghige oe ais i 2
-ic o & 2 s 0g 5 269 2 6B
-B. , geIs 2088 5 S39 88 getee fe fee a
-eo B2Sae a3 5 Es g0 32 Fab p & o Bea 2 Eq
-g & egar gs 88 & gs ARE wg fo 3 gee fm
-g g E2Sh SESS2 3 FE OES ease FS GES &
-g ghee Sogk 8 ge wes BG we gh iS
-     e ae Pe read ao 33 3 g Pad gE o wg
-2 3
-    B Q88 22 & g 28 aie ( 58 Fes &
-. ry a -_ a4 . i 2
-_ oyua eS BS 2 A ee we SS 8 Bohs 4 8
-a & Bee ea && a & MPsIy 8 es gsIasGs
-S 3 ee. i9e 54 3 & g e a ssIane &
-a I a Es BS Z 7 a Baoye
- Zz 23 e 6 & & g Aw 88 mg
-Bess BS anew a f B Se. ge
-tress me re waIe Ey gia 8
-Beseah (ty fUrr ke ark ) GertseH soe as
-FSSA Ey a 5 B a g 3
-Eeesoas 3 zzz ez zzz BL Szzgzzzz Eh & tp
-St on g s ze gooCC CoS 4. 4 g
-       & zz Be ZOE io
-_ Ke z on e Z iy
-S S BF wy
-         Ji 8
-Q e
-, _
+EGL Environmental Doe ID 3D0900002_SOP_12.DOC
+Revision Date 10/09/14 Page 1 of 1
+y
+Inter-Laboratory Condition Upon Receipt (Attach to COC)
+SampIe Receipt at STK CC cH (V1)
+1. Number of ice chests/packages received f Shipping tra EY .
+2. Were sampIes received in a chiIled condition Temps. IL, OW / / /
+Surface water SWTR bact sampies A sampIe that has a temperature upon receipt of 10 C, whether iced or not,
+shouId be fIagged unIess the time since sampIe coIlection has been legs than two hours.
+3. Do the number of bottIes received agree with the COC7 No WA
+4, Were sampIes received intact (i.e. no broken bottIes, leaks etc.) No
+5, VOAs checked for Headspace Yes No ER
+6. Were sampIe custody seaIs intact Yes No
+7. Ifrequired, was sampIe spIit for pH anaIysis Yi No 03
+8. Were aIl anaIyses within hoIding times at time of receipt ts No
+9. Verify sampIe date, time and sampIer name No
+Sign and date the COC, pIace in a zipIock and puf in the game ice chest as thesampIes.
+SampIe Receipt Review compIeted by (initiaIs).
+SampIe Receipt at SP
+1. Were sampIes received in a chiIled condition2 Temps / Lf f t f
+AcceptabIe is above freezing to 6 C. If many packages are received at one time check for tests/H-T.s/rushes/
+2. Shipping tracking numbers. SSB TAIATe (54
+195
+3. Do the number of bottIes received agree with the COC7 Wep No N/A
+4. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) Wed No .
+5. Were sampIe custody seaIs intact Yes No wy
+Sign and date the COC, obtain LIMS sampIe numbers, seIect methods/tests and print labeIs. .
+SampIe Verification, LabeIing and Distribution
+1. Were aIl requested anaIyses understood and acceptabIe Wep No
+2. Did bottIe labeIs correspond with the cIients IDs Yes No
+3. Were aIl bottIes requiring sampIe preservation properIy preserved7 Yes/ No N/A FGL
+fException Oil & Grease, VOA and CrVI verified in lab)
+4. OAs checked for Headspace Yes No a
+5. Have rush or project due dates been checked and accepted Yes No
+6. Were aIl anaIyses within hoIding times at time of receipt Yes) No
+Attach labeIs to the containers and incIude a copy of the COC for lab deIivery.
+SampIe Receipt, Login and Verification compIeted by (initiaIs) MOS
+Discrepancy Documentation
+Any items above which are No or do not meet specifications (i.e. temps) must be resoIved.
+1. Person Contacted Phone Number.
+Initiated By- Date
+ProbIem
+ResoIution
+2. Person Contacted . Phone Number ,
+paitiated By (4018505)
+ResoIution Livingston Dairy ConsuIting, Ine,
+(PIease use the back of this sheet for additional co) iI 2340875
+contacts) iv 02/13/2023 10-1105
+I
 
 PDF PAGE BREAK 75
 
-
+, rey
 
 PDF PAGE BREAK 76
 
-Ey a g
-rs 3 2h 4
-e SMe E Smeg 8
-re) we om
-BO gree & Fa a Sys S
-a a & aS om 5 iy Ss aay i
-g22eR Se Sine F Bz z Nae
-329 anne 2B eee 2 3 8 ges es
-es Bao g Ba Bes 4 oy 2s as
-nH age EE ea gas F ffs oon Ss s
-ovaggel f 5 Bree 2 Be Baga & EB pEae oe
-nareag g ees s, ae & 3 Ry ges Sg
-peangs 5 BESSE ee Sa ee o 5 2 g a
-seG egal 2 aE oS Yo 9 3 a . is
-ut ae Bg eeks gg gage i ot 5 iy zz
-98 PegIe Faso aq 6,6 8 a S Q 2
-pepotal ee 2e Of Be g B 3 . 5
-28g god FI G eee J q Qua 2 Q Z armen) a
-SSG Ee gues 3 Ttit 2 s SER 2
-su SEE g2ee ee Ea Fags & le egg 3
-38 see gees ae aS & 5 SB 388 5 is)
-ae BOS es 3 8 Bg 848 BSE S ws id 2 4
-op g oe 3h BEBE ES g22e Skis _g 213
-gees 2 & o i & a ae i
-             some Tay B S888 g feds 8 Oe
-a Eggs ae & ge28 8 gia ALS
-Sage . Gg 20 oo & 2 Oboe 2 Z12
-neteee BS eu gh2 a Fey s 5 & an) s
-ae FE ge g & age a & oF Iie
-SS88 eo Bas. Z2eg 2 BEE 2 8 s. LC - B c
-oe eo8e e8as 1 a ZEB i) aes a 6 & i
-PRESSE eet g aaa 3 ew ce 4 gees 2 2
-BSB338 hoe Bs & eo.8 8 & ES g24 & g
-gohag 2f55 BERS s Ree SB ath .
-             ate PEE 3 a SE Sees z
-z BB os a & & & & e s ga8 3 ,
-8 z 522 BERR & a gra 8 _.
-ogaoueIg 3 SB ae egeg g aa z 8 as
-peigeg x a Bae B & t & & Og . a Q 2 S z
-bagocel a 2 sige 5o8 2 og2 F e8
-Seen eb x PPS o cece B. Bees Ze C,
-AE g 2228 eaae 68 Sees _ s
-peeeae a2 5e gags q ge2e me
-gs 2 ree a agag 5 of as
-z So 8 & _ 2 S85 o
-4 222 y a 6g Bo z be
-3 oe 8. S 6 oe Fa 2
-gee 3S 520 F a. 3 3 of
-eeaees 8 Beg i aaa -
-cagigs oo abe z EL
-ea _ - 26
-gaeee 5 FEE 8 Bae
-piIe gg. 4 SEES z
-eueges rf a a s 2288 2B
-z ff BEE go 8 & 2Se8 26
-5 Ss Hf 5s aSBE
-yo 9 Bi Be a ges
-be I ad Ee a te by
-szageal iE ce ze
-pane 2
-s88oor( a
-Perry Be 5
-eheeta .
-sea
-8
+i W hitojd 2
+ENVIRONMENTAL 2 AGRICULTURAL
+AnaIytical Chemists
+nn Se___T_TTTCL_UCU__C__C__ctmc_
+August 11, 2023 Lab No. VI. 2344641
+se Cc . 1401
+Livingston Dairy ConsuIting, Inc ustomer No 018505
+1635 E. Prosperity Suite B
+TuIare, CA 93274
+Laboratory Report
+Introduction This report package contains a total of 3 pages divided into 3 sections
+Case Narrative (1 page) An overview of the work performed at FGL.
+SampIe ResuIts (1 page) ResuIts for each sampIe submitted.
+QuaIity Control (1 page) Supporting QuaIity Control (QC) resuIts.
+Case Narrative
+This Case Narrative pertains to the foIlowing sampIes.
+47 07/18/2023 07/18/2023 VI 2344641-001 AGW
+SampIing and Receipt Information
+The SampIe was received in acceptabIe condition and within temperature requirements, unIess noted on the Condition
+Upon Receipt (CUR) form. The SampIe was received, prepared and anaIyzed within the method specified hoIding times.
+AIl sampIes arrived on ice. AIl sampIes were checked for pH if acid or base preservation is required (except for VOAs).
+For detaiIs of sampIe receipt information, pIease see the associated Chain of Custody and Condition Upon Receipt Form.
+QuaIity Control AIl sampIes were prepared and anaIyzed according to estabIished quaIity control criteria. Any exceptions are noted
+in the QuaIity Control Section of this report.
+Test Summary
+EPA 351.2 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP4 1573)
+SM 2540 Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+SM 4500-H4B Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP4 1573)
+SM 4500-NO3 F Preparation and anaIysis performed by FGL-Santa PauIa (FGL-SP ELAP 1573)
+Certification I certify that this data package is in compIiance with ELAP standards, both technicaIly and for
+compIeteness, except for any conditions listed above and in the QC Section. ReIease of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the foIlowing eIectronic signature. This
+report shaIl not be reproduced except in fuIl, without the written approval of the laboratory.
+KD EHB
+Approved By KeIly A. Dunnahoo, B.S. Tie Tate Dre Dasomice BS.
+Section Case Narrative Page 1 of 3 Page 1 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215. Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (669)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435,
+CAELAP Certification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2816
 
 PDF PAGE BREAK 77
 
-g7aggeIs
-aT 8
-OS g
-Gages z as 222
-eshoee/e Y oa eeszegae e 95 ba
-Bethe Peter Bae G8E
-ghoSeel 2 g gee Ee 28 3 BS a eS 5
-za S cIe z BS 38 AS 88 ac 2
-OIe e eigaggg0 S oof &
-a s1 J g Z q o 5 2 -4 OQvos
-oF. s 6 PPP am iJ S Pays
-z 8 7 & gs eS. Fe 5 og F
-& g g e2 & BE ag s
-                 a oe ee SEE 8
-                                             - g . ae o
-x _
-2 s 3 Ze
-ODADN B P 58
-Sagas eageee Ed w
-REgSa a SHgffe238 & os
-pease ae 2 5
-aege er 3 a 5
-aieate f a ey
-Fao g ye Poo
-ghee og ez ST BRERS z .
-It
-FA a i) 5 Ss
-il S -I oO
-3 g eeeeee oF a
-oOndos . 5 S
-SEHogs es 2
-Page mel ny FS 5
-TBSorm) s z
-Peeesel - 2/5
-Me
-aoa 28 mB a) es
-                                                - 7 a nn 2 Be
-E c BB BB. 2E 2(
-eT Ss Sss88 BS Ren 3 3/5
-ozaege sS8S222 6 (gee gS (ie
-axes Saas zs 2 aE ips BS. al
-Poaems SSSSSESFE ogo -
-SBBE Te SSsSsSss ie OB. i-
-oaseee BSESEEE BFS 5
-ae bas Pe om Bs Peeeee c
-38 8 g Bese BRS i ai Cann z
-rg BEAeREs yl EB SeHe es S
-z 8 . a & sagas 35 BiB BB
-3 gs on 8 . Boy pats
-oEdgeg REESE SE. ae eee
-Paar as & Sasg- 228 Eber Biante sciciveaee,
-Seaa k B8 &s Bactk ss Rae
-cua ed SRSSSSSE ote ewe eG
-ge SESSESESS re ati Dae teak
-a BSESES Seep Oe
-e Mote ge
-mm .
+ENVIRONMENTAL 2F AGRICULTURAL
+AnaIytical Chemists
+__w_ao SS SSS EEE
+August 11, 2023 i ar ohianas any fe MBEATES Po -
+Lab No. 2 V12844641-001 7 yee
+Livingston Dairy ConsuIting, Inc Customer. No. 4018505 isabaee SIog Satyeded 2
+1635 E. Prosperity Suite B Soo hs Gir Ie he ks shea erst ae
+Siw dae eres Af ot) 2 peal hareees ix cet Lebtiar to eer) -
+SampIed By- Re arIene Noteene Bek eh ge
+Deserinti 7 Recdived Ons JiIy18, 203 Bart O0, hoe Puree NS
+                                                           fate age oo eb Nee - EB Shae
+escrip on a Matrix) os JAG Water -RETSETS IO RS aa
+Project W-6 Whiteside Dairy rr ns oc ia a
+SampIe ResuIts - Inorganic
+arma onstituent oo ResuIt TRE D Units Note pit, L DOr) sampIe Preparation. sampIe AnaIisis
+Dairy AnaIysis. Date Time Who Method --. Diite Tine Who
+Nitrogen, Total KjeIdahl ND 0.5 mg/L 1 U 08/08/2023 0855 sta EPA351.2 08/10/2023 1821 ler
+Nitrate Nitrogen 34 0.4 mg/L 1 07/19/2023 1215 ifs SM 4500-NO3 F 07/19/2023 1508 ifs
+Nitrogen, Total as Nitrogen 31 0.5 mg/L 1 08/08/2023 0855 sta CaIe, 08/10/2023 1822 ter
+Nitrate 4 Nitrite as N 3.1 0.4 mg/L, 1 07/19/2023 1215 ls SM 4500-NO3 F 07/19/2023 1508 ifs
+KjeIdahl Nitrogen ND 0.5 ng/L 1 U 08/08/2023 0855 sta EPA351.2 08/10/2023 1821 ler
+Conductivity 473 1 umhos/em 1 07/31/2023 1451 amm SM 4500-H4B 07/31/2023 1643 amm
+SoIids, Total DissoIved (TDS) 280 20 mg/L 1 07/20/2023 1615 ctL SM2540C 07/21/2023 1110 ctl
+U Constituent resuIts were non-detect.
+ND-Non-Detected, RLReporting Level , Dil.DiIution
+Section SampIe ResuIts Page 2 of 3 Page 2 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenue 3442 Empresa Drive, Suite D 9416 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215. Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (630)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (B05)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
+CA ELAP Cettification No. 1673 CA ELAP Certification No. 1663 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
 PDF PAGE BREAK 78
 
-om s if Fg
-Z Eos z
-Zz Fi roy Fy EB fa pa -
--
-SoS a 2 3 Fa FE a g H
-eae pA pECE ae g ge A
-an838 a . o Be. 7 See go 6 E
-pReggs/ 6 Baars gF & 8e E &
-nD g - . ya
-az i i ace nay 2 g ie
-ane vr. el E se 1 i Ls) x
-8 Fs 8 2s bae ei 7 on 8 a5 8a S
-                    ca fe ag fa 8 See 52 B g
-22ug89 ge. Bees & eg & 8 SEE gz 9 1 sad
-aad g Sas ata B 8 8 38 & gee as Bis ata)
-                 e t . 8 X cw a coIe me
-seeot z gee cuEee g 8 8 A gee me Ae as
-eu g i Hat S a Lp eg Be
-gaRo a i B agi 4 ze. BEsigBas OOO 6 Be 1B
-2 iL gE HE eas Ce EEE ah225 Bo 2 (Be
-                            5 8. & E. Ba go Bgig es nn BEE eeaeaiy o Ed B
-t acesl Paes SAREE LAERAAASEERERST ae
-Sgbece & Bes Bobeg Trrr eee BE EEE 8 ..
-Beas Bw Ree age 335 SS 6 aS
-g Es tO x- 22a, oo q
-Boges 4 s ae . 238 i o
-BBS - a mu . ig os - - wo.
-2a8 25 wo OF ie Be ew.
-gXe 54 Bo gy al ie et Sh
-z mets cE sm 8.
-                   E BG e re 3 lepee Pern ce ies
-SEALE Be, on cana oO Begesecsgeas
-msreke 8 Seen s. 3 ie, pees aR ess te ye i
-Crgige ic peta (BSSe Sieg
-wae ae ae saa et i . ,
-i ae -
-a a at 7 a no ope wpe, 283 Bina Bhan
-z & toes ee ae 8 pew SC ereeees a
-Seages ze . Bl gee a a em BBR
-oar see , ee ee PiIs z
-aesSer S oT Ne keno Boas
-aed
-2
+FGL
+ENVIRONMENTAL 225 AGRICULTURAL
+AnaIytical Chemists
+SS
+August 11, 2023 . tg a .
+Livingston Dairy ConsuIting, Inc. Lab No. eVI 2384681 .
+, Customer No. 4018505 . .
+QuaIity Control - Wet Chem
+Wet Chem t .
+E.C. . 2320B ,, (SP 2312486-006)_ Dup jumbos/cm - -0.09 5h
+SoIids, Total DissoIved 2540CE 07/20/2023207946CTL BIank mg/L / ND i 20,
+LCS mg/L 993.7 102 90-110
+(STK2339578-001) Dup mg/L 0.4 7 6
+. _. (STK2339578-001) - Dup mg/L. 1.98 _ 3d
+Nitrogen, Total KjeIdahl 351.2 08/08/2023208707STA. BIank mg/L. ND 0.5 ,
+LCS mg 12.00 94.2 173-124
+MS . mg/L 12.00 87.3X 54-136
+(VI 2344643-002) MSD mg/L 12.00- 90.0 54-136-
+MSRPD mg/L 3.1 627
+- MS mgf. 12.00 93.8 B4-136-
+(V1 2344643-003) MSD, mg/L 12.00 93.2 54-136
+ eon, MSRPD mg/L, 0.6 i827)
+Nitrate 4 Nitrite as N 4500NO3F 07/19/2023207926LFS BIank mg/L ND P04
+LcS _ mg/L 11.22 97.8 80-120
+MS . mg/L 5.609 91.9 166-125
+. (STK2339515-001) MSD mg/l. 5.609 94.5 66-125
+. -.. a. MSRPD mg/L _22& i 8304
+Nitrate Nitrogen 4500NO3F 07/19/2023207926LFS. BIank mg/L ND V04,
+LCS mg/L 11,22 97.8 80-120
+MS , mg/L 5.609 91.9 166-125
+(STK2339515-001) MSD, mg/L 5.609 94.5 166-125
+MSRPD. mg/L , 1.2 /304,
+BIank _ Method BIank - Prepared to verify that the preparation process is not coxitributtng coxititnination to HieSaingIes, 5 BS
+Dup _ DupIicgte SampIe - A random sampIe with each hatch is prepared and ShaIyzed in dupIicate. The reIative-pepvegt differentphyian -- -1-. -
+indication of precision for the preparation and anaIysis. - oi 3,- BWhesucrt es, esate ue aEets -
+Les Laboratory Control Standard/SampIe - Prepared to verify that the preparation process is nat affecting SbeIESOvE had cnet
+MS Matrix Spikes - A random sampIe is spiked with a known amount of anaIyte The recoveries areait indigation ahd thatsanipIe imatrix
+MSD _ Matrix Spike DupIicate of MS/MSD pair - A random sampIe dupIicate is spiked with d-dmown aiiount of anaIytediThe heddeerios are an.
+indication of how that sampIe matrix affects anaIyte recovery. Gene gf RARE SERIES
+MSRPD MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent difference is an indication of precision for-the preperation did .
+ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte. a
+Section QuaIity Control Page 3 of 3 Page 3 of 3
+Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
+853 Corporation Street 2500 Stagecoach Road 563 E. Lindo Avenus 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
+Santa PauIa, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
+TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)734-9473
+Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942.0423, FAX (530)343-3807 FAX (805)783-2912 FAX (859)734-8435
+CA ELAP CentiIication No. 1573 GAELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Caentification No. 2775 CAELAP Certification No. 2810
 
 PDF PAGE BREAK 79
 
-. FGL CuaIn or Custopy
-MM ENVIRONMENTAL AGRICULTURAL Special www fgtinc.com
-AnaIytical Chemists Laboratory Copy (1 of 2)
-       SIR) aaoarorizOzs TEST DESCRIPTION - See Reverse side for Container, Preservative and SampIing information
-CIient Livingston Dairy ConsuIting, Inc.
-Address Livingston Dairy ConsuIting, Inc
-1635 E. Prosperity Suite B oIa
-TuIare, CA 93274 z a
-aIs wn
-Phone (559)687-1440 Fax z/2 /a2
-Contact Person Noreen Livingston . _ y e zg ) z
-ror weIninnteaide, Lain, 2(2 2lfIe 2
-Purchase Order Number op sg 8 g z
-Quote Number VI 20210208-01 3) & FIa le -g
-RK 2la lIelF e
-sme Rona. & Nisteat 4/8 218 (2
-CIe (2 (FIe./2 &
-. SIe l2E/ 9 -s
-SampIing Fee_ ss sCi ic Kup Fekez 2 & g Bea /e a
-Compositor Setup Date_ ff Timez of 2. 2 5 z a8 5 2.
-an a lg7S 88
-Lab Number. VI 2324uul Lyy 418505 3 a z a 3 EI 6g
-A Rs ORR OO OQ OO OO
-Es ca OO OG
-4 0 ee ee ee ee
-sf
-s io
-mt
-sf
-af
-mofo A a
-Remarks al ia ( iKs oa) Time Retinquished Date Time ReIinquished Date Time
-WA nk Dee i 9. 00 SRO fetes 736 CLS B/D 7100
-Received By Date Time Received By Date Time /Received By Date- Time
-EEE
-Corporate Offices & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory Office & Laboratory
-853 Corporation Street Ro l 2500 Stagecoach Road 563 E. Lindo 3442 Empresa Drive, Suite D 9415 W. Goshen Avenue
-Santa PauIa, CA 93060 4 4 e Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 93401 VisaIia, CA 93291
-Phone (805) 392-2000 Phone (209) 942-0182 Phone (530) 343-5818 Phane (805) 783-2940 Phone (559) 734-9473
-Env Fax. (805) 525-4172 / Ag Fax. (805) 392-2063 Fax (209) 942-0423 Fax (530) 343-3807 Fax (805) 783-2912 Fax (559) 734-8435
+                                        le a2 &
+2 9 Fs Ey Zn
+- 92 _og
+& Ree
+25h
+28 bias
+2 . . OS8e
+Vz gIk art
+a 5 Boe
+k.& 5 a tal 25x
+g 2g
+o FI asic
+s
+mea E y
+  6/2
+om BI z z o
+O 3/2 2 al gs
+& Ss
+a2 NE BBs
+O lz 20/3 g8he
+2 e (4 4 So D
+a oO Ghee
+2/8 gIy O(/B8 258
+s 2 Ee Ee a /9553-
+ts) . er ler EeIs
+a a QO
+2 3 _- Weis
+Sie ral SESx
+                                                   w TED
+iat oo led Ono uw
+                                                 gS gx
+& Ana &
+3 )
+ EEE
+2
+a
+on 2
+3 1s Qe
+f 3 ew 228
+2 ey r6) Bo No
+iS eavjz - Beg
+Z 9 3
+is z 15) 3 J Beam
+iz a 4 3528
+Ss Sl, o eesis
+a 3 - meix
+2 a ESE Q (fassee
+& A POSTH-(d)208 o aIe ajF QF &
+a seg mds sisuMUOD smog Q
+(2091 . 7 o gS fIa os
+SCLIN (I0.LN-CON Aaponpuo)-9-M-sisAjeuy Ane, - El At
+. 4
+Caseeds (Cen wiIl ea
+g (Tawxedoy (Lawiesdey (LOOWwWeUNNoY suoseoy poeg - e058
+s (MISE Qis)2amog (SAS)HIAIShg (OMAMO i2dKy, nOEE 1 PTT TTT 3835
+3 sven av anpoowoawon aacmoal Zl Ty). 3583
+3 S 3 a geIs
+8 sF CIS ASUAATY TAS ex aidureg 50 odky) P Ty RnB O oes
+Z ye wIlseees
+FIM toe ymsoduoy stuidans so vouen of eIeleIoleIeoIeleIes Ug sone
+2 )qey (D)ansoduoy -3uydweg jo poysyy o OJO/O/O/OO/ooIols & YW
+3 wl.) 2
+E 2) 221 2 9 8
+Fa) TaIal & -S &
+c gz 8
+cIe B //) 2/9 WT 8
+Sie / 7) 22- 8
+TUS (/ & a 4 _ 2
+wi (5 3 Ry &
+(oO Ee i 2 3 e
+Vama) (fe. & o 3 ls 2
+32 gem fg s-l/or S
+cIe 32 z UL J a S nN
+zB EEO S 2x s LON) 8 assy
+zz & Es . 8 & D2a8
+A SA Rao SEES Fa a 5585
+2 ae tee ZEEE - s & 3ae8
+aca Ss S850 2 a BES Om_ 3 52ga
+5 BBs Zz ,eIe 8 aaa
+Zz ee 82 Sg wg g Bee x
+j e582 25 u Be gS rT Saee
+ASSe& SB ES EIS feIiz e5s2
+e as 3) 2 site 7 ose ec
+3 3 . as 82) 8 B2 & Fj 0 Wl
+jo FF Fe sIs a Sl Aszf7 IU eee FIag
 
 PDF PAGE BREAK 80
 
-BO iy
-wma 26
-w w s ar) jo a
-PRO eI AMPS 2 2 3m
-ce oP Te ge y gee 25 re
-Noe Ayers gz 8 messy 8 a ow ag
-UR Wh & 3, eb ses Og Pe oP &5
-ee geo E Y Beds Pereres gee 8 me
-    EF Fe me do28 as ge ease BEIare re S25 SE
-my . - . Loa & i se a J
-8a wee eA eis gag gags sehE Seeds Se g2 Ske S&S
-an Py E SES geese 88 g cage S885 Se ggaae poh ges .
-88 wy ay Berga Fes o RES 68 B eee POOR Ss R28 sf
-2 6 388 Zeoee 2 edo goage SEeE sare 28938 0 go arg B &
-B, amg Sees 38 2258 & gq 8 oS 8 gua ae) Bu apg se a gh Ba
-& 2.2 8 9 eg Ef go, 28 op 8 8 Qae38 AES PSE8 EE sas Be gas
-& ago a3 Say Foe be Bec 8 og 3 23 8 fy suf zh eneg B28 SRS
-a &8 G 8 Zee8 Sees g 852 5 Nags & are gS. BS oO 8 SEs BS
-e 8 wg 8 Bee o8eg gob C288 Bg 3 BEES 2 BAB G50 & s
-GS FB B Qs 88a go & oan BRS ere efe Gas
-8 1 8 Bee S828 e5p oi 3 3 gee oo Bee eg ges Gos
-_ i ir B 3.8 om oO & BE. -3 3 3 g BERGE ES BE
-2 fe ge BB Eo 12 2 Seppe ass BNC SPERSS Bee 2 OK
-          e -SEEE B25 gaG Pg Re eER PR Bee g c
-, oD Bon po 88 2 os ga 5 & B & os
-& 38 as ee 2528 ion 228 BOS ae 8.39 &
-& e BSE EOS BR BE SE ao GRegE & Bee a
-& g e Be eEo 2 8 3 ES g a Be
-. . & ao &.
-a peas 25 3 x 2. a) ns go 8 5
-e & 8328 gS2eF g geo & 3 O 68 B 8
-3 3 v We & ro Ba
-BU Loggia Fae 5 po Sta lg & ER Sok og
-g 8 S8, 6 os Bf 22 ee a 33 _ 5
-th Beta 48 z Q we) & sl iw o a wy
-3 a OE 8 Sa & - oH ig 3a ew
-8 EO 8. & g rs)
-s ESee 5X g E BegIe 8 G8le & _s
- Sesh ky B 6 Cee & s GB Gs
-ze 3 a & Ss 2 rs 2s
-- RB o s A fy ae 3. fo) en
-     8 a B ey bIe) is) 3o
-B Z z
-s5 ty dese 46 sk tl dzzazees , oS &
-Sto2 8-8 - qe ZZZ BZZZ z ze) 2 gl 2
-Soo ls) o ZZZ ME ) 5. g - a
-3S & o ooo o 2 pM - 9
--S S38 3 Ey Z al ) 3
-ae g fo S s
-a nt eG 5 -
-8 - g a
-- a
+FGL Environmental Doc ID 3D0900002_SOP_12.DOC
+Revision Date 10/09/14 Page 1 of 1 .
+Inter-Laboratory Condition Upon Receipt asach te COC)
+SampIe Receipt at STK CC . CH ,
+1. Number of ice chests/packages received l Shipping tracking 4 OTC ,
+2. Were sampIes received in a chiIled condition TempsROl /u.uec / / /
+Surface water SWTR bact sampIes A sampIe that has a temperature upon receipt of 10 C, whether iced or not,
+shouId be fIagged unIess the time since sampIe coIlection has been le&s than twe hours.
+3. Do the number of bottIes received agree with the COC7 3 No N/A
+4. Were sampIes received intact (i.e. no broken bottIes, leaks etc.) es) No
+5. VOAs checked for Headspace es No CSN
+6. Were sampIe custody seaIs intact Yes No QA)
+7, Yfrequired, was sampIe spIit for pH anaIysis Yes No QA)
+8. Were aIl anaIyses within hoIding times at time of receipt No
+9. Verify sampIe date, time and sampIer name Yes No
+Sign and date the COC, pIace in a zipIock and put in the same ice chest as the sampIes.
+SampIe Receipt Review compIeted by (initiaIs). 920
+SampIe Receipt at SP
+1. Were sampIes received in a chiIled condition2 Temps 4 t / / t /
+AcceptabIe is above freezing to 645 C. If many packages are received at one time check for tests/H.T.s/rushes/
+2. Shipping tracking numbers SS4AVET7 UU 6
+OBIS
+3. Do the number of bottIes received agree with the COC &s No WN/A
+4, Were sampIes received intact (i.e. no broken bottIes, leaks etc.) Yes No
+5. Were sampIe custody seaIs intact Yes No (NDA
+Sign and date the COC, obtain LIMS sampIe numbers, seIect methods/tests and print labeIs.
+SampIe Verification, LabeIing and Distribution
+1. Were aIl requested anaIyses understood and acceptabIe Wes No
+2. Did bottIe labeIs correspond with the cIients IDs Yes No
+3. Were aIl bottIes requiring sampIe preservation properIy preserved7 Wer No N/A FGL
+lException Oil & Grease, VOA and CrVI verified in labJ
+4. VOAs checked for Headspace Yes No WA
+5. Have rush or project due dates been checked and accepted7 Yes No WA
+6. Were aIl anaIyses within hoIding times at time of receipt Ye No .
+Attach labeIs to the containers and incIude a copy of the COC for lab deIivery.
+SampIe Receipt, Login and Verification compIeted by (initiaIs), re _
+Discrepancy Documentation
+Any items above which are No or do not meet specifications (i.e. temps) must be resoIved.
+1. Person Contacted- Phone Number-
+Initiated By- Date
+ProbIem
+ResoIution
+2. Person Contacted BY roots nase
+Initiated By. _ - (4018505)
+ProbIem Livingston Dairy ConsuIting, Ine.
+ResoIution VI 3 f f
+(PIease use the back of this sheet for additional cx iv 07/18/2023 17-2938
+contacts
+                        AAA
 
 PDF PAGE BREAK 81
 
-
+,
 
 PDF PAGE BREAK 82
 
-LOCATION OF TESTS. IRRIGATION WATER ANAL YES.
-Check 41 ALL CONSTITUENTS P.P.A4 IMONILITER) tanto mph, mo
-a Bgl mgt a EC TOTAL TOTAL Fafo ot Se Ratio
-DATEOF LABS AS ag Li ad mgt mo mgr. mgt mgt mg mo mgt 4030 NOON mn (OBSOLVED HARDNESS SAROF ESPOF GYF Une ADL
-TESTING USED ti ARSENG CALCIUM MAGNESIUM BODIUM POTASSIUM HYDROXIDE CARBONATE BICARBONATE OMSRE FLUGRICE SULFATE NITRATE NITRATE maorare Pa sOuDe AB CACOS pone WATER SOR REQ. FHC BAR
-         OFC 270120006 NonaDu 21.00 340 190000490 Nor Det None Det, 1900 oo oss 02 Monae. None De, Now De 740 0D 43000 Cs a a en
-onea o&c TIHO-06 NoneDe 21.00 7 20.0 Lad None Det. (Mane Det. 1909 ao oae a7 (Nene Ost. None Gel None Del 7.36 2600.0 470.00 ara om BD CC 110
-owne22 ORG 220216108 Mone Det. 22.09 aa 120.00 nw Nene Det. None Det mo oo obo we (Nene Det. None Del Nowa Owl 1.43 e706 M020 mo or 6 ao oO. an
-oarneaz ec 3203170-06 NonsDet 20.00 320 120.00 cd Norm Det. Nona Det, 100.0 oo ow 0 None Det. hione Det. Monee. 7.17 0 470.00 ao om 6. LS bea Sol 7.00,
-omra2 Ec 20078106 None Det. 9 1.00 an 10.00 ap None Det None Oot 100.0 mo O48 Wa (None Det, None Det NoneDet 7.01 040.0 320.00 660 om 020 a 1 8 650
-wnez EC 2200066-05 None Det, 18,00 240 wooo Fa (Norm Det. None Det, 700.0 eo None Det, city Nome Det None Det, NoneDet 8 7Az 400.0 mn eo Dm 4.10 4200 8 88 an
-ovat OC 1200004-05 NoreDet 19.00 2 110.00 32 Nene De Wore Det. 70D 0 One 140 Ness Out. Mona Det. NeneDe 7.87 ao 41020 ao oe EO 350 60 (7Ad arn
-omnia EC (220668407 None Del, 20.00 200 170,00 aw None Det. Mone Det, 70D 0.0 OeE 180 Mone Det None Del. Aone Out. 744 e000 Cael oo oma 100 on 6D 08 740
-one ofc 4208200-05 None Del 27.00 an 910.00 300 Nena Det. None Det. 180.0 mo Wane Det, oD NenpDet Nona Del MoneDe. 747 T20a om 7.0 O82 640 1 MAD 520
-w9ea OES HODNTROE None De. 21.00 S00 92000 400 Mena, None et, van 0 51 16.0 MoneDet. NoneDel NeneDet. 720 8700 40.00 Ce ee ee a)
-mE EC 9200177-05 NoneDat. 21.00 30 970.00 480 None Det None Get. 00.0 wn os a None Det Nona Det, None Owl, 7.87 Wea amo0 Orn O76 B20 a0
-canes TA01037-05 Neve De 22.00 a0 130.00 40 (None Det. None Det. 20D wen Sd ar Nene Det. Mone Del NoreDet. 6.38 Tso 470.00 no on BMD aco
-nag) EC (2001900-06 NoreDet 23.09 a2 110.00 a Mone Det, Hove Det wD mo ed an Wone Det None Det. NoreDel 7.08 on 000 rd eo 660 70
-oezuZ oR (790008308 None Det 40,00 2 nm 22 None Det. None Oat mo a0 Nowe Set. Te Mone Det. None Det NoneDel, 7.87 0.0 2000 aa om 6270 4m
-. t cabiveial oe 2900076-06 Nore Det, 12.00 2.40 3700 a. Mone Det, Hone Det. ran mo None Det, ow Mane Det, Hone Det NoneOel. 7.60 200.0 anno aan Wore Ost 1.80 410
-oanse Orc 22005108 None Det 14.00 1 00 20 None Ost, None Det. on me Nena Det, a0 More Det. Norm Ost. MoneDel 7.00 20D 180.00 aa Mena Det 2.40 1 -
-Omnia oEC (7206247-06 None De 0.10 190 76.00 oo (Norm Det, Mone Oat, oo me Mone Dew az Wena Get. NoneDet, NenaDel. 7.54 400 a0 mo None De 2.00 4.00
-ES oec 2000-04 NoneOe. 8 20 140 1100 1.10 Nene Det. Mone Det. wo xd Norm Dat. a2 (Nene Del. None Dut boneDet. 7.74 -mD 400 mo NemeOet 1.40 ae
-eqoers OFC EWEMIT-08 NoneDel 10.00 12000-7100 480 Meme fone Det oD 480 Mone 4 Necm Det NoreDet MoneDut FAP 1000 7000520 NoneDet 2.00 400
-_7 wo oct (220700406 Nowe Det 14.00 2 on am Mone Det. Nena Dat. 0 a Mone Dat Lhd More Out MormOel, MoneDel 7.26 ame 200,00 0 om 320 5m
-_ TT ernment ht ge - penne mene ee ee
-LOCATION OF TESTA IRRIGATION WATER ANALYSIS. -
-Check 45 ALL CONSTITUENTS P-P.M. (MON/LITER) urbesm mg mgt.
-Te mp moh. Std EC TOTAL TOTAL
-DATEOF LABS ua wet re mL mot mol mg moh mot mot mp mg NOS NOON mgt Unie OISSOLVECHARONESS omg.
-TESTING USED NUM. ARSENIC CALCIUM WAGNESIUN SODIUM POTASSILIVHYDROXIDEZARBONATIICARBONAI CHLORIDE FLUORIDE SULFATE NITRATE NITRATE PHOSPATE PH 25C SOLIDS. ASCACO3 BORON
-i
-O22N22 CEC 2201203-0 None Det. 10.00 1.60 92.00 1.00 Nona Det. None Det, 120.0 57.0 0.50 13.0 Nona Del. None Det. None Det. 8.05 480.0 290,00 32.0 0.40 .
-GW1522 OFC 2201604-0 None Det. 18.00 240 110.00 3.00 None Det. None Det. 180.0 Tro 051 9.2 Nona Del. None Del. None Def. 7.87 550.0 980.00 50.0 ost
-owoe22 ORC 2202151-0 None Det 7.10. 0.84 81.00 1.30 None Del, None Del, 110.0 44.0 0.63 18.0 None Det. Nona Ost. None Det. 8.55 990.0 6 280,00 21.0 0390
-O82422 GEC 2203178-0 None Det, 12.00 1.60 93.00 2.00 None Det. None Det, 190.0 05.0 47 16.0 None Det. None Det. None Oel. 7.07 620.0 380.00 37.0 oa
-00/21/22 OFC 2203781-0 None Det 6.40 070 70.00 0,08 Nona Det. Nona Det, 97.0 40.0 044 13,0 None Det. None Det. None Det 8.58 400.0 260.00 10.0 0.28
-O7i1e/2z OFC 2204368-0- None Det. 15.00 1.00 68.00 1.00 None Det. None Det. 110.0 40.0 0.40 23.0 None Det. Nona Det. NoneDet. 7.65 450.0 280.00 45.0 0.30
-OBN1/22 CEC 2204064-0 None Det. 11.00 1.80 91.00 1.00 None Det. NoneDet. 130.0 66.0 O53 12.0 None Del None Det. None Det. 8.00 500.0 300.00 35.0 0.40
-am1722 OFC 2205366-0 None Del 13.00 1.80 98.00 2.10 None Det None Det 130.0 75.0 0.81 16.0 None Dal None Del None Det. 7.82 540.0 360.00 38.0 oz
-Toroe22 OC 2206250-0 None Det 21.00 1.50 88.00 2.40 None Det. None Det 110.0 68.0 None Del. 58.0 None Del. None Del NoneDet, 7.03 600.0 6360.00 58.0 0.33
-119722 OEC 2206972-0 Nona Det. 48.00 210 100.00 3.10 None Det. None Det. 180.0 75.0 0.64 14.0 None Det. None Det. None Del 7.68 650.0 380.00 47.0 ost
-i
-t
+25 gees
+REgRgRe ess
+aIe 59835 geggageeacezsg
+8g SSSSNSES EES E88 a
+ate seaaisinaseetiits uw
+i gegaegggas ani , PESVERSIRG ae
+i segaaeeats ff aazeee a
+a PLEUELETEREES Ey iE gg nRaRaES
+He eagee PRSa RR RSE j PEEreetitey
+d seegaageegdegida Q GRR E88
+/ ssc boat rereeIiid
+ao 922939 Baz 8585
+4399928222 9028 w SRSRSR SEES
+EE PASERYRERSS Hibtati te 584383 ,
+H aaa SSgungsaeay Fa ggi8s BRaAR
+BHT ian aig 2434 iIl
+Hl vn eIi
+FOU PEERED aH 38 3
+oF io Hd HHH
+g ii anaas
+z i sittin tS 2298888 i
+eaggssegs3sags Seeagness
+- agasetzgtseagt a8 BERS ,
+i rua T d Sgi28393
+r azaggeagaagdasageses Le 22333388
+3 gee Fy 29938838
+a i PTEELELEE EEE LEEEE i PrerTere
+g eeeeea z GEESERHES
+3 ANZSASINNS PrEEEE. ae
+2 , ti Hida
+1aze NERRE
+pe ds HHH il HE
+fal Py e SASAASRSRSS ERLE & 2 BERR Re Re 2
+   PEEP EREEEH ge Ez 88g
+g ga Saas
+Z i i PCEEEEELEELEELES ERLE) i iz agseessens
+7 i sanisaniats suas g eecsSe2a58
+ww HH gg a8 Fea
+on 31 TA ) HE
+S - THe Te 33 seantqddia
+N Es SERRGHUSSRRE CERES ey HAL
+i a PETREETTOTUNEGE a 33 aueaueages
+7 4 HLT a be sso
+3 . tT 5 gae3
+a 3)
+oO Ss
+is
+a
+5
 
 PDF PAGE BREAK 83
 
@@ -2817,83 +3242,37 @@ PDF PAGE BREAK 83
 
 PDF PAGE BREAK 84
 
-w
-c
-F)
-RSF g
-g2 gS E
-So 338
-2 S 8 a8 i
-    - 8 2 5.
-    zs zOz
-al i
-Ry ce a zg
-oa i 1 2
-fy o os zs
-oa tJ s a 2 a
- v r
-o s 4
-a wo 7 _ 7 i
-as n S f
-gz A Fo uw 2 5 8 -
-     , an is) er
-Ss gz io 4S 2s Eas Rs 4
-AE rE aS 22 oR 25 ag
-Bae2 83 aS sz w z 0 98 i
-ite i a 2 in ry ged & m
-Baz s 1) bd bad 52 ag 3 7 d
-au gE a2 ze S s Fe 8 3 Ry 25 Qu sl 5
-i z ef a iS Be o vs .
-Tey S x F 3228 5 23 CS 65 23 6265
-Ha ea ic 5 _ - o 88 ePa o
- i E 5 9 3 x a aa we a yo 7 PS
-bi a 5 8 s o 4 oe. 6 a 63 . o
-gibade By Se gf ea s as 8 8 HE
-a 5 Gd tel o 2 o 3m 6
-eae ca aw i ,
-iter ons Hy 2 2 g a a3 a a4 HE
- 36 r-4 a5 (J ao
-B88 92 w cn Fy 2 go 6 i os z 33 2
-2 5 Sz ao osu mp S gg 3 5 oa 8g 7
-aagee cag 22936 3 33 & 2 H
-3a385 wo 8 2 FA 2 2 3 - 5 a 2 3 FA z2
-Mi 5 3 3 3 im s S a8
-g2e s 4 gz z i
-He 6 2 R -_- fe fg 7
-3 5 of E z
-tl 4 f 3 3 a oa ef a3 Fy Oe )
-ofSae a 4 4 s 8 2
-s338 bat , , i
-He a 9 oe 3 ry oO .
-tHe 2 Gs 8 3 G ze Sg
-a e
-o , 2
-Hy 3 Fs a & s F3 s gn 0 a3
-i 8 be a o Qa La-J to Ww
-A s a ew as Vs
-ag 5 u oe z a F as )
-ws 2s e ig F r 2
-i z 3 ie Ss 3 ct
-a as s. g
-s3ca8
-22363 g g s
-a ee 2 g SIo g
-i s zs
-Hl 5 Es 0a 3d i)
-it 3 s om 3
-H Fg
-BS383 /
-Sacks i
-gieas i
-gogss
-&o7 88
-aert
-33 sa
-gness
-geese
-eb Sy
-eo 3
-8
+Livingston Dairy ConsuIting, Inc.
+1635 E. Prosperity Ave. Ste. B
+TuIare, CA 93274
+559-687-1440
+Sunday, April 21, 2024
+Re 2023 NMP
+Whiteside Dairy WDID 5D155087001
+16477 ScofieId Avenue. Wasco, CA 93280
+EncIosed is the 2023/2024 Nutrient Budget for your faciIity to compIy with the CaIifornia
+Regional Water QuaIity Control Board General Oder No. R5-2007-0035.
+2023 WhoIe Farm Nitrogen BaIance
+The whoIe farm nitrogen baIance for the crop year 2022 was
+Nitrogen Summary wiIl show the baIances for each fieId and for the whoIe farm.
+Ranges for the WhoIe Farm Nitrogen BaIance
+Factor Status EvaIuation
+ 1.65 Excessive Too much nitrogen appIied
+1.4- 1.65 SIightIy High Nitrogen is satisfactory to sIightIy high
+0.9-1.4 Normal Normal to sIightIy low
+-0.9 Low Low nitrogen status, additional nitrogen needed
+Nutrient Management PIan/ Nutrient Budget Certification
+This Nutrient Budget was prepared by a Certified Crop Advisor as required by the CaIifornia
+Regional Water QuaIity Control Board.
+- a
+Butch Brazil .
+Certified Crop Advisor 435629
+This Nutrient Management PIan / Nutrient Budget is based on sampIes coIlected and anaIyzed by a third party
+laboratory. This Certified Crop Advisor was not invoIved in oversight of outside laboratory sampIe coIlection,
+transportation, or anaIyses. interpretation of the data is based on submitted information. Where data was
+incompIete, book vaIues and / or historical data was used. The third party laboratory or Certified Crop Advisor
+was not invoIved with the agronomic growth of the crops and the Nutrient Budget is based on information
+provided by the owner.
 
 PDF PAGE BREAK 85
 

@@ -2881,5 +2881,383 @@
     "geocoder": "ArcGIS",
     "address": "3235 Avenue 199, Tulare, California, 93274",
     "county": null
+  },
+  "3621 E. Mount Whitney Laton CA 93242": {
+    "lat": 36.427626393935,
+    "lng": -119.735407316934,
+    "timestamp": "2025-05-26T18:08:18.877035",
+    "successful_format": "3621 E. Mount Whitney Laton, CA, CA 93242",
+    "geocoder": "ArcGIS",
+    "address": "3621 E Mount Whitney Ave, Laton, California, 93242",
+    "county": null
+  },
+  "10467 W. Kamm Avenue Riverdale CA 93656": {
+    "lat": 36.531716178419,
+    "lng": -119.98029107227,
+    "timestamp": "2025-05-26T18:08:20.027585",
+    "successful_format": "10467 W. Kamm Avenue Riverdale, CA, CA 93656",
+    "geocoder": "ArcGIS",
+    "address": "10467 W Kamm Ave, Riverdale, California, 93656",
+    "county": null
+  },
+  "1523 E. Cerini Avenue Laton CA 93242": {
+    "lat": 36.459957208571,
+    "lng": -119.771142368352,
+    "timestamp": "2025-05-26T18:08:21.176214",
+    "successful_format": "1523 E. Cerini Avenue Laton, CA, CA 93242",
+    "geocoder": "ArcGIS",
+    "address": "1523 E Cerini Ave, Laton, California, 93242",
+    "county": null
+  },
+  "12103 Elkhorn Avenue Riverdale CA 93656": {
+    "lat": 36.484228547888,
+    "lng": -120.011875340721,
+    "timestamp": "2025-05-26T18:08:22.328404",
+    "successful_format": "12103 Elkhorn Avenue Riverdale, CA, CA 93656",
+    "geocoder": "ArcGIS",
+    "address": "12103 W Elkhorn Ave, Riverdale, California, 93656",
+    "county": null
+  },
+  "19860 S. Maple Avenue Laton CA 93242": {
+    "lat": 36.436021075494,
+    "lng": -119.754510786946,
+    "timestamp": "2025-05-26T18:08:23.481851",
+    "successful_format": "19860 S. Maple Avenue Laton, CA, CA 93242",
+    "geocoder": "ArcGIS",
+    "address": "19860 Maple Ave, Laton, California, 93242",
+    "county": null
+  },
+  "5512 W Davis Avenue Riverdale CA 93656": {
+    "lat": 36.477954986728,
+    "lng": -119.896298451301,
+    "timestamp": "2025-05-26T18:08:24.656346",
+    "successful_format": "5512 W Davis Avenue Riverdale, CA, CA 93656",
+    "geocoder": "ArcGIS",
+    "address": "5512 W Davis Ave, Riverdale, California, 93656",
+    "county": null
+  },
+  "7524 S. Fairfax Road Bakersfield CA 93307": {
+    "lat": 35.285185019153,
+    "lng": -118.9377679764,
+    "timestamp": "2025-05-26T18:08:25.843439",
+    "successful_format": "7524 S. Fairfax Road Bakersfield, CA, CA 93307",
+    "geocoder": "ArcGIS",
+    "address": "7524 S Fairfax Rd, Bakersfield, California, 93307",
+    "county": null
+  },
+  "14782 8th Avenue Hanford CA 93230": {
+    "lat": 36.256735020437,
+    "lng": -119.601946966537,
+    "timestamp": "2025-05-26T18:08:27.033563",
+    "successful_format": "14782 8th Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "14782 8th Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "5387 Kent Avenue Hanford CA 93230": {
+    "lat": 36.225715985627,
+    "lng": -119.552776040301,
+    "timestamp": "2025-05-26T18:08:28.175098",
+    "successful_format": "5387 Kent Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "5387 Kent Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "6155 Jackson Avenue Hanford CA 93230": {
+    "lat": 36.254587995938,
+    "lng": -119.566094968266,
+    "timestamp": "2025-05-26T18:08:29.330051",
+    "successful_format": "6155 Jackson Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "6155 Jackson Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "3742 Highway 198 Hanford CA 93230": {
+    "lat": 36.331897013044,
+    "lng": -119.518850035741,
+    "timestamp": "2025-05-26T18:08:30.477705",
+    "successful_format": "3742 Highway 198 Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "3742 Hwy 198, Hanford, California, 93230",
+    "county": null
+  },
+  "8749 Lansing Avenue Hanford CA 93230": {
+    "lat": 36.18922901628,
+    "lng": -119.609711961639,
+    "timestamp": "2025-05-26T18:08:31.641371",
+    "successful_format": "8749 Lansing Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "8749 Lansing Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "2446 Grangeville Blvd Hanford CA 93230": {
+    "lat": 36.349263981147,
+    "lng": -119.500219998648,
+    "timestamp": "2025-05-26T18:08:32.784237",
+    "successful_format": "2446 Grangeville Blvd Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "2446 Grangeville Blvd, Hanford, California, 93230",
+    "county": null
+  },
+  "7905 Kansas Avenue Hanford CA 93230": {
+    "lat": 36.208300989218,
+    "lng": -119.596596965378,
+    "timestamp": "2025-05-26T18:08:34.177677",
+    "successful_format": "7905 Kansas Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "7905 Kansas Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "7594 Kent Avenue Hanford CA 93230": {
+    "lat": 36.227650989884,
+    "lng": -119.595664981564,
+    "timestamp": "2025-05-26T18:08:35.322244",
+    "successful_format": "7594 Kent Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "7594 Kent Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "3101 Grangeville Blvd Hanford CA 93230": {
+    "lat": 36.341675006012,
+    "lng": -119.513359972981,
+    "timestamp": "2025-05-26T18:08:37.624469",
+    "successful_format": "3101 Grangeville Blvd Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "3101 Grangeville Blvd, Hanford, California, 93230",
+    "county": null
+  },
+  "17293 9 1/2 Avenue Hanford CA 93230": {
+    "lat": 36.221470006845,
+    "lng": -119.62099601497,
+    "timestamp": "2025-05-26T18:08:38.805078",
+    "successful_format": "17293 9 1/2 Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "17293 9 1/2 Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "19142 10 1/2 Avenue Hanford CA 93230": {
+    "lat": 36.189618020407,
+    "lng": -119.650485981093,
+    "timestamp": "2025-05-26T18:08:39.996745",
+    "successful_format": "19142 10 1/2 Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "19142 10 1/2 Ave, Hanford, California, 93230",
+    "county": null
+  },
+  "3533 Grangeville Blvd. Hanford CA 93230": {
+    "lat": 36.342110990706,
+    "lng": -119.521773978845,
+    "timestamp": "2025-05-26T18:08:41.198194",
+    "successful_format": "3533 Grangeville Blvd. Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "3533 Grangeville Blvd, Hanford, California, 93230",
+    "county": null
+  },
+  "4070 Avenue 256 Tulare CA 93274": {
+    "lat": 36.252817989445,
+    "lng": -119.48800597316,
+    "timestamp": "2025-05-26T18:08:43.468938",
+    "successful_format": "4070 Avenue 256 Tulare, CA, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "4070 Avenue 256, Tulare, California, 93274",
+    "county": null
+  },
+  "6802 Avenue 120 Tipton CA 93272": {
+    "lat": 36.009537985553,
+    "lng": -119.420722005619,
+    "timestamp": "2025-05-26T18:08:44.802463",
+    "successful_format": "6802 Avenue 120 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "6802 Avenue 120, Tipton, California, 93272",
+    "county": null
+  },
+  "29049 Road 68 Visalia CA 93277": {
+    "lat": 36.318064986876,
+    "lng": -119.424818996072,
+    "timestamp": "2025-05-26T18:08:47.084928",
+    "successful_format": "29049 Road 68 Visalia, CA, CA 93277",
+    "geocoder": "ArcGIS",
+    "address": "29049 Road 68, Visalia, California, 93277",
+    "county": null
+  },
+  "30030 Road 60 Visalia CA 93291": {
+    "lat": 36.336509993457,
+    "lng": -119.438978964202,
+    "timestamp": "2025-05-26T18:08:48.225282",
+    "successful_format": "30030 Road 60 Visalia, CA, CA 93291",
+    "geocoder": "ArcGIS",
+    "address": "30030 Road 60, Visalia, California, 93291",
+    "county": null
+  },
+  "1223 W. Stanford Avenue Pixley CA 93256": {
+    "lat": 35.992206011895,
+    "lng": -119.305243016828,
+    "timestamp": "2025-05-26T18:08:50.306229",
+    "successful_format": "1223 W. Stanford Avenue Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "1223 W Stanford Ave, Pixley, California, 93256",
+    "county": null
+  },
+  "4497 N. Colpien Road Tulare CA 93274": {
+    "lat": 36.251218009857,
+    "lng": -119.404322979694,
+    "timestamp": "2025-05-26T18:08:51.456912",
+    "successful_format": "4497 N. Colpien Road Tulare, CA, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "4497 N Colpien Rd, Tulare, California, 93274",
+    "county": null
+  },
+  "9535 Avenue 160 Tipton CA 93272": {
+    "lat": 36.078236985988,
+    "lng": -119.362249010877,
+    "timestamp": "2025-05-26T18:08:53.709172",
+    "successful_format": "9535 Avenue 160 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "9535 Avenue 160, Tipton, California, 93272",
+    "county": null
+  },
+  "11425 Road 112 Pixley CA 93256": {
+    "lat": 35.991407669522,
+    "lng": -119.321999409633,
+    "timestamp": "2025-05-26T18:08:54.848864",
+    "successful_format": "11425 Road 112 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "11425 Road 112, Pixley, California, 93256",
+    "county": null
+  },
+  "6801 Avenue 176 Tulare CA 93274": {
+    "lat": 36.10172098321,
+    "lng": -119.420146001233,
+    "timestamp": "2025-05-26T18:08:55.992597",
+    "successful_format": "6801 Avenue 176 Tulare, CA, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "6801 Avenue 176, Tulare, California, 93274",
+    "county": null
+  },
+  "11021 Avenue 120 Pixley CA 93256": {
+    "lat": 36.007409987975,
+    "lng": -119.325894014596,
+    "timestamp": "2025-05-26T18:08:57.158813",
+    "successful_format": "11021 Avenue 120 Pixley, CA, CA 93256",
+    "geocoder": "ArcGIS",
+    "address": "11021 Avenue 120, Pixley, California, 93256",
+    "county": null
+  },
+  "16026 Road 64 Tipton CA 93272": {
+    "lat": 36.080471014641,
+    "lng": -119.428412988516,
+    "timestamp": "2025-05-26T18:08:58.343126",
+    "successful_format": "16026 Road 64 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "16026 Road 64, Tipton, California, 93272",
+    "county": null
+  },
+  "4645 Avenue 120 Corcoran CA 93212": {
+    "lat": 36.007041016597,
+    "lng": -119.467810028916,
+    "timestamp": "2025-05-26T18:08:59.525542",
+    "successful_format": "4645 Avenue 120 Corcoran, CA, CA 93212",
+    "geocoder": "ArcGIS",
+    "address": "4645 Avenue 120, Corcoran, California, 93212",
+    "county": null
+  },
+  "9086 Avenue 144 Tipton CA 93272": {
+    "lat": 36.05156698546,
+    "lng": -119.369190986906,
+    "timestamp": "2025-05-26T18:09:00.675602",
+    "successful_format": "9086 Avenue 144 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "9086 Avenue 144, Tipton, California, 93272",
+    "county": null
+  },
+  "7325 Avenue 144 Tipton CA 93272": {
+    "lat": 36.050538986945,
+    "lng": -119.408059967406,
+    "timestamp": "2025-05-26T18:09:01.834426",
+    "successful_format": "7325 Avenue 144 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "7325 Avenue 144, Tipton, California, 93272",
+    "county": null
+  },
+  "3313 Avenue 256 Tulare CA 93274": {
+    "lat": 36.255277433231,
+    "lng": -119.529051797762,
+    "timestamp": "2025-05-26T18:09:02.972399",
+    "successful_format": "3313 Avenue 256 Tulare, CA, CA 93274",
+    "geocoder": "ArcGIS",
+    "address": "3313 Avenue 256, Tulare, California, 93274",
+    "county": null
+  },
+  "8769 Ave 128 Tipton CA 93272": {
+    "lat": 36.021313008862,
+    "lng": -119.37673503504,
+    "timestamp": "2025-05-26T18:09:04.136026",
+    "successful_format": "8769 Ave 128 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "8769 Avenue 128, Tipton, California, 93272",
+    "county": null
+  },
+  "11450 Avenue 64 Earlimart CA 93219": {
+    "lat": 35.906848020808,
+    "lng": -119.316382985244,
+    "timestamp": "2025-05-26T18:09:05.662096",
+    "successful_format": "11450 Avenue 64 Earlimart, CA, CA 93219",
+    "geocoder": "ArcGIS",
+    "address": "11450 Avenue 64, Earlimart, California, 93219",
+    "county": null
+  },
+  "15503 Road 96 Tipton CA 93272": {
+    "lat": 36.069289010982,
+    "lng": -119.362212968693,
+    "timestamp": "2025-05-26T18:09:06.810916",
+    "successful_format": "15503 Road 96 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "15503 Road 96, Tipton, California, 93272",
+    "county": null
+  },
+  "13955 Road 80 Tipton CA 93272": {
+    "lat": 36.041213993934,
+    "lng": -119.393906034247,
+    "timestamp": "2025-05-26T18:09:07.970439",
+    "successful_format": "13955 Road 80 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "13955 Road 80, Tipton, California, 93272",
+    "county": null
+  },
+  "1305 lona Avenue Hanford CA 93230": {
+    "lat": 36.332851,
+    "lng": -119.647705,
+    "timestamp": "2025-05-27T07:15:33.369334",
+    "successful_format": "1305 lona Avenue Hanford, CA, CA 93230",
+    "geocoder": "ArcGIS",
+    "address": "93230, Hanford, California",
+    "county": null
+  },
+  "8360 Ave. 144 Tipton CA 93272": {
+    "lat": 36.051178068153,
+    "lng": -119.387984391451,
+    "timestamp": "2025-05-27T07:15:34.567559",
+    "successful_format": "8360 Ave. 144 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "8360 Avenue 144, Tipton, California, 93272",
+    "county": null
+  },
+  "8083 Ave. 160 Tipton": {
+    "lat": 36.079545987807,
+    "lng": -119.385680034471,
+    "timestamp": "2025-05-27T07:15:35.712955",
+    "successful_format": "8083 Ave., 160, CA Tipton",
+    "geocoder": "ArcGIS",
+    "address": "8083 Avenue 160, Tipton, California, 93272",
+    "county": null
+  },
+  "8509 Ave. 152 Tipton CA 93272": {
+    "lat": 36.061910002521,
+    "lng": -119.388921986981,
+    "timestamp": "2025-05-27T07:15:36.865706",
+    "successful_format": "8509 Ave. 152 Tipton, CA, CA 93272",
+    "geocoder": "ArcGIS",
+    "address": "8509 Avenue 152, Tipton, California, 93272",
+    "county": null
   }
 }
