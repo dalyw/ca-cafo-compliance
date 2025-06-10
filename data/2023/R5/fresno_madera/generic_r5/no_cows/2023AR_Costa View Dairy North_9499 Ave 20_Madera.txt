@@ -1,0 +1,6590 @@
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Costa View Dairy North
+
+Physical address of dairy:
+
+9499 Avenue 20 Chowchilla Madera 93610
+Number and Street City County Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1950
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0021-0090-0005-0000
+
+B. OPERATORS
+
+Pietrowski, Larry
+
+Operator name: Pietrowski, Larry Telephone no.: (559) 706-2051
+Landline Cellular
+
+9499 Avenue 20 Chowchilla CA 93610
+
+Mailing Address Number and Street City State Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Costa View Farms
+
+Legal owner name: Costa View Farms Telephone no.: (559) 675-3131
+
+Landline Cellular
+9499 Avenue 20 Chowchilla CA 93610
+Mailing Address Number and Street City State Zip Code
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 1 of 64
+
+PDF PAGE BREAK 1
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+Pietrowski, Larry
+
+Legal owner name: Pietrowski, Larry
+
+Telephone no.:
+
+(559) 706-2051
+
+Landline Cellular
+9499 Avenue 20 Chowchilla CA 93610
+Mailing Address Number and Street City State Zip Code
+This owner is responsible for paying permit fees.
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 2 of 64
+
+PDF PAGE BREAK 2
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers Heifers (7-14 Calves Calves
+Milk Cows Dry Cows (15-24 mo.) mo. to breeding) (4-6 mo.) (0-3 mo.)
+Number open confinement 0 0 1,045 145 0 0
+Number under roof 0 300 0 0 0 0
+Maximum number 0 315 1,050 150 0 0
+Average number 0 300 1,045 145 0 0
+Avg live weight (Ibs) 0 1,400 900 650
+Predominant milk cow breed: Holstein
+Average milk production: 1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd: 16,252.67 tons per reporting period
+Total nitrogen from manure: 167,681.00 /bs per reporting period After ammonia losses (30% loss applied): 117,376.70 /bs per reporting period
+Total phosphorus from manure: 26,338.40 /bs per reporting period
+Total potassium from manure: 1.00 /bs per reporting period
+Total salt from manure: 68,985.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated: gallons 0 gallons applied
+Total nitrogen generated: Ibs + 0 gallons exported
+Total phosphorus generated: Ibs . 0 gallons imported
+Total potassium generated: Ibs = 0 gallons generated
+Total salt generated: Ibs
+D. FRESH WATER SOURCES
+Source Description Type
+14 Reservoir Ground water
+W2 Ground water
+Ww5 Ground water
+W8 Ground water
+wg Ground water
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 3 of 64
+
+PDF PAGE BREAK 3
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+Source Description Type
+MID Canal Surface water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+F. NUTRIENT IMPORTS
+
+Date Material type / Description Quantity Reporting basis Moist. (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 Compost 3,004.80 ton Dry-weight 26.8 13,400.00 5,700.00 26,700.00 0.00
+Compost
+
+No process wastewater nutrient imports entered.
+
+Date Material type / Description Quantity Reporting basis Moisture (%) N (%) P (%) K (%) Salt (%)
+05/19/2023 Solid commercial fertilizer 48.44 ton As-is 0.1 17.000000 0.000000 0.000000 0.000000
+CAN 17
+05/23/2023 Solid commercial fertilizer 25.41 ton As-is 0.1 8.000000 8.000000 8.000000 0.000000
+8-8-8
+07/23/2023 Solid commercial fertilizer 60.67 ton As-is 0.1 17.000000 0.000000 0.000000 0.000000
+CAN 17
+Material type Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Commercial fertilizer / Other 41,163.00 4,065.60 4,065.60 0.00
+Dry manure 58,946.96 25,074.46 117,454.03 0.00
+Process wastewater 0.00 0.00 0.00 0.00
+Total imports for all materials 100,109.96 29,140.06 121,519.63 0.00
+G. NUTRIENT EXPORTS
+Date Material type Quantity Reporting basis Moisture (%) Density (Ibs/cu ft) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+08/03/2023 Corral solids 4,384.00 ton Dry-weight 25.7 11,300.00 4,100.00 24,500.00 0.00
+No liquid nutrient exports entered.
+Material type Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Dry manure 73,615.25 26,709.96 159,608.29 0.00
+Process wastewater 0.00 0.00 0.00 0.00
+Total exports for all materials 73,615.25 26,709.96 159,608.29 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 4 of 64
+
+PDF PAGE BREAK 4
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+APPLICATION AREA
+
+A. LIST OF LAND APPLICATION AREAS
+
+Field name Controlled acres Cropable acres Total harvests Type of waste applied Parcel number
+1 79 79 1 none X021-X090-X005-XXXX
+10 41 41 1 manure X021-X120-X002-XXXX
+1 21 21 1 manure X021-X120-X002-XXXX
+12 30 30 1 manure X021-X120-X002-XXXX
+13 63 63 1 manure X021-X120-X002-XXXX
+14815 76 76 1 manure X021-X090-X002-XXXX
+2 57 57 1 none X021-X090-X005-XXXX
+384 34 34 1 manure X021-X090-X005-XXXX
+5 19 19 1 manure X021-X090-X005-XXXX
+6A 55 55 1 manure X021-X090-X005-XXXX
+6B 27 27 1 manure X021-X090-X005-XXXX
+7 27 27 1 manure X021-X012-X006-XXXX
+8 1 11 1 manure X021-X012-X006-XXXX
+9 35 35 1 manure X021-X012-X008-XXXX
+X021-X012-X009-XXXX
+Totals for areas that were used for application 439 439 12
+Totals for areas that were not used for application 136 136 2
+Land application area totals 575 575 14
+
+B. CROPS AND HARVESTS
+
+1
+
+Field name: 1
+
+02/01/2023: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 79 Plant date: 02/01/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+12/31/2023 0.10 ton As-is 0.1 0.00 0.00 0.00 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 0.00 0.00 0.00 0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 5 of 64
+
+PDF PAGE BREAK 5
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+10
+
+Field name: 10
+
+01/01/2001: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 41 Plant date: 01/01/2001
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 173.81 ton As-is 9.4 17,600.00 1,300.00 22,600.00 20.01
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.24 149.22 11.02 191.61 1,537.08
+
+11
+
+Field name: 11
+
+01/01/2002: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 21 Plant date: 01/01/2002
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 92.25 ton As-is 9.4 17,600.00 1,300.00 22,600.00 20.01
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.39 154.63 11.42 198.56 1,592.77
+
+12
+
+Field name: 12
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 6 of 64
+
+PDF PAGE BREAK 6
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+12
+
+01/01/1995: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 30 Plant date: 01/01/1995
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 132.59 ton As-is 9.8 18,000.00 1,700.00 23,100.00 15.51
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.42 159.11 15.03 204.19 1,236.62
+
+13
+
+Field name: 13
+
+01/01/2003: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 63 Plant date: 01/01/2003
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 205.19 ton As-is 9.7 20,700.00 1,100.00 23,200.00 19.99
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 3.26 134.84 7.17 151.12 1,175.83
+14815
+
+Field name: 14815
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 7 of 64
+
+PDF PAGE BREAK 7
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+14815
+
+05/02/2019: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 76 Plant date: 05/02/2019
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 196.89 ton As-is 9.2 23,900.00 2,500.00 28,900.00 16.77
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 2.59 123.83 12.95 149.74 788.97
+
+Field name: 2
+
+02/01/2023: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 57 Plant date: 02/01/2023
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+12/31/2023 0.10 ton As-is 0.1 0.00 0.00 0.00 0.00
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 0.00 0.00 0.00 0.00 0.00
+384
+
+Field name: 3&4
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 8 of 64
+
+PDF PAGE BREAK 8
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+3&4
+
+11/01/2011: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 34 Plant date: 11/01/2011
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 161.55 ton As-is 9.4 26,700.00 2,600.00 25,700.00 15.34
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.75 253.73 24.71 244.23 1,320.72
+
+Field name: 5
+
+04/27/2019: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 19 Plant date: 04/27/2019
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 69.99 ton As-is 9.2 23,900.00 2,500.00 28,900.00 16.77
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 3.68 176.08 18.42 212.92 1,121.84
+6A
+Field name: 6A
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 9 of 64
+
+PDF PAGE BREAK 9
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6A
+
+01/01/2017: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 55 Plant date: 01/01/2017
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 260.28 ton As-is 9.3 25,300.00 3,600.00 36,700.00 14.64
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.73 239.46 34.07 347.36 1,256.77
+6B
+Field name: 6B
+
+04/25/2019: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 27 Plant date: 04/25/2019
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 113.63 ton As-is 9.2 26,700.00 3,500.00 50,000.00 19.02
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 4.21 224.73 29.46 420.85 1,453.64
+
+Field name: 7
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 10 of 64
+
+PDF PAGE BREAK 10
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+7
+
+01/01/2014: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 27 Plant date: 01/01/2014
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 100.53 ton As-is 8.6 28,000.00 2,900.00 34,000.00 18.08
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 3.72 208.51 21.60 253.19 1,230.57
+
+Field name: 8
+
+01/01/2019: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 11 Plant date: 01/01/2019
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 31.35 ton As-is 9.3 33,700.00 3,100.00 33,000.00 15.01
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 2.85 192.09 17.67 188.10 776.00
+
+Field name: 9
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 11 of 64
+
+PDF PAGE BREAK 11
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+9
+
+04/13/2018: Almond, in shell
+
+Crop: Almond, in shell Acres planted: 35 Plant date: 04/13/2018
+Harvest date Yield Reporting basis Density (Ibs/cu ft) Moisture (%) N (mg/kg) P (mg/kg) K (mg/kg) Salt (mg/kg) TFS (%)
+10/31/2023 136.43 ton As-is 8.3 29,900.00 2,500.00 33,900.00 19.87
+Yield (tons/acre) Total N (Ibs/acre) Total P (Ibs/acre)| Total K (Ibs/acre) Salt (Ibs/acre)
+Anticipated harvest content 4.00 152.80 16.80 146.40 0.00
+Total actual harvest content 3.90 233.10 19.49 264.28 1,420.49
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 12 of 64
+
+PDF PAGE BREAK 12
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+NUTRIENT BUDGET
+
+A. LAND APPLICATIONS
+
+1 - 02/01/2023: Almond, in shell
+
+Field name: 1
+
+Crop: Almond, in shell
+
+Plant date: 02/01/2023 _
+
+Application date Application method
+
+04/03/2023 Surface (irrigation)
+
+Source description
+MID Canal
+Application event totals
+
+05/23/2023 Sidedress
+
+Source description
+8-8-8
+Application event totals
+
+07/23/2023 Sidedress
+
+Source description
+
+CAN 17
+Application event totals
+
+10 - 01/01/2001: Almond, in shell
+
+Field name: 10
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type N (Ibs/acre)
+
+Surface water 6.93
+6.93
+
+No precipitation
+
+Material type N (Ibs/acre)
+
+Liquid commercial fertilizer 30.00
+30.00
+
+No precipitation
+
+Material type N (Ibs/acre)
+
+Liquid commercial fertilizer 30.00
+30.00
+
+Precipitation during application
+No precipitation
+P (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+Precipitation 24 hours following
+
+No precipitation
+
+K (Ibs/acre) Salt (Ibs/acre) Amount
+
+450.15 65,560,320.00 gal
+450.15
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+0.00 0.00 0.00
+0.00 0.00 0.00
+
+No precipitation
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+0.00 0.00 0.00
+0.00 0.00 0.00
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2001
+
+Application date Application method
+
+11/01/2022 Broadcast/incorporate
+
+Source description
+
+Compost
+Application event totals
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type N (Ibs/acre)
+
+Compost 115.02
+115.02
+
+Precipitation during application
+
+No precipitation
+
+Precipitation 24 hours following
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+48.93 229.18 0.00 240.39 ton
+48.93 229.18 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Page 13 of 64
+
+PDF PAGE BREAK 13
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+10 - 01/01/2001: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+04/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.88 0.00 0.00 305.25 4,309,500.00 gal
+Application event totals 0.88 0.00 0.00 305.25
+05/05/2023 Surface (irrigation) Light rain No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.31 0.00 0.00 457.07 6,453,000.00 gal
+Application event totals 1.31 0.00 0.00 457.07
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+06/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.16 0.00 0.00 753.07 10,632,000.00 gal
+Application event totals 2.16 0.00 0.00 753.07
+07/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.87 0.00 0.00 649.91 9,175,500.00 gal
+Application event totals 1.87 0.00 0.00 649.91
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 14 of 64
+
+PDF PAGE BREAK 14
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+10 - 01/01/2001: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+08/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.68 0.00 0.00 583.93 8,244,000.00 gal
+Application event totals 1.68 0.00 0.00 583.93
+
+09/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.60 0.00 0.00 557.69 7,873,500.00 gal
+Application event totals 1.60 0.00 0.00 557.69
+
+10/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.74 0.00 0.00 258.18 3,645,000.00 gal
+Application event totals 0.74 0.00 0.00 258.18
+
+11 - 01/01/2002: Almond, in shell
+Field name: 11
+Crop: Almond, in shell
+
+Plant date: 01/01/2002
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+11/01/2022 Broadcast/incorporate
+
+Source description
+
+Compost
+Application event totals
+
+04/09/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+Material type
+
+Compost
+
+Material type
+
+Ground water
+
+No precipitation
+
+N (Ibs/acre)
+
+115.19
+115.19
+
+No precipitation
+
+N (Ibs/acre)
+
+0.89
+0.89
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+49.00 229.53
+49.00 229.53
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00 123.31 ton
+0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+308.04 2,227,500.00 gal
+308.04
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 15 of 64
+
+PDF PAGE BREAK 15
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+11 - 01/01/2002: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.33 0.00 0.00 461.33 3,336,000.00 gal
+Application event totals 1.33 0.00 0.00 461.33
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+06/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.18 0.00 0.00 760.03 5,496,000.00 gal
+Application event totals 2.18 0.00 0.00 760.03
+07/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.88 0.00 0.00 655.90 4,743,000.00 gal
+Application event totals 1.88 0.00 0.00 655.90
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+08/13/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.69 0.00 0.00 589.32 4,261,500.00 gal
+Application event totals 1.69 0.00 0.00 589.32
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 16 of 64
+
+PDF PAGE BREAK 16
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+11 - 01/01/2002: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+09/10/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.62 0.00 0.00 562.77 4,069,500.00 gal
+Application event totals 1.62 0.00 0.00 562.77
+10/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.75 0.00 0.00 260.54 1,884,000.00 gal
+Application event totals 0.75 0.00 0.00 260.54
+
+12 - 01/01/1995: Almond, in shell
+
+Field name: 12
+
+Crop: Almond, in shell Plant date: 01/01/1995
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+11/01/2022 Broadcast/incorporate No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Compost Compost 111.67 47.50 222.51 0.00 170.77 ton
+Application event totals 111.67 47.50 222.51 0.00
+04/10/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.87 0.00 0.00 304.06 3,141,000.00 gal
+Application event totals 0.87 0.00 0.00 304.06
+05/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.31 0.00 0.00 455.36 4,704,000.00 gal
+Application event totals 1.31 0.00 0.00 455.36
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 17 of 64
+
+PDF PAGE BREAK 17
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+12 - 01/01/1995: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+06/12/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.16 0.00 0.00 750.12 7,749,000.00 gal
+Application event totals 2.16 0.00 0.00 750.12
+07/10/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.86 0.00 0.00 647.31 6,687,000.00 gal
+Application event totals 1.86 0.00 0.00 647.31
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+08/14/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.67 0.00 0.00 581.68 6,009,000.00 gal
+Application event totals 1.67 0.00 0.00 581.68
+09/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.60 0.00 0.00 555.40 5,737,500.00 gal
+Application event totals 1.60 0.00 0.00 555.40
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 18 of 64
+
+PDF PAGE BREAK 18
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+12 - 01/01/1995: Almond, in shell
+
+Application date Application method
+
+10/09/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+13 - 01/01/2003: Almond, in shell
+
+Field name: 13
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Ground water
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+Precipitation 24 hours following
+No precipitation
+Salt (Ibs/acre)
+
+257.15
+257.15
+
+Amount
+
+2,656,500.00 gal
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2003 _
+
+Application date Application method
+
+11/03/2022 Broadcast/incorporate
+
+Source description
+Compost
+Application event totals
+
+04/11/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+05/09/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+05/19/2023 Sidedress
+
+Source description
+
+CAN 17
+Application event totals
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Compost
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Liquid commercial fertilizer
+
+N (Ibs/acre)
+
+109.65
+109.65
+
+N (Ibs/acre)
+
+0.88
+0.88
+
+N (Ibs/acre)
+
+1.31
+1.31
+
+N (Ibs/acre)
+
+30.00
+30.00
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+46.64
+46.64
+
+K (Ibs/acre)
+218.48
+218.48
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00 352.13 ton
+0.00
+No precipitation
+Salt (Ibs/acre) Amount
+
+304.72
+304.72
+
+6,610,500.00 gal
+
+No precipitation
+
+Salt (Ibs/acre)
+
+456.28
+456.28
+
+Amount
+
+9,898,500.00 gal
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+Page 19 of 64
+
+PDF PAGE BREAK 19
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+13 - 01/01/2003: Almond, in shell
+
+Application date Application method
+
+06/13/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+07/11/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+07/23/2023 Sidedress
+
+Source description
+CAN 17
+Application event totals
+
+08/15/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+09/12/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+10/10/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+14&15 - 05/02/2019: Almond, in shell
+
+06/17/2024 13:47:32
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Precipitation 24 hours prior
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+Liquid commercial fertilizer
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre)
+
+2.16
+2.16
+
+N (Ibs/acre)
+
+1.86
+1.86
+
+N (Ibs/acre)
+
+30.00
+30.00
+
+N (Ibs/acre)
+
+1.68
+1.68
+
+N (Ibs/acre)
+
+1.60
+1.60
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+751.81. 16,309,500.00 gal
+751.81
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+648.78  14,074,500.00 gal
+648.78
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+582.96  12,646,500.00 gal
+582.96
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+556.68  12,076,500.00 gal
+556.68
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+257.70 5,590,500.00 gal
+257.70
+
+Page 20 of 64
+
+PDF PAGE BREAK 20
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+14&15 - 05/02/2019: Almond, in shell
+
+Field name: 14815
+
+Crop: Almond, in shell Plant date: 05/02/2019
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+11/07/2022 Broadcast/incorporate No precipitation Light rain No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Compost Compost 107.43 45.70 214.05 0.00 416.18 ton
+Application event totals 107.43 45.70 214.05 0.00
+04/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 0.99 0.00 0.00 276.92 9,007,200.00 gal
+Application event totals 0.99 0.00 0.00 276.92
+05/03/2023 Surface (irrigation) No precipitation Light rain No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 1.48 0.00 0.00 414.80  13,491,600.00 gal
+Application event totals 1.48 0.00 0.00 414.80
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+06/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 2.44 0.00 0.00 683.42 22,228,800.00 gal
+Application event totals 2.44 0.00 0.00 683.42
+07/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 2.11 0.00 0.00 589.97  19,189,200.00 gal
+Application event totals 2.11 0.00 0.00 589.97
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 21 of 64
+
+PDF PAGE BREAK 21
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+14&15 - 05/02/2019: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+Application event totals 30.00 0.00 0.00 0.00
+08/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 1.89 0.00 0.00 529.76 17,230,800.00 gal
+Application event totals 1.89 0.00 0.00 529.76
+09/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 1.81 0.00 0.00 505.96  16,456,800.00 gal
+Application event totals 1.81 0.00 0.00 505.96
+10/04/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+14 Reservoir Ground water 0.84 0.00 0.00 234.20 7,617,600.00 gal
+Application event totals 0.84 0.00 0.00 234.20
+
+2 - 02/01/2023: Almond, in shell
+
+Field name: 2
+
+Crop: Almond, in shell Plant date: 02/01/2023
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+04/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 7.01 0.00 0.00 455.83 47,900,160.00 gal
+Application event totals 7.01 0.00 0.00 455.83
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 22 of 64
+
+PDF PAGE BREAK 22
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+2 - 02/01/2023: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+05/23/2023 Sidedress No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+8-8-8 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+
+Application event totals 30.00 0.00 0.00 0.00
+
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 30.00 0.00 0.00 0.00
+
+Application event totals 30.00 0.00 0.00 0.00
+
+3&4 - 11/01/2011: Almond, in shell
+Field name: 3&4
+
+Crop: Almond, in shell Plant date: 11/01/2011
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+11/06/2022 Broadcast/incorporate No precipitation No precipitation Light rain
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Compost Compost 175.52 74.66 349.73 0.00 304.20 ton
+Application event totals 175.52 74.66 349.73 0.00
+04/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 0.87 0.00 0.00 56.81 3,561,062.00 gal
+Application event totals 0.87 0.00 0.00 56.81
+05/05/2023 Surface (irrigation) Light rain No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 1.31 0.00 0.00 85.06 5,331,917.00 gal
+Application event totals 1.31 0.00 0.00 85.06
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 23 of 64
+
+PDF PAGE BREAK 23
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+3&4 - 11/01/2011: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+06/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 2.16 0.00 0.00 140.19 8,787,341.00 gal
+Application event totals 2.16 0.00 0.00 140.19
+07/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 1.86 0.00 0.00 121.00 7,584,192.00 gal
+Application event totals 1.86 0.00 0.00 121.00
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+08/11/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 1.67 0.00 0.00 108.71 6,814,080.00 gal
+Application event totals 1.67 0.00 0.00 108.71
+09/08/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+MID Canal Surface water 1.60 0.00 0.00 103.80 6,506,035.00 gal
+Application event totals 1.60 0.00 0.00 103.80
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 24 of 64
+
+PDF PAGE BREAK 24
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+3&4 - 11/01/2011: Almond, in shell
+
+Application date Application method
+
+10/06/2023 Surface (irrigation)
+
+Source description
+
+MID Canal
+Application event totals
+
+5 - 04/27/2019: Almond, in shell
+
+Field name: 5
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Surface water
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+48.06 3,012,710.00 gal
+
+48.06
+
+Crop: Almond, in shell
+
+Plant date: 04/27/2019 _
+
+Application date Application method
+
+11/06/2022 Broadcast/incorporate
+
+Source description
+
+Compost
+Application event totals
+
+04/03/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+05/01/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+05/19/2023 Sidedress
+
+Source description
+
+CAN 17
+Application event totals
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Compost
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Liquid commercial fertilizer
+
+N (Ibs/acre)
+
+140.50
+140.50
+
+N (Ibs/acre)
+
+0.88
+0.88
+
+N (Ibs/acre)
+
+1.31
+1.31
+
+N (Ibs/acre)
+
+30.00
+30.00
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+59.77 279.96
+59.77 279.96
+
+No precipitation
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+Precipitation 24 hours following
+
+Light rain
+Salt (Ibs/acre) Amount
+0.00 136.08 ton
+0.00
+No precipitation
+Salt (Ibs/acre) Amount
+
+245.71
+245.71
+
+1,998,000.00 gal
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+367.90 2,991,600.00 gal
+
+367.90
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+Page 25 of 64
+
+PDF PAGE BREAK 25
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+5 - 04/27/2019: Almond, in shell
+
+Application date Application method
+
+06/05/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+07/03/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+07/23/2023 Sidedress
+
+Source description
+
+CAN 17
+Application event totals
+
+08/07/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+09/04/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+10/02/2023 Surface (irrigation)
+
+Source description
+
+14 Reservoir
+Application event totals
+
+6A - 01/01/2017: Almond, in shell
+
+06/17/2024 13:47:32
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Precipitation 24 hours prior
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+Liquid commercial fertilizer
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre)
+
+2.17
+217
+
+N (Ibs/acre)
+
+1.87
+1.87
+
+N (Ibs/acre)
+
+30.00
+30.00
+
+N (Ibs/acre)
+
+1.68
+1.68
+
+N (Ibs/acre)
+
+1.60
+1.60
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+606.38 4,930,800.00 gal
+606.38
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+523.30 4,255,200.00 gal
+523.30
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+470.17 3,823,200.00 gal
+470.17
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+448.92 3,650,400.00 gal
+448.92
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+207.93 1,690,800.00 gal
+207.93
+
+Page 26 of 64
+
+PDF PAGE BREAK 26
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6A - 01/01/2017: Almond, in shell
+
+Field name: 6A
+Crop: Almond, in shell Plant date: 01/01/2017
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+11/04/2022 Broadcast/incorporate No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Compost Compost 168.76 71.79 336.26 0.00 473.14 ton
+Application event totals 168.76 71.79 336.26 0.00
+04/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.88 0.00 0.00 306.27 5,800,500.00 gal
+Application event totals 0.88 0.00 0.00 306.27
+05/01/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.32 0.00 0.00 458.50 8,683,500.00 gal
+Application event totals 1.32 0.00 0.00 458.50
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+06/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.17 0.00 0.00 755.66  14,311,500.00 gal
+Application event totals 2.17 0.00 0.00 755.66
+07/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.87 0.00 0.00 652.23 12,352,500.00 gal
+Application event totals 1.87 0.00 0.00 652.23
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 27 of 64
+
+PDF PAGE BREAK 27
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6A - 01/01/2017: Almond, in shell
+
+Application date Application method
+
+07/23/2023 Sidedress
+
+Source description
+CAN 17
+Application event totals
+
+08/07/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+09/04/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+10/02/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+6B - 04/25/2019: Almond, in shell
+Field name: 6B
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Liquid commercial fertilizer
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Ground water
+
+No precipitation
+
+Material type
+
+Ground water
+
+N (Ibs/acre)
+
+50.00
+50.00
+
+N (Ibs/acre)
+
+1.68
+1.68
+
+N (Ibs/acre)
+
+1.61
+1.61
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+0.00
+0.00
+
+No precipitation
+
+P (Ibs/acre)
+
+0.00
+0.00
+
+K (Ibs/acre)
+
+0.00
+0.00
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00
+0.00
+No precipitation
+Salt (Ibs/acre) Amount
+
+586.01
+586.01
+
+11,098,500.00 gal
+
+No precipitation
+
+Amount
+
+10,596,000.00 gal
+
+Salt (Ibs/acre)
+
+559.48
+559.48
+
+No precipitation
+
+Amount
+
+4,906,500.00 gal
+
+Salt (Ibs/acre)
+
+259.07
+259.07
+
+Crop: Almond, in shell
+
+Plant date: 04/25/2019 _
+
+Application date Application method
+
+11/04/2022 Broadcast/incorporate
+
+Source description
+
+Compost
+Application event totals
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Precipitation 24 hours prior
+
+No precipitation
+
+Material type
+
+Compost
+
+N (Ibs/acre)
+
+161.06
+161.06
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+68.51 320.92
+68.51 320.92
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00 221.67 ton
+0.00
+
+Page 28 of 64
+
+PDF PAGE BREAK 28
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6B - 04/25/2019: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+04/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.87 0.00 0.00 301.54 2,803,500.00 gal
+Application event totals 0.87 0.00 0.00 301.54
+05/03/2023 Surface (irrigation) No precipitation Light rain No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.30 0.00 0.00 451.42 4,197,000.00 gal
+Application event totals 1.30 0.00 0.00 451.42
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+06/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.14 0.00 0.00 743.92 6,916,500.00 gal
+Application event totals 2.14 0.00 0.00 743.92
+07/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.84 0.00 0.00 641.96 5,968,500.00 gal
+Application event totals 1.84 0.00 0.00 641.96
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 29 of 64
+
+PDF PAGE BREAK 29
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6B - 04/25/2019: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+08/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.66 0.00 0.00 576.78 5,362,500.00 gal
+Application event totals 1.66 0.00 0.00 576.78
+
+09/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.58 0.00 0.00 550.80 5,121,000.00 gal
+Application event totals 1.58 0.00 0.00 550.80
+
+10/04/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.73 0.00 0.00 255.07 2,371,500.00 gal
+Application event totals 0.73 0.00 0.00 255.07
+
+7 - 01/01/2014: Almond, in shell
+Field name: 7
+Crop: Almond, in shell
+
+Plant date: 01/01/2014
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+10/31/2022 Broadcast/incorporate
+
+Source description
+
+Compost
+Application event totals
+
+04/03/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+Material type
+
+Compost
+
+Material type
+
+Ground water
+
+No precipitation
+
+N (Ibs/acre)
+
+142.29
+142.29
+
+No precipitation
+
+N (Ibs/acre)
+
+0.87
+0.87
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+60.53 283.52
+60.53 283.52
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00 195.84 ton
+0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+304.44 2,830,500.00 gal
+304.44
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 30 of 64
+
+PDF PAGE BREAK 30
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+7 - 01/01/2014: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/01/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.52 0.00 0.00 528.05 4,909,500.00 gal
+Application event totals 1.52 0.00 0.00 528.05
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+06/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 2.13 0.00 0.00 740.37 6,883,500.00 gal
+Application event totals 2.13 0.00 0.00 740.37
+07/03/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 9.76 0.00 0.00 588.14 6,099,120.00 gal
+Application event totals 9.76 0.00 0.00 588.14
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+08/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 8.77 0.00 0.00 528.43 5,479,920.00 gal
+Application event totals 8.77 0.00 0.00 528.43
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 31 of 64
+
+PDF PAGE BREAK 31
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+7 - 01/01/2014: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+09/04/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 8.38 0.00 0.00 504.55 5,232,240.00 gal
+Application event totals 8.38 0.00 0.00 504.55
+10/02/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 0.84 0.00 0.00 293.47 2,728,500.00 gal
+Application event totals 0.84 0.00 0.00 293.47
+
+8 - 01/01/2019: Almond, in shell
+
+Field name: 8
+
+Crop: Almond, in shell Plant date: 01/01/2019 _
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+
+10/31/2022 Broadcast/incorporate No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Compost Compost 133.35 56.72 265.70 0.00 74.77 ton
+Application event totals 133.35 56.72 265.70 0.00
+04/04/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.03 0.00 0.00 359.18 1,360,500.00 gal
+Application event totals 1.03 0.00 0.00 359.18
+05/03/2023 Surface (irrigation) No precipitation Light rain Light rain
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.32 0.00 0.00 458.18 1,735,500.00 gal
+Application event totals 1.32 0.00 0.00 458.18
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 32 of 64
+
+PDF PAGE BREAK 32
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+8 - 01/01/2019: Almond, in shell
+
+Application date Application method Precipitation 24 hours prior Precipitation during application Precipitation 24 hours following
+05/19/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+06/07/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+IW5 Ground water 1.98 0.00 0.00 687.87 2,605,500.00 gal
+Application event totals 1.98 0.00 0.00 687.87
+07/05/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 9.11 0.00 0.00 548.47 2,317,200.00 gal
+Application event totals 9.11 0.00 0.00 548.47
+07/23/2023 Sidedress No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+CAN 17 Liquid commercial fertilizer 50.00 0.00 0.00 0.00
+Application event totals 50.00 0.00 0.00 0.00
+08/09/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 8.18 0.00 0.00 492.80 2,082,000.00 gal
+Application event totals 8.18 0.00 0.00 492.80
+09/06/2023 Surface (irrigation) No precipitation No precipitation No precipitation
+Source description Material type N (Ibs/acre) P (Ibs/acre) K (Ibs/acre) Salt (Ibs/acre) Amount
+Iw9 Ground water 7.81 0.00 0.00 470.36 1,987,200.00 gal
+Application event totals 7.81 0.00 0.00 470.36
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 33 of 64
+
+PDF PAGE BREAK 33
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+8 - 01/01/2019: Almond, in shell
+
+Application date Application method
+
+10/03/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+9 - 04/13/2018: Almond, in shell
+
+Field name: 9
+
+Material type
+
+Ground water
+
+Precipitation 24 hours prior
+
+No precipitation
+
+N (Ibs/acre)
+
+0.87
+0.87
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+Precipitation 24 hours following
+
+No precipitation
+
+Amount
+
+1,150,500.00 gal
+
+Salt (Ibs/acre)
+
+303.74
+303.74
+
+Crop: Almond, in shell
+
+Plant date: 04/13/2018 _
+
+Application date Application method
+
+10/31/2022 Broadcast/incorporate
+
+Source description
+Compost
+Application event totals
+
+04/06/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+05/04/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+05/19/2023 Sidedress
+
+Source description
+
+CAN 17
+Application event totals
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Material type
+
+Compost
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Precipitation 24 hours prior
+
+No precipitation
+
+No precipitation
+
+Light rain
+
+No precipitation
+
+Liquid commercial fertilizer
+
+N (Ibs/acre)
+
+166.09
+166.09
+
+N (Ibs/acre)
+
+0.88
+0.88
+
+N (Ibs/acre)
+
+1.32
+1.32
+
+N (Ibs/acre)
+
+50.00
+50.00
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre)
+
+70.65
+70.65
+
+K (Ibs/acre)
+
+330.94
+330.94
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+Light rain
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+0.00 296.32 ton
+0.00
+No precipitation
+Salt (Ibs/acre) Amount
+
+306.30
+306.30
+
+3,691,500.00 gal
+
+No precipitation
+
+Amount
+
+5,526,000.00 gal
+
+Salt (Ibs/acre)
+458.51
+458.51
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+Page 34 of 64
+
+PDF PAGE BREAK 34
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+9 - 04/13/2018: Almond, in shell
+
+Application date Application method
+
+06/08/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+07/06/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+07/23/2023 Sidedress
+
+Source description
+CAN 17
+Application event totals
+
+08/10/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+09/07/2023 Surface (irrigation)
+
+Source description
+IW5
+Application event totals
+
+10/05/2023 Surface (irrigation)
+
+Source description
+
+IW5
+Application event totals
+
+06/17/2024 13:47:32
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Precipitation 24 hours prior
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+Liquid commercial fertilizer
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+Material type
+
+Ground water
+
+No precipitation
+
+No precipitation
+
+No precipitation
+
+N (Ibs/acre)
+
+2.17
+217
+
+N (Ibs/acre)
+
+1.87
+1.87
+
+N (Ibs/acre)
+
+50.00
+50.00
+
+N (Ibs/acre)
+
+1.68
+1.68
+
+N (Ibs/acre)
+
+1.61
+1.61
+
+N (Ibs/acre)
+
+0.74
+0.74
+
+Precipitation during application
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+0.00 0.00
+0.00 0.00
+
+No precipitation
+
+P (Ibs/acre) K (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Precipitation 24 hours following
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+755.59 9,106,500.00 gal
+755.59
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+652.17 7,860,000.00 gal
+652.17
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+
+0.00
+0.00
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+585.96 7,062,000.00 gal
+585.96
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+559.45 6,742,500.00 gal
+559.45
+
+No precipitation
+
+Salt (Ibs/acre) Amount
+259.00 3,121,500.00 gal
+259.00
+
+Page 35 of 64
+
+PDF PAGE BREAK 35
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+B. NUTRIENT BUDGET
+
+1 - 02/01/2023: Almond, in shell
+
+Field name: 1
+
+Crop: Almond, in shell
+
+Plant date: 02/01/2023
+
+Nutrient budget in Ibs/acre
+
+500
+
+400
+
+8 300
+2 200 153 146
+a at 0 oo o |
+
+0 _
+N P K
+
+Total N (Ibs/acre)
+Existing soil nutrient content 0.00
+Plowdown credit 0.00
+Commercial fertilizer / Other 60.00
+Dry manure 0.00
+Process wastewater 0.00
+Fresh water 6.93
+Atmospheric deposition 14.00
+Total nutrients applied 80.93
+Anticipated crop nutrient removal 152.80
+Actual crop nutrient removal 0.00
+Nutrient balance 80.93
+Applied to removed ratio 0.00
+
+450
+
+0 0
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+16.80
+0.00
+0.00
+0.00
+
+MN Applied
+
+1 Anticipated
+
+MB Harvest
+
+Total K (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+146.40
+0.00
+0.00
+0.00
+
+Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+450.15
+0.00
+450.15
+0.00
+0.00
+450.15
+0.00
+
+Fresh water applied
+65,560,320.00 gallons
+2,414.36 acre-inches
+
+30.56 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+1 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Page 36 of 64
+
+PDF PAGE BREAK 36
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+10 - 01/01/2001: Almond, in shell
+
+Field name: 10
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2001
+
+Nutrient budget in Ibs/acre
+
+4,000
+3,000
+2,000
+1,000
+
+Ibs/acre
+
+199 149
+153 es
+
+N
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+49 17 11 228 192
+sl 146 oe
+
+Pp K
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+60.00
+115.02
+0.00
+10.24
+14.00
+
+199.27
+152.80
+149.22
+50.04
+1.34
+
+3,565
+
+4,537
+
+0
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+48.93
+0.00
+0.00
+0.00
+
+48.93
+16.80
+11.02
+37.90
+
+4.44
+
+MN Applied
+9 Anticipated
+MN Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+229.18
+0.00
+0.00
+0.00
+
+229.18
+146.40
+191.61
+37.57
+1.20
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,565.09
+0.00
+
+3,565.09
+0.00
+1,537.08
+
+2,028.01
+2.32
+
+Fresh water applied
+50,332,500.00 gallons
+1,853.57 acre-inches
+
+45.21 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 37 of 64
+
+PDF PAGE BREAK 37
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+11 - 01/01/2002: Almond, in shell
+
+Field name: 11
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2002
+
+Nutrient budget in Ibs/acre
+
+4,000
+3,000
+2,000
+1,000
+
+Ibs/acre
+
+200 155
+153 es
+
+N
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+49 17 11 230 199
+sl 146 ome
+
+Pp K
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+60.00
+115.19
+0.00
+10.34
+14.00
+
+199.53
+152.80
+154.63
+44.90
+1.29
+
+3,598
+
+1,593.
+
+0
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+49.00
+0.00
+0.00
+0.00
+
+49.00
+16.80
+11.42
+37.58
+
+4.29
+
+MN Applied
+1 Anticipated
+ME Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+229.53
+0.00
+0.00
+0.00
+
+229.53
+146.40
+198.56
+30.97
+1.16
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,597.92
+0.00
+
+3,597.92
+0.00
+1,592.77
+
+2,005.16
+2.26
+
+Fresh water applied
+26,017,500.00 gallons
+958.14 acre-inches
+
+45.63 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 38 of 64
+
+PDF PAGE BREAK 38
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+12 - 01/01/1995: Almond, in shell
+
+Field name: 12 Crop: Almond, in shell Plant date: 01/01/1995
+Nutrient budget in Ibs/acre
+4,000 3,551 Ml Applied
+1 Anticipated
+° 3,000 MN Harvest
+6
+$ 2,000 1237
+~ 1,000
+196 159 4g 47 45 223 204 6
+0 i 146 oe
+N Pp K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 36,684,000.00 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 1,350.95 acre-inches
+Commercial fertilizer / Other 60.00 0.00 0.00 0.00 45.03 inches/acre
+Dry manure 111.67 47.50 222.51 0.00
+Process wastewater 0.00 0.00 0.00 0.00 Process wastewater applied
+Fresh water 10.20 0.00 0.00 3,551.08 0.00 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00
+0.00 acre-inches
+Total nutrients applied 195.87 47.50 222.51 3,551.08
+_ . 0.00 inches/acre
+Anticipated crop nutrient removal 152.80 16.80 146.40 0.00
+Actual crop nutrient removal 159.11 15.03 204.19 1,236.62 Total harvests for the crop
+Nutrient balance 36.77 32.47 18.32 2,314.46 4 harvests
+Applied to removed ratio 1.23 3.16 1.09 2.87
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 39 of 64
+
+PDF PAGE BREAK 39
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+13 - 01/01/2003: Almond, in shell
+
+Field name: 13
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2003
+
+Nutrient budget in Ibs/acre
+
+4,000
+3,000
+2,000
+1,000
+
+Ibs/acre
+
+194 135
+153 es
+
+N
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+Pp
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+60.00
+109.65
+0.00
+10.23
+14.00
+
+193.88
+152.80
+134.84
+59.04
+1.44
+
+1,176
+4717.7 218 | 151 of
+| 146 ee
+K
+
+3,559
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+46.64
+0.00
+0.00
+0.00
+
+46.64
+16.80
+7.17
+39.48
+6.51
+
+MN Applied
+9 Anticipated
+MN Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+218.48
+0.00
+0.00
+0.00
+
+218.48
+146.40
+151.12
+67.36
+1.45
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,558.93
+0.00
+
+3,558.93
+0.00
+1,175.83
+
+2,383.09
+3.03
+
+Fresh water applied
+77,206,500.00 gallons
+2,843.25 acre-inches
+
+45.13 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 40 of 64
+
+PDF PAGE BREAK 40
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+14&15 - 05/02/2019: Almond, in shell
+Field name: 14815 Crop: Almond, in shell
+
+Plant date: 05/02/2019
+
+Nutrient budget in Ibs/acre
+
+3,500 MN Applied
+3,000 ) Anticipated
+
+» 2800 ME Harvest
+
+5 2,000
+
+B 1,500
+
+= 1,000 ues)
+
+500 193 124 46.47 13 214 150 0 a
+0 D5 Sect 146 es
+N Pp K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre)
+
+Existing soil nutrient content 0.00 0.00 0.00 0.00
+Plowdown credit 0.00 0.00 0.00 0.00
+Commercial fertilizer / Other 60.00 0.00 0.00 0.00
+Dry manure 107.43 45.70 214.05 0.00
+Process wastewater 0.00 0.00 0.00 0.00
+Fresh water 11.55 0.00 0.00 3,235.02
+Atmospheric deposition 14.00 0.00 0.00 0.00
+Total nutrients applied 192.98 45.70 214.05 3,235.02
+Anticipated crop nutrient removal 152.80 16.80 146.40 0.00
+Actual crop nutrient removal 123.83 12.95 149.74 788.97
+Nutrient balance 69.15 32.74 64.31 2,446.06
+Applied to removed ratio 1.56 3.53 1.43 4.10
+
+Fresh water applied
+105,222,000.00 gallons
+3,874.97 acre-inches
+
+50.99 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Page 41 of 64
+
+PDF PAGE BREAK 41
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+2 - 02/01/2023: Almond, in shell
+
+Field name: 2
+
+Crop: Almond, in shell
+
+Plant date: 02/01/2023
+
+Nutrient budget in Ibs/acre
+
+500
+
+400
+
+8 300
+2 200 153 146
+a at 0 oo o |
+
+0 _
+N P K
+
+Total N (Ibs/acre)
+Existing soil nutrient content 0.00
+Plowdown credit 0.00
+Commercial fertilizer / Other 60.00
+Dry manure 0.00
+Process wastewater 0.00
+Fresh water 7.01
+Atmospheric deposition 14.00
+Total nutrients applied 81.01
+Anticipated crop nutrient removal 152.80
+Actual crop nutrient removal 0.00
+Nutrient balance 81.01
+Applied to removed ratio 0.00
+
+456
+
+0 0
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+16.80
+0.00
+0.00
+0.00
+
+MN Applied
+
+1 Anticipated
+
+MB Harvest
+
+Total K (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+146.40
+0.00
+0.00
+0.00
+
+Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+0.00
+0.00
+455.83
+0.00
+
+455.83
+0.00
+0.00
+
+455.83
+0.00
+
+Fresh water applied
+47,900,160.00 gallons
+1,764.00 acre-inches
+
+30.95 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Page 42 of 64
+
+PDF PAGE BREAK 42
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+3&4 - 11/01/2011: Almond, in shell
+
+Field name: 3&4
+
+Crop: Almond, in shell
+
+Nutrient budget in Ibs/acre
+
+1,400
+1,200
+1,000
+
+800
+
+600
+
+400 300
+
+Ibs/acre
+
+664
+
+146
+0 = |__
+
+N
+
+Existing soil nutrient content
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+
+Process wastewater
+
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+Pp K salt
+
+Total N (Ibs/acre) Total P (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+100.00 0.00
+175.52 74.66
+0.00 0.00
+10.21 0.00
+14.00 0.00
+299.73 74.66
+152.80 16.80
+253.73 24.71
+46.00 49.95
+1.18 3.02
+
+MN Applied
+1 Anticipated
+MN Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+0.00 0.00
+349.73 0.00
+0.00 0.00
+0.00 663.63
+0.00 0.00
+349.73 663.63
+146.40 0.00
+244.23 1,320.72
+105.50 -657.09
+1.43 0.50
+
+Fresh water applied
+41,597,337.00 gallons
+1,531.89 acre-inches
+
+45.06 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Plant date: 11/01/2011
+
+Page 43 of 64
+
+PDF PAGE BREAK 43
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+5 - 04/27/2019: Almond, in shell
+
+Field name: 5
+
+Crop: Almond, in shell
+
+Plant date: 04/27/2019
+
+Nutrient budget in Ibs/acre
+
+3,000
+2,500
+2,000
+1,500
+1,000
+
+500
+
+Ibs/acre
+
+225.176
+153 a
+
+N
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+60°17 18
+
+280
+
+Pp K
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+60.00
+140.50
+0.00
+10.25
+14.00
+
+224.75
+152.80
+176.08
+48.67
+1.28
+
+213
+
+4,122
+
+0
+146, om
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+59.77
+0.00
+0.00
+0.00
+
+59.77
+16.80
+18.42
+41.35
+
+3.24
+
+MN Applied
+1 Anticipated
+MN Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+279.96
+0.00
+0.00
+0.00
+
+279.96
+146.40
+212.92
+67.04
+1.31
+
+0.00
+0.00
+0.00
+0.00
+0.00
+2,870.33
+0.00
+
+2,870.33
+0.00
+1,121.84
+
+1,748.49
+2.56
+
+Fresh water applied
+23,340,000.00 gallons
+859.53 acre-inches
+
+45.24 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 44 of 64
+
+PDF PAGE BREAK 44
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6A - 01/01/2017: Almond, in shell
+
+Plant date: 01/01/2017
+
+Field name: 6A Crop: Almond, in shell
+Nutrient budget in Ibs/acre
+4,000 3,577 Applied
+1 Anticipated
+° 3,000 MN Harvest
+6
+$ 2,000 4287
+1,000 293 | 239° 79 17 34 336-347 $
+0 153... mm IAG...
+N Pp K salt
+Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) | Fresh water applied
+Existing soil nutrient content 0.00 0.00 0.00 0.00 67,749,000.00 gallons
+Plowdown credit 0.00 0.00 0.00 0.00 2,494.97 acre-inches
+Commercial fertilizer / Other 100.00 0.00 0.00 0.00 45.36 inches/acre
+Dry manure 168.76 71.79 336.26 0.00
+Process wastewater 0.00 0.00 0.00 0.00 Process wastewater applied
+Fresh water 10.28 0.00 0.00 3,577.22 0.00 gallons
+Atmospheric deposition 14.00 0.00 0.00 0.00
+0.00 acre-inches
+Total nutrients applied 293.04 71.79 336.26 3,577.22
+_ . 0.00 inches/acre
+Anticipated crop nutrient removal 152.80 16.80 146.40 0.00
+Actual crop nutrient removal 239.46 34.07 347.36 1,256.77 Total harvests for the crop
+Nutrient balance 53.58 37.71 -11.09 2,320.45 4 harvests
+Applied to removed ratio 1.22 2.11 0.97 2.85
+
+06/17/2024 13:47:32
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 45 of 64
+
+PDF PAGE BREAK 45
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+6B - 04/25/2019: Almond, in shell
+
+Plant date: 04/25/2019
+
+Field name: 6B Crop: Almond, in shell
+Nutrient budget in Ibs/acre
+4,000 3,521 MN Applied
+1 Anticipated
+° 3,000 (Harvest
+5
+3 2,000 4,454
+~ 1,000 421
+285-225 6g 17 29 32 $
+0 153mm HG
+N Pp K salt
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+100.00
+161.06
+0.00
+10.12
+14.00
+
+285.18
+152.80
+224.73
+60.44
+1.27
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+68.51
+0.00
+0.00
+0.00
+
+68.51
+16.80
+29.46
+39.05
+
+2.33
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+320.92
+0.00
+0.00
+0.00
+
+320.92
+146.40
+420.85
+-99.93
+
+0.76
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,521.50
+0.00
+
+3,521.50
+0.00
+1,453.64
+
+2,067.86
+2.42
+
+Fresh water applied
+32,740,500.00 gallons
+1,205.72 acre-inches
+
+44.66 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 46 of 64
+
+PDF PAGE BREAK 46
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+7 - 01/01/2014: Almond, in shell
+
+Field name: 7
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2014
+
+Nutrient budget in Ibs/acre
+
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+
+500
+
+Ibs/acre
+
+289-209
+153. om
+
+N
+
+Existing soil nutrient content
+
+Plowdown credit
+
+Commercial fertilizer / Other
+
+Dry manure
+Process wastewater
+Fresh water
+
+Atmospheric deposition
+
+Total nutrients applied
+
+Anticipated crop nutrient removal
+
+Actual crop nutrient removal
+
+Nutrient balance
+
+Applied to removed ratio
+
+06/17/2024 13:47:32
+
+61-17-22 284 253
+——
+
+Pp K
+
+Total N (Ibs/acre)
+
+0.00
+0.00
+100.00
+142.29
+0.00
+32.28
+14.00
+
+288.57
+152.80
+208.51
+80.06
+1.38
+
+1,231
+
+of
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+60.53
+0.00
+0.00
+0.00
+
+60.53
+16.80
+21.60
+
+38.93
+2.80
+
+MN Applied
+1 Anticipated
+ME Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+283.52
+0.00
+0.00
+0.00
+
+283.52
+146.40
+253.19
+30.34
+1.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,487.47
+0.00
+
+3,487.47
+0.00
+1,230.57
+
+2,256.90
+2.83
+
+Fresh water applied
+34,163,280.00 gallons
+1,258.12 acre-inches
+
+46.60 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 47 of 64
+
+PDF PAGE BREAK 47
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+8 - 01/01/2019: Almond, in shell
+
+Field name: 8
+
+Crop: Almond, in shell
+
+Plant date: 01/01/2019
+
+Nutrient budget in Ibs/acre
+
+3,500
+3,000
+2,500
+o
+5 2,000
+@ 1,500
+2
+~ 1,000 aya
+500 192 57-47 4g 266
+0 en a
+N Pp K
+Total N (Ibs/acre)
+Existing soil nutrient content 0.00
+Plowdown credit 0.00
+Commercial fertilizer / Other 100.00
+Dry manure 133.35
+Process wastewater 0.00
+Fresh water 30.30
+Atmospheric deposition 14.00
+Total nutrients applied 277.64
+Anticipated crop nutrient removal 152.80
+Actual crop nutrient removal 192.09
+Nutrient balance 85.55
+Applied to removed ratio 1.45
+
+06/17/2024 13:47:32
+
+188
+
+776
+
+of
+
+salt
+
+Total P (Ibs/acre)
+
+0.00
+0.00
+0.00
+56.72
+0.00
+0.00
+0.00
+
+56.72
+16.80
+17.67
+39.05
+
+3.21
+
+MN Applied
+1 Anticipated
+ME Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00 0.00
+0.00 0.00
+0.00 0.00
+265.70 0.00
+0.00 0.00
+0.00 3,320.59
+0.00 0.00
+265.70 3,320.59
+146.40 0.00
+188.10 776.00
+77.60 2,544.59
+1.41 4.28
+
+Fresh water applied
+13,238,400.00 gallons
+487.53 acre-inches
+
+44.32 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 48 of 64
+
+PDF PAGE BREAK 48
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+9 - 04/13/2018: Almond, in shell
+
+Field name: 9
+
+Crop: Almond, in shell
+
+Plant date: 04/13/2018
+
+Nutrient budget in Ibs/acre
+
+4,000 3,577
+3,000
+2
+s 2,000 1,420
+=
+1,000 a
+290° 23394 47 49 264 t
+0 | 146 oo
+N Pp K salt
+Total N (Ibs/acre) Total P (Ibs/acre)
+Existing soil nutrient content 0.00 0.00
+Plowdown credit 0.00 0.00
+Commercial fertilizer / Other 100.00 0.00
+Dry manure 166.09 70.65
+Process wastewater 0.00 0.00
+Fresh water 10.28 0.00
+Atmospheric deposition 14.00 0.00
+Total nutrients applied 290.37 70.65
+Anticipated crop nutrient removal 152.80 16.80
+Actual crop nutrient removal 233.10 19.49
+Nutrient balance 57.27 51.16
+Applied to removed ratio 1.25 3.62
+
+06/17/2024 13:47:32
+
+MN Applied
+1 Anticipated
+MN Harvest
+
+Total K (Ibs/acre) Total salt (Ibs/acre)
+
+0.00
+0.00
+0.00
+330.94
+0.00
+0.00
+0.00
+
+330.94
+146.40
+264.28
+66.65
+1.25
+
+0.00
+0.00
+0.00
+0.00
+0.00
+3,576.97
+0.00
+
+3,576.97
+0.00
+1,420.49
+
+2,156.48
+2.52
+
+Fresh water applied
+43,110,000.00 gallons
+1,587.59 acre-inches
+
+45.36 inches/acre
+
+Process wastewater applied
+0.00 gallons
+0.00 acre-inches
+
+0.00 inches/acre
+
+Total harvests for the crop
+
+4 harvests
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 49 of 64
+
+PDF PAGE BREAK 49
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+NUTRIENT ANALYSES
+
+A. MANURE ANALYSES
+
+CVF Compost #1
+
+Sample and source description: CVF Compost #1
+
+Sample date: 07/28/2022 __ Material type: Compost Source of analysis: Lab analysis Method of reporting: Dry-weight
+Moisture: 26.8 %
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 13,400.00 5,700.00 26,700.00
+DL 100.00 100.00 100.00
+
+Corral Solids DM1
+
+Sample and source description: Corral Solids DM1
+
+Sample date: 04/17/2023 Material type: Corral solids Source of analysis: Lab analysis Method of reporting: Dry-weight
+Moisture: 25.7 %
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 11,300.00 4,100.00 24,500.00
+DL 100.00 100.00 100.00
+
+Drying Solids DM2
+Sample and source description: Drying Solids DM2
+
+Sample date: 04/17/2023 Material type: Separator solids Source of analysis: Lab analysis Method of reporting: Dry-weight
+Moisture: 44.7 %
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 13,900.00 6,800.00 29,800.00 15,800.00 8,100.00 4,400.00 4,400.00 300.00 66.20
+DL 100.00 100.00 100.00 100.00 100.00 100.00 100.00 100.00 0.01
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 50 of 64
+
+PDF PAGE BREAK 50
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+Corral Solids
+
+Sample and source description: Corral Solids
+
+Sample date: 10/10/2023 Material type: Corral solids Source of analysis: Lab analysis Method of reporting: As-is
+Moisture: 27.8 %
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 14,400.00 5,100.00 34,000.00
+DL 100.00 100.00 100.00
+
+Separated Solids
+
+Sample and source description: Separated Solids
+
+Sample date: 10/10/2023 Material type: Separator solids Source of analysis: Lab analysis Method of reporting: Dry-weight
+Moisture: 66.9 %
+Total N Total P Total K Calcium Magnesium Sodium Sulfur Chloride Total salt TFS
+(mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (%)
+Value 17,900.00 5,900.00 37,800.00
+DL 100.00 100.00 100.00
+
+B. PROCESS WASTEWATER ANALYSES
+
+WW 1st Q SW Corner WWS #1
+Sample and source description: WW 1st Q SW Corner WWS #1
+
+Sample date: 02/13/2023 _ Material type: Process wastewater Source of analysis: Lab analysis pH: 7.90
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK| Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 174.00 123.00 0.00 1.50 82.90 997.00 164.00 66.90 187.00 1,940.00 0.00 5.40 721.00 6,380.00 4,700
+DL 1.00 0.50 0.50 0.10 0.10 0.50 0.10 0.10 1.00 5.00 1.00 0.50 0.20 10.00 10
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 51 of 64
+
+PDF PAGE BREAK 51
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+WW 2nd Q SW Corner WWS #1
+Sample and source description: WW 2nd Q SW Corner WWS #1
+
+Sample date: 06/05/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.50
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK = Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 455.00 283.00 0.00 1.00 176.00 1,800.00 11,000.00 7,800
+DL 1.00 0.50 0.50 0.10 0.10 0.50 10.00 10
+WW 3rd Q- SW Corner WWS #1
+Sample and source description: WW 3rd Q- SW Corner WWS #1
+Sample date: 09/05/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.70
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK = Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 1,070.00 349.00 0.00 1.30 710.00 2,040.00 10,300.00 5,950
+DL 1.00 0.50 0.50 0.10 0.10 0.50 10.00 10
+Q4- SW Corner WWS #1
+Sample and source description: Q4- SW Corner WWS #1
+Sample date: 10/25/2023 Material type: Process wastewater Source of analysis: Lab analysis pH: 7.30
+Kjeldahl-N NH4-N NH3-N _ Nitrate-N Total P TotalK = Calcium Magnes. Sodium Bicarb. Carb. Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) | (umhos/cm) (mg/L)
+Value 128.00 95.00 0.00 0.10 48.80 248.00 2,290.00 1,570
+DL 1.00 0.50 0.50 0.10 0.10 0.50 10.00 10
+
+C. FRESH WATER ANALYSES
+
+14 Reservoir
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32
+
+Page 52 of 64
+
+PDF PAGE BREAK 52
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+14 Reservoir
+
+Resevoir
+
+Sample description: Resevoir
+Sample date: 07/25/2023
+
+Source of analysis: Lab analysis
+
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 1.00 0.40 426.00 280
+DL 1.00 0.10 10.00 10
+IW2
+Ag Supply Well
+Sample description: Ag Supply Well
+Sample date: 07/25/2023 Source of analysis: Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 19.30 19.30 839.00 432
+DL 1.00 0.10 10.00 10
+IW 5
+Ag Supply Well
+Sample description: Ag Supply Well
+Sample date: 07/25/2023 Source of analysis: Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 1.00 0.60 547.00 348
+DL 1.00 0.10 10.00 10
+
+06/17/2024 13:47:32
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 53 of 64
+
+PDF PAGE BREAK 53
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+ws
+
+Ag Supply Well
+Sample description: Ag Supply Well
+Sample date: 07/25/2023
+
+Source of analysis: Lab analysis
+
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 1.30 1.30 447.00 295
+DL 1.00 0.10 10.00 10
+wg
+Ag Supply Well
+Sample description: Ag Supply Well
+Sample date: 07/25/2023 Source of analysis: Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 5.18 5.00 512.00 312
+DL 1.00 0.10 10.00 10
+MID Canal
+Surface Water
+Sample description: Surface Water
+Sample date: 07/25/2023 Source of analysis: Lab analysis
+Total N NH4-N Nitrate-N Calcium Magnesium Sodium Bicarbonate Carbonate Sulfate Chloride EC TDS
+(mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (mg/L) (umhos/cm) (mg/L)
+Value 1.00 0.10 36.60 65
+DL 1.00 0.10 10.00 10
+
+D. SOIL ANALYSES
+
+06/17/2024 13:47:32
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+Page 54 of 64
+
+PDF PAGE BREAK 54
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+No soil analyses entered.
+
+E. PLANT TISSUE ANALYSES
+10 - 01/01/2001: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+
+Sample date: 11/20/2023 Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.4%
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 17,600.00 1,300.00 22,600.00 20.01
+DL 100.00 100.00 100.00 0.01
+11 - 01/01/2002: Almond, in shell
+Almonds
+Sample and source description: Almonds
+Sample date: 11/20/2023 Source of analysis: Lab analysis Method of reporting: As-is
+Moisture: 9.4 %
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 17,600.00 1,300.00 22,600.00 20.01
+DL 100.00 100.00 100.00 0.01
+
+12 - 01/01/1995: Almond, in shell
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32
+
+Page 55 of 64
+
+PDF PAGE BREAK 55
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+12 - 01/01/1995: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.8 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 18,000.00 1,700.00 23,100.00 15.51
+DL 100.00 100.00 100.00 0.01
+
+13 - 01/01/2003: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.7 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 20,700.00 1,100.00 23,200.00 19.99
+DL 100.00 100.00 100.00 0.01
+
+14&15 - 05/02/2019: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+
+Sample date: 11/20/2023 Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.2 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 23,900.00 2,500.00 28,900.00 16.77
+DL 100.00 100.00 100.00 0.01
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32
+
+Page 56 of 64
+
+PDF PAGE BREAK 56
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+3&4 - 11/01/2011: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.4 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 26,700.00 2,600.00 25,700.00 15.34
+DL 100.00 100.00 100.00 0.01
+
+5 - 04/27/2019: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.2 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 23,900.00 2,500.00 28,900.00 16.77
+DL 100.00 100.00 100.00 0.01
+
+6A - 01/01/2017: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+
+Sample date: 11/20/2023 Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.3 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 25,300.00 3,600.00 36,700.00 14.64
+DL 100.00 100.00 100.00 0.01
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32
+
+Page 57 of 64
+
+PDF PAGE BREAK 57
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+6B - 04/25/2019: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.2 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 26,700.00 3,500.00 50,000.00 19.02
+DL 100.00 100.00 100.00 0.01
+
+7 - 01/01/2014: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 8.6 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 28,000.00 2,900.00 34,000.00 18.08
+DL 100.00 100.00 100.00 0.01
+
+8 - 01/01/2019: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+
+Sample date: 11/20/2023 Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 9.3 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 33,700.00 3,100.00 33,000.00 15.01
+DL 100.00 100.00 100.00 0.01
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32
+
+Page 58 of 64
+
+PDF PAGE BREAK 58
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+9 - 04/13/2018: Almond, in shell
+
+Almonds
+
+Sample and source description: Almonds
+Sample date: 11/20/2023
+
+Source of analysis: Lab analysis
+
+Method of reporting: As-is
+Moisture: 8.3 %
+
+Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg) TFS (%)
+Value 29,900.00 2,500.00 33,900.00 19.87
+DL 100.00 100.00 100.00 0.01
+
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+
+No subsurface (tile) drainage analyses entered.
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32
+
+Page 59 of 64
+
+PDF PAGE BREAK 59
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+
+Total N (Ibs) Total P (Ibs) Total K (Ibs) Total salt (Ibs)
+Existing soil nutrient content 0.00 0.00 0.00 0.00
+Plowdown credit 0.00 0.00 0.00 0.00
+Commercial fertilizer / Other 42,060.00 0.00 0.00 0.00
+Dry manure 58,946.96 25,074.46 117,454.03 0.00
+Process wastewater 0.00 0.00 0.00 0.00
+Fresh water 6,357.45 0.00 0.00 1,484,684.87
+Atmospheric deposition 8,050.00 0.00 0.00 0.00
+Total nutrients applied 115,414.42 25,074.46 117,454.03 1,484,684.87
+Anticipated crop nutrient removal 87,860.00 9,660.00 84,180.00 0.00
+Actual crop nutrient removal 79,156.25 7,897.46 100,024.37 533,675.01
+Nutrient balance 36,258.17 17,177.00 17,429.66 951,009.86
+Applied to removed ratio 1.46 3.18 1.17 2.78
+
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+
+1,600,000 1,484,685 (MN Applied
+
+Anticipated
+1,400,000 (MM Harvested
+
+1,200,000
+1,000,000
+800,000
+600,000 533,675
+400,000
+200,000
+
+0
+
+Ibs
+
+salt
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 60 of 64
+
+PDF PAGE BREAK 60
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+
+Pounds of nitrogen applied | Pounds of phosphorus applied |
+Existing soil nutrient content —0 Existing soil nutrient content —0
+Plowdown credit —0 Plowdown credit —0
+
+Commercial fertilizer / Other H+ 42,060 Commercial fertilizer / Other 0
+Drymanure ss S~=«S 8 8T Drymanure 88.074
+
+Process wastewater —0
+Process wastewater —0
+Fresh water Se 6,357
+
+Atmospheric deposition BS 8,050
+
+Fresh water —0
+Atmospheric deposition —0
+
+0 10,000 20,000 30,000
+0 20,000 40,000 60,000 5,000 15,000 25,000
+Ibs Ibs
+Pounds of potassium applied Pounds of salt applied
+Existing soil nutrient content —0 Existing soil nutrient content -9
+Plowdown credit —0 _ Fissrcssm areshit ag
+. _ Commercial fertilizer / Other —0
+Commercial fertilizer / Other —0
+Dry manure —0
+Drymanure 197,454 Process wastewater 0
+Process wastewater 0 Fresh water 9) 4)484,685"
+Fresh water —0 Atmospheric deposition —0
+Atmospheric deposition
+o i=] o l=} l=} i=] l=} i=] o
+So So So So So So So So
+eco e¢ € S&S &€& 8& &
+i=} o l=} l=} i=} l=} i=} o
+0 40,000 80,000 120,000 i = = = s & = 3
+20,000 60,000 100,000 — 7 — —
+Ibs Ibs
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 61 of 64
+
+PDF PAGE BREAK 61
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+EXCEPTION REPORTING
+
+A. MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise)
+when not in accordance with the facility's Nutrient Management Plan.
+
+No manure or process wastewater discharges occurred during the reporting period.
+
+B. STORM WATER DISCHARGES
+
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient
+Management Plan.
+
+No stormwater discharges occurred during the reporting period.
+
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the
+facility's Nutrient Management Plan.
+
+No land application area to surface water discharges occurred during the reporting period.
+
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+Was the facility's NMP updated in the reporting period? No
+
+Was the facility's NMP developed by a certified nutrient management planner Yes
+(specialist) as specified in Attachment C of the General Order?
+
+Was the facility's NMP approved by a certified nutrient management planner Yes
+(specialist) as specified in Attachment C of the General Order?
+
+B. EXPORT AGREEMENT STATEMENT
+
+Are there any written agreements with third parties to receive manure or process No
+wastewater that are new or were revised within the reporting period?
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 62 of 64
+
+PDF PAGE BREAK 62
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+ADDITIONAL NOTES
+
+A. NOTES
+
+Precipitation utilized during winter months to meet forage freshwater requirements.
+
+Irrigation wells #3, 4, 6, & 7 were non-operational in 2023. All wells will be sampled once the wells become operational and/or used during the cropping season.
+Heavy rains during the winter season allowed for a greater amount of surface water allocation to grow crops.
+
+Fields 13 Almonds & 14&15 Almonds had lower than anticipated removal rates due to lower than anticipated %N or low tonnage. This resulted in a field ratio
+that slightly exceeded the target limit.
+
+Fields 3&4 Corn, 6A Corn, 6B Corn, 9 Corn had higher than anticipated removal rates. This was due to higher than expected %N and/or yield. The %N
+removed, which is based on analysis derived through a certified laboratory, exceeded the anticipated values for this crop. Appropriate management practices
+resulted in decent yields and/or higher than expected nutrient removal rates.
+
+Nutrients applied to permanent crops, such as trees and vines, are used for tree growth, vine development and fruit production (grapes, nuts, etc.). Comparing
+nutrient applications to nutrient content of harvested material for permanent crops is not appropriate and will result in high field ratios. A more accurate reporting
+methodology will need to be developed in order to account for nutrients retained in the permanent crops. All applications will continue to be monitored closely to
+ensure that over application of nutrients does not occur.
+
+Fields 1 & 2 Almonds received no wastewater or solid manure in 2023. All nutrients applied to Almond fields were contributed through freshwater applications
+and commercial fertilizer only.
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 63 of 64
+
+PDF PAGE BREAK 63
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+
+CERTIFICATION
+
+A. OWNER AND/OR OPERATOR CERTIFICATION
+
+| certify under penalty of law that | have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry
+of those individuals immediately responsible for obtaining the information, | believe that the information is true, accurate, and complete. | am aware that there are significant
+
+penalties for submitting false information, including the possibility of fine and imprisonment.
+DocuSigned by:
+
+larry Pictrowstei
+
+SIGNATURE OF OWNER OF FACILITY SIGNATURE OF OPERATOR OF FACILITY
+Larry Pietrowski SAME AS OWNER
+
+PRINT OR TYPE NAME PRINT OR TYPE NAME
+
+6/19/2024
+
+DATE DATE
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+06/17/2024 13:47:32 Page 64 of 64
+
+PDF PAGE BREAK 64
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2023 to 12/31/2023.
+ATTACHMENTS
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Costa View Dairy North | 9499 Avenue 20 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
+
+06/17/2024 13:47:32 Page 1 of 1
+
+PDF PAGE BREAK 65
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Larry Pietrowski
+
+Name of Dairy Facility: Costa View Dairy North
+
+Facility Address:
+
+9499 Avenue 20 Chowchilla Madera 93610
+
+Number and Street City County Zip Code
+
+Contact Person Name and Phone Number: Larry Pietrowski (559) 706-2051
+Name Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Kenneth R Stone Spreading Services
+
+Address of Hauling Company/Person:
+
+5175 Shaw AVE Winton CA 95388
+
+Number and Street City State Zip Code
+
+Contact Person: Paul Stone (209) 756-1491
+Name Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): Composting Facility
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Kenneth R Stone Spreading Services (209) 756-1491
+Name Phone Number
+5175 Shaw AVE Winton CA 95388
+
+Address City State Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+5175 Shaw AVE Winton 95388
+Address City Zip Code
+
+Merced
+Street and nearest cross street (if no address) County
+Assessor's Parcel Number Assessor's Parcel Number County
+
+Last date hauled: 08/03/2023
+
+PDF PAGE BREAK 66
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure: 4,384.00 tons
+Manure Solids Content: 74.3 %
+
+Method used to determine amount of manure:
+
+Number of loads multiplied by load weight.
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and imprisonment for knowing violations.
+
+—DocuSigned by:
+
+Pictrowstet 6/19/2024
+ye se
+Onefalarsianature Date
+Poul. Stours 6/19/2024
+
+\_
+Hauler Signature Date
+
+PDF PAGE BREAK 67
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/02/2023 15:04
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+
+Samples in this Report
+
+Lab ID Sample Matrix Sampled By Crop Date Sampled
+
+23G1837-01 CVDN IW #2 Ag Water F&RAg Irrigation 07/25/2023 14:00
+Wells/Reservoir/Canal
+
+23G1837-02 CVDN IW #5 Ag Water F&RAg Irrigation 07/25/2023 13:53
+Wells/Reservoir/Canal
+
+23G1837-03 CVDN IW #8 Ag Water F&RAg Irrigation 07/25/2023 14:07
+Wells/Reservoir/Canal
+
+23G1837-04 CVDN IW #9 Ag Water F&RAg Irrigation 07/25/2023 13:44
+Wells/Reservoir/Canal
+
+23G1837-05 CVDN Mid Canal Ag Water F&RAg Irrigation 07/25/2023 13:50
+Wells/Reservoir/Canal
+
+23G1837-06 CVDN 14 Reservoir Ag Water F&RAg Irrigation 07/25/2023 14:04
+
+Wells/Reservoir/Canal
+
+Default Cooler Temperature on Receipt °C: -1.3
+Containers Intact
+COC/Labels Agree
+Preservation Confirmed
+Received On Ice
+
+Notes and Defini
+
+Item Definition
+
+H Hold Time Exceeded
+
+MCL Drinking Water Maximum Contaminant Level
+
+ND Analyte NOT DETECTED at or above the reporting limit.
+NES Not Enough Sample
+
+* Not Taken
+
+RPD Relative Percent Difference
+
+%REC Percent Recovery
+
+Source Sample that was matrix spiked or duplicated.
+
+Lox M4 ricllanel
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+Page 1 of 15
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+PDF PAGE BREAK 68
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/02/2023 15:04
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+
+Sample Results
+
+Sample: CVDN IW #2 Sampled: 7/25/2023 14:00
+23G1837-01 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.84 = mmbhos/cm 0.01 1 07/28/23 14:10 SM 2510B BEGO958
+Electrical Conductivity umhos 839 = umhos/cm 10.0 1 07/28/23 14:10 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N 19.3 mg/L 0.1 1 10 07/25/23 21:54 EPA 300.0 BEG0910
+pH 7.6 units 1.0 1 07/28/23 14:10 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 432 mg/L 10.0 1 07/31/23 15:24 SM 2540 C BEG0950
+Temperature 25.0 °C 0.0 1 07/28/23 14:10 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:45 SM 4500-NH3 C BEG1108
+Total Nitrogen 19.3 mg/L 1.00 1 08/01/23 08:45 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+Page 2 of 15
+
+PDF PAGE BREAK 69
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+(Continued)
+Sample: CVDN IW #5 Sampled: 7/25/2023 13:53
+23G1837-02 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.55 =mmbhos/cm 0.01 1 07/28/23 14:11 SM 2510B BEGO958
+Electrical Conductivity umhos 547 ~~ umhos/cm 10.0 1 07/28/23 14:11 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N 0.6 mg/L 0.1 1 10 07/25/23 22:14 EPA 300.0 BEG0910
+pH 7.8 units 1.0 1 07/28/23 14:11 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 348 mg/L 10.0 1 07/28/23 17:41 SM 2540 C BEGO951
+Temperature 25.0 °C 0.0 1 07/28/23 14:11 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:47 SM 4500-NH3 C BEG1108
+Total Nitrogen ND mg/L 1.00 1 08/01/23 08:47 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 3 of 15
+
+PDF PAGE BREAK 70
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+(Continued)
+Sample: CVDN IW #8 Sampled: 7/25/2023 14:07
+23G1837-03 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.45 = mmhos/cm 0.01 1 07/28/23 14:13 SM 2510B BEGO958
+Electrical Conductivity umhos 447 ~~ umhos/cm 10.0 1 07/28/23 14:13 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N 1.3 mg/L 0.1 1 10 07/25/23 22:34 EPA 300.0 BEG0910
+pH 77 units 1.0 1 07/28/23 14:13 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 295 mg/L 10.0 1 07/28/23 17:41 SM 2540 C BEGO951
+Temperature 25.0 °C 0.0 1 07/28/23 14:13 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:48 SM 4500-NH3 C BEG1108
+Total Nitrogen 1.30 mg/L 1.00 1 08/01/23 08:48 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 4 of 15
+
+PDF PAGE BREAK 71
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+(Continued)
+Sample: CVDN IW #9 Sampled: 7/25/2023 13:44
+23G1837-04 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.51 =mmhos/cm 0.01 1 07/28/23 14:14 SM 2510B BEGO958
+Electrical Conductivity umhos 512 ~~ umhos/cm 10.0 1 07/28/23 14:14 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N 5.0 mg/L 0.1 1 10 07/26/23 01:17 EPA 300.0 BEG0910
+pH 7.6 units 1.0 1 07/28/23 14:14 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 312 mg/L 10.0 1 07/28/23 17:41 SM 2540 C BEGO951
+Temperature 25.0 °C 0.0 1 07/28/23 14:14 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:49 SM 4500-NH3 C BEG1108
+Total Nitrogen 5.18 mg/L 1.00 1 08/01/23 08:49 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 5 of 15
+
+PDF PAGE BREAK 72
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+(Continued)
+Sample: CVDN Mid Canal Sampled: 7/25/2023 13:50
+23G1837-05 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.04 mmbhos/cm 0.01 1 07/28/23 14:16 SM 2510B BEGO958
+Electrical Conductivity umhos 36.6 = umhos/cm 10.0 1 07/28/23 14:16 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N ND mg/L 0.1 1 10 07/26/23 01:37 EPA 300.0 BEG0910
+pH 7.8 units 1.0 1 07/28/23 14:16 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 65.0 mg/L 10.0 1 07/28/23 17:41 SM 2540 C BEGO951
+Temperature 25.0 °C 0.0 1 07/28/23 14:16 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:51 SM 4500-NH3 C BEG1108
+Total Nitrogen ND mg/L 1.00 1 08/01/23 08:51 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 6 of 15
+
+PDF PAGE BREAK 73
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+(Continued)
+Sample: CVDN 14 Reservoir Sampled: 7/25/2023 14:04
+23G1837-06 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.43 = mmhos/cm 0.01 1 07/28/23 14:17 SM 2510B BEGO958
+Electrical Conductivity umhos 426 = umhos/cm 10.0 1 07/28/23 14:17 SM 2510B BEGO958
+Nitrate Nitrogen as NO3N 0.4 mg/L 0.1 1 10 07/26/23 01:57 EPA 300.0 BEG0910
+pH 8.8 units 1.0 1 07/28/23 14:17 SM 4500-H+ H BEG0958
+Total Filterable Solids (TDS) 280 mg/L 10.0 1 07/28/23 17:41 SM 2540 C BEGO951
+Temperature 25.0 °C 0.0 1 07/28/23 14:17 SM 2510B BEGO958
+Kjeldahl Nitrogen (TKN), Total ND mg/L 1.00 1 08/01/23 08:52 SM 4500-NH3 C BEG1108
+Total Nitrogen ND mg/L 1.00 1 08/01/23 08:52 SM 4500-NH3 C BEG1108
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 7 of 15
+
+PDF PAGE BREAK 74
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/02/2023 15:04
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+
+Quality Control
+
+Reporting Spike Source %REC
+
+Result Qual Limit Units Level Result %REC Limits
+
+Batch: BEGO910
+
+Blank (BEGO910-BLK1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+Blank (BEGO910-BLK2) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+Blank (BEGO910-BLK3) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+LCS (BEG0910-BS1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 5.2 0.1 mg/L 5.000 104 90-110
+LCS (BEGO910-BS2) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 5.2 0.1 mg/L 5.000 104 90-110
+Duplicate (BEGO910-DUP1) Source: 23G1827-02 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 2.1 0.1 mg/L 21 0.517 10
+Duplicate (BEG0910-DUP2) Source: 23G1843-03 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 0.4 0.1 mg/L 0.4 0.911 10
+Matrix Spike (BEGO910-MS1) Source: 23G1827-02 Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 7.4 0.1 mg/L 5.000 21 106 90-110
+Matrix Spike (BEGO910-MS2) Source: 23G1843-03 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 5.7 0.1 mg/L 5.000 0.4 105 90-110
+Reference (BEGO910-SRM1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 10.2 mg/L 10.00 102 90-110
+Reference (BEGO910-SRM2) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 10.3 mg/L 10.00 103 90-110
+Reference (BEGO910-SRM3) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 10.3 mg/L 10.00 103 90-110
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 8 of 15
+
+PDF PAGE BREAK 75
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+Batch: BEGO950
+
+INC
+
+Account# 00-0016563
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Quality Control
+(Continued)
+
+Reporting Spike Source
+
+Result Qual Limit Units Level Result
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+%REC
+%REC Limits
+
+Blank (BEGO950-BLK1) Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) ND 10.0 mg/L
+
+LCS (BEGO950-BS1) Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) 13.8 10.0 mg/L 2000 0.688 0-200
+
+Duplicate (BEGO950-DUP1) Source: 23G1827-06 Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) 400 10.0 mg/L 400 0.00 10
+Duplicate (BEGO950-DUP2) Source: 23G1831-09 Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) 287 10.0 mg/L 307 6.74 10
+Reference (BEGO950-SRM1) Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) 323 mg/L 325.0 99.5 90-110
+
+Reference (BEGO950-SRM2) Prepared: 7/25/2023 Analyzed: 7/31/2023
+
+Total Filterable Solids (TDS) 510 mg/L 495.0 103 90-110
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+Page 9 of 15
+
+PDF PAGE BREAK 76
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/02/2023 15:04
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+Quality Control
+(Continued)
+
+Reporting Spike Source %REC
+
+Result Qual Limit Units Level Result %REC Limits
+
+Batch: BEGO951
+
+Blank (BEGO951-BLK1) Prepared: 7/25/2023 Analyzed: 7/28/2023
+
+Total Filterable Solids (TDS) ND 10.0 mg/L
+
+Duplicate (BEGO951-DUP1) Source: 23G1849-01 Prepared: 7/25/2023 Analyzed: 7/28/2023
+
+Total Filterable Solids (TDS) 6900 10.0 mg/L 6700 2.94 10
+Reference (BEGO951-SRM1) Prepared: 7/25/2023 Analyzed: 7/28/2023
+
+Total Filterable Solids (TDS) 333 mg/L 325.0 103 90-110
+
+Reference (BEGO951-SRM2) Prepared: 7/25/2023 Analyzed: 7/28/2023
+
+Total Filterable Solids (TDS) 503 mg/L 495.0 102 90-110
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 10 of 15
+
+PDF PAGE BREAK 77
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+Batch: BEGO958
+Blank (BEGO958-BLK1)
+
+Result Qual
+
+INC
+
+Account# 00-0016563
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Quality Control
+(Continued)
+
+Reporting Spike Source
+Limit Units Level Result %REC
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+%REC
+Limits
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+Electrical Conductivity ND 0.01 mmhos/cm
+
+pH 5.4 1.0 units
+
+Temperature 25.0 0.0 °C
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Blank (BEGO958-BLK2) Prepared: 7/26/2023 Analyzed: 7/28/2023
+Electrical Conductivity ND 0.01 mmhos/cm
+
+pH 7.2 1.0 units
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Temperature 25.0 0.0 °C
+
+Blank (BEGO958-BLK3) Prepared: 7/26/2023 Analyzed: 7/28/2023
+Electrical Conductivity ND 0.01 mmhos/cm
+
+pH 7.2 1.0 units
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Temperature 25.0 0.0 °C
+
+Duplicate (BEGO958-DUP1)
+
+Source: 23G1840-02
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1.09 0.01 mmhos/cm 1.10 0.630 10
+pH 7.5 1.0 units 75 0.266 10
+Electrical Conductivity umhos 1090 10.0 umhos/cm 1100 0.630 10
+Duplicate (BEGO958-DUP2) Source: 23G1852-01 Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 2.40 0.01 mmhos/cm 2.38 0.766 10
+pH 7.5 1.0 units 74 0.268 10
+Electrical Conductivity umhos 2400 10.0 umhos/cm 2380 0.766 10
+Reference (BEG0958-SRM1) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 587 umhos/cm 538.0 109 90-110
+
+Reference (BEGO958-SRM2) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+pH 5.8 units 5.820 100 = 28178-101.7:
+
+Reference (BEG0958-SRM3) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1090 umhos/cm 1000 109 90-110
+
+Reference (BEGO958-SRM4) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1100 umhos/cm 1000 110 90-110
+
+Reference (BEGO958-SRM5) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1100 umhos/cm 1000 110 90-110
+
+Reference (BEGO958-SRM6)
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+Page 11 of 15
+
+PDF PAGE BREAK 78
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Received: 07/25/2023 15:40
+
+Costa View Dairy North Account# 00-0016563
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/02/2023 15:04
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+Quality Control
+(Continued)
+
+Reporting Spike Source %REC
+
+Result Qual Limit Units Level Result %REC Limits
+
+Batch: BEGO958 (Continued)
+
+Reference (BEGO958-SRM6) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+Reference (BEG0958-SRM7) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+Reference (BEGO958-SRM8) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 12 of 15
+
+PDF PAGE BREAK 79
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+Batch: BEG1108
+
+INC
+
+Account# 00-0016563
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Quality Control
+(Continued)
+
+Reporting Spike Source
+
+Result Qual Limit Units Level Result
+
+Received: 07/25/2023 15:40
+Reported: 08/02/2023 15:04
+
+%REC
+%REC Limits
+
+Blank (BEG1108-BLK1) Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total ND 1.00 mg/L
+
+Total Nitrogen ND 1.00 mg/L
+
+Blank (BEG1108-BLK2) Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total ND 1.00 mg/L
+
+Total Nitrogen ND 1.00 mg/L
+
+LCS (BEG1108-BS1) Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total 5.72 1.00 mg/L 5.709 100 90-110
+
+LCS (BEG1108-BS2) Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total 5.84 1.00 mg/L 5.709 102 90-110
+
+Duplicate (BEG1108-DUP1) Source: 23G1831-02 Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total ND 1.40 mg/L ND 10
+Duplicate (BEG1108-DUP2) Source: 23G1837-01 Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total ND 1.40 mg/L ND 10
+Matrix Spike (BEG1108-MS1) Source: 23G1831-02 Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total 8.46 1.40 mg/L 7.992 ND 106 90-110
+
+Matrix Spike (BEG1108-MS2) Source: 23G1837-01 Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total 7.07 1.40 mg/L 7.992 ND 88.5 90-110
+
+Reference (BEG1108-SRM1) Prepared: 7/28/2023 Analyzed: 8/1/2023
+
+Kjeldahl Nitrogen (TKN), Total 23.9 mg/L 23.80 100 90-110
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+Page 13 of 15
+
+PDF PAGE BREAK 80
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+WOONONA DELLAVALLE LABORATORY, INC.
+
+07/25/23 15:40 23G1837 1910 W. McKinley Avenue, Suite 110 ¢ Fresno, CA 93728
+.dellavallelab.com 559 233-6129 - 800 228-9896 - Fax 559 268-8174
+
+‘y \d Lor | 08 No. Samples: No of Bottles: a»
+P, ise Order No Acct # Cons #
+
+Bill To:
+
+Water e: [ ] Drinking Water [ ] Wastewater
+ResultsNeedBy [Ug Water [ ] Groundwater [ ] Monitoring Well
+Name: Costa View Dairy North Other:
+Address: 16800 Road 15 nalysis and Bo! ‘equired: (PI If Analysis)
+City: Madera State: CA Zip: 93637 (_) DWW1: EC, NO,-N
+Telephone: Fax: (1-1 Liter Plastic, Unpreserved) White Per Sample
+Cell/Email: ginam.costaviewfarms@gmail.com (_) DWW2: DWW1 Plus SO,, CO3, HCOs, Cl, Ca, Mg, Na, TDS
+COPY TO: ariordan@fragservices.com 1-1 Liter Plastic, Unpreserved) White _ Per Sample
+
+( W1: EC, NO,-N, TKN, TN, TDS
+REQUESTED BY: Larry Pietrowski (1-1 Liter Plastic, Unpreserved) White _ Per Sample
+PROJECT: (_) DPW1: EC, NO,-N, NH,-N, TKN, TDS, TP, TK
+
+CROP: 1A Garton wells Thesinvon feanal 1-1 Liter Plastic, Unpreserved) White _Per Sample
+
+(_) DPW2: DPW1 Plus Ca, Mg, Na, HCO, CO3, SO,, Cl
+[X] Copy of Chain [X] QA/QC Documents 1-1 Liter Plastic, Unpreserved) White Per Sample
+d ) Other
+
+Description of Samples a! a rete ig
+
+CVDN Zw #2 thsh3 oo ~I,3 SOF Hw
+CVDN TWHS i363 1
+3 _CVDN twat iyol_ =-l.G
+
+09 7 134d = ho
+
+petit ee _ 4 See
+
+6 CVDN WH LEsEeRvoik® 1Y4o - |.
+
+L 14oy
+
+: sai IR Thermometer SN: 200560725 ae
+7 Location: Laboratory
+
+CHAIN OF CUSTODY
+Carrer [Signature
+
+dan | ran agsenies |W25/23_ Io] | War /27
+Dn Rn ee
+EEE. 1 ee ee
+a Oe See 2 KGEZE (©
+bé found that I do not have such authority, I agree to be personally liable for
+action against me for this breach, reasonable attorneys' fees. It is understood that payment is expected to be cash with samples unless terms have been previously arranged.
+Terms are net 30 days; overdue accounts will be charged a liquidated damage fee of 2% per month (annually 24%) or $5.00 per month whichever is greater.
+
+If payment is not made when due and a legitimate dispute exists concerning the product or services of Dellavalle Laboratory, Inc., it will be submitted to mediation under the Rules and Procedures of Creative
+
+Altemative to Litigation, Ine. (cal). If the dispute is not resolved in mediation, then the dispute will be submitted to binding arbitration through cal under its Rules and Procedures. The parties will equally
+bear the costs of mediatiorvarbitration. It, however, the mediator declares that no legitimate dispute exists, then debtor will pay all Mediation and arbitration costs, and in the event ot arbitration,
+
+Shipping
+Signature
+Sample received in cooler with ice (coolant)
+[]Yes []No
+
+AmtPaid] _RecBy | Check# | Date | Page 14 of 15
+X:\1-CLIENT CUSTOM FIELDSHEETS\FIELDSHEETS\Dairy Fieldsheets\[F & R Ag Services (Alex) Water.xls]Dairy Water rev 4.18.18 9
+
+PDF PAGE BREAK 81
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+et sonne lliMNOT,
+
+G1837
+
+Shipping Information: Shipped Ina Picked-Upa Walk In’S DLI Sampler Other o
+ao Samples refridgerated before pick up a Picked up samples placed in Ice chest
+Container: Ice Chest Refrigerant: | WetIce~X Blue lceo Noneo
+
+Samples Preserved with HNO, or H,SO, were: oc Received Preserved o Preserved Upon Receipt at Laborato!
+Sample Number
+
+Type of Contather(e) Recewed 7 ag a | ot ee
+
+scl fff
+
+250 mL unpreserved (White) Plastic [|_| | a_] ae
+
+—— -— ea ae He
+
+|! a i (eee ee “a ee oe
+
+Bee ae ee) eee BRR A 6 See? eee eee
+DL a Pa ea Se Ps 2
+
+De ae
+
+1 L_unpreserved (White) Plastic en Se" An i ae a ee
+
+|
+
+H Stri
+ols unpreserved White) Glass ot i0B8bi44501
+Exp. Jan. 2025
+
+aA
+SE a ee. “Se
+a Bas a “ie
+
+a ae Se Ee
+250 ins ri cngesoved hie a a ie “A a as
+CSAS TS ONG SSS EE ee eee
+
+se Aes Bs i ee Pe, “I
+
+era al
+500 inl, Gisss unreserved (White eas ite Gh. “EY Se Se eee
+a ae, A
+TL AG unpreserved White a eee ee ee ee ee
+a a ae a ee
+
+HzSO, (Yellow
+
+r - 50mL Plastic w/Borate/H
+
+a Te
+Ci a: aa
+
+Q
+gs
+a
+Ry
+2
+g
+=
+<
+fe)
+> {
+Qn
+Q
+By
+
+
+PDF PAGE BREAK 82
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/01/2023 12:46
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+
+Samples in this Report
+
+Lab ID Sample Matrix Sampled By Crop Date Sampled
+23G1843-01 Dom DW House Well Water F&RAg Domestic Wells 07/25/2023 13:47
+23G1843-02 Dom DW Barn Well Water F&RAg Domestic Wells 07/25/2023 13:57
+23G1843-03 Dom DW Danny's Well Water F&RAg Domestic Wells 07/25/2023 14:10
+Default Cooler Temperature on Receipt °C: -0.9
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Defini
+
+Item Definition
+
+H Hold Time Exceeded
+
+MCL Drinking Water Maximum Contaminant Level
+
+ND Analyte NOT DETECTED at or above the reporting limit.
+NES Not Enough Sample
+
+* Not Taken
+
+RPD Relative Percent Difference
+
+%REC Percent Recovery
+
+Source Sample that was matrix spiked or duplicated.
+
+Lox M4 ricllanel
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+Page 1 of 9
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+PDF PAGE BREAK 83
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/01/2023 12:46
+
+Sample: Dom DW House Sampled: 7/25/2023 13:47
+23G1843-01 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.35 =mmbhos/cm 0.01 1 07/28/23 14:29 SM 2510B BEGO958
+Electrical Conductivity umhos 347 ~~ umhos/cm 10.0 1 07/28/23 14:29 SM 2510B BEGO958
+Ammonia (as N) ND mg/L 0.00 1 07/25/23 13:47 Field BEG1185
+Nitrate Nitrogen as NO3N 6.4 mg/L 0.1 1 10 07/26/23 02:58 EPA 300.0 BEGO910
+pH 71 units 1.0 1 07/28/23 14:29 SM 4500-H+ H BEG0958
+Temperature 25.0 °C 0.0 1 07/28/23 14:29 SM 2510B BEGO958
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 2 of 9
+
+PDF PAGE BREAK 84
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/01/2023 12:46
+
+(Continued)
+Sample: Dom DW Barn Sampled: 7/25/2023 13:57
+23G1843-02 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.52 = mmhos/cm 0.01 1 07/28/23 14:31 SM 2510B BEGO958
+Electrical Conductivity umhos 520 = umhos/cm 10.0 1 07/28/23 14:31 SM 2510B BEGO958
+Ammonia (as N) ND mg/L 0.00 1 07/25/23 13:57 Field BEG1185
+Nitrate Nitrogen as NO3N 6.2 mg/L 0.1 1 10 07/26/23 03:18 EPA 300.0 BEGO910
+pH 77 units 1.0 1 07/28/23 14:31 SM 4500-H+ H BEG0958
+Temperature 25.0 °C 0.0 1 07/28/23 14:31 SM 2510B BEGO958
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 3 of 9
+
+PDF PAGE BREAK 85
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+INC
+
+Account# 00-0016563
+
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Sample Results
+
+Received: 07/25/2023 15:40
+Reported: 08/01/2023 12:46
+
+(Continued)
+Sample: Dom DW Danny's Sampled: 7/25/2023 14:10
+2361843-03 (Water) Sampled By: F & R Ag
+Reporting DW Date/Time
+Analyte Result Units DIL MCL Analyzed Method Notes Batch
+Electrical Conductivity 0.24 ~=mmbhos/cm 0.01 1 07/28/23 14:33 SM 2510B BEGO958
+Electrical Conductivity umhos 243 = umhos/cm 10.0 1 07/28/23 14:33 SM 2510B BEGO958
+Ammonia (as N) ND mg/L 0.00 1 07/25/23 14:10 Field BEG1185
+Nitrate Nitrogen as NO3N 0.4 mg/L 0.1 1 10 07/26/23 03:38 EPA 300.0 BEGO910
+pH 7.8 units 1.0 1 07/28/23 14:33 SM 4500-H+ H BEG0958
+Temperature 25.0 °C 0.0 1 07/28/23 14:33 SM 2510B BEGO958
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+party interpretation.
+
+Page 4 of 9
+
+PDF PAGE BREAK 86
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Costa View Dairy North Account# 00-0016563 Received: 07/25/2023 15:40
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/01/2023 12:46
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+
+Quality Control
+
+Reporting Spike Source %REC
+
+Result Qual Limit Units Level Result %REC Limits
+
+Batch: BEGO910
+
+Blank (BEGO910-BLK1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+Blank (BEGO910-BLK2) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+Blank (BEGO910-BLK3) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N ND 0.1 mg/L
+
+LCS (BEG0910-BS1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 5.2 0.1 mg/L 5.000 104 90-110
+LCS (BEGO910-BS2) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 5.2 0.1 mg/L 5.000 104 90-110
+Duplicate (BEGO910-DUP1) Source: 23G1827-02 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 2.1 0.1 mg/L 21 0.517 10
+Duplicate (BEG0910-DUP2) Source: 23G1843-03 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 0.4 0.1 mg/L 0.4 0.911 10
+Matrix Spike (BEGO910-MS1) Source: 23G1827-02 Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 7.4 0.1 mg/L 5.000 21 106 90-110
+Matrix Spike (BEGO910-MS2) Source: 23G1843-03 Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 5.7 0.1 mg/L 5.000 0.4 105 90-110
+Reference (BEGO910-SRM1) Prepared & Analyzed: 7/25/2023
+
+Nitrate Nitrogen as NO3N 10.2 mg/L 10.00 102 90-110
+Reference (BEGO910-SRM2) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 10.3 mg/L 10.00 103 90-110
+Reference (BEGO910-SRM3) Prepared: 7/25/2023 Analyzed: 7/26/2023
+
+Nitrate Nitrogen as NO3N 10.3 mg/L 10.00 103 90-110
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 5 of 9
+
+PDF PAGE BREAK 87
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY
+
+Costa View Dairy North
+9499 Ave 20
+Chowchilla, CA 93610
+
+Batch: BEGO958
+Blank (BEGO958-BLK1)
+
+Result Qual
+
+INC
+
+Account# 00-0016563
+Account Manager: Ben Nydam
+Submitted By: Larry Pietrowski
+
+Quality Control
+(Continued)
+
+Reporting Spike Source
+Limit Units Level Result %REC
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+%REC
+Limits
+
+Received: 07/25/2023 15:40
+Reported: 08/01/2023 12:46
+
+Electrical Conductivity ND 0.01 mmhos/cm
+
+pH 5.4 1.0 units
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Temperature 25.0 0.0 °C
+
+Blank (BEGO958-BLK2) Prepared: 7/26/2023 Analyzed: 7/28/2023
+Electrical Conductivity ND 0.01 mmhos/cm
+
+pH 7.2 1.0 units
+
+Temperature 25.0 0.0 °C
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Blank (BEGO958-BLK3) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 7.2 1.0 units
+
+Electrical Conductivity ND 0.01 mmhos/cm
+
+Electrical Conductivity umhos ND 10.0 umhos/cm
+
+Temperature 25.0 0.0 °C
+
+Duplicate (BEGO958-DUP1)
+
+Source: 23G1840-02
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+pH 7.5 1.0 units 75 0.266 10
+Electrical Conductivity 1.09 0.01 mmhos/cm 1.10 0.630 10
+Electrical Conductivity umhos 1090 10.0 umhos/cm 1100 0.630 10
+Duplicate (BEGO958-DUP2) Source: 23G1852-01 Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 2.40 0.01 mmhos/cm 2.38 0.766 10
+pH 7.5 1.0 units 74 0.268 10
+Electrical Conductivity umhos 2400 10.0 umhos/cm 2380 0.766 10
+Reference (BEG0958-SRM1) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 587 umhos/cm 538.0 109 90-110
+
+Reference (BEGO958-SRM2) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+pH 5.8 units 5.820 100 = 28178-101.7:
+
+Reference (BEG0958-SRM3) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1090 umhos/cm 1000 109 90-110
+
+Reference (BEGO958-SRM4) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1100 umhos/cm 1000 110 90-110
+
+Reference (BEGO958-SRM5) Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+Electrical Conductivity 1100 umhos/cm 1000 110 90-110
+
+Reference (BEGO958-SRM6)
+
+Prepared: 7/26/2023 Analyzed: 7/28/2023
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+
+Page 6 of 9
+
+PDF PAGE BREAK 88
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+SELLAVALLE™
+
+LABORATORY INC
+
+Received: 07/25/2023 15:40
+
+Costa View Dairy North Account# 00-0016563
+9499 Ave 20 Account Manager: Ben Nydam Reported: 08/01/2023 12:46
+Chowchilla, CA 93610 Submitted By: Larry Pietrowski
+Quality Control
+(Continued)
+
+Reporting Spike Source %REC
+
+Result Qual Limit Units Level Result %REC Limits
+
+Batch: BEGO958 (Continued)
+
+Reference (BEGO958-SRM6) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+Reference (BEG0958-SRM7) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+Reference (BEGO958-SRM8) Prepared: 7/26/2023 Analyzed: 7/28/2023
+pH 4.0 units 4.000 100 97.5-102.5
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 7 of 9
+
+PDF PAGE BREAK 89
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+NIM DELLAVALLE LABORATORY, INC.
+07/25/23 15:40 2461843 1910 W. McKinley Avenue, Suite 110 ¢ Fresno, CA 93728
+
+{ www.dellavalielab.com 559 233-6129 - 800 228-9896 - Fax 559 268-8174
+
+¢ WY AN ) ») 08 No. Samples: 3 No of Bottles:
+Ei ise Order No Acct # Cons #
+
+Bill To:
+
+Water Type: if inking Water [ ] Wastewater
+ResultsNeedBy [ ] Ag Water [ ] Groundwater [ ] Monitoring Well
+Name: Costa View Dairy North Other:
+Address: 16800 Road 15 nalysis and B Required: (PI Analysis )
+City: Madera State: CA Zip: 93637 tiene EC, NO,-N NH4-N Field Test
+Telephone: Fax: (1-1 Liter Plastic, Unpreserved) White Per Sample
+Cell/Email: ginam.costaviewfarms@gmail.com (_) DWW2: DWW1 Plus SO,, CO3, HCOs, Cl, Ca, Mg, Na, TDS
+COPY TO: ariordan@fragservices.com 1-1 Liter Plastic, Unpreserved) White Per Sample
+
+(__) DCW1: EC, NO,-N, TKN, TN, TDS
+REQUESTED BY: Larry Pietrowski 1-1 Liter Plastic, Unpreserved) White _ Per Sample
+PROJECT: (__) DPW1: EC, NO,-N, NH,-N, TKN, TDS, TP, TK
+CROP: Do MESTIC wells 1-1 Liter Plastic, Unpreserved) White _ Per Sample
+
+(_) DPW2: DPW1 Plus Ca, Mg, Na, HCO3, CO, SO,, Cl
+[X] Copy of Chain [X] QA/QC Documents 1-1 Liter Plastic, Unpreserved) White _ Per Sample
+
+Fa @ AG Other
+
+Rec'd
+Description of Samples ote. wie Temp °C Pa Cea (uACE
+——
+
+P DomM Dw Hovsé 7/2823 341 -0.4 d3omew
+
+v oM DW BARN 3s] 1.4
+Sap— |
+9
+
+Dom Dw DANYYYS [¥l9 3.5
+
+CHAIN OF CUSTODY
+[Carrier [Signature
+
+Tess MIO| T2872
+aa rr ee
+i ee | ee
+
+[Fourth] $A“ A DCT BS /2g TS)
+
+fe found that I do not have such authority, I agree to be personally liable for
+all costs and, if there shoul be action against me for this breach, reasonable attorneys’ fees. It is understood that payment is expected to be cash with samples unless terms have been previously arranged.
+Terms are net 30 days; overdue accounts will be charged a liquidated damage fee of 2% per month (annually 24%) or $5.00 per month whichever is greater.
+
+If payment is not made when due and a legitimate dispute exists concerning the product or services of Dellavalle Laboratory, Inc,, it will be submitted to mediation under the Rules and Procedures of Creative
+
+Alternative to Litigation, Inc. (cal ). If the dispute is not resolved in mediation, then the dispute will be submitted to binding arbitration through cal under its Rules and Procedures, The parties will equally
+bear the costs ot mediation/arbitration. It, however, the mediator declares that no legitimate dispute exists, then debtor wll pay all mediation and arbitration costs, and mn the event ot arbitration,
+
+Shipping
+Signature
+Sample received in cooler with ice (coolant)
+[]Yes [ ]No
+
+AmtPaid] _RecBy | Check # Page 8 of 9
+X:!-CLIENT CUSTOM FIELDSHEETS\FIELDSHEETS\Dairy Fieldsheets\[F & R Ag Services (Alex) Water.xls]Dairy Water rev 4.18.18 age °
+
+
+PDF PAGE BREAK 90
+DocuSign Envelope ID: 914633E7-44B7-4267-A6D2-13DC8C68F4FF
+
+i ‘nr
+
+07/25/23 15:4! $1843
+
+Shipping Information: Shipped Ino Picked-Upo Walk In YX DLI Samplero Othero
+o Samples refridgerated before pick up o Picked up samples placed in Ice chest
+Container: Ice Chestts4_Boxo Noneo Refrigerant: Wet Ice’cX, Blue Ice ~=Noneo
+
+Samples Preserved with HNO; or H,SO, were: o Received Preserved co Preserved Upon Receipt at Laborato!
+Sample Number
+
+icc a Aa PE TE BA A aT AE eR a
+
+zz
+H25Us (Yellow) Plastic pf
+a ne Me UU =
+S00 mL unpreserved (White) lest _{_—_1__ — a
+1 L unpreserved (White) Plastic (| | {=e OH St H4501
+Ge iS Geel Exp. Jan. 2025
+3 {500mL unpreserved (White) Glass oo a =
+PO4-P Kit pf ff}
+TOURS
+
+: : 127 ee ee es
+a . “ e
+pf ff fo
+RSC a es es es ee |
+ce} | | {| | |
+
+Plastics
+
+sien, a€ ———— —_—_f ae
+VOR, Na8203 _ iin Ly a a
+UE cro a Mm UD. Seo Se ee
+40 mL AG VOA, N80, (Green) SS) a, i . '
+_.
+
+40mL VOA, H3PO, (Set 0}
+
+VOA Vials
+
+| i iS ae ae
+
+En en ee ee ee, ee
+
+250 mL AG me White Re Am. Whe: ose ae
+epee Ane Moga CRIA) aise ose] i am * Pe ees
+ae Pe
+
+EAST SC CE Ea LCi Se A AP, "Rn, |e
+
+pod ml glass unpressrved (White j++ -—+_} 4}
+
+a). “Sih A ee Gees ee
+
+TL AG (eatne White ——— on oo oe
+
+p——f—f-—j}—_} fs
+
+Page 9 of 9
+

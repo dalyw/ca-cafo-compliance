@@ -14,21 +14,19 @@ import numpy as np
 def load_parameters():
     """Load parameters and create mapping dictionaries."""
     parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
-    calculated_metrics = pd.read_csv('ca_cafo_compliance/calculated_metrics.csv')
     return {
         'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
         'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
         'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
-        'calculated_metrics': dict(zip(calculated_metrics['metric_key'], calculated_metrics['metric_name']))
     }
 
-with open("ca_cafo_compliance/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
+with open("ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
 
 # watermark background
 st.markdown(
     f'''
-    <div style="position: relative; width: 100%; height: 260px; margin-bottom: -120px;">
+    <div style="position: relative; width: 100%; height: 240px; margin-bottom: -250px;">
         <img src="data:image/jpeg;base64,{img_base64}" 
              style="position: absolute; top: 0; left: 0; width: 100%; height: 260px; object-fit: cover; opacity: 0.4; z-index: 0;" />
         <div style="position: absolute; top: 20px; left: 0; width: 100%; text-align: center; z-index: 1;">
@@ -55,12 +53,12 @@ def load_data():
     """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""    
     # Try local files first
     csv_files = glob.glob("outputs/consolidated/*.csv")
-    print(f"Found {len(csv_files)} CSV files in outputs/consolidated")
+    # print(f"Found {len(csv_files)} CSV files in outputs/consolidated")
     
     dfs = []
     if csv_files:
         for file in csv_files:
-            print(f"\nReading file: {file}")
+            # print(f"\nReading file: {file}")
             df = pd.read_csv(file)
             dfs.append(df)
     else:
@@ -99,28 +97,6 @@ def load_data():
                 return None
         combined_df['Year'] = combined_df['Year'].apply(year_to_str)
         combined_df = combined_df[combined_df['Year'].notna()]
-    
-    # Load parameters for consistent column naming
-    params = load_parameters()
-    snake_to_pretty = params['snake_to_pretty']
-    calculated_metrics = params['calculated_metrics']
-    
-    # Combine all mappings for renaming
-    all_rename_map = {**snake_to_pretty, **calculated_metrics}
-    
-    # Apply renaming
-    for old_col, new_col in all_rename_map.items():
-        if old_col in combined_df.columns:
-            print(f"Renaming {old_col} to {new_col}")
-            combined_df[new_col] = combined_df[old_col]
-            combined_df = combined_df.drop(columns=[old_col])
-        elif new_col not in combined_df.columns:
-            print(f"Warning: Neither {old_col} nor {new_col} found in columns")
-    
-    # Ensure all pretty names from parameters.csv and calculated_metrics.csv exist in the dataframe
-    for pretty_name in list(snake_to_pretty.values()) + list(calculated_metrics.values()):
-        if pretty_name not in combined_df.columns:
-            combined_df[pretty_name] = np.nan
     
     return combined_df
 
@@ -397,9 +373,6 @@ def dual_bar_plot(fig, row, col, reported_label, reported_value, estimated_label
 
 def create_facility_comparison_plots(df, facility_name):
     """Create comparison plots for a specific facility."""
-    params = load_parameters()
-    calc = params['calculated_metrics']
-    pretty = params['snake_to_pretty']
     herd_cols = [
         'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
         'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)', 'Average Other'
@@ -424,7 +397,7 @@ def create_facility_comparison_plots(df, facility_name):
     if herd_data:
         fig.add_trace(
             go.Bar(
-                x=[d['name'] for d in herd_data],
+                x=[d['name'].replace('Average ', '') for d in herd_data],
                 y=[d['value'] for d in herd_data],
                 name='Herd Breakdown',
                 marker_color='gray',
@@ -435,16 +408,16 @@ def create_facility_comparison_plots(df, facility_name):
             row=1, col=1
         )
     # 2. Nitrogen Generation (reported, USDA est, UCCE est)
-    n_reported = calc.get('total_reported_n_lbs', 'Total Reported N (lbs)')
-    n_usda = calc.get('usda_nitrogen_estimate_lbs', 'USDA N Estimate (lbs)')
-    n_ucce = calc.get('ucce_nitrogen_estimate_lbs', 'UCCE N Estimate (lbs)')
+    n_reported = 'Total Reported N (lbs)'
+    n_usda = 'USDA N Estimate (lbs)'
+    n_ucce = 'UCCE N Estimate (lbs)'
     n_reported_val = facility_data[n_reported] if n_reported in facility_data and pd.notna(facility_data[n_reported]) else None
     n_usda_val = facility_data[n_usda] if n_usda in facility_data and pd.notna(facility_data[n_usda]) else None
     n_ucce_val = facility_data[n_ucce] if n_ucce in facility_data and pd.notna(facility_data[n_ucce]) else None
     # Plot reported (solid), USDA est (hashed), UCCE est (hashed)
     if n_reported_val is not None:
         fig.add_trace(go.Bar(
-            x=['Reported N'],
+            x=['Reported'],
             y=[n_reported_val],
             name='Reported',
             marker_color=NITROGEN_COLOR,
@@ -452,39 +425,39 @@ def create_facility_comparison_plots(df, facility_name):
             text=[f"{n_reported_val:,.0f} lbs"],
             textposition='auto',
             legendgroup='reported',
-            showlegend=True
+            showlegend=False
         ), row=1, col=2)
-    if n_usda_val is not None:
-        fig.add_trace(go.Bar(
-            x=['USDA Estimate'],
-            y=[n_usda_val],
-            name='Estimated',
-            marker_color=NITROGEN_EST_COLOR,
-            marker_pattern_shape="/",
-            text=[f"{n_usda_val:,.0f} lbs"],
-            textposition='auto',
-            legendgroup='estimated',
-            showlegend=True
-        ), row=1, col=2)
+    # if n_usda_val is not None:
+    #     fig.add_trace(go.Bar(
+    #         x=['Estimated (USDA)'],
+    #         y=[n_usda_val],
+    #         name='Estimated',
+    #         marker_color=NITROGEN_EST_COLOR,
+    #         marker_pattern_shape="/",
+    #         text=[f"{n_usda_val:,.0f} lbs"],
+    #         textposition='auto',
+    #         # legendgroup='estimated',
+    #         showlegend=False
+    #     ), row=1, col=2)
     if n_ucce_val is not None:
         fig.add_trace(go.Bar(
-            x=['UCCE Estimate'],
+            x=['Estimated (UCCE)'],
             y=[n_ucce_val],
-            name='UCCE Estimate',
+            name='Estimated',
             marker_color=NITROGEN_EST_COLOR,
             marker_pattern_shape="/",
             text=[f"{n_ucce_val:,.0f} lbs"],
             textposition='auto',
-            legendgroup='UCCE Estimate',
-            showlegend=True
+            legendgroup='estimated',
+            showlegend=False
         ), row=1, col=2)
     # 3. Wastewater Generation
-    ww_reported = calc.get('total_ww_gen_liters', 'Total Wastewater Generated (L)')
+    ww_reported = 'Total Wastewater Generated (L)'
     ww_reported_val = facility_data[ww_reported] if ww_reported in facility_data and pd.notna(facility_data[ww_reported]) else None
     ww_estimated_val = facility_data['Estimated Total Wastewater Generated (L)']
     if ww_reported_val is not None:
         fig.add_trace(go.Bar(
-            x=['Reported WW'],
+            x=['Reported'],
             y=[ww_reported_val],
             name='Reported',
             marker_color=WASTEWATER_COLOR,
@@ -496,7 +469,7 @@ def create_facility_comparison_plots(df, facility_name):
         ), row=2, col=1)
     if ww_estimated_val is not None:
         fig.add_trace(go.Bar(
-            x=['Estimated WW'],
+            x=['Estimated'],
             y=[ww_estimated_val],
             name='Estimated',
             marker_color=WASTEWATER_EST_COLOR,
@@ -507,13 +480,13 @@ def create_facility_comparison_plots(df, facility_name):
             showlegend=False
         ), row=2, col=1)
     # 4. Manure Generation
-    manure_reported = 'total_manure_excreted_tons'
-    herd_size_col = calc.get('total_herd_size', 'Total Herd Size')
+    manure_reported = 'Total Manure Excreted (tons)'
+    herd_size_col = 'Total Herd Size'
     manure_reported_val = facility_data[manure_reported] if manure_reported in facility_data and pd.notna(facility_data[manure_reported]) else None
-    manure_estimated_val = BASE_MANURE_FACTOR * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
+    manure_estimated_val = MANURE_FACTOR_AVERAGE * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
     if manure_reported_val is not None:
         fig.add_trace(go.Bar(
-            x=['Reported Manure'],
+            x=['Reported'],
             y=[manure_reported_val],
             name='Reported',
             marker_color=MANURE_COLOR,
@@ -525,7 +498,7 @@ def create_facility_comparison_plots(df, facility_name):
         ), row=2, col=2)
     if manure_estimated_val is not None:
         fig.add_trace(go.Bar(
-            x=['Estimated Manure'],
+            x=['Estimated'],
             y=[manure_estimated_val],
             name='Estimated',
             marker_color=MANURE_EST_COLOR,
@@ -536,19 +509,26 @@ def create_facility_comparison_plots(df, facility_name):
             showlegend=False
         ), row=2, col=2)
     fig.update_layout(
-        showlegend=True,
-        height=800,
-        legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1.08,
-            xanchor="center",
-            x=0.5
-        )
-    )
+        # showlegend=True,
+        height=700,  # Reduce plot height
+        font=dict(size=22),  # Larger base font
+        # title_font=dict(size=34),
+        # legend=dict(
+        #     orientation="h",
+        #     yanchor="bottom",
+        #     y=1.08,
+        #     xanchor="center",
+        #     x=0.5,
+        #     font=dict(size=22)
+        # )
+    ) 
+    fig.update_xaxes(title_font=dict(size=22), tickfont=dict(size=20))
+    fig.update_yaxes(title_font=dict(size=22), tickfont=dict(size=20))
+    fig.update_xaxes(tickangle=30, row=1, col=1)  # Angle x-ticks for herd breakdown
     return fig
 
-def create_consultant_comparison_plots():
+
+def create_consultant_comparison_plots(): 
     # Load pre-calculated consultant metrics
     metrics_path = "outputs/consolidated/2023_R5_consultant_metrics.csv"
     df = pd.read_csv(metrics_path)
@@ -634,61 +614,84 @@ def create_consultant_comparison_plots():
     return fig
 
 def filter_tab2(df, selected_year):
-    print(f"Initial rows: {len(df)}")
-    print(f"Selected year: {selected_year}")
+    # print(f"Initial rows: {len(df)}")
+    # print(f"Selected year: {selected_year}")
     
     available_regions = ['R5', 'R7']
     selected_regions = st.multiselect("Select Regions", available_regions, default=available_regions)
-    print(f"Selected regions: {selected_regions}")
+    # print(f"Selected regions: {selected_regions}")
     
     if not selected_regions:
         return pd.DataFrame(), [], [], []
     
     available_counties = sorted(df[df['Region'].isin(selected_regions)]['County'].dropna().unique())
     selected_counties = st.multiselect("Select Counties", available_counties, default=available_counties)
-    print(f"Selected counties: {selected_counties}")
+    # print(f"Selected counties: {selected_counties}")
     
     available_consultants = sorted(df[df['Region'].isin(selected_regions)]['Consultant'].dropna().unique())
     selected_consultants = st.multiselect("Select Consultants", available_consultants, default=available_consultants)
-    print(f"Selected consultants: {selected_consultants}")
-    
-    year_filter = df['Year'] == selected_year
-    print(f"\nRows after year filter: {year_filter.sum()}")
-    
-    region_filter = df['Region'].isin(selected_regions)
-    print(f"Rows after region filter: {region_filter.sum()}")
-    
-    county_filter = df['County'].isin(selected_counties)
-    print(f"Rows after county filter: {county_filter.sum()}")
-    
-    consultant_filter = df['Consultant'].isin(selected_consultants)
-    print(f"Rows after consultant filter: {consultant_filter.sum()}")
+    # print(f"Selected consultants: {selected_consultants}")
     
     filtered_df = df[(df['Year'] == selected_year) &
                      (df['Region'].isin(selected_regions)) &
                      (df['County'].isin(selected_counties)) &
                      (df['Consultant'].isin(selected_consultants))]
-    
-    print(f"\nFinal filtered rows: {len(filtered_df)}")
-    
-    # Check if we have any non-null values in our key columns
-    key_columns = ['USDA Nitrogen % Deviation', 'UCCE Nitrogen % Deviation', 'Wastewater to Reported Milk Ratio', 'Wastewater to Estimated Milk Ratio', 'Calculated Manure Factor']
-    for col in key_columns:
-        if col in filtered_df.columns:
-            non_null = filtered_df[col].notna().sum()
-            print(f"{col}: {non_null} non-null values")
-            if non_null > 0:
-                print(f"Sample values: {filtered_df[col].dropna().head().tolist()}")
-    
+        
     return filtered_df, selected_regions, selected_counties, selected_consultants
+
+def manure_scatter_from_df(xlim=20000):
+    csv_files = glob.glob("outputs/consolidated/*.csv")
+    dfs = [pd.read_csv(f) for f in csv_files]
+    df = pd.concat(dfs, ignore_index=True)
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(
+        x=df['Total Herd Size'],
+        y=df['Total Manure Excreted (tons)'],
+        mode='markers',
+        marker=dict(size=10, color='rgb(255, 165, 0)', opacity=0.7),
+        name='Facilities'
+    ))
+    max_herd = min(df['Total Herd Size'].max(), xlim)
+    fig.add_trace(go.Scatter(
+        x=[0, max_herd],
+        y=[0, max_herd * 20],
+        mode='lines',
+        line=dict(color='red', width=2, dash='dash'),
+        name='20 tons/cow/year'
+    ))
+    df['expected_manure'] = df['Total Herd Size'] * 12
+    df['deviation'] = (df['Total Manure Excreted (tons)'] - df['expected_manure']) / df['expected_manure']
+    bottom_points = df[df['Total Herd Size'] >= 5000].nsmallest(0, 'deviation')
+    for _, row in bottom_points.iterrows():
+        fig.add_annotation(
+            x=row['Total Herd Size'],
+            y=row['Total Manure Excreted (tons)'],
+            text=row['Dairy Name'],
+            showarrow=True,
+            arrowhead=1,
+            ax=-100,   # left of the point
+            ay=-40     # above the point
+        )
+    fig.update_layout(
+        title='Total Manure Excreted vs Herd Size',
+        xaxis_title='Total Herd Size',
+        yaxis_title='Total Manure Excreted (tons)',
+        font=dict(size=20),
+        title_font=dict(size=28),
+        xaxis=dict(title_font=dict(size=24), tickfont=dict(size=20), range=[0, xlim]),
+        yaxis=dict(title_font=dict(size=24), tickfont=dict(size=20)),
+        showlegend=True,
+        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01, font=dict(size=18))
+    )
+    return fig
 
 def main():
     st.title("Heaping Piles of Fraud")
     st.markdown("""
     ### Revealing Dairy CAFO Compliance and Data Discrepancies
-    This dashboard presents the first public analysis of annual reports from Dairy CAFOs (Concentrated Animal Feeding Operations).
-    It reveals significant instances of noncompliance and under-reporting of Manure, Nitrogen, and Wastewater generation.
     
+    
+    This dashboard presents the first public analysis of annual reports from Dairy CAFOs (Concentrated Animal Feeding Operations) and reveals concerns about manure and wastewater-related reporting.
     This data shows what local community members have long known: that CAFO dairies are lying and not prioritizing public health.
     """)
     
@@ -696,11 +699,11 @@ def main():
         df = load_data()
         
         # Create tabs
-        tab1, tab2, tab3, tab4 = st.tabs(["CAFO Maps and Manure Manifests", "CAFO Reporting Data", "Enforcement", "Data Availability & Sources"])
+        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Herd Counts", "Manure Manifests", "CAFO Reporting Data", "Enforcement", "Data Availability & Sources"])
         
         with tab1:
             st.write("""
-            This section includes maps showing the geographic distribution of CAFO facilities, their size, and their manure exports and imports. 
+            This section includes maps showing the geographic distribution of CAFO facilities and their herd sizes. 
             """)
             
             # Years filter (single select)
@@ -722,16 +725,54 @@ def main():
             else:
                 st.warning("No location data available for the selected year.")
             
-            # Add Manure Manifests map placeholder
-            st.subheader("Manure Export Patterns")
+            # Add spacing between maps
+            st.markdown("---")
+            st.markdown("<br>", unsafe_allow_html=True)
+
+            # Facility search and comparison (moved from tab3)
+            st.subheader("Facility Search")
             st.write("""
-            This map visualizes the movement of manure exports throughout the Central Valley region, 
+            Search for specific facilities to examine their reporting patterns in detail. 
+            This tool helps identify individual cases of potential noncompliance.
+            """)
+            # Add county filter for facility search
+            facility_counties = sorted(map_df['County'].dropna().unique())
+            selected_facility_county = st.selectbox(
+                "Filter by County",
+                ["All Counties"] + list(facility_counties),
+                key="facility_county_tab1"
+            )
+            # Filter facilities by selected county
+            if selected_facility_county != "All Counties":
+                facility_df = map_df[map_df['County'] == selected_facility_county]
+            else:
+                facility_df = map_df
+            facility_names = sorted(facility_df['Dairy Name'].unique())
+            selected_facility = st.selectbox("Select a Facility", facility_names, index=facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0, key="facility_name_tab1")
+            if selected_facility:
+                # Get facility details
+                facility_data = facility_df[facility_df['Dairy Name'] == selected_facility].iloc[0]
+                col1, col2 = st.columns(2)
+                with col1:
+                    st.write(f"Address: {facility_data['Street Address']} {facility_data['City']}, CA {facility_data['Zip']}")
+                with col2:
+                    st.write(f"Report prepared by: {facility_data['Consultant']}")
+                facility_comparison_fig = create_facility_comparison_plots(facility_df, selected_facility)
+                if facility_comparison_fig is not None:
+                    st.plotly_chart(facility_comparison_fig, use_container_width=True)
+                else:
+                    st.warning(f"No data available for {selected_facility}")
+            st.markdown("---")
+            st.markdown("<br>", unsafe_allow_html=True)
+        
+        with tab2:
+            st.write("""
+            This section visualizes the movement of manure exports throughout the Central Valley region, 
             revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
-            *To Do: Update to ArcGIS Link*
             """)
             
             # Display placeholder image
-            st.image("ca_cafo_compliance/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
+            st.image("ca_cafo_compliance/images/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
 
             # # Add ArcGIS map embed
             # st.subheader("CAFO Density around Elementary Schools")
@@ -746,7 +787,7 @@ def main():
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
         
-        with tab2:
+        with tab3:
             st.write("""
             This section focuses on the reported manure, nitrogen and wastewater production in Regions 5 and 7, where we've identified significant variations between reported and estimated values.
             """)
@@ -754,10 +795,10 @@ def main():
             # Years filter
             years = sorted(df['Year'].unique())
             default_year_index = years.index('2023') if '2023' in years else len(years)-1
-            selected_year = st.selectbox("Select Year", years, index=default_year_index, key="plot_year")
+            selected_year_tab3 = st.selectbox("Select Year", years, index=default_year_index, key="plot_year")
             
             # Filter data for plots
-            filtered_df, selected_regions, selected_counties, selected_consultants = filter_tab2(df, selected_year)
+            filtered_df, selected_regions, selected_counties, selected_consultants = filter_tab2(df, selected_year_tab3)
             
             if filtered_df.empty:
                 st.warning("Please select at least one region (R5 or R7) to view comparison plots.")
@@ -765,8 +806,6 @@ def main():
             
             # Comparison plots with explanations
             st.subheader("Estimated vs Actual Comparisons")
-
-            st.write("*Note: We can incorporate any of the figures that Hailey is creating from 2023 here too*")
             
             # Nitrogen Generation Plot
             st.markdown("""
@@ -782,95 +821,14 @@ def main():
             ### Wastewater to Milk Ratio
             Unusually low ratios may indicate under-reporting of wastewater usage.
             The ratio is calculated as: Total Process Wastewater (L) / Annual Milk Production (L). Milk production is either reported or estimated (using 68 lb/cow/day default)
-            
             """)
             st.plotly_chart(wastewater_fig, use_container_width=True)
             
             # Manure Factor Plot
             st.markdown("""
-            ### Manure Generation Factor
-            Under-reporting of manure generation can lead to improper nutrient management. Our analysis shows that most facilities are reporting manure generation well below established baselines.
-            The base factor is 4.1 tons of manure per cow per year. This is reduced by 40% for heifers and 70% for calves.
-            We calculate the dairy's reported manure generation per cow and compare it to this base factor for their herd size. 
-            
-            * note: as of May 16, the zero column is too high since there are some files being read where manure is non-zero but not being picked up. Similarly, the factor for some facilities might be over-counted because the herd size is being under-counted reading the files*
-            """)
-            # Generate manure_fig
-            manure_col = 'Calculated Manure Factor'
-            manure_fig = go.Figure()
-            if manure_col in filtered_df.columns:
-                manure_data = filtered_df[manure_col].dropna()
-                if not manure_data.empty:
-                    manure_fig.add_trace(
-                        go.Histogram(
-                            x=manure_data,
-                            nbinsx=50,
-                            name="Reported Manure Factor",
-                            marker_color='rgb(255, 165, 0)',
-                            opacity=0.7
-                        )
-                    )
-                # Likely under-reporting if x < 8
-                manure_fig.add_vrect(
-                    x0=manure_data.min(), x1=8,
-                    fillcolor="rgba(200,0,0,0.15)",
-                    layer="below",
-                    line_width=0,
-                    annotation_text="Likely<br>Under-reporting",
-                    annotation_position="top"
-                    )
-                manure_fig.update_layout(
-                    title="Manure Generation Factor Distribution",
-                    xaxis_title="Tons Manure per Cow per Year",
-                    yaxis_title="Number of Facilities",
-                    showlegend=True
-                )
-            st.plotly_chart(manure_fig, use_container_width=True)
-            
-            # Facility search and comparison
-            st.markdown("---")
-            st.subheader("Facility Search")
-            st.write("""
-            Search for specific facilities to examine their reporting patterns in detail. 
-            This tool helps identify individual cases of potential noncompliance.
-            """)
-            
-            # Add county filter for facility search
-            facility_counties = sorted(filtered_df['County'].dropna().unique())
-            selected_facility_county = st.selectbox(
-                "Filter by County",
-                ["All Counties"] + list(facility_counties),
-                key="facility_county"
-            )
-            
-            # Filter facilities by selected county
-            if selected_facility_county != "All Counties":
-                facility_df = filtered_df[filtered_df['County'] == selected_facility_county]
-            else:
-                facility_df = filtered_df
-            
-            facility_names = sorted(facility_df['Dairy Name'].unique())
-            selected_facility = st.selectbox("Select a Facility", facility_names, index=facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0)
-            
-            if selected_facility:
-                # Get facility details
-                facility_data = facility_df[facility_df['Dairy Name'] == selected_facility].iloc[0]
-                
-                # Display facility details
-                col1, col2 = st.columns(2)
-                with col1:
-                    st.write(f"Address: {facility_data['Street Address']}")
-                    st.write(f"City, State, Zip: {facility_data['City']}, CA {facility_data['Zip']}")
-                
-                with col2:
-                    st.write(f"Report prepared by: {facility_data['Consultant']}")
-                    st.write(f"Total Herd Size: {facility_data['Total Herd Size']:,.0f}")
-                
-                facility_comparison_fig = create_facility_comparison_plots(facility_df, selected_facility)
-                if facility_comparison_fig is not None:
-                    st.plotly_chart(facility_comparison_fig, use_container_width=True)
-                else:
-                    st.warning(f"No data available for {selected_facility}")
+            ### Manure Generation""")
+            manure_fig_consolidated = manure_scatter_from_df()
+            st.plotly_chart(manure_fig_consolidated, use_container_width=True)
             
             # Add consultant comparison plots
             st.markdown("<br><br>", unsafe_allow_html=True)
@@ -879,7 +837,6 @@ def main():
             st.write("""
             Many facilities in region 5 use consultatns to prepare their reports. This section assesses reporting patterns across different consultants and self-reported facilities, to understand if there are any systematic issues with certain consultants.
             Each bar represents a consultant's average value, with error bars showing the standard deviation.
-            *Note: missing 3 consultants in this comparison currently*
             """)
             
             consultant_comparison_fig = create_consultant_comparison_plots()
@@ -913,7 +870,7 @@ def main():
                 mime="text/csv"
             )
         
-        with tab3:
+        with tab4:
             st.write("Coming soon: Enforcement Data")
 
             # --- Violation Summary ---
@@ -964,13 +921,13 @@ def main():
             except Exception as e:
                 st.warning(f"Error loading or processing violation data: {e}")
         
-        with tab4:
+        with tab5:
             st.write("""
             This section provides information about the data availability and types for each region, based on the provided text.
             This analysis is inherently limited by the accessibility and consistency of the source data, including issues like inconsistent regional reporting formats and levels of detail, the requirement to visit in-person to get data in some regions, and different data collection periods
             """)
 
-            st.image("ca_cafo_compliance/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
+            st.image("ca_cafo_compliance/images/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
 
             # --- Data Availability Pie Chart ---
             # Try to load reports_available.csv locally, else from GitHub
@@ -1104,7 +1061,6 @@ def main():
 
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
-        st.error("Please check the data format and try again.")
 
 if __name__ == "__main__":
     main()

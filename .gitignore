@@ -2,7 +2,7 @@
 data/2023/**/original/
 # data/2024/**/
 data/2024/**/original/
-
+*debug*
 ca_cafo_compliance/ReadPermits_Nutrient_Applications_Region5.ipynb
 
 # Python specific

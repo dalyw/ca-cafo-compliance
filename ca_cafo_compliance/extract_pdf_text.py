@@ -69,7 +69,7 @@ def get_ocr_config(fast_mode=OCR_FAST_MODE):
         base_config = r'--oem 3 --psm 6 -c tessedit_char_whitelist="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,()-_&/ " --dpi 300 -c preserve_interword_spaces=1'
     return base_config
 
-def process_page(image, rotation=0):
+def process_page(image, rotation=0, debug_prefix=None):
     """Process a page image with specified rotation."""
     processed_image = preprocess_image(image, fast_mode=OCR_FAST_MODE)
     
@@ -78,9 +78,18 @@ def process_page(image, rotation=0):
         processed_image = cv2.rotate(processed_image, cv2.ROTATE_90_CLOCKWISE)
     elif rotation == -90:
         processed_image = cv2.rotate(processed_image, cv2.ROTATE_90_COUNTERCLOCKWISE)
-    
-    text = pytesseract.image_to_string(processed_image, config=get_ocr_config(OCR_FAST_MODE), lang='eng')
-    return clean_text(text)
+
+    # Save preprocessed image for debugging if debug_prefix is set
+    if debug_prefix is not None:
+        cv2.imwrite(f'{debug_prefix}_preprocessed.png', processed_image)
+
+    raw_text = pytesseract.image_to_string(processed_image, config=get_ocr_config(OCR_FAST_MODE), lang='eng')
+    # Save raw OCR output for debugging if debug_prefix is set
+    if debug_prefix is not None:
+        with open(f'{debug_prefix}_raw_ocr.txt', 'w') as f:
+            f.write(raw_text)
+    text = clean_text(raw_text)
+    return text
 
 def process_pdf(pdf_path, file_list_df):
     """Process a single PDF file and extract text using OCR."""
@@ -99,14 +108,24 @@ def process_pdf(pdf_path, file_list_df):
         if os.path.exists(text_file_ocr) or os.path.exists(text_file_handwriting):
             return
         
+        # Determine if this is a provost_pritchard template
+        is_provost = 'provost_pritchard' in pdf_path.lower()
+        
         # Perform OCR
         os.makedirs(ocr_dir, exist_ok=True)
         images = convert_from_path(pdf_path, dpi=OCR_DPI)
         
+        # Save the first page image for debugging if provost_pritchard
+        if is_provost and images:
+            images[0].save(f'debug_{pdf_name}_first_page.png')
+        
         # Process each page (no rotation)
         combined_text = []
         for i, image in enumerate(images):
-            text = process_page(image, rotation=0)
+            debug_prefix = None
+            if is_provost:
+                debug_prefix = f'debug_{pdf_name}_page{i+1}'
+            text = process_page(image, rotation=0, debug_prefix=debug_prefix)
             combined_text.append(text)
             if i < len(images) - 1:
                 combined_text.append(f"\nPDF PAGE BREAK {i+1}\n")

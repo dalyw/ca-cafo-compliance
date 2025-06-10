@@ -13,7 +13,14 @@ REGIONS = ['R1', 'R2', 'R5', 'R7', 'R8']
 
 HEIFER_FACTOR = (1.5/4.1)
 CALF_FACTOR = (0.5/4.1)
-BASE_MANURE_FACTOR = 4.1  # Base manure factor for mature dairy cows
+
+MANURE_FACTOR_LOW = 21.0
+MANURE_FACTOR_HIGH = 27.0
+MANURE_FACTOR_AVERAGE = 23.5
+# Utah state: 18.378
+# Ohio State: 23.36
+# Dairyland Institude (Wisconsin): 24.82
+
 DEFAULT_MILK_PRODUCTION = 68  # lbs per cow per day
 
 MANURE_N_CONTENT = 12.92  # Nitrogen content factor for USDA estimate
