@@ -1,15 +1,19 @@
 import streamlit as st
 import base64
 st.set_page_config(page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration", layout="centered")
+
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+
 import os
 import glob
-import geopandas as gpd
+import requests
+from io import StringIO
+
 from conversion_factors import *
-import numpy as np
 
 def load_parameters():
     """Load parameters and create mapping dictionaries."""
@@ -38,55 +42,57 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-def convert_columns(df):
-    categorical_cols = ['Year', 'Region', 'County', 'Template', 'Consultant', 'Dairy Name', 'Dairy Address', 'filename']
-    for col in categorical_cols:
-        if col in df.columns:
-            df[col] = df[col].astype(str)
-    numeric_cols = [col for col in df.columns if col not in categorical_cols]
-    for col in numeric_cols:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors='coerce')
-    return df
+def load_data_from_source(local_path, github_url, encoding='utf-8'):
+    """
+    Helper function to load data from either local file or GitHub.
+    
+    Args:
+        local_path (str): Path to the local file
+        github_url (str): URL to the GitHub raw file
+        encoding (str): File encoding (default: 'utf-8')
+    
+    Returns:
+        pd.DataFrame: Loaded dataframe or empty dataframe if loading fails
+    """
+    if os.path.exists(local_path):
+        return pd.read_csv(local_path, encoding=encoding)
+    else:
+        response = requests.get(github_url)
+        if response.status_code == 200:
+            return pd.read_csv(StringIO(response.text), encoding=encoding)
+        else:
+            st.warning(f"Could not load {os.path.basename(local_path)} from local or GitHub.")
+            return pd.DataFrame()
 
 def load_data():
     """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""    
     # Try local files first
     csv_files = glob.glob("outputs/consolidated/*.csv")
-    # print(f"Found {len(csv_files)} CSV files in outputs/consolidated")
     
     dfs = []
     if csv_files:
         for file in csv_files:
-            # print(f"\nReading file: {file}")
             df = pd.read_csv(file)
             dfs.append(df)
     else:
         print("No local CSV files found. Attempting to load from GitHub...")
-        import requests
-        from io import StringIO
         base_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/outputs/consolidated"
         YEARS = ["2023", "2024"]
         REGIONS = ["1", "2", "5", "7", "8"]
         files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
         for file in files_to_load:
-            url = f"{base_url}/{file}"
-            try:
-                response = requests.get(url)
-                if response.status_code == 200:
-                    df = pd.read_csv(StringIO(response.text))
-                    print(f"Loaded {file} from GitHub, shape: {df.shape}")
-                    dfs.append(df)
-                else:
-                    print(f"File {file} not found on GitHub.")
-            except Exception as e:
-                print(f"Error loading {file} from GitHub: {e}")
+            local_path = f"outputs/consolidated/{file}"
+            github_url = f"{base_url}/{file}"
+            df = load_data_from_source(local_path, github_url)
+            if not df.empty:
+                dfs.append(df)
     
     if not dfs:
-        print("No data could be loaded from local files or GitHub.")
         return pd.DataFrame()
+
+
+    combined_df = pd.concat(dfs, ignore_index=True)
     
-    combined_df = pd.concat(dfs, ignore_index=True) 
     # Clean up Year column: drop NaN, convert to int then str, and filter out invalid years
     if 'Year' in combined_df.columns:
         combined_df = combined_df[combined_df['Year'].notna()]
@@ -100,53 +106,31 @@ def load_data():
     
     return combined_df
 
-def create_map(df, selected_year): 
-    """Create a map visualization of facilities with regional board boundaries."""
-    # Convert both to strings for comparison
-    year_df = df[df['Year'].astype(str) == str(selected_year)]
+def add_histogram_trace(fig, data, name, color, opacity=0.7, nbinsx=50, clip_range=None):
+    """
+    Helper function to add a histogram trace to a figure.
     
-    # Filter out rows with NaN coordinates or herd size
-    map_df = year_df[
-        year_df['Latitude'].notna() & 
-        year_df['Longitude'].notna() & 
-        year_df['Total Herd Size'].notna()
-    ]
-    
-    if map_df.empty:
-        st.warning("No valid location data available for the selected year.")
-        return None
-    
-    # Define a distinct color palette for regions
-    color_discrete_map = {
-        'Region 1': '#1f77b4',  # Blue
-        'Region 2': '#ff7f0e',  # Orange
-        'Region 5': '#2ca02c',  # Green
-        'Region 7': '#d62728',  # Red
-        'Region 8': '#9467bd'   # Purple
-    }
-    
-    # Create the base map with facilities
-    fig = px.scatter_map(
-        map_df,
-        lat='Latitude',
-        lon='Longitude',
-        size='Total Herd Size',
-        color='Region',
-        color_discrete_map=color_discrete_map,
-        hover_name='Dairy Name',
-        hover_data={
-            'Total Herd Size': True,
-            'Region': False,
-            'Latitude': False,
-            'Longitude': False
-        },
-        title=f'CAFO Facilities in California ({selected_year})',
-        size_max=30,
-        zoom=5.5,
-        center={"lat": 37.2719, "lon": -119.2702}
-    )
-
-    return fig
+    Args:
+        fig: The figure to add the trace to
+        data: The data series to plot
+        name: The name of the trace
+        color: The color of the trace
+        opacity: The opacity of the trace (default: 0.7)
+        nbinsx: Number of bins for the histogram (default: 50)
+        clip_range: Tuple of (min, max) to clip the data (default: None)
+    """
+    if not data.empty:
+        if clip_range:
+            data = data.clip(clip_range[0], clip_range[1])
+        fig.add_trace(
+            go.Histogram(
+                x=data,
+                nbinsx=nbinsx,
+                name=name,
+                marker_color=color,
+                opacity=opacity
+            )
+        )
 
 def create_comparison_plots(df):
     """Create comparison plots between estimated and reported values."""
@@ -154,19 +138,12 @@ def create_comparison_plots(df):
     # Create a copy of the dataframe to avoid SettingWithCopyWarning
     df = df.copy()
     
-    # Color scheme for consistency
-    estimated_color = 'rgb(135, 206, 235)'  # light blue
-    reported_color = 'rgb(0, 71, 171)'      # dark blue
-    ucce_color = 'rgb(144, 238, 144)'       # light green
-    base_color = 'rgb(255, 165, 0)'         # orange for base values
-    
     # Calculate Milk Production Source
     milk_col = 'Average Milk Production (lb per cow per day)'
     if milk_col in df.columns:
         df.loc[:, 'Milk Production Source'] = df[milk_col].apply(
             lambda x: 'Reported' if pd.notna(x) and x > 0 else 'Estimated'
         )
-        print(df['Milk Production Source'].value_counts())
     else:
         print(f"\nWARNING: Milk production column '{milk_col}' not found")
         df.loc[:, 'Milk Production Source'] = 'Estimated'
@@ -178,50 +155,13 @@ def create_comparison_plots(df):
     # 1. Nitrogen Generation - Percentage Deviation Histograms
     nitrogen_fig = go.Figure()
     
-    # Use the pretty column names
-    usda_col = "USDA Nitrogen % Deviation"
-    ucce_col = "UCCE Nitrogen % Deviation" 
-    
-    print("\n=== Nitrogen Generation Plot ===")
-    print(f"Looking for columns: {usda_col}, {ucce_col}")
-    
     # Filter data for USDA nitrogen deviations
     usda_nitrogen_data = df[usda_col].dropna() if usda_col in df.columns else pd.Series()
-    print(f"USDA Nitrogen data points: {len(usda_nitrogen_data)}")
-    if not usda_nitrogen_data.empty:
-        # Group extreme values
-        usda_nitrogen_data = usda_nitrogen_data.clip(-100, 100)
-        print(f"USDA Nitrogen data range: {usda_nitrogen_data.min():.2f} to {usda_nitrogen_data.max():.2f}")
-        nitrogen_fig.add_trace(
-            go.Histogram(
-                x=usda_nitrogen_data,
-                nbinsx=50,
-                name="USDA Estimate",
-                marker_color=estimated_color,
-                opacity=0.7
-            )
-        )
-    else:
-        print("WARNING: No USDA Nitrogen data available")
+    add_histogram_trace(nitrogen_fig, usda_nitrogen_data, "USDA Estimate", NITROGEN_EST_COLOR, clip_range=(-100, 100))
     
     # Filter data for UCCE nitrogen deviations
     ucce_nitrogen_data = df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
-    print(f"UCCE Nitrogen data points: {len(ucce_nitrogen_data)}")
-    if not ucce_nitrogen_data.empty:
-        # Group extreme values
-        ucce_nitrogen_data = ucce_nitrogen_data.clip(-100, 100)
-        print(f"UCCE Nitrogen data range: {ucce_nitrogen_data.min():.2f} to {ucce_nitrogen_data.max():.2f}")
-        nitrogen_fig.add_trace(
-            go.Histogram(
-                x=ucce_nitrogen_data,
-                nbinsx=50,
-                name="UCCE Estimate",
-                marker_color=ucce_color,
-                opacity=0.7
-            )
-        )
-    else:
-        print("WARNING: No UCCE Nitrogen data available")
+    add_histogram_trace(nitrogen_fig, ucce_nitrogen_data, "UCCE Estimate", NITROGEN_COLOR, clip_range=(-100, 100))
     
     # Add vertical line at 0% deviation if we have any data
     if not usda_nitrogen_data.empty or not ucce_nitrogen_data.empty:
@@ -229,13 +169,14 @@ def create_comparison_plots(df):
             usda_nitrogen_data.value_counts().max() if not usda_nitrogen_data.empty else 0,
             ucce_nitrogen_data.value_counts().max() if not ucce_nitrogen_data.empty else 0
         )
+        
         nitrogen_fig.add_trace(
             go.Scatter(
                 x=[0, 0],
                 y=[0, max_count],
                 mode='lines',
                 name='Perfect Match',
-                line=dict(color='black', width=2, dash='dash')
+                line=dict(color=CHART_COLORS['perfect_match'], width=2, dash='dash')
             )
         )
     
@@ -245,67 +186,28 @@ def create_comparison_plots(df):
         xaxis_title="Percentage Deviation",
         yaxis_title="Number of Facilities",
         showlegend=True,
-        legend=dict(
-            yanchor="top",
-            y=0.99,
-            xanchor="left",
-            x=0.01
-        )
+        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01)
     )
     
     # 2. Wastewater Generation - Ratio to Milk Production
     wastewater_fig = go.Figure()
     
-    # Use pretty column names
-    reported_col = "Wastewater to Reported Milk Ratio"
-    estimated_col = "Wastewater to Estimated Milk Ratio"
-    
-    print("\n=== Wastewater Generation Plot ===")
-    print(f"Looking for columns: {reported_col}, {estimated_col}")
-    
     # Filter data for reported wastewater ratios
     reported_mask = df['Milk Production Source'] == 'Reported'
-    reported_wastewater_data = df.loc[reported_mask, reported_col].dropna() if reported_col in df.columns else pd.Series()
-    print(f"Reported wastewater data points: {len(reported_wastewater_data)}")
-    
-    if not reported_wastewater_data.empty:
-        print(f"Reported wastewater data range: {reported_wastewater_data.min():.2f} to {reported_wastewater_data.max():.2f}")
-        wastewater_fig.add_trace(
-            go.Histogram(
-                x=reported_wastewater_data,
-                nbinsx=50,
-                name="Based on Reported Milk",
-                marker_color=reported_color,
-                opacity=0.7
-            )
-        )
-    else:
-        print("WARNING: No reported wastewater data available")
+    reported_wastewater_data = df.loc[reported_mask, "Wastewater to Reported Milk Ratio"].dropna() if "Wastewater to Reported Milk Ratio" in df.columns else pd.Series()
+    add_histogram_trace(wastewater_fig, reported_wastewater_data, "Based on Reported Milk", WASTEWATER_COLOR)
     
     # Filter data for estimated wastewater ratios
     estimated_mask = df['Milk Production Source'] == 'Estimated'
-    estimated_wastewater_data = df.loc[estimated_mask, estimated_col].dropna() if estimated_col in df.columns else pd.Series()
-    print(f"Estimated wastewater data points: {len(estimated_wastewater_data)}")
-    if not estimated_wastewater_data.empty:
-        print(f"Estimated wastewater data range: {estimated_wastewater_data.min():.2f} to {estimated_wastewater_data.max():.2f}")
-        wastewater_fig.add_trace(
-            go.Histogram(
-                x=estimated_wastewater_data,
-                nbinsx=50,
-                name="Based on Estimated Milk",
-                marker_color=estimated_color,
-                opacity=0.7
-            )
-        )
-    else:
-        print("WARNING: No estimated wastewater data available")
+    estimated_wastewater_data = df.loc[estimated_mask, "Wastewater to Estimated Milk Ratio"].dropna() if "Wastewater to Estimated Milk Ratio" in df.columns else pd.Series()
+    add_histogram_trace(wastewater_fig, estimated_wastewater_data, "Based on Estimated Milk", WASTEWATER_EST_COLOR)
     
     # Add green rectangle for expected range
     if not reported_wastewater_data.empty or not estimated_wastewater_data.empty:
         wastewater_fig.add_vrect(
             x0=0,
             x1=L_WW_PER_L_MILK_LOW,
-            fillcolor="rgba(200,0,0,0.15)",
+            fillcolor=CHART_COLORS['under_reporting'],
             layer="below",
             line_width=0,
             annotation_text="Likely<br>Under-Reporting",
@@ -319,214 +221,39 @@ def create_comparison_plots(df):
         yaxis_title="Number of Facilities",
         showlegend=True,
         barmode="stack",
-        legend=dict(
-            yanchor="top",
-            y=0.99,
-            xanchor="right",
-            x=1
-        )
+        legend=dict(yanchor="top", y=0.99, xanchor="right", x=1)
     )
     
     return nitrogen_fig, wastewater_fig
 
-# Define standardized colors for the app
-NITROGEN_COLOR = 'rgb(0, 71, 171)'
-NITROGEN_EST_COLOR = 'rgba(0, 71, 171, 0.5)'
-WASTEWATER_COLOR = 'rgb(135, 206, 235)'
-WASTEWATER_EST_COLOR = 'rgba(135, 206, 235, 0.5)'
-MANURE_COLOR = 'rgb(255, 165, 0)'
-MANURE_EST_COLOR = 'rgba(255, 165, 0, 0.5)'
-
-# General dual-use bar plot function
-from typing import List, Tuple
-
-def dual_bar_plot(fig, row, col, reported_label, reported_value, estimated_label, estimated_value, color, est_color, y_label, unit):
-    bars = []
-    if reported_value is not None:
-        bars.append(dict(
-            x=[reported_label],
-            y=[reported_value],
-            name=reported_label,
-            marker_color=color,
-            marker_pattern_shape="",
-            text=[f"{reported_value:,.0f} {unit}"],
-            textposition='auto',
-            legendgroup=reported_label,
-            showlegend=True
-        ))
-    if estimated_value is not None:
-        bars.append(dict(
-            x=[estimated_label],
-            y=[estimated_value],
-            name=estimated_label,
-            marker_color=est_color,
-            marker_pattern_shape="/",
-            text=[f"{estimated_value:,.0f} {unit}"],
-            textposition='auto',
-            legendgroup=estimated_label,
-            showlegend=True
-        ))
-    for bar in bars:
-        fig.add_trace(go.Bar(**bar), row=row, col=col)
-    fig.update_yaxes(title_text=y_label, row=row, col=col)
-
-
-def create_facility_comparison_plots(df, facility_name):
-    """Create comparison plots for a specific facility."""
-    herd_cols = [
-        'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
-        'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)', 'Average Other'
-    ]
-    if facility_name not in df['Dairy Name'].values:
-        return None
-    facility_data = df[df['Dairy Name'] == facility_name].iloc[0]
-    fig = make_subplots(
-        rows=2, cols=2,
-        subplot_titles=(
-            "Herd Breakdown",
-            "Nitrogen Generation", 
-            "Wastewater Generation",
-            "Manure Generation"
-        )
-    )
-    # 1. Herd Breakdown (solid color only)
-    herd_data = [] 
-    for col in herd_cols:
-        if col in facility_data and pd.notna(facility_data[col]):
-            herd_data.append({'name': col, 'value': facility_data[col]})
-    if herd_data:
+def add_bar_trace(fig, x, y, name, color, pattern_shape="", text=None, textposition='auto', showlegend=True, row=None, col=None, legendgroup=None):
+    """
+    Helper function to add a bar trace to a figure.
+    
+    Args:
+        fig: The figure to add the trace to
+        x: x-axis values
+        y: y-axis values
+        name: The name of the trace
+        color: The color of the trace
+        pattern_shape: Pattern shape for the bars (default: "")
+        text: Text to display on bars (default: None)
+        textposition: Position of the text (default: 'auto')
+        showlegend: Whether to show in legend (default: True)
+        row: Subplot row number (default: None)
+        col: Subplot column number (default: None)
+        legendgroup: Legend group name (default: None)
+    """
+    if y is not None:
         fig.add_trace(
-            go.Bar(
-                x=[d['name'].replace('Average ', '') for d in herd_data],
-                y=[d['value'] for d in herd_data],
-                name='Herd Breakdown',
-                marker_color='gray',
-                text=[f"{d['value']:,.0f}" for d in herd_data],
-                textposition='auto',
-                showlegend=False
+            go.Bar(x=[x], y=[y], name=name,
+                marker_color=color, marker_pattern_shape=pattern_shape,
+                text=[text] if text else None, textposition=textposition,
+                legendgroup=legendgroup, showlegend=showlegend
             ),
-            row=1, col=1
+            row=row,
+            col=col
         )
-    # 2. Nitrogen Generation (reported, USDA est, UCCE est)
-    n_reported = 'Total Reported N (lbs)'
-    n_usda = 'USDA N Estimate (lbs)'
-    n_ucce = 'UCCE N Estimate (lbs)'
-    n_reported_val = facility_data[n_reported] if n_reported in facility_data and pd.notna(facility_data[n_reported]) else None
-    n_usda_val = facility_data[n_usda] if n_usda in facility_data and pd.notna(facility_data[n_usda]) else None
-    n_ucce_val = facility_data[n_ucce] if n_ucce in facility_data and pd.notna(facility_data[n_ucce]) else None
-    # Plot reported (solid), USDA est (hashed), UCCE est (hashed)
-    if n_reported_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Reported'],
-            y=[n_reported_val],
-            name='Reported',
-            marker_color=NITROGEN_COLOR,
-            marker_pattern_shape="",
-            text=[f"{n_reported_val:,.0f} lbs"],
-            textposition='auto',
-            legendgroup='reported',
-            showlegend=False
-        ), row=1, col=2)
-    # if n_usda_val is not None:
-    #     fig.add_trace(go.Bar(
-    #         x=['Estimated (USDA)'],
-    #         y=[n_usda_val],
-    #         name='Estimated',
-    #         marker_color=NITROGEN_EST_COLOR,
-    #         marker_pattern_shape="/",
-    #         text=[f"{n_usda_val:,.0f} lbs"],
-    #         textposition='auto',
-    #         # legendgroup='estimated',
-    #         showlegend=False
-    #     ), row=1, col=2)
-    if n_ucce_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Estimated (UCCE)'],
-            y=[n_ucce_val],
-            name='Estimated',
-            marker_color=NITROGEN_EST_COLOR,
-            marker_pattern_shape="/",
-            text=[f"{n_ucce_val:,.0f} lbs"],
-            textposition='auto',
-            legendgroup='estimated',
-            showlegend=False
-        ), row=1, col=2)
-    # 3. Wastewater Generation
-    ww_reported = 'Total Wastewater Generated (L)'
-    ww_reported_val = facility_data[ww_reported] if ww_reported in facility_data and pd.notna(facility_data[ww_reported]) else None
-    ww_estimated_val = facility_data['Estimated Total Wastewater Generated (L)']
-    if ww_reported_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Reported'],
-            y=[ww_reported_val],
-            name='Reported',
-            marker_color=WASTEWATER_COLOR,
-            marker_pattern_shape="",
-            text=[f"{ww_reported_val:,.0f} L"],
-            textposition='auto',
-            legendgroup='reported',
-            showlegend=False
-        ), row=2, col=1)
-    if ww_estimated_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Estimated'],
-            y=[ww_estimated_val],
-            name='Estimated',
-            marker_color=WASTEWATER_EST_COLOR,
-            marker_pattern_shape="/",
-            text=[f"{ww_estimated_val:,.0f} L"],
-            textposition='auto',
-            legendgroup='estimated',
-            showlegend=False
-        ), row=2, col=1)
-    # 4. Manure Generation
-    manure_reported = 'Total Manure Excreted (tons)'
-    herd_size_col = 'Total Herd Size'
-    manure_reported_val = facility_data[manure_reported] if manure_reported in facility_data and pd.notna(facility_data[manure_reported]) else None
-    manure_estimated_val = MANURE_FACTOR_AVERAGE * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
-    if manure_reported_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Reported'],
-            y=[manure_reported_val],
-            name='Reported',
-            marker_color=MANURE_COLOR,
-            marker_pattern_shape="",
-            text=[f"{manure_reported_val:,.0f} tons"],
-            textposition='auto',
-            legendgroup='reported',
-            showlegend=False
-        ), row=2, col=2)
-    if manure_estimated_val is not None:
-        fig.add_trace(go.Bar(
-            x=['Estimated'],
-            y=[manure_estimated_val],
-            name='Estimated',
-            marker_color=MANURE_EST_COLOR,
-            marker_pattern_shape="/",
-            text=[f"{manure_estimated_val:,.0f} tons"],
-            textposition='auto',
-            legendgroup='estimated',
-            showlegend=False
-        ), row=2, col=2)
-    fig.update_layout(
-        # showlegend=True,
-        height=700,  # Reduce plot height
-        font=dict(size=22),  # Larger base font
-        # title_font=dict(size=34),
-        # legend=dict(
-        #     orientation="h",
-        #     yanchor="bottom",
-        #     y=1.08,
-        #     xanchor="center",
-        #     x=0.5,
-        #     font=dict(size=22)
-        # )
-    ) 
-    fig.update_xaxes(title_font=dict(size=22), tickfont=dict(size=20))
-    fig.update_yaxes(title_font=dict(size=22), tickfont=dict(size=20))
-    fig.update_xaxes(tickangle=30, row=1, col=1)  # Angle x-ticks for herd breakdown
-    return fig
-
 
 def create_consultant_comparison_plots(): 
     # Load pre-calculated consultant metrics
@@ -537,7 +264,7 @@ def create_consultant_comparison_plots():
     fig = make_subplots(
         rows=1, cols=3,
         subplot_titles=("Nitrogen Deviation", "Wastewater to Milk", "Manure Factor"),
-        horizontal_spacing=0.15  # Add whitespace between subplots
+        horizontal_spacing=0.15  # whitespace between subplots
     )
 
     # 1. Nitrogen Generation
@@ -546,7 +273,7 @@ def create_consultant_comparison_plots():
     y2 = df['UCCE Nitrogen % Dev Avg']
     y2_std = df['UCCE Nitrogen % Dev Std']
 
-    # Only show error bars if std is not null
+    # Error bars if std is not null
     for y, y_std, name, color, col in [
         (y1, y1_std, "Reported Nitrogen Deviation from USDA Estimate", "blue", 1),
         (y2, y2_std, "Reported Nitrogen Deviation from UCCE Estimate", "lightblue", 1)
@@ -554,13 +281,9 @@ def create_consultant_comparison_plots():
         error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y_std], visible=True) if not y_std.isnull().all() else None
         fig.add_trace(
             go.Bar(
-                x=consultants,
-                y=y,
-                name=name,
-                marker_color=color,
-                error_y=error_y if error_y and not all(np.isnan(y_std)) else None,
-                text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y],
-                textposition='auto',
+                x=consultants, y=y,
+                name=name, marker_color=color, error_y=error_y if error_y and not all(np.isnan(y_std)) else None,
+                text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y], textposition='auto',
                 showlegend=False
             ),
             row=1, col=1
@@ -571,14 +294,9 @@ def create_consultant_comparison_plots():
     y3_std = df['Wastewater Ratio Std']
     error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y3_std], visible=True) if not y3_std.isnull().all() else None
     fig.add_trace(
-        go.Bar(
-            x=consultants,
-            y=y3,
-            name="Based on Reported Milk",
-            marker_color="red",
-            error_y=error_y if error_y and not all(np.isnan(y3_std)) else None,
-            text=[f"{v:.2f}" if not np.isnan(v) else "" for v in y3],
-            textposition='auto',
+        go.Bar(x=consultants, y=y3, name="Based on Reported Milk",
+            marker_color="red", error_y=error_y if error_y and not all(np.isnan(y3_std)) else None,
+            text=[f"{v:.2f}" if not np.isnan(v) else "" for v in y3], textposition='auto',
             showlegend=False
         ),
         row=1, col=2
@@ -602,35 +320,24 @@ def create_consultant_comparison_plots():
         row=1, col=3
     )
 
-    # Update layout
-    fig.update_layout(
-        showlegend=False,  # Remove legend
-        height=500,
-        margin=dict(l=40, r=40, t=80, b=40)
-    )
+    fig.update_layout(showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40))
     fig.update_yaxes(title_text="%", row=1, col=1)
     fig.update_yaxes(title_text="Liters per Liter Milk", row=1, col=2)
     fig.update_yaxes(title_text="Manure per Cow", row=1, col=3)
     return fig
 
 def filter_tab2(df, selected_year):
-    # print(f"Initial rows: {len(df)}")
-    # print(f"Selected year: {selected_year}")
-    
     available_regions = ['R5', 'R7']
     selected_regions = st.multiselect("Select Regions", available_regions, default=available_regions)
-    # print(f"Selected regions: {selected_regions}")
     
     if not selected_regions:
         return pd.DataFrame(), [], [], []
     
     available_counties = sorted(df[df['Region'].isin(selected_regions)]['County'].dropna().unique())
     selected_counties = st.multiselect("Select Counties", available_counties, default=available_counties)
-    # print(f"Selected counties: {selected_counties}")
     
     available_consultants = sorted(df[df['Region'].isin(selected_regions)]['Consultant'].dropna().unique())
     selected_consultants = st.multiselect("Select Consultants", available_consultants, default=available_consultants)
-    # print(f"Selected consultants: {selected_consultants}")
     
     filtered_df = df[(df['Year'] == selected_year) &
                      (df['Region'].isin(selected_regions)) &
@@ -648,7 +355,7 @@ def manure_scatter_from_df(xlim=20000):
         x=df['Total Herd Size'],
         y=df['Total Manure Excreted (tons)'],
         mode='markers',
-        marker=dict(size=10, color='rgb(255, 165, 0)', opacity=0.7),
+        marker=dict(size=10, color=MANURE_COLOR, opacity=0.7),
         name='Facilities'
     ))
     max_herd = min(df['Total Herd Size'].max(), xlim)
@@ -656,7 +363,7 @@ def manure_scatter_from_df(xlim=20000):
         x=[0, max_herd],
         y=[0, max_herd * 20],
         mode='lines',
-        line=dict(color='red', width=2, dash='dash'),
+        line=dict(color=CHART_COLORS['perfect_match'], width=2, dash='dash'),
         name='20 tons/cow/year'
     ))
     df['expected_manure'] = df['Total Herd Size'] * 12
@@ -690,7 +397,6 @@ def main():
     st.markdown("""
     ### Revealing Dairy CAFO Compliance and Data Discrepancies
     
-    
     This dashboard presents the first public analysis of annual reports from Dairy CAFOs (Concentrated Animal Feeding Operations) and reveals concerns about manure and wastewater-related reporting.
     This data shows what local community members have long known: that CAFO dairies are lying and not prioritizing public health.
     """)
@@ -699,7 +405,7 @@ def main():
         df = load_data()
         
         # Create tabs
-        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Herd Counts", "Manure Manifests", "CAFO Reporting Data", "Enforcement", "Data Availability & Sources"])
+        tab1, tab2, tab3, tab4, tab5 = st.tabs(["Herd Size", "Manure Manifests", "Nutrients and Wastewater", "Enforcement", "Data Availability & Sources"])
         
         with tab1:
             st.write("""
@@ -718,24 +424,31 @@ def main():
             st.subheader("Facility Locations")
             if not map_df.empty and 'Latitude' in map_df.columns:
                 st.metric("Total Animals", f"{map_df['Total Herd Size'].sum():,.0f}")
-                map_fig = create_map(map_df, selected_year)
-                if map_fig is not None:
-                    st.write("*To do: incorporate the CADD dataset for herd size to capture more facilities. And/or Lucia's dataset*")
-                    st.plotly_chart(map_fig, use_container_width=True, height=1000)
+                # Filter for year and valid coordinates and herd size
+                year_df = df[df['Year'].astype(str) == str(selected_year)]
+                map_df = year_df[year_df['Latitude'].notna() & year_df['Longitude'].notna() & year_df['Total Herd Size'].notna()]
+                
+                map_fig = px.scatter_map(map_df, lat='Latitude', lon='Longitude', size='Total Herd Size', color='Region',
+                                    color_discrete_map=REGION_COLORS, hover_name='Dairy Name', hover_data={'Total Herd Size': True},
+                                    title=f'CAFO Facilities in California ({selected_year})', size_max=20, zoom=4.0,
+                                    center={"lat": 37.2719, "lon": -119.2702})
+
+                st.plotly_chart(map_fig, use_container_width=True, height=1000)
+                st.write("*To do: incorporate the CADD / RegLab datasets for herd size to capture more facilities.*")
             else:
                 st.warning("No location data available for the selected year.")
             
-            # Add spacing between maps
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
 
-            # Facility search and comparison (moved from tab3)
+            # Facility search and comparison
             st.subheader("Facility Search")
             st.write("""
             Search for specific facilities to examine their reporting patterns in detail. 
             This tool helps identify individual cases of potential noncompliance.
             """)
-            # Add county filter for facility search
+
+            # county filter for facility search
             facility_counties = sorted(map_df['County'].dropna().unique())
             selected_facility_county = st.selectbox(
                 "Filter by County",
@@ -749,19 +462,86 @@ def main():
                 facility_df = map_df
             facility_names = sorted(facility_df['Dairy Name'].unique())
             selected_facility = st.selectbox("Select a Facility", facility_names, index=facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0, key="facility_name_tab1")
-            if selected_facility:
-                # Get facility details
+            if selected_facility: # Get facility details
                 facility_data = facility_df[facility_df['Dairy Name'] == selected_facility].iloc[0]
                 col1, col2 = st.columns(2)
                 with col1:
                     st.write(f"Address: {facility_data['Street Address']} {facility_data['City']}, CA {facility_data['Zip']}")
                 with col2:
                     st.write(f"Report prepared by: {facility_data['Consultant']}")
-                facility_comparison_fig = create_facility_comparison_plots(facility_df, selected_facility)
+
+                herd_cols = [
+                    'Average Milk Cows', 'Average Dry Cows', 'Average Bred Heifers',
+                    'Average Heifers', 'Average Calves (4-6 mo.)', 'Average Calves (0-3 mo.)', 'Average Other'
+                ]
+                
+                facility_data = facility_df[facility_df['Dairy Name'] == selected_facility].iloc[0]
+                facility_comparison_fig = make_subplots(
+                    rows=2, cols=2,
+                    subplot_titles=("Herd Breakdown", "Nitrogen Generation", "Wastewater Generation", "Manure Generation")
+                )
+                
+                # 1. Herd Breakdown
+                herd_data = [] 
+                for col in herd_cols:
+                    if col in facility_data and pd.notna(facility_data[col]):
+                        herd_data.append({'name': col, 'value': facility_data[col]})
+                if herd_data:
+                    facility_comparison_fig.add_trace(
+                        go.Bar(
+                            x=[d['name'].replace('Average ', '') for d in herd_data],
+                            y=[d['value'] for d in herd_data],
+                            name='Herd Breakdown',
+                            marker_color='gray',
+                            text=[f"{d['value']:,.0f}" for d in herd_data],
+                            textposition='auto',
+                            showlegend=False
+                        ),
+                        row=1, col=1
+                    )
+                
+                # 2. Nitrogen Generation
+                n_reported = 'Total Reported N (lbs)'
+                n_usda = 'USDA N Estimate (lbs)'
+                n_ucce = 'UCCE N Estimate (lbs)'
+                n_reported_val = facility_data[n_reported] if n_reported in facility_data and pd.notna(facility_data[n_reported]) else None
+                n_usda_val = facility_data[n_usda] if n_usda in facility_data and pd.notna(facility_data[n_usda]) else None
+                n_ucce_val = facility_data[n_ucce] if n_ucce in facility_data and pd.notna(facility_data[n_ucce]) else None
+                
+                add_bar_trace(facility_comparison_fig, 'Reported', n_reported_val, 'Reported', NITROGEN_COLOR, text=f"{n_reported_val:,.0f} lbs" if n_reported_val else None, row=1, col=2, legendgroup='reported', showlegend=False)
+                add_bar_trace(facility_comparison_fig, 'Estimated (USDA)', n_usda_val, 'Estimated (USDA)', NITROGEN_EST_COLOR, pattern_shape="/", text=f"{n_usda_val:,.0f} lbs" if n_usda_val else None, row=1, col=2, legendgroup='estimated', showlegend=False)
+                add_bar_trace(facility_comparison_fig, 'Estimated (UCCE)', n_ucce_val, 'Estimated (UCCE)', NITROGEN_EST_COLOR, pattern_shape="/", text=f"{n_ucce_val:,.0f} lbs" if n_ucce_val else None, row=1, col=2, legendgroup='estimated', showlegend=False)
+                
+                # 3. Wastewater Generation
+                ww_reported = 'Total Wastewater Generated (L)'
+                ww_reported_val = facility_data[ww_reported] if ww_reported in facility_data and pd.notna(facility_data[ww_reported]) else None
+                ww_estimated_val = facility_data['Estimated Total Wastewater Generated (L)']
+                
+                add_bar_trace(facility_comparison_fig, 'Reported', ww_reported_val, 'Reported', WASTEWATER_COLOR, text=f"{ww_reported_val:,.0f} L" if ww_reported_val else None, row=2, col=1, legendgroup='reported', showlegend=False)
+                add_bar_trace(facility_comparison_fig, 'Estimated', ww_estimated_val, 'Estimated', WASTEWATER_EST_COLOR, pattern_shape="/", text=f"{ww_estimated_val:,.0f} L" if ww_estimated_val else None, row=2, col=1, legendgroup='estimated', showlegend=False)
+                
+                # 4. Manure Generation
+                manure_reported = 'Total Manure Excreted (tons)'
+                herd_size_col = 'Total Herd Size'
+                manure_reported_val = facility_data[manure_reported] if manure_reported in facility_data and pd.notna(facility_data[manure_reported]) else None
+                manure_estimated_val = MANURE_FACTOR_AVERAGE * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
+                
+                add_bar_trace(facility_comparison_fig, 'Reported', manure_reported_val, 'Reported', MANURE_COLOR, text=f"{manure_reported_val:,.0f} tons" if manure_reported_val else None, row=2, col=2, legendgroup='reported', showlegend=False)
+                add_bar_trace(facility_comparison_fig, 'Estimated', manure_estimated_val, 'Estimated', MANURE_EST_COLOR, pattern_shape="/", text=f"{manure_estimated_val:,.0f} tons" if manure_estimated_val else None, row=2, col=2, legendgroup='estimated', showlegend=False)
+                
+                facility_comparison_fig.update_layout(
+                    height=700,
+                    font=dict(size=22),
+                ) 
+                facility_comparison_fig.update_xaxes(title_font=dict(size=22), tickfont=dict(size=20))
+                facility_comparison_fig.update_yaxes(title_font=dict(size=22), tickfont=dict(size=20))
+                facility_comparison_fig.update_xaxes(tickangle=30, row=1, col=1)
+
                 if facility_comparison_fig is not None:
                     st.plotly_chart(facility_comparison_fig, use_container_width=True)
                 else:
                     st.warning(f"No data available for {selected_facility}")
+            
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
         
@@ -770,20 +550,16 @@ def main():
             This section visualizes the movement of manure exports throughout the Central Valley region, 
             revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
             """)
-            
-            # Display placeholder image
+
             st.image("ca_cafo_compliance/images/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
 
-            # # Add ArcGIS map embed
-            # st.subheader("CAFO Density around Elementary Schools")
-            # st.write("Just an example of how we can embed an ArcGIS map that has been published to an online url. This example is from https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4")
+            # st.subheader("CAFO Density around Elementary Schools - example embed")
             # st.components.v1.iframe(
             #     "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
             #     height=600,
             #     scrolling=True
             # )
                         
-            # Add spacing between maps
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
         
@@ -871,8 +647,6 @@ def main():
             )
         
         with tab4:
-            st.write("Coming soon: Enforcement Data")
-
             # --- Violation Summary ---
             st.markdown("""
             **Summary of Violations by Region and Type**
@@ -885,18 +659,8 @@ def main():
             # Load and summarize violation data
             try:
                 violations_path = "data/Detailed_Violation_Report.csv"
-                if os.path.exists(violations_path):
-                    vdf = pd.read_csv(violations_path, encoding = 'latin1')
-                else:
-                    import requests
-                    from io import StringIO
-                    url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
-                    response = requests.get(url)
-                    if response.status_code == 200:
-                        vdf = pd.read_csv(StringIO(response.text))
-                    else:
-                        st.warning("Could not load Detailed_Violation_Report.csv from local or GitHub.")
-                        vdf = pd.DataFrame()
+                github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
+                vdf = load_data_from_source(violations_path, github_url, encoding='latin1')
 
                 if not vdf.empty:
                     # Clean up region and type columns, and map RB for display
@@ -929,23 +693,11 @@ def main():
 
             st.image("ca_cafo_compliance/images/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
 
-            # --- Data Availability Pie Chart ---
-            # Try to load reports_available.csv locally, else from GitHub
             csv_path = "data/reports_available.csv"
-            if os.path.exists(csv_path):
-                reports_df = pd.read_csv(csv_path)
-            else:
-                import requests
-                from io import StringIO
-                url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
-                response = requests.get(url)
-                if response.status_code == 200:
-                    reports_df = pd.read_csv(StringIO(response.text))
-                else:
-                    st.error("Could not load reports_available.csv from local or GitHub.")
-                    reports_df = pd.DataFrame(columns=["region", "acquired", "total"])
+            github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
+            reports_df = load_data_from_source(csv_path, github_url)
 
-            # Enhanced region/county mapping for labels
+            # Region/county mapping for labels, accounting for sub-regions of R5
             def get_region_label(row):
                 region = str(row.get('region', ''))
                 county = str(row.get('county', '')).lower() if 'county' in row else ''
@@ -988,12 +740,8 @@ def main():
 
             # Pie chart
             pie_fig = go.Figure(data=[
-                go.Pie(
-                    labels=["Acquired", "Not Acquired"],
-                    values=[acquired, not_acquired],
-                    marker=dict(colors=["#5B8DB8", "#FFFBE6"]),
-                    textinfo='label+percent',
-                    hole=0.3
+                go.Pie(labels=["Acquired", "Not Acquired"], values=[acquired, not_acquired],
+                       marker=dict(colors=[CHART_COLORS['acquired'], CHART_COLORS['not_acquired']]), textinfo='label+percent', hole=0.3
                 )
             ])
             pie_fig.update_layout(

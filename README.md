@@ -56,17 +56,14 @@ data/
 
 ## Usage
 
-1. Process PDF reports:
+1. Extract text from PDF reports:
+
+2. Process text from extracted reports and consolidate data:
 ```bash
 python -m ca_cafo_compliance.read_reports
 ```
 
-2. Consolidate data and geocode addresses:
-```bash
-python -m ca_cafo_compliance.consolidate_data
-```
-
-3. Run the Streamlit app:
+3. Run the Streamlit app locally (or at ):
 ```bash
 streamlit run ca_cafo_compliance/app.py
 ```
@@ -84,39 +81,26 @@ streamlit run ca_cafo_compliance/app.py
 
 ## Data Processing Pipeline
 
-1. **PDF Processing** (`read_reports.py`):
+1. **PDF Text Extraction** (`extract_pdf_text.py`):
    - Extracts text from PDFs using OCR
-   - Processes both typed and handwritten text
+
+1a. **Supplemental Handwitten PDF Text Extraction**:
+   - Used HandwritingOCR to process handwritten reports
+   - Manually saved these reports into the relevant region/county/template folder under "handwriting_ocr_output/"
+
+2. **Data Consolidation** (`read_reports.py`):
    - Extracts data based on parameter locations
    - Calculates compliance metrics
-
-2. **Data Consolidation** (`consolidate_data.py`):
    - Combines data from multiple reports
    - Geocodes facility addresses
    - Creates master datasets by region
 
 3. **Data Visualization** (`app.py`):
-   - Interactive web interface
-   - Facility mapping
+   - Interactive web interface using Streamlit
+   - Embedded maps
    - Compliance metric analysis
    - Data filtering and exploration
 
-## Key Metrics
-
-- Total Herd Size
-- Manure Generation
-- Nutrient Application
-- Wastewater Production
-- Compliance Ratios
-- Geographic Distribution
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## License
 
