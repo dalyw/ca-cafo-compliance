@@ -8,97 +8,23 @@ cf_df = pd.read_csv('ca_cafo_compliance/data/conversion_factors.csv')
 cf =  {row['NAME']: float(row['VALUE']) for _, row in cf_df.iterrows()}
 
 YEARS = [2023, 2024]
-REGIONS = ['R1', 'R2', 'R5', 'R7', 'R8']
 
-consultant_mapping = {
-    'generic_r5': 'Self-completed (R5)',
-    'generic_r7': 'Self-completed (R7)',
-    'generic_r2': 'Self-completed (R2)',
-    'generic_r1': 'Self-completed (R1)',
-    'dellaville': 'Dellavile',
-    'innovative_ag': 'Innovative Ag',
-    'livingston': 'Livingston',
-    'provost_pritchard': 'Provost Pritchard',
-    'r8_csv': 'Self-completed (R8)',
-}
+# Read unique regions from county_region.csv
+county_region_df = pd.read_csv('ca_cafo_compliance/data/county_region.csv')
+REGIONS = sorted(county_region_df['region'].unique().tolist())
 
-R2_COUNTIES = ["Alameda", "Contra Costa", "Marin", "Napa",  "San Francisco", 
-                "San Mateo", "Santa Clara", "Solano", "Sonoma"]
-
-# County mapping for address parsing
-COUNTY_MAPPING = {
-    'fresno': 'Fresno/Madera',
-    'madera': 'Fresno/Madera',
-    'kern': 'Kern',
-    'kings': 'Kings',
-    'tulare': 'Tulare',
-    'sonoma': 'Sonoma',
-    'marin': 'Marin',
-    'napa': 'Napa',
-    'solano': 'Solano',
-    'contra costa': 'Contra Costa',
-    'alameda': 'Alameda',
-    'san francisco': 'San Francisco',
-    'san mateo': 'San Mateo',
-    'santa clara': 'Santa Clara'
-}
-
-street_replacements = {
-    'avenue': 'ave',
-    'street': 'st',
-    'road': 'rd',
-    'boulevard': 'blvd',
-    'highway': 'hwy'
-}
-
-
-def load_parameters():
-    """Load parameters and create mapping dictionaries."""
-    parameters = pd.read_csv('ca_cafo_compliance/data/parameters.csv')
-    snake_to_pretty = dict(zip(parameters['parameter_key'], parameters['parameter_name']))
-    return {
-        'snake_to_pretty': snake_to_pretty,
-        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
-    }
-
-def extract_value_with_pattern(text):
-    """Extract the first number (int or float) from the text."""
-    if not isinstance(text, str):
-        text = str(text)
-    match = re.search(r'-?\d+\.?\d*', text)
-    if match:
-        return match.group(0)
-    return text
-
-def extract_from_line(line, ignore_before=None, ignore_after=None):
-    if not isinstance(line, str):
-        line = str(line)
-    if ignore_after:
-        idx = line.lower().find(str(ignore_after).lower())
-        if idx != -1:
-            line = line[:idx].strip()
-    if ignore_before:
-        idx = line.lower().find(str(ignore_before).lower())
-        if idx != -1:
-            line = line[idx + len(str(ignore_before)) :].strip()
-    return extract_value_with_pattern(line)
-
-def find_last_data_row(lines, start_idx, stop_phrases):
-    for j in range(start_idx+1, len(lines)):
-        line = lines[j]
-        if not isinstance(line, str):
-            line = str(line)
-        if not line.strip() or any(phrase in line.lower() for phrase in stop_phrases):
-            return j-1
-    return len(lines)-1
+# Create consultant mapping from templates.csv
+templates_df = pd.read_csv('ca_cafo_compliance/data/templates.csv')
+consultant_mapping = dict(zip(templates_df['template_key'], templates_df['template_name']))
 
 def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None, param_key=None):
     """Extract value from a line using item_order, ignore_before, and ignore_after. If none, return full line."""
     if not isinstance(line, str):
         line = str(line)
-    original_line = line  # For debugging
+
     if item_order is None and not ignore_before and not ignore_after:
         return line
+    
     # Optionally trim before/after
     if ignore_after:
         if ignore_after == 'str':
@@ -110,10 +36,12 @@ def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_af
             idx = line.lower().find(str(ignore_after).lower())
             if idx != -1:
                 line = line[:idx].strip()
+
     if ignore_before:
         idx = line.lower().find(str(ignore_before).lower())
         if idx != -1:
             line = line[idx + len(str(ignore_before)) :].strip()
+
     # Optionally select item by order
     if item_order is not None and not pd.isna(item_order):
         parts = [p for p in line.split() if p]
@@ -121,6 +49,7 @@ def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_af
         if 0 <= idx < len(parts):
             return parts[idx]
         return ''
+    
     return line
 
 def extract_text_adjacent_to_phrase(text, phrase, direction='right', row_search_text=None, column_search_text=None, item_order=None, ignore_before=None, ignore_after=None, param_key=None):
@@ -202,36 +131,59 @@ def convert_to_numeric(value, data_type):
             return 0
     return value
 
+def clean_common_errors(text):
+    """Clean up common OCR errors in text while preserving structure."""
+    # Common OCR error replacements
+    replacements = {
+        '|': 'I',
+        '0O': 'O',
+        '1I': 'I',
+        'S5': 'S',
+        'Ibs': 'lbs',
+        '/bs': 'lbs',
+        'Maxiumu': 'Maximum',
+        'FaciIity': 'Facility',
+        'CattIe': 'Cattle',
+        'KjeIdahl': 'Kjeldahl',
+        'MiIk': 'Milk'
+    }
+    
+    # Apply replacements
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    
+    # Remove certain characters
+    for char in ['|', ',', '=', ':', '___']:
+        text = text.replace(char, '')
+    
+    # Fix number-letter confusions
+    text = re.sub(r'(\d)O(\d)', r'\1O\2', text)
+    text = re.sub(r'(\d)l(\d)', r'\1l\2', text)
+    text = re.sub(r'(\d)I(\d)', r'\1I\2', text)
+    text = re.sub(r'([a-zA-Z])0([a-zA-Z])', r'\1O\2', text)
+    text = re.sub(r'([a-zA-Z])l([a-zA-Z])', r'\1I\2', text)
+    text = re.sub(r'([a-zA-Z])I([a-zA-Z])', r'\1I\2', text)
+    
+    # Clean up whitespace
+    text = text.replace('  ', ' ')
+    text = '\n'.join([line for line in text.split('\n') if line.strip()])
+    
+    return text
+
 def load_ocr_text(pdf_path):
     """Load OCR text from file."""
     pdf_dir = os.path.dirname(pdf_path)
     parent_dir = os.path.dirname(pdf_dir)
     pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     
-    # Try handwriting_ocr_output first, then ocr_output
-    for ocr_dir in ['handwriting_ocr_output', 'ocr_output']:
+    # Try ai_ocr_output first, then ocr_output
+    for ocr_dir in ['ai_ocr_output', 'ocr_output']:
         text_file = os.path.join(parent_dir, ocr_dir, f'{pdf_name}.txt')
         if os.path.exists(text_file):
             with open(text_file, 'r') as f:
                 text = f.read()
-                # Clean up text
-                text = text.replace("Maxiumu", "Maximum")
-                text = text.replace("|", "")
-                text = text.replace(",", "")
-                text = text.replace("=", "")
-                text = text.replace(":", "")
-                text = text.replace("Ibs", "lbs")
-                text = text.replace("/bs", "lbs")
-                text = text.replace("FaciIity", "Facility")
-                text = text.replace("CattIe", "Cattle")
-                text = text.replace("KjeIdahl", "Kjeldahl")
-                text = text.replace("MiIk", "Milk")
-                text = text.replace("  ", " ")
-                text = text.replace("___", "")
-                text = '\n'.join([line for line in text.split('\n') if line.strip()])
-                return text
+                return clean_common_errors(text)
     
-    print(f"OCR text file not found for {pdf_name}")
     return None
 
 def find_parameter_value(ocr_text, row, data_types):
@@ -275,45 +227,3 @@ def process_pdf(pdf_path, template_params, columns, data_types):
         value = find_parameter_value(ocr_text, row, data_types)
         result[param_key] = value
     return result
-
-def process_csv(csv_path, template_params, columns, data_types):
-    """Process a single CSV file and extract all parameters."""
-    result = {col: None for col in columns}
-    result['filename'] = os.path.basename(csv_path)
-    
-    try:
-        df = pd.read_csv(csv_path)
-        
-        # Process each parameter
-        for _, row in template_params.iterrows():
-            param_key = row['parameter_key']
-            if pd.isna(row['column_search_text']):
-                continue
-                
-            # Find the column that matches the search text
-            col_name = row['column_search_text']
-            if col_name in df.columns:
-                # For numeric columns, convert to float and handle any formatting
-                if data_types.get(param_key) == 'numeric':
-                    value = pd.to_numeric(df[col_name].iloc[0], errors='coerce')
-                    if pd.isna(value):
-                        value = 0
-                else:
-                    value = df[col_name].iloc[0]
-                result[param_key] = value
-                
-    except Exception as e:
-        print(f"Error processing CSV {csv_path}: {str(e)}")
-        
-    return result
-
-# Split RegionalWaterboard into Region and Sub-Region
-def split_region(region):
-    if pd.isna(region):
-        return pd.Series([None, None])
-    base_region = re.match(r'(R\d+)', str(region))
-    if not base_region:
-        return pd.Series([region, None])
-    base = base_region.group(1)
-    sub_region = region[len(base):] if len(region) > len(base) else None
-    return pd.Series([base, sub_region])

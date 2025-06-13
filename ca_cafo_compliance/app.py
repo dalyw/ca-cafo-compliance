@@ -7,9 +7,6 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output, State
 import json
 import os
 import glob
@@ -19,15 +16,6 @@ import re
 
 from ca_cafo_compliance.helper_functions.read_report_helpers import *
 from ca_cafo_compliance.helper_functions.plotting_helpers import *
-
-def load_parameters():
-    """Load parameters and create mapping dictionaries."""
-    parameters = pd.read_csv('ca_cafo_compliance/data/parameters.csv')
-    return {
-        'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
-        'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
-        'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
-    }
 
 with open("ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
@@ -272,10 +260,10 @@ def create_consultant_comparison_plots():
     )
 
     # 1. Nitrogen Generation
-    y1 = df['USDA Nitrogen % Dev Avg']
-    y1_std = df['USDA Nitrogen % Dev Std']
-    y2 = df['UCCE Nitrogen % Dev Avg']
-    y2_std = df['UCCE Nitrogen % Dev Std']
+    y1 = df['USDA Nitrogen % Deviation Average']
+    y1_std = df['USDA Nitrogen % Deviation Standard Deviation']
+    y2 = df['UCCE Nitrogen % Deviation Average']
+    y2_std = df['UCCE Nitrogen % Deviation Standard Deviation']
 
     # Error bars if std is not null
     for y, y_std, name, color, col in [
@@ -294,8 +282,8 @@ def create_consultant_comparison_plots():
         )
 
     # 2. Wastewater Generation
-    y3 = df['Wastewater Ratio Avg']
-    y3_std = df['Wastewater Ratio Std']
+    y3 = df['Wastewater Ratio Average']
+    y3_std = df['Wastewater Ratio Standard Deviation']
     error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y3_std], visible=True) if not y3_std.isnull().all() else None
     fig.add_trace(
         go.Bar(x=consultants, y=y3, name="Based on Reported Milk",
@@ -307,8 +295,8 @@ def create_consultant_comparison_plots():
     )
 
     # 3. Milk Production
-    y4 = df['Manure Factor Avg']
-    y4_std = df['Manure Factor Std']
+    y4 = df['Manure Factor Average']
+    y4_std = df['Manure Factor Standard Deviation']
     error_y = dict(type='data', array=[v if not np.isnan(v) else 0 for v in y4_std], visible=True) if not y4_std.isnull().all() else None
     fig.add_trace(
         go.Bar(
@@ -469,7 +457,7 @@ def main():
                 facility_data = facility_df[facility_df['Dairy Name'] == selected_facility].iloc[0]
                 col1, col2 = st.columns(2)
                 with col1:
-                    st.write(f"Address: {facility_data['Street Address']} {facility_data['City']}, CA {facility_data['Zip']}")
+                    st.write(f"Address: {facility_data['Dairy Address']} {facility_data['City']}, CA {facility_data['Zip']}")
                 with col2:
                     st.write(f"Report prepared by: {facility_data['Consultant']}")
 
@@ -694,8 +682,41 @@ def main():
             This analysis is inherently limited by the accessibility and consistency of the source data, including issues like inconsistent regional reporting formats and levels of detail, the requirement to visit in-person to get data in some regions, and different data collection periods
             """)
 
-            st.image("ca_cafo_compliance/images/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
-
+            # --- Reporting Requirements Table (replaces reporting_breadth.png) ---
+            def reporting_requirements_table():
+                data = [
+                    ["1", "❌", "❌", "❌", "❌", "❌", "❌"],
+                    ["2", "❌", "❌", "❌", "✅", "❌", "❌"],
+                    ["5", "✅", "✅", "✅", "❌", "❌", "✅"],
+                    ["7", "✅", "✅", "❌", "❌", "Limited", "❌"],
+                    ["8", "❌", "✅", "❌", "❌", "Limited", "✅"],
+                ]
+                columns = [
+                    "Region",
+                    "Wastewater Production Reporting",
+                    "Manure Production Reporting",
+                    "Nutrient Content Reporting",
+                    "Groundwater Sampling Required",
+                    "Public access to NMPs?",
+                    "Require Manure Tracking Manifests?"
+                ]
+                df = pd.DataFrame(data, columns=columns)
+                def style_cell(val):
+                    if val == "✅":
+                        return '<span style="color:green;font-size:1.5em;">&#x2705;</span>'
+                    elif val == "❌":
+                        return '<span style="color:red;font-size:1.5em;">&#10060;</span>'
+                    elif val == "Limited":
+                        return '<b>Limited</b>'
+                    else:
+                        return val
+                styled_df = df.style.format(style_cell, escape="html")
+                st.markdown("### CAFO Reporting Requirements by Region")
+                st.write("The table below summarizes reporting and public access requirements for each region.")
+                st.write(styled_df.to_html(escape=False), unsafe_allow_html=True)
+            # Show the table instead of the image
+            reporting_requirements_table()
+            
             csv_path = "ca_cafo_compliance/data/reports_available.csv"
             github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
             reports_df = load_data_from_source(csv_path, github_url)
@@ -743,21 +764,17 @@ def main():
 
             # Pie chart
             pie_fig = go.Figure(data=[
-                go.Pie(labels=["Acquired", "Not Acquired"], values=[acquired, not_acquired],
-                       marker=dict(colors=[CHART_COLORS['acquired'], CHART_COLORS['not_acquired']]), textinfo='label+percent', hole=0.3
+                go.Pie(
+                    labels=["Acquired", "Not Acquired"],
+                    values=[acquired, not_acquired],
+                    marker=dict(colors=[CHART_COLORS['acquired'], CHART_COLORS['not_acquired']]),
+                    textinfo='label+percent',
+                    hole=0.2
                 )
             ])
-            pie_fig.update_layout(
-                title=f"Annual Reports Acquired Across Selected Regions",
-                annotations=[dict(text=f"{int(acquired)} of {int(total)} ({(acquired/total*100) if total else 0:.1f}%)", x=0.5, y=0.5, font_size=16, showarrow=False)]
-            )
+            pie_fig.update_traces(textfont_size=16)
+            pie_fig.update_layout(title=f"Annual Reports Acquired Across Selected Regions")
             st.plotly_chart(pie_fig, use_container_width=True)
-
-            st.caption("Status: ")
-            st.markdown(
-                f"<span style='color:#5B8DB8;font-weight:bold;'>■</span> Acquired &nbsp;&nbsp; <span style='color:#FFFBE6;font-weight:bold;'>■</span> Not Acquired",
-                unsafe_allow_html=True
-            )
 
             st.subheader("R-1 North Coast")
             st.markdown("""

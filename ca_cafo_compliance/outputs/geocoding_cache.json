@@ -5111,5 +5111,605 @@
     "geocoder": "ArcGIS",
     "address": "965 Waddington Rd, Ferndale, California, 95536",
     "county": null
+  },
+  "8555 S VaIentine AVE": {
+    "lat": 36.614440659347,
+    "lng": -119.856282155894,
+    "timestamp": "2025-06-13T08:33:23.593049",
+    "successful_format": "8555 S VaIentine AVE, California",
+    "geocoder": "ArcGIS",
+    "address": "8555 S Valentine Ave, Fresno, California, 93706"
+  },
+  "12429 ave 24 ChowchiIIa Madera 93610": {
+    "lat": 37.101057999349,
+    "lng": -120.318386033326,
+    "timestamp": "2025-06-13T08:33:24.454481",
+    "successful_format": "12429 ave 24 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "12429 Avenue 24, Chowchilla, California, 93610"
+  },
+  "4667 Avenue 23 1/2 ChowchiIIa Madera 93610": {
+    "lat": 37.092641981827,
+    "lng": -120.46210398919,
+    "timestamp": "2025-06-13T08:33:24.642398",
+    "successful_format": "4667 Avenue 23 1/2 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "4667 Avenue 23 1/2, Chowchilla, California, 93610"
+  },
+  "8489 E. EIkhorn AVE SeIma Fresno 93662": {
+    "lat": 36.485438349883,
+    "lng": -119.640582678672,
+    "timestamp": "2025-06-13T08:33:24.807023",
+    "successful_format": "8489 E. EIkhorn AVE SeIma Fresno 93662, California",
+    "geocoder": "ArcGIS",
+    "address": "8489 E Elkhorn Ave, Selma, California, 93662"
+  },
+  "21656 S CorneIia AVE RiverdaIe Fresno 93656": {
+    "lat": 36.416697692553,
+    "lng": -119.886980664139,
+    "timestamp": "2025-06-13T08:33:25.832587",
+    "successful_format": "21656 S CorneIia AVE RiverdaIe Fresno 93656, California",
+    "geocoder": "ArcGIS",
+    "address": "21656 S Cornelia Ave, Riverdale, California, 93656"
+  },
+  "23732 Road 12 ChowchiIIa Madera 93610": {
+    "lat": 37.092171984884,
+    "lng": -120.328823090851,
+    "timestamp": "2025-06-13T08:33:26.016390",
+    "successful_format": "23732 Road 12 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "23732 Road 12, Chowchilla, California, 93610"
+  },
+  "22045 S VaIentine AVE RiverdaIe Fresno 93656": {
+    "lat": 36.415744417541,
+    "lng": -119.86140215763,
+    "timestamp": "2025-06-13T08:33:26.220097",
+    "successful_format": "22045 S VaIentine AVE RiverdaIe Fresno 93656, California",
+    "geocoder": "ArcGIS",
+    "address": "22045 S Valentine Ave, Riverdale, California, 93656"
+  },
+  "625 E CoIeman AVE Laton Fresno 93242": {
+    "lat": 36.467154279127,
+    "lng": -119.782774346722,
+    "timestamp": "2025-06-13T08:33:26.394176",
+    "successful_format": "625 E CoIeman AVE Laton Fresno 93242, California",
+    "geocoder": "ArcGIS",
+    "address": "625 E Coleman Ave, Laton, California, 93242"
+  },
+  "13644 Avenue 18 1/2 ChowchiIIa Madera 93610": {
+    "lat": 37.016183015432,
+    "lng": -120.29705098844,
+    "timestamp": "2025-06-13T08:33:27.415580",
+    "successful_format": "13644 Avenue 18 1/2 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "13644 Avenue 18 1/2, Chowchilla, California, 93610"
+  },
+  "21282 Road 6 RD ChowchiIla Madera 93610": {
+    "lat": 37.057313014314,
+    "lng": -120.43959899826,
+    "timestamp": "2025-06-13T08:33:27.606505",
+    "successful_format": "21282 Road 6 RD ChowchiIla Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "21282 Road 6, Chowchilla, California, 93610"
+  },
+  "12718 Avenue 25 ChowchiIIa Madera 93610": {
+    "lat": 37.110116992663,
+    "lng": -120.315576000286,
+    "timestamp": "2025-06-13T08:33:27.775317",
+    "successful_format": "12718 Avenue 25 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "12718 Avenue 25, Chowchilla, California, 93610"
+  },
+  "27000 Road 9 ChowchiIla Madera 93610": {
+    "lat": 37.063103915932,
+    "lng": -120.382916575923,
+    "timestamp": "2025-06-13T08:33:28.607026",
+    "successful_format": "27000 Road 9 ChowchiIla Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 9, Chowchilla, California, 93610"
+  },
+  "20330 Road 4 ChowchiIIa Madera 93610": {
+    "lat": 37.061881989735,
+    "lng": -120.48282497585,
+    "timestamp": "2025-06-13T08:33:28.787778",
+    "successful_format": "20330 Road 4 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "20330 Road 4, Chowchilla, California, 93610"
+  },
+  "11304 Ave. 18 ChowchiIIa Madera 93610": {
+    "lat": 37.007804004013,
+    "lng": -120.341317998404,
+    "timestamp": "2025-06-13T08:33:29.873459",
+    "successful_format": "11304 Ave. 18 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "11304 Avenue 18, Chowchilla, California, 93610"
+  },
+  "608 E RiverdaIe AVE Laton Fresno 93242": {
+    "lat": 36.438247276477,
+    "lng": -119.785367079049,
+    "timestamp": "2025-06-13T08:33:30.073944",
+    "successful_format": "608 E RiverdaIe AVE Laton Fresno 93242, California",
+    "geocoder": "ArcGIS",
+    "address": "608 E Riverdale Ave, Laton, California, 93242"
+  },
+  "18541 S Fruit AVE RiverdaIe Fresno 93656": {
+    "lat": 36.463649173483,
+    "lng": -119.829910090114,
+    "timestamp": "2025-06-13T08:33:30.262159",
+    "successful_format": "18541 S Fruit AVE RiverdaIe Fresno 93656, California",
+    "geocoder": "ArcGIS",
+    "address": "18541 S Fruit Ave, Riverdale, California, 93656"
+  },
+  "21463 Road 4 ChowchiIIa Madera 93610": {
+    "lat": 37.071201527685,
+    "lng": -120.473377229383,
+    "timestamp": "2025-06-13T08:33:30.796481",
+    "successful_format": "21463 Road 4 ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "21463 Road 4, Chowchilla, California, 93610"
+  },
+  "This owner is responsibIe for paying permit fees.": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-06-13T08:33:31.409055",
+    "successful_format": "This owner is responsibIe for paying permit fees., California",
+    "geocoder": "ArcGIS",
+    "address": "California"
+  },
+  "11302 Avenue 18 1/2 ChowchiIla Madera 93610": {
+    "lat": 37.017217007008,
+    "lng": -120.341746984209,
+    "timestamp": "2025-06-13T08:33:32.266497",
+    "successful_format": "11302 Avenue 18 1/2 ChowchiIla Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "11302 Avenue 18 1/2, Chowchilla, California, 93610"
+  },
+  "23435 12 RD ChowchiIIa Madera 93610": {
+    "lat": 37.087289005093,
+    "lng": -120.325324991869,
+    "timestamp": "2025-06-13T08:33:32.453678",
+    "successful_format": "23435 12 RD ChowchiIIa Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "23435 Road 12, Chowchilla, California, 93610"
+  },
+  "14768 Avenue 27 ChowchiIla Madera 93610": {
+    "lat": 37.141837544434,
+    "lng": -120.281414735765,
+    "timestamp": "2025-06-13T08:33:32.634425",
+    "successful_format": "14768 Avenue 27 ChowchiIla Madera 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "14768 Avenue 27, Chowchilla, California, 93610"
+  },
+  "18346 OId River Rd BakersfieId Kern 93311": {
+    "lat": 35.186529012949,
+    "lng": -119.106378005401,
+    "timestamp": "2025-06-13T08:33:33.560902",
+    "successful_format": "18346 OId River Rd BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "18346 Old River Rd, Bakersfield, California, 93311"
+  },
+  "26953 Riverside ST ButtonwiIlow Kern 93206": {
+    "lat": 35.479391997438,
+    "lng": -119.434546027069,
+    "timestamp": "2025-06-13T08:33:34.260078",
+    "successful_format": "26953 Riverside ST ButtonwiIlow Kern 93206, California",
+    "geocoder": "ArcGIS",
+    "address": "26953 Riverside St, Buttonwillow, California, 93206"
+  },
+  "15857 Bear Mountain BIvd BakersfieId Kern 93311": {
+    "lat": 35.203262015806,
+    "lng": -119.171786019193,
+    "timestamp": "2025-06-13T08:33:34.484453",
+    "successful_format": "15857 Bear Mountain BIvd BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "15857 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "13628 Adobe RD BakersfieId Kern 93307": {
+    "lat": 35.231105217236,
+    "lng": -118.967708826607,
+    "timestamp": "2025-06-13T08:33:35.300281",
+    "successful_format": "13628 Adobe RD BakersfieId Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "13628 Adobe Rd, Bakersfield, California, 93307"
+  },
+  "18107 Kratzmeyer Road BakersfieId Kern 93314-9481": {
+    "lat": 35.416385985639,
+    "lng": -119.216141039141,
+    "timestamp": "2025-06-13T08:33:36.256833",
+    "successful_format": "18107 Kratzmeyer Road BakersfieId Kern 93314-9481, California",
+    "geocoder": "ArcGIS",
+    "address": "18107 Kratzmeyer Rd, Bakersfield, California, 93314"
+  },
+  "4551 Bear Mountain BIvd BakersfieId Kern 93313": {
+    "lat": 35.216312010408,
+    "lng": -119.190491996329,
+    "timestamp": "2025-06-13T08:33:37.299396",
+    "successful_format": "4551 Bear Mountain BIvd BakersfieId Kern 93313, California",
+    "geocoder": "ArcGIS",
+    "address": "4551 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "25820 StockdaIe HWY BakersfieId Kern 93314": {
+    "lat": 35.354630697334,
+    "lng": -119.289179687615,
+    "timestamp": "2025-06-13T08:33:37.492186",
+    "successful_format": "25820 StockdaIe HWY BakersfieId Kern 93314, California",
+    "geocoder": "ArcGIS",
+    "address": "25820 Stockdale Hwy, Bakersfield, California, 93314"
+  },
+  "20229 OId River RD BakersfieId Kern 93311": {
+    "lat": 35.174106990534,
+    "lng": -119.116937024108,
+    "timestamp": "2025-06-13T08:33:37.708484",
+    "successful_format": "20229 OId River RD BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "20229 Old River Rd, Bakersfield, California, 93311"
+  },
+  "16130 Bear Mountain BIvd BakersfieId Kern 93311": {
+    "lat": 35.209237977072,
+    "lng": -119.192341164401,
+    "timestamp": "2025-06-13T08:33:38.523558",
+    "successful_format": "16130 Bear Mountain BIvd BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "16130 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "6219 E. Panama Lane ButtonwiIlow Kern 93307": {
+    "lat": 35.295446019292,
+    "lng": -118.933748015637,
+    "timestamp": "2025-06-13T08:33:38.700949",
+    "successful_format": "6219 E. Panama Lane ButtonwiIlow Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "6219 E Panama Ln, Bakersfield, California, 93307"
+  },
+  "17661 Bear Mountain BIvd": {
+    "lat": 35.204571981544,
+    "lng": -119.19645898938,
+    "timestamp": "2025-06-13T08:33:39.049582",
+    "successful_format": "17661 Bear Mountain BIvd, California",
+    "geocoder": "ArcGIS",
+    "address": "17661 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "5250 DiGiorgio Rd. BakersfieId": {
+    "lat": 35.252411883275,
+    "lng": -118.945871011339,
+    "timestamp": "2025-06-13T08:33:39.700584",
+    "successful_format": "5250 DiGiorgio Rd. BakersfieId, California",
+    "geocoder": "ArcGIS",
+    "address": "5250 Di Giorgio Rd, Bakersfield, California, 93307"
+  },
+  "28349 Los AngeIes ST Shafter Kern 93263": {
+    "lat": 35.493117296883,
+    "lng": -119.419446951063,
+    "timestamp": "2025-06-13T08:33:39.887894",
+    "successful_format": "28349 Los AngeIes ST Shafter Kern 93263, California",
+    "geocoder": "ArcGIS",
+    "address": "28349 Los Angeles St, Shafter, California, 93263"
+  },
+  "2874 StockdaIe Hwy. BakersfieId Kern 93312": {
+    "lat": 35.353777906384,
+    "lng": -119.136484752428,
+    "timestamp": "2025-06-13T08:33:40.727233",
+    "successful_format": "2874 StockdaIe Hwy. BakersfieId Kern 93312, California",
+    "geocoder": "ArcGIS",
+    "address": "Stockdale Hwy, Bakersfield, California, 93312"
+  },
+  "17702 Bear Mountain BLVD BakersfieId Kern 93311": {
+    "lat": 35.212809003523,
+    "lng": -119.203788041698,
+    "timestamp": "2025-06-13T08:33:41.740423",
+    "successful_format": "17702 Bear Mountain BLVD BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "17702 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "4714 E Bear Mountain BIvd BakersfieId Kern 93307": {
+    "lat": 35.21060699374,
+    "lng": -118.951770029474,
+    "timestamp": "2025-06-13T08:33:41.977796",
+    "successful_format": "4714 E Bear Mountain BIvd BakersfieId Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "4714 E Bear Mountain Blvd, Bakersfield, California, 93307"
+  },
+  "20400 OId River Rd. BakersfieId Kern 93311": {
+    "lat": 35.169128014319,
+    "lng": -119.100986010908,
+    "timestamp": "2025-06-13T08:33:42.732875",
+    "successful_format": "20400 OId River Rd. BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "20400 Old River Rd, Bakersfield, California, 93311"
+  },
+  "18501 OId River Road BakersfieId Kern 93311": {
+    "lat": 35.186640974298,
+    "lng": -119.110154042898,
+    "timestamp": "2025-06-13T08:33:42.938587",
+    "successful_format": "18501 OId River Road BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "18501 Old River Rd, Bakersfield, California, 93311"
+  },
+  "5021 E Bear Mountain BIvd BakersfieId Kern 93307": {
+    "lat": 35.204968990388,
+    "lng": -118.941109003006,
+    "timestamp": "2025-06-13T08:33:43.957810",
+    "successful_format": "5021 E Bear Mountain BIvd BakersfieId Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "5021 E Bear Mountain Blvd, Bakersfield, California, 93307"
+  },
+  "13437 Gun CIub RD Wasco Kern 93280": {
+    "lat": 35.5997245,
+    "lng": -119.3499722,
+    "timestamp": "2025-06-13T08:33:44.134267",
+    "successful_format": "13437 Gun CIub RD Wasco Kern 93280, California",
+    "geocoder": "ArcGIS",
+    "address": "93280, Wasco, California"
+  },
+  "4403 Bear Mountain BIvd BakersfieId": {
+    "lat": 35.208699253837,
+    "lng": -119.050715607855,
+    "timestamp": "2025-06-13T08:33:45.157475",
+    "successful_format": "4403 Bear Mountain BIvd BakersfieId, California",
+    "geocoder": "ArcGIS",
+    "address": "4403 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "5959 Houghton Rd BakersfieId Kern 93311": {
+    "lat": 35.237865774652,
+    "lng": -119.068497275952,
+    "timestamp": "2025-06-13T08:33:45.360890",
+    "successful_format": "5959 Houghton Rd BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "5959 Houghton Rd, Bakersfield, California, 93313"
+  },
+  "18904 Bear Mountain BIvd. BakersfieId Kern 93307": {
+    "lat": 35.209940089897,
+    "lng": -119.214442887328,
+    "timestamp": "2025-06-13T08:33:45.597431",
+    "successful_format": "18904 Bear Mountain BIvd. BakersfieId Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "18904 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "17571 FIint AVE Hanford Kings 93230": {
+    "lat": 36.36779100465,
+    "lng": -119.774620039284,
+    "timestamp": "2025-06-13T08:33:46.359692",
+    "successful_format": "17571 FIint AVE Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "17571 Flint Ave, Hanford, California, 93230"
+  },
+  "8331 ExceIsior AVE Hanford Kings 93230": {
+    "lat": 36.398015979863,
+    "lng": -119.60659800079,
+    "timestamp": "2025-06-13T08:33:46.564881",
+    "successful_format": "8331 ExceIsior AVE Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "8331 Excelsior Ave, Hanford, California, 93230"
+  },
+  "3601 Lacey BIvd. Hanford Kings 93230": {
+    "lat": 36.328250215189,
+    "lng": -119.522088464041,
+    "timestamp": "2025-06-13T08:33:46.742641",
+    "successful_format": "3601 Lacey BIvd. Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "3601 Lacey Blvd, Hanford, California, 93230"
+  },
+  "15609 GrangeviIIe BLVD Hanford Kings 93230": {
+    "lat": 36.342195983204,
+    "lng": -119.737791968387,
+    "timestamp": "2025-06-13T08:33:47.778411",
+    "successful_format": "15609 GrangeviIIe BLVD Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "15609 Grangeville Blvd, Hanford, California, 93230"
+  },
+  "6511 FIint Ave. Hanford Kings 93230": {
+    "lat": 36.368012999356,
+    "lng": -119.572499999577,
+    "timestamp": "2025-06-13T08:33:47.957252",
+    "successful_format": "6511 FIint Ave. Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "6511 Flint Ave, Hanford, California, 93230"
+  },
+  "14803 GrangeviIIe BLVD Hanford Kings 93230": {
+    "lat": 36.338818998234,
+    "lng": -119.724657023197,
+    "timestamp": "2025-06-13T08:33:49.022132",
+    "successful_format": "14803 GrangeviIIe BLVD Hanford Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "14803 Grangeville Blvd, Hanford, California, 93230"
+  },
+  "23565 GrangeviIIe BLVD Lemoore Kings 93230": {
+    "lat": 36.343613991674,
+    "lng": -119.880346013177,
+    "timestamp": "2025-06-13T08:33:49.222571",
+    "successful_format": "23565 GrangeviIIe BLVD Lemoore Kings 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "23565 Grangeville Blvd, Lemoore, California, 93245"
+  },
+  "22401 20 RD TuIare TuIare 93274": {
+    "lat": 36.200073019695,
+    "lng": -119.524407991918,
+    "timestamp": "2025-06-13T08:33:49.960751",
+    "successful_format": "22401 20 RD TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "22401 Road 20, Tulare, California, 93274"
+  },
+  "January 01 through December 31 2023": {
+    "lat": 36.374105693,
+    "lng": -119.27023,
+    "timestamp": "2025-06-13T08:33:51.012715",
+    "successful_format": "January 01 through December 31 2023, California",
+    "geocoder": "ArcGIS",
+    "address": "California"
+  },
+  "Diamond D Dairy 9423 Idaho Ave Hanford CA 93230 Kings County": {
+    "lat": 36.265744015698,
+    "lng": -119.625738998701,
+    "timestamp": "2025-06-13T08:33:51.222333",
+    "successful_format": "Diamond D Dairy 9423 Idaho Ave Hanford CA 93230 Kings County, California",
+    "geocoder": "ArcGIS",
+    "address": "9423 Idaho Ave, Hanford, California, 93230"
+  },
+  "18337 Road 24 TuIare TuIare 93274": {
+    "lat": 36.12377611471,
+    "lng": -119.51856520438,
+    "timestamp": "2025-06-13T08:33:51.393400",
+    "successful_format": "18337 Road 24 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "18337 Road 24, Tulare, California, 93274"
+  },
+  "29007 Road 56 VisaIia TuIare 93277": {
+    "lat": 36.316596016435,
+    "lng": -119.452866017564,
+    "timestamp": "2025-06-13T08:33:51.951162",
+    "successful_format": "29007 Road 56 VisaIia TuIare 93277, California",
+    "geocoder": "ArcGIS",
+    "address": "29007 Road 56, Visalia, California, 93277"
+  },
+  "3912 Avenue 232 TuIare TuIare 93274": {
+    "lat": 36.211096018651,
+    "lng": -119.485636995866,
+    "timestamp": "2025-06-13T08:33:52.946117",
+    "successful_format": "3912 Avenue 232 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "3912 Avenue 232, Tulare, California, 93274"
+  },
+  "4590 Avenue 304 VisaIia TuIare 93291": {
+    "lat": 36.343265011135,
+    "lng": -119.469354981309,
+    "timestamp": "2025-06-13T08:33:53.123902",
+    "successful_format": "4590 Avenue 304 VisaIia TuIare 93291, California",
+    "geocoder": "ArcGIS",
+    "address": "4590 Avenue 304, Visalia, California, 93291"
+  },
+  "24116 28 RD TuIare TuIare 93274": {
+    "lat": 36.227920007067,
+    "lng": -119.506237031662,
+    "timestamp": "2025-06-13T08:33:53.955771",
+    "successful_format": "24116 28 RD TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "24116 Road 28, Tulare, California, 93274"
+  },
+  "18675 32 RD TuIare TuIare 93274": {
+    "lat": 36.127640007123,
+    "lng": -119.501101020491,
+    "timestamp": "2025-06-13T08:33:54.138718",
+    "successful_format": "18675 32 RD TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "18675 Road 32, Tulare, California, 93274"
+  },
+  "6775 232 AVE TuIare TuIare 93274": {
+    "lat": 36.207687014811,
+    "lng": -119.426317009808,
+    "timestamp": "2025-06-13T08:33:54.945254",
+    "successful_format": "6775 232 AVE TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "6775 Avenue 232, Tulare, California, 93274"
+  },
+  "5041 Ave. 192 TuIare TuIare 93274": {
+    "lat": 36.137263982621,
+    "lng": -119.459252021955,
+    "timestamp": "2025-06-13T08:33:55.126340",
+    "successful_format": "5041 Ave. 192 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "5041 Avenue 192, Tulare, California, 93274"
+  },
+  "5850 160 AVE Tipton TuIare 93272": {
+    "lat": 36.083462012971,
+    "lng": -119.437055987975,
+    "timestamp": "2025-06-13T08:33:55.939610",
+    "successful_format": "5850 160 AVE Tipton TuIare 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "5850 Avenue 160, Tipton, California, 93272"
+  },
+  "19493 Road 30 TuIare TuIare 93274": {
+    "lat": 36.142596004597,
+    "lng": -119.505171021216,
+    "timestamp": "2025-06-13T08:33:56.133546",
+    "successful_format": "19493 Road 30 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "19493 Road 30, Tulare, California, 93274"
+  },
+  "20433 28 RD TuIare TuIare 93274": {
+    "lat": 36.160086982958,
+    "lng": -119.510842971276,
+    "timestamp": "2025-06-13T08:33:56.956459",
+    "successful_format": "20433 28 RD TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "20433 Road 28, Tulare, California, 93274"
+  },
+  "27596 Road 68 VisaIia TuIare 93277": {
+    "lat": 36.290446993099,
+    "lng": -119.419734030692,
+    "timestamp": "2025-06-13T08:33:57.134516",
+    "successful_format": "27596 Road 68 VisaIia TuIare 93277, California",
+    "geocoder": "ArcGIS",
+    "address": "27596 Road 68, Visalia, California, 93277"
+  },
+  "10254 Ave. 184 TuIare TuIare 93274": {
+    "lat": 36.12376899278,
+    "lng": -119.343171966888,
+    "timestamp": "2025-06-13T08:33:57.319085",
+    "successful_format": "10254 Ave. 184 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "10254 Avenue 184, Tulare, California, 93274"
+  },
+  "4995 Ave 304 VisaIia TuIare 93291": {
+    "lat": 36.341275985512,
+    "lng": -119.46442399149,
+    "timestamp": "2025-06-13T08:33:58.238106",
+    "successful_format": "4995 Ave 304 VisaIia TuIare 93291, California",
+    "geocoder": "ArcGIS",
+    "address": "4995 Avenue 304, Visalia, California, 93291"
+  },
+  "15499 Road 72 Tipton TuIare 93272": {
+    "lat": 36.069175981017,
+    "lng": -119.415934011068,
+    "timestamp": "2025-06-13T08:33:58.418061",
+    "successful_format": "15499 Road 72 Tipton TuIare 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "15499 Road 72, Tipton, California, 93272"
+  },
+  "13406 Road 24 Corcoran TuIare 93212": {
+    "lat": 36.032446984217,
+    "lng": -119.51443000674,
+    "timestamp": "2025-06-13T08:33:58.621538",
+    "successful_format": "13406 Road 24 Corcoran TuIare 93212, California",
+    "geocoder": "ArcGIS",
+    "address": "13406 Road 24, Corcoran, California, 93212"
+  },
+  "27476 Road 52 VisaIia TuIare 93277": {
+    "lat": 36.27647779906,
+    "lng": -119.456604844882,
+    "timestamp": "2025-06-13T08:33:59.420791",
+    "successful_format": "27476 Road 52 VisaIia TuIare 93277, California",
+    "geocoder": "ArcGIS",
+    "address": "27476 Road 52, Visalia, California, 93277"
+  },
+  "17297 Road 96 TuIare TuIare 93274": {
+    "lat": 36.104061232448,
+    "lng": -119.357825584886,
+    "timestamp": "2025-06-13T08:33:59.838557",
+    "successful_format": "17297 Road 96 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "17297 Road 96, Tulare, California, 93274"
+  },
+  "3235 Avenue 199 TuIare TuIare 93274": {
+    "lat": 36.149700002814,
+    "lng": -119.501256001881,
+    "timestamp": "2025-06-13T08:34:00.419267",
+    "successful_format": "3235 Avenue 199 TuIare TuIare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "3235 Avenue 199, Tulare, California, 93274"
+  },
+  "4738 120 AVE Corcoran TuIare 93212": {
+    "lat": 36.008092987355,
+    "lng": -119.466172037398,
+    "timestamp": "2025-06-13T08:34:01.415159",
+    "successful_format": "4738 120 AVE Corcoran TuIare 93212, California",
+    "geocoder": "ArcGIS",
+    "address": "4738 Avenue 120, Corcoran, California, 93212"
+  },
+  ")A5 UW) Can 2d) rail CAGI277": {
+    "lat": 45.219018,
+    "lng": -76.487141,
+    "timestamp": "2025-06-13T08:34:29.769341",
+    "successful_format": ")A5 UW) Can 2d) rail CAGI277, California",
+    "geocoder": "ArcGIS",
+    "address": "California, Lanark Highlands, Ontario"
   }
 }

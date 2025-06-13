@@ -136,7 +136,13 @@ def main(test_mode=False):
     """Main function to process all PDF files and extract data."""
     if read_reports:
         # Load parameters and create mappings
-        params = load_parameters()
+        parameters = pd.read_csv('ca_cafo_compliance/data/parameters.csv')
+        snake_to_pretty = dict(zip(parameters['parameter_key'], parameters['parameter_name']))
+        params = {
+                'snake_to_pretty': snake_to_pretty,
+                'data_types': dict(zip(parameters['parameter_key'], parameters['data_type'])),
+            }
+        
         dtype_dict = {col: str for col in ['region', 'template', 'parameter_key', 'page_search_text', 
                                           'search_direction', 'row_search_text', 'column_search_text',
                                           'ignore_before', 'value_pattern']}
@@ -166,7 +172,7 @@ def main(test_mode=False):
                         if template not in available_templates:
                             continue
                         folder = os.path.join(county_data_path, template)
-                        output_folder = os.path.join(county_output_path, template)
+                        output_dir = os.path.join(county_output_path, template)
                         name = f"{county.capitalize()}_{year}_{template}"
                         template_params = parameter_locations[parameter_locations['template'] == template]
                         columns = template_params['parameter_key'].unique().tolist()
@@ -207,18 +213,18 @@ def main(test_mode=False):
                             df = pd.DataFrame(results)
                         else:
                             # Process PDF files
-                            ocr_folder = os.path.join(folder, 'ocr_output')
-                            handwriting_ocr_folder = os.path.join(folder, 'handwriting_ocr_output')
-                            if not os.path.exists(ocr_folder) and not os.path.exists(handwriting_ocr_folder):
+                            ocr_dir = os.path.join(folder, 'ocr_output')
+                            ai_ocr_dir = os.path.join(folder, 'ai_ocr_output')
+                            if not os.path.exists(ocr_dir) and not os.path.exists(ai_ocr_dir):
                                 continue
                             pdf_files = []
-                            for text_file in glob.glob(os.path.join(ocr_folder, '*.txt')):
+                            for text_file in glob.glob(os.path.join(ocr_dir, '*.txt')):
                                 pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
                                 pdf_path = os.path.join(folder, 'original', pdf_name)
                                 if os.path.exists(pdf_path):
                                     pdf_files.append(pdf_path)
-                            if os.path.exists(handwriting_ocr_folder):
-                                for text_file in glob.glob(os.path.join(handwriting_ocr_folder, '*.txt')):
+                            if os.path.exists(ai_ocr_dir):
+                                for text_file in glob.glob(os.path.join(ai_ocr_dir, '*.txt')):
                                     pdf_name = os.path.basename(text_file).replace('.txt', '.pdf')
                                     pdf_path = os.path.join(folder, 'original', pdf_name)
                                     if os.path.exists(pdf_path) and pdf_path not in pdf_files:
@@ -239,11 +245,11 @@ def main(test_mode=False):
                         # Calculate metrics
                         df = calculate_metrics(df)
                         # Save results
-                        os.makedirs(output_folder, exist_ok=True)
-                        for f in os.listdir(output_folder):
+                        os.makedirs(output_dir, exist_ok=True)
+                        for f in os.listdir(output_dir):
                             if f.endswith('.csv'):
-                                os.remove(os.path.join(output_folder, f))
-                        df.to_csv(os.path.join(output_folder, f"{name}.csv"), index=False)
+                                os.remove(os.path.join(output_dir, f))
+                        df.to_csv(os.path.join(output_dir, f"{name}.csv"), index=False)
     if consolidate_data:
         # Load CADD data
         cadd_facilities = pd.read_csv('ca_cafo_compliance/data/CADD/CADD_Facility General Information_v1.0.0.csv')
@@ -322,7 +328,7 @@ def main(test_mode=False):
                 for idx, row in combined_df.iterrows():
                     if pd.isna(row['dairy_address']):
                         continue
-                    lat, lng, _ = geocode_address(row['dairy_address'], cache, county=row.get('county'))
+                    lat, lng = geocode_address(row['dairy_address'], cache)
                     if lat is not None and lng is not None:
                         combined_df.at[idx, 'latitude'] = lat
                         combined_df.at[idx, 'longitude'] = lng
@@ -363,6 +369,33 @@ def main(test_mode=False):
                 # Create final dataframe
                 final_df = pd.DataFrame(fuzzy_matches)
 
+                # Extract city, state, and county from address before conversion
+                def extract_address_components(address):
+                    if pd.isna(address):
+                        return None, None, None
+                    # Split address by commas
+                    parts = str(address).split(',')
+                    if len(parts) >= 3:
+                        city = parts[-2].strip()
+                        state = parts[-1].strip()
+                        # County might be in the address or from zipcode mapping
+                        county = None
+                        for part in parts[:-2]:
+                            if 'county' in part.lower():
+                                county = part.strip()
+                                break
+                        return city, state, county
+                    return None, None, None
+
+                # Extract address components
+                address_components = final_df['dairy_address'].apply(extract_address_components)
+                final_df['city'] = address_components.apply(lambda x: x[0] if x else None)
+                final_df['state'] = address_components.apply(lambda x: x[1] if x else None)
+                # Use county from zipcode mapping if available, otherwise from address
+                final_df['county'] = final_df['county_name'].fillna(
+                    address_components.apply(lambda x: x[2] if x else None)
+                )
+
                 # Merge with CADD herd size data only for matched facilities
                 if 'CADDID' in final_df.columns:
                     current_year_herd = cadd_herd_size[cadd_herd_size['Year'] == int(year)].copy()
@@ -379,7 +412,6 @@ def main(test_mode=False):
                 if year == 2023 and region == "R5":
                     consultant_metrics = calculate_consultant_metrics(final_df)
                     # Convert consultant metrics to pretty names before saving
-                    params = load_parameters()
                     unmapped_cols = [col for col in consultant_metrics.columns if col not in params['snake_to_pretty']]
                     if unmapped_cols:
                         print(f"\nUnmapped columns in consultant metrics:")
@@ -390,7 +422,6 @@ def main(test_mode=False):
                     consultant_metrics.to_csv(metrics_file, index=False)
 
                 # Convert to pretty names only at the very end
-                params = load_parameters()
                 unmapped_cols = [col for col in final_df.columns if col not in params['snake_to_pretty']]
                 if unmapped_cols:
                     print(f"\nUnmapped columns in final dataframe:")

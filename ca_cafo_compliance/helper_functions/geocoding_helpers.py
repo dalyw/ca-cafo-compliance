@@ -2,10 +2,10 @@ import os
 import json
 from datetime import datetime
 from geopy.geocoders import ArcGIS
+import pandas as pd
+import re
 
 from ca_cafo_compliance.helper_functions.read_report_helpers import *
-
-geolocator = ArcGIS(user_agent="ca_cafo_compliance")
 
 def save_geocoding_cache(cache):
     """Save geocoded addresses to cache file."""
@@ -19,6 +19,13 @@ def normalize_address(address):
     address = address.replace(": ", "")
     address = address.lower()
     address = re.sub(r'[.,]', '', address)
+    street_replacements = {
+        'avenue': 'ave',
+        'street': 'st',
+        'road': 'rd',
+        'boulevard': 'blvd',
+        'highway': 'hwy'
+    }
     for old, new in street_replacements.items():
         address = address.replace(old, new)
     address = re.sub(r'\b(ca|california)\b', '', address)
@@ -40,9 +47,14 @@ def find_cached_address(address, cache):
             return cached_addr
     return None
 
+def get_region_counties(region):
+    """Get list of counties for a given region from county_region.csv."""
+    county_region_df = pd.read_csv('ca_cafo_compliance/data/county_region.csv')
+    return county_region_df[county_region_df['region'] == region]['county_name'].tolist()
+
 def geocode_address(address, cache, county=None, try_again=False):
     if pd.isna(address) or not isinstance(address, str):
-        return None, None, None
+        return None, None
     clean_address = address.replace(": ", "")
     cached_addr = find_cached_address(clean_address, cache)
     if cached_addr:
@@ -50,43 +62,50 @@ def geocode_address(address, cache, county=None, try_again=False):
         if try_again and (cached_result['lat'] is None or cached_result['lng'] is None):
             print(f"Retrying previously failed address: {clean_address}")
         else:
-            return cached_result['lat'], cached_result['lng'], cached_result.get('county')
+            return cached_result['lat'], cached_result['lng']
 
     # Format address with county if provided
     formatted_address = clean_address
-    if county and not pd.isna(county) and isinstance(county, str) and 'all_' not in county:
-        formatted_address = f"{clean_address}, {county} county, CA"
-    elif county and not pd.isna(county) and isinstance(county, str) and county == "all_r2":
+    location = None
+    geolocator = ArcGIS(user_agent="ca_cafo_compliance")
+
+    if county and not pd.isna(county) and isinstance(county, str):
+        if 'all_' in county:
+            # Extract region from county (e.g., 'all_r2' -> 'R2')
+            region = county.split('_')[1].upper()
+            # Get counties for this region
+            region_counties = get_region_counties(region)
+            
+            # Try each county in the region
+            for region_county in region_counties:
+                formatted_address = f"{clean_address}, {region_county} county, CA"
+                location = geolocator.geocode(formatted_address)
+                
+                if location and location.address and ('California' in location.address or 'CA' in location.address):
+                    break
+            
+            # If no county worked, try without county
+            if not location or not location.address or ('California' not in location.address and 'CA' not in location.address):
+                formatted_address = f"{clean_address}, California"
+                location = geolocator.geocode(formatted_address)
+        else:
+            formatted_address = f"{clean_address}, {county} county, CA"
+            location = geolocator.geocode(formatted_address)
+    else:
         formatted_address = f"{clean_address}, California"
-
-    try:
         location = geolocator.geocode(formatted_address)
-        if location and location.address and ('California' in location.address or 'CA' in location.address):
-            county_val = None
-            if isinstance(geolocator, ArcGIS):
-                try:
-                    reverse = geolocator.reverse(f"{location.latitude}, {location.longitude}")
-                    if reverse and reverse.raw:
-                        address_components = reverse.raw.get('address', {})
-                        county_val = address_components.get('county')
-                except Exception as e:
-                    print(f"Error getting county from ArcGIS: {e}")
 
-            cache[clean_address] = {
-                'lat': location.latitude,
-                'lng': location.longitude,
-                'timestamp': datetime.now().isoformat(),
-                'successful_format': formatted_address,
-                'geocoder': geolocator.__class__.__name__,
-                'address': location.address,
-                'county': county_val
-            }
-            save_geocoding_cache(cache)
-            print(f"Successfully geocoded address: {formatted_address}")
-            return location.latitude, location.longitude, county_val
-
-    except Exception as e:
-        print(f"Error geocoding address '{formatted_address}': {e}")
+    if location and location.address and ('California' in location.address or 'CA' in location.address):
+        cache[clean_address] = {
+            'lat': location.latitude, 'lng': location.longitude,
+            'timestamp': datetime.now().isoformat(),
+            'successful_format': formatted_address,
+            'geocoder': geolocator.__class__.__name__,
+            'address': location.address
+        }
+        save_geocoding_cache(cache)
+        print(f"Successfully geocoded address: {formatted_address}")
+        return location.latitude, location.longitude
 
     cache[clean_address] = {
         'lat': None,
@@ -95,26 +114,4 @@ def geocode_address(address, cache, county=None, try_again=False):
         'timestamp': datetime.now().isoformat()
     }
     save_geocoding_cache(cache)
-    return None, None, None
-
-def parse_address(address):
-    """Parse an address string into its components."""
-    if pd.isna(address) or not isinstance(address, str):
-        return None, None, None, None
-        
-    address = address.replace(": ", "")
-    parts = address.split()
-    if len(parts) < 3:
-        return None, None, None, None
-        
-    street_number = parts[0]
-    street_name = ' '.join(parts[1:-2])
-    city = parts[-2]
-    state_zip = parts[-1]
-    zip = ''.join(filter(str.isdigit, state_zip[-5:])) if len(state_zip) >= 5 else None
-    
-    # Find county from address
-    address_lower = address.lower()
-    county = next((COUNTY_MAPPING[county] for county in COUNTY_MAPPING if county in address_lower), None)
-    
-    return street_number + ' ' + street_name, city, county, zip
+    return None, None

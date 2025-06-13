@@ -24,7 +24,7 @@ ca-cafo-compliance/
 │               └── Template_1/ # Reports by template type
 │                   ├── original/      # Original PDFs
 │                   ├── ocr_output/    # OCR text output
-│                   └── handwriting_ocr_output/ # Handwriting OCR output
+│                   └── ai_ocr_output/ # AI OCR output for selected documents from either DocuPipe, HandwritingOCR, Gemini
 ├── outputs/                   # Processed data
 │   ├── 2023/                  # Outputs by year
 │   │   └── Region_5/          # Outputs by region
@@ -78,15 +78,18 @@ PyPDF2>=3.0.0
 
 # Data Processing
 requests>=2.28.0
-dash>=2.9.0
-dash-core-components>=2.0.0
-dash-html-components>=2.0.0
+```
 
 # Optional: Google Document AI (for alternate OCR)
 google-cloud-documentai>=2.20.0
+4. Create a requirements.txt file:
+```bash
+pip freeze > requirements.txt
 ```
 
-2. Place PDF reports in the appropriate directories under `data/` following the structure:
+## Usage
+
+1. Place PDF reports in the appropriate directories under `data/` following the structure:
 ```
 data/
 └── YEAR/
@@ -97,19 +100,17 @@ data/
                     └── *.pdf
 ```
 
-## Usage
-
-1. Extract text from PDF reports:
+2. Extract text from PDF reports:
 ```bash
 python -m ca_cafo_compliance.extract_pdf_text
 ```
 
-2. Process text from extracted reports and consolidate data:
+3. Process text from extracted reports and consolidate data:
 ```bash
 python -m ca_cafo_compliance.read_reports
 ```
 
-3. Run the Streamlit app locally (or at https://cal-cafo-compliance.streamlit.app):
+4. Run the Streamlit app locally (or at https://cal-cafo-compliance.streamlit.app):
 ```bash
 streamlit run ca_cafo_compliance/app.py
 ```
@@ -134,7 +135,7 @@ streamlit run ca_cafo_compliance/app.py
 
 1a. **Supplemental Handwritten PDF Text Extraction**:
    - Uses HandwritingOCR to process handwritten reports
-   - Manually saved these reports into the relevant region/county/template folder under "handwriting_ocr_output/"
+   - Manually saved these reports into the relevant region/county/template folder under "ai_ocr_output/"
 
 2. **Data Extraction and Consolidation** (`read_reports.py`):
    - Uses `parameter_locations.csv` to locate values in the extracted text:

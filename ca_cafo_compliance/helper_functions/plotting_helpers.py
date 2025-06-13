@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import os
-import re
 
 # Colorblind-friendly palette
 # from ColorBrewer
@@ -46,12 +44,4 @@ CHART_COLORS = {
     'perfect_match': PALETTE['gray'],
     'herd_breakdown': PALETTE['gray'],
     'under_reporting': PALETTE['red']
-}
-
-street_replacements = {
-    'avenue': 'ave',
-    'street': 'st',
-    'road': 'rd',
-    'boulevard': 'blvd',
-    'highway': 'hwy'
 }

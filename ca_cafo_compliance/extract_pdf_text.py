@@ -35,26 +35,10 @@ def clean_text(text):
     lines = text.splitlines()
     cleaned_lines = []
     for line in lines:
-        # Fix common OCR errors
-        line = line.replace('|', 'I').replace('0O', 'O').replace('1I', 'I').replace('S5', 'S')
-        line = line.replace('Ibs', 'lbs').replace('/bs', 'lbs')
-        line = line.replace("Maxiumu", "Maximum")
-        line = line.replace("|", "")
-        line = line.replace(",", "")
-        line = line.replace("=", "")
-        line = line.replace(":", "")
-        line = line.replace("FaciIity", "Facility")
-        line = line.replace("CattIe", "Cattle")
-        line = line.replace("KjeIdahl", "Kjeldahl")
-        line = line.replace("MiIk", "Milk")
-        line = line.replace("  ", " ")
-        line = line.replace("___", "")
-        line = re.sub(r'(\d)O(\d)', r'\1O\2', line)
-        line = re.sub(r'(\d)l(\d)', r'\1l\2', line)
-        line = re.sub(r'(\d)I(\d)', r'\1I\2', line)
-        line = re.sub(r'([a-zA-Z])0([a-zA-Z])', r'\1O\2', line)
-        line = re.sub(r'([a-zA-Z])l([a-zA-Z])', r'\1I\2', line)
-        line = re.sub(r'([a-zA-Z])I([a-zA-Z])', r'\1I\2', line)
+        # Clean common OCR errors
+        line = clean_common_errors(line)
+        
+        # Preserve leading spaces and clean up the rest
         leading_spaces = len(line) - len(line.lstrip())
         line = ' ' * leading_spaces + ' '.join(line.strip().split())
         line = ''.join(char for char in line if char.isprintable())
@@ -120,7 +104,7 @@ def get_first_key_page_for_template(pdf_path):
             break
     if not template:
         return 1
-    csv_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'template_key_pages.csv')
+    csv_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates_pages.csv')
     try:
         with open(csv_path, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
@@ -164,9 +148,9 @@ def process_pdf(pdf_path, file_list_df, ocr_engine="tesseract", google_docai_con
         parent_dir = os.path.dirname(pdf_dir)
         pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
         ocr_dir = os.path.join(parent_dir, 'ocr_output')
-        handwriting_ocr_dir = os.path.join(parent_dir, 'handwriting_ocr_output')
+        ai_ocr_dir = os.path.join(parent_dir, 'ai_ocr_output')
         text_file_ocr = os.path.join(ocr_dir, f'{pdf_name}.txt')
-        text_file_handwriting = os.path.join(handwriting_ocr_dir, f'{pdf_name}.txt')
+        text_file_handwriting = os.path.join(ai_ocr_dir, f'{pdf_name}.txt')
         if os.path.exists(text_file_ocr) or os.path.exists(text_file_handwriting):
             return
         os.makedirs(ocr_dir, exist_ok=True)
@@ -234,7 +218,7 @@ def main():
                                                       'ocr_output', 
                                                       f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt'))
                          or os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)),
-                                                      'handwriting_ocr_output',
+                                                      'ai_ocr_output',
                                                       f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt')))
 
     files_to_process = [pdf_path for pdf_path in pdf_files 
@@ -242,7 +226,7 @@ def main():
                                                         'ocr_output', 
                                                         f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt'))
                                 or os.path.exists(os.path.join(os.path.dirname(os.path.dirname(pdf_path)),
-                                                               'handwriting_ocr_output',
+                                                               'ai_ocr_output',
                                                                f'{os.path.splitext(os.path.basename(pdf_path))[0]}.txt')))]
     
     print(f"\nFound {len(pdf_files)} PDF files total")

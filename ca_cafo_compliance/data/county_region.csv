@@ -1,0 +1,21 @@
+county_name,region,sub_region,secondary_flag
+Alameda,R2,,
+Contra Costa,R2,,
+Marin,R2,,
+Napa,R2,,
+San Francisco,R2,,
+San Mateo,R2,,
+Santa Clara,R2,,
+Solano,R2,,
+Sonoma,R2,,
+Fresno,R5,F,
+Madera,R5,,
+Kings,R5,,
+Tulare,R5,,
+Imperial,R7,,
+San Bernardino,R7,,y
+Riverside,R7,,y
+San Diego,R7,,
+Orange,R8,,
+Riverside,R8,,
+San Bernadino,R8,,
