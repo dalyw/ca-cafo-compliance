@@ -1,0 +1,1016 @@
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Tulare, CA 93274
+Report Period:
+Jan 01 through Dec 31, 2023
+Attachment A
+Average
+Open
+Confinement
+Average
+Housed
+Under Roof
+Max
+Open
+Confinement
+Average Herd Profile and Housing Type
+Type of
+Animals
+Herd Profile, Housing, and Estimated Total Manure Production
+(Ref MRP Annual Report, General Section, Items 3 and 4)
+Average Average Milk
+Max
+Housed
+Under Roof
+Live
+Weight
+Production
+(lbs/cow/day)
+Predominant
+Breed
+Milk Cows
+2,565
+0
+2,655
+0
+1,400
+82.0
+Holstein
+Dry Cows
+435
+0
+345
+0
+1,600
+Holstein
+Bred Heifers
+15-24 Months
+774
+0
+770
+0
+1,160
+Holstein
+Heifers 7-14
+Months
+786
+0
+783
+0
+685
+Holstein
+Calves 4-6
+Months
+255
+0
+225
+0
+Holstein
+Calves 0-3
+Months
+245
+0
+295
+0
+Holstein
+Other type of
+commercial
+animals
+Number of months the dairy was occupied: 12
+Attachment A
+Page 1 of 5
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Tulare, CA 93274
+Report Period:
+Jan 01 through Dec 31, 2023
+Total Manure
+(lbs/day)
+48,884
+Estimated Total Amount of Manure and Nutrients Based On Average Herd Size
+Type of
+Animals
+Milk Cows
+Nitrogen
+(lbs/day)
+Phosphorus
+(lbs/day)
+Potassium
+(lbs/day)
+2,487
+423
+555
+Dry Cows
+4,785
+218
+29
+144
+Bred Heifers
+7,430
+294
+43
+15-24 Months
+Heifers 7-14
+4,677
+162
+26
+Months
+26
+Calves 4-6
+797
+33
+5
+Months
+Calves 0-3
+448
+16
+3
+Months
+Other type of
+commercial
+animals
+Total Pounds for
+report period:
+Total tons for
+report period:
+12,231
+1,171,423
+192,841
+254,896
+Notes:
+1. Equations and factors used in this table to determine total manure, nitrogen,
+phosphorus and potassium were obtained from ASAE D384.2 March 2005.
+2. The quantities presented in this table include both solid and liquid excretions and do not
+account for any losses or division into solid or liquid portions.
+Attachment A
+Page 2 of 5
+Dairy Name:
+Dairy Address:
+Holstein Farms
+4625 Ave 176
+Report Period:
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Estimated Total Amount of Solid Manure and Nutrients Generated
+Total Tons (As Is) of
+Manure Generated
+Total Dry Manure
+Nitrogen
+12,919
+24,729,485
+370,094
+Total lbs Generated
+Phosphorus
+Potassium
+Salt
+133,965
+494,887
+8,210,189
+Estimated Total Amount of Process Wastewater and Nutrients Generated
+Total Gallons of
+Process
+Total lbs Generated
+Wastewater
+Generated
+(1,000 gals.)
+Nitrogen
+Phosphorus
+59,440
+112,177
+26,507
+Notes:
+Potassium
+Salt
+192,458
+1,000,557
+1. Generated totals are the sum of what was applied to all land application areas and what was transferred to others. See Attachment E for
+individual field applications and Attachment G for individual transfers.
+2. Dry tons are calculated by:
+Dry Tons = Tons As-Is * (100-sample moisture %) / 100
+3. Solid manure nutrient pounds applied are calculated by:
+Total (N,P,K,Salts) lbs = (Dry Tons)*((%N, P,K,Ash)/100)*2,000
+4. Process wastewater nutrient pounds applied are calculated by:
+Total (P,K,Salts) lbs = (Gallons)*(P,K,TDS mg/l)*(8.337E-06)
+Total (N) lbs = (Gallons)*(NO3-N+TKN mg/l)*(8.337E-06)
+5. All solid manure applied is considered as the organic form of nitrogen. Inorganic and organic forms of nitrogen in process wastewater are
+calculated by:
+Inorganic N lbs = (Gallons)*(NO3-N+NH4-N mg/l)*(8.337E-06)
+Organic N lbs = (Gallons)*(TKN-NH4-N mg/l)*(8.337E-06)
+6. Estimated total salt content in solid manure is determined by fixed solids (ash) and in process wastewater by total disolved solids. These are
+not direct relationships but are being used for estimation purposes. Ash can vary widely in a sample if corral dirt becomes part of the sample.
+Also, ash content is only required to be analyzed once every two years. The latest resultant value is applied to any subsequent applications.
+Attachment A
+Page 3 of 5
+Dairy Name:
+Dairy Address:
+Holstein Farms
+4625 Ave 176
+Tulare, CA 93274
+Report Period:
+Jan 01 through Dec 31, 2023
+Estimated Amount of Total Solid Manure And Nutrients Applied
+Total Tons (As Is)
+of Manure Applied
+Manure
+2,690
+5,052,981
+Nitrogen
+120,203
+Estimated Amount of Total Wastewater And Nutrients Applied
+Total Gallons of
+Process
+Wastewater
+Total lbs Applied
+Total lbs Applied
+Phosphorus
+Potassium
+Salt
+33,614
+121,033
+1,677,590
+Applied
+(1,000 gals.)
+Nitrogen
+Phosphorus
+Potassium
+Salts
+59,440
+112,177
+26,507
+192,458
+1,000,557
+Attachment A
+Page 4 of 5
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Tulare, CA 93274
+Report Period:
+Jan 01 through Dec 31, 2023
+Estimated Amount of Total Solid Manure And Nutrients Transferred
+Total lbs Transferred
+Total Tons (As Is) of
+Manure Transferred
+Total Manure
+10,229
+19,676,504
+Nitrogen
+249,892
+Estimated Amount of Total Wastewater And Nutrients Transferred
+Total Gallons
+Total lbs Transferred
+Process
+Wastewater
+Transferred
+Nitrogen
+Phosphorus
+(1,000 gal)
+Potassium
+Salts
+Phosphorus
+Potassium
+Salt
+100,350
+373,854
+6,532,599
+「 。 。 。 。 。
+Attachment A
+Page 5 of 5
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Tulare, CA 93274
+Report Period:
+Jan 01 through Dec 31, 2023
+All APNs Associated With This Dairy
+Attachment B
+Land Application Area
+(Ref MRP Annual Report, General Section, Items 7 and 8)
+Total Number of APN Acres Associated with this Dairy: 856.30
+APN
+County
+Acres
+200-140-005
+Tulare
+160.00
+200-140-006
+Tulare
+480.00
+Land Use
+Dairy Site/Cropland
+Dairy Site/Cropland
+200-170-006
+Tulare
+180.00
+Cropland
+200-280-006
+Tulare
+36.30
+Cropland
+Total Land Application Areas For Manure And Wastewater
+Total Land Application Area Acres: 573.0
+Total Acres With Manure Applied For This Report: 573.0
+Total Acres Without Manure Applied For This Report: 0.0
+APN Not Part of Land
+Application Area
+Field ID
+Acres
+APN
+Type of Waste Applied
+For This Report
+Field Not Part of
+Land Application
+Area
+01
+147.0
+Both
+200-140-006
+02
+38.0
+Both
+200-170-006
+03
+36.0
+Liquid
+200-170-006
+04
+20.0
+Both
+200-170-006
+05
+80.0
+Both
+200-170-006
+06
+111.0
+Both
+200-140-005
+Attachment B
+Page 1 of 2
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Field ID
+Acres
+APN
+Type of Waste Applied
+For This Report
+200-140-006
+07
+93.0
+Liquid
+200-140-005
+200-140-006
+08
+15.0
+Both
+200-140-006
+BR-1
+33.0
+Solid
+200-280-006
+Attachment B
+Field Not Part of
+Land Application
+Area
+Page 2 of 2
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+01
+01
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+147
+147
+Start Date
+10/27/2022
+6/02/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+246
+PAN Applied
+47
+71
+Lagoon Water
+Total Applied
+104
+142
+PAN Applied
+77
+Irrigation Source
+Atmospheric
+ON
+0
+7
+NOR
+104
+0
+7
+Removal
+Planned Harvest
+Actual Harvest
+291
+220
+Balance Ratio
+By Crop
+Total
+PAN
+1.23
+0.68
+0.45
+0.83
+By Field
+Total
+0.99
+0.99
+PAN
+0.61
+0.61
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 1 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+02
+02
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+38
+Start Date
+10/24/2022
+38
+6/07/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+244
+122
+PAN Applied
+70
+151
+Lagoon Water
+Total Applied
+189
+PAN Applied
+135
+Irrigation Source
+7
+55
+Atmospheric
+7
+357
+36
+Removal
+Planned Harvest
+Actual Harvest
+378
+189
+Balance Ratio
+By Crop
+Total
+PAN
+1.18
+0.98
+0.58
+1.32
+By Field
+Total
+1.11
+1.11
+PAN
+0.82
+0.82
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 2 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+03
+03
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+Start Date
+36
+10/24/2022
+36
+6/17/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+PAN Applied
+40
+85
+Lagoon Water
+Total Applied
+335
+PAN Applied
+219
+Irrigation Source
+10
+Atmospheric
+7
+357
+36
+Removal
+Planned Harvest
+Actual Harvest
+284
+150
+Balance Ratio
+By Crop
+Total
+PAN
+1.24
+0.43
+0.97
+1.23
+By Field
+Total
+0.96
+0.96
+PAN
+1.06
+1.06
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 3 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+04
+04
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+20
+20
+Start Date
+10/03/2022
+6/02/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+258
+PAN Applied
+68
+124
+Lagoon Water
+Total Applied
+148
+PAN Applied
+100
+Irrigation Source
+10
+59
+Atmospheric
+7
+པཆ
+18
+Removal
+Planned Harvest
+Actual Harvest
+301
+129
+Balance Ratio
+By Crop
+Total
+PAN
+1.40
+0.51
+0.61
+1.61
+By Field
+Total
+1.14
+1.14
+PAN
+0.91
+0.91
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 4 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+05
+05
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+80
+80
+Start Date
+10/04/2022
+6/12/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+258
+PAN Applied
+65
+118
+Lagoon Water
+Total Applied
+PAN Applied
+Irrigation Source
+Atmospheric
+Removal
+Planned Harvest
+38 47
+93
+68
+28
+53
+227
+Actual Harvest
+277
+198
+Balance Ratio
+By Crop
+Total
+PAN
+1.31
+0.30
+0.52
+1.04
+By Field
+Total
+0.89
+0.89
+PAN
+0.74
+0.74
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 5 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+06
+06
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+111
+111
+Start Date
+10/29/2022
+6/17/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+256
+PAN Applied
+45
+Lagoon Water
+Total Applied
+PAN Applied
+Irrigation Source
+Atmospheric
+71
+108 7507
+106
+9
+7
+Removal
+Planned Harvest
+Actual Harvest
+203
+169
+Balance Ratio
+By Crop
+Total
+PAN
+1.29
+0.68
+0.30
+0.91
+By Field
+Total
+1.02
+1.02
+PAN
+0.58
+0.58
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Page 6 of 9
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+07
+07
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+93
+93
+Start Date
+10/25/2022
+6/03/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+PAN Applied
+26
+30
+Lagoon Water
+Total Applied
+228
+108
+PAN Applied
+146
+99
+Irrigation Source
+0
+0
+Atmospheric
+7
+7
+Removal
+Planned Harvest
+Actual Harvest
+225
+204
+Balance Ratio
+By Crop
+Total
+PAN
+1.05
+0.56
+0.79
+0.67
+By Field
+Total
+0.82
+0.82
+PAN
+0.74
+0.74
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 7 of 9
+Dairy Name:
+Holstein Farms
+Dairy Address:
+4625 Ave 176
+Report Period:
+Field Information
+Tulare, CA 93274
+Jan 01 through Dec 31, 2023
+Attachment C
+Nitrogen Balance Ratio - Applied to Removed
+(Nitrogen values presented as lbs/acre)
+Field ID
+08
+08
+Crop
+Triticale
+Corn Silage
+Expected Yield (tons/ac)
+20
+25
+Acres
+15
+15
+Start Date
+11/17/2022
+6/02/2023
+Applications
+Commercial
+Solid Manure
+Total Applied
+258
+PAN Applied
+39
+59
+Lagoon Water
+Total Applied
+211
+PAN Applied
+133
+13
+Irrigation Source
+0
+154
+Atmospheric
+7
+7
+Removal
+Planned Harvest
+Actual Harvest
+340
+187
+Balance Ratio
+By Crop
+Total
+PAN
+1.40
+0.86
+0.53
+1.25
+By Field
+Total
+1.21
+1.21
+PAN
+0.78
+0.78
+By Farm
+Total
+PAN
+Notes:
+1.05
+0.76
+1.05
+0.76
+Total Balance Ratio is based on the total nitrogen (inorganic & organic) applied only during the time of that crop's growing season.
+PAN Balance Ratio is based on Plant Available Nitrogen. In addition to inorganic nitrogen applied, PAN takes into consideration how much of the organic nitrogen has become available to the plant through
+mineralization. This includes both what is applied during that growing season and the residual amounts from previous applications to that field.
+Attachment C
+Page 8 of 9

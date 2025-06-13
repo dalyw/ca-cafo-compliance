@@ -7,17 +7,21 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
+import dash
+from dash import dcc, html
+from dash.dependencies import Input, Output, State
+import json
 import os
 import glob
 import requests
 from io import StringIO
+import re
 
-from conversion_factors import *
+from ca_cafo_compliance.helper_functions.read_report_helpers import *
 
 def load_parameters():
     """Load parameters and create mapping dictionaries."""
-    parameters = pd.read_csv('ca_cafo_compliance/parameters.csv')
+    parameters = pd.read_csv('ca_cafo_compliance/data/parameters.csv')
     return {
         'snake_to_pretty': dict(zip(parameters['parameter_key'], parameters['parameter_name'])),
         'pretty_to_snake': dict(zip(parameters['parameter_name'], parameters['parameter_key'])),
@@ -67,7 +71,7 @@ def load_data_from_source(local_path, github_url, encoding='utf-8'):
 def load_data():
     """Load data from CSV files in the outputs/consolidated directory, or from GitHub as a fallback."""    
     # Try local files first
-    csv_files = glob.glob("outputs/consolidated/*.csv")
+    csv_files = glob.glob("ca_cafo_compliance/outputs/consolidated/*.csv")
     
     dfs = []
     if csv_files:
@@ -77,11 +81,10 @@ def load_data():
     else:
         print("No local CSV files found. Attempting to load from GitHub...")
         base_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/outputs/consolidated"
-        YEARS = ["2023", "2024"]
         REGIONS = ["1", "2", "5", "7", "8"]
         files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
         for file in files_to_load:
-            local_path = f"outputs/consolidated/{file}"
+            local_path = f"ca_cafo_compliance/outputs/consolidated/{file}"
             github_url = f"{base_url}/{file}"
             df = load_data_from_source(local_path, github_url)
             if not df.empty:
@@ -206,7 +209,7 @@ def create_comparison_plots(df):
     if not reported_wastewater_data.empty or not estimated_wastewater_data.empty:
         wastewater_fig.add_vrect(
             x0=0,
-            x1=L_WW_PER_L_MILK_LOW,
+            x1=cf['L_WW_PER_L_MILK_LOW'],
             fillcolor=CHART_COLORS['under_reporting'],
             layer="below",
             line_width=0,
@@ -257,7 +260,7 @@ def add_bar_trace(fig, x, y, name, color, pattern_shape="", text=None, textposit
 
 def create_consultant_comparison_plots(): 
     # Load pre-calculated consultant metrics
-    metrics_path = "outputs/consolidated/2023_R5_consultant_metrics.csv"
+    metrics_path = "ca_cafo_compliance/outputs/consolidated/2023_R5_consultant_metrics.csv"
     df = pd.read_csv(metrics_path)
     consultants = df['Consultant']
 
@@ -347,7 +350,7 @@ def filter_tab2(df, selected_year):
     return filtered_df, selected_regions, selected_counties, selected_consultants
 
 def manure_scatter_from_df(xlim=20000):
-    csv_files = glob.glob("outputs/consolidated/*.csv")
+    csv_files = glob.glob("ca_cafo_compliance/outputs/consolidated/*.csv")
     dfs = [pd.read_csv(f) for f in csv_files]
     df = pd.concat(dfs, ignore_index=True)
     fig = go.Figure()
@@ -434,7 +437,6 @@ def main():
                                     center={"lat": 37.2719, "lon": -119.2702})
 
                 st.plotly_chart(map_fig, use_container_width=True, height=1000)
-                st.write("*To do: incorporate the CADD / RegLab datasets for herd size to capture more facilities.*")
             else:
                 st.warning("No location data available for the selected year.")
             
@@ -524,7 +526,7 @@ def main():
                 manure_reported = 'Total Manure Excreted (tons)'
                 herd_size_col = 'Total Herd Size'
                 manure_reported_val = facility_data[manure_reported] if manure_reported in facility_data and pd.notna(facility_data[manure_reported]) else None
-                manure_estimated_val = MANURE_FACTOR_AVERAGE * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
+                manure_estimated_val = cf['MANURE_FACTOR_AVERAGE'] * facility_data[herd_size_col] if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col]) else None
                 
                 add_bar_trace(facility_comparison_fig, 'Reported', manure_reported_val, 'Reported', MANURE_COLOR, text=f"{manure_reported_val:,.0f} tons" if manure_reported_val else None, row=2, col=2, legendgroup='reported', showlegend=False)
                 add_bar_trace(facility_comparison_fig, 'Estimated', manure_estimated_val, 'Estimated', MANURE_EST_COLOR, pattern_shape="/", text=f"{manure_estimated_val:,.0f} tons" if manure_estimated_val else None, row=2, col=2, legendgroup='estimated', showlegend=False)
@@ -658,7 +660,7 @@ def main():
 
             # Load and summarize violation data
             try:
-                violations_path = "data/Detailed_Violation_Report.csv"
+                violations_path = "ca_cafo_compliance/data/Detailed_Violation_Report.csv"
                 github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
                 vdf = load_data_from_source(violations_path, github_url, encoding='latin1')
 
@@ -693,7 +695,7 @@ def main():
 
             st.image("ca_cafo_compliance/images/reporting_breadth.png", caption="Breadth of reporting requirements included for each region (from Hailey)")
 
-            csv_path = "data/reports_available.csv"
+            csv_path = "ca_cafo_compliance/data/reports_available.csv"
             github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
             reports_df = load_data_from_source(csv_path, github_url)
 

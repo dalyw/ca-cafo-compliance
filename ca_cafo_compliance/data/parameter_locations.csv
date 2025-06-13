@@ -1,0 +1,165 @@
+region,template,parameter_key,page_search_text,search_direction,row_search_text,column_search_text,item_order,ignore_before,ignore_after
+5,generic_r5,dairy_name,NA,right,THE DAIRY,NA,NA,NA,NA
+5,generic_r5,dairy_address,NA,below,address of dairy,NA,NA,NA,NA
+5,generic_r5,avg_milk_cows,NA,right,Average number,NA,0,NA,NA
+5,generic_r5,avg_dry_cows,NA,right,Average number,NA,1,NA,NA
+5,generic_r5,avg_bred_heifers,NA,right,Average number,NA,2,NA,NA
+5,generic_r5,avg_heifers,NA,right,Average number,NA,3,NA,NA
+5,generic_r5,avg_calves_4_6_mo,NA,right,Average number,NA,4,NA,NA
+5,generic_r5,avg_calves_0_3_mo,NA,right,Average number,NA,5,NA,NA
+5,generic_r5,avg_other,NA,NA,NA,NA,NA,NA,NA
+5,generic_r5,total_manure_excreted_tons,NA,right,excreted by the herd,NA,NA,NA,str
+5,generic_r5,avg_milk_lb_per_cow_day,NA,right,milk production,NA,NA,NA,str
+5,generic_r5,total_manure_gen_n_after_nh3_losses_lbs,NA,right,loss applied),NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_n_lbs,NA,right,Total nitrogen from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_p_lbs,NA,right,Total phosphorus from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_k_lbs,NA,right,Total potassium from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_salt_lbs,NA,right,Total salt from manure,NA,NA,NA,lbs
+5,generic_r5,total_ww_gen_gals,PROCESS WASTEWATER GENERATED,right,water generated,NA,NA,NA,gal
+5,generic_r5,total_ww_gen_n_lbs,PROCESS WASTEWATER GENERATED,right,nitrogen generated,NA,NA,NA,lbs
+5,generic_r5,total_ww_gen_p_lbs,PROCESS WASTEWATER GENERATED,right,phosphorus generated,NA,NA,NA,lbs
+5,generic_r5,total_ww_gen_k_lbs,PROCESS WASTEWATER GENERATED,right,potassium generated,NA,NA,NA,lbs
+5,generic_r5,total_ww_gen_salt_lbs,NA,right,Total salt generated,NA,NA,NA,lbs
+5,generic_r5,applied_n_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,0,NA,NA
+5,generic_r5,applied_p_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,1,NA,NA
+5,generic_r5,applied_k_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,2,NA,NA
+5,generic_r5,applied_salt_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,3,NA,NA
+5,generic_r5,applied_ww_gals,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,0,NA,NA
+5,generic_r5,applied_ww_n_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,0,NA,NA
+5,generic_r5,applied_ww_p_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,1,NA,NA
+5,generic_r5,applied_ww_k_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,2,NA,NA
+5,generic_r5,applied_ww_salt_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,3,NA,NA
+5,generic_r5,applied_to_removed_ratio_n,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,0,NA,NA
+5,generic_r5,applied_to_removed_ratio_p,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,1,NA,NA
+5,generic_r5,applied_to_removed_ratio_k,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,2,NA,NA
+5,generic_r5,applied_to_removed_ratio_salt,SUMMARY OF NUTRIENT APPLICATIONS,right,Applied to removed ratio,NA,3,NA,NA
+5,innovative_ag,dairy_name,NA,right,name of dairy,NA,NA,NA,NA
+5,innovative_ag,dairy_address,NA,right,facility address,NA,NA,NA,NA
+5,innovative_ag,avg_milk_cows,Estimated Manure and Nutrients Generated,right,Milk Cows,NA,1,),NA
+5,innovative_ag,avg_dry_cows,Estimated Manure and Nutrients Generated,right,Dry Cows,NA,1,),NA
+5,innovative_ag,avg_bred_heifers,Estimated Manure and Nutrients Generated,right,Bred Heifers,NA,1,),NA
+5,innovative_ag,avg_heifers,Estimated Manure and Nutrients Generated,right,Heifers,NA,1,),NA
+5,innovative_ag,avg_calves_4_6_mo,Estimated Manure and Nutrients Generated,right,Calves (4-12),NA,1,),NA
+5,innovative_ag,avg_calves_0_3_mo,Estimated Manure and Nutrients Generated,right,Calves (0-3),NA,1,),NA
+5,innovative_ag,avg_other,NA,NA,NA,NA,NA,NA,NA
+5,innovative_ag,total_manure_excreted_tons,Estimated Manure and Nutrients Generated,above,Average No. of Head,,2,NA,NA
+5,innovative_ag,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,,Milk Production,NA,-1,NA,NA
+5,innovative_ag,total_manure_gen_n_after_nh3_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA
+5,innovative_ag,total_manure_gen_n_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,3,NA,NA
+5,innovative_ag,total_manure_gen_p_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,4,NA,NA
+5,innovative_ag,total_manure_gen_k_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,5,NA,NA
+5,innovative_ag,total_manure_gen_salt_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,6,NA,NA
+5,innovative_ag,total_ww_gen_gals,Total Kjeldahl Nitrogen,above,,NA,5,NA,NA
+5,innovative_ag,total_ww_gen_n_lbs,Total Kjeldahl Nitrogen,above,,NA,6,NA,NA
+5,innovative_ag,total_ww_gen_p_lbs,Total Kjeldahl Nitrogen,above,,NA,7,NA,NA
+5,innovative_ag,total_ww_gen_k_lbs,Total Kjeldahl Nitrogen,above,,NA,8,NA,NA
+5,innovative_ag,total_ww_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,Total Salt,NA,NA,NA,NA
+5,innovative_ag,applied_n_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
+5,innovative_ag,applied_p_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
+5,innovative_ag,applied_k_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
+5,innovative_ag,applied_salt_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
+5,innovative_ag,applied_ww_n_lbs,summary of nutrient applications,,Process Wastewater,Total N (Lbs),NA,NA,NA
+5,innovative_ag,applied_ww_p_lbs,summary of nutrient applications,,Process Wastewater,Total P (Lbs),NA,NA,NA
+5,innovative_ag,applied_ww_k_lbs,summary of nutrient applications,,Process Wastewater,Total K (Lbs),NA,NA,NA
+5,innovative_ag,applied_ww_salt_lbs,summary of nutrient applications,,Process Wastewater,Total Salts (Lbs),NA,NA,NA
+5,innovative_ag,applied_to_removed_ratio_n,summary of nutrient applications,,Nitrogen Ratio,Total N (Lbs),NA,NA,NA
+5,innovative_ag,applied_to_removed_ratio_p,NA,NA,NA,NA,NA,NA,NA
+5,innovative_ag,applied_to_removed_ratio_k,NA,NA,NA,NA,NA,NA,NA
+5,innovative_ag,applied_to_removed_ratio_salt,NA,NA,NA,NA,NA,NA,NA
+5,livingston,dairy_name,NA,right,dairy name,NA,NA,NA,wdid
+5,livingston,dairy_address,NA,right,facility address,NA,NA,NA,NA
+5,livingston,avg_milk_cows,Herd Information,right,average number,NA,0,NA,NA
+5,livingston,avg_dry_cows,Herd Information,right,average number,NA,1,NA,NA
+5,livingston,avg_bred_heifers,Herd Information,right,average number,NA,2,NA,NA
+5,livingston,avg_heifers,Herd Information,right,average number,NA,3,NA,NA
+5,livingston,avg_calves_4_6_mo,Herd Information,right,average number,NA,4,NA,NA
+5,livingston,avg_calves_0_3_mo,Herd Information,right,average number,NA,5,NA,NA
+5,livingston,avg_other,NA,NA,NA,NA,NA,NA,NA
+5,livingston,total_manure_excreted_tons,Manure Generated,below,excreted by the herd,NA,-1,NA,NA
+5,livingston,total_manure_gen_n_lbs,Manure Generated,below,Total nitrogen from manure,NA,-1,NA,NA
+5,livingston,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA
+5,livingston,total_manure_gen_n_after_nh3_losses_lbs,Herd Information,right,excreted by the herd,NA,NA,NA,NA
+5,livingston,total_manure_gen_n_lbs,Herd Information,right,nitrogen from manure,NA,NA,NA,NA
+5,livingston,total_manure_gen_p_lbs,NA,NA,NA,NA,NA,NA,NA
+5,livingston,total_manure_gen_k_lbs,NA,NA,NA,NA,NA,NA,NA
+5,livingston,total_manure_gen_salt_lbs,Herd Information,below,After Ammonia,NA,NA,NA,NA
+5,livingston,total_ww_gen_gals,process wastewater generated,right,process wastewater gen,NA,-1,NA,NA
+5,livingston,total_ww_gen_n_lbs,Herd Information,right,nitrogen gen,NA,NA,NA,NA
+5,livingston,total_ww_gen_p_lbs,,,NA,NA,NA,NA,NA
+5,livingston,total_ww_gen_k_lbs,,,NA,NA,NA,NA,NA
+5,livingston,total_ww_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,(TDS) gen,NA,NA,NA,NA
+2,generic_r2,dairy_name,NA,right,facility name,NA,NA,NA,facility address
+2,generic_r2,dairy_address,NA,right,facility address,NA,NA,NA,NA
+2,generic_r2,avg_milk_cows,NA,right,dry),NA,0,NA,str
+2,generic_r2,avg_dry_cows,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_bred_heifers,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_heifers,NA,right,dry),NA,0,cows,str
+2,generic_r2,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_calves_0_3_mo,NA,NA,NA,NA,0,NA,str
+2,generic_r2,avg_other,NA,NA,NA,NA,NA,NA,NA
+2,generic_r2,total_manure_excreted_tons,NA,NA,NA,NA,0,NA,NA
+7,generic_r7,dairy_name,NA,right,facility name,NA,NA,NA,NA
+7,generic_r7,dairy_address,NA,right,facility address,NA,NA,NA,NA
+7,generic_r7,avg_milk_cows,number in open,right,dairy cows,NA,NA,NA,NA
+7,generic_r7,avg_dry_cows,number in open,right,,NA,1,NA,NA
+7,generic_r7,avg_bred_heifers,number in open,right,heifers,NA,NA,NA,NA
+7,generic_r7,avg_heifers,number in open,right,NA,NA,1,NA,NA
+7,generic_r7,avg_calves_4_6_mo,number in open,right,calves,NA,NA,NA,NA
+7,generic_r7,avg_calves_0_3_mo,number in open,right,NA,NA,NA,NA,NA
+7,generic_r7,avg_other,number in open,right,cattle,NA,NA,NA,str
+7,generic_r7,avg_steer,number in open,right,steer,NA,NA,NA,str
+7,generic_r7,total_manure_excreted_tons,,right,manure generated during the reporting period,NA,NA,NA,str
+7,generic_r7,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_n_after_nh3_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_n_lbs,Estimated Manure and Nutrients Generated,below,NITROGEN,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_p_lbs,Estimated Manure and Nutrients Generated,below,PHOSPHORUS,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_k_lbs,Estimated Manure and Nutrients Generated,below,POTASSIUM,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_salt_lbs,Estimated Manure and Nutrients Generated,right,SALTS,NA,-1,NA,NA
+7,generic_r7,applied_n_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,0,NA,NA
+7,generic_r7,applied_p_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,1,NA,NA
+7,generic_r7,applied_k_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,2,NA,NA
+7,generic_r7,applied_salt_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,3,NA,NA
+7,generic_r7,applied_ww_n_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,0,NA,NA
+7,generic_r7,applied_ww_p_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,1,NA,NA
+7,generic_r7,applied_ww_k_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,2,NA,NA
+7,generic_r7,applied_ww_salt_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,3,NA,NA
+5,provost_pritchard,dairy_name,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA
+5,provost_pritchard,dairy_address,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA
+5,provost_pritchard,avg_milk_cows,confimenent under,right,Milk Cows,,1,NA,NA
+5,provost_pritchard,avg_dry_cows,confimenent under,right,Dry Cows,,1,NA,NA
+5,provost_pritchard,avg_bred_heifers,confimenent under,right,Bred Heifers,,1,NA,NA
+5,provost_pritchard,avg_heifers,confimenent under,right,Heifers,,1,NA,NA
+5,provost_pritchard,avg_calves_4_6_mo,confimenent under,right,Calves 4-6 Months,,1,NA,NA
+5,provost_pritchard,avg_calves_0_3_mo,confimenent under,right,Calves 0-3 Months,,1,NA,NA
+5,provost_pritchard,avg_other,confimenent under,right,Other,Average,NA,NA,NA
+5,provost_pritchard,total_manure_excreted_tons,confimenent under,right,Total Manure Generated (tons),NA,NA,NA,NA
+5,provost_pritchard,avg_milk_lb_per_cow_day,confimenent under,right,Average Milk Production,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_n_after_nh3_losses_lbs,confimenent under,right,Total Nitrogen After Ammonia Losses,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_n_lbs,,right,Total Nitrogen,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_p_lbs,confimenent under,right,Total Phosphorus,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_k_lbs,confimenent under,right,Total Potassium,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_salt_lbs,confimenent under,right,Total Salts,NA,NA,NA,NA
+5,provost_pritchard,total_ww_gen_gals,NA,below,000 gals,NA,0,NA,NA
+5,provost_pritchard,total_ww_gen_n_lbs,NA,below,000 gals,NA,1,NA,NA
+5,provost_pritchard,total_ww_gen_p_lbs,NA,below,000 gals,NA,2,NA,NA
+5,provost_pritchard,total_ww_gen_k_lbs,NA,below,000 gals,NA,3,NA,NA
+5,provost_pritchard,total_ww_gen_salt_lbs,NA,below,000 gals,NA,4,NA,NA
+8,r8_csv,dairy_name,NA,right,Facility Name,NA,NA,NA,NA
+8,r8_csv,dairy_address,NA,right,Facility Address,NA,NA,NA,NA
+8,r8_csv,avg_milk_cows,NA,right,Milking Cows,NA,0,NA,NA
+8,r8_csv,avg_dry_cows,NA,right,Dry Cows,NA,0,NA,NA
+8,r8_csv,avg_bred_heifers,NA,NA,NA,NA,0,NA,NA
+8,r8_csv,avg_heifers,NA,right,Heifers,NA,0,NA,NA
+8,r8_csv,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,NA
+8,r8_csv,avg_calves_0_3_mo,NA,right,Calves,NA,0,NA,NA
+8,r8_csv,avg_other,NA,right,Other,NA,0,NA,NA
+1,generic_r1,dairy_name,facility information,right,facility,NA,NA,NA,address
+1,generic_r1,dairy_address,NA,right,address,NA,NA,NA,NA
+1,generic_r1,avg_milk_cows,NA,right,milking cows,NA,0,NA,dry
+1,generic_r1,avg_dry_cows,NA,NA,dry cows,NA,0,NA,heifer
+1,generic_r1,avg_bred_heifers,NA,NA,NA,NA,0,NA,NA
+1,generic_r1,avg_heifers,NA,right,heifers,NA,0,NA,calves
+1,generic_r1,avg_calves_4_6_mo,NA,NA,calves,NA,0,NA,NA
+1,generic_r1,avg_calves_0_3_mo,NA,NA,NA,NA,0,NA,NA
+1,generic_r1,avg_other,NA,NA,NA,NA,NA,NA,NA
+1,generic_r1,total_manure_excreted_tons,NA,NA,manure produced,NA,0,NA,NA
