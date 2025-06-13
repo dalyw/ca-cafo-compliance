@@ -84,7 +84,6 @@ state,State,text,,calculation
 zip,Zip,text,,calculation
 latitude,Latitude,text,,calculation
 longitude,Longitude,text,,calculation
-consultant,Consultant,text,,calculation
 template,Template,text,,calculation
 manure_factor_avg,Manure Factor Average,numeric,Average calculated manure factor per consultant,calculation
 manure_factor_std,Manure Factor Standard Deviation,numeric,Standard deviation of manure factor per consultant,calculation

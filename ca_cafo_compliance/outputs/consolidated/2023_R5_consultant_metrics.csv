@@ -1,5 +1,5 @@
-Consultant,Manure Factor Average,Manure Factor Standard Deviation,Wastewater Ratio Average,Wastewater Ratio Standard Deviation,USDA Nitrogen % Deviation Average,USDA Nitrogen % Deviation Standard Deviation,UCCE Nitrogen % Deviation Average,UCCE Nitrogen % Deviation Standard Deviation,Facility Count
-Innovative Ag,,,,,,,-100.0,0.0,68
-Livingston,,,,,,,-100.0,0.0,35
-Provost-Pritchard,,,,,,,,,6
-Self-completed (R5),,,,,,,-100.0,0.0,167
+consultant,Manure Factor Average,Manure Factor Standard Deviation,Wastewater Ratio Average,Wastewater Ratio Standard Deviation,USDA Nitrogen % Deviation Average,USDA Nitrogen % Deviation Standard Deviation,UCCE Nitrogen % Deviation Average,UCCE Nitrogen % Deviation Standard Deviation,Facility Count
+generic_r5,,,,,,,-100.0,0.0,166
+innovative_ag,,,,,,,-100.0,0.0,68
+livingston,,,,,,,-100.0,0.0,35
+provost_pritchard,,,,,,,,,6

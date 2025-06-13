@@ -1,21 +1,20 @@
 import streamlit as st
 import base64
-st.set_page_config(page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration", layout="centered")
 
 import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import json
 import os
 import glob
 import requests
 from io import StringIO
-import re
 
-from ca_cafo_compliance.helper_functions.read_report_helpers import *
+from ca_cafo_compliance.helper_functions.read_report_helpers import YEARS, REGIONS, cf
 from ca_cafo_compliance.helper_functions.plotting_helpers import *
+
+st.set_page_config(page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration", layout="centered")
 
 with open("ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
@@ -25,8 +24,8 @@ st.markdown(
     f'''
     <div style="position: relative; width: 100%; height: 240px; margin-bottom: -250px;">
         <img src="data:image/jpeg;base64,{img_base64}" 
-             style="position: absolute; top: 0; left: 0; width: 100%; height: 260px; object-fit: cover; opacity: 0.4; z-index: 0;" />
-        <div style="position: absolute; top: 20px; left: 0; width: 100%; text-align: center; z-index: 1;">
+             style="position: absolute; top: 0; left: 0; width: 100%; height: 190px; object-fit: cover; opacity: 0.4; z-index: 0;" />
+        <div style="position: absolute; top: 20px; left: 0; width: 100%; text-align: right; z-index: 1;">
             <span style="background: rgba(255,255,255,0.7); padding: 0.2em 1em; border-radius: 8px; font-size: 1em; color: #444;">Image: <a href='https://www.vecteezy.com/photo/8336504-steaming-pile-of-manure-on-farm-field-in-dutch-countryside' target='_blank'>Vecteezy</a></span>
         </div>
     </div>
@@ -70,7 +69,6 @@ def load_data():
     else:
         print("No local CSV files found. Attempting to load from GitHub...")
         base_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/outputs/consolidated"
-        REGIONS = ["1", "2", "5", "7", "8"]
         files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
         for file in files_to_load:
             local_path = f"ca_cafo_compliance/outputs/consolidated/{file}"
@@ -81,7 +79,6 @@ def load_data():
     
     if not dfs:
         return pd.DataFrame()
-
 
     combined_df = pd.concat(dfs, ignore_index=True)
     
@@ -410,15 +407,15 @@ def main():
             selected_year = st.selectbox("Select Year", years, index=default_year_index, key="map_year")
             
             # Filter data for map (only by year)
-            map_df = df[df['Year'] == selected_year]
+            map_df = df[df['Year'] == selected_year].copy()
             
             # Display map
             st.subheader("Facility Locations")
             if not map_df.empty and 'Latitude' in map_df.columns:
                 st.metric("Total Animals", f"{map_df['Total Herd Size'].sum():,.0f}")
                 # Filter for year and valid coordinates and herd size
-                year_df = df[df['Year'].astype(str) == str(selected_year)]
-                map_df = year_df[year_df['Latitude'].notna() & year_df['Longitude'].notna() & year_df['Total Herd Size'].notna()]
+                year_df = df[df['Year'].astype(str) == str(selected_year)].copy()
+                map_df = year_df[year_df['Latitude'].notna() & year_df['Longitude'].notna() & year_df['Total Herd Size'].notna()].copy()
                 
                 map_fig = px.scatter_map(map_df, lat='Latitude', lon='Longitude', size='Total Herd Size', color='Region',
                                     color_discrete_map=REGION_COLORS, hover_name='Dairy Name', hover_data={'Total Herd Size': True},
@@ -448,9 +445,12 @@ def main():
             )
             # Filter facilities by selected county
             if selected_facility_county != "All Counties":
-                facility_df = map_df[map_df['County'] == selected_facility_county]
+                facility_df = map_df[map_df['County'] == selected_facility_county].copy()
             else:
-                facility_df = map_df
+                facility_df = map_df.copy()
+            
+            # Convert Dairy Name to string and handle NaN values
+            facility_df.loc[:, 'Dairy Name'] = facility_df['Dairy Name'].fillna('Unknown').astype(str)
             facility_names = sorted(facility_df['Dairy Name'].unique())
             selected_facility = st.selectbox("Select a Facility", facility_names, index=facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0, key="facility_name_tab1")
             if selected_facility: # Get facility details
@@ -544,12 +544,12 @@ def main():
 
             st.image("ca_cafo_compliance/images/manifest_placeholder.png", caption="Manure manifest showing export destinations and volumes (from Sophia)")
 
-            # st.subheader("CAFO Density around Elementary Schools - example embed")
-            # st.components.v1.iframe(
-            #     "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
-            #     height=600,
-            #     scrolling=True
-            # )
+            st.subheader("CAFO Density around Elementary Schools - example embed")
+            st.components.v1.iframe(
+                "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
+                height=600,
+                scrolling=True
+            )
                         
             st.markdown("---")
             st.markdown("<br>", unsafe_allow_html=True)
@@ -682,14 +682,14 @@ def main():
             This analysis is inherently limited by the accessibility and consistency of the source data, including issues like inconsistent regional reporting formats and levels of detail, the requirement to visit in-person to get data in some regions, and different data collection periods
             """)
 
-            # --- Reporting Requirements Table (replaces reporting_breadth.png) ---
+            # Reporting Requirements Table
             def reporting_requirements_table():
                 data = [
-                    ["1", "❌", "❌", "❌", "❌", "❌", "❌"],
-                    ["2", "❌", "❌", "❌", "✅", "❌", "❌"],
-                    ["5", "✅", "✅", "✅", "❌", "❌", "✅"],
-                    ["7", "✅", "✅", "❌", "❌", "Limited", "❌"],
-                    ["8", "❌", "✅", "❌", "❌", "Limited", "✅"],
+                    ["1", "❌", "❌", "❌", "❌", "❌", "❌","❌"],
+                    ["2", "❌", "❌", "❌", "✅", "❌", "❌","❌"],
+                    ["5", "✅", "✅", "✅", "❌", "❌", "✅","❌"],
+                    ["7", "✅", "✅", "❌", "❌", "🟡", "❌","❌"],
+                    ["8", "❌", "✅", "❌", "❌", "🟡", "✅","✅"],
                 ]
                 columns = [
                     "Region",
@@ -698,7 +698,8 @@ def main():
                     "Nutrient Content Reporting",
                     "Groundwater Sampling Required",
                     "Public access to NMPs?",
-                    "Require Manure Tracking Manifests?"
+                    "Require Manure Tracking Manifests?",
+                    "Provides Tabular Data?"
                 ]
                 df = pd.DataFrame(data, columns=columns)
                 def style_cell(val):
@@ -706,7 +707,7 @@ def main():
                         return '<span style="color:green;font-size:1.5em;">&#x2705;</span>'
                     elif val == "❌":
                         return '<span style="color:red;font-size:1.5em;">&#10060;</span>'
-                    elif val == "Limited":
+                    elif val == "🟡":
                         return '<b>Limited</b>'
                     else:
                         return val
