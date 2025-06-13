@@ -1,0 +1,15 @@
+pandas>=1.5.0
+numpy>=1.21.0
+streamlit>=1.22.0
+plotly>=5.13.0
+pytesseract>=0.3.10
+pdf2image>=1.16.0
+opencv-python>=4.7.0
+PyPDF2>=3.0.0
+requests>=2.28.0
+dash>=2.9.0
+dash-core-components>=2.0.0
+dash-html-components>=2.0.0
+dash-bootstrap-components>=1.4.0
+dash-table>=5.0.0
+google-cloud-documentai>=2.20.0 
