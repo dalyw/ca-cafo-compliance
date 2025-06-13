@@ -18,6 +18,7 @@ from io import StringIO
 import re
 
 from ca_cafo_compliance.helper_functions.read_report_helpers import *
+from ca_cafo_compliance.helper_functions.plotting_helpers import *
 
 def load_parameters():
     """Load parameters and create mapping dictionaries."""
