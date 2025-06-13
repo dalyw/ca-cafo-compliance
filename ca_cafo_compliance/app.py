@@ -1,5 +1,6 @@
 import streamlit as st
 import base64
+st.set_page_config(page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration", layout="centered")
 
 import pandas as pd
 import numpy as np
@@ -14,7 +15,6 @@ from io import StringIO
 from ca_cafo_compliance.helper_functions.read_report_helpers import YEARS, REGIONS, cf
 from ca_cafo_compliance.helper_functions.plotting_helpers import *
 
-st.set_page_config(page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration", layout="centered")
 
 with open("ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
