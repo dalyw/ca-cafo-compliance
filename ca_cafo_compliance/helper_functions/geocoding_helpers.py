@@ -5,7 +5,11 @@ from geopy.geocoders import ArcGIS
 import pandas as pd
 import re
 
-from ca_cafo_compliance.helper_functions.read_report_helpers import *
+# Fix import for Streamlit Cloud deployment
+try:
+    from .read_report_helpers import *
+except ImportError:
+    from read_report_helpers import *
 
 def save_geocoding_cache(cache):
     """Save geocoded addresses to cache file."""
