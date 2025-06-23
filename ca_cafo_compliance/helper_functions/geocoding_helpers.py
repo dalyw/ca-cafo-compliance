@@ -4,12 +4,11 @@ from datetime import datetime
 from geopy.geocoders import ArcGIS
 import pandas as pd
 import re
+from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
+import time
 
-# Fix import for Streamlit Cloud deployment
-try:
-    from .read_report_helpers import *
-except ImportError:
-    from read_report_helpers import *
+# Import helper functions
+from .read_report_helpers import *
 
 def save_geocoding_cache(cache):
     """Save geocoded addresses to cache file."""

@@ -11,9 +11,16 @@ import os
 import glob
 import requests
 from io import StringIO
+import sys
 
-from ca_cafo_compliance.helper_functions.read_report_helpers import YEARS, REGIONS, cf
-from ca_cafo_compliance.helper_functions.plotting_helpers import *
+# Add the current directory to Python path for imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+if current_dir not in sys.path:
+    sys.path.append(current_dir)
+
+# Import helper functions
+from helper_functions.read_report_helpers import YEARS, REGIONS, cf
+from helper_functions.plotting_helpers import *
 
 
 with open("ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg", "rb") as img_file:

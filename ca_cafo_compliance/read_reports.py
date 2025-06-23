@@ -3,8 +3,8 @@ import numpy as np
 import os
 import glob
 import shutil
-from ca_cafo_compliance.helper_functions.read_report_helpers import cf, YEARS, REGIONS, consultant_mapping, process_pdf
-from ca_cafo_compliance.helper_functions.geocoding_helpers import geocode_address, find_cached_address
+from helper_functions.read_report_helpers import cf, YEARS, REGIONS, consultant_mapping, process_pdf
+from helper_functions.geocoding_helpers import geocode_address, find_cached_address
 from functools import partial
 import json
 
