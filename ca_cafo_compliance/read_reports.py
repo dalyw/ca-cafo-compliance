@@ -2,15 +2,15 @@ import pandas as pd
 import numpy as np
 import os
 import glob
+import shutil
 from ca_cafo_compliance.helper_functions.read_report_helpers import cf, YEARS, REGIONS, consultant_mapping, process_pdf
 from ca_cafo_compliance.helper_functions.geocoding_helpers import geocode_address, find_cached_address
-import multiprocessing as mp
 from functools import partial
 import json
-import re
 
 read_reports = True
 consolidate_data = True
+cleanup_intermediate = True  # Set to True to clean up OCR files after processing
 
 def calculate_metrics(df):
     """Calculate all metrics for the dataframe."""
@@ -175,7 +175,6 @@ def main(test_mode=False):
     
     all_params = parameters['parameter_key'].unique().tolist()
     available_templates = parameter_locations['template'].unique()
-    num_cores = 1 if test_mode else max(1, mp.cpu_count() - 3)
 
     # Load geocoding cache
     with open("ca_cafo_compliance/outputs/geocoding_cache.json", 'r') as f:
@@ -268,13 +267,19 @@ def main(test_mode=False):
                         if not pdf_files:
                             continue
 
-                        with mp.Pool(num_cores) as pool:
-                            process_pdf_partial = partial(process_pdf, template_params=template_params, 
-                                                        columns=all_params, data_types=params['data_types'])
-                            results = pool.map(process_pdf_partial, pdf_files)
+                        # Process PDFs sequentially
+                        results = []
+                        for pdf_file in pdf_files:
+                            try:
+                                result = process_pdf(pdf_file, template_params, all_params, params['data_types'])
+                                if result is not None:
+                                    results.append(result)
+                            except Exception as e:
+                                print(f"Error processing {pdf_file}: {e}")
+                                continue
                         
                         # Create DataFrame and initialize all parameters as NA
-                        df = pd.DataFrame([r for r in results if r is not None])
+                        df = pd.DataFrame(results)
                         for param in all_params:
                             if param not in df.columns:
                                 df[param] = np.nan
@@ -336,6 +341,9 @@ def main(test_mode=False):
         cadd_facilities = pd.read_csv('ca_cafo_compliance/data/CADD/CADD_Facility General Information_v1.0.0.csv')
         cadd_herd_size = pd.read_csv('ca_cafo_compliance/data/CADD/CADD_Facility Herd Size_v1.0.0.csv')
 
+        # Collect all data for the all_master file
+        all_dataframes = []
+
         for year in YEARS:
             base_path = f"ca_cafo_compliance/outputs/{year}"
             if not os.path.exists(base_path):
@@ -396,12 +404,45 @@ def main(test_mode=False):
                     metrics_file = f"ca_cafo_compliance/outputs/consolidated/{year}_{region}_consultant_metrics.csv"
                     consultant_metrics.to_csv(metrics_file, index=False)
 
-                # Convert to pretty names and save
-                final_df = final_df.rename(columns=params['snake_to_pretty'])
+                # Convert to pretty names and save individual region files
+                final_df_pretty = final_df.rename(columns=params['snake_to_pretty'])
                 output_file = f"ca_cafo_compliance/outputs/consolidated/{year}_{region}_master.csv"
-                final_df.to_csv(output_file, index=False)
+                final_df_pretty.to_csv(output_file, index=False)
                 print(f"Saved consolidated data to {output_file}")
                 print(f"Total records: {len(final_df)}")
+
+                # Add to all_dataframes for the comprehensive file (use original column names)
+                all_dataframes.append(final_df)
+
+        # Create all_master file with all years and regions
+        if all_dataframes:
+            all_master_df = pd.concat(all_dataframes, ignore_index=True)
+            
+            # Now rename columns after concatenation
+            all_master_df = all_master_df.rename(columns=params['snake_to_pretty'])
+            
+            all_master_output_file = "ca_cafo_compliance/outputs/consolidated/all_master.csv"
+            all_master_df.to_csv(all_master_output_file, index=False)
+            print(f"Saved all_master data to {all_master_output_file}")
+            print(f"Total records in all_master: {len(all_master_df)}")
+        else:
+            print("No data found to create all_master file")
+
+    # Force garbage collection
+    import gc
+    gc.collect()
+    
+    # Clear any large variables that might be in memory
+    import sys
+    for name in list(sys.modules.keys()):
+        if name.startswith('ca_cafo_compliance'):
+            try:
+                del sys.modules[name]
+            except:
+                pass
+    
+    
+    print("Script completed")
 
 if __name__ == "__main__":
     main(test_mode=False)

@@ -1,0 +1,11 @@
+# Streamlit Cloud Configuration File
+# This file configures Streamlit settings for deployment on Streamlit Cloud
+# It ensures the app runs properly in a headless environment without browser dependencies
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false 
