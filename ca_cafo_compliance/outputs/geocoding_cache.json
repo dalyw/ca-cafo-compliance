@@ -5711,5 +5711,101 @@
     "successful_format": ")A5 UW) Can 2d) rail CAGI277, California",
     "geocoder": "ArcGIS",
     "address": "California, Lanark Highlands, Ontario"
+  },
+  "5111 Bear Mountain BLVD BakersfieId Kern 93313": {
+    "lat": 35.208696556702,
+    "lng": -119.057504060677,
+    "timestamp": "2025-06-23T11:18:05.233260",
+    "successful_format": "5111 Bear Mountain BLVD BakersfieId Kern 93313, California",
+    "geocoder": "ArcGIS",
+    "address": "5111 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "1129 E Shafter RD BakersfieId Kern 93307": {
+    "lat": 35.215931010999,
+    "lng": -118.994174999648,
+    "timestamp": "2025-06-23T11:18:06.205036",
+    "successful_format": "1129 E Shafter RD BakersfieId Kern 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "1129 E Shafter Rd, Bakersfield, California, 93307"
+  },
+  "4551 Bear Mountain BIvd": {
+    "lat": 35.216312010408,
+    "lng": -119.190491996329,
+    "timestamp": "2025-06-23T11:18:07.604283",
+    "successful_format": "4551 Bear Mountain BIvd, California",
+    "geocoder": "ArcGIS",
+    "address": "4551 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "30999 Peterson RD McfarIand Kern 93250": {
+    "lat": 35.702400997142,
+    "lng": -119.25191097858,
+    "timestamp": "2025-06-23T11:18:07.780333",
+    "successful_format": "30999 Peterson RD McfarIand Kern 93250, California",
+    "geocoder": "ArcGIS",
+    "address": "30999 Peterson Rd, Mc Farland, California, 93250"
+  },
+  "14461 Taft Highway BakersfieId Kern 93311": {
+    "lat": 35.250044979737,
+    "lng": -119.158227033521,
+    "timestamp": "2025-06-23T11:18:08.795827",
+    "successful_format": "14461 Taft Highway BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "14461 Taft Hwy, Bakersfield, California, 93311"
+  },
+  "11701 OId River RD": {
+    "lat": 35.245335984624,
+    "lng": -119.114305022692,
+    "timestamp": "2025-06-23T11:18:09.105124",
+    "successful_format": "11701 OId River RD, California",
+    "geocoder": "ArcGIS",
+    "address": "11701 Old River Rd, Bakersfield, California, 93311"
+  },
+  "18451 WiIdwood Rd. ButtonwiIllow Kern 93206": {
+    "lat": 35.482661895945,
+    "lng": -119.439429248104,
+    "timestamp": "2025-06-23T11:18:09.992139",
+    "successful_format": "18451 WiIdwood Rd. ButtonwiIllow Kern 93206, California",
+    "geocoder": "ArcGIS",
+    "address": "18451 Wildwood Rd, Buttonwillow, California, 93206"
+  },
+  "18683 MagnoIia Ave Shafter": {
+    "lat": 35.478749985564,
+    "lng": -119.381629982675,
+    "timestamp": "2025-06-23T11:18:10.154088",
+    "successful_format": "18683 MagnoIia Ave Shafter, California",
+    "geocoder": "ArcGIS",
+    "address": "18683 Magnolia Ave, Shafter, California, 93263"
+  },
+  "11663 Buena Vista Rd BakersfieId Kern 93311": {
+    "lat": 35.248998865725,
+    "lng": -119.128467748038,
+    "timestamp": "2025-06-23T11:18:11.110467",
+    "successful_format": "11663 Buena Vista Rd BakersfieId Kern 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "11663 Buena Vista Rd, Bakersfield, California, 93311"
+  },
+  "4551 Bear Mountain Blvd": {
+    "lat": 35.216312010408,
+    "lng": -119.190491996329,
+    "timestamp": "2025-06-23T12:14:44.330128",
+    "successful_format": "4551 Bear Mountain Blvd, California",
+    "geocoder": "ArcGIS",
+    "address": "4551 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "18041 Palm Ave. Shafter CA 93263": {
+    "lat": 35.496461994712,
+    "lng": -119.354699011592,
+    "timestamp": "2025-06-23T12:14:44.850914",
+    "successful_format": "18041 Palm Ave. Shafter CA 93263, California",
+    "geocoder": "ArcGIS",
+    "address": "18041 Palm Ave, Shafter, California, 93263"
+  },
+  "6041 Brandt Road Buttonwillon CA 93206": {
+    "lat": 35.420617002724,
+    "lng": -119.385324977052,
+    "timestamp": "2025-06-23T12:14:45.027764",
+    "successful_format": "6041 Brandt Road Buttonwillon CA 93206, California",
+    "geocoder": "ArcGIS",
+    "address": "6041 Brandt Rd, Buttonwillow, California, 93206"
   }
 }
