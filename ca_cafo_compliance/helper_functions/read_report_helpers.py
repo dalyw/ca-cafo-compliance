@@ -395,7 +395,7 @@ def find_value_by_text(page_text, row, data_type, param_key=None):
         phrase=row["row_search_text"],
         direction=row["search_direction"],
         row_search_text=row["row_search_text"],
-        column_search_text=row["column_search_text"],
+        column_search_text=row.get("column_search_text", pd.NA),
         item_order=row["item_order"],
         ignore_before=row["ignore_before"],
         ignore_after=row["ignore_after"] if "ignore_after" in row else None,
@@ -488,7 +488,7 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
     search_direction = row.get("search_direction", pd.NA)
     page_search_text = row.get("page_search_text", pd.NA)
     row_search_text = row.get("row_search_text", pd.NA)
-    column_search_text = row.get("column_search_text", pd.NA)
+    column_search_text = row.get("column_search_text", 'pd.NA')
     param_key = row["parameter_key"]
     data_type = data_types.get(param_key, "text")
 
@@ -498,35 +498,37 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
     data_type = data_types.get(row["parameter_key"], "text")
     param_key = row["parameter_key"]
     
-    try:
-        search_text = ocr_text
-        if not pd.isna(page_search_text):
-            clean_search = " ".join(page_search_text.split())
-            clean_text = " ".join(ocr_text.split())
-            pos = clean_text.find(clean_search)
-            if pos == -1:
-                return get_default_value(param_key, data_types, defaults)
-            search_text = ocr_text[pos + len(page_search_text):]
-
-        if pd.isna(row_search_text):
+    # try:
+    search_text = ocr_text
+    if not pd.isna(page_search_text):
+        clean_search = " ".join(page_search_text.split())
+        clean_text = " ".join(ocr_text.split())
+        pos = clean_text.find(clean_search)
+        if pos == -1:
             return get_default_value(param_key, data_types, defaults)
+        search_text = ocr_text[pos + len(page_search_text):]
 
-        if pd.isna(column_search_text):
-            return get_default_value(param_key, data_types, defaults)
-            
-        # Search for the value in the appropriate text section (use search_text, not ocr_text)
-        value = find_value_by_text(
-            page_text=search_text, row=row, data_type=data_type, param_key=param_key
-        )
-        
-        if value is None or (data_type == "numeric" and (pd.isna(value) or value == 0)):
-            # Use default if not found or is zero/NA for numeric
-            value = get_default_value(param_key, data_types, defaults)
-        
-        return value
-    except Exception as e:
-        print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
+    if pd.isna(row_search_text):
+        print("NA row_search_text for param:", param_key)
         return get_default_value(param_key, data_types, defaults)
+
+    if pd.isna(column_search_text):
+        print("NA column_search_text for param:", param_key)
+        return get_default_value(param_key, data_types, defaults)
+        
+    # Search for the value in the appropriate text section (use search_text, not ocr_text)
+    value = find_value_by_text(
+        page_text=search_text, row=row, data_type=data_type, param_key=param_key
+    )
+    
+    if value is None or (data_type == "numeric" and (pd.isna(value) or value == 0)):
+        # Use default if not found or is zero/NA for numeric
+        value = get_default_value(param_key, data_types, defaults)
+    
+    return value
+    # except Exception as e:
+    #     print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
+    #     return get_default_value(param_key, data_types, defaults)
 
 
 def process_pdf(pdf_path, template_params, columns, data_types, defaults):

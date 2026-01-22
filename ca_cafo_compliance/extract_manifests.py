@@ -12,9 +12,12 @@ from helper_functions.read_report_helpers import (
     find_parameter_value
 )
 
-# Configuration
+# Configuration - Google Drive paths
+GDRIVE_BASE = '/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
+
+# Load manifest parameters
 MANIFEST_PARAMS_DF = pd.read_csv(os.path.join(DATA_DIR, "manifest_parameters.csv"))
 MANIFEST_PARAM_TYPES = dict(zip(MANIFEST_PARAMS_DF["parameter_key"], MANIFEST_PARAMS_DF["data_type"]))
 MANIFEST_PARAM_DEFAULTS = dict(zip(MANIFEST_PARAMS_DF["parameter_key"], MANIFEST_PARAMS_DF["default"]))
@@ -39,19 +42,6 @@ DEST_TYPE_PLACEHOLDERS = [
     r'address', r'^or\s*$', r'^\s*$',
 ]
 APN_PATTERNS = [r'APN:\s*[^\s,]+', r'\b\d{3,4}-\d{3,4}-\d{3,4}-\d{3,4}\b']
-
-
-def get_section_text(text, section_start, section_end=None):
-    """Extract text between section markers."""
-    text_lower = text.lower()
-    start_idx = text_lower.find(section_start.lower())
-    if start_idx == -1:
-        return text
-    if section_end:
-        end_idx = text_lower.find(section_end.lower(), start_idx)
-        if end_idx != -1:
-            return text[start_idx:end_idx]
-    return text[start_idx:]
 
 
 def _is_placeholder_value(value):
@@ -151,22 +141,20 @@ def identify_manifest_pages(result_text):
                 
             page_text = pages[page_num]
             
-            # Skip false positive page
+            # Skip false positive page from earlier in document
             if "REQUIRED ATTACHMENTS" in page_text.upper():
                 i += 1
                 continue
             
             # Check if this page starts a manifest (has header + operator info)
-            if has_manifest_header(page_text):
+            if has_manifest_header(page_text): # TODO: remove if statement?
                 manifest_num += 1
                 manifest_starts.append(manifest_num)
                 
-                # Look for the next page to see if it's the AMOUNT HAULED page
+                # Add the next page
                 combined_text = page_text
                 end_page = page_num
-                processed_pages.add(page_num)
-                
-                # Check if next page(s) contain the AMOUNT HAULED sections
+                processed_pages.add(page_num)                
                 next_idx = i + 1
                 while next_idx < len(sorted_pages):
                     next_page_num = sorted_pages[next_idx]
@@ -174,10 +162,7 @@ def identify_manifest_pages(result_text):
                         next_idx += 1
                         continue
                     
-                    next_page_text = pages[next_page_num]
-                    next_page_upper = next_page_text.upper()
-                    
-                    combined_text += "\n\n" + next_page_text
+                    combined_text += "\n\n" + pages[next_page_num]
                     end_page = next_page_num
                     processed_pages.add(next_page_num)
                     break
@@ -189,113 +174,8 @@ def identify_manifest_pages(result_text):
         
         return manifest_starts, manifest_blocks, manifest_page_ranges
     else:
-        print("NO HEADERS")
+        print(repr(result_text[:100]))
         return [], [result_text], []
-
-
-def extract_value_from_row(text, row, ocr_format):
-    """Extract parameter value from text using location config."""
-    # Get section
-    section_start = row.get('section_start', '')
-    section_end = row.get('section_end', '')
-    section_text = get_section_text(text, section_start, section_end if pd.notna(section_end) else None) if pd.notna(section_start) and section_start else text
-    
-    # Get extraction params
-    row_search_text = row.get('row_search_text', '')
-    search_direction = row.get('search_direction', 'right')
-    ignore_before = row.get('ignore_before', '')
-    ignore_after = row.get('ignore_after', '')
-    item_order = int(row.get("item_order")) if pd.notna(row.get("item_order")) and row.get("item_order") not in ["", "NA"] else None
-    
-    if pd.isna(row_search_text) or not row_search_text or row_search_text == 'NA':
-        return None
-    
-    lines = section_text.split('\n')
-    
-    # Find matching line
-    for i, line in enumerate(lines):
-        if row_search_text.lower() not in line.lower():
-            continue
-        
-        value = None
-        
-        # Direction-based extraction
-        if search_direction == 'right':
-            if ocr_format == 'marker' and '|' in line:
-                cells = [c.strip() for c in line.split('|') if c.strip()]
-                for j, cell in enumerate(cells):
-                    if row_search_text.lower() in cell.lower():
-                        idx = cell.lower().find(row_search_text.lower())
-                        after = cell[idx + len(row_search_text):].strip().lstrip(':').strip()
-                        if after and after.lower() not in ['', 'na', 'none']:
-                            value = after
-                            break
-                        if j + 1 < len(cells) and cells[j + 1].lower() not in ['city', 'county', 'state', 'zip code', 'name', 'phone number']:
-                            value = cells[j + 1]
-                        break
-            else:
-                idx = line.lower().find(row_search_text.lower())
-                after = line[idx + len(row_search_text):].strip().lstrip(':').strip()
-                if not after and i + 1 < len(lines):
-                    next_line = lines[i + 1].strip()
-                    if next_line and not _is_placeholder_value(next_line) and not next_line.endswith(":") and not is_address_label(next_line):
-                        after = next_line
-                value = after if after else None
-        
-        elif search_direction in ['below', 'above']:
-            candidates = []
-            range_iter = range(i + 1, min(i + 50, len(lines))) if search_direction == 'below' else range(i - 1, max(i - 50, -1), -1)
-            
-            for j in range_iter:
-                next_line = lines[j].strip()
-                if not next_line or next_line.startswith('|--') or next_line.endswith(":") or is_address_label(next_line):
-                    continue
-                if next_line.lower() in TABLE_CELL_LABELS or _is_placeholder_value(next_line):
-                    continue
-                
-                if ocr_format == 'marker' and '|' in next_line:
-                    cells = [c.strip() for c in next_line.split('|') if c.strip()]
-                    for cell in cells:
-                        if cell and cell.lower() not in TABLE_CELL_LABELS and not is_address_label(cell) and not _is_placeholder_value(cell):
-                            candidates.append(cell)
-                            break
-                else:
-                    candidates.append(next_line)
-                
-                if item_order is None and candidates:
-                    break
-            
-            if candidates:
-                value = candidates[0] if item_order is None else candidates[item_order] if 0 <= (item_order or 0) < len(candidates) else candidates[-1] if item_order == -1 else None
-        
-        elif search_direction == 'left':
-            idx = line.lower().find(row_search_text.lower())
-            if idx > 0:
-                before = line[:idx].strip().rstrip(':').strip()
-                if before and not _is_placeholder_value(before):
-                    value = before
-            if not value and i > 0:
-                prev_line = lines[i - 1].strip()
-                if prev_line and not _is_placeholder_value(prev_line) and (re.search(r'\d', prev_line) or len(prev_line.split()) <= 5):
-                    if not prev_line.endswith(":") and not is_address_label(prev_line):
-                        value = prev_line
-        
-        # Apply ignore filters
-        if value:
-            if pd.notna(ignore_before) and ignore_before:
-                idx = value.lower().find(str(ignore_before).lower())
-                value = value[idx + len(str(ignore_before)):].strip() if idx != -1 else value
-            if pd.notna(ignore_after) and ignore_after:
-                idx = value.lower().find(str(ignore_after).lower())
-                value = value[:idx].strip() if idx != -1 else value
-            # Remove APN patterns
-            for pattern in APN_PATTERNS:
-                value = re.sub(pattern, '', value, flags=re.IGNORECASE)
-            value = re.sub(r'\s+', ' ', value).strip()
-        
-        return value if value else None
-    
-    return None
 
 
 def extract_structured_address(text, section_markers):
@@ -319,7 +199,20 @@ def extract_manifests_from_file(text_file, pdf_name):
     print(f"  {len(manifest_indices)} manifests in {pdf_name}")
     
     output_dir = os.path.dirname(text_file)
-    original_pdf = os.path.join(os.path.dirname(os.path.dirname(output_dir)), "original", f"{os.path.basename(output_dir)}.pdf")
+    
+    # Get original PDF path from Google Drive structure
+    parts = output_dir.split(os.sep)
+    year_idx = next((i for i, p in enumerate(parts) if p.isdigit() and len(p) == 4), None)
+    
+    if year_idx and year_idx + 2 < len(parts):
+        year = parts[year_idx]
+        region = parts[year_idx + 1]
+        county = parts[year_idx + 2]
+        template = parts[year_idx + 3]
+        original_pdf = os.path.join(GDRIVE_BASE, year, region, county, template, 'original', f"{os.path.basename(output_dir)}.pdf")
+    else:
+        original_pdf = None
+    
     manifests = []
     ocr_format = 'marker' if 'marker' in text_file else 'fitz'
     
@@ -328,8 +221,8 @@ def extract_manifests_from_file(text_file, pdf_name):
         data = {col: None for col in MANIFEST_COLUMNS}
         data["Source PDF"] = pdf_name
         data["Manifest Number"] = manifest_num
-        
-        manifest_text = clean_common_errors(manifest_text)
+
+        manifest_text = clean_common_errors(manifest_text) # TODO: see if redundant        
         template = 'manifest_attachment_d' if 'ATTACHMENT D' in manifest_text.upper() else 'manifest_r5'
         
         # Extract each field
@@ -391,14 +284,13 @@ def extract_manifests_from_file(text_file, pdf_name):
         # Save individual manifest
         with open(os.path.join(output_dir, f"manifest_{manifest_num}.txt"), 'w', encoding='utf-8') as f:
             f.write(manifest_text)
-        
-        if start_page and end_page:
+        # Save individual manifest PDF
+        if original_pdf and os.path.exists(original_pdf) and start_page and end_page:
             with fitz.open(original_pdf) as doc, fitz.open() as new_doc:
                 for page_num in range(start_page - 1, end_page):
                     if 0 <= page_num < len(doc):
                         new_doc.insert_pdf(doc, from_page=page_num, to_page=page_num)
-                if new_doc.page_count > 0:
-                    new_doc.save(os.path.join(output_dir, f"manifest_{manifest_num}.pdf"))
+                new_doc.save(os.path.join(output_dir, f"manifest_{manifest_num}.pdf"))
     
     return manifests
 
@@ -407,18 +299,23 @@ def main():
     """Extract manifests from OCR output."""
     output_folders = ["fitz_output", "marker_output", "tesseract_output"]
     all_manifests = []
-    
-    print(f"\nExtracting manifests from OCR output...")
-    
+        
     for folder_name in output_folders:
-        file_pattern = f"ca_cafo_compliance/data/2024/R5/**/{folder_name}/**/*.txt"
+        # pattern for Google Drive structure
+        file_pattern = f"{GDRIVE_BASE}/2024/R5/**/{folder_name}/**/*.txt"
         output_files = [f for f in glob.glob(file_pattern, recursive=True) if not os.path.basename(f).startswith('manifest_')]
-        
-        if output_files:
-            print(f"\nFound {len(output_files)} files in {folder_name}")
-            print(f"  Example: {output_files[0]}" if len(output_files) > 3 else '\n'.join(f"  {f}" for f in output_files))
-        
-        for output_file in output_files:
+
+        filtered_files = []
+        for f in output_files:  # Only files with '2024' in their path
+            rel_path = f.replace(GDRIVE_BASE, "")
+            if re.search(r"/2024/", rel_path):
+                filtered_files.append(f)
+
+        if filtered_files:
+            print(f"\nFound {len(filtered_files)} files in {folder_name} for 2024")
+            print(f"  Example: {filtered_files[0]}" if len(filtered_files) > 3 else '\n'.join(f"  {f}" for f in filtered_files))
+
+        for output_file in filtered_files:
             pdf_name = os.path.basename(os.path.dirname(output_file))
             manifests = extract_manifests_from_file(output_file, pdf_name)
             all_manifests.extend(manifests)

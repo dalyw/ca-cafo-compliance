@@ -25,6 +25,9 @@ MAX_PAGES = 999  # Max pages per document
 FITZ_OUTPUT_FOLDER = "fitz_output"
 _MARKER_MODELS = load_all_models()
 
+GDRIVE_BASE = '/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests'
+GDRIVE_BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+GDRIVE_DATA_DIR = os.path.join(GDRIVE_BASE_DIR, "data")
 
 manifest_terms = [
                 "hauler", 
@@ -258,10 +261,12 @@ def get_output_paths(pdf_path, method):
     parent_dir = os.path.dirname(os.path.dirname(pdf_path))
     folder = FITZ_OUTPUT_FOLDER if method == "fitz" else f"{method}_output"
     output_dir = os.path.join(parent_dir, folder, pdf_name)
+    output_GDRIVE_dir = output_dir.replace(GDRIVE_DATA_DIR, GDRIVE_BASE)
+    os.makedirs(output_GDRIVE_dir, exist_ok=True)
     return {
-        'dir': output_dir,
-        'txt': os.path.join(output_dir, f"{pdf_name}.txt"),
-        'json': os.path.join(output_dir, f"{pdf_name}.json"),
+        'dir': output_GDRIVE_dir,
+        'txt': os.path.join(output_GDRIVE_dir, f"{pdf_name}.txt"),
+        'json': os.path.join(output_GDRIVE_dir, f"{pdf_name}.json"),
     }
 
 
@@ -282,15 +287,19 @@ def collect_pdf_files(years=None, regions=REGIONS):
     if not regions:
         regions = REGIONS
     for year in years:
-        base_path = f"ca_cafo_compliance/data/{year}"
+        GDRIVE_BASE = '/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests'
+        base_path = GDRIVE_BASE + f"/{year}"
+        print(base_path)
         for region in REGIONS:
             region_path = os.path.join(base_path, region)
             if not os.path.exists(region_path):
+                print(f"no {region} path")
                 continue
             
             for county in os.listdir(region_path):
                 county_path = os.path.join(region_path, county)
                 if not os.path.isdir(county_path):
+                    print(f"no {county} path")
                     continue
                 
                 for template in os.listdir(county_path):
@@ -298,11 +307,10 @@ def collect_pdf_files(years=None, regions=REGIONS):
                     if not os.path.isdir(template_path):
                         continue
                     
-                    for folder in ["non-readable", "readable", "original"]:
-                        folder_path = os.path.join(template_path, folder)
-                        if os.path.exists(folder_path):
-                            pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
-                            pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
+                    folder_path = os.path.join(template_path, "original")
+                    if os.path.exists(folder_path):
+                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
+                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
     
     return pdf_files
 
@@ -315,7 +323,7 @@ def update_reports_available_csv():
         "5R": [],
     }
     
-    base_path = "ca_cafo_compliance/data/2023/R5"
+    base_path = GDRIVE_BASE + "/2023/R5"
     csv_path = "ca_cafo_compliance/data/reports_available.csv"
     
     if not os.path.exists(csv_path):

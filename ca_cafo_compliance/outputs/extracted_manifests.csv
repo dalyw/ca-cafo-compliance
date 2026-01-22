@@ -1,476 +1,559 @@
 Origin Dairy Name,Origin Dairy Address,Hauler Name,Hauler Address,Destination Name,Destination Address,Destination Type,Destination Assessor Parcel Number,Haul Date,Wastewater Haul Type,Total Process Wastewater Exports (Gallons),Method Used to Determine Wastewater Volume,Manure Haul Type,Total Manure Amount (tons),Method Used to Determine Manure Volume,Source PDF,Manifest Number
-,"10221 Ave 21 1/2, Madera, CA 93610",,"11277 Ave 21 1/2, Chowchilla, CA 93610",,"10221 Ave 21 1/2, Madera, 93610",,,,,nan,,,nan,,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,1
-,"10221 Ave 21 1/2, Madera, CA 93610",,"11277 Ave 21 1/2, Chowchilla, CA 93610",,"10221 Ave 21 1/2, Madera, 93610",,,,,nan,,,nan,,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,2
-,"10221 Ave 21 1/2, Madera, CA 93610",,"11277 Ave 21 1/2, Chowchilla, CA 93610",,"10221 Ave 21 1/2, Madera, 93610",,,,,nan,,,nan,,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,3
-,"10221 Ave 21 1/2, Madera, CA 93610",,"11277 Ave 21 1/2, Chowchilla, CA 93610",,"10221 Ave 21 1/2, Madera, 93610",,,,,nan,,,nan,,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,4
-,"10221 Ave 21 1/2, Madera, CA 93610",,"11277 Ave 21 1/2, Chowchilla, CA 93610",,"10221 Ave 21 1/2, Madera, 93610",,,,,nan,,,nan,,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,5
-,"12137 S Hughes Ave, Fresno, CA 93609",,"Fresno, CA 93609",,"Fresno, CA 93609",,,,,nan,,,nan,,2024AR_Golden Star Dairy_4109 E Conejo Ave_Fresno,1
-,"6465 State Hwy, Merced, CA 93620",,"6465 State Hwy, Dos Palos, CA 93620",,"6465 State Hwy, Dos Palos, CA 93620",,,,,nan,,,nan,,"2024AR_Philip Verwey Dairy, Inc._12852 Road 9_Madera",1
-,"6465 State Hwy, Merced, CA 93620",,"6465 State Hwy, Dos Palos, CA 93620",,"6465 State Hwy, Merced, 93620",,,,,nan,,,nan,,"2024AR_Philip Verwey Dairy, Inc._12852 Road 9_Madera",2
-,"21622 CedarAvenue, Fresno, CA 93656",,,,,,,,,nan,,,nan,,2024AR_Cedar Avenue Feedlot_21622 S Cedar Ave_Fresno,1
-,"21622 CedarAvenue, Fresno, CA 93656",,CA,,"Fresno, 93656",,,,,nan,,,nan,,2024AR_Cedar Avenue Feedlot_21622 S Cedar Ave_Fresno,2
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,1
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,2
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,3
-,"40396 W. Valeria Avenue, Fresno, CA 93620",,"40396 W. Valeria Avenue, Dos Palos, CA 93620",,"Fresno, 93620",,,,,nan,,,nan,,2024AR_Rivas Dairy_41198 W Valeria Ave_Fresno,1
-,"40396 W. Valeria Avenue, Fresno, CA 93620",,"40396 W. Valeria Avenue, Dos Palos, CA 93620",,"Fresno, 93620",,,,,nan,,,nan,,2024AR_Rivas Dairy_41198 W Valeria Ave_Fresno,2
-,"16800 Road 15, Madera, CA 93637",,"5175 Shaw AVE, Winton, CA 95388",,"16800 Road 15, Madera, 93637",,,,,nan,,,nan,,2024AR_Costa View Farms Dairy #2_16800 Road 15_Madera,1
-,"18919 Avenue 23, Madera, CA 93610",,"18919 Avenue 23, Chowchilla, CA 93610",,"Madera, 93610",,,,,nan,,,nan,,2024AR_LaSalle Dairy_10663 7.5 Ave_Madera,1
-,"13265 W. Jensen Avenue, Fresno, CA 93706",,"13265 W. Jensen Avenue, Kerman, CA 93630",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,1
-,"9256 S. Valentine Avenue, Fresno, CA 93706",,"9256 S. Valentine Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,2
-,"9256 S. Valentine Avenue, Fresno, CA 93706",,"9256 S. Valentine Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,3
-,"9256 S. Valentine Avenue, Fresno, CA 93706",,"9256 S. Valentine Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,4
-,"10044 Flint Avenue, Hanford, CA 93230",,"10044 Flint Avenue, Hanford, CA 93230",,"Hanford, 93230",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,5
-,"9256 S. Valentine Avenue, Fresno, CA 93706",,"9256 S. Valentine Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,6
-,"9256 S. Valentine Avenue, Fresno, CA 93706",,"9256 S. Valentine Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,7
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,1
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,2
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Avenue 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,3
-,,,"133265 W. Kamm AVE, Kerman, CA 93656",,"Fresno, 93656",,,,,nan,,,nan,,2024AR_Kerman Cattle Company_4301 S Dickenson Ave_Fresno,1
-,"10044 Flint AVE, Hanford, CA 93230",,,,"Hanford, 93230",,,,,nan,,,nan,,2024AR_Joe R. Garcia Dairy_20677 East Ave_Fresno,1
-,"1275 North Avenue, Merced, CA 95322",,"1275 North Avenue, Gustine, CA 95322",,"1275 North Avenue, Merced, 95322",,,,,nan,,,nan,,2024AR_Banos Dairy_4667 Ave 23.5_Madera,1
-,"1275 North Avenue, Merced, CA 95322",,"1275 North Avenue, Gustine, CA 95322",,"1275 North Avenue, Merced, 95322",,,,,nan,,,nan,,2024AR_Banos Dairy_4667 Ave 23.5_Madera,2
-,"17076 Cotton Gin RD, Merced, CA 93635",,"24662 Road 9, Chowchilla, CA 93610",,"17076 Cotton Gin RD, Merced, 93635",,,,,nan,,,nan,,2024AR_Troost Dairy_27000 Road _Madera,1
-,"20177 S MacAurthur DR, Tracy, CA 95304",,"24662 Road 9, Chowchilla, CA 93610",,"20177 S MacAurthur DR, Tracy, 95304",,,,,nan,,,nan,,2024AR_Troost Dairy_27000 Road _Madera,2
-,"20177 S MacAurthur DR, Tracy, CA 95304",,"24662 Road 9, Chowchilla, CA 93610",,"20177 S MacAurthur DR, Tracy, 95304",,,,,nan,,,nan,,2024AR_Troost Dairy_27000 Road _Madera,3
-,"2480 S Burchell AVE, Merced, CA 95333",,"24662 Road 9, Chowchilla, CA 93610",,"2480 S Burchell AVE, Merced, 95333",,,,,nan,,,nan,,2024AR_Troost Dairy_27000 Road _Madera,4
-,"20177 S MacAurthur DR, Tracy, CA 95304",,"24662 Road 9, Chowchilla, CA 93610",,"20177 S MacAurthur DR, Tracy, 95304",,,,,nan,,,nan,,2024AR_Troost Dairy_27000 Road _Madera,5
-,"3564 W. Clayton Street, Fresno, CA 93706",,"6205 S. Brawley Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,1
-,"9685 S. Hughes Avenue, Fresno, CA 93706",,"9685 S. Hughes Avenue, Fresno, CA 93725",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,2
-,"9685 S. Hughes Avenue, Fresno, CA 93706",,"9685 S. Hughes Avenue, Fresno, CA 93725",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,3
-,"9685 S. Hughes Avenue, Fresno, CA 93706",,"9685 S. Hughes Avenue, Fresno, CA 93725",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,4
-,"3564 W. Clayton Street, Fresno, CA 93706",,"6205 S. Brawley Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,5
-,"3564 W. Clayton Street, Fresno, CA 93706",,"6205 S. Brawley Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,6
-,"9685 S. Hughes Avenue, Fresno, CA 93706",,"9685 S. Hughes Avenue, Fresno, CA 93725",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,7
-,"3564 W. Clayton Street, Fresno, CA 93706",,"6205 S. Brawley Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,8
-,"3564 W. Clayton Street, Fresno, CA 93706",,"6205 S. Brawley Avenue, Fresno, CA 93706",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,9
-,,,,,"Fresno, CA 93656",,,,,nan,,,nan,,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,1
-,"19721 Excelsior AVE, Fresno, CA 93656",,,,93656,,,,,nan,,,nan,,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,2
-,"19721 Excelsior AVE, Fresno, CA 93656",,,,"Fresno, 93656",,,,,nan,,,nan,,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,3
-,"11751 W. Jensen Ave, Fresno, CA 93630",,"Kerman, CA 93630",,"8555 S Valentine AVE, Kerman, CA 93630",,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,1
-,"11751 W. Jensen Ave, Fresno, CA 93630",,"Kerman, CA 93630",,"8555 S Valentine AVE, Kerman, CA 93630",,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,2
-,"11751 W. Jensen Ave, Fresno, CA 93630",,"Kerman, CA 93630",,"11751 W. Jensen Ave, Fresno, 93630",,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,3
-,,,,,,,,,,nan,,,nan,,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,2
-,,,,,,,,,,nan,,,nan,,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,3
-,,,,,,,,,,nan,,,nan,,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,4
-,,,,,,,,,,nan,,,nan,,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,5
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Ave 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,1
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Ave 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,2
-,"7792 Nickle RD, Merced, CA 93620",,"14676 Ave 14, Madera, CA 93637",,"7792 Nickle RD, Merced, 93620",,,,,nan,,,nan,,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,3
-,"29808 Avenue 12, Madera, CA 93638",,"20330 Road 4, Chowchilla, CA 93610",,"29808 Avenue 12, Madera, 93638",,,,,nan,,,nan,,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,1
-,"29808 Avenue 12, Madera, CA 93638",,"20330 Road 4, Chowchilla, CA 93610",,"29808 Avenue 12, Madera, 93638",,,,,nan,,,nan,,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,2
-,"29808 Avenue 12, Madera, CA 93638",,"20330 Road 4, Chowchilla, CA 93610",,"29808 Avenue 12, Madera, 93638",,,,,nan,,,nan,,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,3
-,"18456 Road 1, Merced, CA 93620",,"20330 Road 4, Chowchilla, CA 93610",,"18456 Road 1, Merced, 93620",,,,,nan,,,nan,,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,4
-,"18456 Road 1, Merced, CA 93620",,"20330 Road 4, Chowchilla, CA 93610",,"18456 Road 1, Merced, 93620",,,,,nan,,,nan,,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,5
-,"3754 W Birch AVE, Fresno, CA 93711",,"3754 W Birch AVE, Fresno, CA 93711",,"3754 W Birch AVE, Fresno, 93711",,,,,nan,,,nan,,2024AR_White River Dairy_20400 Ave 17.5_Madera,1
-,"3754 W Birch AVE, Fresno, CA 93711",,"3754 W Birch AVE, Fresno, CA 93711",,"3754 W Birch AVE, Fresno, 93711",,,,,nan,,,nan,,2024AR_White River Dairy_20400 Ave 17.5_Madera,2
-,"11751 W. Jensen Avenue, Fresno, CA 93706",,"11751 W. Jensen Avenue, Kerman, CA 93630",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,1
-,"11751 W. Jensen Avenue, Fresno, CA 93706",,"11751 W. Jensen Avenue, Kerman, CA 93630",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,2
-,"11751 W. Jensen Avenue, Fresno, CA 93706",,"11751 W. Jensen Avenue, Kerman, CA 93630",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,3
-,"11751 W. Jensen Avenue, Fresno, CA 93706",,"11751 W. Jensen Avenue, Kerman, CA 93630",,"Fresno, 93706",,,,,nan,,,nan,,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,4
-,"24341 Avenue 14, Madera, CA 93637",,"5175 Shaw AVE, Winton, CA 95388",,"24341 Avenue 14, Madera, 93637",,,,,nan,,,nan,,2024AR_Costa View Dairy North_9499 Ave 20_Madera,1
-,,,,,"10071 6th Avenue, Hanford, 93230",,,,,nan,,,nan,,2024AR_Maple Dairy_19860 Maple St_Fresno,1
-,,,,,"10071 6th Avenue, Hanford, 93230",,,,,nan,,,nan,,2024AR_Zonneveld Dairies Complex_1560 Cerini Ave_Fresno,1
-,,,,,"10071 6th Avenue, Hanford, 93230",,,,,nan,,,nan,,2024AR_River Oaks Dairy_3621 E Mt. Whitney Ave_Fresno,1
-,,,,,"2200 S. Marks Avenue, 93630",,,,,nan,,,nan,,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,1
-,,,,,"2200 S. Marks Avenue, 93630",,,,,nan,,,nan,,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,2
-,,,,,"2200 S. Marks Avenue, 93630",,,,,nan,,,nan,,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,3
-,,,,,"2200 S. Marks Avenue, 93630",,,,,nan,,,nan,,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,4
-,,,,,"2200 S. Marks Avenue, 93630",,,,,nan,,,nan,,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,5
-,,,,,,,,,,nan,,,nan,,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",1
-,,,,,,,,,,nan,,,nan,,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",2
-,,,,,,,,,,nan,,,nan,,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",3
-,"18108 Lexington Ave, Merced, CA 93620",,"18108 Lexington Ave, Dos Palos, CA 93620",,"Merced, 93620",,,,,nan,,,nan,,15373 S Flanagan Rd Dos Palos 2024 Poultry AR,1
-,"18108 Lexington Ave, Merced, CA 93620",,"18108 Lexington Ave, Dos Palos, CA 93620",,"Merced, 93620",,,,,nan,,,nan,,15373 S Flanagan Rd Dos Palos 2024 Poultry AR,2
-,"5631 Zeering Rd, Turlock, CA 95307",,"6706 Elaine Rd, Turlock, CA 95380",,"5631 Zeering Rd, 95307",,,,,nan,,,nan,,"6706 Elaine RD, Turlock 2024 Dairy AR",1
-,"5631 Zeering Rd, Turlock, CA 95307",,"6706 Elaine Rd, Turlock, CA 95380",,"5631 Zeering Rd, 95307",,,,,nan,,,nan,,"6706 Elaine RD, Turlock 2024 Dairy AR",2
-,"23839 W Bloss AVE, Merced, CA 95324",,"7689 Washington RD, Hilmar, CA 95324",,"23839 W Bloss AVE, Merced, 95324",,,,,nan,,,nan,,"7689 Washington Rd, Hilmar 2024 Dairy AR",1
-,"11708 E Moncure Ave, Manteca, CA 95366",,"11708 E Moncure Ave, CA 95366",,"Manteca, 95366",,,,,nan,,,nan,,8350 E Brady Ave Manteca 2024 Dairy AR,1
-,"11708 E Moncure Ave, Manteca, CA 95366",,"11708 E Moncure Ave, CA 95366",,"Manteca, 95366",,,,,nan,,,nan,,8350 E Brady Ave Manteca 2024 Dairy AR,2
-,"Merced, CA 95315",,CA 95315,,"Merced, 95315",,,,,nan,,,nan,,9207 American Ave Hilmar 2024 Dairy AR,1
-,"Merced, CA 95315",,CA 95315,,"Merced, 95315",,,,,nan,,,nan,,9207 American Ave Hilmar 2024 Dairy AR,2
-,"720 Jefferson AVE, Merced, CA 93635",,"2930 Geer RD, Turlock, CA 95382",,"720 Jefferson AVE, Merced, 93635",,,,,nan,,,nan,,14903 S Volta Rd Los Banos 2024 Dairy AR,1
-,"720 Jefferson AVE, Merced, CA 93635",,"720 Jfferson AVE, CA 93635",,"720 Jefferson AVE, Merced, 93635",,,,,nan,,,nan,,14903 S Volta Rd Los Banos 2024 Dairy AR,2
-,"12710 S Wilson RD, Merced, CA 95322",,"10652 Newsom RD, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,10652 Newsome Rd Gustine 2024 Dairy AR,1
-,"12710 S Wilson RD, Merced, CA 95322",,"10652 Newsom RD, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,10652 Newsome Rd Gustine 2024 Dairy AR,2
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",1
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",2
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",3
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",4
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",5
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",6
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",7
-,"Merced, CA 95324",,"Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",8
-,,,,,,,,,,nan,,,nan,,"9558 Columbus Ave, Hilmar 2024 Dairy AR",9
-,"Merced, CA 95322",,"Newman, CA 95360",,"Merced, 95322",,,,,nan,,,nan,,27890 W Brazo Rd Newman 2024 Dairy AR,1
-,"Merced, CA 95322",,"Newman, CA 95360",,"Merced, 95322",,,,,nan,,,nan,,27890 W Brazo Rd Newman 2024 Dairy AR,2
-,"Merced, CA 95322",,"Newman, CA 95360",,"Merced, 95322",,,,,nan,,,nan,,27890 W Brazo Rd Newman 2024 Dairy AR,3
-,"Merced, CA 95380",,CA 95315,,"Merced, 95380",,,,,nan,,,nan,,"11076 Vincent Rd, Turlock 2024 Dairy AR",1
-,"22846 2nd Ave, Merced, CA 95374",,"22846 2nd Ave, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,3701 Langworth Rd Modesto 2024 Dairy AR,1
-,"22846 2nd Ave, Merced, CA 95374",,"22846 2nd Ave, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,3701 Langworth Rd Modesto 2024 Dairy AR,2
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,7618 S Hwy 59 El Nido 2024 Dairy AR,1
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,7618 S Hwy 59 El Nido 2024 Dairy AR,2
-,"111 Youngstown Rd, Merced, CA 95380",,"Hilmar, CA 95324",,"Merced, 95380",,,,,nan,,,nan,,16489 August Ave Delhi 2024 Dairy AR,1
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,1257 W Roosevelt Rd El Nido 2024 Dairy AR,1
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,1257 W Roosevelt Rd El Nido 2024 Dairy AR,2
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,1257 W Roosevelt Rd El Nido 2024 Dairy AR,3
-,"29191 Husman Rd, Merced, CA 95322",,"29191 Husman Rd, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,29191 W Husman Rd Gustine 2024 Dairy AR,1
-,"29191 Husman Rd, Merced, CA 95322",,"29191 Husman Rd, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,29191 W Husman Rd Gustine 2024 Dairy AR,2
-,"Merced, CA 95322",,"Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,9201 Hilmar Rd Turlock 2024 Dairy AR,1
-,"Merced, CA 95322",,"Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,9201 Hilmar Rd Turlock 2024 Dairy AR,2
-,"3410 S Hunt RD, Gustine, CA 95322",,"3410 S Hunt RD, Gustine, CA 95322",,"Gustine, 95322",,,,,nan,,,nan,,"21330 W Second Ave, Stevinson 2024 Dairy AR",1
-,"4390 N Fox Rd, Merced, CA 95340",,"4390 N Fox Rd, Merced, CA 95340",,"Merced, 95340",,,,,nan,,,nan,,4390 N Fox Rd Merced 2024 Dairy AR,1
-,"4390 N Fox Rd, Merced, CA 95340",,"4390 N Fox Rd, Merced, CA 95340",,"Merced, 95340",,,,,nan,,,nan,,4390 N Fox Rd Merced 2024 Dairy AR,2
-,"Merced, CA 95315",,CA 95315,,"Merced, 95315",,,,,nan,,,nan,,7581 N Merced Ave 2024 Dairy AR,1
-,"22846 2nd Ave, Merced, CA 95374",,"22846 2nd Ave, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,3130 De Witt Rd Modesto 2024 Dairy AR,1
-,"22846 2nd Ave, Merced, CA 95374",,"22846 2nd Ave, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,5201 Milnes Rd Modesto 2024 Dairy AR,1
-,"22846 2nd Ave, Merced, CA 95374",,"22846 2nd Ave, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,5201 Milnes Rd Modesto 2024 Dairy AR,2
-,"3130 Dewitt Rd, Modesto, CA 95357",,"22846 2nd Ave, CA 95374",,"Modesto, 95357",,,,,nan,,,nan,,5201 Milnes Rd Modesto 2024 Dairy AR,3
-,"22759 Mercy Springs RD, Merced, CA 93635",,"2930 Geer Rd, Turlock, CA 95382",,"Merced, 93635",,,,,nan,,,nan,,22759 S Mercy Springs Rd Los Banos 2024 Dairy AR,1
-,"22759 Mercy Springs RD, Merced, CA 93635",,"6465 W Hwy, Dos Palos, CA 93620",,"Merced, 93635",,,,,nan,,,nan,,22759 S Mercy Springs Rd Los Banos 2024 Dairy AR,2
-,"3026 Gurr Rd, Merced, CA 95301",,"2892 N Gurr Rd, Atwater, CA 95301",,"Merced, 95301",,,,,nan,,,nan,,2892 N Gurr Rd Atwater 2024 Dairy AR,1
-,"20399 Williams AVE, Hilmar, CA 95324",,"20399 Williams AVE, Hilmar, CA 95324",,"Hilmar, 95324",,,,,nan,,,nan,,931 S Blaker Rd Turlock 2024 Dairy AR,1
-,"10581 S Carpentar RD, Gustine, CA 95313",,"219 Jensen RD, Gustine, CA 95322",,"10581 S Carpentar RD, CA 95313",,,,,nan,,,nan,,1100 Ruble Rd Crows Landing 2024 Dairy AR,1
-,"10581 S Carpentar RD, Gustine, CA 95313",,"219 Jensen RD, Gustine, CA 95322",,"10581 S Carpentar RD, CA 95313",,,,,nan,,,nan,,1100 Ruble Rd Crows Landing 2024 Dairy AR,2
-,"6885 Oak Ave, Merced, CA 95301",,"Turlock, CA 95381",,"Merced, 95301",,,,,nan,,,nan,,6480 W Bailey Rd Atwater 2024 Dairy AR,1
-,"6885 Oak Ave, Merced, CA 95301",,"Turlock, CA 95381",,"Merced, 95301",,,,,nan,,,nan,,6480 W Bailey Rd Atwater 2024 Dairy AR,2
-,"6885 Oak Ave, Merced, CA 05301",,"Turlock, CA 95381",,"Merced, 05301",,,,,nan,,,nan,,6480 W Bailey Rd Atwater 2024 Dairy AR,3
-,"6885 Oak Ave, Merced, CA 95301",,"Turlock, CA 95381",,"Merced, 95301",,,,,nan,,,nan,,6480 W Bailey Rd Atwater 2024 Dairy AR,4
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",1
-,"400 N Central Ave, Turlock, CA 95382",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95382",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",2
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",3
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",4
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",5
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",6
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",7
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",8
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",9
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",10
-,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, CA 95380",,"400 N Central Ave, Turlock, 95380",,,,,nan,,,nan,,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",11
-,,,,,,,,,,nan,,,nan,,3354 W Whitmore Ave Modesto 2024 Dairy AR,1
-,"8353 Rexford Dr, Merced, CA 95324",,"8353 Rexford Drive, Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,5217 Oak Ave Merced 2024 Dairy AR,1
-,"8353 Rexford Dr, Merced, CA 95324",,"8353 Rexford Drive, Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,5217 Oak Ave Merced 2024 Dairy AR,2
-,"8353 Rexford Dr, Merced, CA 95324",,"8353 Rexford Drive, Hilmar, CA 95324",,"Merced, 95324",,,,,nan,,,nan,,5217 Oak Ave Merced 2024 Dairy AR,3
-,"10310 Reese RD, Merced, CA 95365",,"Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,1
-,"10310 Reese RD, Merced, CA 95365",,"Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,2
-,"10310 Reese RD, Merced, CA 95365",,"Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,3
-,"10310 Reese RD, Merced, CA 95365",,"Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,4
-,"19615 Geer AVE, Merced, CA 95324",,"Hilmar, CA 95324",,"19615 Geer AVE, Merced, 95324",,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,5
-,"19615 Geer AVE, Merced, CA 95324",,"Hilmar, CA 95324",,"19615 Geer AVE, Merced, 95324",,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,6
-,"19615 Geer AVE, Merced, CA 95324",,"Hilmar, CA 95324",,"19615 Geer AVE, Merced, 95324",,,,,nan,,,nan,,1901 N Hayden Rd Le Grand 2024 Dairy AR,7
-,"900 Meredith AVE, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"900 Meredith AVE, Merced, 95322",,,,,nan,,,nan,,28470 W Cottonwood Rd Gustine 2024 Dairy AR,1
-,"5175 Shaw AVE, Merced, CA 95317",,"5175 Shaw AVE, Winton, CA 95388",,Merced,,,,,nan,,,nan,,508 W Roosevelt Rd El Nido 2024 Dairy AR,1
-,"1021 W El Nido RD, Merced, CA 95317",,"Hilmar, CA 95324",,"1021 W El Nido RD, Merced, 95317",,,,,nan,,,nan,,508 W Roosevelt Rd El Nido 2024 Dairy AR,2
-,"22339 Crane AVE, Merced, CA 95324",,"7413 S Mitchell RD, Turlock, CA 95380",,Merced,,,,,nan,,,nan,,"7706 Tegner Rd, Hilmar 2024 Dairy AR",1
-,"22339 Crane AVE, Merced, CA 95324",,"7413 S Mitchell RD, Turlock, CA 95380",,Merced,,,,,nan,,,nan,,"7706 Tegner Rd, Hilmar 2024 Dairy AR",2
-,"22339 Crane AVE, Merced, CA 95324",,"7413 S Mitchell RD, Turlock, CA 95380",,Merced,,,,,nan,,,nan,,"7706 Tegner Rd, Hilmar 2024 Dairy AR",3
-,"22339 Crane AVE, Merced, CA 95324",,"7413 S Mitchell RD, Turlock, CA 95380",,Merced,,,,,nan,,,nan,,"7706 Tegner Rd, Hilmar 2024 Dairy AR",4
-,"22339 Crane AVE, Merced, CA 95324",,"7413 S Mitchell RD, Turlock, CA 95380",,Merced,,,,,nan,,,nan,,"7706 Tegner Rd, Hilmar 2024 Dairy AR",5
-,"Modesto, CA 95358",,"Modesto, CA 95358",,"Modesto, CA 95358",,,,,nan,,,nan,,6506 Vivian Rd Modesto 2024 Dairy AR,1
-,"1510 Washington RD, Merced, CA 94317",,"Winton, CA 95388",,"1510 Washington RD, Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,1
-,"5175 Shaw AVE, Merced, CA 94317",,"Winton, CA 95388",,"Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,2
-,"5175 Shaw AVE, Merced, CA 94317",,"Winton, CA 95388",,"Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,3
-,"5175 Shaw AVE, Merced, CA 94317",,"Winton, CA 95388",,"Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,4
-,"5175 Shaw AVE, Merced, CA 94317",,"Winton, CA 95388",,"Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,5
-,"5175 Shaw AVE, Merced, CA 95355",,"Winton, CA 95388",,"Merced, 95355",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,6
-,"5175 Shaw AVE, Merced, CA 94317",,"Winton, CA 95388",,"Merced, 94317",,,,,nan,,,nan,,921 W Sandy Mush Rd Merced 2024 Dairy AR,7
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,1
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,2
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,3
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,4
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,5
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,6
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,7
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,8
-,"28366 W Husman RD, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"28366 W Husman RD, Merced, 95322",,,,,nan,,,nan,,27500 W Bunker Rd Gustine 2024 Dairy AR,9
-,"2941 S State Hwy, Merced, CA 95341",,"5175 Shaw AVE, Winton, CA 95388",,Merced,,,,,nan,,,nan,,1581 E Roosevelt Rd El Nido 2024 Dairy AR,1
-,"5301 Woodland AVE, Modesto, CA 95358",,"337 Gates RD, Modesto, CA 95358",,"5301 Woodland AVE, Modesto, CA 95358",,,,,nan,,,nan,,337 N Gates Rd MOdesto 2024 Dairy AR,1
-,"337 Gates RD, Modesto, CA 95358",,"Modesto, CA 95358",,"337 Gates RD, Modesto, CA 95358",,,,,nan,,,nan,,337 N Gates Rd MOdesto 2024 Dairy AR,2
-,"5301 Woodland AVE, Modesto, CA 95358",,"337 Gates RD, Modesto, CA 95358",,"5301 Woodland AVE, Modesto, CA 95358",,,,,nan,,,nan,,337 N Gates Rd MOdesto 2024 Dairy AR,3
-,"900 Meredith AVE, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"900 Meredith AVE, Merced, 95322",,,,,nan,,,nan,,337 N Gates Rd MOdesto 2024 Dairy AR,4
-,"505 E Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"505 E Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,1
-,"505 E Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"505 E Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,2
-,"505 E Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"505 E Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,3
-,"505 E Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"505 E Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,4
-,"505 E Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"505 E Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,5
-,"2025 Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"2025 Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,6
-,"2025 Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"2025 Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,7
-,"2025 Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"2025 Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,8
-,"2025 Washington RD, Merced, CA 95317",,"505 E Washington RD, CA 95317",,"2025 Washington RD, Merced, 95317",,,,,nan,,,nan,,505 E Washington Rd El Nido 2024 Dairy AR,9
-,"3511 W Sandy Mush RD, Merced, CA 95341",,"Hilmar, CA 95324",,"3511 W Sandy Mush RD, Merced, 95341",,,,,nan,,,nan,,3510 W Sandy Mush Rd Merced 2024 Dairy AR,1
-,"1319 S Quinley RD, Merced, CA 95341",,"Merced, CA 95341",,"1319 S Quinley RD, Merced, 95341",,,,,nan,,,nan,,3510 W Sandy Mush Rd Merced 2024 Dairy AR,2
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,227 W El Nido Rd El Nido 2024 Dairy AR,1
-,"Merced, CA 95317",,CA 95317,,"Merced, 95317",,,,,nan,,,nan,,227 W El Nido Rd El Nido 2024 Dairy AR,2
-,"24341 Avenue 14, Madera, CA 93637",,"14676 Avenue 14, Madera, CA 93637",,"24341 Avenue 14, Madera, 93637",,,,,nan,,,nan,,3493 BVD Ave Merced 2024 Dairy AR,1
-,"16510 Bacon Island RD, Stockton, CA 95234",,"24662 Road 9, Chowchilla, CA 93610",,"16510 Bacon Island RD, Stockton, CA 95234",,,,,nan,,,nan,,3493 BVD Ave Merced 2024 Dairy AR,2
-,"24662 Road 9, Madera, CA 93610",,"24662 Road 9, Chowchilla, CA 93610",,"24662 Road 9, Madera, 93610",,,,,nan,,,nan,,3493 BVD Ave Merced 2024 Dairy AR,3
-,"7306 East Avenue, Turlock, CA 95380",,"7306 East Avenue, Turlock, CA 95380",,"Turlock, 95380",,,,,nan,,,nan,,"619 S Vincent Rd, Turlock 2024 Dairy AR",1
-,,,,,5725 Ehrlich Road,,,,,nan,,,nan,,"5725 Ehrlich Rd, Turlock 2024 Dairy AR",1
-,,,,,5725 Ehrlich Road,,,,,nan,,,nan,,"5725 Ehrlich Rd, Turlock 2024 Dairy AR",2
-,"9720 S Whitworth AVE, Merced, CA 95322",,"8450 S 33 HWY, Gustine, CA 95322",,"9720 S Whitworth AVE, Merced, 95322",,,,,nan,,,nan,,8450 S Hwy 33 Gustine 2024 Dairy AR,1
-,"9720 S Whitworth AVE, Merced, CA 95322",,"8450 S 33 HWY, Gustine, CA 95322",,"9720 S Whitworth AVE, Merced, 95322",,,,,nan,,,nan,,8450 S Hwy 33 Gustine 2024 Dairy AR,2
-,"2930 Geer Rd, Merced, CA 93635",,"2930 Geer Rd, Turlock, CA 95382",,"Merced, 93635",,,,,nan,,,nan,,18037 S Center Ave Los Banos 2024 Dairy AR,1
-,"19075 3rd. Avenue, Merced, CA 95374",,"19075 3rd. Avenue, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,9701 Atwater Jordan Road Atwater 2024 Dairy AR,1
-,"19075 3rd. Avenue, Merced, CA 95374",,"19075 3rd. Avenue, CA 95374",,"Merced, 95374",,,,,nan,,,nan,,9701 Atwater Jordan Road Atwater 2024 Dairy AR,2
-,"4890 Healy RD, Merced, CA 95341",,CA 95374,,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,1
-,"3639 W McMaster RD, Merced, CA 95340",,CA 95374,,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,2
-,"4137 W Healy RD, Merced, CA 95340",,CA 95374,,"4137 W Healy RD, Merced, 95340",,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,3
-,"4137 W Healy RD, Merced, CA 95340",,CA 95374,,"4137 W Healy RD, Merced, 95340",,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,4
-,"3639 W McMaster RD, Merced, CA 95340",,"Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,5
-,"4890 Healy RD, Merced, CA 95341",,"4890 Healy RD, Merced, CA 95341",,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,6
-,"4890 Healy RD, Merced, CA 95341",,"4890 Healy RD, Merced, CA 95341",,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,7
-,"4890 Healy RD, Merced, CA 95341",,"4890 Healy RD, Merced, CA 95341",,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,8
-,"4890 Healy RD, Merced, CA 95341",,"4890 Healy RD, Merced, CA 95341",,Merced,,,,,nan,,,nan,,4890 S Healy Rd Merced 2024 Dairy AR,9
-,"602 E Sandy Mush RD, Merced, CA 95341",,"602 E Sandy Mush RD, Merced, CA 95341",,"602 E Sandy Mush RD, Merced, 95341",,,,,nan,,,nan,,5817 E Worden Ave Merced 2024 Dairy AR,1
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 W Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5817 E Worden Ave Merced 2024 Dairy AR,2
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 W Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5817 E Worden Ave Merced 2024 Dairy AR,3
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 W Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5817 E Worden Ave Merced 2024 Dairy AR,4
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 W Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5817 E Worden Ave Merced 2024 Dairy AR,5
-,"20694 Johnson AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"20694 Johnson AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",1
-,"20758 Johnson AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"20758 Johnson AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",2
-,"20758 Johnson AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"20758 Johnson AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",3
-,"21809 Williams AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"21809 Williams AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",4
-,"20694 Johnson AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"20694 Johnson AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",5
-,"1 Johnson AVE, Merced, CA 95324",,"219 Jensen AVE, Gustine, CA 95322",,Merced,,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",6
-,"20694 Johnson AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"20694 Johnson AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",7
-,"21809 Williams AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"21809 Williams AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",8
-,"21809 Williams AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"21809 Williams AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",9
-,"21809 Williams AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"21809 Williams AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",10
-,"21809 Williams AVE, Merced, CA 95324",,"20326 Johnson AVE, Hilmar, CA 95324",,"21809 Williams AVE, Merced, 95324",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",11
-,"1 Johnson AVE, Merced, CA 95324",,"219 Jensen AVE, Gustine, CA 95322",,Merced,,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",12
-,"3605 Soderquist AVE, Turlock, CA 95380",,"2930 Geer RD, Turlock, CA 95382",,"3605 Soderquist AVE, Turlock, 95380",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",13
-,"2406 S Walnut RD, Turlock, CA 95380",,"219 Jensen AVE, Gustine, CA 95322",,"2406 S Walnut RD, Turlock, CA 95380",,,,,nan,,,nan,,"20326 Johnson Ave, Hilmar 2024 Dairy AR",14
-,"19486 American AVE, Merced, CA 95324",,"23616 Williams LN, Hilmar, CA 95324",,"19486 American AVE, Merced, 95324",,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,1
-,"19420 American AVE, Merced, CA 95324",,"23616 Williams LN, Hilmar, CA 95324",,"19420 American AVE, Merced, 95324",,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,2
-,"21185 Williams AVE, Merced, CA 95324",,"23616 Williams LN, Hilmar, CA 95324",,"21185 Williams AVE, Merced, 95324",,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,3
-,"21185 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,4
-,"21089 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,5
-,"21089 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,6
-,"21185 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,7
-,"21185 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,8
-,"21089 Williams AVE, Merced, CA 95324",,"20710 Geer RD, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,20723 Geer Ave Hilmar 2024 Dairy AR,9
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",1
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",2
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",3
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",4
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",5
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",6
-,"20334 W Oslo Rd, Hilmar, CA 95324",,"20445 August Ave, Turlock, CA 95324",,"20334 W Oslo Rd, Hilmar, CA 95324",,,,,nan,,,nan,,"20445 August Ave, Hilmar 2024 Dairy AR",7
-,"1751 Chandler DR, Turlock, CA 95382",,"730 Bystrum RD, Turlock, CA 95380",,"1751 Chandler DR, Turlock, CA 95382",,,,,nan,,,nan,,730 Bystrum Rd Turlock 2024 Dairy AR,1
-,"10077 Avenue 26, Madera, CA 93610",,"10077 Avenue 26, Chowchilla, CA 93610",,"Madera, 93610",,,,,nan,,,nan,,10077 Ave 26 Chowchilla 2024 Dairy AR,1
-,"11923 E Childs AVE, Merced, CA 95333",,"11923 E Childs AVE, CA 95333",,Merced,,,,,nan,,,nan,,11923 E Childs Ave L Grand 2024 Dairy AR,1
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5511 W Sandy Mush Rd Merced 2024 Dairy AR,1
-,"5175 W Shaw AVE, Merced, CA 95388",,"5175 Shaw AVE, Winton, CA 95388",,"5175 W Shaw AVE, Merced, 95388",,,,,nan,,,nan,,5511 W Sandy Mush Rd Merced 2024 Dairy AR,2
-,"8522 W SandyMush RD, Merced, CA 95341",,"5175 Shaw AVE, Winton, CA 95388",,"8522 W SandyMush RD, Merced, 95341",,,,,nan,,,nan,,5511 W Sandy Mush Rd Merced 2024 Dairy AR,3
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",1
-,"22338 Short AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"22338 Short AVE, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",2
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",3
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",4
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",5
-,"21536 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",6
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",7
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",8
-,"2406 S Walnut RD, Merced, CA 95380",,"219 Jensen RD, Gustine, CA 95322",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",9
-,"9360 Tegner RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9360 Tegner RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",10
-,"21510 American AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"21510 American AVE, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",11
-,"9579 Hultberg RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9579 Hultberg RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",12
-,"9579 Hulberg RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9579 Hulberg RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",13
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",14
-,"9579 Hultberg RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9579 Hultberg RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",15
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",16
-,"19664 Crane AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",17
-,"9579 Hultberg RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9579 Hultberg RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",18
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",19
-,"19664 Crane AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",20
-,"19664 Crane AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",21
-,"21536 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",22
-,"2406 S Walnut RD, Merced, CA 95380",,"219 Jensen RD, Gustine, CA 95322",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",23
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",24
-,"9579 Hultberg RD, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,"9579 Hultberg RD, Merced, 95324",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",25
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",26
-,"2406 S Walnut RD, Turlock, CA 95380",,"219 Jensen RD, Gustine, CA 95322",,"2406 S Walnut RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",27
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",28
-,"6612 Prarie Flower RD, Turlock, CA 95380",,"9483 Columbia AVE, Hilmar, CA 95324",,"6612 Prarie Flower RD, Turlock, CA 95380",,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",29
-,"22245 August AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",30
-,"19664 Crane AVE, Merced, CA 95324",,"9483 Columbia AVE, Hilmar, CA 95324",,Merced,,,,,nan,,,nan,,"9483 Columbus Ave, Hilmar 2024 Dairy AR",31
-,"3410 S Hunt RD, Merced, CA 95322",,"3410 S Hunt RD, Gustine, CA 95322",,"3410 S Hunt RD, Merced, 95322",,,,,nan,,,nan,,5070 S Hunt Rd Gustine 2024 Dairy AR,1
-,"900 Meredith AVE, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,5070 S Hunt Rd Gustine 2024 Dairy AR,2
-,"900 Meredith AVE, Merced, CA 95322",,"900 Meredith AVE, Gustine, CA 95322",,"Merced, 95322",,,,,nan,,,nan,,5070 S Hunt Rd Gustine 2024 Dairy AR,3
-,"15735 Indiana RD, Merced, CA 93620",,"6445 W Hwy, Dos Palos, CA 93620",,"15735 Indiana RD, Merced, 93620",,,,,nan,,,nan,,15775 S Indiana Ave Dos Palos 2024 Dairy AR,1
-,"15735 Indiana RD, Merced, CA 93620",,"6445 W Hwy, Dos Palos, CA 93620",,"15735 Indiana RD, Merced, 93620",,,,,nan,,,nan,,15775 S Indiana Ave Dos Palos 2024 Dairy AR,2
-,,,,,,,,,,nan,,,nan,,2024AR_J&R Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Lakeview Farms Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR G3 Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Faial Farms 2 Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_T&W Farms #2 Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Western Sky Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Newhouse Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Mc Moo Farms Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Rosa Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Maple Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_H&P Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,2
-,,,,,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,3
-,,,,,,,,,,nan,,,nan,,2024AR_AJB Ranch Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_AJB Ranch Dairy,2
-,,,,,,,,,,nan,,,nan,,2024AR_Westwind Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_T&W Farms,1
-,,,,,,,,,,nan,,,nan,,2024AR Faial Farms Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Panama Ranch Dairy,1
-,,,,,,,,,,nan,,,nan,,2024AR_Trilogy Dairy,1
-,"5939 Lacey BLVD, Tulare, CA 92391",,"5939 Lacey BLVD, Hanford, CA 93230",,"Tulare, 92391",,,,,nan,,,nan,,2024AR_Rui and Jennifer Brasil Dairy_8061 Ave 360_Tulare,1
-,"12329 Ave 271, Tulare, CA 93277",,"890 E Apricot RD, Tulare, CA 93274",,"12329 Ave 271, Tulare, 93277",,,,,nan,,,nan,,2024AR_Nunes & Sond Dairy_690 E Oakdale Ave_Tulare,1
-,"7559 Avenue 152, Tulare, CA 93272",,"23004 Road 140, Tulare, CA 93274",,"7559 Avenue 152, Tulare, 93272",,,,,nan,,,nan,,2024AR_T-Bar Dairy_14851 Rd 168_Tulare,1
-,"13085 S Zediker AVE, Fresno, CA 93631",,"5771 7th Avenue, Hanford, CA 93230",,"13085 S Zediker AVE, Fresno, 93631",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,1
-,"5771 7th Avenue, Fresno, CA 93631",,"5771 7th Avenue, Hanford, CA 93230",,"Fresno, 93631",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,2
-,"5520 Flint AVE, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"5520 Flint AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,3
-,"363 N 5th AVE, Fresno, CA 93631",,"5771 7th Avenue, Hanford, CA 93230",,"363 N 5th AVE, Fresno, 93631",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,4
-,"10741 Flint AVE, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"10741 Flint AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,5
-,"5230 9th AVE, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"5230 9th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,6
-,"10367 Houston AVE, Lemoore, CA 93245",,"5771 7th Avenue, Hanford, CA 93230",,"10367 Houston AVE, Lemoore, 93245",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,7
-,"5230 9th AVE, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"5230 9th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,8
-,"5415 Boston AVE, Fresno, CA 93631",,"5771 7th Avenue, Hanford, CA 93230",,"5415 Boston AVE, Fresno, 93631",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,9
-,"14803 Grangeville Blvd, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"14803 Grangeville Blvd, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,10
-,"14803 Grangeville Blvd, Hanford, CA 93230",,"5771 7th Avenue, Hanford, CA 93230",,"14803 Grangeville Blvd, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,11
-,"13085 S Zediker AVE, Fresno, CA 93631",,"5771 7th Avenue, Hanford, CA 93230",,"13085 S Zediker AVE, Fresno, 93631",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,12
-,"7442 7th AVE, Hanford, CA 93230",,"6551 Flint AVE, Hanford, CA 93230",,"7442 7th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,13
-,"7442 7th AVE, Hanford, CA 93230",,"6551 Flint AVE, Hanford, CA 93230",,"7442 7th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,14
-,"7442 7th AVE, Hanford, CA 93230",,"6551 Flint AVE, Hanford, CA 93230",,"7442 7th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,15
-,"7442 7th AVE, Hanford, CA 93230",,"6551 Flint AVE, Hanford, CA 93230",,"7442 7th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,16
-,"29435 Borba Rd, Merced, CA 95341",,"29435 Borba Rd, Gustine, CA 95322",,"Merced, 95341",,,,,nan,,,nan,,2024AR_Flint Dairy_6511 Flint Ave_Kings,17
-,,,"Fresno, CA 93656",,,,,,,nan,,,nan,,2024AR_Georgenson Dairy_8519 24th Ave_Kings,1
-,,,,,"7900 15th Ave. Hanford., Hanford, 93230",,,,,nan,,,nan,,2024AR_Contente & Co Dairy_7900 15th Ave_Kings,1
-,,,,,"7900 15th Ave. Hanford., Hanford, 93230",,,,,nan,,,nan,,2024AR_Contente & Co Dairy_7900 15th Ave_Kings,2
-,"15336 10th AVE, Hanford, CA 93230",,"5771 7th AVE, Hanford, CA 93230",,"15336 10th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Antonio Garcia Dairy_6571 Fargo Ave_Kings,1
-,"15336 10th AVE, Hanford, CA 93230",,"5771 7th AVE, Hanford, CA 93230",,"15336 10th AVE, Hanford, 93230",,,,,nan,,,nan,,2024AR_Antonio Garcia Dairy_6571 Fargo Ave_Kings,2
-,,,CA 93230,,"Fresno, 93230",,,,,nan,,,nan,,2024AR_Jaques & Silva Dairy_10536 6th Ave_Kings,1
-,,,"Fresno, CA 93656",,"Fresno, 93656",,,,,nan,,,nan,,2024AR_E Mendes Dairy_23568 Fargo Ave_Kings,1
-,"18017 Road 93, Tulare, CA 93270",,"3612 Avenue 236, Tulare, CA 93274",,"18017 Road 93, Tulare, 93270",,,,,nan,,,nan,,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,1
-,"5162 Avenue 252, Tulare, CA 93274",,"3612 Avenue 236, Tulare, CA 93274",,"5162 Avenue 252, Tulare, 93274",,,,,nan,,,nan,,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,2
-,"7370 Avenue 228, Tulare, CA 93274",,"23121 Road 48, Tulare, CA 93274",,"7370 Avenue 228, Tulare, 93274",,,,,nan,,,nan,,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,3
-,"7370 Avenue 228, Tulare, CA 93274",,"23121 Road 48, Tulare, CA 93274",,"7370 Avenue 228, Tulare, 93274",,,,,nan,,,nan,,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,4
+,"10221 Ave 21 1/2, Madera, CA 93610",/Person,/Person,of Operator,"10221 Ave 21 1/2, Madera, 93610",Broker,,,,nan,hrs pumped X gpm,,nan,to determine the amount,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,1
+,"10221 Ave 21 1/2, Madera, CA 93610",/Person,/Person,of Operator,"10221 Ave 21 1/2, Madera, 93610",Broker,,,,nan,hrs pumped X gpm,,nan,to determine the amount,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,2
+,"10221 Ave 21 1/2, Madera, CA 93610",/Person,/Person,of Operator,"10221 Ave 21 1/2, Madera, 93610",Broker,,,,nan,hrs pumped X gpm,,nan,to determine the amount,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,3
+,"10221 Ave 21 1/2, Madera, CA 93610",/Person,/Person,of Operator,"10221 Ave 21 1/2, Madera, 93610",Broker,,,,nan,hrs pumped X gpm,,nan,to determine the amount,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,4
+,"10221 Ave 21 1/2, Madera, CA 93610",/Person,/Person,of Operator,"10221 Ave 21 1/2, Madera, 93610",Broker,,,,nan,hrs pumped X gpm,,nan,to determine the amount,2024AR_Silveira Dairy_11277 Ave 21.5_Madera,5
+,"12137 S Hughes Ave, Fresno, CA 93609",/Person,/Person,of Operator Frank E,"Fresno, CA 93609",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Golden Star Dairy_4109 E Conejo Ave_Fresno,1
+,"6465 State Hwy, Merced, CA 93620",/Person,/Person,of Operator,"6465 State Hwy, Dos Palos, CA 93620",Broker,,,,nan,,,nan,,"2024AR_Philip Verwey Dairy, Inc._12852 Road 9_Madera",1
+,"6465 State Hwy, Merced, CA 93620",/Person,/Person,of Operator,"6465 State Hwy, Merced, 93620",Broker,,,,nan,,,nan,,"2024AR_Philip Verwey Dairy, Inc._12852 Road 9_Madera",2
+,"21622 CedarAvenue, Fresno, CA 93656",/Person,/Person,of Operato[ Wlson Jim,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Cedar Avenue Feedlot_21622 S Cedar Ave_Fresno,1
+Avenue,"21622 CedarAvenue, Fresno, CA 93656",/Person,/Person,of Operator Jim Wilson,"Fresno, 93656",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Cedar Avenue Feedlot_21622 S Cedar Ave_Fresno,2
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,1
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,2
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_TRI-Iest Dairy_16500 Ave 14_Madera,3
+,"40396 W. Valeria Avenue, Fresno, CA 93620",/Person,/Person,of Operator,"Fresno, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rivas Dairy_41198 W Valeria Ave_Fresno,1
+,"40396 W. Valeria Avenue, Fresno, CA 93620",/Person,/Person,of Operator,"Fresno, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rivas Dairy_41198 W Valeria Ave_Fresno,2
+,"16800 Road 15, Madera, CA 93637",/Person,/Person,of Operator,"16800 Road 15, Madera, 93637",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Costa View Farms Dairy #2_16800 Road 15_Madera,1
+,"18919 Avenue 23, Madera, CA 93610",/Person,/Person,of Operator,"Madera, 93610",Broker,,,,nan,,,nan,to calculate the amount,2024AR_LaSalle Dairy_10663 7.5 Ave_Madera,1
+,"13265 W. Jensen Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,1
+,"9256 S. Valentine Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Run-times multiplied by the GPM of the lagoon pump.,,nan,to determine the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,2
+,"9256 S. Valentine Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Run-times multiplied by the GPM of the lagoon pump.,,nan,to determine the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,3
+,"9256 S. Valentine Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Run-times multiplied by the GPM of the lagoon pump.,,nan,to determine the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,4
+,"10044 Flint Avenue, Hanford, CA 93230",/Person,/Person,of Operator,"Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,5
+,"9256 S. Valentine Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Run-times multiplied by the GPM of the lagoon pump.,,nan,to determine the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,6
+,"9256 S. Valentine Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Run-times multiplied by the GPM of the lagoon pump.,,nan,to determine the amount,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno,7
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,1
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,2
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera,3
+,;,/Person,/Person,of Oairy Facility Kerman Cattle Co,"Fresno, 93656",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Kerman Cattle Company_4301 S Dickenson Ave_Fresno,1
+R,"10044 Flint AVE, Hanford, CA 93230",/Person,/Person,of Operator; James Netto,"Hanford, 93230",Broker,;,,,nan,,,nan,to calculate the amount,2024AR_Joe R. Garcia Dairy_20677 East Ave_Fresno,1
+,"1275 North Avenue, Merced, CA 95322",/Person,/Person,of Operator,"1275 North Avenue, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Banos Dairy_4667 Ave 23.5_Madera,1
+,"1275 North Avenue, Merced, CA 95322",/Person,/Person,of Operator,"1275 North Avenue, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Banos Dairy_4667 Ave 23.5_Madera,2
+,"17076 Cotton Gin RD, Merced, CA 93635",/Person,/Person,of Operator,"17076 Cotton Gin RD, Merced, 93635",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Troost Dairy_27000 Road _Madera,1
+,"20177 S MacAurthur DR, Tracy, CA 95304",/Person,/Person,of Operator,"20177 S MacAurthur DR, Tracy, 95304",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Troost Dairy_27000 Road _Madera,2
+,"20177 S MacAurthur DR, Tracy, CA 95304",/Person,/Person,of Operator,"20177 S MacAurthur DR, Tracy, 95304",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Troost Dairy_27000 Road _Madera,3
+,"2480 S Burchell AVE, Merced, CA 95333",/Person,/Person,of Operator,"2480 S Burchell AVE, Merced, 95333",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Troost Dairy_27000 Road _Madera,4
+,"20177 S MacAurthur DR, Tracy, CA 95304",/Person,/Person,of Operator,"20177 S MacAurthur DR, Tracy, 95304",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Troost Dairy_27000 Road _Madera,5
+,"3564 W. Clayton Street, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Runtime multiplied by the gallons per minute.,,nan,to determine the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,1
+,"9685 S. Hughes Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,2
+,"9685 S. Hughes Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,3
+,"9685 S. Hughes Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,4
+,"3564 W. Clayton Street, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Tank capacity multiplied by the number of tanks applied,,nan,to determine the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,5
+,"3564 W. Clayton Street, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Runtime multiplied by the gallons per minute.,,nan,to determine the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,6
+,"9685 S. Hughes Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,7
+,"3564 W. Clayton Street, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Runtime multiplied by the gallons per minute.,,nan,to determine the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,8
+,"3564 W. Clayton Street, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,Runtime multiplied by the gallons per minute.,,nan,to determine the amount,2024AR_Frea Dairy LLC_6205 S Brawley Ave_Fresno,9
+Wilson,,/Person,/Person,of Operator Jim Wilson,"Fresno, CA 93656",Broker,County,,,nan,,,nan,to calqrlate the amount,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,1
+,"19721 Excelsior AVE, Fresno, CA 93656",/Person,/Person,of Operator Jim Wilson,93656,Broker,,,,nan,,,nan,to calculate the amount,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,2
+Wilson,"19721 Excelsior AVE, Fresno, CA 93656",/Parson,/Person,of Operator Jim Wilson,"Fresno, 93656",Broker,,,,nan,,,nan,to calculate the amount;,2024AR_J & D Wilson & Sons Dairy_11720 W Mt Whitney Ave_Fresno,3
+,"11751 W. Jensen Ave, Fresno, CA 93630",/Person,/Person,of Operator,"8555 S Valentine AVE, Kerman, CA 93630",Broker,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,1
+,"11751 W. Jensen Ave, Fresno, CA 93630",/Person,/Person,of Operator,"8555 S Valentine AVE, Kerman, CA 93630",Broker,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,2
+,"11751 W. Jensen Ave, Fresno, CA 93630",/Person,/Person,of Operator,"11751 W. Jensen Ave, Fresno, 93630",Broker,,,,nan,,,nan,,2024AR_Souza_s Dairy_8555 S Valentine Ave_Fresno,3
+,,,,Of Hauling C®mpeny/Person,,,,,,nan,,,nan,to ca!oulate the amount,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,1
+,,,,,,,,,,nan,,,nan,to caloulae the amount,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,2
+,,,,,,,,,,nan,,,nan,to caloulate the amount,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,3
+,,,,,,,,,,nan,,,nan,to oalculate the amoum,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,4
+,,,,"p &ra®9Gfi© fmanifest€S} ""rm the jthned REeniferfug Rapoft fu",,,,,,nan,VVRITTEN AGREEMENT,,nan,to caloulate the amount,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno,5
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,1
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,2
+,"7792 Nickle RD, Merced, CA 93620",/Person,/Person,of Operator,"7792 Nickle RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Iest Family Farms Dairy_14576 Ave 14_Madera,3
+,"29808 Avenue 12, Madera, CA 93638",/Person,/Person,of Operator,"29808 Avenue 12, Madera, 93638",Broker,,,,nan,Pump rate (GPM) multiplied by run time.,,nan,to determine the amount,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,1
+,"29808 Avenue 12, Madera, CA 93638",/Person,/Person,of Operator,"29808 Avenue 12, Madera, 93638",Broker,,,,nan,Pump rate (GPM) multiplied by run time.,,nan,to determine the amount,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,2
+,"29808 Avenue 12, Madera, CA 93638",/Person,/Person,of Operator,"29808 Avenue 12, Madera, 93638",Broker,,,,nan,Pump rate (GPM) multiplied by run time.,,nan,to determine the amount,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,3
+,"18456 Road 1, Merced, CA 93620",/Person,/Person,of Operator,"18456 Road 1, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,4
+,"18456 Road 1, Merced, CA 93620",/Person,/Person,of Operator,"18456 Road 1, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Vlot Calf Ranch_20330 Road 4_Madera,5
+,"3754 W Birch AVE, Fresno, CA 93711",/Person,/Person,of Operator,"3754 W Birch AVE, Fresno, 93711",Broker,,,,nan,,,nan,to calculate the amount,2024AR_White River Dairy_20400 Ave 17.5_Madera,1
+,"3754 W Birch AVE, Fresno, CA 93711",/Person,/Person,of Operator,"3754 W Birch AVE, Fresno, 93711",Broker,,,,nan,,,nan,to calculate the amount,2024AR_White River Dairy_20400 Ave 17.5_Madera,2
+,"11751 W. Jensen Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,1
+,"11751 W. Jensen Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,2
+,"11751 W. Jensen Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,3
+,"11751 W. Jensen Avenue, Fresno, CA 93706",/Person,/Person,of Operator,"Fresno, 93706",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Big De Cattle Dairy_2947 W Manning Ave_Fresno,4
+,"24341 Avenue 14, Madera, CA 93637",/Person,/Person,of Operator,"24341 Avenue 14, Madera, 93637",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Costa View Dairy North_9499 Ave 20_Madera,1
+Dairy,19860 S. Maple Avenue,/Person Rodrigues Bros Inc,/Person 10071 6th Avenue,of Operator Josh Zonneveld,"10071 6th Avenue, Hanford, 93230",Broker,,1/31/2024 2/13 14 27-29/2024 3/5-12/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Maple Dairy_19860 Maple St_Fresno,1
+Dairies,1523 E. Cerini Avenue,/Person Rodrigues Bros Inc,/Person 10071 6th Avenue,of Operator Josh Zonneveld,"10071 6th Avenue, Hanford, 93230",Broker,,1/31/2024 2/13 14 27-29/2024 3/5-12/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Zonneveld Dairies Complex_1560 Cerini Ave_Fresno,1
+Oaks,3621 E. Mt. Whitney,/Person Rodrigues Bros Inc,/Person 10071 6th Avenue,of Operator Josh Zonneveld,"10071 6th Avenue, Hanford, 93230",Broker,,1/31/2024 2/13 14 27-29/2024 3/5-12/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_River Oaks Dairy_3621 E Mt. Whitney Ave_Fresno,1
+Dairy,,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,"2200 S. Marks Avenue, 93630",Broker,,5/13/2024,,nan,,,nan,to calculate the amount,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,1
+Dairy,,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,"2200 S. Marks Avenue, 93630",Broker,,5/22/2024,,nan,,,nan,to calculate the amount,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,2
+Dairy,,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,"2200 S. Marks Avenue, 93630",Broker,,,,nan,,,nan,to oeleulat@ th@ amount,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,3
+Dairy,,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,"2200 S. Marks Avenue, 93630",Broker,,9/23/2024,,nan,,,nan,to oaleulate tho amount,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,4
+Dairy,,/Person Lary Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,"2200 S. Marks Avenue, 93630",Broker,,10/18/2024,,nan,,,nan,to 01lculat@ tho amount,2024AR_G & A Dairy_2200 S Marks Ave_Fresno,5
+Cattle,2585 South Chateau Fresno Avenue,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,,Broker,,111112024,,nan,Written Agreement,,nan,to calculate the amount,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",1
+Cattle,2585 South Chateau Fresno Avenue,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerri! Roeloffs,,Broker,,7!5l2024,,nan,Written Agreement,,nan,to calculate the amount,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",2
+Cattle,2585 South Chateau Fresno Avenue,/Person Larry Burrows,/Person 11751 W. Jensen Ave.,of Operator Gerrit Roeloffs,,Broker,,10/2/2024,,nan,Written Agreement,,nan,to calculate the amount,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno",3
+,"18108 Lexington Ave, Merced, CA 93620",/Person,/Person,of Operator,"Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,15373 S Flanagan Rd Dos Palos 2024 Poultry AR,1
+,"18108 Lexington Ave, Merced, CA 93620",/Person,/Person,of Operator,"Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,15373 S Flanagan Rd Dos Palos 2024 Poultry AR,2
+,"5631 Zeering Rd, Turlock, CA 95307",/Person,/Person,of Operator,"5631 Zeering Rd, 95307",Broker,,,,nan,15 hours pumping at 1800gpm,,nan,to determine the amount,"6706 Elaine RD, Turlock 2024 Dairy AR",1
+,"5631 Zeering Rd, Turlock, CA 95307",/Person,/Person,of Operator,"5631 Zeering Rd, 95307",Broker,,,,nan,15 hours pumping at 1800 gpm,,nan,to determine the amount,"6706 Elaine RD, Turlock 2024 Dairy AR",2
+,"23839 W Bloss AVE, Merced, CA 95324",/Person,/Person,of Operator,"23839 W Bloss AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"7689 Washington Rd, Hilmar 2024 Dairy AR",1
+,"11708 E Moncure Ave, Manteca, CA 95366",/Person,/Person,of Operator,"Manteca, 95366",Broker,,,,nan,,,nan,to calculate the amount,8350 E Brady Ave Manteca 2024 Dairy AR,1
+,"11708 E Moncure Ave, Manteca, CA 95366",/Person,/Person,of Operator,"Manteca, 95366",Broker,,,,nan,,,nan,to calculate the amount,8350 E Brady Ave Manteca 2024 Dairy AR,2
+,"Merced, CA 95315",/Person,/Person,of Operator,"Merced, 95315",Broker,,,,nan,,,nan,to calculate the amount,9207 American Ave Hilmar 2024 Dairy AR,1
+,"Merced, CA 95315",/Person,/Person,of Operator,"Merced, 95315",Broker,,,,nan,,,nan,to calculate the amount,9207 American Ave Hilmar 2024 Dairy AR,2
+,"720 Jefferson AVE, Merced, CA 93635",/Person,/Person,of Operator,"720 Jefferson AVE, Merced, 93635",Broker,,,,nan,10000 gallons per load X 282 loads,,nan,to determine the amount,14903 S Volta Rd Los Banos 2024 Dairy AR,1
+,"720 Jefferson AVE, Merced, CA 93635",/Person,/Person,of Operator,"720 Jefferson AVE, Merced, 93635",Broker,,,,nan,,,nan,to calculate the amount,14903 S Volta Rd Los Banos 2024 Dairy AR,2
+,"12710 S Wilson RD, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,gallons per min x hours pumped,,nan,to determine the amount,10652 Newsome Rd Gustine 2024 Dairy AR,1
+,"12710 S Wilson RD, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,gallons per min x hours pumped,,nan,to determine the amount,10652 Newsome Rd Gustine 2024 Dairy AR,2
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",1
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",2
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",3
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",4
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",5
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",6
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",7
+,"Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",8
+,,,,,,,,,,nan,,,nan,to calculate the amount,"9558 Columbus Ave, Hilmar 2024 Dairy AR",9
+,"Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27890 W Brazo Rd Newman 2024 Dairy AR,1
+,"Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27890 W Brazo Rd Newman 2024 Dairy AR,2
+,"Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27890 W Brazo Rd Newman 2024 Dairy AR,3
+,"Merced, CA 95380",/Person,/Person,of Operator,"Merced, 95380",Broker,,,,nan,,,nan,to calculate the amount,"11076 Vincent Rd, Turlock 2024 Dairy AR",1
+,"22846 2nd Ave, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,3701 Langworth Rd Modesto 2024 Dairy AR,1
+,"22846 2nd Ave, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,3701 Langworth Rd Modesto 2024 Dairy AR,2
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,7618 S Hwy 59 El Nido 2024 Dairy AR,1
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,7618 S Hwy 59 El Nido 2024 Dairy AR,2
+,"111 Youngstown Rd, Merced, CA 95380",/Person,/Person,of Operator,"Merced, 95380",Broker,,,,nan,,,nan,to calculate the amount,16489 August Ave Delhi 2024 Dairy AR,1
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,1257 W Roosevelt Rd El Nido 2024 Dairy AR,1
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,1257 W Roosevelt Rd El Nido 2024 Dairy AR,2
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,1257 W Roosevelt Rd El Nido 2024 Dairy AR,3
+,"29191 Husman Rd, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,29191 W Husman Rd Gustine 2024 Dairy AR,1
+,"29191 Husman Rd, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,29191 W Husman Rd Gustine 2024 Dairy AR,2
+,"Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,9201 Hilmar Rd Turlock 2024 Dairy AR,1
+,"Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,9201 Hilmar Rd Turlock 2024 Dairy AR,2
+,"3410 S Hunt RD, Gustine, CA 95322",/Person,/Person,of Operator,"Gustine, 95322",Broker,,,,nan,,,nan,to calculate the amount,"21330 W Second Ave, Stevinson 2024 Dairy AR",1
+,"4390 N Fox Rd, Merced, CA 95340",/Person,/Person,of Operator,"Merced, 95340",Broker,,,,nan,gpm X 60 X hrs pumped,,nan,to determine the amount,4390 N Fox Rd Merced 2024 Dairy AR,1
+,"4390 N Fox Rd, Merced, CA 95340",/Person,/Person,of Operator,"Merced, 95340",Broker,,,,nan,gpm X 60 X hrs pumped,,nan,to determine the amount,4390 N Fox Rd Merced 2024 Dairy AR,2
+,"Merced, CA 95315",/Person,/Person,of Operator,"Merced, 95315",Broker,,,,nan,,,nan,to calculate the amount,7581 N Merced Ave 2024 Dairy AR,1
+,"22846 2nd Ave, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,3130 De Witt Rd Modesto 2024 Dairy AR,1
+,"22846 2nd Ave, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,5201 Milnes Rd Modesto 2024 Dairy AR,1
+,"22846 2nd Ave, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,5201 Milnes Rd Modesto 2024 Dairy AR,2
+,"3130 Dewitt Rd, Modesto, CA 95357",/Person,/Person,of Operator,"Modesto, 95357",Broker,,,,nan,,,nan,to calculate the amount,5201 Milnes Rd Modesto 2024 Dairy AR,3
+,"22759 Mercy Springs RD, Merced, CA 93635",/Person,/Person,of Operator,"Merced, 93635",Broker,,,,nan,370 loads X 10000 gallons,,nan,to determine the amount,22759 S Mercy Springs Rd Los Banos 2024 Dairy AR,1
+,"22759 Mercy Springs RD, Merced, CA 93635",/Person,/Person,of Operator,"Merced, 93635",Broker,,,,nan,,,nan,to calculate the amount,22759 S Mercy Springs Rd Los Banos 2024 Dairy AR,2
+,"3026 Gurr Rd, Merced, CA 95301",/Person,/Person,of Operator,"Merced, 95301",Broker,,,,nan,hours pumped X 1200 gpm,,nan,to determine the amount,2892 N Gurr Rd Atwater 2024 Dairy AR,1
+,"20399 Williams AVE, Hilmar, CA 95324",/Person,/Person,of Operator,"Hilmar, 95324",Broker,,,,nan,,,nan,to calculate the amount,931 S Blaker Rd Turlock 2024 Dairy AR,1
+,"10581 S Carpentar RD, Gustine, CA 95313",/Person,/Person,of Operator,"10581 S Carpentar RD, CA 95313",Broker,,,,nan,,,nan,to calculate the amount,1100 Ruble Rd Crows Landing 2024 Dairy AR,1
+,"10581 S Carpentar RD, Gustine, CA 95313",/Person,/Person,of Operator,"10581 S Carpentar RD, CA 95313",Broker,,,,nan,,,nan,to calculate the amount,1100 Ruble Rd Crows Landing 2024 Dairy AR,2
+,"6885 Oak Ave, Merced, CA 95301",/Person,/Person,of Operator,"Merced, 95301",Broker,,,,nan,Pond drop calculation based on 5 feet drop in first quarter,,nan,to determine the amount,6480 W Bailey Rd Atwater 2024 Dairy AR,1
+,"6885 Oak Ave, Merced, CA 95301",/Person,/Person,of Operator,"Merced, 95301",Broker,,,,nan,pond drop calculations,,nan,to determine the amount,6480 W Bailey Rd Atwater 2024 Dairy AR,2
+,"6885 Oak Ave, Merced, CA 05301",/Person,/Person,of Operator,"Merced, 05301",Broker,,,,nan,pond drop calculations,,nan,to determine the amount,6480 W Bailey Rd Atwater 2024 Dairy AR,3
+,"6885 Oak Ave, Merced, CA 95301",/Person,/Person,of Operator,"Merced, 95301",Broker,,,,nan,pond drop calculations,,nan,to determine the amount,6480 W Bailey Rd Atwater 2024 Dairy AR,4
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",1
+,"400 N Central Ave, Turlock, CA 95382",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95382",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",2
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",3
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",4
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",5
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",6
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",7
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",8
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",9
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",10
+,"400 N Central Ave, Turlock, CA 95380",/Person,/Person,of Operator,"400 N Central Ave, Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"3107 S Prairie Flower Rd, Turlock 2024 Dairy AR",11
+,,,,,,,,,,nan,Written Agreement,,nan,to determine amount of manure Load count/ truck weight. _,3354 W Whitmore Ave Modesto 2024 Dairy AR,1
+,"8353 Rexford Dr, Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,5217 Oak Ave Merced 2024 Dairy AR,1
+,"8353 Rexford Dr, Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,5217 Oak Ave Merced 2024 Dairy AR,2
+,"8353 Rexford Dr, Merced, CA 95324",/Person,/Person,of Operator,"Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,5217 Oak Ave Merced 2024 Dairy AR,3
+,"10310 Reese RD, Merced, CA 95365",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,1
+,"10310 Reese RD, Merced, CA 95365",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,2
+,"10310 Reese RD, Merced, CA 95365",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,3
+,"10310 Reese RD, Merced, CA 95365",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,4
+,"19615 Geer AVE, Merced, CA 95324",/Person,/Person,of Operator,"19615 Geer AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,5
+,"19615 Geer AVE, Merced, CA 95324",/Person,/Person,of Operator,"19615 Geer AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,6
+,"19615 Geer AVE, Merced, CA 95324",/Person,/Person,of Operator,"19615 Geer AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,1901 N Hayden Rd Le Grand 2024 Dairy AR,7
+,"900 Meredith AVE, Merced, CA 95322",/Person,/Person,of Operator,"900 Meredith AVE, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,28470 W Cottonwood Rd Gustine 2024 Dairy AR,1
+,"5175 Shaw AVE, Merced, CA 95317",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,508 W Roosevelt Rd El Nido 2024 Dairy AR,1
+,"1021 W El Nido RD, Merced, CA 95317",/Person,/Person,of Operator,"1021 W El Nido RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,508 W Roosevelt Rd El Nido 2024 Dairy AR,2
+,"22339 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,"7706 Tegner Rd, Hilmar 2024 Dairy AR",1
+,"22339 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,"7706 Tegner Rd, Hilmar 2024 Dairy AR",2
+,"22339 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,"7706 Tegner Rd, Hilmar 2024 Dairy AR",3
+,"22339 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,"7706 Tegner Rd, Hilmar 2024 Dairy AR",4
+,"22339 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,"7706 Tegner Rd, Hilmar 2024 Dairy AR",5
+,"Modesto, CA 95358",/Person,/Person,of Operator,"Modesto, CA 95358",Broker,,,,nan,,,nan,to calculate the amount,6506 Vivian Rd Modesto 2024 Dairy AR,1
+,"1510 Washington RD, Merced, CA 94317",/Person,/Person,of Operator,"1510 Washington RD, Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,1
+,"5175 Shaw AVE, Merced, CA 94317",/Person,/Person,of Operator,"Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,2
+,"5175 Shaw AVE, Merced, CA 94317",/Person,/Person,of Operator,"Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,3
+,"5175 Shaw AVE, Merced, CA 94317",/Person,/Person,of Operator,"Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,4
+,"5175 Shaw AVE, Merced, CA 94317",/Person,/Person,of Operator,"Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,5
+,"5175 Shaw AVE, Merced, CA 95355",/Person,/Person,of Operator,"Merced, 95355",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,6
+,"5175 Shaw AVE, Merced, CA 94317",/Person,/Person,of Operator,"Merced, 94317",Broker,,,,nan,,,nan,to calculate the amount,921 W Sandy Mush Rd Merced 2024 Dairy AR,7
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,1
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,2
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,3
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,4
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,5
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,6
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,7
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,8
+,"28366 W Husman RD, Merced, CA 95322",/Person,/Person,of Operator,"28366 W Husman RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,27500 W Bunker Rd Gustine 2024 Dairy AR,9
+,"2941 S State Hwy, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,1581 E Roosevelt Rd El Nido 2024 Dairy AR,1
+,"5301 Woodland AVE, Modesto, CA 95358",/Person,/Person,of Operator,"5301 Woodland AVE, Modesto, CA 95358",Broker,,,,nan,71 Hours @ 1000 GPM,,nan,to determine the amount,337 N Gates Rd MOdesto 2024 Dairy AR,1
+,"337 Gates RD, Modesto, CA 95358",/Person,/Person,of Operator,"337 Gates RD, Modesto, CA 95358",Broker,,,,nan,,,nan,to calculate the amount,337 N Gates Rd MOdesto 2024 Dairy AR,2
+,"5301 Woodland AVE, Modesto, CA 95358",/Person,/Person,of Operator,"5301 Woodland AVE, Modesto, CA 95358",Broker,,,,nan,76 Hours @ 1000 GPM,,nan,to determine the amount,337 N Gates Rd MOdesto 2024 Dairy AR,3
+,"900 Meredith AVE, Merced, CA 95322",/Person,/Person,of Operator,"900 Meredith AVE, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,337 N Gates Rd MOdesto 2024 Dairy AR,4
+,"505 E Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"505 E Washington RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,505 E Washington Rd El Nido 2024 Dairy AR,1
+,"505 E Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"505 E Washington RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,505 E Washington Rd El Nido 2024 Dairy AR,2
+,"505 E Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"505 E Washington RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,505 E Washington Rd El Nido 2024 Dairy AR,3
+,"505 E Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"505 E Washington RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,505 E Washington Rd El Nido 2024 Dairy AR,4
+,"505 E Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"505 E Washington RD, Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,505 E Washington Rd El Nido 2024 Dairy AR,5
+,"2025 Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"2025 Washington RD, Merced, 95317",Broker,,,,nan,Water volume calculated using flowmeter.,,nan,to determine the amount,505 E Washington Rd El Nido 2024 Dairy AR,6
+,"2025 Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"2025 Washington RD, Merced, 95317",Broker,,,,nan,Water volume calculated using flowmeter.,,nan,to determine the amount,505 E Washington Rd El Nido 2024 Dairy AR,7
+,"2025 Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"2025 Washington RD, Merced, 95317",Broker,,,,nan,Water volume calculated using flowmeter.,,nan,to determine the amount,505 E Washington Rd El Nido 2024 Dairy AR,8
+,"2025 Washington RD, Merced, CA 95317",/Person,/Person,of Operator,"2025 Washington RD, Merced, 95317",Broker,,,,nan,Water volume calculated using flowmeter.,,nan,to determine the amount,505 E Washington Rd El Nido 2024 Dairy AR,9
+,"3511 W Sandy Mush RD, Merced, CA 95341",/Person,/Person,of Operator,"3511 W Sandy Mush RD, Merced, 95341",Broker,,,,nan,,,nan,to calculate the amount,3510 W Sandy Mush Rd Merced 2024 Dairy AR,1
+,"1319 S Quinley RD, Merced, CA 95341",/Person,/Person,of Operator,"1319 S Quinley RD, Merced, 95341",Broker,,,,nan,,,nan,to calculate the amount,3510 W Sandy Mush Rd Merced 2024 Dairy AR,2
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,227 W El Nido Rd El Nido 2024 Dairy AR,1
+,"Merced, CA 95317",/Person,/Person,of Operator,"Merced, 95317",Broker,,,,nan,,,nan,to calculate the amount,227 W El Nido Rd El Nido 2024 Dairy AR,2
+,"24341 Avenue 14, Madera, CA 93637",/Person,/Person,of Operator,"24341 Avenue 14, Madera, 93637",Broker,,,,nan,,,nan,to calculate the amount,3493 BVD Ave Merced 2024 Dairy AR,1
+,"16510 Bacon Island RD, Stockton, CA 95234",/Person,/Person,of Operator,"16510 Bacon Island RD, Stockton, CA 95234",Broker,,,,nan,,,nan,to calculate the amount,3493 BVD Ave Merced 2024 Dairy AR,2
+,"24662 Road 9, Madera, CA 93610",/Person,/Person,of Operator,"24662 Road 9, Madera, 93610",Broker,,,,nan,,,nan,to calculate the amount,3493 BVD Ave Merced 2024 Dairy AR,3
+,"7306 East Avenue, Turlock, CA 95380",/Person,/Person,of Operator,"Turlock, 95380",Broker,,,,nan,,,nan,to calculate the amount,"619 S Vincent Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,of Operator,5725 Ehrlich Road,,,__,,nan,_,,nan,to calculate the amount,"5725 Ehrlich Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,of Operator,5725 Ehrlich Road,,,__,,nan,_,,nan,to calculate the amount,"5725 Ehrlich Rd, Turlock 2024 Dairy AR",2
+,"9720 S Whitworth AVE, Merced, CA 95322",/Person,/Person,of Operator,"9720 S Whitworth AVE, Merced, 95322",Broker,,,,nan,Flowmeter,,nan,to determine the amount,8450 S Hwy 33 Gustine 2024 Dairy AR,1
+,"9720 S Whitworth AVE, Merced, CA 95322",/Person,/Person,of Operator,"9720 S Whitworth AVE, Merced, 95322",Broker,,,,nan,Flowmeter,,nan,to determine the amount,8450 S Hwy 33 Gustine 2024 Dairy AR,2
+,"2930 Geer Rd, Merced, CA 93635",/Person,/Person,of Operator,"Merced, 93635",Broker,,,,nan,Flowmeter,,nan,to determine the amount,18037 S Center Ave Los Banos 2024 Dairy AR,1
+,"19075 3rd. Avenue, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,9701 Atwater Jordan Road Atwater 2024 Dairy AR,1
+,"19075 3rd. Avenue, Merced, CA 95374",/Person,/Person,of Operator,"Merced, 95374",Broker,,,,nan,,,nan,to calculate the amount,9701 Atwater Jordan Road Atwater 2024 Dairy AR,2
+,"4890 Healy RD, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,4890 S Healy Rd Merced 2024 Dairy AR,1
+,"3639 W McMaster RD, Merced, CA 95340",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,4890 S Healy Rd Merced 2024 Dairy AR,2
+,"4137 W Healy RD, Merced, CA 95340",/Person,/Person,of Operator,"4137 W Healy RD, Merced, 95340",Broker,,,,nan,,,nan,to calculate the amount,4890 S Healy Rd Merced 2024 Dairy AR,3
+,"4137 W Healy RD, Merced, CA 95340",/Person,/Person,of Operator,"4137 W Healy RD, Merced, 95340",Broker,,,,nan,,,nan,to calculate the amount,4890 S Healy Rd Merced 2024 Dairy AR,4
+,"3639 W McMaster RD, Merced, CA 95340",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,4890 S Healy Rd Merced 2024 Dairy AR,5
+,"4890 Healy RD, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,4890 S Healy Rd Merced 2024 Dairy AR,6
+,"4890 Healy RD, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,4890 S Healy Rd Merced 2024 Dairy AR,7
+,"4890 Healy RD, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,4890 S Healy Rd Merced 2024 Dairy AR,8
+,"4890 Healy RD, Merced, CA 95341",/Person,/Person,of Operator,Merced,Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,4890 S Healy Rd Merced 2024 Dairy AR,9
+,"602 E Sandy Mush RD, Merced, CA 95341",/Person,/Person,of Operator,"602 E Sandy Mush RD, Merced, 95341",Broker,,,,nan,Number of loads multiplied by tank volume,,nan,to determine the amount,5817 E Worden Ave Merced 2024 Dairy AR,1
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5817 E Worden Ave Merced 2024 Dairy AR,2
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5817 E Worden Ave Merced 2024 Dairy AR,3
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5817 E Worden Ave Merced 2024 Dairy AR,4
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5817 E Worden Ave Merced 2024 Dairy AR,5
+,"20694 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,"20694 Johnson AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",1
+,"20758 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,"20758 Johnson AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",2
+,"20758 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,"20758 Johnson AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",3
+,"21809 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21809 Williams AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",4
+,"20694 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,"20694 Johnson AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",5
+,"1 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",6
+,"20694 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,"20694 Johnson AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",7
+,"21809 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21809 Williams AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",8
+,"21809 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21809 Williams AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",9
+,"21809 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21809 Williams AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",10
+,"21809 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21809 Williams AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",11
+,"1 Johnson AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",12
+,"3605 Soderquist AVE, Turlock, CA 95380",/Person,/Person,of Operator,"3605 Soderquist AVE, Turlock, 95380",Broker,,,,nan,Haulers Calc,,nan,to determine the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",13
+,"2406 S Walnut RD, Turlock, CA 95380",/Person,/Person,of Operator,"2406 S Walnut RD, Turlock, CA 95380",Broker,,,,nan,,,nan,to calculate the amount,"20326 Johnson Ave, Hilmar 2024 Dairy AR",14
+,"19486 American AVE, Merced, CA 95324",/Person,/Person,of Operator,"19486 American AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,20723 Geer Ave Hilmar 2024 Dairy AR,1
+,"19420 American AVE, Merced, CA 95324",/Person,/Person,of Operator,"19420 American AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,20723 Geer Ave Hilmar 2024 Dairy AR,2
+,"21185 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,"21185 Williams AVE, Merced, 95324",Broker,,,,nan,,,nan,to calculate the amount,20723 Geer Ave Hilmar 2024 Dairy AR,3
+,"21185 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,4
+,"21089 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,5
+,"21089 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,6
+,"21185 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,7
+,"21185 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,8
+,"21089 Williams AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,20723 Geer Ave Hilmar 2024 Dairy AR,9
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",1
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",2
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",3
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",4
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",5
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",6
+,"20334 W Oslo Rd, Hilmar, CA 95324",/Person,/Person,of Operator,"20334 W Oslo Rd, Hilmar, CA 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"20445 August Ave, Hilmar 2024 Dairy AR",7
+,"1751 Chandler DR, Turlock, CA 95382",/Person,/Person,of Operator,"1751 Chandler DR, Turlock, CA 95382",Broker,,,,nan,Pump GPM x Run Time,,nan,to determine the amount,730 Bystrum Rd Turlock 2024 Dairy AR,1
+,"10077 Avenue 26, Madera, CA 93610",/Person,/Person,of Operator,"Madera, 93610",Broker,,,,nan,,,nan,to calculate the amount,10077 Ave 26 Chowchilla 2024 Dairy AR,1
+,"11923 E Childs AVE, Merced, CA 95333",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,11923 E Childs Ave L Grand 2024 Dairy AR,1
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5511 W Sandy Mush Rd Merced 2024 Dairy AR,1
+,"5175 W Shaw AVE, Merced, CA 95388",/Person,/Person,of Operator,"5175 W Shaw AVE, Merced, 95388",Broker,,,,nan,,,nan,to calculate the amount,5511 W Sandy Mush Rd Merced 2024 Dairy AR,2
+,"8522 W SandyMush RD, Merced, CA 95341",/Person,/Person,of Operator,"8522 W SandyMush RD, Merced, 95341",Broker,,,,nan,,,nan,to calculate the amount,5511 W Sandy Mush Rd Merced 2024 Dairy AR,3
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",1
+,"22338 Short AVE, Merced, CA 95324",/Person,/Person,of Operator,"22338 Short AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",2
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",3
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",4
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",5
+,"21536 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",6
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",7
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",8
+,"2406 S Walnut RD, Merced, CA 95380",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",9
+,"9360 Tegner RD, Merced, CA 95324",/Person,/Person,of Operator,"9360 Tegner RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",10
+,"21510 American AVE, Merced, CA 95324",/Person,/Person,of Operator,"21510 American AVE, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",11
+,"9579 Hultberg RD, Merced, CA 95324",/Person,/Person,of Operator,"9579 Hultberg RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",12
+,"9579 Hulberg RD, Merced, CA 95324",/Person,/Person,of Operator,"9579 Hulberg RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",13
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",14
+,"9579 Hultberg RD, Merced, CA 95324",/Person,/Person,of Operator,"9579 Hultberg RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",15
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",16
+,"19664 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",17
+,"9579 Hultberg RD, Merced, CA 95324",/Person,/Person,of Operator,"9579 Hultberg RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",18
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",19
+,"19664 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",20
+,"19664 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",21
+,"21536 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",22
+,"2406 S Walnut RD, Merced, CA 95380",/Person,/Person,of Operator,Merced,Broker,,,,nan,,,nan,to calculate the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",23
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",24
+,"9579 Hultberg RD, Merced, CA 95324",/Person,/Person,of Operator,"9579 Hultberg RD, Merced, 95324",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",25
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",26
+,"2406 S Walnut RD, Turlock, CA 95380",/Person,/Person,of Operator,"2406 S Walnut RD, Turlock, CA 95380",Broker,,,,nan,,,nan,to calculate the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",27
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",28
+,"6612 Prarie Flower RD, Turlock, CA 95380",/Person,/Person,of Operator,"6612 Prarie Flower RD, Turlock, CA 95380",Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",29
+,"22245 August AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",30
+,"19664 Crane AVE, Merced, CA 95324",/Person,/Person,of Operator,Merced,Broker,,,,nan,Flowmeter,,nan,to determine the amount,"9483 Columbus Ave, Hilmar 2024 Dairy AR",31
+,"3410 S Hunt RD, Merced, CA 95322",/Person,/Person,of Operator,"3410 S Hunt RD, Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,5070 S Hunt Rd Gustine 2024 Dairy AR,1
+,"900 Meredith AVE, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,5070 S Hunt Rd Gustine 2024 Dairy AR,2
+,"900 Meredith AVE, Merced, CA 95322",/Person,/Person,of Operator,"Merced, 95322",Broker,,,,nan,,,nan,to calculate the amount,5070 S Hunt Rd Gustine 2024 Dairy AR,3
+,"15735 Indiana RD, Merced, CA 93620",/Person,/Person,of Operator,"15735 Indiana RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,15775 S Indiana Ave Dos Palos 2024 Dairy AR,1
+,"15735 Indiana RD, Merced, CA 93620",/Person,/Person,of Operator,"15735 Indiana RD, Merced, 93620",Broker,,,,nan,,,nan,to calculate the amount,15775 S Indiana Ave Dos Palos 2024 Dairy AR,2
+,,,,Javier Echeverria,,,,,,nan,,,nan,,2024AR_J&R Dairy,1
+,,,,John Schoneveld,,,,,,nan,,,nan,,2024AR_Lakeview Farms Dairy,1
+,,,,John Goyenetche,,,,,,nan,,,nan,,2024AR G3 Dairy,1
+,,,,Manuel Rosa Jr.,,,,,,nan,,,nan,,2024AR_Faial Farms 2 Dairy,1
+,,,,Brian Wind,,,,,,nan,,,nan,,2024AR_T&W Farms #2 Dairy,1
+,,,,John Calvin DeJager,,,,,,nan,,,nan,,2024AR_Western Sky Dairy,1
+,,,,Eduardo Echeverria,,,,,,nan,,,nan,,2024AR_Newhouse Dairy,1
+,,,,Brodie McClain,,,,,,nan,,,nan,,2024AR_Mc Moo Farms Dairy,1
+,,,,Manuel Rosa,,,,,,nan,,,nan,,2024AR_Rosa Dairy,1
+,,,,AJ Bos,,,,,,nan,,,nan,,2024AR_Maple Dairy,1
+,,,,Lisa Haagsma,,,,,,nan,,,nan,,2024AR_H&P Dairy,1
+,,,,Ramon Echeverria,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,1
+,,,,Ramon Echeverria,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,2
+,,,,Ramon Echeverria,,,,,,nan,,,nan,,2024AR_Bear Mountain Dairy,3
+,,,,AJ Bos,,,,,,nan,,,nan,,2024AR_AJB Ranch Dairy,1
+,,,,AJ Bos,,,,,,nan,,,nan,,2024AR_AJB Ranch Dairy,2
+,,,,Adam Westenbroek,,,,,,nan,,,nan,,2024AR_Westwind Dairy,1
+,,,,Brian Wind,,,,,,nan,,,nan,,2024AR_T&W Farms,1
+,,,,Manuel Rosa Jr.,,,,,,nan,,,nan,,2024AR Faial Farms Dairy,1
+,,,,John Goyenetche,,,,,,nan,,,nan,,2024AR_Panama Ranch Dairy,1
+,,,,AJ Bos,,,,,,nan,,,nan,,2024AR_Trilogy Dairy,1
+,"5939 Lacey BLVD, Tulare, CA 92391",/Person,/Person,of Operator,"Tulare, 92391",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rui and Jennifer Brasil Dairy_8061 Ave 360_Tulare,1
+,"12329 Ave 271, Tulare, CA 93277",/Person,/Person,of Operator,"12329 Ave 271, Tulare, 93277",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Nunes & Sond Dairy_690 E Oakdale Ave_Tulare,1
+,"7559 Avenue 152, Tulare, CA 93272",/Person,/Person,of Operator,"7559 Avenue 152, Tulare, 93272",Broker,,,,nan,,,nan,to calculate the amount,2024AR_T-Bar Dairy_14851 Rd 168_Tulare,1
+"-t~ML..L!!V._._i~e«-l0""'-''----""Wei..L!L1",,__.._V\.......Y....... '-..!...I,\joC\C 140,Ken De Groot,,,V),,,nan,Written Agreement,,nan,Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.,2024AR_Sierra View Dairy+13376 Ave 224_Tulare,1
+Dairy,12031 Avenue 352,/Person Family Manure,/Person,of Operator Joep Rijlaarsdam,,Broker,,311-512024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Rijlaarsdam Dairy_12031 Ave 352_Tulare,1
+,,/Person Netto Ag Inc. / Frank Netto,/ person,of Operator,,Broker,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare,1
+Creek,,/Person Netto Ag Inc. / Frank Netto,I person,of Dairy Facility Elbow Creek Dairv,,Broker,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare,2
+Creek,,/Person Netto Ag Inc. / Frank Netto,I person,of _9per~t~r __ ELBOW CREEK DAIRY,,Broker,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare,3
+Creek,,/Person Netto Ag Inc. / Frank Netto,/ person,of Ope~~tor,,Broker,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare,4
+,,,PlDG\.c 140,_,"9415 W. Goshen Avenue, 42336",,ve.. 15'2..,,,nan,,,nan,Enter the amount of process wastewater hauled in gallons and the method used to determine the amount.,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare,5
+&,11598 Road 152,/Person Bakke Ag Service Inc,/Person P .0 Box 2040,of Operator William Jongsma,,Broker,,6/1/2024 10/1/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_William & John Jongsma Dairy_11598 Rd 152_Tulare,1
+Jongsma,15434 Avenue 192,/Person Turning Leaf Organics,/Person 14982 Road 152,of Operator John Jongsma,,Broker,,10/22/2024-10/26/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_John Jongsma Dairy_15434 Ave 192_Tulare,1
+Jongsma,,/Person Bakke Ag Services Inc,Turning Leaf Organics,,"19745 Ave 128, 93275",,,10/22/24-10/26/24,,nan,,,nan,to calculate the amount,2024AR_John Jongsma Dairy_15434 Ave 192_Tulare,2
+,,,,,,,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_John Jongsma Dairy_15434 Ave 192_Tulare,3
+Dairy,15759 Avenue 128,/Person E.W. Merritt Farms,/Person 11188 Road 192,of Operator Chris Jongsma,,Broker,,512612024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Chris & John Jongsma Dairy_15759 Ave 128_Tulare,1
+,"13085 S Zediker AVE, Fresno, CA 93631",/Person,/Person,of Operator,"13085 S Zediker AVE, Fresno, 93631",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,1
+,"5771 7th Avenue, Fresno, CA 93631",/Person,/Person,of Operator,"Fresno, 93631",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,2
+,"5520 Flint AVE, Hanford, CA 93230",/Person,/Person,of Operator,"5520 Flint AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,3
+,"363 N 5th AVE, Fresno, CA 93631",/Person,/Person,of Operator,"363 N 5th AVE, Fresno, 93631",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,4
+,"10741 Flint AVE, Hanford, CA 93230",/Person,/Person,of Operator,"10741 Flint AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,5
+,"5230 9th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"5230 9th AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,6
+,"10367 Houston AVE, Lemoore, CA 93245",/Person,/Person,of Operator,"10367 Houston AVE, Lemoore, 93245",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,7
+,"5230 9th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"5230 9th AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,8
+,"5415 Boston AVE, Fresno, CA 93631",/Person,/Person,of Operator,"5415 Boston AVE, Fresno, 93631",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,9
+,"14803 Grangeville Blvd, Hanford, CA 93230",/Person,/Person,of Operator,"14803 Grangeville Blvd, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,10
+,"14803 Grangeville Blvd, Hanford, CA 93230",/Person,/Person,of Operator,"14803 Grangeville Blvd, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,11
+,"13085 S Zediker AVE, Fresno, CA 93631",/Person,/Person,of Operator,"13085 S Zediker AVE, Fresno, 93631",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,12
+,"7442 7th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"7442 7th AVE, Hanford, 93230",Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,13
+,"7442 7th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"7442 7th AVE, Hanford, 93230",Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,14
+,"7442 7th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"7442 7th AVE, Hanford, 93230",Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,15
+,"7442 7th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"7442 7th AVE, Hanford, 93230",Broker,,,,nan,Pump rate (GPM) multiplied by run time,,nan,to determine the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,16
+,"29435 Borba Rd, Merced, CA 95341",/Person,/Person,of Operator,"Merced, 95341",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Flint Dairy_6511 Flint Ave_Kings,17
+Dairy,,/Person,/Person,of Operator Eddie Mendes,,Broker,;,,,nan,,,nan,to determine amount of manure,2024AR_Georgenson Dairy_8519 24th Ave_Kings,1
+,__,/Person B Mello Ag Services,/Person    5771 7th Ave                    Hanford        93230,of Operator,"7900 15th Ave. Hanford., Hanford, 93230",,,__,,nan,_,,nan,to calculate the amount,2024AR_Contente & Co Dairy_7900 15th Ave_Kings,1
+,__,/Person B Mello Ag Services,/Person    5771 7th Ave                    Hanford        93230,of Operator,"7900 15th Ave. Hanford., Hanford, 93230",,,__,,nan,_,,nan,to calculate the amount,2024AR_Contente & Co Dairy_7900 15th Ave_Kings,2
+,"15336 10th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"15336 10th AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Antonio Garcia Dairy_6571 Fargo Ave_Kings,1
+,"15336 10th AVE, Hanford, CA 93230",/Person,/Person,of Operator,"15336 10th AVE, Hanford, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Antonio Garcia Dairy_6571 Fargo Ave_Kings,2
+&,,/Person Rodriguez Bros Hauling,/Person,of Operator John Silva,"Fresno, 93230",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Jaques & Silva Dairy_10536 6th Ave_Kings,1
+l4endes,,/Person,/Person,of Operator Eddie Mendes,"Fresno, 93656",Broker,,,,nan,,,nan,to determine amounl of manure,2024AR_E Mendes Dairy_23568 Fargo Ave_Kings,1
+and,16283 18th Avenue,/Person B Mello Ag Services,/Person,of Operator Carlos Costa,93245,Broker,,,,nan,Written Agreement,,nan,to calculate the amount,2024AR_J & A Dairy LLC_16283 18th Avenue_Kings,1
+Dairv,,/Person Netto Ag Inc. / Frank Netto,/ person,of Operator,,Broker,,,,nan,Written Agreement,,nan,to determine amount of manure,2024AR_Milkaholic Dairy LLC_6267 5th Ave_Kings,1
+n..c.....,,,Number and Street,Bill Vander Poel,,,Number and Street,,,nan,Written Agreement,,nan,~,2024AR_The Dairy Inc_6240 21st Ave_Kings,1
+,Lemoore CA,,Number and Street,Bill Vander Peel,Lemoore CA,,Number and Street,,,nan,Written Agreement,,nan,,2024AR_The Dairy Inc_6240 21st Ave_Kings,2
+Parreira,18081 17th Avenue,/Person Guitierrez Spreading,/Person 3612 Ave 236,of Operator Joe Parreira,,Broker,,9/8/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Parreira Dairy_18081 17th Ave_Kings,1
+,"18017 Road 93, Tulare, CA 93270",/Person,/Person,of Operator,"18017 Road 93, Tulare, 93270",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,1
+,"5162 Avenue 252, Tulare, CA 93274",/Person,/Person,of Operator,"5162 Avenue 252, Tulare, 93274",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,2
+,"7370 Avenue 228, Tulare, CA 93274",/Person,/Person,of Operator,"7370 Avenue 228, Tulare, 93274",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,3
+,"7370 Avenue 228, Tulare, CA 93274",/Person,/Person,of Operator,"7370 Avenue 228, Tulare, 93274",Broker,,,,nan,,,nan,to calculate the amount,2024AR_Aukeman Farms Dairy_17297 Road 96_W Tulare,4
 ,,,,,,,,,,nan,,,nan,,2024AR_L K Ranches Dairy_29007 Road 56_W Tulare,1
-,,,,,,,,,,nan,,,nan,,2024AR_Gerrit Visser & Sons Dairy_18565 S Marks Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno,2
-,,,,,,,,,,nan,,,nan,,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,2
-,,,,,,,,,,nan,,,nan,,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,3
-,,,,,,,,,,nan,,,nan,,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,4
-,,,,,,,,,,nan,,,nan,,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,2
-,,,,,,,,,,nan,,,nan,,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,3
-,Fresno,,,,,,,,,nan,,,nan,,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,4
-,,,,,,,,,,nan,,,nan,,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,5
-,,,,,,,,,,nan,,,nan,,2024AR_L & J Vanderham Dairy_10772 W Mt. Whitney Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,2
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,3
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,4
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,5
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,6
-,,,,,,,,,,nan,,,nan,,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,7
+Dairy,3313 Avenue 256 Tulare CA 93274,/Person Decade Dairy,/Person 3313 Avenue 256 Tulare CA 93274,of Operator Eric Westra,,Broker,,4/15/2024 5/7&10/2024 6/10&13/2024 7/15&18/2024,,nan,Written Agreement,,nan,to calculate the amount,2024AR_Decade Dairy_3313 Avenue 256_W Tulare,1
+,,,Number and Street,C_h_r_is_to~p_h_e_r_J_o_n~g~s_m_a __ _,1201 Delta View Road Suite 5 Hanford,,333-230-008 333-230-009 333-180-014 313-030-014,,,nan,Written Agreement,,nan,Enter the amount of process wastewater hauled in gallons and the method used to determine the,2024AR_South Creek Dairy_11450 Avenue 64_W Tulare,1
+,,,,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,N A,,nan,to calculate the amount,2024AR_Gerrit Visser & Sons Dairy_18565 S Marks Ave_Fresno,1
+J&D Wilson Dry Cows,430 W Mt. Whitney AVE                                          I Riverdale           I Fresno  I 93656       I,/Person                                                                                   I Thomas Bros Spreading     I     I          I,/Person 19721 Exceslsior                                                                         I Riverdale           I CA    I 93656       I,I Phone Number                                                                                            I                I     I          I,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno,1
+J&D Wilson Dry Cows,430 W Mt. Whitney AVE                                 I Riverdale           I Fresno  I 93656         I,/Person                                                                         I Thomas Bros Spreading     I     I            I,/Person 19721 Exceslsior                                                                I Riverdale           I CA    I 93656         I,,,Broker,,,,nan,,,nan,lo detemine amount of manure Weighted Average CERTIFICATION,2024AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno,2
+AJ Slenders Dairy,625 E Coleman AVE Laton Fresno 93242 Number and Street City County Zip Code,/Person Nledeiros Farms,/Person Cily re (559) 906-1406 Name Phone Number 12'l 37 S Hughes Ave Caruthers CA 93609 Number and Street,I--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,1
+AJ Slenders Dairy,625 E Coleman AVE                              I Laton             I Fresno     I 93242          I,/Person                                                                    I Aj Slenders Dairy       I        I             I,/Person 625 E Coleman AVE                                                          I Laton             I CA       I 93242          I,I Name                                                                                 I PhtneNumber          I        I             I,,Broker,,,,nan,,,nan,to determine the amount Process Wastewater 5420 000 gallons,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,2
+AJ Stenders Dairy,625 E Coleman AVE I Laton       I Fresno  I 93242       I,,,I-------------------------------------------------------------------------------------------------------I--------------------------------I---------I----------I,,Broker,,,,nan,,,nan,to determine the amount,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,3
+,625 E Coleman AVE                              I Laton             I Fresno     I 93242          I,/Person                                                                   I Aj Slenders Dairy       I        I             I,/Person 625 E Coleman AVE                                                         I Laton             I CA       I 93242          I,,'s Parcel Number I Laton I I I,Broker,,,,nan,,,nan,to determine the amount,2024AR_AJ Selnders Dairy_625 E Coleman Ave_Fresno,4
+,; 1854'l S Fruit AVE                                            I Riverdale           I Fresno  I 93656          I,/Person                                                                     I Black Diamond         I     I             I,/Person 18607 Fruit AVE                                                            I Riverdale           I CA    I s3656          I,I 18607 Fruit                                                                               I Riverdale           I CA    I 93656          I,,Broker,,,,nan,,,nan,to determine the amount Process Wastewater 6400 000 gallons lvlethod used to determine volume of process wastewater; GPM x runtime,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,1
+Black Diamond Dairy,18541 S FruitAVE Riverdale Fresno 93656 Number and Street,/Person Black Diamond,/Person '18607 Fruit AVE Riverdale CA 93656 Number and Street City State Zip Code,I------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,,Broker,,,,nan,,,nan,to detemine the amount,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,2
+Btack Diamond Dairy,; 18541 S Fruit AVE                                       I Riverdale            I Fresno     I 93656  I,/Person                                                               I Thomas Bros Spreading      I        I     I,/Pe6on 19721 Exceslsior                                                      I Riverdale            I CA       I 93656  I,I Address Mike Smith ame 1755 Mt.                                                               I Riverdale            I CA       I     I,'s Parcel Number I Riverdale I 93656 I I,Broker,,,,nan,,,nan,to calqilate the amounl,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,3
+,'18541 S Fruit AVE I Riverdale       I Fresno        I 93656  I,/Person                                         I Netto Ag        I            I     I,/Person '1 0044 Flint Ave                              I Hanford        I CA          I     I,I----------------------------------------------------------------------------------------------I--------------------------------I----------I,,Broker,,,,nan,,,nan,to determine the amount Process Wastewater 2519 000 gallons,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,4
+,18541 S Fruit AVE I Riverdale   I Fresno I 93656          I,/Person                                        I Black Diamond I    I             I,,I--------------------------------------------------------------------------------------------------------------------------------------------------------------------------I--------------------------------I----------I------------------------I,'s Parcel Numberl I Riverdale I 93656 I I,,,,,nan,,,nan,the amounl Process Wastewater 6320000 gallons,2024AR_Black Diamond Dairy_18789 S Fruit Ave_Fresno,5
+,10772               I        I,/Person I Mucillo Trucking I Inc.     I,/Person 7182 22nd Ave I Lemoon    I,Name Number and Street City Zip Code hone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,·,,nan,to calculate the amount,2024AR_L & J Vanderham Dairy_10772 W Mt. Whitney Ave_Fresno,1
+I Pacheco Dairy Inc.  I        I              I       I,I 1108 N. Plumas    I Kerman     I 93630           I       I,/Person                               I Alex Buchnoff & Sons I        I              I       I,/Person                             I Kerman        I 93630     I              I       I,I VEEN N. UNIC PHY                                      I           I        I              I       I,'s Parcel Number I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,1
+I 1108 N. Plumas    I        I             I       I,I Kerman        I 93630     I             I       I,/Person                               I Alex Buchnoff & Sons I        I             I       I,/Person                             I 1395 N. Madera Avenue I Kerman     I 93630          I       I,I ASER N. LIXT Pri                                     I            I        I             I       I,'s Parcel Number I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,2
+I Pacheco Dairy Inc.  I        I             I       I,I Kerman        I 93630     I             I       I,/Person                               I Alex Buchnoff & Sons I        I             I       I,/Person                             I 1395 N. Madera Avenue I Kerman     I 93630          I       I,I ASEN N. LIXU INVIL                                     I            I        I             I       I,'s Parcel Number I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,3
+I 1108 N. Plumas    I Kerman          I     I           I,I 93630         I             I     I           I,/Person                               I 1395 N. Madera Avenue I             I     I           I,/Person                             I Kerman        I 93630          I     I           I,I Umnishes for many                                      I ASEH N. LiUKL INVIL I VALONGEN         I 1124730 I (55%) State College I,'s Parcel Number I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,4
+I Pacheco Dairy Inc  I        I             I       I       I,I Kerman        I 93630     I             I       I       I,/Person                               I Alex Buchnoff & Sons I        I             I       I       I,/Person                             I 1395 N. Madera Avenue I Kerman     I 93630          I       I       I,I DYNASIA BROS Vanch 2000 V1 Strutges                             I YYYYYYYY       I 774020     I 55A · 640. 1095     I       I       I,'s Parcel Number I I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,5
+I Pacheco Dairy Inc.  I        I             I       I,I 1108 N. Plumas    I Kerman     I 93630          I       I,/Person                               I Alex Buchnoff & Sons I        I             I       I,/Person                             I 1395 N. Madera Avenue I Kerman     I 93630          I       I,I Abnesia bas Yangh 3900/1 Somas                               I WW          I 431150     I . PHILOGYS        I       I,'s Parcel Number I I I I I,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,6
+,,,,,,,,,,nan,,,nan,to determine amount of manure,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno,7
 ,,,,,,,,,,nan,,,nan,,2024AR_A & M Farms Dairy_10350 W Manning Ave_Fresno,1
-,,,,,,,,,,nan,,,nan,,1343 Magnolia Ave Patterson 2024 Dairy AR,1
-,,,,,1343 Magnolia Avenue Number and Street,,,,,nan,,,nan,,1343 Magnolia Ave Patterson 2024 Dairy AR,2
-,,,,,730 W. Monte Vista Ave,,,,,nan,,,nan,,348 E Monte Vista Rd Ceres 2024 Dairy AR,1
-,,,,,730 W. Monte Vista Ave,,,,,nan,,,nan,,348 E Monte Vista Rd Ceres 2024 Dairy AR,2
-,,,,,730 W. Monte Vista Ave,,,,,nan,,,nan,,348 E Monte Vista Rd Ceres 2024 Dairy AR,3
-,,,,,,,,,,nan,,,nan,,"1730 S. Healy Rd, Merced 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"1730 S. Healy Rd, Merced 2024 Dairy AR",2
-,,,,,19075 3rd Ave,,,,,nan,,,nan,,"6071 Larson Ave, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"6071 Larson Ave, Hilmar 2024 Dairy AR",2
-,,,,,,,,,,nan,,,nan,,"6071 Larson Ave, Hilmar 2024 Dairy AR",3
-,,,,,5922 Lander Avenue,,,,,nan,,,nan,,"6071 Larson Ave, Hilmar 2024 Dairy AR",4
-,,,,,,,,,,nan,,,nan,,13701 S Hwy 59 El Nido 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,13701 S Hwy 59 El Nido 2024 Dairy AR,2
-,,,,,,,,,,nan,,,nan,,13701 S Hwy 59 El Nido 2024 Dairy AR,3
-,,,,,,,,,,nan,,,nan,,13701 S Hwy 59 El Nido 2024 Dairy AR,4
-,,,,,,,,,,nan,,,nan,,13701 S Hwy 59 El Nido 2024 Dairy AR,5
-,,,,,,,,,,nan,,,nan,,"25762 Turner Ave, Hilmar 2024 Dairy AR",1
-,,,,,9730 Bradbury Road Turlock Number and Street,,,,,nan,,,nan,,"2613 S Mitchell Rd, Turlock 2024 Dairy AR",1
-,,,,,9730 Bradbury Road Turlock Number and Street,,,,,nan,,,nan,,"2613 S Mitchell Rd, Turlock 2024 Dairy AR",2
-,,,,,19075 W. Third Ave.,,,,,nan,,,nan,,1622 Kniebes Rd Gustine 2024 Dairy AR,1
-,,,,,750 East Ave,,,,,nan,,,nan,,11204 Fulkerth Rd Turlock 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,"9375 N Washington Rd, Hilmar 2024 Dairy AR",1
-,,,,,23616 Williams Avenue,,,,,nan,,,nan,,"9375 N Washington Rd, Hilmar 2024 Dairy AR",2
-,,,,,,,,,,nan,,,nan,,1500 Fulkerth Rd Crows Landing 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,"1707 S Mitchell Rd, Turlock 2024 Dairy AR",1
-,,,,,23616 Williams Avenue Number and Street,,,,,nan,,,nan,,8331 Central Ave Ceres 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,1763 S Hewitt Rd Linden 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,1763 S Hewitt Rd Linden 2024 Dairy AR,2
-,,,,,,,,,,nan,,,nan,,"22846 Second Ave, Stevinson 2024 Dairy AR",1
-,,,,,14478 Cox Ferry Road,,,,,nan,,,nan,,2510 W Turlock Rd Snelling 2024 Dairy AR,1
-,,,,,750 East Ave,,,,,nan,,,nan,,6626 N Central Ave Hilmar 2024 Dairy AR,1
-,,,,,750 East Ave,,,,,nan,,,nan,,6626 N Central Ave Hilmar 2024 Dairy AR,2
-,,,,,400 N. Central Avenue,,,,,nan,,,nan,,4419 S Faith Home Rd Turlock 2024 Dairy AR,1
-,,,,,400 N. Central Avenue,,,,,nan,,,nan,,4419 S Faith Home Rd Turlock 2024 Dairy AR,2
-,,,,,95374 19075 W. Third Ave.,,,,,nan,,,nan,,3928 W Linwood Turlock 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,"18451 W Bradbury Rd, Turlock 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"18451 W Bradbury Rd, Turlock 2024 Dairy AR",2
-,,,,,3136 W. Monte Vista Ave.,,,,,nan,,,nan,,7018 Vivian Rd Modesto 2024 Dairy AR,1
-,,,,,19075 3rd Ave 95374 Stevinson Number and Street,,,,,nan,,,nan,,17265 Swanson Rd Delhi 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,"2472 Gates Rd, Modesto 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"2472 Gates Rd, Modesto 2024 Dairy AR",2
-,,,,,,,,,,nan,,,nan,,"2472 Gates Rd, Modesto 2024 Dairy AR",3
-,,,,,,,,,,nan,,,nan,,"2472 Gates Rd, Modesto 2024 Dairy AR",4
-,,,,,,,,,,nan,,,nan,,"2472 Gates Rd, Modesto 2024 Dairy AR",5
-,,,,,400 N. Central Avenue,,,,,nan,,,nan,,11301 W Bradbury Rd Turlock 2024 Dairy AR,1
-,,,,,750 East Ave Number and Street,,,,,nan,,,nan,,"3137 E Tuolumne Rd, Ceres 2024 Dairy AR",1
-,,,,,400 N. Central Avenue,,,,,nan,,,nan,,12712 W Bradbury Rd Turlock 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,"5837 Hultberg RD, Turlock 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"5837 Hultberg RD, Turlock 2024 Dairy AR",2
-,,,,,750 East Ave Number and Street,,,,,nan,,,nan,,"5837 Hultberg RD, Turlock 2024 Dairy AR",3
-,,,,,23616 Williams Avenue,,,,,nan,,,nan,,"22338 Short Rd, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"21480 August Ave, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"21480 August Ave, Hilmar 2024 Dairy AR",2
-,,,,,21536 August Avenue,,,,,nan,,,nan,,"21480 August Ave, Hilmar 2024 Dairy AR",3
-,,,,,21536 August Avenue,,,,,nan,,,nan,,"21480 August Ave, Hilmar 2024 Dairy AR",4
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,2
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,3
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,4
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,5
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,6
-,,,,,,,,,,nan,,,nan,,6555 Blue Gum Rd Modeso 2024 Dairy AR,7
-,,,,,,,,,,nan,,,nan,,"5600 Clayton Rd, Turlock 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"5600 Clayton Rd, Turlock 2024 Dairy AR",2
-,,,,,4505 N. McCullagh Road,,,,,nan,,,nan,,"18254 N. First Ave, Stevinson 2024 Dairy AR",1
-,,,,,4505 N. McCullagh Road,,,,,nan,,,nan,,"18254 N. First Ave, Stevinson 2024 Dairy AR",2
-,,,,,5026 Christofferson Road,,,,,nan,,,nan,,6025 Hultberg Rd Turlock 2024 Dairy AR,1
-,,,,,750 East Ave,,,,,nan,,,nan,,6025 Hultberg Rd Turlock 2024 Dairy AR,2
-,,,,,750 East Ave,,,,,nan,,,nan,,6025 Hultberg Rd Turlock 2024 Dairy AR,3
-,,,,,9579 Hultberg Rd,,,,,nan,,,nan,,6025 Hultberg Rd Turlock 2024 Dairy AR,4
-,,,,,9579 Hultberg Rd,,,,,nan,,,nan,,6025 Hultberg Rd Turlock 2024 Dairy AR,5
-,,,,,,,,,,nan,,,nan,,"5297 Kelley Rd, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,2
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,3
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,4
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,5
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,6
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,7
-,,,,,,,,,,nan,,,nan,,12997 E Peltier Rd Acampo 2024 Dairy AR,8
-,,,,,19481 Geer Avenue,,,,,nan,,,nan,,"19104 Crane Ave, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"22014 Turner Ave, Hilmar 2024 Dairy AR",1
-,,,,,,,,,,nan,,,nan,,"22014 Turner Ave, Hilmar 2024 Dairy AR",2
-,,,,,,,,,,nan,,,nan,,"22014 Turner Ave, Hilmar 2024 Dairy AR",3
-,,,,,,,,,,nan,,,nan,,6756 County Rd 30 Orland 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,6756 County Rd 30 Orland 2024 Dairy AR,2
-,,,,,23616 Williams Avenue,,,,,nan,,,nan,,22578 W Henry Miller Rd Los Banos 2024 Dairy AR,1
-,,,,,,,,,,nan,,,nan,,3645 W Bradshaw Rd Atwater 2024 Dairy AR,1
-,,,,,23616 Williams Avenue,,,,,nan,,,nan,,"9735 Washington Rd, Hilmar 2024 Dairy AR",1
+I,I,/Person,/Person  I,Patterson 95363,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,1343 Magnolia Ave Patterson 2024 Dairy AR,1
+I 1337 Magnolia Avenue Patterson CA 95363 I,I (209) 892-6961              I,/Person   I Azevedo Dairy Inc.           I,/Person I 1337 Magnolia Avenue Patterson CA 95363 I,(209) 495-3055 95363 JCA Custom Farming 1343 Magnolia Avenue Patterson Phone Number Zip Code Number and Street City Name Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,1343 Magnolia Ave Patterson 2024 Dairy AR,2
+,,/Person,/Person,Oliveira Holsteins 730 W. Monte Vista Ave. Ceres **95307 209-595-6910**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,348 E Monte Vista Rd Ceres 2024 Dairy AR,1
+,,/Person,/Person,Oliveira Holsteins 730 W. Monte Vista Ave. Ceres **95307 209-595-6910**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,348 E Monte Vista Rd Ceres 2024 Dairy AR,2
+,,/Person,/Person,Oliveira Holsteins 730 W. Monte Vista Ave. Ceres **95307 209-595-6910**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,348 E Monte Vista Rd Ceres 2024 Dairy AR,3
+,,/Person,/Person,Rossow Farms 7745 E. Sandy Mush Merced 95340 (209) 862-3393,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"1730 S. Healy Rd, Merced 2024 Dairy AR",1
+,,/Person,/Person,Rossow Farms 7745 E. Sandy Mush Merced 95340 (209) 862-3393,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"1730 S. Healy Rd, Merced 2024 Dairy AR",2
+,,/Person,/Person,Hinds Compost 19075 3rd **Ave Stevinson 95374 (209) 634-8934**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"6071 Larson Ave, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,Manuel Faria 20399 W. Williams Avenue Hilmar 95324 (209) 495-1470,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"6071 Larson Ave, Hilmar 2024 Dairy AR",2
+,,/Person,/Person,Vierra Dairy Farms 23160 W. Williams Avenue Hilmar 95324 (209) 449-8433,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"6071 Larson Ave, Hilmar 2024 Dairy AR",3
+,,/Person,/Person,JD Van Ruler 5922 Lander **Avenue Hilmar 95324 (209) 634-7951**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"6071 Larson Ave, Hilmar 2024 Dairy AR",4
+Healy Ranch (Formally Guilherme Brasil Dairy),13701 S Hwy 59 El Nido I Merced                 I 95317       I     I,/Person                                         I Shuteye Transco LLC          I          I     I,/Person                                       I 93610                 I          I     I,I Chowchilla                                                   I CA                   I 95341 Phone Number I     I,'s Parcel Number Address I City I Zip Code I I,Broker,,,,nan,,,nan,to calculate the amount,13701 S Hwy 59 El Nido 2024 Dairy AR,1
+Healy Ranch (Formally Guilherme Brasil Dairy),13701 S Hwy 59 El Nido I Merced                 I 95317       I     I,/Person                                         I Shuteye Transco LLC          I          I     I,/Person                                       I 93610                 I          I     I,I Chowchilla                                                   I CA                   I 95341 Phone Number I     I,'s Parcel Number Address I City I Zip Code I I,Broker,,,,nan,,,nan,to calculate the amount,13701 S Hwy 59 El Nido 2024 Dairy AR,2
+Healy Ranch (Formally Guilherme Brasil Dairy),13701 S Hwy 59 El Nido   I Merced             I 95317       I     I,/Person                                          I Gomes Farms Inc.        I          I     I,/Person                                         I 95317              I          I     I,I El Nido                                                      I CA               I 95317 Phone Number I     I,'s Parcel Number 13625 Coyote RD I El Nido I 95317 I I,Broker,,,,nan,,,nan,to calculate the amount,13701 S Hwy 59 El Nido 2024 Dairy AR,3
+Healy Ranch (Formally Guilherme Brasil Dairy),13701 S Hwy 59 El Nido I Merced                 I 95317       I     I,/Person                                         I Shuteye Transco LLC          I          I     I,/Person                                       I 93610                 I          I     I,I Chowchilla                                                   I CA                   I 95341 Phone Number I     I,'s Parcel Number Address I City I Zip Code I I,Broker,,,,nan,,,nan,to calculate the amount,13701 S Hwy 59 El Nido 2024 Dairy AR,4
+Healy Ranch (Formally Guilherme Brasil Dairy),13701 S Hwy 59 El Nido I Merced                 I 95317       I     I,/Person                                         I Shuteye Transco LLC          I          I     I,/Person                                       I 93610                 I          I     I,I Chowchilla                                                   I CA                   I 95341 Phone Number I     I,'s Parcel Number Address I City I Zip Code I I,Broker,,,,nan,,,nan,to calculate the amount,13701 S Hwy 59 El Nido 2024 Dairy AR,5
+,,/Person,/Person,Dores Ag Services Inc. 22846 Second Avenue Stevinson 95374 (209) 649-4503,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"25762 Turner Ave, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,JB Farms 8400 W. Linwood Avenue Name Number and Street Turlock City 95380,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,"2613 S Mitchell Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,JB Farms 8400 W. Linwood Avenue Name Number and Street Turlock City 95380,'s Parcel Number,Broker,,,,nan,_N/A,,nan,to calculate the amount,"2613 S Mitchell Rd, Turlock 2024 Dairy AR",2
+,,/Person,/Person,Gibs Hinds Manure Spreading **19075 W. Third Ave. Stevinson CA. 95374 209-634-8934**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,1622 Kniebes Rd Gustine 2024 Dairy AR,1
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488 Gustine 95322 (209) 678-2917,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,11204 Fulkerth Rd Turlock 2024 Dairy AR,1
+,,/Person,/Person,B & D Dairy 9579 Hultberg Road Hilmar 95324 (209) 652-3534,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"9375 N Washington Rd, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,Silva & Sons LLC 23616 Williams Avenue Hilmar 95324 (209) 678-4027,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"9375 N Washington Rd, Hilmar 2024 Dairy AR",2
+,_1500 W. Fulkerth Rd.,/Person,/Person,95307,'s Parcel Number Hl 022-035-012 022-035-006 022-036-018 022-036-019022-036-016022-033-006 022-033-007 022-033-008 022-034-011 022-034-013 022-034-014 022-034-015 022-034-016 022-034-017 022-036-023022-033-002 022-034-004,Broker,,,,nan,,,nan,to calculate the amount,1500 Fulkerth Rd Crows Landing 2024 Dairy AR,1
+,,/Person,/Person,JB Farms 8400 W. Linwood Avenue Turlock 95380 (209) 656-9005,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"1707 S Mitchell Rd, Turlock 2024 Dairy AR",1
+I,I,/Person,/Person  I,Silva & Sons LLC 23616 Williams Avenue Name Number and Street Hilmar City,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,8331 Central Ave Ceres 2024 Dairy AR,1
+,__,/Person,/Person__,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,1763 S Hewitt Rd Linden 2024 Dairy AR,1
+,__,/Person,/Person__,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,1763 S Hewitt Rd Linden 2024 Dairy AR,2
+,,/Person,/Person,Souza Brothers Dairy 3887 McCullagh RD Stevinson 95374 (209) 632-,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"22846 Second Ave, Stevinson 2024 Dairy AR",1
+,,/Person,/Person,Fagundes Dairy PO Box 2717 Merced 95344 (209) 383-6020,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2510 W Turlock Rd Snelling 2024 Dairy AR,1
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488 Gustine 95322 (209) 678-2917,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6626 N Central Ave Hilmar 2024 Dairy AR,1
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488 Gustine 95322 (209) 678-2917,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6626 N Central Ave Hilmar 2024 Dairy AR,2
+,,/Person,/Person,J.H.F.S. Inc. 400 N. Central Avenue Turlock 95380 (209) 668-4727,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,4419 S Faith Home Rd Turlock 2024 Dairy AR,1
+,,/Person,/Person  I 400 N. Central Avenue Turlock CA 95380 Joshua Holsapple (209) 668-4727  I,J.H.F.S. Inc. 400 N. Central Avenue Turlock 95380 (209) 668-4727,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,4419 S Faith Home Rd Turlock 2024 Dairy AR,2
+,,/Person,,19075 W. Third Ave. Stevinson CA. 95374 209-634-8934 Gibs Hinds Manure Spreading Phone Number Number and Street City Zip Code Name Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,_N/A,,nan,to calculate the amount,3928 W Linwood Turlock 2024 Dairy AR,1
+,,/Person,/Person,Ramos 19261 W. Bradbury Road Turlock 95380 (209) 667-5718,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"18451 W Bradbury Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,JR Farms 18451 W. Bradbury Road Turlock 95380 (209) 652-4419,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"18451 W Bradbury Rd, Turlock 2024 Dairy AR",2
+,,/Person,/Person,Greg Nunes 6801 Carpenter Rd Modesto 95358 209-678-7933,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,7018 Vivian Rd Modesto 2024 Dairy AR,1
+I,I,/Person,/Person  I,19075 3rd Ave 95374,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,17265 Swanson Rd Delhi 2024 Dairy AR,1
+,,/Person,/Person,Avila Spreading Service P.O. Box 580742 Modesto 95358 (209) 595-7955,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"2472 Gates Rd, Modesto 2024 Dairy AR",1
+,,/Person,/Person,Melvin Wheeler & Sons 5301 Woodland Ave Modesto 95358 (209) 321-3007,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"2472 Gates Rd, Modesto 2024 Dairy AR",2
+,,/Person,/Person,Melvin Wheeler & Sons 5301 Woodland Ave Modesto 95358 (209) 321-3007,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"2472 Gates Rd, Modesto 2024 Dairy AR",3
+,,/Person,/Person,Melvin Wheeler & Sons 5301 Woodland Ave Modesto 95358 (209) 321-3007,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"2472 Gates Rd, Modesto 2024 Dairy AR",4
+,,/Person,/Person,Melvin Wheeler & Sons 5301 Woodland Ave Modesto 95358 (209) 321-3007,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"2472 Gates Rd, Modesto 2024 Dairy AR",5
+,,/Person,/Person,J.H.F.S. Inc. 400 N. Central Avenue Turlock 95380 (209) 668-4727,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,11301 W Bradbury Rd Turlock 2024 Dairy AR,1
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,"3137 E Tuolumne Rd, Ceres 2024 Dairy AR",1
+,,/Person,/Person,J.H.F.S. Inc. 400 N. Central Avenue Turlock 95380 (209) 668-4727,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12712 W Bradbury Rd Turlock 2024 Dairy AR,1
+I,I,/Person,/Person,Fer,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"5837 Hultberg RD, Turlock 2024 Dairy AR",1
+I,I,/Person    I,/Person  I,Elmiro Moitoso,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"5837 Hultberg RD, Turlock 2024 Dairy AR",2
+I,I,/Person,/Person,Five Star Custom Spreading P.O. Box 488 95322,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,"5837 Hultberg RD, Turlock 2024 Dairy AR",3
+I UC Davis Dairy I     I    I,I Dairy Road   I Davis  I 95616 I,/Person  Bob,/Person 12493,2880 CountyKoad Number and Street Name Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"201 Dairy Rd, Davis 2024 Dairy AR",1
+,,/Person,/Person,Silva & Sons LLC 23616 Williams Avenue Hilmar 95324 (209) 678-4027,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"22338 Short Rd, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,Silva Brothers 224 S. Roselawn Ave Turlock 95380 (209) 495-9669,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"1131 Story Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,B-6 Dairy 22014 Turner **Road Hilmar 95324 (209) 632-1456**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"21480 August Ave, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,B-6 Dairy 22014 Turner **Road Hilmar 95324 (209) 632-1456**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"21480 August Ave, Hilmar 2024 Dairy AR",2
+,,/Person,/Person,Joe Egli & Sons Dairy 21536 August Avenue Hilmar 95324 (209) 667-1452,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"21480 August Ave, Hilmar 2024 Dairy AR",3
+,,/Person,/Person,Joe Egli & Sons Dairy 21536 August Avenue Hilmar 95324 (209) 667-1452,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"21480 August Ave, Hilmar 2024 Dairy AR",4
+,,,,-/823 Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number Number and Street,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,1
+,,/Person,/Person;,SoHN,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,2
+,,/Person,,![0_image_2.png](0_image_2.png),'s Parcel Number.,Broker,,,,nan,,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,3
+,,/Person,/Person,Name Number and Street,'s Parcel Number,Broker,,,,nan,.,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,4
+,,,,![0_image_1.png](0_image_1.png),'s Parcel Number,Broker,,,,nan,.,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,5
+,,/Person,/Person,![0_image_4.png](0_image_4.png),'s Parcel Numb,Broker,,,,nan,,,nan,to calculate the amount,6555 Blue Gum Rd Modeso 2024 Dairy AR,6
+,,/Person;,/Person,![0_image_2.png](0_image_2.png),'s Parcel Number,Broker,,,,nan,.,,nan,to calculate the amount.,6555 Blue Gum Rd Modeso 2024 Dairy AR,7
+,,/Person,/Person,John Brasil Dairy \#1 2613 S. Mitchell Road Turlock 95380 (209) 632-7867,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"5600 Clayton Rd, Turlock 2024 Dairy AR",1
+,,/Person,/Person,John Brasil Dairy \#1 2613 S. Mitchell Road Turlock 95380 (209) 632-7867,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"5600 Clayton Rd, Turlock 2024 Dairy AR",2
+,,/Person,/Person,Randy Baptista 4505 N. McCullagh Road Stevinson 95374 (209) 402-2705,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"18254 N. First Ave, Stevinson 2024 Dairy AR",1
+,,/Person,/Person,Randy Baptista 4505 N. McCullagh Road Stevinson 95374 (209) 402-2705,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"18254 N. First Ave, Stevinson 2024 Dairy AR",2
+,,/Person,/Person,Carlos Ornales 5026 Christofferson Road Turlock 95380 (209) 595-4318,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6025 Hultberg Rd Turlock 2024 Dairy AR,1
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488 Gustine 95322 (209) 678-2917,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6025 Hultberg Rd Turlock 2024 Dairy AR,2
+,,/Person,/Person,Five Star Custom Spreading P.O. Box 488 Gustine 95322 (209) 678-2917,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6025 Hultberg Rd Turlock 2024 Dairy AR,3
+,,/Person,/Person,B & D Dairy 9579 Hultberg Rd. Hilmar **95324 209-667-1781**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6025 Hultberg Rd Turlock 2024 Dairy AR,4
+,,/Person,/Person,B & D Dairy 9579 Hultberg Rd. Hilmar **95324 209-667-1781**,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,6025 Hultberg Rd Turlock 2024 Dairy AR,5
+,,/Person,/Person,Hills Ferry Ranch P.O. Box 922 Hilmar 95324 (209) 634-4930,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"5297 Kelley Rd, Hilmar 2024 Dairy AR",1
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,1
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,2
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,3
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,4
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,5
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,6
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,7
+,__,/Person,/Person__,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,12997 E Peltier Rd Acampo 2024 Dairy AR,8
+,,/Person,/Person,__,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"19104 Crane Ave, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,B & B Farms P.O. Box 922 Hilmar 95324 (209) 634-4930,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"22014 Turner Ave, Hilmar 2024 Dairy AR",1
+,,/Person,/Person,Bob Livak 22339 Crane Avenue Hilmar 95324 (209) 668-8319,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"22014 Turner Ave, Hilmar 2024 Dairy AR",2
+,,/Person,/Person,B & B Farms P.O. Box 922 Hilmar 95324 (209) 634-4930,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"22014 Turner Ave, Hilmar 2024 Dairy AR",3
+Van Tol Dairy No. 2                        I                 I        I     I,I Glenn              I 95963     I     I,/Person                               I K&S Spreading & Hauling     I        I     I,/Person                             I Orland             I 95963     I     I,I K & S Spreading & Hauling                                  I (530) 624-2783         I        I     I,'s Parcel Number I I I I,Broker,,,,nan,,,nan,to calculate the amount,6756 County Rd 30 Orland 2024 Dairy AR,1
+Van Tol Dairy No. 2                        I                 I        I,I 95963              I        I,/Person                               I                 I        I,/Person                             I 95963              I        I,I K & S Spreading & Hauling                                  I Phone Number          I        I,'s Parcel Number I 95963 I I,,,,,nan,,,nan,to calculate the amount,6756 County Rd 30 Orland 2024 Dairy AR,2
+,,/Person,/Person,Silva & Sons LLC 23616 Williams Avenue Hilmar 95324 (209) 678-4027,'s Parcel Number,Broker,,,,nan,N/A,,nan,to calculate the amount,22578 W Henry Miller Rd Los Banos 2024 Dairy AR,1
+,,/Person,/Person,Stone Yard 9012 Lupin Ave Winton 95388 (209) 756-1491,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3645 W Bradshaw Rd Atwater 2024 Dairy AR,1
+,,/Person,/Person,Silva & Sons LLC 23616 Williams Avenue Hilmar 95324 (209) 678-4027,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,"9735 Washington Rd, Hilmar 2024 Dairy AR",1
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,1
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,2
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,3
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,4
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,5
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,6
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,7
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,8
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,9
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,10
+Tollcrest Dairy        I       I     I,3355 Virginia Rd.          I Wheatland  I 95692  I,/Person Beebe Industries,/Person P.O. Box 665.,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,3355 Virginia Rd Wheatland 2024 Dairy AR,11
 ,,,,,,,,,,nan,,,nan,,7755 Midway Rd Dixon 2024 Dairy AR,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Solo Dairy_11495 Jumper Ave_Kern,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Skyview Dairy_28989 Riverside St_Kern,1
+,,/Person ~Drew ~ .~\l[V H\(G,/Person U)C\DC\ ®.tin Ll)t ?t . ~ l cB C\32.ll l,![0_image_2.png](0_image_2.png),,Broker,,,,nan,,,nan,to calculate the amount,2024AR_David Vander Schaaf_7524 South Fairfax Rd_Kern,1
+David Vander Schaaf Dairy,7524 S. Fairfax Road Bakersfield CA                         I 93307     I     I,/Person Curtis Vanden Berge,/Person Number and Street I City      I Zip Code I,Curtis Vanden Berge (661) 340-6448 Name Number and Street City Zip Code Phone Number,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_David Vander Schaaf_7524 South Fairfax Rd_Kern,2
 ,,,,,,,,,,nan,,,nan,,2024AR_Whiteside Dairy_16461 Scofield Ave_Kern,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Oasis Holsteins Dairy_18041 Palm Ave_Kern,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Goyenetche Dairy LLC_6041 Brandt Rd_Kern,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Tjaarda Dairy_19211 Magnolia Ave_Kern,1
-,,,,,,,,,,nan,,,nan,,2024AR_Cream Top Dairy_13075 Ave 200_Tulare,1
-,,,,,,,,,,nan,,,nan,,2024AR_Triple H Dairy #1_13255 Ave 212_Tulare,1
+"__ i+-4-•_._\ V_;._v{----_V""'--""""cf) '-._._--'d--_ __\JA ... '---'-\ -""'fy_ **-iJ-------------**",------;----;-;------------------------------------- Number and Street City Zip Code,"/Person. _ -_V\-'-r---' I__ 1.c_ **'---·~-""""''""--'Y\~r...** ';JJ--- t.. **•r-'--""'** ''-------------",/Person 1.t>o'-{ Pioo.c 140 Tu\ C\r-e Number and Street City 9?>1 ... J~,"Co.inS""-AcKirt1Toc.. '23004 }hoC\c\ 140 1ubv-e CJ3'274 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number",'s Parcel Number,,,,,nan,_ _ _ _,,nan,amount of manure _ __ _,2024AR_Riverbend Dairy_20799 Rd 132_Tulare,1
+"-~6~i V1-~~~e#\ __ d_-_s_\>_~_~ _ __.lli~'""--''·~~------",20799 Road 132 Tulare CA 9327 4,"/Person -----V\-'""""r--' l_-'-l \~ **•~'L.._Y\r..;** '8.1-..- 1 c. ~-""' •------------",/Person 1.~D\.{ fj0~c 140 TU.\C\r-e 92>1-1y Number and Street Ci!y Zip Code,![0_image_0.png](0_image_0.png),'s Parcel Number,,,,,nan,_ _ _,,nan,the amount,2024AR_Riverbend Dairy_20799 Rd 132_Tulare,2
+"-~~A~\~""es~b~-en~A~---'--Eo.--~+-_D-C\__.j-'-t}j--J------- 20303 Road 140 Tulare CA 93274",_~--;------------------------------ - ---------- Number and Street City Zip Code Micah Stanley (559) 686-0484,"/Person ----V\...;.....r I _ \-'~ **'--.~'""'-'-Y\-'-'--'-'--.** •~d-'- '-~-'-"""" ''------------",/Person 1.-bDY {j()C.\c 140 TU\C\re < c1'2i2..JY,CC\inSMcKiJ'.'6Toc. '13004 MO.o /40 J[Abr-e c1'3'2-7Y,'s Parcel Number,,,,,nan,,,nan,amount of manure __ _,2024AR_Riverbend East Dairy_20303 Rd 140_Tulare,1
+Oakbend DairySouth,15651 Ave 192                     I Tulare CA   I 93274  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA   I 93272  I,Turning Leaf Organics 14982 Road 152 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Oakbend South Dairy_15651 Ave 192_Tulare,1
+Oakbend DairySouth,,/Person Turning Leaf Organics,Turning Leaf Organics I Phone Number                       I                                            I                                           I             I,Turning Leaf Organics 14982 Road 152 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,,,,,nan,,,nan,to calculate the amount,2024AR_Oakbend South Dairy_15651 Ave 192_Tulare,2
+,15651 Ave 192 Tulare CA 93274 Mailing Address 15651 Ave 192 T ulare CA 9327 4 Telephone Number 559-303-8363 IVIJ.NURE INFORMATION Manure analyzed for nutrients?  I Yes D                                                                                                      I  I,,Turning Leaf Organic-s 14982 Road 152 Tipton CA 93272                                                                        I No~ No[!]                                                                                                   I  I,,,,,,,nan,,,nan,to determine amount of manure,2024AR_Oakbend South Dairy_15651 Ave 192_Tulare,3
+,,,,,,,,,,nan,,,nan,to calculate the amount,2024AR_Jacobus DeGroot Dairy #1_31847 Rd 92_Tulare,1
+South Corner Dairy,8150 Ave 360                  I Visalia CA   I 93291  I,/Person Trinidad Macias,/Person 13301 Ave 428 I Orosi CA   I 93647  I,Name Number and Street City Zip Code Phone Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_South Corner Dairy_8150 Ave 360_Tulare,1
+South Corner Dairy,8150 Ave 360                         I Visalia CA    I 93291  I,/Person Valley Manure Spreading,/Person 1728 N. Irma Street I Visalia CA 93292 I     I,Rijlaarsdam Farms Name Number and Street City Zip Code Phone Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_South Corner Dairy_8150 Ave 360_Tulare,2
+,I CA                                                                                                                              I  I,,,,,Other,,,,nan,,,nan,to determine amount of manure,2024AR_South Corner Dairy_8150 Ave 360_Tulare,3
+Double J Dairy,6656 Avenue 328                     I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,Jay te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704 Name Number and Street City Zip Code Phone Number,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,1
+Double J Dairy,6656 Avenue 328                     I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,Jay te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,2
+Double J Dairy,6656 Avenue 328                     I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,I Jay te Velde  I 6656 Avenue 328  I Visalia CA 93291  I (559) 730-1 704  I       I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,3
+Double J Dairy,6656 Avenue 328                     I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,Jay te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,4
+Double J Dairy,6656 Avenue 328                     I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,I------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,5
+Double J Dairy,6656 Avenue 328                     I Visalia CA   I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA   I 93291  I,Jay te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Double J Dairy_6656 Ave 328_Tulare,6
+"_· **• .... a_._·o.·** . .... ~ - **... D-f .... Yl""""""'ci""""""** ' .... ·_. --------------",,"/Person __ 5>~_.\D_ ~""'+('__..~_..~t~D~S....._ _ __ _ _ __ _ .......__ -.",/Person \'S~D;\ '§\\)-e. &.'6'6.,aOJ~ c ~,'s Parc?I Number,Other,,,,nan,_ _,,nan,to calculate the amount li I•,2024AR_Oakbend Dairy_23561 Rd 168_Tulare,1
+Louie de Groot Dairy,15081 Avenue 104                  I Pixley CA   I 93256  I,/Person Hofstee Farms Inc.,/Person 16029 Ave 136 I Tipton CA   I 93272  I,Roel Hofstee 16029 Ave 136 Tipton CA 93272 Name Number and Street City Zip Code Phone Number,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Louie De Groot Dairy_15081 Ave 104_Tulare,1
+I Lt>u<       I 1)-<. Gy t'JO ± I a ~ ;; 7 '-/ I,I 15081 Avenue 104  I eixl~i. C6   I 93256     I,"/Person y-'.4 r ~~. ""~","/Person ""P.6. Bo. )< I ;>.~~      I 9JlS'~     I        I","'i2u.s 1-'i! *Sckc.* ./-1- *F""--rrriS [LJ()~tf Aie..* **ltYj_** ?.""'I~ q **3IS'/o**",'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Louie De Groot Dairy_15081 Ave 104_Tulare,2
+Ue 2L                                 I J2c2 Ck9d ._- })'?1. > t. ✓ V  I         I,15081 Avenue 104                                                           I Pixley CA             I 93256      I,/Person J; J Spr-eo.d ')-o'J,/Person ?.6. B~1- 'I. I .;>j~ lef             I 'J3~S~      I,"~""'~J.'l ~dig.J;.)... 'n--fMi /'iOjli ~ **JOI/ ?.1~ 'i32St** Naml Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number",'s Parcel Number,Broker,,,,nan,,,nan,to cal~ul~ the amount,2024AR_Louie De Groot Dairy_15081 Ave 104_Tulare,3
+Skyline Dairy,15992 Ave 192                                          I Tulare CA      I 93274  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA      I 93272  I,Turning Leaf Organics 14982 Road 152 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Skyline Dairy_15992 Ave 192_Tulare,1
+Skyline Dairy,15992 Ave 192 T ulare CA 93274 ----- -- Telephone Number 559-303-8363 Mailing Address 15992 Ave 192 T ulare CA 93274 MANURE INFORMATION Manure analyzed for nutrients? Yes I' l Nol - I Most current nutrient analysis of manure provided to the recipient of the manure? Yes D - I MANURE HAULER INFORMATION Name and Address of Hauling Company Tu~~ing Leaf Organics 14982 Road 152 Tipton CA 93272 Phone Number,/Person Turning Leaf Organics,Tu~~ing Leaf Organics 14982 Road 152 Tipton CA 93272 Phone Number,Turning Leaf Organics 14982 Road 152 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Other,,,,nan,,,nan,to calculate the amount,2024AR_Skyline Dairy_15992 Ave 192_Tulare,2
+,Mailing Address Telephone Ni.mber - . - - **MANURE INFORMATION**,,Turning Leaf Organics Phone Number,,,,,,,nan,,,nan,to determine amount of manure,2024AR_Skyline Dairy_15992 Ave 192_Tulare,3
+Skyline Dairy,15992 Ave 192                   I Tulare CA   I 93274  I,/Person Netto Ag Inc,/Person 10044 Flint Ave I Hanford CA  I 93230  I,Mark Heuer Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Skyline Dairy_15992 Ave 192_Tulare,4
+.B.8~e ~eAseF Peel Qaipt ..  I s~(\sit.t   I ~O.(\~~  I,194393 Road 140           I Tulare CA   I 93274   I,,/Person PO Box 1020 Tulare CA 93275 Number and Street City Zip Code,Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Sunset Ranch_19493 Rd 140_Tulare,1
+Pete Vander Poel Dairy    I Tulare CA  I 93274  I,194393 Road 140           I       I     I,/Person Triple M Custom Chopping and Manure Spreading Inc,/Person PO Box 1020.,I-----------------------------------------------------------------------------------------------I-------------------I------------------I--------------I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Sunset Ranch_19493 Rd 140_Tulare,2
+-Pete Vancler Peel 9aiJ¥- S!.A1lSfJ (£1Qeb,194393 Road 140 Tulare CA 93274,/Person Tri12le M Custom Cho1212ing and Manure S12reading1 Inc,/Person PO Box 1020 Tulare CA 93275 Number and Street City Zip Code,P&M Dairy 9535 Avenue 160 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Sunset Ranch_19493 Rd 140_Tulare,3
+De Boer Dairy           I           I       I     I,I Number and Street  I City     I Zip Code I,/Person Bakke Ag Services     I Visalia       I 93290    I     I,/Person PO Box 7208      I           I       I     I,Merrit Farms Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_4 Corners Dairy_14976 Ave 168_Tulare,1
+De Boer Dairy        I 93274       I     I     I,I Number and Street I City   I Zip Code I,/Person Aves ag service Inc. I Tulare CA     I 93274  I     I,/Person 2407 Avenue 1991 I          I     I     I,Tony Simoes 14469 Ave 180 Tulare CA 93274 Name,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_4 Corners Dairy_14976 Ave 168_Tulare,2
+,,/Person,/Person,,,,,,,nan,,,nan,amount of manure / digestate,2024AR_K A Vanderham Dairy_12565 Ave 152_Tulare,1
+KA Vanderham,12565 Avenue 152                      I Tulare CA      I 93274  I,/Person E.W. Merritt Farms,/Person 11188 Road 192 I Porterville CA   I 93257  I,I Merritt Yard  I 11188 Road 192  I Porterville CA 93257  I (559) 784-8916  I       I,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_K A Vanderham Dairy_12565 Ave 152_Tulare,2
+Vintage Dairy,12608 Road 144 Tipton CA 93272 Number and Street City Zip Code,/Person Turning Leaf Organics,/Person 14982 Road 152 Tipton CA 93272 Number and Street City Zip Code,Helia Van Beek 14982 Road 152 Tipton CA 93272 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Vintage Dairy_12608 Rd 144_Tulare,1
+Vintage Dairy,12608 Road 144 Tipton CA 93272,/Person Vintage Dairy,Turning Leaf Organics Phone Number,Little Ranch 13167 Road 144 Tipton CA 93272 (559) 731-6728 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,,,,,nan,,,nan,to calculate the amount,2024AR_Vintage Dairy_12608 Rd 144_Tulare,2
+,,,,,,,,,,nan,,,nan,to determine amount of manure,2024AR_Vintage Dairy_12608 Rd 144_Tulare,3
+Rancho Sierra Vista,32866 Road 108                  I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,I--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rancho Sierra Vista Dairy_32866 Rd 108_Tulare,1
+Rancho Sierra Vista,32866 Road 108                                   I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,I--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rancho Sierra Vista Dairy_32866 Rd 108_Tulare,2
+Rancho Sierra Vista,32866 Road 108                  I Visalia CA  I 93291  I,/Person Double J Dairy,/Person 6656 Avenue 328 I Visalia CA  I 93291  I,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Rancho Sierra Vista Dairy_32866 Rd 108_Tulare,3
+East Ridge Dairy,14153 RD 168                                         I PortervilleCA  I 93257  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA    I 93272  I,Can Rey Farms Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_East Ridge Farms_14153 Rd 168_Tulare,1
+East Ridge Dairy,Mailing Address Telephone Number MANURE INFORMATION Manure analyzed for nutrients?        I Yesn                                                                                                                                I No fil  I,/Person Turning Leaf Organics,Turning Leaf Organics                                                                  I Phone Number 5594678456                                                                                                                      I     I,I Turning Leaf organics Compost Yard  I 14982 Road 152  I Tipton CA  I 93272  I (559) 467-8456  I,'s Parcel Number,Other,,,,nan,,,nan,to calculate the amount,2024AR_East Ridge Farms_14153 Rd 168_Tulare,2
+,,,Turning Leaf Organics I Phone Number                        I                                           I    I,,,,,,,nan,,,nan,to determine amount of manure,2024AR_East Ridge Farms_14153 Rd 168_Tulare,3
+Gerben Leyendekker,8676 Avenue 360                                            I Visalia CA  I 93291    I,/Person Valley Manure Spreading Inc.,/Person 1728 North Irma St. I Visalia CA  I 93292    I,Name Number and Street City Zip Code Phone Number,'s Parcel Number,Broker,,,,nan,_ _,,nan,to calculate the amount,2024AR_Gerben Leyendekker Dairy #1_8517 Ave 360_Tulare,1
+,,"/Person._ .O.'-'-\-'--'\'-"".l'dt----'--'-""'-..;..i..;""'-'-""----""~'-'-'-""'--""~--+----","/Person \'- •·-'--.1.--..J..£--'-.. .._._._-¥-1-1-!C~'-""--...._~.1""""-'""----c.....LNumber and Street",,'s Parcel Number,Broker,,,,nan,*JJiPt* Written Agreement,,nan,to calculate the amount,2024AR_Gerben Leyendekker Dairy #1_8517 Ave 360_Tulare,2
+**__J_ eSe 4** Cfctrvie.s Jori3s-m9-,9229 Road 164 Pixley CA 93256,/Person V\ \ I \ **'{v Y\I** 1 I **y'\(** -,/Person 1.?;0D½ [j(J(Ac I YO Tu\ <Are.._,CC'inS~d<iroToc. '23004 WC\n Iyo fubre Ci3'2.y Name Number and Street - City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,,,,,nan,,,nan,lhe amount.,2024AR_Jesse and James Jongsma Dairy_9229 Rd 164_Tulare,1
+D & V Dairy,15625 Avenue 144                    I TiptonCA    I 93272  I,/Person merritt Farms,/Person 11188 Road 192 I Porterville CA I 93257  I,Merritt Yard Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_D & V Dairy_15625 Ave 144_Tulare,1
+D & V Dairy,15625 Avenue 144                        I Tipton.CA   I 93272  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA   I 93272  I,Turning Leaf organics Compost Yard 14982 Road 152 Tipton CA 93272 (559) 467-8456,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_D & V Dairy_15625 Ave 144_Tulare,2
+D & V Dairy,Mailing Address                                          I 15625 Ave 144 Tipton CA 93272                 I                                           I  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA   I 93272  I,I Turning Leaf organics Compost Yard  I 14982 Road 152  I Tipton CA  I 93272  I (559) 467-8456  I,'s Parcel Number,,,,,nan,,,nan,to calculate the amount,2024AR_D & V Dairy_15625 Ave 144_Tulare,3
+,Mailing Address Telephone Number,,Turning Leaf Organics I Phone Number                        I                                           I    I,,,,,,,nan,,,nan,to determine amount of manure,2024AR_D & V Dairy_15625 Ave 144_Tulare,4
+D & V Dairy,15625 Avenue 144                        I TiptonCA   I 93272  I,/Person Turning Leaf Organics,/Person 14982 Road 152 I Tipton CA   I 93272  I,Jace VDH,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_D & V Dairy_15625 Ave 144_Tulare,5
+,Mailing Address Telephone Number MANURE INFORMATION Manure analyzed for nutrients? I Yesn                                        I No fi1                  I                                                                         I,,Turning Leaf Organics          I Phone Number                                    I                     I                                                                         I,,1201 Delta View Road,,,,,nan,,,nan,,2024AR_D & V Dairy_15625 Ave 144_Tulare,6
+,,/Person,/Person,hone Number Name Number and Street City Zip Code Number and Street,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Cream Top Dairy_13075 Ave 200_Tulare,1
+,,I       I   I,,,,,,,,nan,,,nan,amount,2024AR_Triple H Dairy #1_13255 Ave 212_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Middle Ranch Facility_13805 Ave 160_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Mellema West Dairy_9232 Ave 320_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Fern Oak Farms Dairy_17001 Ave 160_Tulare,1
@@ -478,6 +561,7 @@ Origin Dairy Name,Origin Dairy Address,Hauler Name,Hauler Address,Destination Na
 ,,,,,,,,,,nan,,,nan,,2024AR_Joe C Pires Jr Dairy_13806 Ave 152_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Ed Souza & Son Dairy_15390 Ave 244_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Lou-Mar Dairy_14870 Ave 152_Tulare,1
+,,/Person,/Person_,Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Deslination Address or Assessor's Parcel Number,,,,,,nan,,,nan,amount of manure,2024AR_Lawrence Family Farms Dairy_14760 Ave 208_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Mellema Dairy_9420 Ave 320_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_FM Ranch #3_1474 Hwy 99_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Faria Farms Inc. Dairy_13927 Rd 136_Tulare,1
@@ -501,7 +585,11 @@ Origin Dairy Name,Origin Dairy Address,Hauler Name,Hauler Address,Destination Na
 ,,,,,,,,,,nan,,,nan,,2024AR_Double M Jerseys_11595 Ave 164_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Pires Dairy_13464 Ave 152_Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_S&A Dairy_13243 Houston Ave_Kings,1
-,,,,,,,,,,nan,,,nan,,2024AR_Diamond D LLC Dairy_9423 Idaho Ave_Kings,1
+"_ J3;! - Llao'lc +'(( _._&~4a""""""'dlL.l..-_-1tf-4-__._.;L---------","_Lf_\\;_;~_..;.l-\-o.. ;..;\A\;...~;;.l){\; ..;Ai...;..""U\;;;\M..;; _ _ \.\;;.AA----""-~.;;.;;.<~.... 1 C A __ C.;_'1_2.'-'-~o_ Number and Street City Zip Code",/Person GJ! J ~-D''e.~ >~i'a+---~(_ .,/Person 3 ri A $6 ~~ (A q321J Number and Street City Zip Code Name.) ~ Phone Number -{.LLJ~efk5b--~------'-(...$S-l-J.2 )~;;2~ 8'{)c._---J--7. e/i__q __,,,,,,,nan,_ _,,nan,to calculate the amount,2024AR_Backroad Ranch #2_4119 Houston Ave_Kings,1
+River Ranch Dairy,6155 Jackson Ave.                               I Hanford   I 93230  I,/Person Luma Ag,/Person 1654 Oriole St. I Hanford   I 93230  I,I Luma Ag  I 1654 Oriole St.  I Hanford  I 93230  I       I,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_River Ranch Dairy_6155 Jackson Ave_Kings,1
+River Ranch Dairy,6155 Jackson Ave.               I Hanford    I 93230  I,/Person Tl Inc,/Person 13802 Avenue 352 I Visalia    I 93292  I,I--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I,,Broker,,,,nan,,,nan,to calculate the amount,2024AR_River Ranch Dairy_6155 Jackson Ave_Kings,2
+,,,,Contact Person,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount Manure Tons Manure Solids Content Method used to determine amount of manure Enter the amount of wastewater hauled in gallons and the method used to determine the amount Method used to determine volume of Wastewater Wastewater,2024AR_Contente & Co Ranch_5730 20th Ave_Kings,1
+,,I 93245    I   I,,,,,,,,nan,,,nan,amount,2024AR_Diamond D LLC Dairy_9423 Idaho Ave_Kings,1
 ,,,,,,,,,,nan,,,nan,,2024AR_MF Rosa Dairy_10090 2nd Ave_Kings,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Moonstone Dairy_1305 Iona Avenue_Kings,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Cunha Dairy #1_6680 16th Ave_Kings,1
@@ -510,7 +598,16 @@ Origin Dairy Name,Origin Dairy Address,Hauler Name,Hauler Address,Destination Na
 ,,,,,,,,,,nan,,,nan,,2024AR_Vitor Borba Dairy_7721 Flint Ave_Kings,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Bill Idsinga Dairy_4595 Houston Ave_Kings,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Vitor Borba Heifers,1
+\?Yi Ci\(\ **illl'\3S W)(A** Brian James Jongsma Dairy,_........A_v...e_1 _60 __ R_o_a...d_6_8 _ _ T__;ip_t_o_n_C_A _ ....9.3.2c.. 7.. 2 __ _,"/Person. -._V\ ....;...r I _ __ 1-l.l! '~'.'b~Y\'-""-..!.'....; '8.1-'cc..U'-'-""-----------","/Person 'l?i)D\..{ ~DO.~ 140 TU.\ Cti'""f _ Number and Sl'reet City 9'82..7Lf Zip Code",COiinfM.td<iQJTtk- 1.3004 ~O.<\ /40 fu\cAv-e C]?'2.7L/,,,,,,nan,,,nan,lhe amount.,2024AR_Brian James Jongsma Dairy_16026 Road 64_W Tulare,1
+Meadowlake Dai!}'.,6802 Avenue 120                                        I Tipton CA 93_272  I     I,/Person Gutierrez Spreading,/Person 3612 Ave 236                                  I Tulare. CA     I 93274  I,Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Meadowlake Dairy_6802 Avenue 120_W Tulare,1
+Meadowlake Dairy,6802 Avenue 120                                                          I TigtQn Qa 9J272  I     I,/Person Gutierrez Spreading,/Person 3612 Ave 236 I Tulare Ca 93274  I     I,Williams Family Dairy 6801 Avenue 120 Pixley CA 93256 559-752-7018 Name Number and Street City Zip Code Phone Number,'s Parcel Number Williams Family Dairy-Compost 6801 Avenue 120 Pixley CA 93256,Broker,,,,nan,,,nan,to calculate the amount,2024AR_Meadowlake Dairy_6802 Avenue 120_W Tulare,2
+Meadowlake Dai!}'.,6802 Avenue 120       I Tipton CA 93272  I     I,/Person Gutierrez Spreading,/Person 3612 Ave 236 I Tulare CA      I 93274  I,Williams Family Dairy 6801 Avenue 120 Pixie~. Ca 93256 559-752-7018 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,_,,nan,to calculate the amount,2024AR_Meadowlake Dairy_6802 Avenue 120_W Tulare,3
+--'-M'-'-e.c...a d..o .w....la.k.....e .D..ca iry.__                                      I __ _                           I     I,6802 Avenue 120                                                                                                        I Tipton CA                         I 93272  I,/Person._G . u....tie_rr_ez_S.....p_re_ad_in...g _                                                  I _                              I _ _   I,/Person_3_6_1_2_A_v_e_2_3_6 _                                                                                          I _ .T..u...la....re;_i_CA c......_ __ 93_2_7_4_ I     I,Williams Family Dairy 6801 Avenue 120 \>i C Cl J.S\_p 559-752-7018 Name Number and Street Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,_,,nan,te ealeulate the amount,2024AR_Meadowlake Dairy_6802 Avenue 120_W Tulare,4
 ,,,,,,,,,,nan,,,nan,,2024AR_DJ Dairy_4390 Avenue 352_W Tulare,1
+I St l ns...e.+                                                  I d g'rv   I           I       I         I,,/Person           I Gc11!ler~-z..                                                  I nrea_ I           I       I         I,/Person         I 3(;(J._                                                     I Ave.     I 1 d-3b        I vbn{.    I /;\ Cf 317--f I,vles± Caa~ aad,'s Parcel Number ?mte!a~Str8v~ ' ~q b 'JJSJ {Jg CftZiP.C~? 2 q ( A£~~/sp~~ubl Dates Hau led _ _- [-._---d---------+. -+----'- Lf-_- _l ---- 1 _·- - J ..L... '. -+----'--I o_--/---'-------~;_ 4 __ _ Amount Hauled I,Broker,,,,nan,& lJ r11)a (l(/r..e....--,,nan,to calculate the amount,2024Ar_Sunset Dairy_29049 Road 68_W Tulare,1
+Sun Valley Dairy,255 Road 128 Delano CA 93215,/Person Etchegaray Farms,/Person 32324 Famoso Rd Mc Farland CA 93250,Etchegaray Farms 32324 Famoso Rd Mc Farland CA 93250 (661) 393-0236 Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,_ _,,nan,to calculate the amount,2024AR_Sun Valley Dairy_255 Road 128_W Tulare,1
+Sun Valley Dairy,255 Road 128                                          I Delano CA     I 93215  I,dez,/Person 17899 S. Del Rey Ave. I Kingsburg CA 93631 I     I,Sierra Cal Ranch Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number,'s Parcel Number,Broker,,,,nan,_ _,,nan,to calculate the amount,2024AR_Sun Valley Dairy_255 Road 128_W Tulare,2
+Sun Valley Dairy,255 Road 128                                          I Delano CA     I 93215  I,dez,/Person 17899 S. Del Rey Ave. I Kingsburg CA 93631 I     I,Tipton Ranch Name Number and Street City Zip Code Phone Number,,Broker,,,,nan,_ _,,nan,to calculate the amount,2024AR_Sun Valley Dairy_255 Road 128_W Tulare,3
 ,,,,,,,,,,nan,,,nan,,2024AR_Jer-Z Boys Dairy #1_11001 Avenue 112_W Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Scalia Inc._21399 Road 76_W Tulare,1
 ,,,,,,,,,,nan,,,nan,,2024AR_Scalia Inc._7405 Avenue 216_W Tulare,1
