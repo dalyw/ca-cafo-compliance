@@ -31,7 +31,7 @@ MaiIing Address Number and Street City State Zip Code
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 1 of 52
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -54,7 +54,7 @@ This owner is responsibIe for paying permit fees.
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 2 of 52
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -88,7 +88,7 @@ Canal Surface water
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 3 of 52
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -112,7 +112,7 @@ DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 
 06/30/2024 085043 Page 4 of 52
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -150,7 +150,7 @@ FieId name FieId 1
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 5 of 52
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -181,7 +181,7 @@ Total actual harvest content 16.72 111.02 41.08 226.48 1,089.11
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 6 of 52
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -212,7 +212,7 @@ Total actual harvest content 27.57 239.02 59.34 298.36 1,262.66
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 7 of 52
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -244,7 +244,7 @@ Total actual harvest content 14.19 152.55 41.61 183.26 965.84
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 8 of 52
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -275,7 +275,7 @@ Total actual harvest content 22.80 129.51 50.19 280.07 895.24
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 9 of 52
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -291,7 +291,7 @@ Total actual harvest content 19.17 127.11 37.15 228.79 1,073.56
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 10 of 52
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -325,7 +325,7 @@ Crop Corn, siIage PIant date 06/01/2023
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 11 of 52
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -360,7 +360,7 @@ AppIication event totaIs 0.00 0.00 0.00 15.32
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 12 of 52
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -394,7 +394,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.67
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 13 of 52
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -427,7 +427,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.67
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 14 of 52
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -461,7 +461,7 @@ AppIication event totaIs 36.56 8.15 49.89 311.78
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 15 of 52
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -492,7 +492,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 16 of 52
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -527,7 +527,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 17 of 52
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -557,7 +557,7 @@ AppIication event totaIs 48.75 10.87 66.51 425.04
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 18 of 52
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -588,7 +588,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.67
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 19 of 52
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -622,7 +622,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 20 of 52
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -653,7 +653,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.99
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 21 of 52
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -688,7 +688,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.99
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 22 of 52
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -722,7 +722,7 @@ AppIication event totaIs 38.23 8.53 52.17 335.44
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 23 of 52
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -755,7 +755,7 @@ AppIication event totaIs 90.68 14.08 134.74 751.86
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 24 of 52
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -789,7 +789,7 @@ AppIication event totaIs 46.43 10.36 63.35 408.71
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 25 of 52
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -803,7 +803,7 @@ AppIication event totaIs 46.43 10.36 63.35 408.71
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 26 of 52
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ AppIied to removed ratio 1.32 1.03 1.24 1.38
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 27 of 52
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -875,7 +875,7 @@ AppIied to removed ratio 1.24 0.97 1.05 1.65
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 28 of 52
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -910,7 +910,7 @@ AppIied to removed ratio 1.20 0.69 0.76 1.01
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 29 of 52
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -943,7 +943,7 @@ AppIied to removed ratio 1.35 0.99 1.04 2.44
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 30 of 52
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -979,7 +979,7 @@ AppIied to removed ratio 1.29 0.73 0.77 1.33
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 31 of 52
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1012,7 +1012,7 @@ AppIied to removed ratio 1.25 1.64 1.45 5.88
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 32 of 52
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1046,7 +1046,7 @@ AppIied to removed ratio 1.23 1.00 1.19 1.30
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 33 of 52
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1080,7 +1080,7 @@ AppIied to removed ratio 1.33 0.93 1.37 1.86
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 34 of 52
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1116,7 +1116,7 @@ AppIied to removed ratio 1.38 1.09 1.51 1.81
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 35 of 52
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1149,7 +1149,7 @@ AppIied to removed ratio 1.34 0.74 0.95 1.65
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 36 of 52
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1182,7 +1182,7 @@ AppIied to removed ratio 1.28 1.91 1.68 8.37
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 37 of 52
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1218,7 +1218,7 @@ AppIied to removed ratio 1.27 0.52 0.72 1.46
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 38 of 52
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1254,7 +1254,7 @@ AppIied to removed ratio 1.21 0.84 0.83 1.13
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 39 of 52
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1287,7 +1287,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 40 of 52
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1317,7 +1317,7 @@ Barn
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 41 of 52
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1344,7 +1344,7 @@ FieId 1 - 11/01/2022 Wheat, siIage, boot stage
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 42 of 52
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1375,7 +1375,7 @@ DL 100.00 100.00 100.00 1.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 43 of 52
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1406,7 +1406,7 @@ DL 100.00 100.00 100.00 1.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 44 of 52
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1437,7 +1437,7 @@ DL 100.00 100.00 100.00 1.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 45 of 52
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1468,7 +1468,7 @@ DL 100.00 100.00 100.00 1.00
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 46 of 52
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1485,7 +1485,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 47 of 52
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1518,7 +1518,7 @@ N P K saIt
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 48 of 52
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1552,7 +1552,7 @@ lbs lbs
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 49 of 52
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1582,7 +1582,7 @@ wastewater that are new or were revised within the reporting period
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 50 of 52
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1608,7 +1608,7 @@ DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 
 06/30/2024 085043 Page 51 of 52
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annua Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1634,7 +1634,7 @@ DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 
 06/17/2024 074913 Page 52 of 52
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1658,7 +1658,7 @@ Storm Water Reporting Section on page MRP-14.
 DOUBLE N DAIRY 12700 EVERETT AVE HANFORD,CA, CA 93230 Kings County TuIare Basin
 06/30/2024 085043 Page 1 of 1
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 DoubIe N Dairy Account 00-0025805 Received 12/13/2023 700
 10044 FIint Ave Account Manager Ben Nydam Reported 12/18/2023 1446
@@ -1699,7 +1699,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 8
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 DoubIe N Dairy Account 00-0025805 Received 12/13/2023 700
 10044 FIint Ave Account Manager Ben Nydam Reported 12/18/2023 1446
@@ -1721,7 +1721,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 8
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 T
 a
@@ -1768,7 +1768,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 8
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 DoubIe N Dairy Account 00-0025805 Received 12/13/2023 700
 10044 FIint Ave Account Manager Ben Nydam Reported 12/18/2023 1446
@@ -1788,7 +1788,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 8
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 T
 a
@@ -1841,7 +1841,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 8
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 DoubIe N Dairy Account 00-0025805 Received 12/13/2023 700
 10044 FIint Ave Account Manager Ben Nydam Reported 12/18/2023 1446
@@ -1871,7 +1871,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 8
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 .
 12/13/23 07.00 2310719 No
@@ -1919,7 +1919,7 @@ Samp receivad in cooIer with ice
 Ann Paid ReB Check No. Date L 1Yes LyNo otcupdate 2020
 Page 7 of 8
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
                   12/13/23 07.00 23L0719
  Shipping Information Shipped Ino Picked-Upo WaIk In z Shipped Inca Picked-Upo WaIkinzf DLISampIero Othero
@@ -1949,7 +1949,7 @@ g ChIorite/Bromate - 250 mL AG with ED Mdewsinnm neg fT PT
 Wy THAAS - 250mL AG Ammonium Chiorite es ee eee eee
 ter TT Page 8 of 8
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 SELLAVALLE Report of Water AnaIysis
 LABORATORY INC Lab No. 23H1602

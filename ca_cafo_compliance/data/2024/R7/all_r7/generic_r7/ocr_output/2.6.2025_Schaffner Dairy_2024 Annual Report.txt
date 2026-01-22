@@ -28,7 +28,7 @@ a
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Ill. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -92,7 +92,7 @@ noncompliance.
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 VI. Certification of Preparation of Inspection Logs And Manifests
 El i certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -102,7 +102,7 @@ and is maintained at this facility.
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 &Y I certify that no composting occurs at this facility. (If box is checked, skip to Part C.)
@@ -134,7 +134,7 @@ O Check if analysis results are attached.
 If any storm water discharges from the composting operations were not analyzed for the required parameters, explain below-
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Document any erosion control or drainage problems and/or related maintenance.
 
@@ -193,7 +193,7 @@ c. Indicate the reporting units (i.e., mg/L, mg/kg, Ib/ton, or Ib/1,000 gallons)
 
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Report the results of the most recent soil nutrient analyses used in caiculating nutrient application rates for the
 crops harvested during the reporting year. If soil is not analyzed for nitrogen, report the calculated amount of plant
@@ -217,7 +217,7 @@ g. Indicate the calculated amount of plant available nitrogen in the soil, if so
 calculating nutrient application rates.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 IV. Crop Growing Activity and Land Application .
 For each field where manure, litter, or wastewater was applied, report the actual crops grown in each field, the actual yield achieved, the amount of
@@ -237,7 +237,7 @@ ot a a
 ee ee ee Tons Tons Gailons Tons Tons Gallons
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 visu Planned Manure to be Applied Actual Manure Applied .
 
@@ -261,7 +261,7 @@ g. If Other is selected, write in the type of manure, litter, or wastewater to b
 
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 For each field where manure, litter, or wastewater was applied, report the spreadable acres and the amount of total nitrogen and phosphorus applied per
 acre from commercial fertilizer during the 12-month reporting period. Attach additional sheets if needed.
@@ -279,7 +279,7 @@ pT pettere oar
 a. List all tields where manure, litter, or process wastewater was applied during the reporting period. The field ID should correspond to those used in the
 Attachment G Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the results of quarterly groundwater monitoring conducted in accordance with the CAFOs

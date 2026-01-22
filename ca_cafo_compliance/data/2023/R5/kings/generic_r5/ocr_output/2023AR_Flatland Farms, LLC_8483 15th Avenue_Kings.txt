@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 1 of 23
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ Canal Surface water
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 2 of 23
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -85,7 +85,7 @@ Total exports for aIl materiaIs 149,960.49 52,051.51 213,068.79 39,386.31
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 08.2557 Page 3 of 23
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -118,7 +118,7 @@ Total actual harvest content 30.00 222.00 24.00 102.00 646.98
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 4 of 23
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -141,7 +141,7 @@ Total actual harvest content 31.00 198.40 24.80 93.00 672.39
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 5 of 23
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -175,7 +175,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 6 of 23
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -207,7 +207,7 @@ AppIication event totaIs 74.69 21.88 107.12 883.89
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 08.2557 Page 7 of 23
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -238,7 +238,7 @@ AppIication event totaIs 104.23 17.32 125.69 862.40
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 08.2557 Page 8 of 23
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -274,7 +274,7 @@ AppIied to removed ratio 1.23 1.09 0.84 0.99
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 9 of 23
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -308,7 +308,7 @@ AppIied to removed ratio 1.16 1.49 3.14 3.06
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 10 of 23
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -342,7 +342,7 @@ AppIied to removed ratio 1.24 1.15 0.80 0.94
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 11 of 23
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -377,7 +377,7 @@ AppIied to removed ratio 1.30 1.44 3.44 2.92
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 12 of 23
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -411,7 +411,7 @@ B. PROCESS WASTEWATER ANALYSES
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 13 of 23
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -446,7 +446,7 @@ DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 14 of 23
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -478,7 +478,7 @@ Canal
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 15 of 23
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -509,7 +509,7 @@ DL 1.10
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 16 of 23
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -540,7 +540,7 @@ DL 0.10 0.10 0.10 0.01
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 17 of 23
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -565,7 +565,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 18 of 23
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -599,7 +599,7 @@ N P K saIt
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 19 of 23
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -632,7 +632,7 @@ lbs lbs
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 20 of 23
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -662,7 +662,7 @@ wastewater that are new or were revised within the reporting period
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 21 of 23
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -693,7 +693,7 @@ be sampIed again when operabIe.
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 08.2557 Page 22 of 23
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -715,7 +715,7 @@ FIatIand Farms 8431 15th AVE Hanfard, CA 93230 Kings County TuIare Basin
 
 11/46/2023 1031119 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 23
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -739,7 +739,7 @@ Storm Water Reporting Section on page MRP-14.
 FIatIand Farms 8431 15th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/17/2024 082557 Page 1 of 1
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 0821
@@ -781,7 +781,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 8
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 FIatIand Farms LLC Account4 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 0821
@@ -804,7 +804,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 8
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 T
 a
@@ -857,7 +857,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 8
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 0821
@@ -888,7 +888,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 8
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 T
 a
@@ -931,7 +931,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 8
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 0821
@@ -958,7 +958,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 8
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 05/18/23 07.18 22E1600
 DELLAVALLE LABORATORY, INC.
@@ -1007,7 +1007,7 @@ SampIe received in cooIer with ice
 Amt Paid Rec By Check No Date 1 (Yes 1 No ett upabate 202
 Page 7 of 8
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
             ULL _
 05/18/23 07.18 23E1600 ey
@@ -1037,7 +1037,7 @@ others C(is(CimRSCSESCCOUCTCOUT TC
 q
                                                         Page 8 of 8 ,
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 08716
@@ -1081,7 +1081,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 13
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 SELLAVALLE
 
@@ -1120,7 +1120,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 SELLAVALLE
 
@@ -1160,7 +1160,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 SELLAVALLE
 
@@ -1200,7 +1200,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 a
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 718
@@ -1245,7 +1245,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 13
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -1301,7 +1301,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 a
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 718
@@ -1348,7 +1348,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 13
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 T
 a
@@ -1404,7 +1404,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 13
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 08716
@@ -1426,7 +1426,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 13
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 a
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 718
@@ -1462,7 +1462,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 13
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 05/18/2023 7.18
 3275 8th Ave Account Manager Ben Nydam Reported 06/06/2023 0816
@@ -1489,7 +1489,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 11 of 13
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 05/18/23 07.18 22E1601
 
@@ -1532,7 +1532,7 @@ others CT
 
 Page 12 of 13
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Saas Ge TERRE od i ica en ge
 05/18/23 07.18 23E1601
@@ -1566,7 +1566,7 @@ ee
 7 ae SeaIe
 ee (nee ns un as uf Page 13 of 13
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 08/08/2023 729
 3275 8th Ave Account Manager Ben Nydam Reported 08/17/2023 1005
@@ -1609,7 +1609,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 SELLAVALLE
 
@@ -1652,7 +1652,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 T
 a
@@ -1705,7 +1705,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 08/08/2023 729
 3275 8th Ave Account Manager Ben Nydam Reported 08/17/2023 1005
@@ -1744,7 +1744,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 T
 a
@@ -1797,7 +1797,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 08/08/2023 729
 
@@ -1833,7 +1833,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 T
 a
@@ -1869,7 +1869,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 T
 a
@@ -1924,7 +1924,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 FIatIand Farms LLC Account 00-0021359 Received 08/08/2023 729
 3275 8th Ave Account Manager Ben Nydam Reported 08/17/2023 1005
@@ -1945,7 +1945,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -2001,7 +2001,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 a
 FIatIand Farms LLC Account 00-0021359 Received 08/08/2023 729
@@ -2047,7 +2047,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 T
 a
@@ -2077,7 +2077,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 08/08/23 0729 220789 ,
 DELLAVALLE LABORATORY, INC.
@@ -2124,7 +2124,7 @@ Correction Factor 0C
 CaIibration Due 9/26/2023
 Location Laboratory
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 08/08/23 0729 220789
 i otconantn Rett Pp ET
@@ -2163,7 +2163,7 @@ JHAAS-250mL AG AmmoniumChiorte 7 J J J
 ook (ts(CiiYSCSdTSTSCdYSSCT SCT CT
 jothes i((SNCUCrTCUrTTCLCUdTTCLCUdTCLCLCUE CU CE
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -2206,7 +2206,7 @@ Manure Tons or Cubic Yards (indicate which units used)
 Manure SoIids Content (if amount reported in tons)
 Manure Density (if amount reported in cubic yards)_
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Attachment D D-2
 Waste Discharge Requirements General Order No. R5-2007-0035 .
@@ -2240,7 +2240,7 @@ imprisonment for knowing vioIations.
 Operators Signature- Maren Vaw Pup Date 3/5/24
 Hauters Signature os Lop 2. Duarte Date 3/9/24
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -2283,7 +2283,7 @@ Manure Tons or Cubic Yards (indicate which units used)
 Manure SoIids Content (if amount reported in tons)-
 Manure Density (if amount reported in cubic yards)
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Attachment D , D-2
 Waste Discharge Requirements General Order No. R5-2007-0035
@@ -2315,7 +2315,7 @@ imprisonment for knowing vioIations.
 Operators Signature- Maron Van Dye Date- 1/16/24
 HauIers Signature _zz40 Bettencoar Date 1/16/24
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -2358,7 +2358,7 @@ Manure __4500 CTond or Cubic Yards (indicate which units used) .
 Manure SoIids Content (if amount reported in tons)- 85,
 Manure Density (if amount reported in cubic yards)
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Attachment D D-2
 Waste Discharge Requirements General Order No. R5-2007-0035

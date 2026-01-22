@@ -26,7 +26,7 @@ a
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 ill, Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -76,7 +76,7 @@ An certify that a Water Line Inspections Log has been prepared for and is mainta
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 PART B COMPOSTING INVENTORY
 LX. I certity that no composting occurs at this facility. (if box is checked, skip to Part C.)
@@ -110,7 +110,7 @@ O Check if analysis results are attached.
 if any storm water discharges from the composting operations were not analyzed for the required parameters, explain below
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 IV. Operation and Maintenance
 Document any erosion control or drainage problems and/or related maintenance
@@ -145,7 +145,7 @@ OC Barley CJ Bermuda grass (1) Corn
 Cothers. a
 Attachment G - Annual Report
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART D - CERTIFICATION
  certify under penalty of law that this document and ail attachments were prepared under my direct supervision in
@@ -164,7 +164,7 @@ Colorado River Basin Region
 Palm Desert, CA. 92260
 Attachment G - Annuai Report
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Manure Tracking Manifest
 Colorado Regional Water Quality Control Board

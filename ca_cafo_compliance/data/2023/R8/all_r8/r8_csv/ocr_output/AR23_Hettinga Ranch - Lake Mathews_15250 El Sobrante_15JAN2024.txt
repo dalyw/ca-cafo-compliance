@@ -31,7 +31,7 @@ TitIe
 Signature
 Date_
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -68,7 +68,7 @@ Was Manure Amount CaicuIated Using the FoIlowing Factors Yes oO No)
 1 CaIf produces approximateIy 0.6 tons of manure per year
 1 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3 .
@@ -100,7 +100,7 @@ Signature _
 Date 1
 Titte-
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 po Paes 3 re
 po een Wee ead be tcesrondl 1 Page 1 of 4 NPDES Permit No. CAGO18001

@@ -35,7 +35,7 @@ Paul Cameron
 
 Owner
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 CaIifornia Regional Water QuaIity Control Board
 CoIorado River Basin Region (R-7)
@@ -63,7 +63,7 @@ Otier Cail 37000
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Il. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -127,7 +127,7 @@ noncompIiance.
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Vil. Certification of Preparation of Inspection Logs And Manifests
 kl I certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -137,7 +137,7 @@ EJ I certify that a Manure Tracking Manifest has been prepared for each manure h
 have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART B - COMPOSTING INVENTORY
 0 __ Icertify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -172,7 +172,7 @@ O Check if anaIysis resuIts are attached.
 If any storm water discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Document any erosion control or drainage probIems and/or reIated maintenance
 
@@ -217,7 +217,7 @@ b. Indicate the date of the sampIe resuIts reported.
 c. Indicate the reporting units (i.e., mg/L, mg/kg, Ib/ton, or Ib/1,000 gaIlons).
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Report the resuIts of the most recent soil nutrient anaIyses used in caIcuIating nutrient appIication rates for the
 crops harvested during the reporting year. If soil is not anaIyzed for nitrogen, report the caIcuIated amount of pIant
@@ -238,7 +238,7 @@ g. Indicate the caIcuIated amount of pIant avaiIabIe nitrogen in the soil, if so
 caIcuIating nutrient appIication rates.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId achieved, the amount of
@@ -248,7 +248,7 @@ YieId PIanned Manure to be AppIied Actual Manure AppIied
 FieId ID Crop(s) Grown Yietd enc, , a,
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Vietd PIanned Manure to be AppIied Actual Manure AppIied
 Fietd 1D Crop(s) Grown YieId po Ss . .
@@ -264,7 +264,7 @@ f. Report the actual amount of manure, litter, or wastewater appIied.
 g. If Other is seIected, write in the type of manure, litter, or wastewater to be appIied.
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total nitrogen and phosphorus appIied per
 
@@ -285,7 +285,7 @@ a Yd
 approved NMP.
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the CAFOs
@@ -313,7 +313,7 @@ CoIorado River Basin Region
 PaIm Desert, CA. 92260
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Mesquite CattIe Feeders Account 00-0016752 Received 01/03/2024 1045
 PO Box 1025 Account Manager House Reported 01/08/2024 08117
@@ -336,7 +336,7 @@ Party interpretation,
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 959-233-6128 www.deIlavaIieIab.com
 Page 1 of 10
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 SELLAVALLE
 
@@ -400,7 +400,7 @@ AIf resuits listed in this repost are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaiIetab.com
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Mesquite CattIe Feeders Account 00-0016752 Received 01/03/2024 1045
 PO Box 1025 Account Manager House Reported 01/08/2024 0817
@@ -428,7 +428,7 @@ party interpretation.
 1910 W. McKintey Ave Suite 110 Fresno, CA 93726 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 10
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -487,7 +487,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 10
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -546,7 +546,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 59-233-6129 www.deIlavatieIab.com
 Page 5 of 10
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 7
 Mesquite CattIe Feeders AccountH 00-0016752 ReceIved 01/03/2024 10345
@@ -600,7 +600,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavatieIab.com
 Page 6 of 10
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Mesquite CattIe Feeders Account 00-0016752 ReceIved 01/03/2024 1045
 PO Box 1025 Account Manager House Reported 01/08/2024 0817
@@ -626,7 +626,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 99-233-6129 www.deIlavaIieIab.com
 Page 7 of 10
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 T
 B .

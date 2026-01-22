@@ -15,7 +15,7 @@ Pe
 GEO Tracker Confirmation 4 Date
 Livingston Dairy ConsuIting, inc. 1635 E, Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -40,7 +40,7 @@ CeIl Phone Number 559-288-2721
    X creck if any information has changed
 Uvingston Dairy ConsuIting, Inc, 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
             Bred-HeIfers).. HeIfers 3 . CaIves _
@@ -67,7 +67,7 @@ generated for storage period gal/Storage Period
  Waste Management Report
 Livingston DaIry ConsuIting, Inc. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 
@@ -90,7 +90,7 @@ eee S
 
 Livingston Dairy ConsuIting, inc, 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 . ERE (es 10 GBR Ss Ee
@@ -101,7 +101,7 @@ OEE ee...
  canal TE CiCSOCOCONTCSCOrs(NYCNNYYWCWCSCCRYCS
 Livingston Dairy CansuIting, Inc, 1635 E. Prosperity Ave. Ste. 8, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 WINTER PLANT FiSSUEANALYSISynecomeamuneceImed inn seu
 p_ataces other asi oaz 309 - bevaIue-Pistach
@@ -127,7 +127,7 @@ VaIley Tech 0.104 0.054 0.01 0.01 0.05
 DeIlavaIle 0.001 0.014 0.01 0.003 0.001
 Livingston Dairy ConsuIting, Inc. 1635 E, Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
  ST SSUMIMERPLRNETTESU EANALYS a ReroumauneccueIIeE sr cr
 is eS ae dO ee creep
@@ -152,7 +152,7 @@ DeIlavaIle 0.001 0.014 0.019 0.003 0.001
 
 Livingston DaIry ConsuIting, inc. 1635 E, Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 prt ow Pontos ong Sane eine eh Meee eae neo seal eee
@@ -175,7 +175,7 @@ DetectabIe Limits VaIley Tech 0.10 0.05 0.01 0.01 0.05
 DeIlavaIle 0.001 0.01 0.014 0.003 0.001
 Livingston Dairy ConsuIting, Inc. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Summer Crops & Harvest
 
@@ -202,7 +202,7 @@ DetectabIe Limits VaIley Tech 0.10 0.05 0.014 0.014 0.05
 DeIlavaIle 0.001 0.014 0.014 0.003 0.0014
 Livingston DaIry ConsuIting, Inc. 1635 E. Prosperity Ave, Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 .
 WeIl / Canal AnaIysis
@@ -251,7 +251,7 @@ VaIley Tech 0.1 1 NR NR NR NR NR NR NR NR NR NR
 
 Livingston Dairy ConsuIting, inc. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 
@@ -272,7 +272,7 @@ DeIlaVaiIe 0.1 0.1 44 0.2 0.0015 0,0001
 
 Livingston Dairy ConsuIting, inc. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 
@@ -298,7 +298,7 @@ DeIlaVaIle 0.1 0.1 1.1 0.2 0.0015 0.0001
 
 Livingston Dairy ConsuIting, Ine. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -316,7 +316,7 @@ a ee enn eae ABDIISC SREY PPR NN Ries OME ME OES TS ee
 
 Livingston Dairy ConsuIting, Inc. 1635 E. Prosperity Ave. Ste. 8, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -343,7 +343,7 @@ DeIfavatIe 0.014 0.01 0.003 0.001 0.001 0.001 0.001 0.000 0.001 0,001
 
 Uvingston Dairy Consuiting, inc. 1635 E. Prosperity Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 
@@ -414,7 +414,7 @@ a SS SS ES a GS
 
 Livingston Dairy ConsuIting, Inc. 1635 E. Prosperity Ave. Ste, 6, TuIare, Ca 93274559-687-1440,
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FieId 1 TREES Acres 23
 2500.0
@@ -456,7 +456,7 @@ Atm. Depos. AN/A N/A
 5. Harvest N/A aN/A T/A HN/A HN/A AN/A
 Livingston DaIry ConsuIting, inc. 1635 E. Prospertty Ave. Ste. B, TuIare, Ca 93274559-687-1440
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 2
 Os
@@ -553,7 +553,7 @@ id eIs & .
 22s
 i
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 wa
 g
@@ -653,7 +653,7 @@ ba 5 ry
 g g a
 a
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 gE
 
@@ -684,11 +684,11 @@ er gs gi
 
 Sas sf 8
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 NN. B/ Livingston Dairy ConsuIting, Inc.
 FIELD ACTIVITY REPORT
@@ -710,11 +710,11 @@ IN a a
 SampIe Preservation Method (ice one) Ice Chest _ Refrigerator Ice Pack
 YW Livingston Dairy ContuIing, Inc. 2020
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 ENVIRONMENTAL AGRICULTURAL
 AnaIytical Chemists
@@ -758,7 +758,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (630)343-5818 TEL (806)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)763-2912 FAX (559)734-8435,
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Gertification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -796,7 +796,7 @@ Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (200)942-0423 FAX (530)343-3807
 
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 a
 FGL
@@ -850,7 +850,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)943-5619 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (569)734-8435
 CA ELAP Centification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 bl 2
 Q Py -e
@@ -935,7 +935,7 @@ Ss 2 8 8 g & in Zz i
 Boy S E ry E g g g E 4 as baal nf fin i E
 Oo Boe & 614 & 6 3 az Fe)
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 , FGL Environmental Doe ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -1026,11 +1026,11 @@ contacts) mde 02/02/2023 123757
 
     rei
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 _T .
 ENVIRONMENTAL 2 AGRICULTURAL
@@ -1077,7 +1077,7 @@ TEL (805)392-2000 TEL. (209)942-0182 TEL. (530)343-5818 TEL (805)783-2940 TEL (5
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (559)734-9435
 CA ELAP Cantification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1112,7 +1112,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (590)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063. FAX (209)942-0423 FAX (630)943-3807 FAX (805)783-2912 FAX (559)734-8435,
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1160,7 +1160,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5819 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 /Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 GA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 o
 fay . . 2 2
@@ -1254,7 +1254,7 @@ Pa 4 3) 2 a 2 -4 os Bare
         rs 7 3
 cf fS8fe5/h 8/4) 52 oIeleIefe-fIofe ls
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DO6C
 Revision Date 10/09/14 Page 1 of 1
@@ -1305,5 +1305,5 @@ ProbIem aah a In,
 lease . the back of this sheet for additional co. iv 07/20/2023 14227218
 . (MA
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 

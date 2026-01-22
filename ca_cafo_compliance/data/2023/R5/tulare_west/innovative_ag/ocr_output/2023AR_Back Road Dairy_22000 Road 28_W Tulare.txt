@@ -18,7 +18,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Backroad Ranch 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -48,7 +48,7 @@ _ Yes. Number of discharges occurred (see Attachment H).
 a INNOVATIVE 4G services
 Page 1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Backroad Ranch 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -104,7 +104,7 @@ constituent concentrations, and detection limits (see Attachment E).
 BBR INNOVATIVE 4c services
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Backroad Ranch 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -139,7 +139,7 @@ ___ It was not possible to collect any of the required samples or perform visual
  INNOVATIVE Ac Services
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 DecuSign Envelope ID 065E4279-AA73-4358-9F40-AA0C8ESC08B1
 Backroad Ranch 2023
@@ -158,7 +158,7 @@ Title and Date Title and Date
 BBB INNOVATIVE nc services
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Backroad Ranch 2023
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -187,7 +187,7 @@ an
 wastewater transferred offsite (Attachment C).
 ZA NNOVATIVE ac seavices
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -215,7 +215,7 @@ Season Nitrogen Ratio 1.32 Lbs Per Acre 484 96 555 5,102 367
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -242,7 +242,7 @@ Season Nitrogen Ratio 0.28 Lbs Per Acre 165 0 0 3,644 585
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -271,7 +271,7 @@ BBR INNOVATIVE ac seavices
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -299,7 +299,7 @@ BBP INNOVATIVE ac services
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -325,7 +325,7 @@ BBP INNOVATIVE ac services
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -353,7 +353,7 @@ BBB INNOVATIVE ac services
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -386,7 +386,7 @@ Season Nitrogen Ratio 1.24 Lbs Per Acre 368 62 280 3,384 297
  INNOVATIVE 4c services
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -412,7 +412,7 @@ Season Nitrogen Ratio 1.39 Lbs Per Acre 308 25 221 3,075 221
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -440,7 +440,7 @@ Season Nitrogen Ratio 1.38 Lbs Per Acre 319 52 216 3,098 231
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -467,7 +467,7 @@ BBB NNOVATIVE nc services
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -494,7 +494,7 @@ BBB INNOVATIVE oc services
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -522,7 +522,7 @@ Season Nitrogen Ratio 0.49 Lbs Per Acre 165 0 0 3,644 339
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -550,7 +550,7 @@ Season Nitrogen Ratio 1.04 Lbs Per Acre 407 98 347 3,637 391
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -574,7 +574,7 @@ Season Nitrogen Ratlo 1.36 Lbs Per Acre 322 27 236 3,170 237
 in NOVATIVE AG SERVICES
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -602,7 +602,7 @@ BBB INNOVATIVE nc services
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -629,7 +629,7 @@ BBR NNOVATIVE ac services
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -656,7 +656,7 @@ Y INNOVATIVE 4c SERvicEes
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -683,7 +683,7 @@ Season Nitrogen Ratio 1.09 Lbs Per Acre 325 27 239 3,203 297
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -711,7 +711,7 @@ Season Nitrogen Ratio 1.37 Lbs Per Acre 347 58 228 3,273 254
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -738,7 +738,7 @@ BB INNOVATIVE ac services
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -766,7 +766,7 @@ Season Nitrogen Ratio 1.40 Lbs Per Acre, 348 58 226 3,320 248
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -792,7 +792,7 @@ Season Nitrogen Ratio 0.83 Lbs Per Acre 263 17 128 2,133 316
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -820,7 +820,7 @@ L INNOVATIVE 4c services
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -843,7 +843,7 @@ and harvest events.
  INNOVATIVE 4c Services
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Backroad Ranch 2023
 Nutrient Applications (Attachment B)
@@ -874,7 +874,7 @@ If Application Units - Gallons, Then Lbs Applied per Acre Application Amount (pe
  INNOVATIVE Asc services
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Backroad Ranch 2023
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -901,7 +901,7 @@ BBB INNOVATIVE ac services
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Backroad Ranch 2023
 Land Application Area Description Technical Report (Attachment D)
@@ -921,7 +921,7 @@ Production Area APN(s) x155 x190 x001 2000, x15 x200 x002 sax
  INNOVATIVE 4c services
 Page 32
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Backroad Ranch 2023
 Lab Results Summary (Attachment E)
@@ -973,7 +973,7 @@ a
 
 Page 33
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Backroad Ranch 2023
 Lab Results Summary (Attachment E)
@@ -1002,7 +1002,7 @@ BR13 2 Com 10/13/2023 24.40 4.48 22.60 66.20 6.01
 Lf NNOVATIVE ac services
 Page 34
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Backroad Ranch 2023
 Lab Results Summary (Attachment E)
@@ -1040,7 +1040,7 @@ Y INNOVATIVE ac services
 
 Page 35
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Backroad Ranch 2023
 Lab Results Summary (Attachment E)
@@ -1067,7 +1067,7 @@ a
  INNOVATIVE 4c Services
 Page 36
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Backroad Ranch 2023
 Planting and Harvest Information (Attachment F)
@@ -1099,7 +1099,7 @@ I
 BBR INNOVATIVE ac services
 Page 37
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Backroad Ranch 2023
 Planting and Harvest Information (Attachment F)
@@ -1123,7 +1123,7 @@ i
  INNOVATIVE 4c services
 Page 38
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Backroad Ranch 2023
 Weather Data (Attachment G)
@@ -1145,7 +1145,7 @@ Note SWP Standing Water Present
 BB nnovative AG SERVICES
 Page 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 nN
 ENVIRONMENTAL 222 AGRICULTURAL
@@ -1192,7 +1192,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (805)525-4172 /Ag FAX (805)392-2083 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (588)734-8435
 GAELAP Certification No. 1873 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1227,7 +1227,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (859
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (889)734-8435
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1283,7 +1283,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (630)343-5818 TEL (805)783-2940 TEL (558
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (558)734-8435,
 CAELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CA ELAP Cerilfication No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 . . 0
 mm // Laboratory Analysis Work Order N 41212
@@ -1336,7 +1336,7 @@ Ne )
 Logged In By __( 3h Total Samples, 4) Laboratory HAGA W
 S oY) V _/7 THE PROCTER INC, 559-992-5127
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1384,7 +1384,7 @@ TEL (808)382-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)789-2040 TEL (589
 Env FAX (805)525-4172 / Ag FAX (805)392-2083 FAX (208)942-0423 FAX (530)343-3807 FAX (808)783-2012 FAX (559)734-8435
 CAELAP Certification No. 1873 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certlfication No. 2810
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1420,7 +1420,7 @@ TEL (605)392-2000 TEL (209)842-0182 TEL (530)343-5618 TEL (605)783-2040 TEL (589
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (208)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (550)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Laan
 ENVIRONMENTAL AGRICULTURAL
@@ -1456,7 +1456,7 @@ TEL (805)382-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (859
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2812 FAX (589)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 MIM
 ENVIRONMENTAL 2 AGRICULTURAL
@@ -1519,7 +1519,7 @@ TEL (805)302-2000 TEL (209)9842-0182 TEL (630)343-5818 TEL (805)783-2040 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)763-2812 FAX (558)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Eee . 1o
 _A4f _Laboratory Analysis Work Order N 41365
@@ -1581,7 +1581,7 @@ LABORATORY USE ONLY SA AF). AY, ), Y if
 Logged In By ath Total Samples QV Yaboratory OD) WAS
                                                         YY Cu mv TERRIA TS ETE
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -1628,7 +1628,7 @@ TEL (805)302-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (859
 Env FAX (805)525-4172 / Ag FAX (808)392-2063 FAX (208)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No, 1873 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -1664,7 +1664,7 @@ TEL (805)392-2000 TEL (209)842-0162 TEL (530)343-5818 TEL (805)783-2940 TEL (858
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 (Bz
 ENVIRONMENTAL AGRICULTURAL
@@ -1722,7 +1722,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-8818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)382-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (550)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 aa . ()
 mm // Ai Laboratory Analysis Work Order N 41633
@@ -1773,7 +1773,7 @@ LABORATORY USE ONLY Cy F
 Logged In By ___) _ Total Samples . Ds AEgoretory
 Cos Wwe (0/20/23 10 J THE PRSTTER ING, - 89-992-9127
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 Analytical Chemists
@@ -1830,7 +1830,7 @@ Env FAX (805)525-4172 /Ag FAX (806)392-2063 FAX (209)842-0423 FAX (530)343-3807 
 
 CAELAP Certification No, 1878 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1861,7 +1861,7 @@ TEL (805)382-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (808)783-2940 TEL (559
 Env FAX (605)525-4172 / Ag FAX (805)392-2063 FAX (208)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1873 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 POL
 ENVIRONMENTAL AGRICULTURAL
@@ -1899,7 +1899,7 @@ TEL (805)392-2000 TEL (209)942-0162 TEL (630)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (605)783-2912 FAX (559)734-B435
 CA ELAP Certificatian No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 ara ry oO
   Laboratory Analysis Work Order Ne 42185

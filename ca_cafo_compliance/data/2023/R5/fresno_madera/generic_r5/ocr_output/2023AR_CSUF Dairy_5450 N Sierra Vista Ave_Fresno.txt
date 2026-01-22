@@ -40,7 +40,7 @@ C. OWNERS
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 1 of 34
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -58,7 +58,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 2 of 34
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -100,7 +100,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 3 of 34
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -117,7 +117,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 4 of 34
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -179,7 +179,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 Page 5 of 34
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 B1
@@ -217,7 +217,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 6 of 34
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 B3
@@ -255,7 +255,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 7 of 34
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -292,7 +292,7 @@ Application event totals 1.85 0.00 0.00 117.42
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 8 of 34
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -495,7 +495,7 @@ Salt (Ibs/acre) Amount
 
 Page 9 of 34
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -704,7 +704,7 @@ Salt (Ibs/acre) Amount
 
 Page 10 of 34
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -743,7 +743,7 @@ Application event totals 1.12 0.00 0.00 70.71
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 11 of 34
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -781,7 +781,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 12 of 34
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -952,7 +952,7 @@ Salt (Ibs/acre) Amount
 
 Page 13 of 34
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1108,7 +1108,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 14 of 34
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 B4 - 11/15/2022: Wheat, silage, soft dough
@@ -1212,7 +1212,7 @@ Salt (Ibs/acre) Amount
 
 Page 15 of 34
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1242,7 +1242,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 16 of 34
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1286,7 +1286,7 @@ Plant date: 01/24/2023
 
 Page 17 of 34
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1323,7 +1323,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 18 of 34
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1359,7 +1359,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 19 of 34
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1396,7 +1396,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 20 of 34
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1480,7 +1480,7 @@ Plant date: 05/12/2023
 
 Page 21 of 34
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1517,7 +1517,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 22 of 34
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1553,7 +1553,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 23 of 34
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1595,7 +1595,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 24 of 34
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1628,7 +1628,7 @@ Canal 1
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 25 of 34
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Canal 1
@@ -1666,7 +1666,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 26 of 34
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 B1 - 11/15/2022: Wheat, silage, soft dough
@@ -1719,7 +1719,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 Page 27 of 34
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 B3 - 05/12/2023: Corn, silage
@@ -1773,7 +1773,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 Page 28 of 34
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -1784,7 +1784,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 29 of 34
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1822,7 +1822,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 30 of 34
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1892,7 +1892,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 Page 31 of 34
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1938,7 +1938,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 32 of 34
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1956,7 +1956,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 33 of 34
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -1977,7 +1977,7 @@ DATE DATE
 CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno County | Tulare Basin
 07/01/2024 12:34:49 Page 34 of 34
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2012,7 +2012,7 @@ CSUF Ag Foundation Dairy | 5450 N Sierra Vista AVE | Fresno, CA 93740 | Fresno C
 
 07/01/2024 12:34:49 Page 1 of 1
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 1101 eBed LL:2S:7b vZ02/61/90
 
 ujseg auein, | Ajunod ousel4 | 0286 VO ‘oUsel4 | FAV EISIA BLAIS N OSHS | Aeq UoNepunoy By 4NSO
@@ -2053,7 +2053,7 @@ SLNAWHOVLLY
 $£00-200Z-SY “ON Jepio jeseuey - Lodey jenuuy
 
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 pe jo | abe LLitG-vl 7eOc/6L/90
 
 ulseg eueiny | Ajunog ouse, | OpZE6 VO ‘ouser | FAV eISIA BUEIS N OSHS | Auleq UonepuNoy By INSO
@@ -2100,7 +2100,7 @@ NOILLWAMOSNI ALIMOWS AYIVd
 $€00-200Z-SUY “ON Japic [esousg - yodey jenuuy
 
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 ve JO Z aed LE:ZS:7 lb ¥ZOZ/EL/90
 ulseg eueiny | AjunoD ousel4 | OvZE6 VO ‘ousel4 | FAV BISIA BUAIS N OSHS | Aleq Uonepuno By 4NSO
 *saay luad Bulhed 104 ajqisuodsay si 4aUMO SIU
@@ -2121,7 +2121,7 @@ $€00-200Z-GU “ON 4epso |e18Ued - Hodey jenuuy
 ousal ‘AYSIOAIUN O}e}S BIUJOJeD Jo uoWepunoy By
 
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 pe jog bed
 
 poued Buyodal sad sqj LY 7LL'LS
@@ -2233,7 +2233,7 @@ SMOD HIN
 NOLLVAOANI GaaH ‘V
 
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ve jo p abed LL‘ZS:7L VZO7/6L/90
 
 ulseg asein| | AyuNod ousery | OFZE6 WO ‘Ouse! | SAV EISIA BLAIS N OSPS | Ale uoHepuNoy By 4NSO
@@ -2253,7 +2253,7 @@ SLYOdWI LNAINLOAN 4
 §$£00-2002Z-SH “ON J8piC je19uey - Woday jenuuy
 
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ye Jog abe LEZS7b pZOT/6L/90
 ulseg arein | Ajunop ousedy | OFZE6 WO ‘ouseJ4 | SAV BISIA BLISIS N OSHS | Aleq UoWepunoy By 4NSO
 
@@ -2296,7 +2296,7 @@ Vauv NOILWONddv
 $€00-200Z-SY ‘ON JepsO Jes98Ue5 - Wodey jenuuy
 
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 ve jo 9 abeg
 
 LE:2S:7b 7207/61/90
@@ -2365,7 +2365,7 @@ td
 $£00-2002-S4 “ON 49psQ jes0U2N - Woday jenuuy
 
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 ve Jo 2 abeg LL:@S:7L PZOZ/EL/9O
 uiseg auein | Ajunod ousel4 | 0¥2€6 WO ‘ousel4 | AAW EISIA BLOIS N OSHS | Aleq Uonepunoy By 4NSO
 
@@ -2405,7 +2405,7 @@ eq
 $£00-2002-SH ‘ON 4apio [eJeUe9 - Hodey jenuuy
 
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 ve 10 g beg LL:@G:vb 7207/61/90
 
 uiseg eueiny | Ajunod ousaly | OPZE6 VO ‘used | AAV BISIA BAIS N OSPS | Aeg Uonepuno4 By 4NSO
@@ -2445,7 +2445,7 @@ EZOZ/LE/ZL OF EZOZ/LO/LO poliad Buoday
 $£00-2002-SU "ON epic Je1euUed - Podey jenuuy
 
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 ve Jo 6 aed
 
 useg aueiny | Ajunod ousesy | OE6 VO ‘ouseld | SAV els),
@@ -2613,7 +2613,7 @@ uondyosep 80in0g
 abelo) ‘sseiBowoig :€Z0Z/PZ/L0 - pv
 
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 VE 30 0} ebed
 
 126 90°000'r98
@@ -2696,7 +2696,7 @@ yBnop yos ‘abells eau :Z7Z0Z/SL/LL - LA
 $€00-2002-SU ‘ON Jepic Je4oued - Hodey jenuuy
 
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ve JO || abe LEZS:bL bZOZ/61/90
 ulseg erein, | Ajunog ousary | O26 VO ‘ouse/4 | FAV RISIA BLAIS N OS¢S | Auleq UoRepunc4 By 4nSO
 
@@ -2734,7 +2734,7 @@ aBells ‘WOD :€Z0Z/Z1/SO - LA
 $€00-2002-SU “ON Japio Jesauieg - Woday jenuuy
 
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 VE JO 7, ebed
 
 Bulmojios sinoy pz uoneydiosig :
@@ -2920,7 +2920,7 @@ poujew uojeolddy syep uojeoddy
 aBelis ‘Wod :€Z0z/Z1/S0 - La
 
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 ve 10 E| Abed
 
 useg euein, | Aunog ousasy | OvZe6 VO ‘Ousel4 | SAV EISIA BAIS N OSHS | Alleq uoHepuno+ By 4MSO
@@ -3081,7 +3081,7 @@ yBnop yos ‘abe,
 G£00-2002-S4 "ON 49pi9 jesauag - podey jenuuy
 
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 ve JO p, abed LLtS:7b vZ0Z/6 1/90
 ulseg auein, | AjunoD ouse.y | OpZE6 WO ‘Ouse14 | FAV EISIA BOIS _N OSHS | Aleq UoHepuno, By NSO
 
@@ -3124,7 +3124,7 @@ abe|
 $€00-2002-SU ‘ON Jepic Jesaulen - Hodey jenuuy
 
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 ve jog) abe LL:@S:PL ¥Z0Z/6 1/90
 ulseg aein, | AUNoD ouser4 | 0726 VO ‘ousel4 | AAV BISIA PLEIN OSS | Ae uonepunoy By 4NSO
 
@@ -3172,7 +3172,7 @@ yBnop yos ‘abells JeEUM :ZZOZ/SL/LL - 7
 $€00-2007-SU ‘ON Japs Je49UeH - Wodey jenuuy
 
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 ve jog) ebed Lb:eS-vb 7207/61/90
 yseq agin, | AjUNOD oused4 | OVZE6 WO ‘Ouses4 | SAV BISIA eAIS N OSHS | Aleq UoHepunoy By 4NSO
 
@@ -3207,7 +3207,7 @@ aHells ‘WOD *€Z0Z/L1/90 - va
 $€00-2007-SU "ON Japio [elauag - Hoday jenuuy
 
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 pe JO 2, e6ed LEZ: pZOZ/6L/90
 ulseg euein, | Ajunog ouser4 | OPZE6 VO ‘OUSeL4 | JAY BISIA BAIS N OSHS | Auleq UOHepuNo, BY 4NSO
 
@@ -3254,7 +3254,7 @@ LA9q0Nd LNAINLAN ‘a
 G£00-2002-SH “ON AepsC [e4saUusy - yoday jenuuy
 
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 ve JO gL abe LLZS:PL PZOZ/6L/90
 ulseg euein, | AjunoD ouses4 | OvZE6 VO ‘ousel4 | SAV BISIA BOIS _N OSHS | Auleq UoHepunocy By 4NSO
 
@@ -3294,7 +3294,7 @@ yBnop yos ‘abel!s ‘JeayM :ZZOZ/SL/LL - LA
 G£00-200Z2-SH ‘ON JOPiC jesausy - yodey yenuuy
 
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 ve 40 GL Obed LL-2S:7 VeO7/6 1/90
 ulseg euein, | AjunoD ouse4 | OpZE6 VO ‘ouse14 | FAV eISIA BAIS _N OSHS | Aeq uoNepuno4 By 4NSO
 
@@ -3332,7 +3332,7 @@ abells ‘WOD :€Z0Z/ZL/GO - La
 G£00-2007-SY ‘ON Japs [esauag - oday jenuuy
 
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 ve JO 07 abe LES: VZ07/6 1/90
 
 ulseg esein| | Ajunod ousel4 | 026 VO ‘ousel4 | FAV BISIA ELIAIS N OSG | Auleq uoHepuno4 By 4NSO
@@ -3380,7 +3380,7 @@ yBnop yos ‘abells JEOUM :ZZOZ/SL/LL - ©
 G£00-200Z-SY “ON 4apsO [es9Ua5 - poday jenuuy
 
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 ve JO LZ eed LL:@S:vVb vZ07/6 1/90
 
 ulseg erin, | AjuNoD ousel4 | OpZE6 VO ‘ouse14 | FAV BISIA BLAIS _N OSHS | Aeg UoNepunoy By 4NSO
@@ -3427,7 +3427,7 @@ EZOZ/LE/EL 0} €Z0Z/LO/LO POUed Bulodey
 $€00-2007-SY “ON Japs [esauag - Wodey jenuuy
 
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 ve JO ZZ Obed LL:2S:7 VZOC/61/90
 
 ujseg esein, | AjunoD ousaly | OpZE6 VO ‘Ousel4 | FAV BISIA BAIS N OSHS | Aueq Uonepuno4 By 4NSO
@@ -3475,7 +3475,7 @@ yBnop yos ‘abelIs WayM :ZZOZ/SL/LL - pa
 G€00-200Z-SY “ON JapsC JesaUad - Woday jenuuy
 
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 ve JO €Z a6ed LL:@S:vb 7207/61/90
 
 ujseg auein, | AjunoD ousey | OpZe6 VO ‘ousel4 | FAV BISIA BOIS N OSHS | Aeq UoHepunoy By 4NSO
@@ -3517,7 +3517,7 @@ abells ‘WOD :€Z0Z/LL/S0 - va
 S£00-200Z-SH ‘ON JePsO [esaUey - Woday jenuuy
 
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 ve JO pz Obed LLZSPL PZOZ/BL/9O
 ulseg aieiny | AjuNoD ouse.y | OPZE6 WO ‘ousel4 | SAV BISIA BLIEIS N OSHS | Aleq UonepuNo, By 4NSO
 
@@ -3565,7 +3565,7 @@ SASATWNV LNAIYLAN
 §£00-2002-SH “ON A8pPio |eseUusdy - poday yenuuy
 
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 ve jo Gz aBed LLEZS:PL PZOZ/6 1/90
 uiseg eueiny | Ajunod ousel4 | OpZE6 VO ‘ouseld | FAV EISIA 4491S N OSHS | Aeg UoHepuNo By 4NSO
 
@@ -3606,7 +3606,7 @@ MAM AYO pug
 $£00-200Z-SU ‘ON 42PsO [e1aUay - Wodey jenuuy
 
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 ve Jo 97 abe LEgS:vl vcOz/6L/90
 
 ulseg sein, | Ajunod ousedy | OFZE6 WO ‘ouseJ4 | SAV BISIA CHIBI _N OSPS | Aleq YonepUNoY By 4NSO
@@ -3647,7 +3647,7 @@ Lleued :uondiosap ajdues
 $€00-2002-S4 “ON 9p |e19Ua9 - Podey jenuuy
 
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 ve JO 1z Obed LL:2S:7 VZO7/61L/90
 
 ujseg euein | AjunoD ousely | OPZE6 VO ‘ousel4 | SAV eISIA BLAIS N OSHS | Aleg UoHepunoy By 4NSO
@@ -3695,7 +3695,7 @@ yBnop yos ‘abelis ‘Weoun :ZZ0Z/SL/LL - La
 G£00-2002-SU ‘ON Jepi9 Jeaued - Hodey jenuuy
 
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 VE JO Bz OBed LE:2S:VL ¥Z07/6 1/90
 
 useg auein| | AjuNoD ousel4 | O¥E6 VO ‘OuseLd | AAV EISIA BLIZIS N OSHS | Auleq UoepUNoS By INSO
@@ -3739,7 +3739,7 @@ ViTee)
 $£00-2002-SY “ON Japio [e18Uag - poday jenuuy
 
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 VE JO 6Z Obed LL:2S:vb vZOZ/6L/90
 
 ulseg euein, | Ajunog ousel4 | OPZE6 VO ‘Ousel4 | FAV EISIA BLAIS N OS¥S | Aueg UoHepunoy By 4NSO
@@ -3752,7 +3752,7 @@ SASATVNV ADVNIVUG (STIL) ADVAUNSENS “4
 §€00-200Z-SU “ON JepsC [e195 - Wodey jenuuy
 
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 ve JO O€ eed LL:eS:7L VZOC/61/90
 ulseg eueiny | Aung ousel4 | OPZE6 VO ‘ouser4 | FAV BISIA BLAIS _N OSHS | Auleg UoNepuno By INSO
 
@@ -3789,7 +3789,7 @@ FONVIVE ONV “WAOWSY TWILNALOd ‘SNOILVOIIddV LNAI.LAN ‘|
 G€00-2007-SU ‘ON JapsoC Jesaued - Woday jenuuy
 
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 ve J0 LE Obed
 
 LL:%S:VL 7207/61/90
@@ -3850,7 +3850,7 @@ AdAL IVINALVW Ad GaliddV LNAINLNN 40 SGNNOd ‘9
 G£00-200Z-SH ‘ON JapsO Jesauey - Wodey jenuuy
 
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 ye JO Ze Obed LEZSPL PZOT/EL/9O
 ujseg euein, | Ajunod ousel4 | OPZE6 VO ‘used | FAV BISIA BAIS N OSS | Aeq UoHepunoy By 4NSO
 
@@ -3896,7 +3896,7 @@ ONILYOdaY NOILdAOXA
 $£00-200Z-$U “ON J9pi9 [es8UeN - Hodey jenuuy
 
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 ye JO pe abed
 
 LLZS:vL pZ0Z/6L/90
@@ -3922,7 +3922,7 @@ NOLLVOISILYS9D
 $£00-200Z-SY ‘ON Jepso JesauUed - Hodey jenuuy
 
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 pe jo ee abe LL:e@S:vb 7207/61/90
 
 ulseg euejn, | Ajunog ousel4 | OPZE6 VO ‘ousal4 | FAV BISIA BLAIS N OSPS | Aleq UonepuNoy By 4NSO
@@ -3943,7 +3943,7 @@ SSLON IWNOILIGGV
 $€00-2007-SU ‘ON Japs Je49uUeD - Wodey jenuuy
 
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 JMLord, Inc.
 
 4184 N. Knoll Drive, Fresno, CA 93722
@@ -3980,7 +3980,7 @@ Laboratories.
 
 FYI: The regulatory limit for Nitrate as NO3N is 10 mg/L.
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE, FRESNO, CA 93722
@@ -4023,7 +4023,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: Dit Ab.
 
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE, FRESNO, CA 93722
@@ -4061,7 +4061,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature:
 
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE, FRESNO, CA 93722
@@ -4099,7 +4099,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: Dt Odo
 
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4137,7 +4137,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: “Din Okt
 
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4176,7 +4176,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: “Di. ) i ~
 
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 JMLORD, INC.
 
 41184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4217,7 +4217,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: Whe Otc
 
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 JMLORD, INC.
 
 184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4258,7 +4258,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: “Dt. { ‘| t =
 
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 JMLORD, INC.
 
 41184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4296,7 +4296,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: Dh old.
 
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -4352,7 +4352,7 @@ www.BSKAssociates.com = ————————————— Page 1 of 18
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 AGI2088
 
 RB5 Surface
@@ -4386,7 +4386,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =————— Page 2 of 18
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 AGI2088
 
 RB5 Surface
@@ -4408,7 +4408,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 AGI2088
 
 } RB5 Surface
@@ -4431,7 +4431,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com = —————___— [_ Page4of 18 |
 
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 AGI2088
 
 ! : RB5 Surface
@@ -4455,7 +4455,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 AGI2088
 
 RBS5 Surface
@@ -4479,7 +4479,7 @@ Page 6 of 18
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 AGI2088
 
 RB5 Surface
@@ -4516,7 +4516,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com
 
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 AGI2088
 
 RB5 Surface
@@ -4546,7 +4546,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 AGI2088
 
 } RB5 Surface
@@ -4574,7 +4574,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 AGI2088
 
 RB5 Surface
@@ -4603,7 +4603,7 @@ Page 10 of 18
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 AGI2088
 
 RB5 Surface
@@ -4677,7 +4677,7 @@ www.BSKAssociates.com Page 11 of 18
 analytical report must be reproduced in its entirety.
 
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 AGI2088
 
 RB5 Surface
@@ -4752,7 +4752,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com
 
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 ASSOCIATES.
 
 BSK Associates Laboratory Fresno
@@ -4814,7 +4814,7 @@ Analyst: RRV
 
 AGI2088 FINAL 09272023 1237
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 AGI2088
 
 RBS Surface
@@ -4853,7 +4853,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 AGI2088
 
 5 RB5 Surface
@@ -4880,7 +4880,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -4909,7 +4909,7 @@ on wwW.BSKAssociates.com
 
 Page 16 of 18
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 BSK Associates SR-FL-0002-24
 
 Sample Integrity
@@ -4986,7 +4986,7 @@ Rush/Short HT Page: Time:
 Page 17 of 18
 
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 Turnaround Time Request
 Standard - 10 business days
 

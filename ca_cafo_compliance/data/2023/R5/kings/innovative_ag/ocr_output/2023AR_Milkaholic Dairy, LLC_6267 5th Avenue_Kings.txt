@@ -26,7 +26,7 @@ Existing Milk Cow Dairies for July 1, 2023.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -77,7 +77,7 @@ Yes. Number of discharges occurred (see Attachment H).
 
 MA INNovative AG SERVICES
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Milkaholic Dairy, LLC 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -133,7 +133,7 @@ MA NNovative AG SERVICES
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Milkaholic Dairy, LLC 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -183,7 +183,7 @@ BB INNOVATIVE ac services
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: 5EAE9266-59DB-4093-B33F-5ED5BC 120679
 
 Milkaholic Dairy, LLC 2023
@@ -204,7 +204,7 @@ Title and Date Title and Date
 BB INNOVATIVE ac services
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Milkaholic Dairy, LLC 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -264,7 +264,7 @@ Page 5
 
 MANNovative AG SERVICES
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -301,7 +301,7 @@ MA NNovative AG SERVICES
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -336,7 +336,7 @@ MA NNovative AG SERVICES
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -369,7 +369,7 @@ Season Nitrogen Ratio: Lbs Per Acre;
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -404,7 +404,7 @@ BAINNOVATIVE ac services
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -439,7 +439,7 @@ MA NNovative AG SERVICES
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -480,7 +480,7 @@ WA NNovaTive AG SERVICES
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -513,7 +513,7 @@ H/ | INNOVATIVE 4c Services
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -550,7 +550,7 @@ BAINNOVATIVE ac services
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -581,7 +581,7 @@ MA NNovative AG SERVICES
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -616,7 +616,7 @@ MA NNovative AG SERVICES
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -655,7 +655,7 @@ MA NNovative AG SERVICES
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -681,7 +681,7 @@ Y/| INNOVATIVE Asc Services
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -722,7 +722,7 @@ MA Nnovative AG SERVICES
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -754,7 +754,7 @@ WA NNovatTive AG SERVICES
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -788,7 +788,7 @@ MA Nnovative AG SERVICES
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -820,7 +820,7 @@ MA nnovative AG SERVICES
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -857,7 +857,7 @@ MA NNovative AG SERVICES
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Milkaholic Dairy, LLC 2023
 Nutrient Applications (Attachment B)
 
@@ -899,7 +899,7 @@ BB INNOVATIVE ac services
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Milkaholic Dairy, LLC 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -929,7 +929,7 @@ BBINNOVATIVE ac services
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Milkaholic Dairy, LLC 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -956,7 +956,7 @@ A INNOVATIVE 4G SERVICES
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Milkaholic Dairy, LLC 2023
 Lab Results Summary (Attachment E)
 
@@ -996,7 +996,7 @@ MA Nnovative AG SERVICES
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Milkaholic Dairy, LLC 2023
 Lab Results Summary (Attachment E)
 
@@ -1026,7 +1026,7 @@ MA NNovative AG SERVICES
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Milkaholic Dairy, LLC 2023
 Lab Results Summary (Attachment E)
 
@@ -1059,7 +1059,7 @@ BA INNOVATIVE ac services
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Soils
 Field
 
@@ -1087,7 +1087,7 @@ Lab Results Summary (Attachment E)
 
 Ah INNOVATIVE ac services
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Milkaholic Dairy, LLC 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1139,7 +1139,7 @@ MM INNOVATIVE ac services
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Milkaholic Dairy, LLC 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1153,7 +1153,7 @@ MA Nnovative AG SERVICES
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Day January
 1 None
 2 Light
@@ -1556,7 +1556,7 @@ Light
 SwP
 None
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 DocuSign Envelope ID: 6CCBC60C-4972-40FA-BEC1-A1FB2ED73F17
 
 . ATTACHMENT D
@@ -1626,7 +1626,7 @@ Manure Solids Content (if amount reported in tons):
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 DocuSign Envelope ID: 6CCBC60C-4972-40FA-BEC1-A1FB2ED73F17
 
 Attachment D D-2
@@ -1668,7 +1668,7 @@ Operator's Signature: ALA on Date; 6/28/2024
 Hauler's Signature; — Netto Ag Inc By: James H. Ne é tto Date: 6/17/2023
 
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 January 2, 2024
 
 Lab No. : VI 2348410
@@ -1736,7 +1736,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 AGRICULTU
 
 nalytical Chemists
@@ -1779,7 +1779,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1673 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 VIRONMENTAL AGRICULTURAL
 
 alytical Chi
@@ -1818,7 +1818,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 ENVIRONMENTAL = AGRICULTURAL
 
 nalytical Chemists
@@ -1863,7 +1863,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chen
@@ -1908,7 +1908,7 @@ FAX: (805)783-2912 FAX: (559)734-8435
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ENVIRONMENTAL = GRICULTURAL
 
 January 2, 2024
@@ -1972,7 +1972,7 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 ‘ A. Laboratory Analysis Work Order N° 42150
 
 : 2BHBUIO
@@ -2034,7 +2034,7 @@ Gls me ILf/iL/[t3 013
 ‘THE PROMTER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 December 18, 2023
 
 Lab No. : VI 2348137
@@ -2106,7 +2106,7 @@ CA ELAP Certification No, 1573
 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2150,7 +2150,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 NVIRONME AGRICULTURAL
 
 nalytical Chemists
@@ -2219,7 +2219,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423, FAX: (530)343
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 al Laboratory Analysis Work one . N° 42128
 D:#_Hse CHE! 2 ) psorarony: FéL
 
@@ -2277,7 +2277,7 @@ CO me 12/5/23 <4
 ‘THE PADITER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ENVIRONMENTA AGRICULTU
 
 Analytical Chemists
@@ -2348,7 +2348,7 @@ FAX: (805)783-2912 FAX: (559)734-8435
 
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 AGRICULTU
 
 lytical Chemists
@@ -2392,7 +2392,7 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 NVIRONMENTAL AGRICULTU
 
 Analytical Chemists
@@ -2430,7 +2430,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No, 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 ENVIRONMENTAL AGRICULTU
 
 alytical Chemists
@@ -2475,7 +2475,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 AGRICULTURA
 
 nalytical Chemists
@@ -2545,13 +2545,13 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX; (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Page 6 of 6
 
 Page 6 of 6
 
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 ID: bal Is 3
 
 SITENAME: pA)uiemoLiC Pavey
@@ -2627,7 +2627,7 @@ THE PADITER INC. - 559-992-5127
 Rol
 3-2°¢ ID*THHO7
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 ENVIRONMENTAL AGRICUL
 
 Analytical Chemists
@@ -2706,7 +2706,7 @@ CA ELAP Certification No, 1573
 FAX: (559)734-8435
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 ENVIRONMEN
 
 October 4, 2023
@@ -2749,7 +2749,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 GRICULTU
 
 nalytical Chemists
@@ -2815,7 +2815,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Laboratory Analysis Work Order N° 41335
 
 ID: #_/153 OGHMoL GO insoratory: £62

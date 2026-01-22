@@ -45,7 +45,7 @@ This owner is responsible for paying permit fees.
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 1 of 13
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -88,7 +88,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 2 of 13
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -107,7 +107,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 3 of 13
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -129,7 +129,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 Page 4 of 13
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -145,7 +145,7 @@ No application area crops entered.
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 5 of 13
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -188,7 +188,7 @@ DL 500.00 100.00 200.00 0.67
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 6 of 13
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -223,7 +223,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 7 of 13
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -255,7 +255,7 @@ No subsurface (tile) drainage analyses entered.
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 8 of 13
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -290,7 +290,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 9 of 13
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -374,7 +374,7 @@ Ibs
 
 Page 10 of 13
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -420,7 +420,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 11 of 13
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -434,7 +434,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 12 of 13
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -455,7 +455,7 @@ DATE DATE
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 13 of 13
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -490,7 +490,7 @@ Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tu
 
 06/28/2024 20:17:17 Page 1 of 1
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 
 Reporting period 01/01/2023 to 12/31/2023.
@@ -513,7 +513,7 @@ Beas DATE
 Frank C. Lawrence Dairy | 27476 Road 52 | Visalia, CA 93277 | Tulare County | Tulare Basin
 06/28/2024 20:17:17 Page 13 of 13
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 2022-2023 Export Summary Record of Dry Manure and Process Wastewater Transfered
 from Frank Lawrence Dairy to LK Ranches Dairy
 

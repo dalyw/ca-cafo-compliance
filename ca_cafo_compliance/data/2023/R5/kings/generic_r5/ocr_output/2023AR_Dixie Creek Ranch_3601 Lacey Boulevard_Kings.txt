@@ -46,7 +46,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 75
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -136,7 +136,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 2 of 75
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -167,7 +167,7 @@ No liquid nutrient exports entered.
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 3 of 75
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -216,7 +216,7 @@ Total actual harvest content 0.00 0.00 0.00 0.00 0.00
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 4 of 75
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -261,7 +261,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 5 of 75
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -310,7 +310,7 @@ Total actual harvest content 30.00 240.00 36.00 156.00 267.31
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 6 of 75
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -355,7 +355,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 7 of 75
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -395,7 +395,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 8 of 75
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 4
@@ -433,7 +433,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 9 of 75
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -474,7 +474,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 10 of 75
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -515,7 +515,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 11 of 75
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 9
@@ -533,7 +533,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 12 of 75
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -695,7 +695,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 13 of 75
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -734,7 +734,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 14 of 75
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -943,7 +943,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 15 of 75
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1103,7 +1103,7 @@ Amount
 
 Page 16 of 75
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 19 - 11/26/2022: Wheat, silage, soft dough
@@ -1171,7 +1171,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 17 of 75
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1330,7 +1330,7 @@ Salt (Ibs/acre) Amount
 
 Page 18 of 75
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1370,7 +1370,7 @@ Application event totals 144.32 12.77 230.36 2,277.23
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 19 of 75
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1410,7 +1410,7 @@ Application event totals 4.37 0.00 0.00 268.49
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 20 of 75
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1620,7 +1620,7 @@ Salt (Ibs/acre) Amount
 
 Page 21 of 75
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1804,7 +1804,7 @@ Precipitation 24 hours following
 
 Page 22 of 75
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1955,7 +1955,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 75
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2165,7 +2165,7 @@ Salt (Ibs/acre) Amount
 
 Page 24 of 75
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2272,7 +2272,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 06/17/2024 08:22:43 Page 25 of 75
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2438,7 +2438,7 @@ Salt (Ibs/acre) Amount
 
 Page 26 of 75
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2473,7 +2473,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 27 of 75
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2630,7 +2630,7 @@ Amount
 
 Page 28 of 75
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2667,7 +2667,7 @@ Application event totals 128.26 11.21 202.27 2,094.26
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 29 of 75
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 8 - 07/01/2023: Corn, silage
@@ -2714,7 +2714,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 30 of 75
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2751,7 +2751,7 @@ Application event totals 52.50 2.50 62.87 396.58
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 31 of 75
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2767,7 +2767,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 32 of 75
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2914,7 +2914,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 33 of 75
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3066,7 +3066,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 34 of 75
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3120,7 +3120,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 35 of 75
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3238,7 +3238,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 36 of 75
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3386,7 +3386,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 37 of 75
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3444,7 +3444,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 38 of 75
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3481,7 +3481,7 @@ Applied to removed ratio 1.28 0.23 1.07 6.91
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 39 of 75
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3629,7 +3629,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 40 of 75
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3682,7 +3682,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 41 of 75
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3720,7 +3720,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 42 of 75
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3777,7 +3777,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 43 of 75
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3815,7 +3815,7 @@ Applied to removed ratio 1.12 0.35 1.53 7.95
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 44 of 75
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3891,7 +3891,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 45 of 75
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3967,7 +3967,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 46 of 75
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4033,7 +4033,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 47 of 75
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4111,7 +4111,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 48 of 75
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4168,7 +4168,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 49 of 75
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4250,7 +4250,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 50 of 75
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4287,7 +4287,7 @@ Applied to removed ratio 1.17 0.35 1.32 9.50
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 51 of 75
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4340,7 +4340,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 52 of 75
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4493,7 +4493,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 53 of 75
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4546,7 +4546,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 Page 54 of 75
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4583,7 +4583,7 @@ Applied to removed ratio 1.16 0.30 1.19 6.90
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 55 of 75
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -4620,7 +4620,7 @@ B. PROCESS WASTEWATER ANALYSES
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 56 of 75
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4657,7 +4657,7 @@ DL 10.00 2.00 0.01 0.01 0.20 0.50 100.00 10
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 57 of 75
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4700,7 +4700,7 @@ Fid 8A
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 58 of 75
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Fid 8A
@@ -4744,7 +4744,7 @@ Irr 6
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 59 of 75
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Irr 6
@@ -4788,7 +4788,7 @@ Manzanillo N
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 60 of 75
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4833,7 +4833,7 @@ D. SOIL ANALYSES
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 61 of 75
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 1
@@ -4875,7 +4875,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 62 of 75
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 17 - 11/14/2022: Wheat, silage, soft dough
@@ -4929,7 +4929,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 63 of 75
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 19 - 07/04/2023: Corn, silage
@@ -4981,7 +4981,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 64 of 75
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 3b - 11/14/2022: Wheat, silage, soft dough
@@ -5035,7 +5035,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 65 of 75
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 4 - 07/01/2023: Corn, silage
@@ -5088,7 +5088,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 66 of 75
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 6 - 11/16/2022: Wheat, silage, soft dough
@@ -5142,7 +5142,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 67 of 75
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 8 - 11/24/2022: Wheat, silage, soft dough
@@ -5196,7 +5196,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 68 of 75
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 9 - 07/06/2023: Corn, silage
@@ -5224,7 +5224,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 69 of 75
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -5259,7 +5259,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 70 of 75
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5342,7 +5342,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 71 of 75
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -5388,7 +5388,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 72 of 75
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -5429,7 +5429,7 @@ be sampled again when operable.
 Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare Basin
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 73 of 75
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ANNUAL REPORT VALIDATION INFORMATION
@@ -5444,7 +5444,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 74 of 75
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023. .
 
@@ -5466,7 +5466,7 @@ Dixie Creek Ranch | 3601 Lacey Bivd. | Hanford, CA 93230 | Kings County | Tulare
 
 11/16/2023 10:29:17 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 64 of 64
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -5501,7 +5501,7 @@ Dixie Creek Ranch | 3601 Lacey Blvd. | Hanford, CA 93230 | Kings County | Tulare
 
 06/17/2024 08:22:43 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 1
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
 
@@ -5575,7 +5575,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5612,7 +5612,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5658,7 +5658,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 “OO # yy bo Wo T re Canton Neier
 
 Ne ulare, ‘ al oma ‘
@@ -5718,7 +5718,7 @@ CU 3ft
 () aye UK Ge ONG
 
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 #GL Environmental Doc ED: 3D0900002_SOP_12.DOC
 Revision Date: 10/09/14 Page 1 of 1
 
@@ -5790,7 +5790,7 @@ contacts) iv 03/31/2023 09:16:55
 
 UL 2341888
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 ENVIRONMENTAL
 
 Analytical Chemists
@@ -5868,7 +5868,7 @@ CA ELAP Certification No. 1573
 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5909,7 +5909,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5948,7 +5948,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5987,7 +5987,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063. FAX: (209)942-0423 FAX: (530)343
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -6033,7 +6033,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 Valley Tech
 
 Yb Wo
@@ -6119,7 +6119,7 @@ ees SD /2-GKO36
 i4
 4
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 ” FGL Environmental Doc ID: 3D0900002_SOP_14.DOC
 
 Revision Date: 10/10/23 Page 1 of 1

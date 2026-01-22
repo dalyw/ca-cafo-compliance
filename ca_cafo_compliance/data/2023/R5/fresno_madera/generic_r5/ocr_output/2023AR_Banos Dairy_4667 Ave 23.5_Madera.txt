@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 1 of 18
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -62,7 +62,7 @@ D-3 Ground water
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 2 of 18
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -84,7 +84,7 @@ Total exports for aIl materiaIs 136,403.40 31,143.48 146,307.00 0.00
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 3 of 18
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -111,7 +111,7 @@ FieId name FieId 42
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 4 of 18
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -126,7 +126,7 @@ Total actual harvest content 12.65 151.40 24.10 240.15 1,113.75
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 5 of 18
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -159,7 +159,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 6 of 18
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -176,7 +176,7 @@ AppIication event totaIs 121.72 20.58 140.03 890.66
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 7 of 18
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -214,7 +214,7 @@ AppIied to removed ratio 1.41 1.83 1.78 2.20
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 8 of 18
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -249,7 +249,7 @@ AppIied to removed ratio 1.36 1.34 0.92 1.26
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 9 of 18
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -282,7 +282,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 10 of 18
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -317,7 +317,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 11 of 18
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -350,7 +350,7 @@ D. SOIL ANALYSES
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 12 of 18
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -377,7 +377,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 13 of 18
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -425,7 +425,7 @@ BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin Ri
 
 06/24/2024 103832 Page 14 of 18
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -462,7 +462,7 @@ lbs lbs
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 15 of 18
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -492,7 +492,7 @@ wastewater that are new or were revised within the reporting period
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 16 of 18
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -512,7 +512,7 @@ BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin Ri
 
 06/24/2024 103832 Page 17 of 18
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -542,7 +542,7 @@ BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin Ri
 
 06/24/2024 103832 Page 18 of 18
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -566,7 +566,7 @@ Storm Water Reporting Section on page MRP-14.
 BANOS DAIRY 4667 Avenue 23 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/24/2024 103832 Page 1 of 1
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -613,7 +613,7 @@ Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessors Parcel Number County
 Last date hauIed 06/01/2023
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -636,7 +636,7 @@ Operator Signature Date
 hie Anan O6-24-2024
 HauIer 2/gnature Date
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -683,7 +683,7 @@ Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessors Parcel Number County
 Last date hauIed 09/20/2023
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -706,7 +706,7 @@ Operator Signature Date
 ene Ane C6-24-2024
 HauIepAignature Date
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -736,7 +736,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 2 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -766,7 +766,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 3 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -796,7 +796,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 4 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 1 DENELE ANALYTICAL, INC.
 ant Pa) 865 S. KILROY DAIRY COMPLIANCE
@@ -842,7 +842,7 @@ tL AWNUEXTeteartand Consutting BATU YD Jecusestnar LABORATORY NUMBER
 nd tenon BIighs (Yap TT BD Gp ad
 Required to be subppt ns ragency) (YES / NO)
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Final Audit Report 2024-06-26
 Created 2024-06-24

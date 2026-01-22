@@ -40,7 +40,7 @@ OakIand, CA 94612 (510) 622-2460 (fax)
 Rev 9-2022
 I II
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 2 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -83,7 +83,7 @@ I
 Rev 9-2022 TT
 NN aa eee
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 3 of 9
 Monitoring and Reporting Program No. R2-2016-0031 ,
@@ -130,7 +130,7 @@ rT
 Rev 9-2022
 NN
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 4 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -173,7 +173,7 @@ NN
 Rev 9-2022 ,
 Ng
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 5 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -218,7 +218,7 @@ a
 Rev 9-2022
 NN
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 6 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -230,7 +230,7 @@ NIA
 Rev 93-2022 ,
 ce
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 7 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -281,7 +281,7 @@ a
 Rev 9-2022
 i ee
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 8 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -319,7 +319,7 @@ SampIing Period 4 aIl 0 Spring Nay. 20 14G
 Rev 9-2022
 NN
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 9 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -368,13 +368,13 @@ Signature Date
 Rev 9-2022
 nn ___ mmm
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 24 - a si
 ee Ss 7
 TSS is es
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
              eet
 
@@ -398,7 +398,7 @@ Se Se eel of, 14 ei ,
 - . a - a - ae
 ee BS og ey
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 . z. eee re _
       aj ae ee eee oa
@@ -410,7 +410,7 @@ ii . a, baie tive ope a ee
 Stagg g a i , ec et ese 2
 Ne eS 4 ities 7 - ey
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 ONCIA FERTILIZER Woi
 fe ONC RTILIZER, INC , invoice
@@ -432,7 +432,7 @@ or the highest rate aIlowed by law wiIl be assessed on past due baIances.
 Customer wiIl be liabIe for aIl coIlection costs and attorneys fees in
 connection with any deIinquent amount.
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 ) NCEA FERTILIZER, INC Invoice
 7 Cotati, CA 94931-0718

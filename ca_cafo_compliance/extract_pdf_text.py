@@ -6,6 +6,7 @@ import glob
 import csv
 import json
 import cv2
+import re
 import pymupdf as fitz
 import pytesseract
 import numpy as np
@@ -25,18 +26,18 @@ FITZ_OUTPUT_FOLDER = "fitz_output"
 _MARKER_MODELS = load_all_models()
 
 
+manifest_terms = [
+                "hauler", 
+                "destination",
+                "name of dairy",
+                "hauling",
+                "attachment d",
+                "method",
+                "manifest"
+            ]
+
 def extract_specific_pages(pdf_path, pages, output_path=None):
-    """
-    Extract specific pages from a PDF to a new PDF file.
-    
-    Args:
-        pdf_path: Source PDF path
-        pages: List of 1-indexed page numbers to extract
-        output_path: Output PDF path (default: temp file)
-    
-    Returns:
-        Path to the extracted PDF, or None on failure
-    """
+    """Extract specific pages from a PDF to a new manifest file."""
     
     if not pages:
         return None
@@ -60,6 +61,7 @@ def extract_specific_pages(pdf_path, pages, output_path=None):
     if added_pages == 0:
         new_doc.close()
         doc.close()
+        print("zero-page pdf")
         return None
     
     new_doc.save(output_path)
@@ -93,34 +95,20 @@ def is_low_quality_ocr(text):
 
 def has_missing_manifest_quantities(text):
     """Detect if manifest form is present but quantity values are missing or unreadable."""
-    import re
     
     text_lower = text.lower()
-    
-    # Check if this is a manifest
-    is_manifest = any(term in text_lower for term in [
-        "manifest",
-        "amount hauled",
-        "operator information",
-        "hauler information"
-    ])
-    
-    if not is_manifest:
-        return False
+        
+    if not any(term in text_lower for term in manifest_terms):
+        return False # N/A for non-manifests
     
     # Look for quantity fields with actual numeric values
-    # Check for manure quantity (tons or cubic yards followed by a number)
     manure_pattern = r'manure:?\s*[_\s]*(?:tons|cubic yards)?[_\s]*(\d+[,\d]*(?:\.\d+)?)'
     wastewater_pattern = r'(?:process\s+)?wastewater:?\s*[_\s]*(?:gallons)?[_\s]*(\d+[,\d]*(?:\.\d+)?)'
     
     has_manure_number = bool(re.search(manure_pattern, text_lower))
     has_wastewater_number = bool(re.search(wastewater_pattern, text_lower))
     
-    # Check for N/A patterns (form filled but with N/A instead of numbers)
-    has_na_only = ('n/a' in text_lower) and not (has_manure_number or has_wastewater_number)
-    
-    # If manifest keywords exist but no quantities found, likely unreadable
-    has_amount_section = 'amount hauled' in text_lower
+    has_amount_section = 'amount hauled' in text_lower # manifest keywords exist but no quantities
     
     return has_amount_section and not (has_manure_number or has_wastewater_number)
 
@@ -180,17 +168,9 @@ def process_pdf(pdf_path, ocr_engine="marker", max_pages=999, process_only_manif
     """Process a single PDF file and extract text."""
     
     print(f"Processing {pdf_path}")
-    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     
-    # Check if already processed
-    if is_processed(pdf_path, ocr_engine):
-        print(f"  Already processed: {pdf_name}")
-        return
-    
-    # Scan for manifest pages if requested
     pages_to_process = None
     if process_only_manifests:
-        print("  Scanning for manifest pages...")
         
         manifest_pages = []
         doc = fitz.open(pdf_path)
@@ -206,17 +186,7 @@ def process_pdf(pdf_path, ocr_engine="marker", max_pages=999, process_only_manif
                 text = pytesseract.image_to_string(img, config='--psm 3').lower()
             
             # Check for manifest-related terms
-            # Must have specific manifest form fields, not just the word "manifest"
-            has_manifest_keywords = "manifest" in text or "attachment d" in text
-            has_form_fields = any(term in text for term in [
-                "operator information",
-                "hauler information", 
-                "destination information",
-                "name of dairy facility",
-                "hauling company"
-            ])
-            
-            if has_manifest_keywords and has_form_fields:
+            if any(term in text for term in manifest_terms):
                 manifest_pages.append(page_num + 1)
                 # Always include the next page (page 2 of manifest with method/certification)
                 if page_num + 1 < len(doc):
@@ -224,19 +194,16 @@ def process_pdf(pdf_path, ocr_engine="marker", max_pages=999, process_only_manif
         
         doc.close()
         
-        # Remove duplicates and sort
-        manifest_pages = sorted(set(manifest_pages))
-        
+        manifest_pages = sorted(set(manifest_pages)) # Remove duplicates
         if manifest_pages:
             print(f"  Found {len(manifest_pages)} manifest page(s): {manifest_pages}")
             pages_to_process = manifest_pages
-        else:
+        else:  # Save empty results
             print("  No manifest pages found, skipping")
 
-            # Save empty result and return
             paths = get_output_paths(pdf_path, "fitz")
             os.makedirs(paths['dir'], exist_ok=True)
-            
+
             with open(paths['txt'], "w", encoding="utf-8") as f:
                 f.write("")
             
@@ -256,14 +223,14 @@ def process_pdf(pdf_path, ocr_engine="marker", max_pages=999, process_only_manif
         should_retry = True
     elif result.get("should_retry"):
         should_retry = True
-        print(f"  Low quality fitz output, retrying with {ocr_engine}...")
+        print(f"  Low quality fitz output, retrying with {ocr_engine}")
     elif has_missing_manifest_quantities(result_text):
         should_retry = True
-        print(f"  Manifest quantities missing/unreadable in fitz output, retrying with {ocr_engine}...")
+        print(f"  Manifest quantities missing/unreadable in fitz output, retrying with {ocr_engine}")
     
     if should_retry:
         if not result or len(result_text) < 100:
-            print(f"  Falling back to {ocr_engine}...")
+            print(f"  Falling back to {ocr_engine}")
         result = extract_text_from_pdf(pdf_path, ocr_engine, pages_to_process, max_pages)
     
     # Save results
@@ -299,7 +266,7 @@ def get_output_paths(pdf_path, method):
 
 
 def is_processed(pdf_path, ocr_engine):
-    """Check if PDF has been successfully processed with non-empty output."""
+    """Check if PDF has already been processed with non-empty output."""
     paths = get_output_paths(pdf_path, "fitz")
     if os.path.exists(paths['txt']) and os.path.getsize(paths['txt']) > 0:
         return True
@@ -307,11 +274,14 @@ def is_processed(pdf_path, ocr_engine):
     return os.path.exists(paths['txt']) and os.path.getsize(paths['txt']) > 0
 
 
-def collect_pdf_files():
+def collect_pdf_files(years=None, regions=REGIONS):
     """Collect all PDF files from the data directory."""
     pdf_files = []
-    
-    for year in YEARS:
+    if not years:
+        years = YEARS
+    if not regions:
+        regions = REGIONS
+    for year in years:
         base_path = f"ca_cafo_compliance/data/{year}"
         for region in REGIONS:
             region_path = os.path.join(base_path, region)
@@ -335,16 +305,6 @@ def collect_pdf_files():
                             pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
     
     return pdf_files
-
-
-def sort_pdf_files(pdf_files):
-    """Sort PDF files by priority (2024 first, R5 first)."""
-    def priority(path):
-        return (
-            0 if "2024" in path else 1,
-            0 if "/R5/" in path else 1,
-        )
-    return sorted(pdf_files, key=priority)
 
 
 def update_reports_available_csv():
@@ -386,20 +346,16 @@ def update_reports_available_csv():
 
 def main(ocr_engine=OCR_ENGINE, test_mode=TEST_MODE, max_pages=MAX_PAGES,
          process_only_manifests=False):
-    # Update reports CSV
+    
     update_reports_available_csv()
     
     # Collect and sort PDF files
-    pdf_files = collect_pdf_files()
-    pdf_files = sort_pdf_files(pdf_files)
+    pdf_files = collect_pdf_files([2024], ["R5"])
     
     # Filter out already processed files
-    files_to_process = [f for f in pdf_files if not is_processed(f, ocr_engine)]
-    processed_count = len(pdf_files) - len(files_to_process)
+    files_to_process = [f for f in pdf_files if not is_processed(f, ocr_engine)]    
+    print(f"{len(files_to_process)} of {len(pdf_files)} remaining")
     
-    print(f"{processed_count} processed, {len(files_to_process)} to go")
-    
-    # Test mode filtering
     if test_mode:
         white_river = [f for f in files_to_process if "White River Dairy" in f]
         files_to_process = white_river[:1] if white_river else files_to_process[:1]
@@ -408,15 +364,14 @@ def main(ocr_engine=OCR_ENGINE, test_mode=TEST_MODE, max_pages=MAX_PAGES,
     if not files_to_process:
         print("No files to process")
         return
-    
-    # Process files
-    for pdf_path in files_to_process:
-        process_pdf(
-            pdf_path,
-            ocr_engine=ocr_engine,
-            max_pages=max_pages,
-            process_only_manifests=process_only_manifests
-        )
+    else:  # Process files
+        for pdf_path in files_to_process:
+            process_pdf(
+                pdf_path,
+                ocr_engine=ocr_engine,
+                max_pages=max_pages,
+                process_only_manifests=process_only_manifests
+            )
     
     print("OCR complete")
 

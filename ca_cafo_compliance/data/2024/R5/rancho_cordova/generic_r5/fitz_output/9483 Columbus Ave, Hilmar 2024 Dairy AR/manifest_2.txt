@@ -1,22 +1,22 @@
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
-General Order No. R5-2007-0035, Attachment D
-1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+General Order No. R5-2007-0035 Attachment D
+1) Complete one manifest for each hauling event for each destination. A hauling event may last for several days as long as the 
 manure is being hauled to the same destination.
-2) If there are multiple destinations, complete a separate form for each destination.
+2) If there are multiple destinations complete a separate form for each destination.
 3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
 Existing Milk Cow Dairies.
 INSTRUCTIONS
-Name of Operator:
-Name of Dairy Facility:
-Facility Address:
+Name of Operator
+Name of Dairy Facility
+Facility Address
 Number and Street
 City
 County
 Zip Code
-Contact Person Name and Phone Number:
+Contact Person Name and Phone Number
 Name
 Phone Number
 Grant Ahlem
@@ -29,15 +29,15 @@ Hilmar
 Gold Medal Ag #1
 OPERATOR INFORMATION
 PROCESS WASTEWATER HAULER INFORMATION
-Name of Hauling Company/Person:
+Name of Hauling Company/Person
 Pipeline
-Address of Hauling Company/Person:
+Address of Hauling Company/Person
 Number and Street
 City
 State
 Zip Code
 95324
-Contact Person:
+Contact Person
 Name
 Phone Number
 (209) 000-0000
@@ -46,9 +46,9 @@ CA
 9483 Columbia AVE
 Grant Ahlem
 DESTINATION INFORMATION
-Composting Facility / Broker / Farmer / Other (identify):
+Composting Facility / Broker / Farmer / Other (identify)
 Farmer
-Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Name
 Curtis Van Foekin
 22245 August AVE
@@ -61,8 +61,8 @@ Hilmar
 CA
 95324
 (209) 000-0000
-Last date hauled: 02/08/2024
-Destination Address or Assessor's Parcel Number:
+Last date hauled 02/08/2024
+Destination Address or Assessor's Parcel Number
 Address
 City
 Zip Code
@@ -74,16 +74,15 @@ Merced
 Street and nearest cross street (if no address)
 County
 Assessor's Parcel Number County
-
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
-General Order No. R5-2007-0035, Attachment D
+General Order No. R5-2007-0035 Attachment D
 PROCESS WASTEWATER AMOUNT HAULED
-Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
-Process Wastewater:
- 1,350,000
-Method used to determine volume of process wastewater:
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount
+Process Wastewater
+ 1350000
+Method used to determine volume of process wastewater
 Flowmeter
 gallons
 WRITTEN AGREEMENT
@@ -93,18 +92,18 @@ its own use?
 [ X ] YES
 [
 ] NO
-If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater 
+If the answer is no the Operator agrees to have such a written agreement with any such party for any process wastewater 
 transferred after 31 December 2007 to such party.
 (Operator shall provide initials here to acknowledge this requirement)
 CERTIFICATION
-I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
-based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
-accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information I believe that the information is true 
+accurate and complete. I am aware that there are significant penalties for submitting false information including the possibility of a 
 fine and imprisonment for knowing violations.
 Operator Signature
 Date
 Hauler Signature
 Date
-Grant Ahlem (May 2, 2025 16:28 PDT)
+Grant Ahlem (May 2 2025 1628 PDT)
 Grant Ahlem
 05/02/2025

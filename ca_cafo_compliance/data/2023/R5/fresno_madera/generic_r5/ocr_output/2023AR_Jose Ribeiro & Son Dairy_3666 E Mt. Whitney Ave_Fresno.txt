@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 1 of 38
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -43,7 +43,7 @@ MaiIing Address Number and Street City State Zip Code
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 2 of 38
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -79,7 +79,7 @@ Canal Surface water
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 3 of 38
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -101,7 +101,7 @@ Total exports for aIl materiaIs 10.48 4.06 16.95 1,424,589.99
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 4 of 38
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -135,7 +135,7 @@ Total actual harvest content 26.07 333.65 46.92 443.13 1,356.11
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 5 of 38
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -167,7 +167,7 @@ Total actual harvest content 13.39 286.53 45.52 302.60 1,639.48
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 6 of 38
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -198,7 +198,7 @@ Total actual harvest content 26.72 352.70 48.10 448.90 1,738.13
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 7 of 38
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -229,7 +229,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 8 of 38
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -263,7 +263,7 @@ AppIication event totaIs 0.00 0.00 0.00 31.92
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 9 of 38
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -294,7 +294,7 @@ AppIication event totaIs 119.62 0.00 4.55 812.13
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 10 of 38
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -328,7 +328,7 @@ AppIication event totaIs 0.00 0.00 0.00 33.80
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 11 of 38
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -362,7 +362,7 @@ FieId 3 - 10/14/2022 Wheat, siIage, boot stage
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 12 of 38
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -396,7 +396,7 @@ AppIication event totaIs 178.19 0.00 7.55 1,269.73
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 13 of 38
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -429,7 +429,7 @@ AppIication event totaIs 0.00 0.00 0.00 44.20
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 14 of 38
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -460,7 +460,7 @@ AppIication event totaIs 0.00 0.00 0.00 45.06
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 15 of 38
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -494,7 +494,7 @@ AppIication event totaIs 0.00 0.00 0.00 45.06
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 16 of 38
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -523,7 +523,7 @@ AppIication event totaIs 0.00 0.00 0.00 45.06
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 17 of 38
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -560,7 +560,7 @@ AppIied to removed ratio 0.52 0.00 0.02 0.75
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 18 of 38
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -595,7 +595,7 @@ AppIied to removed ratio 0.44 0.00 0.01 0.92
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 19 of 38
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -631,7 +631,7 @@ AppIied to removed ratio 0.45 0.00 0.01 0.60
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 20 of 38
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -665,7 +665,7 @@ AppIied to removed ratio 0.52 0.00 0.02 1.26
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 21 of 38
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -698,7 +698,7 @@ AppIied to removed ratio 0.57 0.00 0.02 0.70
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 22 of 38
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -731,7 +731,7 @@ AppIied to removed ratio 0.49 0.00 0.02 1.01
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 23 of 38
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -766,7 +766,7 @@ AppIied to removed ratio 1.18 0.00 0.03 1.22
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 24 of 38
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -799,7 +799,7 @@ AppIied to removed ratio 0.86 0.00 0.03 1.44
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 25 of 38
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -832,7 +832,7 @@ DL 0.01 0.01 0.01 0.02 0.01 0.01 0.02 0.01 0.67
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 26 of 38
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -862,7 +862,7 @@ DL 20.00 0.57 0.57 0.01 0.01 0.01 0.01 0.01 0.01 0.10 0.10 0.02 0.01 0.01 19
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 27 of 38
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -893,7 +893,7 @@ DOL 0.01 0.57 0.01 0.01 0.01 0.01 0.10 0.10 0.02 0.01 0.01 19
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 28 of 38
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -925,7 +925,7 @@ D. SOIL ANALYSES
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 29 of 38
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -951,7 +951,7 @@ FieId 2 - 10/14/2022 Wheat, siIage, boot stage
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 30 of 38
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -982,7 +982,7 @@ DL 0.01 0.01 0.01 0.67
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 31 of 38
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1013,7 +1013,7 @@ DL 0.01 0.01 0.01 0.67
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 32 of 38
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -1021,7 +1021,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 33 of 38
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1054,7 +1054,7 @@ N P K saIt
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 34 of 38
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1084,7 +1084,7 @@ lbs lbs
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 35 of 38
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1114,7 +1114,7 @@ wastewater that are new or were revised within the reporting period
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 36 of 38
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1124,7 +1124,7 @@ No notes entered for this annual report.
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 37 of 38
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1140,7 +1140,7 @@ DATE DATE
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 38 of 38
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1164,7 +1164,7 @@ Storm Water Reporting Section on page MRP-14.
 Jose Ribeiro & Son Dairy, Inc. 3760 E Mount Whitney AVE Laton, CA 93242 Fresno County TuIare Basin
 07/01/2024 183903 Page 1 of 1
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -1209,7 +1209,7 @@ Manure ScIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 a
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Method used to determine amount of manure ay WOW as L- t La om
 Enter the amount of process wastewater hauIed in gaIlons and the method used to determine the
@@ -1239,7 +1239,7 @@ Operators Signature- Chery Th Date O Li Q 23
 HauIers Signature A Z Date-
 a
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -1285,7 +1285,7 @@ Manure SoIids Content (if amount reported in tons)-
 Manure Density (if amount reported in cubic yards).
 a
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Attachment D D-2
 Waste Discharge Requirements General Order No. R5-2007-0035
@@ -1320,7 +1320,7 @@ Operators Signature dw Date S ) (237/23
 HauIers Signature 4g2by, Sj )get & Date.
 WF C7
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Invoice AG17577
 Jose Ribeiro
@@ -1353,7 +1353,7 @@ anaIytical report must be reproduced in its entirety.
 _ ee 6CwWW.BSKAssociates.con sen
 a
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Br-KX RB5 Surface
 ASSOCIATES Case Narrative
@@ -1384,7 +1384,7 @@ anaIytical report must be reproduced in its entirety.
 ee www.BSKAssociates.com LE
 a
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 & C RB5 Surface
 ASSOCIATES e
@@ -1411,7 +1411,7 @@ anaIytical report must be reproduced in its entirety.
 Ce nteammmemneeel www.BSKAssociates.com EEE mmeouertamennanmaenenammammeaIl
 ln i
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 e- C RB5 Surface
 BSK Associates Laboratory Fresno
@@ -1462,7 +1462,7 @@ anaIytical report must be reproduced in its entirety.
 OSes www. BSKAssociates.com
 a
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
     C RB5 Surface
 BSK Associates Laboratory Fresno
@@ -1507,7 +1507,7 @@ anaIytical report must be reproduced in its entirety.
 _enn owWw.BSKAssociates.com
 oo
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
                                         AGG2086
  & RBS Surface
@@ -1545,7 +1545,7 @@ anaIytical report must be reproduced in its entirety.
 ____- www.BSKAssociates.com
 EE
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 & 4 RB5 Surface
 Certificate of AnaIysis
@@ -1584,7 +1584,7 @@ anaIytical report must be reproduced in its entirety.
 
 o_o So www. BSKAssociates.com
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 _ Certifications PIease refer to our website for a copy of our Accredited FieIds of Testing under each certification.
 Fresno
@@ -1606,7 +1606,7 @@ anaIytical report must be reproduced in its entirety.
 __ ) so www.BSKAssociates.com
 i
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 BSK Associates SR-FL-0002-24 NGG joserd733 eT TE ae
 sennciary OS
@@ -1633,7 +1633,7 @@ LabeIed by LabeIs Checked by
 Scanned Rush/Shori HT Page Time.__
 Ft
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 a zl mm re
 sga(e j ery 2

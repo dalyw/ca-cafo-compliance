@@ -46,7 +46,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 1 of 34
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -89,7 +89,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 2 of 34
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -113,7 +113,7 @@ No liquid nutrient exports entered.
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 3 of 34
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -158,7 +158,7 @@ Total actual harvest content 30.89 239.25 49.43 164.11 986.65
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 4 of 34
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -198,7 +198,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 5 of 34
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -334,7 +334,7 @@ TFS (%)
 
 Page 6 of 34
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -469,7 +469,7 @@ Precipitation 24 hours following
 
 Page 7 of 34
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -699,7 +699,7 @@ Amount
 
 Page 8 of 34
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -883,7 +883,7 @@ Salt (Ibs/acre) Amount
 
 Page 9 of 34
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1129,7 +1129,7 @@ Amount
 
 Page 10 of 34
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1315,7 +1315,7 @@ Salt (Ibs/acre) Amount
 
 Page 11 of 34
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1551,7 +1551,7 @@ Amount
 
 Page 12 of 34
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1589,7 +1589,7 @@ Application event totals 97.69 17.79 314.48 1,354.47
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 13 of 34
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1627,7 +1627,7 @@ Application event totals 41.26 7.39 51.91 148.23
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 14 of 34
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1653,7 +1653,7 @@ Application event totals 46.53 18.05 103.56 627.85
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 15 of 34
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1748,7 +1748,7 @@ Plant date: 11/05/2022
 
 Page 16 of 34
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1877,7 +1877,7 @@ Plant date: 06/08/2023
 
 Page 17 of 34
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1976,7 +1976,7 @@ Plant date: 11/07/2022
 
 Page 18 of 34
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2013,7 +2013,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 19 of 34
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2111,7 +2111,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 20 of 34
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2189,7 +2189,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 21 of 34
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2286,7 +2286,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 22 of 34
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2366,7 +2366,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 23 of 34
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -2409,7 +2409,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 24 of 34
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2450,7 +2450,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 25 of 34
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -2487,7 +2487,7 @@ D1 - 11/05/2022: Wheat, silage, soft dough
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 26 of 34
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 D1 - 11/05/2022: Wheat, silage, soft dough
@@ -2541,7 +2541,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 27 of 34
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 D2 - 06/14/2023: Corn, silage
@@ -2595,7 +2595,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 28 of 34
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 D4 - 11/01/2022: Wheat, silage, soft dough
@@ -2639,7 +2639,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 29 of 34
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -2673,7 +2673,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 30 of 34
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2759,7 +2759,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 Page 31 of 34
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2805,7 +2805,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 32 of 34
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2818,7 +2818,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 33 of 34
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2844,7 +2844,7 @@ eee
 Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/10/2024 09:29:16 Page 34 of 34
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2879,7 +2879,7 @@ Dixie Creek South | 24116 28 RD | Tulare, CA 93274 | Tulare County | Tulare Basi
 
 06/10/2024 09:29:16 Page 1 of 1
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 2120 South 'K’ Street
 Tulare, California 93274
 Office: (559) 688-5684
@@ -2949,7 +2949,7 @@ Residual Sodium Carbonate (RSC) 261
 RED = Value of Concern
 contact@vtaglab.com
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 August 18, 2023
 
 Lab No. : VI 2344743-009
@@ -2991,7 +2991,7 @@ TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL:
 
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 ae FAX: (530)343-3807 — FAX: (805)783-2912 : FAX: (559)734-8435 =
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
 
@@ -3062,7 +3062,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3105,7 +3105,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3171,7 +3171,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Laboratory Analysis Work Order 234 Y/3& 3041 *
 sirename: [vila F0- LABORATORY: :
 
@@ -3245,7 +3245,7 @@ Logged In By: Total Samples: Laboratory No.:
 lo.v®
 Ror
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 FGL Environmental Doc ID: 3D0900002_SOP_12.DOC
 Revision Date: 10/09/14 Page 1 of 1
 

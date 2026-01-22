@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 1 of 37
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -63,7 +63,7 @@ P-4 Ground water
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 2 of 37
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -95,7 +95,7 @@ Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/10/2024 162452 Page 3 of 37
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -125,7 +125,7 @@ Total actual harvest content 19.83 192.31 42.10 226.45 1,228.99
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 4 of 37
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -156,7 +156,7 @@ Total actual harvest content 28.24 271.84 45.94 258.44 1,054.81
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 5 of 37
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -188,7 +188,7 @@ Total actual harvest content 7.92 470.80 40.56 354.91 1,578.98
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 6 of 37
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -204,7 +204,7 @@ Total actual harvest content 7.81 510.04 42.86 340.03 1,614.41
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 7 of 37
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -236,7 +236,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 8 of 37
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -268,7 +268,7 @@ AppIication event totaIs 100.01 15.91 213.54 1,564.00
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 9 of 37
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -299,7 +299,7 @@ AppIication event totaIs 93.33 22.70 162.54 1,068.81
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 10 of 37
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -331,7 +331,7 @@ AppIication event totaIs 103.31 22.26 245.82 940.66
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 11 of 37
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -361,7 +361,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 12 of 37
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -394,7 +394,7 @@ AppIication event totaIs 121.27 24.04 265.47 1,124.43
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 13 of 37
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -429,7 +429,7 @@ AppIication event totaIs 5.31 0.00 0.00 165.07
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 14 of 37
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -461,7 +461,7 @@ AppIication event totaIs 6.28 0.00 0.00 195.41
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 15 of 37
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -495,7 +495,7 @@ AppIication event totaIs 5.87 0.00 0.00 182.55
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 16 of 37
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -520,7 +520,7 @@ AppIication event totaIs 5.34 0.00 0.00 166.15
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 16.2452 Page 17 of 37
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -556,7 +556,7 @@ AppIied to removed ratio 1.34 1.42 2.35 2.89
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 18 of 37
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -590,7 +590,7 @@ AppIied to removed ratio 1.19 1.10 2.78 4.62
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 19 of 37
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -625,7 +625,7 @@ AppIied to removed ratio 1.38 1.40 2.49 2.66
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 20 of 37
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -659,7 +659,7 @@ AppIied to removed ratio 1.23 1.38 2.87 4.07
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 21 of 37
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -693,7 +693,7 @@ AppIied to removed ratio 1.36 0.85 1.26 2.38
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 22 of 37
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -727,7 +727,7 @@ AppIied to removed ratio 1.31 0.92 4.40 4.15
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 23 of 37
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -761,7 +761,7 @@ AppIied to removed ratio 0.28 0.41 0.52 1.18
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 24 of 37
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -795,7 +795,7 @@ AppIied to removed ratio 0.26 0.44 0.40 1.23
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 25 of 37
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -828,7 +828,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 26 of 37
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -863,7 +863,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 27 of 37
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -895,7 +895,7 @@ DL 0.50 0.40 1.00 20
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 28 of 37
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -922,7 +922,7 @@ DL 500.00 200.00 200.00 0.05
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 29 of 37
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -953,7 +953,7 @@ DL 500.00 200.00 200.00 0.05
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 30 of 37
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -984,7 +984,7 @@ DL 500.00 200.00 200.00 0.05
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 31 of 37
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1001,7 +1001,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 32 of 37
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1035,7 +1035,7 @@ N P K saIt
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 33 of 37
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1072,7 +1072,7 @@ lbs lbs
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 34 of 37
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1102,7 +1102,7 @@ wastewater that are new or were revised within the reporting period
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 35 of 37
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1112,7 +1112,7 @@ WeIls D1, D3, P5, and P6 were out of service in 2023.
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 36 of 37
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1134,7 +1134,7 @@ DATE DATE
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 37 of 37
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1158,7 +1158,7 @@ Storm Water Reporting Section on page MRP-14.
 Parreira Gaspar Dairy 17800 4th AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 162452 Page 1 of 1
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -1209,7 +1209,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1256,7 +1256,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1293,7 +1293,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1329,7 +1329,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1383,7 +1383,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 October 4, 2023
 . Lab No. VI. 2346275
@@ -1444,7 +1444,7 @@ MS mg/L 12.00 89.9 90-110 435
 MSRPD mg/L 3.2 20
 Page 6 of 7 Page 6 of 7
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 October 4, 2023
 . Lab No. VI. 2346275
@@ -1478,7 +1478,7 @@ ExpIanation
 435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 7 of 7 Page 7 of 7
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Sy Laboratory AnaIysis Work Order 3160
 , DEY 0975_ _ ,
@@ -1532,7 +1532,7 @@ ILASORATORY USE ONLY .
 GL OY 5 a3
 Ya WIS
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 _ FGI, Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -1583,7 +1583,7 @@ ProbIem
 contacts 1
                        Uni
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1630,7 +1630,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1672,7 +1672,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1739,7 +1739,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 December 18, 2023
 . Lab No. VI. 2348252
@@ -1796,7 +1796,7 @@ ExpIanation
 on the LCS or CCV recovery.
 Page 4 of 4 Page 4 of 4
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
   Laboratory AnaIysis Work Order 3460
 S ry anaIy 2BN6282- .
@@ -1845,7 +1845,7 @@ CHAIN OF CUSTODY RECORDING
 NT SC 7 (SR ay
 LABORATORY USE ONLY i
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of 1

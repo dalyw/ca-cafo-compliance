@@ -25,7 +25,7 @@ a
 tums tT a
 Attachment G Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 it, Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -74,7 +74,7 @@ C1 I certify that a Manure Tracking Manifest has been prepared for each manure h
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 PART B COMPOSTING INVENTORY
 (1 certify that no composting occurs at this facility. (If box is checked, skip to Part C.)
@@ -110,7 +110,7 @@ C Check if analysis results are attached.
 If any storm water discharges from the composting operations were not analyzed for the required parameters, explain below
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 IV. Operation and Maintenance
 
@@ -164,7 +164,7 @@ Ciothers
 
 Attachment G - Annual Report
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART D - CERTIFICATION
  certify under penalty of law that this document and all attachments were prepared under my direct supervision in
@@ -183,7 +183,7 @@ Colorado River Basin Region
 Palm Desert, CA. 92260
 Attachment G - Annual Report
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Manure Tracking Manifest
 Colorado Regional Water Quality Control Board
@@ -236,7 +236,7 @@ H-1
 
 Attachment H - Manure Tracking Manifest
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Manure Tracking Manifest
 Colorado Regional Water Quality Control Board
@@ -290,7 +290,7 @@ X)
 H-1
 , Attachment H - Manure Tracking Manifest
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 2024 Manure/ Compost/ Cameiro Yard
 Month Manure In Compost out

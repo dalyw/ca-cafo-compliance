@@ -36,7 +36,7 @@ Mailing Address Number and Street City State Zip Code
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 39
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -137,7 +137,7 @@ AVAILABLE NUTRIENTS
 
 Page 2 of 39
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -169,7 +169,7 @@ Total exports for all materials 473,153.55 173,092.98 506,427.78 0.00
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 3 of 39
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -224,7 +224,7 @@ Field name: 11
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 4 of 39
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -324,7 +324,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 5 of 39
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -414,7 +414,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 6 of 39
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 16
@@ -443,7 +443,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 7 of 39
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -482,7 +482,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 8 of 39
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -521,7 +521,7 @@ Application event totals 0.00 0.00 0.00 78.68
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 9 of 39
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -753,7 +753,7 @@ Salt (Ibs/acre) Amount
 
 Page 10 of 39
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -958,7 +958,7 @@ Salt (Ibs/acre) Amount
 
 Page 11 of 39
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -997,7 +997,7 @@ Application event totals 0.00 0.00 0.00 76.41
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 12 of 39
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1036,7 +1036,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 13 of 39
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1072,7 +1072,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 14 of 39
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1111,7 +1111,7 @@ Application event totals 0.00 0.00 0.00 76.45
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 15 of 39
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1150,7 +1150,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 16 of 39
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1186,7 +1186,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 17 of 39
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1225,7 +1225,7 @@ Application event totals 0.00 0.00 0.00 70.88
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 18 of 39
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1257,7 +1257,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 19 of 39
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1304,7 +1304,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 20 of 39
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1340,7 +1340,7 @@ Applied to removed ratio 0.16 0.06 0.18 0.33
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 21 of 39
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1376,7 +1376,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 22 of 39
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1411,7 +1411,7 @@ Applied to removed ratio 0.20 0.00 0.00 3.21
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 39
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1448,7 +1448,7 @@ Applied to removed ratio 0.16 0.00 0.00 3.04
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 24 of 39
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1486,7 +1486,7 @@ Applied to removed ratio 0.19 0.00 0.00 2.48
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 25 of 39
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1523,7 +1523,7 @@ Applied to removed ratio 0.18 0.00 0.00 2.20
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 26 of 39
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1560,7 +1560,7 @@ Applied to removed ratio 0.19 0.00 0.00 2.30
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 27 of 39
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1603,7 +1603,7 @@ DL 10.00 2.00 0.10 0.10 0.20 0.50 100.00 10
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 28 of 39
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1647,7 +1647,7 @@ DL 10.00 2.00 2.00 2.00 0.20 0.50 100.00 10
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 29 of 39
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -1686,7 +1686,7 @@ E. PLANT TISSUE ANALYSES
 Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 30 of 39
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 10 - 01/10/2015: Almond, in shell
@@ -1741,7 +1741,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 31 of 39
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 13 - 01/05/2014: Almond, in shell
@@ -1796,7 +1796,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 32 of 39
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 16 - 01/06/2015: Almond, in shell
@@ -1840,7 +1840,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 33 of 39
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1878,7 +1878,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 34 of 39
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1962,7 +1962,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 35 of 39
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2008,7 +2008,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 36 of 39
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2023,7 +2023,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 37 of 39
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ANNUAL REPORT VALIDATION INFORMATION
@@ -2038,7 +2038,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 38 of 39
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2073,7 +2073,7 @@ Bear 5 Feedlot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County 
 
 06/11/2024 08:36:09 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 1
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - Genaral Order No. R5-2007-0035
 
 Reporting period 01/01/2023 to 12/31/2023,
@@ -2091,7 +2091,7 @@ DATE DATE
 Bear 5 Feediot | 12841 Bear Mountain BLVD | Bakersfield, CA 93311 | Kern County | Tulare Basin
 06/12/2024 13:44:48 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 39 of 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
 
@@ -2163,7 +2163,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2206,7 +2206,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2280,7 +2280,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 VA
 Laboratory Analysis Work Order
 
@@ -2346,7 +2346,7 @@ Relinquished Dat
 
 »
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 FGL Environmental Doc ID: 3D0900002_SOP_12.DOC
 
 Revision Date: 10/09/14 Page 1 of 1
@@ -2426,7 +2426,7 @@ contacts) Ln
 
 FGL
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2499,7 +2499,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2557,7 +2557,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2632,7 +2632,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 December 18, 2023
 
 Sentry Ag Service Lab No. : VI 2348237
@@ -2687,7 +2687,7 @@ on the LCS or CCV recovery.
 
 Page 4 of 4 Page 4 of 4
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 SITE NAME: Rew FS Fadb+
 
 Billing: Sentry Ag Services, LLC
@@ -2799,7 +2799,7 @@ Total Samples:
 Received Date & Time
 
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 FGL Environmental Doc ID: 3D0900002_SOP_14.DOC
 Revision Date: 10/10/23 Page 1 of 1
 
@@ -2876,7 +2876,7 @@ Wi 2308237
 wna
 
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -2942,7 +2942,7 @@ Manure Solids Content (if amount reported in tons): z=
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Attachment D
 
 é D-2
@@ -2985,7 +2985,7 @@ Operator’s Signature:
 Hauler’s Signature: Date:
 
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -3050,7 +3050,7 @@ Manure Solids Content (if amount reported in tons): 2
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Attachment D
 
 Waste Discharge Requirements General Order No. R5-2007-0035
@@ -3093,7 +3093,7 @@ Operator's Signature:
 Hauler’s Signature:
 
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -3157,7 +3157,7 @@ Manure Solids Content (if amount reported in tons): 722%
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Attachment D
 
 Vaste Discharge Requirements General Order No 0
@@ -3199,7 +3199,7 @@ Date: yz
 Date:
 
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -3263,7 +3263,7 @@ Manure Solids Content (if amount reported in tons): 22 0
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Attachment D
 
 Waste Discharge Requirements General Order No.
@@ -3305,7 +3305,7 @@ Operators Signature: (ZCL SCE Co
 Hauler’s Signature: ZL— Le
 
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -3370,7 +3370,7 @@ Manure Solids Content (if amount reported in tons): 42 4
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Attachment D
 
 Waste Discharge Requirements General Order N

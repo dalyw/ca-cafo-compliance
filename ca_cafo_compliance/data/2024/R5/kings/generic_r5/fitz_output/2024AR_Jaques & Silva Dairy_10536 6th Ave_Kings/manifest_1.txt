@@ -1,32 +1,32 @@
 Manure / Procesa Wastewater Tracking Manifest
 For
 Exlltlng Mllk Cow Oairles
-General Order No. R5-2007-0035, Attachment D
+General Order No. R5-2007-0035 Attachment D
 INSTRUCTIONS
-1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+1) Complete one manifest for each hauling event for each destination. A hauling event may last for several days as long as the
 manure is being hauled to the same destination.
-2) lf there are mulliple destinations, complete a separate form for each destination.
+2) lf there are mulliple destinations complete a separate form for each destination.
 3) The operator must obtain the signature of tho hauler upon completion of each manure/process wastewater hauling event.
-4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual l\,lonitoring Report for
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual l\lonitoring Report for
 Exisiing Milk Cow Dairies.
-Name of Operator: John Silva
-Name of Dairy Facility: Jaques & Silva Dairy
+Name of Operator John Silva
+Name of Dairy Facility Jaques & Silva Dairy
 Facility Address
 10536 6th AVE 
 Hanford 
 Kings 
 93230
-Contact Person Name and Phone Number: John Silva 
+Contact Person Name and Phone Number John Silva 
 (951) 314-2414
 Name
 FIonaXnm6er
 MANURE HAULER INFORMATION
-Name of Hauling Company/Person: Rodriguez Bros Hauling
+Name of Hauling Company/Person Rodriguez Bros Hauling
 Address of Hauling Company/Person
 5939 La
 BLVD
 Number and Slreet
-Contact Person: Hauling Rodriguez
+Contact Person Hauling Rodriguez
 Hanlord
 City
 CA
@@ -37,8 +37,8 @@ State
 Name
 Phone Number
 DESTINATION INFORMATION
-Composting Facility / Broker / Farmer / Other (identify): Broker
-Contaci information of Composting Facility, Broker, Farmsr, or Oth6r (as id€ntifi€d above)
+Composting Facility / Broker / Farmer / Other (identify) Broker
+Contaci information of Composting Facility Broker Farmsr or Oth6r (as id€ntifi€d above)
 Rodriguez Bros
 (5s9) s85-8243
 Name
@@ -48,7 +48,7 @@ Phone Number
 93230
 CA
 Address
-Destination Address or Assessor's Parc€l Number:
+Destination Address or Assessor's Parc€l Number
 City
 State
 93230
@@ -63,25 +63,24 @@ Street and hearest cross street (if no address)
 County
 Assesso/s Parc€l Number County
 Assesso/s Parcel Number
-Last date hauled: 1010512024
+Last date hauled 1010512024
 OPERATOR INFORMATION
-
 Manure / Process Wastewater Tracking Manlfest
 For
 Existing Milk Cow Dairies
-General Order No. R5-2007-0035, Attachment D
+General Order No. R5-2007-0035 Attachment D
 IVANURE AMOUNT HAULED
-Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount
-Manure: 
-1,850_00 tons
+Enter the amount of manure hauled in tons manure solids content and the method used to calculate the amount
+Manure 
+1850_00 tons
 Manure Solids Content;
 52.5 0/o
 lvlethod used to delemine amount of manure
 Weighted Average
 CERTIFICATION
-I deolare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that
-based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true ,
-accurate, and complete. I am aware that there are significant penalties for submitting false information, including the possibility of a
+I deolare under penalty of law that I personally examined and am familiar with the information submitted in this document and that
+based on my inquiry of those individuals immediately responsible for obtaining the information I believe that the information is true 
+accurate and complete. I am aware that there are significant penalties for submitting false information including the possibility of a
 fine and i
 sonment for kn
 g violations

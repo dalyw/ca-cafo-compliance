@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 1 of 18
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ WeIl 1 Ground water
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 2 of 18
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -85,7 +85,7 @@ Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/11/2024 130142 Page 3 of 18
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -116,7 +116,7 @@ Total actual harvest content 28.20 253.94 45.48 248.25 1,053.64
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 4 of 18
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -148,7 +148,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 5 of 18
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -180,7 +180,7 @@ AppIication event totaIs 6.31 0.00 0.00 196.38
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 6 of 18
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -193,7 +193,7 @@ AppIication event totaIs 6.39 0.00 0.00 198.76
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 7 of 18
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -228,7 +228,7 @@ AppIied to removed ratio 1.35 1.11 1.96 263
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 8 of 18
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -262,7 +262,7 @@ AppIied to removed ratio 1.22 1.23 2.41 3.50
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 9 of 18
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -295,7 +295,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 10 of 18
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -330,7 +330,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 11 of 18
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -358,7 +358,7 @@ FieId 1 - 11/11/2022 Wheat, siIage, soft dough
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 12 of 18
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -383,7 +383,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 13 of 18
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -417,7 +417,7 @@ N P K saIt
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 14 of 18
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -450,7 +450,7 @@ lbs lbs
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 130142 Page 15 of 18
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -480,7 +480,7 @@ wastewater that are new or were revised within the reporting period
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 16 of 18
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -490,7 +490,7 @@ Ag-1 was out of service in 2023.
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 17 of 18
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -509,7 +509,7 @@ eee
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 13.0142 Page 18 of 18
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -533,7 +533,7 @@ Storm Water Reporting Section on page MRP-14.
 Santa Anita Dairy 4356 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 1301.42 Page 1 of 1
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 -_N
 FGL
@@ -581,7 +581,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL. (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -618,7 +618,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL. (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -671,7 +671,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Sentry A , senrice Lab No. V1 2346275
 s Customer No. _ 4019696
@@ -730,7 +730,7 @@ MS mg/L 12.00 89.9K 90-110 435
 MSRPD mg/L 3.2 20
 Page 6 of 7 Page 6 of 7
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Sentry A , senrice Lab No. . V1.2346275
 9 Customer No. _ 4019696
@@ -761,7 +761,7 @@ ExpIanation
 435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 7 of 7 Page 7 of 7
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
   Laboratory AnaIysis Work Order 3160
 FO 02 cron
@@ -812,7 +812,7 @@ Fs ar) RO) 2)/77/
 a ae tage
 GLi WS /a3
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 _ FGI, Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -863,7 +863,7 @@ ProbIem
 contacts 1
                        Uni
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -910,7 +910,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -952,7 +952,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1019,7 +1019,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 December 18, 2023
 . Lab No. VI 2348253
@@ -1076,7 +1076,7 @@ ExpIanation
 on the LCS or CCV recovery.
 Page 4 of 4 Page 4 of 4
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
   Laboratory AnaIysis Work Order 23 3461
 SITE NAME Goda An ita LABORATORY VT L 4-19696
@@ -1126,7 +1126,7 @@ LABORATORY USE ONLY ie
 7 i 1 g
 a OH
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of 1

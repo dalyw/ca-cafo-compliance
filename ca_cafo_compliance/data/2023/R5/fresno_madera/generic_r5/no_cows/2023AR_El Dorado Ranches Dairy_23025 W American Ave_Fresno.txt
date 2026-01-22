@@ -47,7 +47,7 @@ This owner is responsible for paying permit fees.
 El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno County | Tulare Basin
 06/18/2024 12:28:03 Page 1 of 11
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -87,7 +87,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 2 of 11
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -104,7 +104,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 3 of 11
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -133,7 +133,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 4 of 11
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -149,7 +149,7 @@ No application area crops entered.
 El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno County | Tulare Basin
 06/18/2024 12:28:03 Page 5 of 11
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -184,7 +184,7 @@ No subsurface (tile) drainage analyses entered.
 El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno County | Tulare Basin
 06/18/2024 12:28:03 Page 6 of 11
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -219,7 +219,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 7 of 11
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -267,7 +267,7 @@ Ibs
 
 Page 8 of 11
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -312,7 +312,7 @@ wastewater that are new or were revised within the reporting period?
 El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno County | Tulare Basin
 06/18/2024 12:28:03 Page 9 of 11
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -334,7 +334,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 10 of 11
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -360,7 +360,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 11 of 11
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -395,7 +395,7 @@ El Dorado Ranches, Inc. | 23025 W. American RD | San Joaquin, CA 93660 | Fresno 
 
 06/18/2024 12:28:03 Page 1 of 1
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -439,7 +439,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Client: _
 
 DENELE ANALYTICAL, INC.
@@ -532,7 +532,7 @@ Relinquished Date & Time (LABORATORY USE ONLY)
 Required to be submitted to any agency? (YES / NO)
 
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 2023 AR ELDORADO RANCHES INC.
 
 Final Audit Report 2024-06-18

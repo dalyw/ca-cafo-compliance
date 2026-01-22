@@ -28,7 +28,7 @@ Other CattIe STEER 6,756 PS
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 tuys
 a
@@ -68,7 +68,7 @@ C. Amount of process wastewater transferred during the reporting period
 gaIlons.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 .
                   Vv. Summary of Production Area Discharges
@@ -100,7 +100,7 @@ kl I certify that a Manure Tracking Manifest has been prepared for each manure
 hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 Attachment G Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 I certify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -134,7 +134,7 @@ inventory and
 finished
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Il. FIood
                 Protection
@@ -166,7 +166,7 @@ O Check if anaIysis resuIts are attached.
 If any stormwater discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow.
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 , Document any erosion control or drainage probIems and/or reIated maintenance
@@ -200,7 +200,7 @@ Report the nutrient content of the manure, litter, and process wastewater that w
                needed.
                   Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
                        Source SampIe __ AnaIytical ResuIts - ,
      wa PT
@@ -229,7 +229,7 @@ f. Indicate the nitrogen form anaIyzed. Use muItipIe rows for muItipIe forms of 
 caIcuIating nutrient appIication rates.
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication N/A
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId
@@ -253,7 +253,7 @@ ee ee ee
 ee ee ee Po
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Fi ) y PIanned Manure te be AppIied ___Actual Manige Apptiedt
 Br Grom Wt dome Som Compowe samen Sih gate / compost Liquid / Others
@@ -269,7 +269,7 @@ g. If Other is seIected, write in the type of manure, litter, or wastewater to b
                  Attachment G Annual Report G-9
 po ee BS oe
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -293,7 +293,7 @@ a. List aIl fieIds where manure, compost, litter, or process wastewater was appI
 in the approved NMP
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 , PART D - GROUNDWATER MONITORING REPORT
                 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the
@@ -309,7 +309,7 @@ O Monitoring resuIts are not attached. ExpIain
                   ( Not appIicabIe. A groundwater monitoring program is not required for this faciIity.
 Attachment G - Annual Report 1
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PART E CERTIFICATION
  certify under penaIty of law that this document and aIf attachments were prepared under my
@@ -335,7 +335,7 @@ PaIm Desert, CA. 92260
 
                     Attachment G - Annual Report 2
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -361,7 +361,7 @@ HauIed to (pIease check one)- Dates HauIed
 495 W. Heber Rd. El.Centro, CA 92243
 Attachment H Manure Tracking Manifest 1
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units.
 
@@ -386,7 +386,7 @@ L os N
 HauIers Signature cb , ZL erg Date. _-F/-23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 _
 fu
@@ -396,7 +396,7 @@ we
                                                                                                                                                                                                                                                  ,
 ,
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Attachment H Manure Tracking Manifest ,
 Manure Tracking Manifest
@@ -422,7 +422,7 @@ HauIed to (pIease check one)- Dates HauIed
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units ,
 Amount removed from FaciIi Amount Composted Amount to Digester
@@ -441,7 +441,7 @@ v4 j
 HauIers Signature A Vi ate lL by pee Date_ 2-28-25
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 s ,
 i
@@ -455,7 +455,7 @@ w
                                             in
 , .
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -481,7 +481,7 @@ HauIed to (pIease check one) Dates HauIed
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Pf
 Piease enter the amount in the box beIow and circIe the appropriate units.
@@ -500,7 +500,7 @@ Operators Signature. Located Date - 3I- 23
 HauIers Signature. 7 bec tha ery Date. 2-21-23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Hy
 
@@ -515,7 +515,7 @@ m
 fa a
 a
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -540,7 +540,7 @@ IC Imperial County the owner or tenant, and the destination address, or .
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIi Amount Composted Amount to Digester
@@ -562,13 +562,13 @@ Attachment H - Manure Tracking Manifest 2
 
 ne So ae
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 cost
 we
 2 sa i
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -593,7 +593,7 @@ It Other County/State (PIease list beIow) LVS CATTLE FEEDERS
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIit Amount Composted Amount to Digester
@@ -611,11 +611,11 @@ f. _ -
 HauIers Signature Loe 42) Cr hte Date SF 23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 2 BL R
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Attachment H Manure Tracking Manifest
 . Manure Tracking Manifest
@@ -641,7 +641,7 @@ ICt Other County/State (PIease list beIow) LVS CATTLE FEEDERS
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIit Amount Composted Amount to Digester
@@ -659,12 +659,12 @@ Operators Signature. eet Date. id 3 23
 HauIers Signature Lowel ie dmusans Date & 30- 23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
                                           e- 20 53
 Setar SL
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -690,7 +690,7 @@ HauIed to (pIease check one) Dates HauIed
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIi Amount Composted Amount to Digester
@@ -707,7 +707,7 @@ Operators Signature ee tLe bate t- BI-235
 HauIers Signature- Via Date t7 3/-23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Ni
 ia
@@ -718,7 +718,7 @@ ic
 abe
 rf)
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -744,7 +744,7 @@ If Other County/State (PIease list beIow) LVS CATTLE FEEDERS
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIit Amount Composted Amount to Digester
@@ -761,7 +761,7 @@ Operators Signature becat/ br oownsien dae B- Bl-23
 HauIers Signature fe exe CL On tethen Date 3I-2 3
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 oo
 Ww
@@ -770,7 +770,7 @@ Ww wy)
 i 4
 Ww
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -796,7 +796,7 @@ HauIed to (pIease check one) Dates HauIed
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units.
 Amount removed from FaciIi Amount Composted Amount to Digester
@@ -813,7 +813,7 @@ Operators Signature Lh Lge Date 7 7 3e 23
 HauIers Signature Lthua, Date- 7- 39-23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 yy
 a)
@@ -822,7 +822,7 @@ Pet fi
 a
 ut
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 . Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -847,7 +847,7 @@ HauIed to (pIease check one) Dates HauIed
                                                                                              495 W. Heber Rd. El Centro, CA 92243
                 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIit Amount Composted Amount to Digester
@@ -866,7 +866,7 @@ HauIers Signature Ez weet Ve, Date. /0-3/- 2 2
 Attachment H - Manure Tracking Manifest 2
 eee a ee a ee ee ee ee
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 ms
 Son
@@ -880,7 +880,7 @@ a
 ,
 ,
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -909,7 +909,7 @@ HauIed to (pIease check one) Dates HauIed
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
                Pf
                 PIease enter the amount in the box beIow and circIe the appropriate units
@@ -927,12 +927,12 @@ Operators Signature PoIs CAMEL ee AR Date A FO 23
 HauIers Signature pow Ue dros e Date Uf- BO 23
 Attachment H - Manure Tracking Manifest 2
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Se Boe SF
 Wyn Ro - Ss
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Attachment H Manure Tracking Manifest
 Manure Tracking Manifest
@@ -957,7 +957,7 @@ IC Other County/State (PIease list beIow) LVS CATTLE FEEDERS
 495 W. Heber Rd. El Centro, CA 92243
 Attachment H - Manure Tracking Manifest 1
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 PIease enter the amount in the box beIow and circIe the appropriate units
 Amount removed from FaciIit Amount Composted Amount to Digester
@@ -975,7 +975,7 @@ HauIers Signature Laut 2D wu Date, / 2-3/-23
 Attachment H - Manure Tracking Manifest 2
        ne ee
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 fs
 va
@@ -987,7 +987,7 @@ gr f)
                                                                                                            i
 i4
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 a.2 RAW MANURE LOG & foate__
 _ TRACKING REPORT 2-22
@@ -1007,7 +1007,7 @@ x)
 Lhasa d baw TOTAL TONS
 (LVS CF) I HEREBY CERTIFY THE ABOVE IS TRUE AND CORRECT. 5
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 IN .
 SUS ENS SA Si
@@ -1016,7 +1016,7 @@ a Vay
 Oy Baas
 Say GS 1
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 E ws. RAW MANURE LOG & fa
 - 70
@@ -1042,7 +1042,7 @@ LL. LLL
 LE. z LF on non
 ne
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 a i ge
 - a Fares
@@ -1052,7 +1052,7 @@ o vo
 ai al
                ef
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 gee) RAW MANURE LOG & one
 a)
@@ -1072,7 +1072,7 @@ Ee ee
 LLDE. bi hby got .
 (LVS CF) HEREBY CERTIFY THE ABOVE IS TRUE AND CORRECT TOTAL TONS TS
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 er .
 os X. Oy
@@ -1082,7 +1082,7 @@ Ue oe
 ,
 s yoy Zo
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
             COMMODITY Re
 _ y aw mann Lc
@@ -1111,14 +1111,14 @@ a Go) es ed se
 (LVS CF) 1 _Zs THE POE TRUE aND CORRECT TOTAL TONS
 Bocae th Joreve
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 So S88
 te yaa,
 Ther by.
 SP STOO)
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 COMMODITY Me
 ot) RAW MANURE LOG & poate
@@ -1147,7 +1147,7 @@ a eC OO
 Ee
 (LVS CF) I HERE CER THE POSE AND CORRECT, /OTAL TONS /0 97. 75
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 tn ,
 So fe
@@ -1159,7 +1159,7 @@ ST OO a ,
 are en
 V
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 a RAW MANURE LOG & bare. LoD
 TRACKING REPORT t -
@@ -1191,7 +1191,7 @@ Ee ee ss
    Le 4 Cp 4 pes-e-
 (LVS CF) THEREBY CERTIFY mene IS TRUE AND CORRECT TOTAL TONS 5
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 GO, LF
 ce BAS
@@ -1199,7 +1199,7 @@ Oe PY
 ee
 2 3 ah
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 COMMODITY Re
 a RAW MANURE LOG & pate 73
@@ -1229,7 +1229,7 @@ Es ee ee
 (LVS CF) 1 HEREBY CERTIFY THE ABOVE IS TRUE AND CORRECT. TOTAL TONS
 gp Bt tt A
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 co Ye 3 2)
 yy
@@ -1241,7 +1241,7 @@ pl Aci
 CE 8s .
 is y e 0)
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 f RAW MANURE LOG & baw
 L TRACKING REPORT -292 2
@@ -1259,12 +1259,12 @@ Es es ee es es
 Choceat raise TOTALTONS / 087.75
 (LVS CF) 1 HEREBY CERTIFY THE ABOVE IS TRUE AND CORRECT .
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 0 OA.
 y aS) 1
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 _a RAW MANURE LOG & Joate ,
 
@@ -1298,12 +1298,12 @@ Le. oe Lb bases TOTAL TONS
 Zewth la, 289-
 kana Catt
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 CE Se ge - h
 ve Oy
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
                i RAW MANURE LOG & fpate 4
                                                                                                 - ca) QZ
@@ -1334,7 +1334,7 @@ a
                     TOTAL TONS
 (LVS CF) HEREBY ie ABOVE IS TRUE AND CORRECT j0 44 Pa tD
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 SS we og
  abot a
@@ -1344,7 +1344,7 @@ x. t . Nets
    pes
 ee 4
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
                                                           Bn
 COMMODITY Re
@@ -1373,7 +1373,7 @@ Ee ee
 Fe ee es
 (LVS CF) I Loves Days AND CORRECT.
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 CLS se ae
 ar
@@ -1384,7 +1384,7 @@ sR as
 . ee
 q.y i ay
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 COMMODITY. Me
 ET al RAW MANURE LOG & pate
@@ -1414,7 +1414,7 @@ Cs
 (LVS _je ave IS TRUE AND CORRECT TOTAL TONS
     jo 1-75
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Lad an.
 ad AE
@@ -1422,7 +1422,7 @@ ad AE
 WS ED
 Yb Soest
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 STORM WATER MANAGEMENT STRUCTURE INSPECTIONS LOG SHEET
 LVS CATTLE FEEDERS
@@ -1457,7 +1457,7 @@ weeki1 2/14 lec fon sd
 . 0 ,
 WEEK 12 seIec foe
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
  ori oo
 er
@@ -1480,7 +1480,7 @@ fIee
  eIe LoL
 maIe Lee bo
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
             _
  oorfeIecton
@@ -1503,7 +1503,7 @@ wwe (tl ec ow
 pose lec oe
 peor 7/16 ce. oe )
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 2023WATER caGo17001
 i TRUCK
@@ -1532,7 +1532,7 @@ ee a
 ee i
 i i
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 fe
                         2023WATER cares
@@ -1569,7 +1569,7 @@ es ee ee ee
 ee ee ee es
 es ee
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 2023WATER cago17001
 a TRUCK
@@ -1599,7 +1599,7 @@ ee ee ee
 ee ee ee
 i i
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
                2023WATER cagos7001
 
@@ -1627,7 +1627,7 @@ a ee ee
 
   ee a ee
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 2023WATER cAaGo17001
 I TRUCK
@@ -1656,7 +1656,7 @@ a es
 a es
       er
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
                              2023WATER cxconsn
         TRUCK
@@ -1684,7 +1684,7 @@ re ee ee a
 a a ee a
 ee ee ee ee _ ft
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
                 WATER LINE INSPECTIN LOG SHEET CAG017001
 LVS CATTLE FEEDERS
@@ -1723,7 +1723,7 @@ las
 oIec
 ject Cd 2023
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
   . WATER LINE INSPECTIN LOG SHEET
 LVS CATTLE FEEDERS
@@ -1758,7 +1758,7 @@ lec sf PO
         oIe fo ofl
                                                                                      re
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
  . WATER LINE INSPECTIN LOG SHEET
 LVS CATTLE FEEDERS
@@ -1796,7 +1796,7 @@ las, CTC ssf OO
 lec Tiff PO
 aIge t(twtCsdrCSCCd soos
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
   . WATER LINE INSPECTIN LOG SHEET
 LVS CATTLE FEEDERS
@@ -1834,7 +1834,7 @@ aIos, ste PO
 pofec. foie. FO
 axfec. sf PO
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
   . WATER LINE INSPECTION LOG SHEET
 LVS CATTLE FEEDERS
@@ -1873,7 +1873,7 @@ jofes C(idS fee OC
 
 sje
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 . WATER LINE INSPECTIN LOG SHEET
 
@@ -1911,7 +1911,7 @@ rsigs. i Side CCSCSCSCSCS
 fIee) dSCSii Sd CCCCdSCs
 fofec) -diiddwfee f SCSCCSsSCC
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Attachment I Stormwater and Wastewater Management Structure and Water Lines
 Inspection Form .
@@ -1947,7 +1947,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 1
 and Water Lines Inspection Form
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 OK Notes _DaiIy
 ( ifno_ (Note any probIems found and Date Inspections
@@ -1982,7 +1982,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 2
 and Water Lines Inspection Form .
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 OK Notes DaiIy
 (Vifno (Note any probIems found and Date Inspections
@@ -2017,7 +2017,7 @@ Week
                   Attachment I - Stormwater and Wastewater Management Structure 3
                and Water Lines Inspection Form
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
                                                              OK Notes DaiIy
 (Wifno (Note any probIems found and Date Inspections
@@ -2052,7 +2052,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 4
 ) and Water Lines Inspection Form ,
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 ( ifno_ (ote any probIems found and wate Inspections
 probIems possibIe soIutions.) Corrected / Conducted2
@@ -2081,7 +2081,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 5
 and Water Lines Inspection Form OO
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Attachment J - Discharge Notification Form
 CaIifornia Regional Water QuaIity Control Board
@@ -2135,12 +2135,12 @@ waterbody).
 
 Attachment J - Discharge Notification Form 1
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
                   f VoIume Give an estimate of the number of gaIlons or tons of manure, litter, or process wastewater discharged
 Attachment J - Discharge Notification Form . 2
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Provide anaIytical resuIts from each discharge of manure, compost, litter, and/or process
  wastewater that occurred during the reporting period. Attach additional sheets, if needed.
@@ -2210,7 +2210,7 @@ Enterococcust ss MPN/100mE CT
 
 Attachment J - Discharge Notification Form 3
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Downstream (monitoring location RSW-002)
 Describe monitoring location
@@ -2255,7 +2255,7 @@ Phosphorus, Tota ss _ mgt CT
 CAS000001) for activities onIy under SIC 287X.
 Attachment J - Discharge Notification Form 4
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 (
 Attachment K - NOI Form
@@ -2296,7 +2296,7 @@ persons2 tons/gaIlons
 Lagoons (gaIlons) Others (specify). (gaIlons)
 Attachment K - NOI Form 1
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
                      . ne
 Vil. TYPE OF STORAGE

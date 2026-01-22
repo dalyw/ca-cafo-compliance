@@ -27,7 +27,7 @@ a
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 IIl Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -90,7 +90,7 @@ noncompIiance.
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 VII. Certification of Preparation of Inspection Logs And Manifests
  I certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -100,7 +100,7 @@ I certify that a Manure Tracking Manifest has been prepared for each manure hauI
 have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 oO I certify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -137,7 +137,7 @@ a Check if anaIysis resuIts are attached.
 If any storm water discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow-
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Document any erosion control or drainage probIems and/or reIated maintenance
 
@@ -185,7 +185,7 @@ b. Indicate the date of the sampIe resuIts reported.
 c. Indicate the reporting units (i-e., mg/L, mg/kg, Ib/ton, or Ib/1,000 gaIlons).
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Report the resuIts of the most recent soil nutrient anaIyses used in caIcuIating nutrient appIication rates for the
 crops harvested during the reporting year. If soil is not anaIyzed for nitrogen, report the caIcuIated amount of pIant
@@ -206,7 +206,7 @@ g. Indicate the caIcuIated amount of pIant avaiIabIe nitrogen in the soil, if so
 caIcuIating nutrient appIication rates.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 IV. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId achieved, the amount of
@@ -219,7 +219,7 @@ Units Compost Liquid Other Compost Liquid Others.
 
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 PIanned Manure to be AppIied Actual Manure AppIied
 . 7 YieId
@@ -236,7 +236,7 @@ f. Report the actual amount of manure, litter, or wastewater appIied.
 g. If Other is seIected, write in the type of manure, litter, or wastewater to be appIied.
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 For each fieId where manure, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total nitrogen and phosphorus appIied per
 
@@ -257,7 +257,7 @@ cn arisnee aan
 approved NMP.
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 TD ATE
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the CAFOs
@@ -284,11 +284,11 @@ CoIorado River Basin Region
 PaIm Desert, CA. 92260
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 2023 DaiIy Inspection Reports
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 A
 wo
@@ -382,7 +382,7 @@ vo fay Ss 2 S Fs FFF PFee PE YX SF F FFF BD 28
 aS
 az
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 on ao a
 a 5 3 4 a
@@ -488,7 +488,7 @@ An a a a A aA A A A A A A A ai - com
 ied
 a
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
    8
 z oO 1
@@ -614,7 +614,7 @@ S S 5 ss 5 28
 gq N
 a
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 2 3
 _ i d
@@ -750,7 +750,7 @@ Fo o6Fl6hU6SIlUBS
 sf
 ao
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
    2 2 2
 S S S & 2 2
@@ -867,7 +867,7 @@ s S s Q iN Q Ql ad co c c on
 5a
 a
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 _ 3
 s & 2X
@@ -1000,7 +1000,7 @@ S 3 3 8 3&8
 a wf
 aS
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 a
 a 3 2
@@ -1106,7 +1106,7 @@ a S ry S So & & & G&G & FG FG FGF GF FG GF GF GB ca
 ied
 ao -
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 A
 Pm)
@@ -1201,7 +1201,7 @@ DP DP PD OO OO OREN
 ae
 o-
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 A
 Pm)
@@ -1299,7 +1299,7 @@ CO OO OREN
 Gr
 ao -
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Pal
 a
@@ -1396,7 +1396,7 @@ oo 2 Se ee 8 ee eee SOROS NSU UR
 Said
 o-
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 c
  2 Ss
@@ -1502,7 +1502,7 @@ ee x 2 gf g ge Y 2 RF ze Bgqq F& F QVg g Q
 yr Xe oN X YF oF SF KF KN KF G6 C6 C6 6 C6 G6 CG G Sai
 a5
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Pal
 oO
@@ -1601,7 +1601,7 @@ an YN 29 F- FF 5 5 FS FE F F F F Be Be EE SC & FTE sg N
 Gr
 ao -
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 oO
 a
@@ -1697,7 +1697,7 @@ ee se 2- 2 fy gg Q2gqesqgsys F F F SF F F FF FF SF RE N
 Se
 ao -
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Pl
 oO
@@ -1793,7 +1793,7 @@ an s 5 2 2&2 & 2 8 FT BPH FB Fe uoe2wzaessggsFhsz ba
 6 6 6 6 6 6 6 6G 6 BG BF FF FF FY FY F F EQ
 aS
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Pl
 (av)
@@ -1888,7 +1888,7 @@ FoF FF FF FF FF FF FF FF FF F FF GB FA
 So
 ao -
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Pal
 oO
@@ -1989,7 +1989,7 @@ an ea gvggegeggsgs f & F FF F F FF FE FE FPS N
 Gr
 ao -
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Pl
 (av)
@@ -2087,7 +2087,7 @@ oo 6 6 6 6 SF GF SF GF SF A A A HN A A NHN A KH AN NHN EG
 So
 ao -
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 oO
 Pm)
@@ -2183,7 +2183,7 @@ NN NON NNN NNN NNN NNN
 Gr
 ao -
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Pl
 (av)
@@ -2278,7 +2278,7 @@ a Se oe er fF fF fF Ff F F F F F FF F F F F F SF F SF EG
 sf
 ao -
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Pa)
 oO
@@ -2375,11 +2375,11 @@ iA a g FY 2 Qe aN
 aS
 ao -
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 2023 WeekIy Inspection Reports
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 ALL. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 12/31/2023
@@ -2444,7 +2444,7 @@ Yes damage to the liners and/or
 Brandt CattIe - R7-2021-0029 CAG117001 Page 1 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 AML. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2510,7 +2510,7 @@ Yes Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 2 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ABAL Brandt CattIe - R7-2021-0029 CAG117001 WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2577,7 +2577,7 @@ Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 3 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 ALL. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 9/14/2023
@@ -2642,7 +2642,7 @@ Yes damage to the liners and/or
 Brandt CattIe - R7-2021-0029 CAG117001 Page 4 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 AML. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2708,7 +2708,7 @@ Yes Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 5 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 AGL. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2775,7 +2775,7 @@ Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 6 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 ALL. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 /23/2023
@@ -2840,7 +2840,7 @@ Yes damage to the liners and/or
 Brandt CattIe - R7-2021-0029 CAG117001 Page 7 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 AML. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2906,7 +2906,7 @@ Yes Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 8 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 AGL. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2973,7 +2973,7 @@ Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 9 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 we Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 1/80/2023
@@ -3023,11 +3023,11 @@ Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 10 of 10
 1112/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 2023 MonthIy Inspection Reports
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Se Brandt CattIe - R7-2021-0029, CAG117001 MonthIy
 12/1/2023
@@ -3083,7 +3083,7 @@ Month April Inspector Comments MortaIity Management Inspected
 Brandt CattIe - R7-2021-0029 CAG117001 Page 1 of 2
 1/12/2024 CafoPro.com - CompIiance by Design TM
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 jUArU
 e- Brandt CattIe - R7-2021-0029 CAG117001 MonthIy

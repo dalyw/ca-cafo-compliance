@@ -22,7 +22,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Four J Jerseys 42 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -52,7 +52,7 @@ _ Yes. Number of discharges occurred (see Attachment H).
 BBB INNOVATIVE ac services
 Page 1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Four J Jerseys 42 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -108,7 +108,7 @@ constituent concentrations, and detection limits (see Attachment E).
 BBR INNOVATIVE ac services
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Four J Jerseys 42 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -143,7 +143,7 @@ _ It was not possible to collect any of the required samples or perform-visual o
 BBR INNOVATIVE Ac services
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 DoeuSign Envelope ID 15FFFO02C-01E5-4CF0-94A8-8F9087B8024B
 Four J Jerseys 42 2023
@@ -159,7 +159,7 @@ Title and Date Title and Date
 L INNOVATIVE ac services
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Four J Jerseys 42 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -176,7 +176,7 @@ Title and Date Title and Date
 L INNOVATIVE AG Services
 Page 4
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Four J Jerseys 42 2023
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -205,7 +205,7 @@ wastewater transferred offsite (Attachment C).
 BBB INNOVATIVE ac services
 Page 5
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -232,7 +232,7 @@ BBR INNOVATIVE ac services
 
 Page 6
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -260,7 +260,7 @@ a INNOVATIVE Ac Services
 
 Page 7
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -285,7 +285,7 @@ L INNOVATIVE Ac services
 
 Page 8
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -313,7 +313,7 @@ BB INNOVATIVE ac services
 
 Page 9
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -340,7 +340,7 @@ BBB INNOVATIVE ac services
 
 Page 10
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -368,7 +368,7 @@ BB NNOVATIVE 4c seavices
 
 Page 11
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Four J Jerseys 2 2023
 Nutrient Applications (Attachment B)
@@ -395,7 +395,7 @@ Season Nitrogen Ratio 1.15 Lbs Per Acre, 231 50 207 601 201
 
 Page 12
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -423,7 +423,7 @@ BBR INNOVATIVE dc services
 
 Page 13
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -446,7 +446,7 @@ and harvest events.
 BBR INNOVATIVE ac services
 Page 14
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Four J Jerseys 42 2023
 Nutrient Applications (Attachment B)
@@ -477,7 +477,7 @@ If Application Units Gallons, Then Lbs Applied per Acre Application Amount (per 
  INNOVATIVE Ac Services
 Page 15
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Four J Jerseys 42 2023
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -504,7 +504,7 @@ BBB INNOVATIVE 4c services
 
 Page 16
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Four J Jerseys 42 2023
 Land Application Area Description Technical Report (Attachment D)
@@ -516,7 +516,7 @@ Production Area APN(s) x228 x020 x012 00x
 BBB INNOVATIVE ac services
 Page 17
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Four J Jerseys 42 2023
 Lab Results Summary (Attachment E)
@@ -559,7 +559,7 @@ BBR INNOVATIVE ac services
 
 Page 18
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Four J Jerseys 42 2023
 Lab Results Summary (Attachment E)
@@ -584,7 +584,7 @@ Averages. 22.40 1,006
 BBR INNOVATIVE Ac services
 Page 19
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Four J Jerseys 2 2023
 Lab Results Summary (Attachment E)
@@ -603,7 +603,7 @@ Averages 0.00 52 40.00 0.00
 BR INNOVATIVE ac services
 Page 20
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Four J Jerseys 42 2023
 Planting and Harvest Information (Attachment F)
@@ -621,7 +621,7 @@ Field PS
 BBR INNOVATIVE ac services
 Page 21
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Four J Jerseys 42 2023
 Weather Data (Attachment G)
@@ -649,7 +649,7 @@ Note SWP - Standing Water Present
 GBR INNOVATIVE ac services
 Page 22
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -691,7 +691,7 @@ TEL (805)392-2000 TEL (200)642-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)734-8435
 CAELAP Certification No. 1573 CAELAP Gentification No, 1563 CA ELAP Certification No. 2670 GAELAP Certification No. 2778 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Tes Ss
 ENVIRONMENTAL AGRICULTURAL
@@ -731,7 +731,7 @@ TEL (808)302-2000 TEL (206)042-0182 TEL (690)343-5818 TEL (805)782-2640 TEL (550
 Env FAX (808)525-4172 / Ag FAX (806)392-2063 FAX (208)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (858)734-8435
 CA ELAP Certification No. 1573 CA ELAP Gerfification No. 1663 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 I
 ENVIRONMENTAL AGRICULTURAL
@@ -772,7 +772,7 @@ TEL (805)302-2000 TEL (200)942-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (550
 Env FAX (808)525-4172 /Ag FAX (805)362-2063 FAX (208)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (650)734-6435
 CA ELAP Certification No, 1573 CAELAP Certification No. 1663 CA ELAP Certification No. 2870 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 oF . C)
  TM Laboratory Analysis Work Order N 40123
@@ -821,7 +821,7 @@ Logged In By Total Samples_ Laboratory Adainy
 i a 2
 7 THE PRRUTER INC. - 558-992-5127
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 az
 ENVIRONMENTAL AGRICULTURAL
@@ -865,7 +865,7 @@ TEL (805)382-2000 TEL (200)942-0162 TEL (630)343-5818 TEL (605)783-2940 TEL (550
 Env FAX (808)625-4172 / Ag FAX (805)302-2063 FAX (200)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)734.8436
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1663 CA ELAP Cortification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -905,7 +905,7 @@ TEL. (805)302-2000 TEL (208)942-0182 TEL (830)343-5618 TEL (605)783-2840 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (830)343-3807 FAX (805)783-2612 FAX (550)734-8435
 CA ELAP Certification No. 1573 CAELAP Cantification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Cartificatlon No, 2810
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 a
 ENVIRONMENTAL AGRICULTURAL
@@ -945,7 +945,7 @@ TEL (808)362-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (805)782-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)302-2083 FAX (208)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (868)734-8435
 CA ELAP Certification No. 1873 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 . io
 

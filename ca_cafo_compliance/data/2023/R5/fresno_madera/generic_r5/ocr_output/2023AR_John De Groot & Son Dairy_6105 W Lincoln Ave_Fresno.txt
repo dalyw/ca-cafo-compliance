@@ -26,7 +26,7 @@ C. OWNERS
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 1 of 127
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -49,7 +49,7 @@ MaiIing Address Number and Street City State Zip Code
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 2 of 127
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -86,7 +86,7 @@ Fw-14 Ground water
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 3 of 127
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -125,7 +125,7 @@ No liquid nutrient exports entered.
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 4 of 127
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -167,7 +167,7 @@ FieId name 16A1
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 5 of 127
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -198,7 +198,7 @@ Total actual harvest content 14.58 247.78 37.90 285.68 1,027.59
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 6 of 127
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -229,7 +229,7 @@ Total actual harvest content 19.15 340.89 49.79 348.55 1,319.39
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 7 of 127
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -260,7 +260,7 @@ Total actual harvest content 23.90 281.99 33.46 248.53 845.37
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 8 of 127
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -292,7 +292,7 @@ Total actual harvest content 8.81 482.63 47.56 369.90 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 9 of 127
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -324,7 +324,7 @@ Total actual harvest content 9.87 582.06 53.27 414.35 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 10 of 127
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -356,7 +356,7 @@ Total actual harvest content 23.29 330.79 27.95 251.58 1,096.91
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 11 of 127
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -388,7 +388,7 @@ Total actual harvest content 13.25 763.12 71.54 556.44 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 12 of 127
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -420,7 +420,7 @@ Total actual harvest content 15.53 239.09 37.26 301.20 1,076.96
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 13 of 127
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -451,7 +451,7 @@ Total actual harvest content 24.05 298.24 28.86 254.94 1,036.37
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 14 of 127
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -483,7 +483,7 @@ Total actual harvest content 6.83 398.93 36.89 286.90 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 15 of 127
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -510,7 +510,7 @@ FieId name 9E
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 16 of 127
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -541,7 +541,7 @@ Total actual harvest content 25.03 340.34 40.04 330.33 1,041.48
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 17 of 127
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -573,7 +573,7 @@ Total actual harvest content 24.96 344.47 44.93 334.48 1,171.53
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 18 of 127
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -607,7 +607,7 @@ AppIication event totaIs 276.08 81.10 359.89 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 19 of 127
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -641,7 +641,7 @@ AppIication event totaIs 15.00 0.00 0.00 506.42
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 20 of 127
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -673,7 +673,7 @@ AppIication event totaIs 11.01 0.00 0.00 371.73
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 21 of 127
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -707,7 +707,7 @@ AppIication event totaIs 16.51 0.00 0.00 557.60
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 22 of 127
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -740,7 +740,7 @@ AppIication event totaIs 21.26 0.00 0.00 708.56
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 23 of 127
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -774,7 +774,7 @@ AppIication event totaIs 16.53 0.00 0.00 551.10
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 24 of 127
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -807,7 +807,7 @@ AppIication event totaIs 17.60 0.00 0.00 640.82
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 25 of 127
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ AppIication event totaIs 19.35 0.00 0.00 704.90
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 26 of 127
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -874,7 +874,7 @@ AppIication event totaIs 18.19 0.00 0.00 662.63
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 27 of 127
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -908,7 +908,7 @@ AppIication event totaIs 16.22 0.00 0.00 823.61
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 28 of 127
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -941,7 +941,7 @@ AppIication event totaIs 14.44 0.00 0.00 481.46
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 29 of 127
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -975,7 +975,7 @@ AppIication event totaIs 14.44 0.00 0.00 481.46
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 30 of 127
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1006,7 +1006,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 31 of 127
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1040,7 +1040,7 @@ AppIication event totaIs 14.44 0.00 0.00 481.46
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 32 of 127
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1075,7 +1075,7 @@ AppIication event totaIs 21.01 0.00 0.00 692.89
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 33 of 127
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1108,7 +1108,7 @@ AppIication event totaIs 10.60 0.00 0.00 458.56
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 34 of 127
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1141,7 +1141,7 @@ AppIication event totaIs 263.52 72.60 268.89 6,964.34
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 35 of 127
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1174,7 +1174,7 @@ AppIication event totaIs 11.07 0.00 0.00 548.25
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 36 of 127
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1207,7 +1207,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 37 of 127
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1240,7 +1240,7 @@ AppIication event totaIs 274.49 80.63 357.82 0.00
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 38 of 127
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1274,7 +1274,7 @@ AppIication event totaIs 10.27 0.00 0.00 464.14
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 39 of 127
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1309,7 +1309,7 @@ AppIication event totaIs 22.61 0.00 0.00 978.26
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 40 of 127
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1341,7 +1341,7 @@ Crop Corn, siIage PIant date 06/22/2023
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 41 of 127
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1374,7 +1374,7 @@ AppIication event totaIs 10.64 0.00 0.00 460.52
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 42 of 127
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1407,7 +1407,7 @@ AppIication event totaIs 9.63 0.00 0.00 437.53
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 43 of 127
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1440,7 +1440,7 @@ AppIication event totaIs 8.63 0.00 0.00 426.08
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 44 of 127
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1474,7 +1474,7 @@ AppIication event totaIs 6.62 0.00 0.00 300.81
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 45 of 127
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1508,7 +1508,7 @@ AppIication event totaIs 8.63 0.00 0.00 426.08
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 46 of 127
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1542,7 +1542,7 @@ AppIication event totaIs 6.15 0.00 0.00 303.51
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 47 of 127
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1576,7 +1576,7 @@ AppIication event totaIs 7.69 0.00 0.00 379.39
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 48 of 127
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1609,7 +1609,7 @@ AppIication event totaIs 7.81 0.00 0.00 410.97
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 49 of 127
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1642,7 +1642,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 50 of 127
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1675,7 +1675,7 @@ AppIication event totaIs 8.56 0.00 0.00 450.38
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 51 of 127
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1709,7 +1709,7 @@ AppIication event totaIs 6.42 0.00 0.00 337.66
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 52 of 127
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1743,7 +1743,7 @@ QE - 02/01/2022 AIfaIfa, hay
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 53 of 127
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1778,7 +1778,7 @@ AppIication event totaIs 13.33 0.00 0.00 689.04
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 54 of 127
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1811,7 +1811,7 @@ AppIication event totaIs 13.05 0.00 0.00 674.69
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 55 of 127
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1845,7 +1845,7 @@ AppIication event totaIs 266.97 11.40 270.15 4,063.17
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 56 of 127
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1878,7 +1878,7 @@ AppIication event totaIs 13.45 0.00 0.00 663.46
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 57 of 127
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1911,7 +1911,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 58 of 127
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1945,7 +1945,7 @@ AppIication event totaIs 13.40 0.00 0.00 613.97
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 59 of 127
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1971,7 +1971,7 @@ AppIication event totaIs 13.40 0.00 0.00 613.97
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 60 of 127
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2006,7 +2006,7 @@ AppIied to removed ratio 1.09 0.50 0.68 3.07
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 61 of 127
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2039,7 +2039,7 @@ AppIied to removed ratio 1.28 1.79 1.19 4.06
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 62 of 127
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2073,7 +2073,7 @@ AppIied to removed ratio 1.05 0.49 0.67 2.92
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 63 of 127
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2110,7 +2110,7 @@ AppIied to removed ratio 1.39 0.78 1.56 6.62
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 64 of 127
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2146,7 +2146,7 @@ AppIied to removed ratio 1.39 1.97 1.31 4.32
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 65 of 127
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2180,7 +2180,7 @@ AppIied to removed ratio 0.87 0.40 0.59 2.85
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 66 of 127
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2213,7 +2213,7 @@ AppIied to removed ratio 1.05 1.44 1.22 3.27
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 67 of 127
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2246,7 +2246,7 @@ AppIied to removed ratio 0.78 0.63 0.84 3.91
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 68 of 127
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2279,7 +2279,7 @@ AppIied to removed ratio 1.37 241 1.44 4.47
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 69 of 127
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2313,7 +2313,7 @@ AppIied to removed ratio 0.84 0.52 0.70 3.77
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 70 of 127
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2347,7 +2347,7 @@ AppIied to removed ratio 1.09 2.60 1.10 5.33
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 71 of 127
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2381,7 +2381,7 @@ AppIied to removed ratio 0.29 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 72 of 127
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2415,7 +2415,7 @@ AppIied to removed ratio 1.06 1.67 0.94 7.93
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 73 of 127
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2450,7 +2450,7 @@ AppIied to removed ratio 1.31 0.19 0.54 3.97
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 74 of 127
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2486,7 +2486,7 @@ AppIied to removed ratio 0.31 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 75 of 127
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2522,7 +2522,7 @@ AppIied to removed ratio 0.23 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 76 of 127
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2556,7 +2556,7 @@ AppIied to removed ratio 1.32 2.02 1.14 5.88
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 77 of 127
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2589,7 +2589,7 @@ AppIied to removed ratio 1.07 2.88 1.42 3.22
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 78 of 127
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2621,7 +2621,7 @@ AppIied to removed ratio 1.13 1.82 1.04 6.68
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 79 of 127
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2656,7 +2656,7 @@ AppIied to removed ratio 1.02 2.16 1.54 2.43
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 80 of 127
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2691,7 +2691,7 @@ AppIied to removed ratio 0.20 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 81 of 127
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2724,7 +2724,7 @@ AppIied to removed ratio 1.40 2.96 1.54 8.22
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 82 of 127
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2758,7 +2758,7 @@ AppIied to removed ratio 1.10 2.33 1.76 2.78
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 83 of 127
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2792,7 +2792,7 @@ AppIied to removed ratio 1.27 1.95 0.89 7.90
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 84 of 127
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2828,7 +2828,7 @@ AppIied to removed ratio 1.08 0.49 1.10 4.86
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 85 of 127
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2862,7 +2862,7 @@ AppIied to removed ratio 1.26 1.95 0.89 7.76
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 86 of 127
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2896,7 +2896,7 @@ AppIied to removed ratio 1.09 0.41 1.09 5.96
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 87 of 127
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2931,7 +2931,7 @@ AppIied to removed ratio 0.66 0.62 0.95 2.75
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 88 of 127
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2966,7 +2966,7 @@ AppIied to removed ratio 1.37 0.25 0.94 3.94
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 89 of 127
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3001,7 +3001,7 @@ AppIied to removed ratio 0.19 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 90 of 127
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3037,7 +3037,7 @@ AppIied to removed ratio 0.19 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 91 of 127
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3073,7 +3073,7 @@ AppIied to removed ratio 0.62 0.48 0.64 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 92 of 127
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3108,7 +3108,7 @@ AppIied to removed ratio 0.17 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 93 of 127
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3141,7 +3141,7 @@ AppIied to removed ratio 0.77 0.58 0.81 3.79
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 94 of 127
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3175,7 +3175,7 @@ AppIied to removed ratio 1.00 0.28 0.82 7.17
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 95 of 127
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3211,7 +3211,7 @@ AppIied to removed ratio 0.26 0.00 0.00 0.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 96 of 127
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3244,7 +3244,7 @@ AppIied to removed ratio 1.35 0.58 1.05 3.56
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 97 of 127
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3278,7 +3278,7 @@ AppIied to removed ratio 1.02 0.26 0.83 6.26
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 98 of 127
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3312,7 +3312,7 @@ B. PROCESS WASTEWATER ANALYSES
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 99 of 127
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3347,7 +3347,7 @@ DL 0.50 0.50 0.50 0.50 1.00 10
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 100 of 127
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3379,7 +3379,7 @@ FW-12
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 101 of 127
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3411,7 +3411,7 @@ FW-15
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 102 of 127
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3443,7 +3443,7 @@ FW-19
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 103 of 127
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3475,7 +3475,7 @@ FW-21
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 104 of 127
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3507,7 +3507,7 @@ FW-24
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 105 of 127
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3539,7 +3539,7 @@ FW-27
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 106 of 127
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3571,7 +3571,7 @@ FW-3
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 107 of 127
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3603,7 +3603,7 @@ FW-5
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 108 of 127
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3630,7 +3630,7 @@ E. PLANT TISSUE ANALYSES
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 109 of 127
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3661,7 +3661,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 110 of 127
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3692,7 +3692,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 111 of 127
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3723,7 +3723,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 112 of 127
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3754,7 +3754,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 113 of 127
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3785,7 +3785,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 114 of 127
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3816,7 +3816,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 115 of 127
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3847,7 +3847,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 116 of 127
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3878,7 +3878,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 117 of 127
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3909,7 +3909,7 @@ DL 100.00 100.00 100.00 0.01
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 118 of 127
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3940,7 +3940,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 119 of 127
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3971,7 +3971,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 120 of 127
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4002,7 +4002,7 @@ DL 100.00 100.00 100.00
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 121 of 127
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4027,7 +4027,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 122 of 127
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4061,7 +4061,7 @@ N P K saIt
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 123 of 127
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4093,7 +4093,7 @@ lbs lbs
 John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 124 of 127
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4123,7 +4123,7 @@ wastewater that are new or were revised within the reporting period
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 125 of 127
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4141,7 +4141,7 @@ John DeGroot & Son L.L-P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San 
 
 06/18/2024 093813 Page 126 of 127
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4158,7 +4158,7 @@ DATE DATE
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 0938713 Page 127 of 127
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4182,7 +4182,7 @@ Storm Water Reporting Section on page MRP-14.
 John DeGroot & Son L.L.P. 6105 W LincoIn AVE Fresno, CA 93706 Fresno County San Joaquin River Basin
 06/18/2024 093813 Page 1 of 1
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -4225,7 +4225,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 John de Groot & Son AccountH 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -4250,7 +4250,7 @@ patty interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 49
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 SELLAVALLE
 
@@ -4289,7 +4289,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
 SELLAVALLE
 
@@ -4329,7 +4329,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 SELLAVALLE
 
@@ -4369,7 +4369,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 SELLAVALLE
 
@@ -4409,7 +4409,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 SELLAVALLE
 
@@ -4449,7 +4449,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 SELLAVALLE
 
@@ -4489,7 +4489,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 SELLAVALLE
 
@@ -4529,7 +4529,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 SELLAVALLE
 
@@ -4569,7 +4569,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
 SELLAVALLE
 
@@ -4609,7 +4609,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
 SELLAVALLE
 
@@ -4649,7 +4649,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
 SELLAVALLE
 
@@ -4689,7 +4689,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
 SELLAVALLE
 
@@ -4729,7 +4729,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
 SELLAVALLE
 
@@ -4769,7 +4769,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
 SELLAVALLE
 
@@ -4809,7 +4809,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
 SELLAVALLE
 
@@ -4849,7 +4849,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
 SELLAVALLE
 
@@ -4889,7 +4889,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 SELLAVALLE
 
@@ -4929,7 +4929,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 147
+=== Page 147 ===
 
 SELLAVALLE
 
@@ -4969,7 +4969,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 148
+=== Page 148 ===
 
 SELLAVALLE
 
@@ -5009,7 +5009,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 149
+=== Page 149 ===
 
 SELLAVALLE
 
@@ -5049,7 +5049,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 150
+=== Page 150 ===
 
 SELLAVALLE
 
@@ -5089,7 +5089,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 151
+=== Page 151 ===
 
 SELLAVALLE
 
@@ -5129,7 +5129,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 152
+=== Page 152 ===
 
 SELLAVALLE
 
@@ -5169,7 +5169,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 153
+=== Page 153 ===
 
 SELLAVALLE
 
@@ -5209,7 +5209,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 154
+=== Page 154 ===
 
 SELLAVALLE
 
@@ -5249,7 +5249,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 155
+=== Page 155 ===
 
 a
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
@@ -5302,7 +5302,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 28 of 49
 
-PDF PAGE BREAK 156
+=== Page 156 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5342,7 +5342,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 29 of 49
 
-PDF PAGE BREAK 157
+=== Page 157 ===
 
 a
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
@@ -5396,7 +5396,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 30 of 49
 
-PDF PAGE BREAK 158
+=== Page 158 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5436,7 +5436,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 31 of 49
 
-PDF PAGE BREAK 159
+=== Page 159 ===
 
 a
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
@@ -5490,7 +5490,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 32 of 49
 
-PDF PAGE BREAK 160
+=== Page 160 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5530,7 +5530,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 33 of 49
 
-PDF PAGE BREAK 161
+=== Page 161 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5564,7 +5564,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 34 of 49
 
-PDF PAGE BREAK 162
+=== Page 162 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5598,7 +5598,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 35 of 49
 
-PDF PAGE BREAK 163
+=== Page 163 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -5655,7 +5655,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 164
+=== Page 164 ===
 
 a
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
@@ -5692,7 +5692,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 37 of 49
 
-PDF PAGE BREAK 165
+=== Page 165 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -5749,7 +5749,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 166
+=== Page 166 ===
 
 a
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
@@ -5786,7 +5786,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 39 of 49
 
-PDF PAGE BREAK 167
+=== Page 167 ===
 
 T
 a
@@ -5842,7 +5842,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 40 of 49
 
-PDF PAGE BREAK 168
+=== Page 168 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5864,7 +5864,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 41 of 49
 
-PDF PAGE BREAK 169
+=== Page 169 ===
 
 T
 a
@@ -5920,7 +5920,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 42 of 49
 
-PDF PAGE BREAK 170
+=== Page 170 ===
 
 John de Groot & Son Account 00-0015443 Received 02/07/2024 1256
 6105 W LincoIn Account Manager Ben Nydam Reported 02/23/2024 1502
@@ -5942,7 +5942,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 43 of 49
 
-PDF PAGE BREAK 171
+=== Page 171 ===
 
 02/07/24 1256 24B0187 DELLAVALLE LABORATORY, INC.
 , 1910 W, McKinIey Avenuo, Suite 110 Fresno, CA 93728 ,
@@ -5993,7 +5993,7 @@ Con g )Yes JNo
 ee
 381-O2 eT CUSTOM FELDSHEETSVFIELDSHEETS DaIry Fietdsheets(BLANK Dairy Water xis)Daky Water Rev 3-30-21 1onS Page 44 of 49
 
-PDF PAGE BREAK 172
+=== Page 172 ===
 
 AAO G
 02/07/24 12.56 24B0187 DELLAVALLE LABORATORY, INC.
@@ -6045,7 +6045,7 @@ oneuting L1Yes JNo
 Ee es ee ee
 XA1-CUENT CUSTOM FIELDSHEETSVIELDSHEETSDary FIetdsheetsBLANK Dairy Water.xis)Dairy Water Rev 3-30-71 ZA B Page 45 of 49
 
-PDF PAGE BREAK 173
+=== Page 173 ===
 
 02/07/24 12-56 7480187 DELLAVALLE LABORATORY, INC.
 . 1910 W. McKinIey Avenuo, Suite 110 Fresno, CA 93728
@@ -6098,7 +6098,7 @@ famiPaid RecBy Check Date
 AT-CUENT SHEETSVFIELDSH FieIdshets
 XM. CUSTOM FIELD EETSWary BLANK Dairy WaIer.xigDairy Water Rev 3-30-21 20f3 Page 46 of 49
 
-PDF PAGE BREAK 174
+=== Page 174 ===
 
                      02/07/24 1256 24B0187
 Shipping Information Shipped Ina Picked-Upo WaIk Inz-DLISampIero Other co
@@ -6131,7 +6131,7 @@ poking
 CS 2 RS ES
 X NT CUSTOM DSH 35, tj, WATERS(0-Sampte Integrity Shee Page 47 of 49
 
-PDF PAGE BREAK 175
+=== Page 175 ===
 
 I a
 . MM 4
@@ -6170,7 +6170,7 @@ xy Asbestos- 1 PIastic wrappedinfol(Setf) ta 7 1 . J
 1 DOKI ee
          lOther
 
-PDF PAGE BREAK 176
+=== Page 176 ===
 
               02/07/24 1256 24B0187 G
 Shipping Information Shipped Inc Picked-Upo WaIk Im DLISampIero Othero

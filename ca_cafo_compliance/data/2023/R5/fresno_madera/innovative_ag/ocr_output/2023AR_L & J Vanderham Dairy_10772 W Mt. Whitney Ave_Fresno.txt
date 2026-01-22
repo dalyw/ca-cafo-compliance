@@ -38,7 +38,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -88,7 +88,7 @@ Yes. Number of discharges occurred (see Attachment H).
 
 A INNOVATIVE ac services
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 L&J Vanderham 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -143,7 +143,7 @@ MA NNovative AG SERVICES
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 L &J Vanderham 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -192,7 +192,7 @@ MA Nnovative AG SERVICES
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: F7D5E484-7EB0-4AFC-88B4-DF659E429D15
 
 L&J Vanderham 2023
@@ -232,7 +232,7 @@ Title and Date
 
 BBE INNOVATIVE ac services
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 L & J Vanderham 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -277,7 +277,7 @@ PM INNOVATIVE ac services
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -316,7 +316,7 @@ Ann OVATIVE Ac SERVICES
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -353,7 +353,7 @@ MA INNovative AG SERVICES
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -409,7 +409,7 @@ TA INNOVATIVE 4c SERVICES
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -441,7 +441,7 @@ Ah INNOVATIVE nc services
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -500,7 +500,7 @@ MA NNovative AG SERVICES
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -528,7 +528,7 @@ BB INNOVATIVE ac services
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -562,7 +562,7 @@ MA Nnovative AG SERVICES
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -602,7 +602,7 @@ Ah INNOVATIVE ac services
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -638,7 +638,7 @@ MAINNOVATIVE ac services
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -677,7 +677,7 @@ H/ | INNOVATIVE Ac services
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -747,7 +747,7 @@ MA Nnovative AG SERVICES
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -785,7 +785,7 @@ MA NNovative AG SERVICES
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -819,7 +819,7 @@ MA NNovative AG SERVICES
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -855,7 +855,7 @@ BM INNOVATIVE ac services
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -892,7 +892,7 @@ MA Nnovative AG SERVICES
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 L & J Vanderham 2023
 
 Nutrient Applications (Attachment B)
@@ -966,7 +966,7 @@ Extracted
 (Lbs)
 
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1011,7 +1011,7 @@ Ah INNOVATIVE ac services
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Field Name: 29-1
 Grapes, 154 Acres Planted on 02/01/2017
 
@@ -1181,7 +1181,7 @@ Extracted
 
 4,358
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1216,7 +1216,7 @@ MA NNovative AG SERVICES
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1271,7 +1271,7 @@ MA INNovative AG SERVICES
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1307,7 +1307,7 @@ WANn OVATIVE AG SERVICES
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1340,7 +1340,7 @@ MA Nnovative AG SERVICES
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1364,7 +1364,7 @@ BA INNOVATIVE ac services
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1388,7 +1388,7 @@ BA INNOVATIVE ac services
 
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1419,7 +1419,7 @@ BA INNOVATIVE ac services
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1449,7 +1449,7 @@ MA NNovative AG SERVICES
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1477,7 +1477,7 @@ H//| INNOVATIVE 4G SERVICES
 
 Page 32
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1499,7 +1499,7 @@ BA INNOVATIVE ac services
 
 Page 33
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1526,7 +1526,7 @@ MA INNOVATIVE ac services
 
 Page 34
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1553,7 +1553,7 @@ Wann OVATIVE Ac SERVICES
 
 Page 35
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1580,7 +1580,7 @@ BA INNOVATIVE ac services
 
 Page 36
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1611,7 +1611,7 @@ BAI INNOVATIVE ac services
 
 Page 37
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1643,7 +1643,7 @@ MA NNovative AG SERVICES
 
 Page 38
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1670,7 +1670,7 @@ BB INNOVATIVE ac services
 
 Page 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1698,7 +1698,7 @@ MA INNOVATIVE ac services
 
 Page 40
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1726,7 +1726,7 @@ BA INNOVATIVE ac services
 
 Page 41
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1755,7 +1755,7 @@ BB INNOVATIVE ac services
 
 Page 42
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1792,7 +1792,7 @@ H// | INNOVATIVE Ac SERVICES
 
 Page 43
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 L & J Vanderham 2023
 Nutrient Applications (Attachment B)
 
@@ -1830,7 +1830,7 @@ BA INNOVATIVE ac services
 
 Page 44
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 L & J Vanderham 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -1859,7 +1859,7 @@ MA NNovative AG SERVICES
 
 Page 45
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 L & J Vanderham 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -1915,7 +1915,7 @@ MM INNOVATIVE ac services
 
 Page 46
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 L & J Vanderham 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -1937,7 +1937,7 @@ BB INNOVATIVE ac services
 
 Page 47
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 L & J Vanderham 2023
 Lab Results Summary (Attachment E)
 
@@ -1973,7 +1973,7 @@ MA nnovative AG SERVICES
 
 Page 48
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 L & J Vanderham 2023
 Lab Results Summary (Attachment E)
 
@@ -2005,7 +2005,7 @@ BB INNoVATIVE ac services
 
 Page 49
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Plant Tissue
 
 L & J Vanderham 2023
@@ -2038,7 +2038,7 @@ Page 50
 
 BB INNOVATIVE ac services
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 L & J Vanderham 2023
 Lab Results Summary (Attachment E)
 
@@ -2065,7 +2065,7 @@ MM NNOVATIVE ac services
 
 Page 51
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Well / Irrigation Water
 
 (mgl/ppm unless noted otherwise)
@@ -2166,7 +2166,7 @@ cL
 
 30.00
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 L & J Vanderham 2023
 Lab Results Summary (Attachment E)
 
@@ -2196,7 +2196,7 @@ MA NNovative AG SERVICES
 
 Page 53
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 L & J Vanderham 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2242,7 +2242,7 @@ BA INNOVATIVE ac services
 
 Page 54
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 L & J Vanderham 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2290,7 +2290,7 @@ MA NNovative AG SERVICES
 
 Page 55
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 L & J Vanderham 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2316,7 +2316,7 @@ BA INNOVATIVE ac services
 
 Page 56
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Day January
 1 None
 2 Light
@@ -2720,7 +2720,7 @@ Light
 SWP
 None
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 DocuSign Envelope ID: D143ADAE-BDD2-4FD7-AEA3-A8A254C27820
 
 ATTACHMENT D
@@ -2784,7 +2784,7 @@ Manure Solids Contenttif amount reported in tons): 54.9% Corral Solids
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 DocuSign Envelope ID: D143ADAE-BDD2-4FD7-AEA3-A8A254C27820
 
 Attachment D D-2
@@ -2827,7 +2827,7 @@ Hauler’s Signature: _
 a
 
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 AGRICULTURAL
 Chemists
 
@@ -2898,7 +2898,7 @@ TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818
 TEL: (805)783-2940 TEL: (559)734-9473
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 ENVIRONMENTA
 
 Analy
@@ -2955,7 +2955,7 @@ TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL:
 
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (859)734-8435
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 GRICULTUR/
 
 March 9, 2023
@@ -3207,7 +3207,7 @@ Visalia, CA 93291
 TEL: (559)734-9473
 FAX: (559)734-8435
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 March 9, 2023
 Innovative Ag Services, LLC
 
@@ -3268,7 +3268,7 @@ Explanation
 
 Page 4 of 4 Page 4 of 4
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 Laboratory Analysis Work Order
 
 io: #_Ot DH (HG
@@ -3373,7 +3373,7 @@ hJa3 leol Ee
 A sf/es 6 oe
 
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 ENVIRONMENTAL AGRICULTU
 
 Analytical Chemists
@@ -3448,7 +3448,7 @@ CA ELAP Certification No. 1573
 FAX: (559)734-8435
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3485,7 +3485,7 @@ CA ELAP Certification No. 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3535,7 +3535,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Laboratory Analysis Work Order N° 42143
 1W-B°C Rob
 
@@ -3599,7 +3599,7 @@ Laboratory #:
 
 THE PANTER INC, - 559-992-5127
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 ENVIRONMENTA AGRICULTURAL
 
 Analytical Chemists
@@ -3675,7 +3675,7 @@ TEL: (559)734-9473
 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 AGRICULTU
 
 Analytical Chemists
@@ -3742,7 +3742,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 ENVIRONMENTAL [
 
 Analytical Chemists
@@ -3791,7 +3791,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 ENVIRONMENTAL
 
 Analytical Chemists
@@ -3890,7 +3890,7 @@ FAX; (559)734-8435,
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 December 28, 2023
 
 Innovative Ag Services, LLC Lats a 5 MT ASS S058
@@ -3954,7 +3954,7 @@ MS mg/L 5.609 95.3% 66-125
 
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 December 28, 2023
 
 Innovative Ag Services, LLC Tale:
@@ -3995,7 +3995,7 @@ Page 6 of 6
 
 Page 6 of 6
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 ld 10.1°C Rot
 D:#_0O2Z TO FHYON
 SITENAME: L¢J VAnpendan
@@ -4072,7 +4072,7 @@ Total Samples: Laboratory #:
 
 THE PRIMIER INC. ~ 559-992-5127
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 _—
 ENVIRONMENTAL ===> AGRICULTURAL
 
@@ -4155,7 +4155,7 @@ FAX: (530)343-3807 FAX: (805)783-2912 FAX; (559)734-8435,
 
 CAELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 ENVIRONMENT, AGRICULTURAL
 
 Analytical Chemists
@@ -4200,7 +4200,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical C
 
@@ -4242,7 +4242,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 ENVIRONMEN AGRICULTURAL
 
 Analytical Chemists
@@ -4284,7 +4284,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 AGRICUL
 
 December 21, 2023
@@ -4325,7 +4325,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 ENVIRONMENTAL
 
 Analy
@@ -4396,7 +4396,7 @@ Env FAX: (805)525-4172 / Ag FAX: (B05)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 =
 
 Dg (O22
@@ -4506,7 +4506,7 @@ a
 
 THE PANTER INC. - 559-992-5127
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -4581,7 +4581,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 ENVIRONME = AGRICULTURAL
 
 Analytical Chemists
@@ -4625,7 +4625,7 @@ TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX; (805)783-2912 FAX:
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 ENVIRONMENT,
 Analytical Ch
 
@@ -4690,7 +4690,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 Laboratory Analysis Work Order “N° 41321
 
 D:¢ QO2L PAI! LABORATORY: _ fl :
@@ -4746,7 +4746,7 @@ tt (ox tes ditionally, if any servatives are used In the collections or processi
 
 Ow ‘THE PAINTER INC. - 559-992-5127
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 ENVIRONMENTA
 
 March 21, 2023
@@ -4820,7 +4820,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -4863,7 +4863,7 @@ CAELAP Certification No. 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 iL
 
 ENVIRONMENTAL AGRICULTURAL
@@ -4910,7 +4910,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 SITE NAME:
 
 Billing: ! :

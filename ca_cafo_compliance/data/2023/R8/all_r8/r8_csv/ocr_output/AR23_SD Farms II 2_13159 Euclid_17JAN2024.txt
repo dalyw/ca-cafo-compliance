@@ -34,7 +34,7 @@ PIease aIso identify the amount of manure stockpiIed at your faciIity and
 , KristinE Murray, CHAIR JAYNE JOY, EXECUTIVE OFFICER
 ) 3737 Main Street, Suite 500, Riverside, CA 92501-3348 www.waterboards.ca.gov/santaana
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 2023 Annual Report -2- November 17, 2023
 The second page of this form is to be used to identify crop growing activity,
@@ -71,7 +71,7 @@ EncIosures Form 2 - Summary Report for WeekIy SWMS Inspections ,
                 Form 3 - Annual Report Form ,
 Form 4 - Manure Tracking Manifest , ,
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 2
@@ -106,7 +106,7 @@ Date. l-lo-2
 . ay,
 eee
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAG018001
 
@@ -143,7 +143,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors Yes No
 1 CaIf produces approximateIy 0.6 tons of manure per year
 4 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -178,7 +178,7 @@ Name of person making this report (pIease print). Jo ATVaNn ock Yo fe ,
 , Date Ly I-to - 244 ,
 TitIe dN err Ave . GPS .
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 i wOC&d
 FormsA- Manure Tracking Manifest
@@ -241,7 +241,7 @@ j
 
 2. GPS coordinates shail be provided for aIl destinations within the Santa Ana Region. 1
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 CAFO WeekIy Storm Water Management Structure Inspections
                                                Log Sheet
@@ -278,7 +278,7 @@ Week 5 Stick Reading Front 1.5
 01/30/23 on Back Left OverfIow Protection 0.00
 ExampIe CAFO WeekIy Storm Water Management Structure Inspections Log Sheet i
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 NPDES Permit No..
 i Ri veriow Proecion 000
@@ -319,7 +319,7 @@ pees ML fests we
 04/24/25 Back Left OverfIow Protection 0.00
 ExampIe CAFO WeekIy Storm Water Management Structure Inspections Log Sheet 2
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 NPDES Permit No..
 Bk Ri Overtiow Proveeton 000
@@ -359,7 +359,7 @@ Week 29 Stick Reading Front 0.0
 ee fx fena cme
 ExampIe CAFO WeekIy Storm Water Management Structure Inspections Log Sheet 3
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 NPDES Permit No. ,
 i i Overton Prien 000
@@ -400,7 +400,7 @@ St fx eicinee om
 meee
 ExampIe CAFO WeekIy Storm Water Management Structure Inspections Log Sheet 4
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 ne oS ae em Ente APR Pere ree 2 Le Pine ts 3 ao Pag es get. phe
      - . rte ch ea ae iT fat Pa IN Rees itr eye tM Paw EE a SS Se PP rae nee Sane

@@ -29,7 +29,7 @@ Mature Dairy AnimaIs
 Mature MaIes 3
 BuIls/Bucks/Rams
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -2-
@@ -53,7 +53,7 @@ within 24 hours of becoming aware of its occurrence2 Yes X No LJ
 the dairy been performed as listed in the MRP section I.A. to ensure
 the dairy is being operated and maintained in compIiance with the GWDR7 Yes X No LJ
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Appendix 3 - Annual Report
 
@@ -105,7 +105,7 @@ ponds surface waters
 
 Description of deficiencies (if any) or additional information
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -4-
@@ -141,7 +141,7 @@ maintain capacity and check liner system is
 integrity2 maintained2
 Description of deficiencies (if any) or additional information
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -5-
@@ -183,7 +183,7 @@ Enterococci bacteria cfu/100 mL
 Note E. coIi is onIy to be tested in freshwaters. Enterococci is onIy to be tested in waters where saIinity
 is greater than 1 part per thousand more than 5 percent of the time in a caIendar year.
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Appendix 3 - Annual Report
 
@@ -235,7 +235,7 @@ Total CoIiform Bacteria MPN/100 mL
 
 Has aIl ground water quaIity sampIing been compIeted as described in the MRP Yes _ No _
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -7-
@@ -298,7 +298,7 @@ type of manure2
 
 yes
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -8-
@@ -328,7 +328,7 @@ Rain water is captured and funneIed away with gutters and aIl cement corraIs dra
 underIying soiIs within manured areas, corraIs, pens, and animal housing areas.
 Everything is cemented.
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -9-
@@ -362,7 +362,7 @@ PIease add any comments regarding soil sampIing resuIts such as pIans to adjust 
 appIication rates at specific locations to meet agronomic rates.
 Soil sampIing pIanned for spring.
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Appendix 3 - Annual Report
 
@@ -395,7 +395,7 @@ waters and groundwater.
 Is the composting practice in accordance with State Water Board Division of Water QuaIity
 DWOQ 2015-0121 or subsequent Order(s)
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Appendix 3 - Annual Report
 
@@ -437,7 +437,7 @@ Is the RMP for the dairy compIeted and submitted2 Yes X No_ NAL _
 Does the dairy compIy with the performance measures of the RMP7 Yes X No_) NAL
 If not, what is the pIan to compIy with the RMP incIuding timing of improvements2
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -12-

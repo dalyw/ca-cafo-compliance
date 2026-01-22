@@ -40,7 +40,7 @@ Mailing Address Number and Street City State Zip Code
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 1 of 29
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -81,7 +81,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 2 of 29
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -106,7 +106,7 @@ Total exports for all materials 76,965.36 25,830.84 66,158.58 0.00
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 3 of 29
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -187,7 +187,7 @@ TFS (%)
 
 Page 4 of 29
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -228,7 +228,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 5 of 29
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 3
@@ -246,7 +246,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 6 of 29
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -382,7 +382,7 @@ Salt (Ibs/acre) Amount
 
 Page 7 of 29
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -584,7 +584,7 @@ Salt (Ibs/acre)
 
 Page 8 of 29
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -819,7 +819,7 @@ Salt (Ibs/acre)
 
 Page 9 of 29
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1015,7 +1015,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 10 of 29
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1051,7 +1051,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 11 of 29
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1132,7 +1132,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 12 of 29
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1281,7 +1281,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 13 of 29
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1317,7 +1317,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 14 of 29
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1340,7 +1340,7 @@ Application event totals 7.14 0.00 0.00 360.23
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 15 of 29
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1471,7 +1471,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 16 of 29
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1527,7 +1527,7 @@ Plant date: 06/06/2023
 
 Page 17 of 29
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1636,7 +1636,7 @@ Plant date: 11/05/2022
 
 Page 18 of 29
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1728,7 +1728,7 @@ Plant date: 06/06/2023
 
 Page 19 of 29
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1789,7 +1789,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 20 of 29
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1883,7 +1883,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 21 of 29
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1920,7 +1920,7 @@ DL 10.00 2.00 0.20 0.20 0.20 0.50 0.10 10
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 22 of 29
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1962,7 +1962,7 @@ Pump 3
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 23 of 29
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Pump 3
@@ -1988,7 +1988,7 @@ No subsurface (tile) drainage analyses entered.
 AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/26/2024 16:29:04 Page 24 of 29
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -2034,7 +2034,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 25 of 29
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2119,7 +2119,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 Page 26 of 29
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2165,7 +2165,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 27 of 29
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2178,7 +2178,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/26/2024 16:29:04 Page 28 of 29
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -2203,7 +2203,7 @@ AC Enterprises | 15499 Road 72 | Tipton, CA 93272 | Tulare County | Tulare Basin
 
 06/24/2024 15:44:06 Page 29 of 29
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS

@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 1 of 109
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ Source Description Type
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 1313323 Page 2 of 109
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -104,7 +104,7 @@ No liquid nutrient exports entered.
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 3 of 109
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -144,7 +144,7 @@ Field name 20
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 4 of 109
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -175,7 +175,7 @@ Total actual harvest content 27.40 300.56 67.76 314.46 1,259.56
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 5 of 109
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -202,7 +202,7 @@ Field name 24
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 6 of 109
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -233,7 +233,7 @@ Total actual harvest content 31.40 273.33 59.57 318.89 1,282.55
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 7 of 109
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -265,7 +265,7 @@ Total actual harvest content 8.40 385.84 44.58 293.61 1,283.56
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 8 of 109
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -297,7 +297,7 @@ Total actual harvest content 18.20 238.38 56.70 316.99 1,610.70
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 9 of 109
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -328,7 +328,7 @@ Total actual harvest content 27.00 222.67 41.98 118.64 1,095.12
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 10 of 109
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -355,7 +355,7 @@ Field name B2
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 11 of 109
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -386,7 +386,7 @@ Total actual harvest content 19.60 226.38 52.14 262.05 1,797.32
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 12 of 109
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -417,7 +417,7 @@ Total actual harvest content 28.21 192.84 34.38 272.07 1,028.47
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 13 of 109
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -449,7 +449,7 @@ Total actual harvest content 22.00 263.21 46.83 258.37 1,840.87
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 14 of 109
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -480,7 +480,7 @@ Total actual harvest content 27.00 204.90 41.31 160.28 1,092.24
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 15 of 109
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -505,7 +505,7 @@ Total actual harvest content 30.20 276.75 55.35 274.84 1,580.35
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 16 of 109
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -537,7 +537,7 @@ Application event totals 84.02 0.00 117.83 697.58
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 17 of 109
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -569,7 +569,7 @@ Application event totals 124.63 40.79 0.00 827.97
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 18 of 109
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -601,7 +601,7 @@ Application event totals 98.56 0.00 138.22 805.87
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 19 of 109
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -632,7 +632,7 @@ Application event totals 0.00 0.00 0.00 33.54
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 20 of 109
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -666,7 +666,7 @@ Application event totals 0.00 0.00 0.00 51.66
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 21 of 109
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -701,7 +701,7 @@ Application event totals 0.00 0.00 0.00 52.57
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 22 of 109
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -740,7 +740,7 @@ Application event totals 65.03 0.00 91.20 533.62
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 23 of 109
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -775,7 +775,7 @@ Application event totals 74.32 0.00 104.23 619.96
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 24 of 109
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -806,7 +806,7 @@ Application event totals 85.72 11.52 98.51 1,224.85
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 25 of 109
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -838,7 +838,7 @@ Application event totals 101.99 11.23 120.13 1,570.06
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 26 of 109
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -870,7 +870,7 @@ Application event totals 0.00 0.00 0.00 52.56
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 27 of 109
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -901,7 +901,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 28 of 109
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -934,7 +934,7 @@ Application event totals 0.00 0.00 0.00 55.29
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 29 of 109
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -973,7 +973,7 @@ A4 - 06/05/2023 Corn, silage
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 30 of 109
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1008,7 +1008,7 @@ AS - 11/25/2022 Wheat, silage, soft dough
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 31 of 109
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1043,7 +1043,7 @@ Application event totals 81.08 0.00 113.71 672.48
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 32 of 109
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1074,7 +1074,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 33 of 109
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1107,7 +1107,7 @@ Application event totals 92.91 0.00 130.30 760.98
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 34 of 109
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1142,7 +1142,7 @@ Crop Corn, silage Plant date 04/14/2023
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 35 of 109
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1175,7 +1175,7 @@ Application event totals 84.50 0.00 118.50 699.48
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 36 of 109
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1206,7 +1206,7 @@ Application event totals 102.19 0.00 143.32 835.07
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 37 of 109
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1237,7 +1237,7 @@ Application event totals 119.07 13.11 140.25 1,825.34
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 38 of 109
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1270,7 +1270,7 @@ Application event totals 80.46 0.00 112.84 666.47
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 39 of 109
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1301,7 +1301,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 40 of 109
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1334,7 +1334,7 @@ Application event totals 74.32 0.00 104.23 619.94
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 41 of 109
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1368,7 +1368,7 @@ Crop Wheat, silage, soft dough Plant date 11/04/2022
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 42 of 109
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1401,7 +1401,7 @@ Application event totals 91.61 0.00 128.48 752.85
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 43 of 109
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1435,7 +1435,7 @@ Crop Wheat, silage, soft dough Plant date 11/02/2022
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 44 of 109
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1468,7 +1468,7 @@ Application event totals 81.17 0.00 113.83 672.24
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 45 of 109
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1502,7 +1502,7 @@ Crop Wheat, silage, soft dough Plant date 11/03/2022
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 46 of 109
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1535,7 +1535,7 @@ Application event totals 97.18 0.00 136.29 795.27
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 47 of 109
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1569,7 +1569,7 @@ Crop Wheat, silage, soft dough Plant date 11/30/2022
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 48 of 109
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1602,7 +1602,7 @@ Application event totals 98.10 0.00 137.57 803.26
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 49 of 109
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1636,7 +1636,7 @@ Crop Corn, silage Plant date 04/18/2023
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 50 of 109
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1668,7 +1668,7 @@ Application event totals 0.00 0.00 0.00 53.53
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 51 of 109
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1700,7 +1700,7 @@ Application event totals 90.70 0.00 127.19 746.80
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 52 of 109
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1722,7 +1722,7 @@ Application event totals 0.00 0.00 0.00 348.93
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 53 of 109
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1757,7 +1757,7 @@ Applied to removed ratio 1.12 0.55 0.96 1.73
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 54 of 109
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1792,7 +1792,7 @@ Applied to removed ratio 1.10 1.07 0.73 1.68
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 55 of 109
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1825,7 +1825,7 @@ Applied to removed ratio 1.24 0.00 1.62 2.46
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 56 of 109
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1859,7 +1859,7 @@ Applied to removed ratio 0.04 0.00 0.00 0.24
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 57 of 109
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1893,7 +1893,7 @@ Applied to removed ratio 0.04 0.00 0.00 0.28
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 58 of 109
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1928,7 +1928,7 @@ Applied to removed ratio 1.02 1.02 0.68 1.45
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 59 of 109
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1963,7 +1963,7 @@ Applied to removed ratio 1.29 0.00 1.62 2.15
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 60 of 109
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1997,7 +1997,7 @@ Applied to removed ratio 1.32 0.67 1.07 4.03
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 61 of 109
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2031,7 +2031,7 @@ Applied to removed ratio 1.20 0.64 0.78 1.63
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 62 of 109
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2066,7 +2066,7 @@ Applied to removed ratio 1.35 0.65 1.56 3.25
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 63 of 109
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2100,7 +2100,7 @@ Applied to removed ratio 0.04 0.00 0.00 0.26
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 64 of 109
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2135,7 +2135,7 @@ Applied to removed ratio 1.34 1.45 1.02 2.17
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 65 of 109
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2169,7 +2169,7 @@ Applied to removed ratio 1.36 0.16 1.60 3.07
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 66 of 109
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2203,7 +2203,7 @@ Applied to removed ratio 1.23 0.93 0.64 1.82
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 67 of 109
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2238,7 +2238,7 @@ Applied to removed ratio 1.31 0.00 1.39 2.29
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 68 of 109
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2272,7 +2272,7 @@ Applied to removed ratio 1.04 0.67 0.57 1.29
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 69 of 109
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2307,7 +2307,7 @@ Applied to removed ratio 1.36 0.15 3.70 2.71
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 70 of 109
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2342,7 +2342,7 @@ Applied to removed ratio 1.14 0.47 1.12 1.77
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 71 of 109
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2375,7 +2375,7 @@ Applied to removed ratio 1.24 0.44 1.70 2.82
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 72 of 109
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2409,7 +2409,7 @@ Applied to removed ratio 1.32 1.09 0.86 2.17
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 73 of 109
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2444,7 +2444,7 @@ Applied to removed ratio 1.33 0.00 1.71 2.34
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 74 of 109
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2479,7 +2479,7 @@ Applied to removed ratio 1.35 0.95 0.86 1.75
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 75 of 109
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2514,7 +2514,7 @@ Applied to removed ratio 1.25 0.00 1.72 2.73
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 76 of 109
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2549,7 +2549,7 @@ Applied to removed ratio 1.18 0.96 0.95 1.66
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 77 of 109
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2583,7 +2583,7 @@ Applied to removed ratio 1.36 0.35 1.46 3.14
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 78 of 109
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2617,7 +2617,7 @@ Applied to removed ratio 1.14 0.84 0.98 1.76
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 79 of 109
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2651,7 +2651,7 @@ Applied to removed ratio 1.36 0.33 3.37 3.15
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 80 of 109
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2685,7 +2685,7 @@ Applied to removed ratio 1.21 1.18 0.90 1.78
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 81 of 109
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2719,7 +2719,7 @@ Applied to removed ratio 1.26 0.67 2.58 4.21
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 82 of 109
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2754,7 +2754,7 @@ Applied to removed ratio 1.22 1.04 1.39 2.53
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 83 of 109
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2789,7 +2789,7 @@ Applied to removed ratio 1.35 0.27 2.54 2.97
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 84 of 109
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2823,7 +2823,7 @@ Applied to removed ratio 1.31 0.00 1.68 2.26
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 85 of 109
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2857,7 +2857,7 @@ Applied to removed ratio 1.37 0.00 1.86 2.16
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 86 of 109
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2890,7 +2890,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 87 of 109
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2925,7 +2925,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 88 of 109
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2957,7 +2957,7 @@ DL 0.50 0.40 1.00 0.80 1.00 10.00 0.17 1.00 1.00 20
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 89 of 109
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2989,7 +2989,7 @@ B3N
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 90 of 109
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3021,7 +3021,7 @@ BS
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 91 of 109
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3053,7 +3053,7 @@ D. SOIL ANALYSES
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 92 of 109
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3079,7 +3079,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 93 of 109
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3110,7 +3110,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 94 of 109
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3141,7 +3141,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 95 of 109
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3172,7 +3172,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 96 of 109
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3203,7 +3203,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 97 of 109
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3234,7 +3234,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 98 of 109
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3265,7 +3265,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 99 of 109
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3296,7 +3296,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 100 of 109
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3327,7 +3327,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 101 of 109
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3358,7 +3358,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 102 of 109
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3389,7 +3389,7 @@ DL 500.00 200.00 200.00 0.05
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 103 of 109
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3406,7 +3406,7 @@ No subsurface (tile) drainage analyses entered.
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 104 of 109
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3440,7 +3440,7 @@ N P K salt
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 105 of 109
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3471,7 +3471,7 @@ Ibs Ibs
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 106 of 109
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3501,7 +3501,7 @@ wastewater that are new or were revised within the reporting period
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 107 of 109
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3511,7 +3511,7 @@ A1, A4, B2, B6, B8, B5S, B1S, B2D, B5D, A7, A3, North, 20, 21, 23, and South wel
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 108 of 109
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3528,7 +3528,7 @@ ssa
 Lone Oak Farms 1 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 109 of 109
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3552,7 +3552,7 @@ Storm Water Reporting Section on page MRP-14.
 Lone Oak Farms 41 13866 4th AVE Hanford, CA 93230 Kings County Tulare Basin
 06/11/2024 133323 Page 1 of 1
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 ENVIRONMENTAL -- AGRICULTURAL
 Analytical Chemists
@@ -3583,7 +3583,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 /Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Centification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
                                                          ENVIRONMENTAL S2 AGRICULTURAL
 Analytical Chemists
@@ -3615,7 +3615,7 @@ TEL (805)392-2000 TEL (209)942-0782 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1863 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 ENVIRONMENTAL -- AGRICULTURAL
 Anatytical Chemists
@@ -3646,7 +3646,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (70 yade S618 uy eo veneere vd (ee) 734-
 2 s o (209)942-0423, FAX (530)343-380 5 i -
 GAEL AP Coniocton Ne. fen (805)882-2063 CAELAP outtiecion No. 1563 CA tap Cortiination No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -3678,7 +3678,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL. (530)343-5818 rx Oey Ea DoIS FAX. Geova
 2 2 - 5 -04 FAX (530)343-3807 a a
 EnELAD Contticchon ne ten (908)882-2088 CA ELAP bontenen No. 1563 CA Etap Gorificaton No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 ENVIRONMENTAL - AGRICULTURAL
 Analytical Chemists
@@ -3710,7 +3710,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734 8435
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CA ELAP Certification No. 2775 CGA ELAP Certification No. 2810
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -3744,7 +3744,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 ENVIRONMENTAL -- AGRICULTURAL
 SE INE LT URAL
@@ -3777,7 +3777,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -3809,7 +3809,7 @@ TEL. (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -3852,7 +3852,7 @@ eee eee
 RED Value of Concern
 contactviaglab.com
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 2420 South K Street
 Tulare, California 93274
@@ -3895,7 +3895,7 @@ a
 RED Value of Concern
 contactGvtaglab.com
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -3938,7 +3938,7 @@ a
 RED Value of Concern
 contactvtaglab.com
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -3980,7 +3980,7 @@ Residual Sodium Carbonate (RSC) 253
 RED Value of Concern
 contactQvtaglab.com
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -4023,7 +4023,7 @@ ___sssSSS
 RED Value of Concern
 contactvtaglab.com
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 2120 South K Street
 Fax (559) 688-5768
@@ -4062,7 +4062,7 @@ eee ees
 RED Value of Concern
 contactviaglab.com
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -4105,7 +4105,7 @@ eee
 RED Value of Concern
 contactviaglab.com
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 2120 South K Street
 Tulare, California 93274
@@ -4147,7 +4147,7 @@ Residual Sodium Carbonate (RSC) 104
 RED Value of Concern
 contactvtaglab.com
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 (_
 ENVIRONMENTAL AGRICULTURAL
@@ -4191,7 +4191,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063_ FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 AN
 ENVIRONMENTAL AGRICULTURAL
@@ -4235,7 +4235,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 GAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -4282,7 +4282,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4317,7 +4317,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4374,7 +4374,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
   Laboratory Analysis Work Order 234 Y/3& 3041
 sirename Tvlacg F0- LABORATORY VT FGL4-19696)
@@ -4422,7 +4422,7 @@ LABORATORY USE ONLY
 lo.o
 Ror
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 FGL Environmental Doc EID 3D0900002_SOP_12.DOC
 Revision Dates 10/09/14 Page 1 of 1
@@ -4474,7 +4474,7 @@ Resolution i 2344188
 contacts) in
 - IM
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 (_s
 ENVIRONMENTAL AGRICULTURAL
@@ -4518,7 +4518,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 _a 4
 ENVIRONMENTAL AGRICULTURAL
@@ -4560,7 +4560,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 I
 ENVIRONMENTAL AGRICULTURAL
@@ -4602,7 +4602,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
   Laboratory Analysis Work Order 3140
 L BRAS 149
@@ -4657,7 +4657,7 @@ pesoeatnsy (QU) ONY aN rcatsenpes ttertowts
 A ener -
       N
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC .
 Revision Date 10/09/14 Page 1 of 1

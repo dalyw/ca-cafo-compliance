@@ -11,7 +11,7 @@ LNFs CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation 4 Date
 ewe a
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 3 z
 S 9 Z i i
@@ -63,7 +63,7 @@ mM z r
 (o) Oo
 x
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 3
 s &
@@ -108,7 +108,7 @@ z 2 3
 iJ
 PS a
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 estes sl a . aIo) aIa
 
@@ -152,7 +152,7 @@ bee ia r Fara fe
 
 Niger Ps Par oie
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 ate ead
 cae fe
@@ -181,7 +181,7 @@ Ee ae a z
 ORS
 este
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Peeks,
 Fe &
@@ -235,7 +235,7 @@ ced SIeu/ 2 g & s 88
 i hh ai Ss cas
 Sets a asa
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 ee
 ee
@@ -299,7 +299,7 @@ oo) RR E 2 ges
 - apes N 5/8 Bes
 . oS o
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 OR. ef ep ep ed el et el el ew
 -PECe &) & S) S S) S) &) &) &
@@ -369,7 +369,7 @@ si N
           wy in a
                        Qa
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Teer
 ee ee ee
@@ -428,7 +428,7 @@ Lot tae _ w
 as a Fi A 3
 te E a
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 a aIs
              s
@@ -482,7 +482,7 @@ Behe eteparsier sie le) al bIeeds ft AL ASE Ad ol ES 8 8
 g et Bet Bi Cet Oe Peas oe oe CO We ee ba My bay Fe eg EM i cA no (a ner (od (a gee
 ATL ED ae Pep ob de hae Ts Peep ep 18 8 BS
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 eee o( oo) o o o o o o
 . iii igbbbbk
@@ -518,7 +518,7 @@ tec ctl BRED E S oe i eel a
 Pat ae ainpel ey be BSE Mea) - oS SS
 rete yt oe ea Tiss at Ba fal at o a
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 ee ee
 . . od
@@ -546,7 +546,7 @@ PO Rae SH reaig 1 ta Fest Bag PRS (co BES
 Sk oe 2 Hee Re Pear bee 4 fog 5 5 5 ov 5
 1 A Ra i ed yk Hay PiIe fas Cem a1 Ss.
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 e
 
@@ -631,7 +631,7 @@ og of
 
 ze 243
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 gis a8
 a) 4)
@@ -717,7 +717,7 @@ gs Pope as Ls
 Y ot 2
 Q 1 sy
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 
@@ -761,7 +761,7 @@ Totatss L220 _ Lo To asea soss Tl asol soseas7 sm (oo saz
 Dry Weight
 As Received
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FieId Name/Number iw Acres 82
 (NutrientsRemoved atHarvest_ Ss ton. Tate saa To
@@ -808,7 +808,7 @@ Atm. Depos. Yes 7.0
 
 5. Harvest 10/12/23 28.1 T/Ac (250.8) (149.1) (342.3)
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Nutrient AppIications
 
@@ -849,7 +849,7 @@ a es OS CO
 
 TotaIss Las Lo ssa Tosser sf wl sool seas isos oo 5025
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 FieId Name/Number 1 Acres 72.00
 utients AppIied Tang ora anc
@@ -881,7 +881,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 6/29/23
 S. Harvest 10/1/23 27.2 Tiac (213.2) (203.7) (269.8)
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Nutrient AppIications
 
@@ -923,7 +923,7 @@ DTT
 
 TotaIs (oo Lo J 3930 ooo anf ool aenf oe) S oo i
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 FieId Name/Number 2 (Trees) Acres 43.00
 lNutrients AppIied aan ooo
@@ -955,7 +955,7 @@ Atm. Depos. aN/A N/A
 S. PIanting aN/A
 S. Harvest. HN/A aN/A TiAc N/A ANJA HN/A
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Nutrient AppIications
 
@@ -998,7 +998,7 @@ A ES OS SO
 
 TotaIs Ls Lao JT ssco 7ss Tal sess ssrs asm fo ar
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 FieId Name/Number 3w Acres 78.00
 lNutrients AppIied woz aa sez 55732
@@ -1030,7 +1030,7 @@ Atm. Depos. Yes 7.0
 5. PIanting 7/2/23
 5, Harvest 10/15/23 27.4 T/Ac (230.6) (103.9) (241.8)
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Nutrient AppIications
 
@@ -1071,7 +1071,7 @@ Ss SS ES RE ED ES CS (a
 
 TotaIst L_ zs Lo ssa Tras svt ass ssf saos asm o sis
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 FieId Name/Number 3E Acres 78.00
 fNutrients AppIied Tags 9s aT Sagas
@@ -1103,7 +1103,7 @@ Atm. Depos. Yes 7.0
 5. PIanting 7/5/23
 S. Harvest 10/5/23 28.2 TfAc (180.6) (121.7) (249.2)
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Nutrient AppIications
 FieId Name/Number aw Acresz 75.00
@@ -1144,7 +1144,7 @@ Lee eee eee
 
 7 TotaIss L_ 20 J Ls T sez Trove TO wt ext sao sees sor To saa
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 FieId Name/Number aw Acres 75.00
 NutrientsRemoved atHarvest_ ss aga.t 50 SCdECCi SD SCdDSSSitCS
@@ -1191,7 +1191,7 @@ S. PIanting 6/2/23
 
 S. Harvest 10/4/23 28.3 T/Ac (265.3) (151.9) (305.0)
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Nutrient AppIications
 
@@ -1231,7 +1231,7 @@ a es NS EN RE STS ND
 
 TotaIs L 20 o sasz sozs ( sof ass ma azes aon 0 soz
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 FieId Name/Number aE Acres 75.00
 Nutrients Removed at Harvest a7 5S Ya TCS
@@ -1262,7 +1262,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 7/4/23
 S. Harvest 10/10/23 28.1 T/Ac (258.8) (132.2) (288.2)
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Nutrient AppIications
 
@@ -1304,7 +1304,7 @@ NS NS OS SS ES
 
 TotaIs (oo Lo ars oo fT easf wool eal sss To 200
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 FieId Name/Number 5A (Trees) Acres 11.00
 (Nutrients AppIied To
@@ -1336,7 +1336,7 @@ Atm. Depos. aN/A aN/A
 5. PIanting HN/A
 S. Harvest aN/A HN/A T/Ac HN/A aN/A ANJA
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Nutrient AppIications
 
@@ -1378,7 +1378,7 @@ LE
 
 TotaIs Loo a
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 FieId Name/Number 5B (Trees) Acres 11.00
 Nutrients AppIied Te CPCS
@@ -1410,7 +1410,7 @@ Atm. Depos. HN/A HN/A
 S, PIanting HN/A
 S. Harvest N/A aN/A TfAc HN/A HN/A 4N/A
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 2,
 wv
@@ -1504,7 +1504,7 @@ s& 2BSB 2
 age ra
 if
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 wv
 4 iJ
@@ -1601,7 +1601,7 @@ a 5
 s 5
 Ej
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ae
 Hl ook i 7
@@ -1617,11 +1617,11 @@ a
 HOOF YT
 ll . i, s
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 m/
 &
@@ -1666,7 +1666,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIlsIab.com
 Page 1 of 9
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 T
 n
@@ -1691,7 +1691,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 569-233-6129 www.deIlavaIleIab.com
 Page 2 of 9
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Tm
 ai
@@ -1717,7 +1717,7 @@ party Interpretation.
 1910 W. McKinIey Ave Suite 110 Frasno, CA 93728 569-233-6129 www.deIlavaIleIab.com
 Page 3 of 9
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Tm
 a
@@ -1765,7 +1765,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 9
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 TM
 Gi
@@ -1798,7 +1798,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 9
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 T
 a
@@ -1852,7 +1852,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavatIelab.com
 Page 6 of 9
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 T/
 a
@@ -1877,7 +1877,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 659-233-6129 www.deIlavaIieIab.com
 Page 7 of 9
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 AIDA oO
       J
@@ -1922,7 +1922,7 @@ Shipping
 1910 W. McKinIey Avenue, Suite 110 Fresno, CA 93728 www.deIlavaIleIab.cor 559 233-6129 P
 Page 8 of 9
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 12/13/23 14.15 23L0856
 CF
@@ -1964,11 +1964,11 @@ DOKT
 
 iOthe ere Page 9 of 9
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 TN
 i
@@ -2006,7 +2006,7 @@ party interpretation.
 1810 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 13
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Tt
 &
@@ -2035,7 +2035,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 13
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 m7
 L
@@ -2061,7 +2061,7 @@ party interpretation.
 1910 W, McKinIey Ave Suite 110 Fresno, CA 93728 569-233-6129 www.deIlavaiIelab.com
 Page 3 of 13
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 7/
 L
@@ -2091,7 +2091,7 @@ party interpretation.
 1910 W, McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 13
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 7M
 a
@@ -2117,7 +2117,7 @@ party interpretation.
 4910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 13
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 T
 &
@@ -2147,7 +2147,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 13
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 ya
 A&M Farms AccountH 00-0015732 Received 09/26/2023 1045
@@ -2174,11 +2174,11 @@ party interpretation.
 1910 W. McKinIay Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 13
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 ss AE
 d
@@ -2226,7 +2226,7 @@ ieee SempIe soceived in.eacter with ioc
 Amt Ped Rec By Chock No. Dero 7 tive wpe cunpdene 2020
 Page 12 of 13
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 _ HMO
 
@@ -2262,7 +2262,7 @@ HAAS -250mL AGAMmonkumChiorte _f_1 _ __. 7. J _4
 a TS EY A A A
 a A A ES ES GS ES A A
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 , Fi
 I i
@@ -2290,5 +2290,5 @@ a T. B
 wn z . g z eIs eIs sIs as S 2/212 5
 a li al gIelsIalzigt (Sts leIal gicIee eIslaval (3 FABRE BEBE EEE
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 

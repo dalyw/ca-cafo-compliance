@@ -54,7 +54,7 @@ OakIand CA 94612 (510) 622-2460 (fax)
 
 Rev 9-2022
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 2 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -114,7 +114,7 @@ if no pIease expIain Ge
 
 Rev 9-2022
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Appendix 1 Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 3 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -161,7 +161,7 @@ ExpIain No or N/A answers
 
 Rev 9-2022
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 4 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -221,7 +221,7 @@ lf no expIain
 
 Rev 9-2022
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 5 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -281,7 +281,7 @@ necessary).
 
 Rev 9-2022
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 6 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -299,7 +299,7 @@ ener
 
 Rev 9-2022
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 7 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -355,7 +355,7 @@ CC)
 
 Rev 9-2022
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 8 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -410,7 +410,7 @@ SampIing Period 4 O FaIl OSpring
 
 Rev 9-2022
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal FaciIities Page 9 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -477,6 +477,6 @@ yn
 Signature
 Rev 9-2022
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Roy King Dairy 2023 Manure Pond Pictures

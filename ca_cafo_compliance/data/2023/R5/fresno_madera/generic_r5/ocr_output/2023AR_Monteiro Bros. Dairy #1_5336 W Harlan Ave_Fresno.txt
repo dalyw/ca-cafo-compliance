@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 1 of 12
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ W Dom Ground water
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 2 of 12
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -85,7 +85,7 @@ Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIar
 
 06/29/2024 195029 Page 3 of 12
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -114,7 +114,7 @@ No appIication area fieIds entered.
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 4 of 12
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -131,7 +131,7 @@ Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare
 
 06/29/2024 195029 Page 5 of 12
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -163,7 +163,7 @@ E. PLANT TISSUE ANALYSES
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 6 of 12
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -173,7 +173,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 7 of 12
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -216,7 +216,7 @@ Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIar
 
 06/29/2024 195029 Page 8 of 12
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -244,7 +244,7 @@ lbs lbs
 Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 9 of 12
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -274,7 +274,7 @@ wastewater that are new or were revised within the reporting period
 Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 10 of 12
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -290,7 +290,7 @@ Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare
 
 06/29/2024 195029 Page 11 of 12
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -306,7 +306,7 @@ DATE DATE
 Grain MiIl Group West 5336 W_ HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 12 of 12
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -330,7 +330,7 @@ Storm Water Reporting Section on page MRP-14.
 Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 195029 Page 1 of 1
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023. ,
@@ -349,7 +349,7 @@ Se ee
 Grain MiIl Group West 5336 W HarIan AVE RiverdaIe, CA 93656 Fresno County TuIare Basin
 06/29/2024 165100 e Page 11 of 11
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 HELLAVALLE Report of Dairy WeIl Water AnaIysis
 LABORATORY INC Lab No. 2310770
@@ -375,7 +375,7 @@ ELAP Certification 41595
 A2LA Certification 46440.02
 DeIlavaiie Laboratory, Inc - 1810 W McKinIey 4110 - Fresno CA 93728 - (659) 233-6129 - (800) 228-9896 -www.deIlavaIleIab.com See Attached for AnaIysis Documentation Page 1 of 1
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 i
 l OUTER so

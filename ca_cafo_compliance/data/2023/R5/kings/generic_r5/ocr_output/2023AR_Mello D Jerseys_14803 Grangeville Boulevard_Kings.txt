@@ -31,7 +31,7 @@ MaiIing Address Number and Street City State Zip Code
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 1 of 44
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -65,7 +65,7 @@ D1&D2 Ground water
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 2 of 44
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -89,7 +89,7 @@ MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Bas
 
 06/30/2024 084002 Page 3 of 44
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -127,7 +127,7 @@ FieId name FieId 1
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 4 of 44
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -158,7 +158,7 @@ Total actual harvest content 23.00 298.52 43.06 291.35 1,037.65
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 5 of 44
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -185,7 +185,7 @@ FieId name FieId 7
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 6 of 44
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -216,7 +216,7 @@ Total actual harvest content 21.50 292.84 50.93 431.48 1,140.25
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 7 of 44
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -240,7 +240,7 @@ Total actual harvest content 25.00 334.43 41.16 317.28 1,022.14
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 8 of 44
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -275,7 +275,7 @@ AppIication event totaIs 153.03 1.58 11.31 157.36
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 9 of 44
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -306,7 +306,7 @@ AppIication event totaIs 215.05 16.93 217.18 1,203.29
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 10 of 44
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -337,7 +337,7 @@ AppIication event totaIs 85.43 0.88 6.32 94.07
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 11 of 44
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -372,7 +372,7 @@ Crop Corn, siIage PIant date 04/15/2023
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 12 of 44
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -403,7 +403,7 @@ AppIication event totaIs 0.00 0.00 0.00 14.42
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 13 of 44
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -434,7 +434,7 @@ AppIication event totaIs 90.72 0.94 6.71 99.39
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 14 of 44
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -466,7 +466,7 @@ AppIication event totaIs 0.00 0.00 0.00 14.79
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 15 of 44
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -500,7 +500,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.52
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 16 of 44
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -535,7 +535,7 @@ AppIication event totaIs 74.19 0.77 5.48 81.69
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 17 of 44
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -566,7 +566,7 @@ AppIication event totaIs 95.08 7AQ 96.02 533.98
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 18 of 44
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -598,7 +598,7 @@ AppIication event totaIs 67.66 0.70 5.00 77.03
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 19 of 44
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -632,7 +632,7 @@ FieId 9 & 10 - 04/20/2023 Corn, siIage
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 20 of 44
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -667,7 +667,7 @@ AppIication event totaIs 89.53 10.06 117.46 805.30
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 21 of 44
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -685,7 +685,7 @@ AppIication event totaIs 0.00 0.00 0.00 15.31
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 22 of 44
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -724,7 +724,7 @@ AppIied to removed ratio 1.31 0.08 0.08 0.38
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 23 of 44
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -759,7 +759,7 @@ AppIied to removed ratio 1.32 0.61 1.12 1.44
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 24 of 44
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -794,7 +794,7 @@ AppIied to removed ratio 1.31 0.39 0.64 1.41
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 25 of 44
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -828,7 +828,7 @@ AppIied to removed ratio 1.16 0.48 0.97 1.49
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 26 of 44
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -863,7 +863,7 @@ AppIied to removed ratio 1.19 0.31 0.48 0.95
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 27 of 44
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -897,7 +897,7 @@ AppIied to removed ratio 1.17 0.54 1.04 1.65
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 28 of 44
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -931,7 +931,7 @@ AppIied to removed ratio 1.13 0.25 0.63 1.25
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 29 of 44
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -965,7 +965,7 @@ AppIied to removed ratio 1.32 0.59 0.89 1.87
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 30 of 44
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1000,7 +1000,7 @@ AppIied to removed ratio 0.96 0.28 0.56 1.09
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 31 of 44
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1034,7 +1034,7 @@ AppIied to removed ratio 1.12 0.53 0.78 1.82
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 32 of 44
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1067,7 +1067,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 33 of 44
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1097,7 +1097,7 @@ Canal
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 34 of 44
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1124,7 +1124,7 @@ FieId 1 - 04/20/2023 Corn, siIage
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 35 of 44
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1155,7 +1155,7 @@ DL 100.00 100.00 100.00 1.00
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 36 of 44
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1186,7 +1186,7 @@ DL 100.00 100.00 100.00 1.00
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 37 of 44
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1217,7 +1217,7 @@ DL 100.00 100.00 100.00 1.00
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 38 of 44
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1234,7 +1234,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 39 of 44
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1267,7 +1267,7 @@ N P K saIt
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 40 of 44
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1303,7 +1303,7 @@ lbs lbs
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 41 of 44
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1333,7 +1333,7 @@ wastewater that are new or were revised within the reporting period
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 42 of 44
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1349,7 +1349,7 @@ MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Bas
 
 06/30/2024 084002 Page 43 of 44
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1368,7 +1368,7 @@ DATE OATE
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/14/2024 075658 Page 44 of 44
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1392,7 +1392,7 @@ Storm Water Reporting Section on page MRP-14.
 MeIlo D Jerseys 14803 GrangeviIle BLVD Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 084002 Page 1 of 1
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 12/13/2023 700
 9635 16th Ave Account Manager Ben Nydam Reported 12/20/2023 1200
@@ -1433,7 +1433,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 8
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 12/13/2023 700
 9635 16th Ave Account Manager Ben Nydam Reported 12/20/2023 1200
@@ -1455,7 +1455,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 8
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 T
 a
@@ -1502,7 +1502,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 8
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 12/13/2023 700
 9635 16th Ave Account Manager Ben Nydam Reported 12/20/2023 1200
@@ -1522,7 +1522,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 8
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 T
 a
@@ -1575,7 +1575,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 8
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 12/13/2023 700
 
@@ -1611,7 +1611,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 8
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 A
 12/13/23 0700 2310684 Cat
@@ -1656,7 +1656,7 @@ SampIing His MiIes___Consuiting s ow Signature
 Amt Paid Rec B Check No. Date L 1Yes L No ctecupdaie 2020
 Page 7 of 8
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 12/13/23 07.00 23L0684
 . Po Sampie Number
@@ -1678,7 +1678,7 @@ Cyanide-500mL NaOH J TOO
 DoKMm
 l i SS a a a Te
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 09/01/2023 1344
 9635 16th Ave Account Manager Ben Nydam Reported 09/08/2023 1334
@@ -1713,7 +1713,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 6
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 MeIlo D Jerseys Account 00-0025829 Received 09/01/2023 1344
 9635 16th Ave Account Manager Ben Nydam Reported 09/08/2023 1334
@@ -1733,7 +1733,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 6
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 T
 a
@@ -1774,7 +1774,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 6
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 T
 a
@@ -1821,7 +1821,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 6
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 09/01/23 13-44 2310259 oe
 DELLAVALLE LABORATORY, INC.
@@ -1879,7 +1879,7 @@ Bie
 py
 On Page 5 of 6
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Shipping Information Shipped inc Picked-Upo WaIk ify DLISampIero Othero
 a SampIes refrigerated before pick up u___ Picked up sampIes pIaced in Ice chest

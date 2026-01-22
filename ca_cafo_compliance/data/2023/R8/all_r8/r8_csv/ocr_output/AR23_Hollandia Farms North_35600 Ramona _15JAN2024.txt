@@ -49,7 +49,7 @@ HauIers Signature ADS Datez L f t oe Y
 74
 a Sg
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 nn
 . y
@@ -84,7 +84,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors Yes No O
 4 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 t
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 . a
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAG018001
@@ -133,7 +133,7 @@ Signature OH
 Date ion eee 2 Y
 tite OLice,
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 7 A
  oo. 2

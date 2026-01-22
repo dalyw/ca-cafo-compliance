@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 1 of 42
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ Canal Surface water
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 2 of 42
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -85,7 +85,7 @@ Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/30/2024 085242 Page 3 of 42
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -116,7 +116,7 @@ Total actual harvest content 16.96 301.12 45.77 220.42 1,346.62
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 4 of 42
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -147,7 +147,7 @@ Total actual harvest content 28.75 376.09 53.45 345.55 985.09
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 5 of 42
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -179,7 +179,7 @@ Total actual harvest content 16.40 187.22 37.20 223.17 1,021.63
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 6 of 42
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -210,7 +210,7 @@ Total actual harvest content 29.06 351.89 52.28 271.46 931.00
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 7 of 42
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -241,7 +241,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 8 of 42
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -272,7 +272,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.98
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 9 of 42
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -302,7 +302,7 @@ AppIication event totaIs 146.74 5.62 46.24 289.30
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 10 of 42
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -333,7 +333,7 @@ AppIication event totaIs 100.76 14.87 124.62 679.29
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 11 of 42
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -366,7 +366,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.48
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 12 of 42
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -404,7 +404,7 @@ AppIication event totaIs 161.45 6.18 50.88 325.15
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 13 of 42
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -438,7 +438,7 @@ AppIication event totaIs 71.61 10.57 88.57 489.54
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 14 of 42
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -469,7 +469,7 @@ AppIication event totaIs 89.78 3.44 28.29 177.01
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 15 of 42
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -499,7 +499,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.77
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 16 of 42
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -534,7 +534,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.77
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 17 of 42
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -567,7 +567,7 @@ Crop Corn, siIage PIant date 06/01/2023
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 18 of 42
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -602,7 +602,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.65
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 19 of 42
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -620,7 +620,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.65
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 20 of 42
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -659,7 +659,7 @@ AppIied to removed ratio 1.39 0.34 0.59 0.62
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 21 of 42
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -693,7 +693,7 @@ AppIied to removed ratio 1.35 0.85 1.70 2.48
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 22 of 42
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -727,7 +727,7 @@ AppIied to removed ratio 1.38 0.32 0.49 0.59
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 23 of 42
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -762,7 +762,7 @@ AppIied to removed ratio 1.36 1.39 1.80 3.48
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 24 of 42
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -796,7 +796,7 @@ AppIied to removed ratio 1.31 0.33 0.54 0.62
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 25 of 42
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -829,7 +829,7 @@ AppIied to removed ratio 1.36 1.12 2.36 4.12
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 0875242 Page 26 of 42
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -863,7 +863,7 @@ AppIied to removed ratio 1.32 0.25 0.34 0.49
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 27 of 42
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -898,7 +898,7 @@ AppIied to removed ratio 1.29 1.38 2.49 4.51
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 28 of 42
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -932,7 +932,7 @@ AppIied to removed ratio 1.28 0.31 0.49 0.86
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 29 of 42
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -967,7 +967,7 @@ AppIied to removed ratio 1.25 1.15 2.39 3.71
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 30 of 42
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1000,7 +1000,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 31 of 42
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1030,7 +1030,7 @@ Barn
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 32 of 42
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1057,7 +1057,7 @@ E. PLANT TISSUE ANALYSES
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 33 of 42
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1088,7 +1088,7 @@ DL 100.00 100.00 100.00 1.00
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 34 of 42
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1119,7 +1119,7 @@ DL 100.00 100.00 100.00 1.00
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 35 of 42
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1150,7 +1150,7 @@ DL 100.00 100.00 100.00 1.00
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 36 of 42
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1167,7 +1167,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 37 of 42
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1214,7 +1214,7 @@ Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/30/2024 085242 Page 38 of 42
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1250,7 +1250,7 @@ lbs lbs
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 39 of 42
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1280,7 +1280,7 @@ wastewater that are new or were revised within the reporting period
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 40 of 42
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1296,7 +1296,7 @@ Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/30/2024 085242 Page 41 of 42
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1314,7 +1314,7 @@ OATE DATE
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/14/2024 090451 Page 42 of 42
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1338,7 +1338,7 @@ Storm Water Reporting Section on page MRP-14.
 Joe B Pacheco Dairy 16025 6 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 085242 Page 1 of 1
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Tony Cox Dairy 4 Account 00-0025791 Received 12/12/2023 740
 1509 W. Muscat PIace Account Manager Ben Nydam Reported 12/18/2023 1202
@@ -1375,7 +1375,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 7
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Tony Cox Dairy 4 Account 00-0025791 Received 12/12/2023 740
 1509 W. Muscat PIace Account Manager Ben Nydam Reported 12/18/2023 1202
@@ -1394,7 +1394,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 7
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 T
 a
@@ -1441,7 +1441,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 7
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 a
 Tony Cox Dairy 4 Account 00-0025791 Received 12/12/2023 740
@@ -1478,7 +1478,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 7
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 T
 a
@@ -1522,7 +1522,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 7
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 . 2310601
 12/12/23 0740 ja
@@ -1576,7 +1576,7 @@ i SampIing Hrs MiIes_ ConsuIting 5 ou Signature
                                              Amt Paid Rec Bs Check No. Date L 1 Yes. L No cc update 2020
                                                                                                                                                   Page 6 of 7
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 UU
 42/12/23 07-40 23L06
@@ -1614,7 +1614,7 @@ ChIorite/Bromate - 250 m L
          ote or a ee
                                     a es a
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Tony Cox Dairy 4 Account 00-0025791 Received 08/17/2023 8134
 1509 W. Muscat PIace Account Manager Ben Nydam Reported 08/23/2023 15137
@@ -1651,7 +1651,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 6
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Tony Cox Dairy 4 Account 00-0025791 Received 08/17/2023 8134
 1509 W. Muscat PIace Account Manager Ben Nydam Reported 08/23/2023 15137
@@ -1669,7 +1669,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 6
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 T
 a
@@ -1710,7 +1710,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 6
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 T
 a
@@ -1746,7 +1746,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 6
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
       08/17/23 08.34 221599
          DELLAVALLE LABORATORY, INC.
@@ -1802,7 +1802,7 @@ ie) CaIibration Due 9/26/2023
 Location Laboratory
 Page 5 of 6
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
              08/17/23 0834 23H1599
 Shipping Information Shipped Ino Picked-Upo WaIking DLISampIero Othero

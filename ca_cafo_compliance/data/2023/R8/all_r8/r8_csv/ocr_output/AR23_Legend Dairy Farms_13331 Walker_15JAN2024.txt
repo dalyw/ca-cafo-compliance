@@ -32,7 +32,7 @@ Date January 12, 2024
 EO
 ee
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -60,7 +60,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors7 Yes oO No
 1 CaIf produces approximateIy 0.6 tons of manure per year
 1 ton of corral manure equaIs 2.32 cubIe yards and 14 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -91,7 +91,7 @@ Date January 12, 2024
 eee
 Tiwe. Operator
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Form 4. Manure Tracking Manifest
 RegIowal Water QuaIity Control Board
@@ -138,7 +138,7 @@ beIief, rue, accurate, and He. am sware thal (0 sIoniicant penetes for submiting
 Srorsonanent for knowing
     he ReeIonal Board may eak ba copy of manure nuttontenatysia 8
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Form 4. Manure Tracking Manifest
 Regional Water QuaIity Controj Board

@@ -48,7 +48,7 @@ Facility Program Facility Program
 Oakland, CA 94612 (510) 622-2460 (fax)
 Rev 9-2022
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 2 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -87,7 +87,7 @@ Y Certification is attached Yes No N/A X Previously submitted
 If no, please explain-
 Rev 9-2022 TT
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 3 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -139,7 +139,7 @@ Date(s) of Pre-Rainy Season InspectionsDocuments Included
 
 Rev 9-2022
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 4 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -178,7 +178,7 @@ application areas were implemented and effective2
 If no, explain
 Rev 9-2022
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 5 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -220,7 +220,7 @@ and we did not have long term leases there has been no actions taken during the 
 or Kehoe Dairy. We have kept all animals off of this pasture for the last 8 months. Pictures will be included.
 Rev 9-2022
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 6 of 9
 
@@ -236,7 +236,7 @@ there has been a reduction of usage in impacted areas.
 
 Rev 9-2022
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 7 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -286,7 +286,7 @@ m ee
 eo) ee ee
 Rev 9-2022
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 8 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -323,7 +323,7 @@ Sampling Period 3 X Fall L Spring 10/13/22
 Sampling Period 4 xX Fall L Spring 12/26/23
 Rev 9-2022
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Appendix 1 -Tier 2 Annual Report - General WDRs for Confined Animal Facilities Page 9 of 9
 Monitoring and Reporting Program No. R2-2016-0031
@@ -367,7 +367,7 @@ Tim Kehoe 10/23/24
 Signature Date
 Rev 9-2022
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 2023 Residual Dry Matter (RDM) Monitoring Report
 J Ranch and portion of K Ranch (Allotment 15)
@@ -385,7 +385,7 @@ necessary to ensure improved RDM conditions continue in 2024, with attention to 
 less than 1200 pounds per acre was observed this year.
 1
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 J Ranch North ( 14)
 10000
@@ -421,7 +421,7 @@ Seashore and Golden Gate National Recreation Area. Point Reyes National Seashore
 Task Agreement 4P11AC91045. August 30, 2015. 27pp with appendices.
 2
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 2 me Bo nee at on ees
 . RRS oh cance oe ee eee age ci
@@ -463,7 +463,7 @@ M transect 14, p
 i 2 J Ranch RD
 Figure 2
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 J Ranch East ( 15 )
 m 4000
@@ -495,7 +495,7 @@ Seashore and Golden Gate National Recreation Area. Point Reyes National Seashore
 Task Agreement 4P11AC91045. August 30, 2015. 27pp with appendices.
 4
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 I a ee BR ee ae - as Mee ee a ae oi eluate aie heer
 ee i er ee pee a ee es
@@ -516,7 +516,7 @@ Pee AN ERG SERS PCTS RE TE Bae oO BR A Ge OS eee ce RS
 2022 2023
 Figure 4 J Ranch East transect 15 photos from 2020-2023.
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 K Ranch Kehoe ( 25 )
 3500 i
@@ -550,7 +550,7 @@ Seashore and Golden Gate National Recreation Area. Point Reyes National Seashore
 Task Agreement 4P11AC91045. August 30, 2015. 27pp with appendices.
 6
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 un ee ee ee ee ee
 we see hp PS es 7 re _, Saree dein Scr fee SES ESSN Te ae ea ark Se Tee ae Te Ree ee ae 5 tie genet, aaa Cm ae
@@ -572,7 +572,7 @@ a ai be owe Ve ue a ee, Ser me eke
 Ta AE oe pe Sg Pe heh Bate MBF ges ae Se a Che ee ar Lb
 Figure 6 K Ranch RDM transect 25, photos from 2020-2023.
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 J Ranch West ( 47 )
 1500
@@ -608,7 +608,7 @@ Seashore and Golden Gate National Recreation Area. Point Reyes National Seashore
 Task Agreement 4P11AC91045. August 30, 2015. 27pp with appendices.
 8
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 _ Le ee ee reed solic ane ek Con Cae Bua ok EES 8 oa as Pe
 Re ee ee ere ee Cera tipets a ye Ee ae eR DR SERGE RE lee ee ee eee
@@ -640,7 +640,7 @@ ee ae ee, eee PE Rete EF oe Rabe ee a eae AE eR SES oe
 rom 2020-2023.
 Figure 8 J Ranch West RDM transect 47, photos fi
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 6000 4
 5000
@@ -689,7 +689,7 @@ weather stations, BBEC1 (located on Mt. Barnabe), or Point Reyes Station (Marin 
 38029) were used to fill in any data gaps.
 10
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 . U.S. Department of the Interior a ae
 2023 RDM Map. J Ranch (Allotment 15) U.S. Department of th
@@ -732,7 +732,7 @@ and 9 was 1200 Ibs/acre. In general, only grassland vegetation types were mapped
 active forage production occurs for silage are indicated with crosshatching.
 11
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 2024 RDM transect results in pounds per acre were 6,090 for T14, 3,607 forT15, 2,703 for
 T25, and 1,743 for T47. These are well above the 1,200 pounds per acre park standard. The
@@ -758,7 +758,7 @@ jJan 24-25 0.10 )
 panel oso _
 (Geomean 013)
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 eg a pee ee ge 1, OT y
 Seen ae a oe Ee aia i
@@ -815,7 +815,7 @@ a eS Pe Oa ae ee PSG
 BS RS Ss SO es Oe Be Le eee
 cS a ee De Les ee So
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Dae an Bae ie oe
 
@@ -855,7 +855,7 @@ BR US es Mg eta Ee He iberes YINSARSE AG A Suieiat oes fa Uae tchebete Rb Sco Bo
 HU Se ieee ete ae gh OI Ae Spee eee
 Peay. hae Te SON amas Ss a eS eee ee eee
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 i eager EE TO ECG Ge, . oo 8 Bee Bee Renee
 Spee AAR aN Be ee ge Gee ne i Be Soleil Se
@@ -869,7 +869,7 @@ BESS ES SS ES eee Ie Pease oe emt te PO a FESS YES ee oa eee
 
     , ee Se poe eee
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 _ - teaw FS. . hs a . Outten FO _ IF -F , hamnd a ow AT th, rev a
 Ata (SPR Ee ss , Saag A
@@ -908,7 +908,7 @@ ty a CO PTR Nx a ad . re Sah N . ANT fo yr 1 aon _
   5 o- NR. J. - YN- Rie rf aN N - . s _ r gs yw
 ss Wy Ze) eta Oe phy o vO, Sarg
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 y 7 N ne
  aN, - Siken Rw -_R ) .
@@ -950,7 +950,7 @@ ae yy lav. aN Fad on fe vy, i Vee Y av - , wd
 WA BR nae Fee Mae ees. STA TOR
        ak. 2 a
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 a
 ae ae _ Ate , . Ove DO i atl a ws cates Kd a ee ee . - GEG,
@@ -992,7 +992,7 @@ aa one te che Bye - ., i me Ar 3 be ye, .
 2 aw wee yh Sak a ) ry a ra , 7) ,
 y a q, we or. Lage 4 4 . D a Se / A a ye & 17 , ge
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 OWS a
 ee
@@ -1065,7 +1065,7 @@ MR Neen NO ter 5 e - or raPR S oh Ke be aly) YN NL F Rew
 j on oa mt & a Abe abe ei ye gmat EN ay )
 Aap ye ey MU os)
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 722 . em
 Inverness .
@@ -1087,7 +1087,7 @@ Arey Bow
 Hort Ow
 a
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 722 . em
 Inverness )
@@ -1114,7 +1114,7 @@ _ i
 Hon Ow
 Ee
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 7222 .- FB
 Inverness (Ss)
@@ -1140,7 +1140,7 @@ banat ee bs i
 (h lo) Q
 Fe
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 7322 . Oo
 Inverness . )
@@ -1172,7 +1172,7 @@ SSoua & ae Saal
 e i onet Paws bh
 Dl
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 oe eae zs ae ee Poe eat peer
 ee ae aie soe a ORs Sees z eal come

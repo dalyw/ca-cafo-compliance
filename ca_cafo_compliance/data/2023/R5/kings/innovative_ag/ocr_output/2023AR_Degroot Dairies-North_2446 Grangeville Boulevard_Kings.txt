@@ -37,7 +37,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 8.
@@ -88,7 +88,7 @@ Yes, Number of discharges occurred (see Attachment H).
 
 BBR INNOVATIVE ac services
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -146,7 +146,7 @@ BAnnovative AG SERVICES
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -210,7 +210,7 @@ Dead cows are picked up and disposed of by rendering service.
 
 MB NNovative AG SERVICES
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -236,7 +236,7 @@ BBB INNOVATIVE ac services
 
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -278,7 +278,7 @@ Ain NOVATIVE 4c SERVICES
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -321,7 +321,7 @@ BB INNOVATIVE dc services
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -363,7 +363,7 @@ BB INNOVATIVE nc services
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -404,7 +404,7 @@ Extracted
 33,979
 
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -444,7 +444,7 @@ Season Nitrogen Ratio: 0.19 Lbs Per Acre;
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -470,7 +470,7 @@ Season Nitrogen Ratio: 0.72 Lbs Per Acre: 194
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -511,7 +511,7 @@ MA INNovative AG SERVICES
 Page 11
 
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -555,7 +555,7 @@ Extracted
 
 184
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -590,7 +590,7 @@ BBB INNOVATIVE ac services
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -633,7 +633,7 @@ MA Nnovative AG SERVICES
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -682,7 +682,7 @@ MA INnovative AG SERVICES
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -726,7 +726,7 @@ Lbs Per Acre:
 MA Nnovative AG SERVICES
 
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -768,7 +768,7 @@ BBB INNOVATIVE ac services
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -809,7 +809,7 @@ BB INNOVATIVE dc services
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -847,7 +847,7 @@ Season Nitrogen Ratio: Lbs Per Acre; 641
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Field Name: 32
@@ -882,7 +882,7 @@ Lbs Per Acre;
 
 A INNOVATIVE 4G SERVICES
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Solid Manure
 
 Process Wastewater
@@ -938,7 +938,7 @@ Page 21
 
 | NOVATIVE Ac SERVICES
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -976,7 +976,7 @@ MA NNovative AG SERVICES
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1009,7 +1009,7 @@ MA Nnovative AG SERVICES
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1041,7 +1041,7 @@ MA NNovative AG SERVICES
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1088,7 +1088,7 @@ PAI INNOVATIVE ac services
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1137,7 +1137,7 @@ BAINNovative AG SERVICES
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1173,7 +1173,7 @@ MA NNovative AG SERVICES
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1208,7 +1208,7 @@ BA INNOVATIVE ac services
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 DeGroot Dairy North 2023
@@ -1227,7 +1227,7 @@ MA nvovative AG SERVICES
 
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Day January
@@ -1632,7 +1632,7 @@ None
 Light
 None
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ENVIRONMENTAL AGRICULT
@@ -1706,7 +1706,7 @@ CAELAP Certification No, 1573
 FAX: (559)734-8435
 CAELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 June 27, 2023
@@ -1744,7 +1744,7 @@ CAELAP Certification No, 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 DocuSign Envel
 
 lope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
@@ -1794,7 +1794,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Laboratory Analysis Work Order
@@ -1887,7 +1887,7 @@ NOE? Panam MVE o __
 
 ‘THE PARITER INC. - $59-992-5127
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 FGL
@@ -1963,7 +1963,7 @@ CA ELAP Certification No, 1573 Cc
 
 A ELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 L
@@ -2002,7 +2002,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 DocuSign Envelo,
 
 pe ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
@@ -2056,7 +2056,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ; Laboratory Analysis Work Order N° 41199
@@ -2115,7 +2115,7 @@ NOTES:
 ‘THE PRIITER INC, - 959-992-5127
 
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ENVIRONMEN
@@ -2198,7 +2198,7 @@ CAELAP Certification No, 1573
 FAX: (559)734-8435
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 September 14, 2023
@@ -2239,7 +2239,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 September 14, 2023
@@ -2404,7 +2404,7 @@ Visalia, CA 93291
 TEL: (559)734-9473
 FAX: (559)734-8435
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 September 14, 2023
@@ -2468,7 +2468,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 September 14, 2023
@@ -2777,7 +2777,7 @@ Page 5 of 6
 
 435
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 September 14, 2023
@@ -2827,7 +2827,7 @@ on the LCS or CCV recovery.
 
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 my) Laboratory Analysis Work Order N° 41252
@@ -2895,7 +2895,7 @@ Ived Date & Ti Relinquished Date & Time
 ‘THE PANTER INC. - 659-992-5127
 
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ENVIRONMENTA
@@ -2968,7 +2968,7 @@ CAELAP Certification No, 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 October 3, 2023
@@ -3023,7 +3023,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 IRONMEN
@@ -3087,7 +3087,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 October 3, 2023
@@ -3387,12 +3387,12 @@ Page 4 of 5
 
 435
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Page 5 of 5 Page 5 of 5
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 MM Laboratory Analysis Work Order
@@ -3492,7 +3492,7 @@ CHAIN OF CUSTODY RECORDING
 
 ‘THE PABITER INC, - $59-992-5127
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Analytical Cher
@@ -3563,7 +3563,7 @@ CAELAP Certification No, 1573
 
 CAELAP Certification No, 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 November 2, 2023
@@ -3617,7 +3617,7 @@ Env FAX: (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ENVIRONMENTAL
@@ -3717,7 +3717,7 @@ FAX; (559)734-8435
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 November 2, 2023
@@ -3782,12 +3782,12 @@ MSRPD mg/L 3.3% 20
 
 Page 4 of 5 Page 4 of 5
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Page 5 of 5 Page 5 of 5
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ID:#__ 00572
@@ -3881,7 +3881,7 @@ Uaboratory #: “Pc
 
 ‘THE PRINTER INC, « §89-992-5127
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 y
@@ -3959,7 +3959,7 @@ CAELAP Certification No. 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 ENVIRONMENTAL AGRICULT
@@ -4014,7 +4014,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 November 1, 2023
@@ -4110,7 +4110,7 @@ FAX: (559)734-8435
 
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 November 1, 2023
@@ -4175,14 +4175,14 @@ MSRPD_ mg/L 3.3% 20
 
 Page 4 of 5 Page 4 of 5
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Page 5 of 5
 
 Page 5 of 5
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Laboratory Analysis Work Order N° 41497
@@ -4249,7 +4249,7 @@ CA
 
 ‘THE PRINTER INC. » 559-992-5127
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 FGL
@@ -4325,7 +4325,7 @@ CAELAP Certification No, 1573 CA ELAP Certification
 
 No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 Analytical Chemists
@@ -4366,7 +4366,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 December 18, 2023
@@ -4410,7 +4410,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 DocuSign Envelope ID: 3E5BF741-E9C5-44F2-A210-062984CE6199
 
 . tM Laboratory Analysis Work Order N° 42153

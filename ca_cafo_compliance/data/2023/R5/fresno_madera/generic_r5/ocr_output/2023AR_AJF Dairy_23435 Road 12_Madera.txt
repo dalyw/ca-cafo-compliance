@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 1 of 74
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ DOM-4 Ground water
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 2 of 74
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -89,7 +89,7 @@ AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 
 06/26/2024 1627.09 Page 3 of 74
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -125,7 +125,7 @@ Total actual harvest content 16.34 230.92 28.27 138.02 1,128.05
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 4 of 74
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -151,7 +151,7 @@ FieId name 11A
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 5 of 74
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -182,7 +182,7 @@ Total actual harvest content 23.14 148.77 53.81 232.66 1,535.22
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 6 of 74
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -214,7 +214,7 @@ Total actual harvest content 31.70 419.57 63.32 270.27 2,182.79
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 7 of 74
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -245,7 +245,7 @@ Total actual harvest content 36.04 233.54 51.15 427.38 1,494.65
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 8 of 74
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -270,7 +270,7 @@ FieId name 4
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 9 of 74
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -304,7 +304,7 @@ FieId name 6
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 10 of 74
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -335,7 +335,7 @@ Total actual harvest content 21.13 279.73 42.22 180.19 1,455.28
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 11 of 74
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -363,7 +363,7 @@ Total actual harvest content 11.48 571.98 73.25 642.23 2,568.91
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 12 of 74
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -378,7 +378,7 @@ Total actual harvest content 18.78 154.13 42.47 267.16 625.65
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 13 of 74
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -411,7 +411,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 14 of 74
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -445,7 +445,7 @@ AppIication event totaIs 0.00 0.00 0.00 15.01
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 16.2709 Page 15 of 74
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -475,7 +475,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 16 of 74
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -504,7 +504,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 17 of 74
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -537,7 +537,7 @@ AppIication event totaIs 0.00 0.00 0.00 18.23
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 18 of 74
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -566,7 +566,7 @@ AppIication event totaIs 248.17 71.83 299.30 0.00
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 19 of 74
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -599,7 +599,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 20 of 74
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -632,7 +632,7 @@ AppIication event totaIs 243.02 89.30 374.78 0.00
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 21 of 74
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -666,7 +666,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.50
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 22 of 74
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -697,7 +697,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 23 of 74
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -731,7 +731,7 @@ AppIication event totaIs 0.00 0.00 0.00 18.75
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 24 of 74
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -764,7 +764,7 @@ AppIication event totaIs 0.00 0.00 0.00 22.62
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 25 of 74
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -796,7 +796,7 @@ AppIication event totaIs 0.00 0.00 0.00 15.08
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 26 of 74
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -829,7 +829,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.86
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 27 of 74
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -862,7 +862,7 @@ AppIication event totaIs 0.00 0.00 0.00 15.62
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 28 of 74
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -895,7 +895,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 29 of 74
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -928,7 +928,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.25
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 30 of 74
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -962,7 +962,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 31 of 74
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -995,7 +995,7 @@ AppIication event totaIs 145.81 53.58 224.87 0.00
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 32 of 74
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1029,7 +1029,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.09
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 33 of 74
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1060,7 +1060,7 @@ AppIication event totaIs 0.00 0.00 0.00 12.05
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 34 of 74
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1083,7 +1083,7 @@ AppIication event totaIs 75.71 15.64 121.77 655.12
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 16.2709 Page 35 of 74
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1118,7 +1118,7 @@ AppIied to removed ratio 1.41 2.56 4.35 4.94
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 36 of 74
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1153,7 +1153,7 @@ AppIied to removed ratio 1.35 2.76 1.15 0.24
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 37 of 74
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1188,7 +1188,7 @@ AppIied to removed ratio 0.21 0.00 0.00 0.60
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 38 of 74
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1221,7 +1221,7 @@ AppIied to removed ratio 0.23 0.00 0.00 0.77
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 39 of 74
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1255,7 +1255,7 @@ AppIied to removed ratio 1.33 2.90 1.84 0.00
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 40 of 74
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1289,7 +1289,7 @@ AppIied to removed ratio 1.33 1.02 0.99 0.06
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 41 of 74
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1323,7 +1323,7 @@ AppIied to removed ratio 1.38 1.29 1.24 5.12
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 42 of 74
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1357,7 +1357,7 @@ AppIied to removed ratio 1.40 1.84 1.24 0.05
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 43 of 74
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1391,7 +1391,7 @@ AppIied to removed ratio 0.90 0.76 2.15 1.38
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 44 of 74
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1424,7 +1424,7 @@ AppIied to removed ratio 1.29 1.87 1.21 0.43
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 45 of 74
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1458,7 +1458,7 @@ AppIied to removed ratio 0.83 1.44 2.06 2.02
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 46 of 74
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1492,7 +1492,7 @@ AppIied to removed ratio 1.40 1.42 1.30 0.82
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 47 of 74
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1525,7 +1525,7 @@ AppIied to removed ratio 1.14 1.35 3.66 2.14
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 48 of 74
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1559,7 +1559,7 @@ AppIied to removed ratio 1.44 0.66 1.55 0.87
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 49 of 74
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1592,7 +1592,7 @@ AppIied to removed ratio 0.03 0.00 0.00 0.04
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 50 of 74
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1626,7 +1626,7 @@ AppIied to removed ratio 0.05 0.00 0.00 0.06
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 51 of 74
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1660,7 +1660,7 @@ AppIied to removed ratio 0.74 0.61 1.63 1.19
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 52 of 74
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1695,7 +1695,7 @@ AppIied to removed ratio 1.16 0.27 1.60 1.22
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 53 of 74
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1729,7 +1729,7 @@ AppIied to removed ratio 1.18 0.95 3.00 1.71
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 54 of 74
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1763,7 +1763,7 @@ AppIied to removed ratio 1.39 1.24 1.49 1.08
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 55 of 74
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1797,7 +1797,7 @@ AppIied to removed ratio 0.02 0.00 0.00 0.01
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 56 of 74
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1832,7 +1832,7 @@ AppIied to removed ratio 1.48 1.17 1.43 1.94
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 57 of 74
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1865,7 +1865,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 58 of 74
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1895,7 +1895,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 59 of 74
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1930,7 +1930,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 1,000
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 60 of 74
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1962,7 +1962,7 @@ DL 0.50 0.50 0.50 1.00 10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 61 of 74
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1989,7 +1989,7 @@ E. PLANT TISSUE ANALYSES
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 62 of 74
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2020,7 +2020,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 63 of 74
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2051,7 +2051,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 64 of 74
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2082,7 +2082,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 65 of 74
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2113,7 +2113,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 66 of 74
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2144,7 +2144,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 67 of 74
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2175,7 +2175,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 68 of 74
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2192,7 +2192,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 69 of 74
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2226,7 +2226,7 @@ N P K saIt
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 70 of 74
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2259,7 +2259,7 @@ lbs lbs
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 71 of 74
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2289,7 +2289,7 @@ wastewater that are new or were revised within the reporting period
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 72 of 74
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2305,7 +2305,7 @@ AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 
 06/26/2024 1627.09 Page 73 of 74
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2324,7 +2324,7 @@ DATE DATE
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 1627.09 Page 74 of 74
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2348,7 +2348,7 @@ Storm Water Reporting Section on page MRP-14.
 AJF Dairy 23435 12 RD ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/26/2024 162709 Page 1 of 1
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -2378,7 +2378,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 1 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -2408,7 +2408,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 2 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -2438,7 +2438,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 3 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -2468,7 +2468,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 4 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 DENELE ANALYTICAL, INC.
 re 865 S. KILROY DAIRY COMPLIANCE
@@ -2513,7 +2513,7 @@ US SS
 pnd LP oenemmurnon.ne 30-93 DAF CP RM __d
 REquired to be gGbmittdd to any agency2 (YES / NO)
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Final Audit Report 2024-06-27
 Created 2024-06-26

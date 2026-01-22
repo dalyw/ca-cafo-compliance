@@ -50,7 +50,7 @@ Sreeportambs
 Attachment G - Annual Report G-1
 
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Tues
 Chickens (broiIers) TP
@@ -104,7 +104,7 @@ C. Amount of process wastewater transferred during the reporting period
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Vv. Summary of Production Area Discharges
 Report aIl discharges of manure, litter, and process wastewater from the production
@@ -143,7 +143,7 @@ hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 
@@ -185,7 +185,7 @@ inventory and
 finished
 
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 oo January February March April May June JuIy August September October / November December_
 
@@ -226,7 +226,7 @@ If any stormwater discharges from the composting operations were not anaIyzed fo
 
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 
@@ -276,7 +276,7 @@ needed.
 
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Source
 sampIed
@@ -318,7 +318,7 @@ caIcuIating nutrient appIication rates.
 
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication
 
@@ -337,7 +337,7 @@ Units4
 
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Actual Manure AppIied
 
@@ -356,7 +356,7 @@ g. IfOther is seIected, write in the type of manure, litter, or wastewater to be
 
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -388,7 +388,7 @@ as N as P
 
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 
@@ -404,7 +404,7 @@ O Monitoring resuIts are not attached. ExpIain
 
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PART E - CERTIFICATION
 

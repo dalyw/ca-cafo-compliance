@@ -38,7 +38,7 @@ This owner is responsible for paying permit fees.
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/17/2024 08:13:55 Page 1 of 13
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -81,7 +81,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 2 of 13
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -100,7 +100,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 3 of 13
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -122,7 +122,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 Page 4 of 13
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -138,7 +138,7 @@ No application area crops entered.
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/17/2024 08:13:55 Page 5 of 13
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -175,7 +175,7 @@ B. PROCESS WASTEWATER ANALYSES
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/17/2024 08:13:55 Page 6 of 13
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -211,7 +211,7 @@ DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/17/2024 08:13:55 Page 7 of 13
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -236,7 +236,7 @@ No subsurface (tile) drainage analyses entered.
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 06/17/2024 08:13:55 Page 8 of 13
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -271,7 +271,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 9 of 13
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -351,7 +351,7 @@ Ibs
 
 Page 10 of 13
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -397,7 +397,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 11 of 13
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -413,7 +413,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 12 of 13
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -443,7 +443,7 @@ ee
 Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare Basin
 11/16/2023 10:24:17 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 14 of 14
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -478,7 +478,7 @@ Curti Family Farms | 19493 Road 30 | Tulare, CA 93274 | Tulare County | Tulare B
 
 06/17/2024 08:13:55 Page 1 of 1
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -525,7 +525,7 @@ Page 1 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 SELLAVALLE™
 
 LABORATORY
@@ -588,7 +588,7 @@ party interpretation.
 
 Page 2 of 8
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -661,7 +661,7 @@ party interpretation.
 
 Page 3 of 8
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -749,7 +749,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -784,7 +784,7 @@ Page 5 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 SELLAVALLE™
 
 LABORATORY
@@ -845,7 +845,7 @@ Page 6 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 IMT
 
 05/11/23 08:59 23E1020 REN
@@ -907,7 +907,7 @@ S&S Dairy 15850 $18.00 Qrtly
 
 Page 7 of 8
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Shipping Information: Shipped Ina Picked-Upo WalkInco DLISamplera Other }
 
 Container: Ice Chest} Box None o Refrigerant: Wet Ice
@@ -970,7 +970,7 @@ HAAS - 250mL AG Ammonium Chiorite
 
 Page 8 of 8
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1030,7 +1030,7 @@ party interpretation.
 
 Page 1 of 8
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1071,7 +1071,7 @@ party interpretation.
 
 Page 2 of 8
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1156,7 +1156,7 @@ Page 3 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1194,7 +1194,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1250,7 +1250,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1310,7 +1310,7 @@ party interpretation.
 
 Page 6 of 8
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 |
 
 ‘il
@@ -1441,7 +1441,7 @@ Sample received in cooler with ice?
 
 Page 7 of 8
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 WHI
 
 08/16/23 07:00 23H1415
@@ -1518,7 +1518,7 @@ Asbestos - 1L P wrapped in foil (Set of 2)
 
 Page 8 of 8
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1579,7 +1579,7 @@ party interpretation.
 
 Page 1 of 11
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1622,7 +1622,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 11
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1733,7 +1733,7 @@ party interpretation.
 
 Page 3 of 11
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1765,7 +1765,7 @@ Page 4 of 11
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1827,7 +1827,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 11
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1865,7 +1865,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 11
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1927,7 +1927,7 @@ party interpretation.
 
 Page 7 of 11
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2025,7 +2025,7 @@ party interpretation.
 
 Page 8 of 11
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2051,7 +2051,7 @@ Page 9 of 11
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 |
 
 41/14/23 20:05 23K0770
@@ -2151,7 +2151,7 @@ Correction Factor: 0°C
 Calibration Due: 12/22/2023
 Location: Hanford
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 UNM
 
 11/14/23 20:05 23K0770

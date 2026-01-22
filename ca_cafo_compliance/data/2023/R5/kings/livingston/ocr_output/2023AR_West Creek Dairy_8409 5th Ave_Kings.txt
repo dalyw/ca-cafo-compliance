@@ -11,7 +11,7 @@ _ X_CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation 4 Date
 eee at
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -35,7 +35,7 @@ Home Phone Number-
 CeIl Phone Number.
          Jere if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 fom Toews com, oe
@@ -60,7 +60,7 @@ Total nitrogen generated 67,749 lbs
 115,739 lbs
 Total saIt (TDS) generated 545,759 tbs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 Total e of Waste
@@ -75,7 +75,7 @@ CN SN SO OO
 ES
 Total Crop Acres 431.00
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 Source Description Subsurface (TiIe) Drainage Sources
@@ -91,7 +91,7 @@ SettIer Canal ss Surfacewater sf CNC
 CS
        Surface Water po CNCSCSCizS
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 naa _ cop meses x rem rom son tes _ sanpier nater_ sce
 fia Whest,sitage 6262 os3o1z(os6 - t0.70 2zzza40_ 06/01/23 DeIlavaIle_
@@ -116,7 +116,7 @@ DeIlaveIle ut 0.003 a
 
 . 0,003 a
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 - a s a) Pee _ foc se
 re ee eee
@@ -136,7 +136,7 @@ a ES RS OR
 RS RN OR NC (CO
 a SS EO CO
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reporting
@@ -157,7 +157,7 @@ rr. . . . & JT JT yy
 rT . t - Tf yt fT
 rr. -. T. f f Jf fy yf
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Harvest Moisture N SaIt Reporting
 Pa lS SP
@@ -178,7 +178,7 @@ a eS RS GOS OE CO QO
 SS SO SC
 VaIley iv pon noe 0.05
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -217,7 +217,7 @@ Tons tt -1t -,) -1 -/ - -f -, - fT yf Ty
 . it) . Qo
 VaIley a . ue WR NR NR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 Fess O/1ft. NO3-N 1/2 ft.NO3-N 0/1 ft. Sol. P O/ift. K O/1fL.EC Ps . es Ps nee earae Fae os .
@@ -233,7 +233,7 @@ DetectabIe Limits
 ae - 0.
 po . 0 0.2 ee 0.0001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 
@@ -256,7 +256,7 @@ RS Cs SS (CO
 a QO CO CS GR (O(n
 DetectabIe -
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property7
@@ -269,7 +269,7 @@ No Commerical or other nutrient imports entered
 Type of Manure
 FieId Name pe lied Asis / Dry Weight source
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -297,7 +297,7 @@ L_tonat - ae7 o22 oas - - / - - J - - 7 - fo 332)
 VaIley Tech 0.01 0.02 0.024
 DeIlavaIie 0.01 0,014 0.003 0.001 G.001K 0.001 0.001 0,000 G.001 0.001
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 FieId Name/Number- 11A Acres 11.00
@@ -341,7 +341,7 @@ TotaIs L246 _ aT sza2 oop fe eo mf ass azo ToT a5.00_
 Dry Weight
 As Received
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FieId Name/Number 12A Acres bey
 (NutrientsAppIied Ss C ST tga Tsong ft
@@ -373,7 +373,7 @@ Atm. Depos. Yes 7.0
 5. PIanting 6/30/23
 S. Harvest 10/12/23 19.5 T/Ac (184.6) (95.9) (295.3)
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Nutrient AppIications
 FIeld Name/Number 118 Acres 33.00
@@ -415,7 +415,7 @@ aS CS A ES EN ES ES
 SS NE ES CS SES ES RSS GE SS
 TotaIss L_s2 A ET ) 9) 9
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 FieId Name/Number 115 Acres 33.00
 (NutrientsAppied SSCSCSidCCSitOSST a 203
@@ -463,7 +463,7 @@ Atm. Depos. Yes 7.0
 
 . Harvest 10/24/23 22.9 T/Ac (233.1) (84.3) (342.8)
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Nutrient AppIications
 
@@ -507,7 +507,7 @@ a a
 LS A ES ES ES ES SS
 TotaIss L239 J Lao YT sxo1 ( oe fafa ae asn fo (2s
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 FieId Name/Number 1c Acres 32.00
 (NutrientsAppIied C dT aaa tos
@@ -559,7 +559,7 @@ Atm. Depos. Yes 7.0
 
 S. Harvest 10/23/23 18.4 T/Ac (196.3) (93.8) (242.4)
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Nutrient AppIications
 
@@ -603,7 +603,7 @@ po
 a Se SS ES ES ES RES SED ORS ESS OS
 TotaIs. Loo Le 222 Toc erf emf arf asso To T9330
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 FieId Name/Number 12 Acres- 145.00
 INutrientsAppiedSSSSCSCSCidSCS Ta
@@ -636,7 +636,7 @@ Atm. Depos. 4N/A HN/A
 S. PIanting AN/A
 S. Harvest HN/A AN/A TiAc 4N/A HN/A HN/A
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Nutrient AppIications
 
@@ -679,7 +679,7 @@ a a a ES
 AS OS NS CS NS ENS ES ET ES
 ToteIss _ soa Lo 200 sag TO aml eof ass 3306 azao ot araa_
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 FieId Name/Number 13 Acres 52.00
 (NotrentsAppied SSSCSCidSCSCiSA CT T8087
@@ -730,7 +730,7 @@ S. PIanting Vf/1f23
 
 S. Harvest 10/24/23 16.8 T/Ac (186.2) (80.7) (308.0)
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Nutrient AppIications
 
@@ -774,7 +774,7 @@ a eS CS RSE ES CS
 LS AE NS EE NEES ET RE ES ES ST
 TotaIs Loo Lo Too Too PO co Fo Too _
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 FieId Name/Number 14 Acres 67.00
 INutrientsAppied SSSSSCidT SCOT
@@ -823,7 +823,7 @@ Atm. Depos. Yes 7.0
 
 S. Harvest - ANJA T/A RN/A aN/A EN/A
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Nutrient AppIications
 
@@ -867,7 +867,7 @@ a as ES EN SE
 LS es ES ES ES ENE SES CS ES ES OSS OE
 TotaIs Lo Lo Jor Tres TO usf af 262 sao Jo i asas_
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 FieId Name/Number 15 Acres 35.00
 lNutrientsAppied CSCC gang Toes
@@ -915,7 +915,7 @@ S, PIanting 7/6/23
 
 S. Harvest 10/31/23 22.30 T/Ac (208.2) (90.0) (267.3)
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Nutrient AppIications
 FieId Name/Number- 16 Acres 56.00
@@ -957,7 +957,7 @@ a Se RE RE EE EOS ES A
 LS RS EE RS RES SS SE SS EE
 TotaIs Loo Lo s7e vso asf ear aecs zm 0 i sm
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 FieId Name/Number 16 Acres 56.00
 (Nutrients Appied SCSCCrTSCSCSCtRC Tao Tr
@@ -989,7 +989,7 @@ Atm. Depos. Yes 70
 S. PIanting 7/14/23
 S. Harvest 10/31/23 25.6 T/Ac (220.7) (77.5) (293.9)
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 2y a)
 ee 2F
@@ -1091,7 +1091,7 @@ Sec oad ps o
 25 ,p 8B oO rad
 o Faouoct e
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 G eo
 o g g
@@ -1185,7 +1185,7 @@ ees z gre s 3 z
 & S 5
 2 a
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 c
 cee
@@ -1284,11 +1284,11 @@ vu
 2
 a
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 DELLAVALLE
 
@@ -1350,7 +1350,7 @@ area or reducing the number of animaIs at the dairy.
 
 1910 W. McKinIey, Suite 110 Fresno CA 93728-1298 (559) 233-6129
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 DELLAVALLE
 LABORATORY ING
@@ -1378,7 +1378,7 @@ Certified Crop Advisor 22552
 EncIosure
 1910 W, McKinIey, SuIte 110 Fresno CA 93728-1298 (55S) 233-6129
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Tu
 a
@@ -1403,7 +1403,7 @@ Party interpretation.
 1910 W. McKinIey Ave SuIte 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 7
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 TM
 a
@@ -1437,7 +1437,7 @@ party interpretation.
 191 W, McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 7
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 . 2b4o1s7
 09/11/28 1430 zaio7sa GL
@@ -1491,7 +1491,7 @@ SampIe recenvod in cooker with ice
 Aut Pad Rec Bs Check ho Daw LY bpSe supine
 Page 6 of 7
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 m
 r
@@ -1518,7 +1518,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 99728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 7
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 T
 Z
@@ -1552,7 +1552,7 @@ AIl resutts listed in this report are for the excIusive use of the submitting ba
 party interpretation.
 1910 W, McKinIey Ave Suite 110 Fresno, CA 93728 569-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 TM
 i
@@ -1580,7 +1580,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 /
 
@@ -1610,7 +1610,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 Party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIlaIab.com
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 09/13/23 0704 210841 GAL
 a
@@ -1663,7 +1663,7 @@ SempIing Hrs MiIes__ ConsuIting s Out Signavare
 SampIe renzived in cooIer with icc
 Amt Pad Rec By Check No. Date BYes tJ No tt update B27
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 . A
 West Creek Dairy Account 00-0015790 Received 09/13/2023 705
@@ -1695,7 +1695,7 @@ AIl resutts listed in this report are for the excIusive use of the submitting pa
 Party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIieIab.com
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 T
 &
@@ -1723,7 +1723,7 @@ AIl resuits listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaiIelab.com
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 IMME
 . 2.10842
@@ -1781,7 +1781,7 @@ SampImg Hrs bes unnsutme 4 On Ramatuss
 SampIe rocan esl sy evoIet wth 1027
 Anu Paid Rec Be Chav we Date 1 ve 1 Ne Sapbic ) 2
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Tm
 a
@@ -1807,7 +1807,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 Party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 UEC
 09/13/23 07-05 210842 .
@@ -1848,11 +1848,11 @@ HAAS -250mL AG Ammonium Crionte fT TT C SC SCT SCT SCT SCC iY
 LL A ES SS A GS I (
 A OO SS SG
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 EE ____ ee
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 d m
 West Creek Dairy Account 00-0015790 Received 08/30/2023 650
@@ -1880,7 +1880,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, GA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Tm
 . L
@@ -1908,7 +1908,7 @@ AIl resuits listed in this report are tor the exctusive use of the submitting pa
 Party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaiIelab.com
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 7
 LI
@@ -1933,7 +1933,7 @@ Al resuIts listed in this report are for the excIusive use of the submitting par
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6120 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 08/30/23 0650 23H2339 .
 MM
@@ -1990,7 +1990,7 @@ i
 4
 ,
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 MANE
 08/30/23 0650 23112339
@@ -2031,11 +2031,11 @@ jormer tor
 i
 i
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 m
 West Creek Dairy Account 00-0015790 Received 05/16/2023 721
@@ -2068,7 +2068,7 @@ parIy interpretation,
 1910 W. McKinIey Ave SuIte 110 Fresno, CA 93728 59-233-6129 www.deIlavaIleIab.com
 Page 1 of 9
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 D
 West Creek Dairy Account 00-0015790 Received 05/16/2023 721
@@ -2092,7 +2092,7 @@ party interpretation.
 1910 W. McKinIey Ave SuiIe 110 Fresno, CA 93728 558-233-6129 www.deIlavaIleIab.com
 Page 2 of 9
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 m
 West Creek Dairy Accounts 00-0015790 ReceIved 05/16/2023 721
@@ -2117,7 +2117,7 @@ purty interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 569-233-6129 www.deIlavaIleIab.com
 Page 3 of 9
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 To
 05/16/23 07.21 2213
@@ -2175,7 +2175,7 @@ i
 IR Thermometer SN 200560723
 Location. Page 8 of 9
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 seen
 05/16/23 07.21 22E1355
@@ -2216,11 +2216,11 @@ Chorte/romate- 250 mL AG with EDA.
 HAAS - 250m AG Ammonium Ghiente _ . t- 7
 . , Page 9 of 9
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
                                             2023
 . ATTACHMENT D
@@ -2264,7 +2264,7 @@ and the method used to caIcuIate the amount
 Manure SoIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards)
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 A at
 ad Attachment D D-2
@@ -2293,7 +2293,7 @@ _ 72
 Operators Signature o a a. Zh Date. aS 43
 ve HauIers Signature ECA _ . Date
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 . 2a
 . ATTACHMENT D
@@ -2337,7 +2337,7 @@ Manure SoIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 es
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
           Attachment D D-2
 . Waste Discharge Requirements General Order No. R5-2007-0035
@@ -2372,7 +2372,7 @@ imprisonment for knowing vioIations.
 Operators Signature 6 f _ere Date Ay z3
 HauIers Signature Au L Pediquar eS Date. 5 (3 (t
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 , / ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -2417,7 +2417,7 @@ Manure SoIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 Se
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 A 2023
                                                            ATTACHMENT D
@@ -2461,7 +2461,7 @@ and the method used to caicuIate the amount.
 Manure SoIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 a Attachment D D-2
 veg Waste Discharge Requirements General Order No. R5-2007-0035
@@ -2491,5 +2491,5 @@ Ce
 HauIers Signature VV Le Date
 C
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 

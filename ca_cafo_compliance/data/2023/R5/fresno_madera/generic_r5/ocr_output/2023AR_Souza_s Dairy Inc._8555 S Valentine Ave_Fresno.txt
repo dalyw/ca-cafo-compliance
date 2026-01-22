@@ -65,7 +65,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 1 of 89
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -84,7 +84,7 @@ This owner is responsible for paying permit fees.
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 2 of 89
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -124,7 +124,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 3 of 89
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -170,7 +170,7 @@ Total exports for all materials 237,844.72 61,339.18 251,630.84 557,901.28
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 4 of 89
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -212,7 +212,7 @@ Field name: #402
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 5 of 89
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 #402
@@ -251,7 +251,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 6 of 89
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -383,7 +383,7 @@ TFS (%)
 
 Page 7 of 89
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -424,7 +424,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 8 of 89
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -464,7 +464,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 9 of 89
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -505,7 +505,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 10 of 89
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -545,7 +545,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 11 of 89
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -586,7 +586,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 12 of 89
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Salwassser #447
@@ -625,7 +625,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 13 of 89
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -830,7 +830,7 @@ Salt (Ibs/acre)
 
 Page 14 of 89
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1045,7 +1045,7 @@ Amount
 
 Page 15 of 89
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1270,7 +1270,7 @@ Amount
 
 Page 16 of 89
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1465,7 +1465,7 @@ Salt (Ibs/acre) Amount
 
 Page 17 of 89
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1724,7 +1724,7 @@ Amount
 
 Page 18 of 89
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1762,7 +1762,7 @@ Application event totals 23.07 0.00 0.00 714.60
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 19 of 89
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1797,7 +1797,7 @@ Application event totals 25.16 2.92 29.64 178.78
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 20 of 89
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1990,7 +1990,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 21 of 89
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2163,7 +2163,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 22 of 89
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2393,7 +2393,7 @@ Salt (Ibs/acre)
 
 Page 23 of 89
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2575,7 +2575,7 @@ Salt (Ibs/acre) Amount
 
 Page 24 of 89
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2819,7 +2819,7 @@ Amount
 
 Page 25 of 89
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2983,7 +2983,7 @@ Amount
 
 Page 26 of 89
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3192,7 +3192,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 27 of 89
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3413,7 +3413,7 @@ Amount
 
 Page 28 of 89
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3634,7 +3634,7 @@ Salt (Ibs/acre) Amount
 
 Page 29 of 89
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3778,7 +3778,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 30 of 89
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4011,7 +4011,7 @@ Salt (Ibs/acre)
 
 Page 31 of 89
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4049,7 +4049,7 @@ Application event totals 47.11 13.61 95.47 504.71
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 32 of 89
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4087,7 +4087,7 @@ Application event totals 1.16 0.00 0.00 35.88
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 33 of 89
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4301,7 +4301,7 @@ Precipitation 24 hours following
 
 Page 34 of 89
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4428,7 +4428,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 35 of 89
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4595,7 +4595,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 36 of 89
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4634,7 +4634,7 @@ Application event totals 13.06 5.43 81.71 285.12
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 37 of 89
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4859,7 +4859,7 @@ Salt (Ibs/acre)
 
 Page 38 of 89
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5070,7 +5070,7 @@ Amount
 
 Page 39 of 89
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5280,7 +5280,7 @@ Salt (Ibs/acre) Amount
 
 Page 40 of 89
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Application date Application method
 
 08/25/2023 Surface (irrigation)
@@ -5403,7 +5403,7 @@ Amount
 
 Page 41 of 89
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5509,7 +5509,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 42 of 89
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5564,7 +5564,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 43 of 89
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5634,7 +5634,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 44 of 89
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5670,7 +5670,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 45 of 89
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5771,7 +5771,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 46 of 89
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5809,7 +5809,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 47 of 89
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5880,7 +5880,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 48 of 89
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5916,7 +5916,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 49 of 89
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5952,7 +5952,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 50 of 89
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5992,7 +5992,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 51 of 89
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6029,7 +6029,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 52 of 89
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6069,7 +6069,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 53 of 89
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6148,7 +6148,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 54 of 89
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6242,7 +6242,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 55 of 89
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6336,7 +6336,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 56 of 89
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6373,7 +6373,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 57 of 89
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6450,7 +6450,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 58 of 89
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6487,7 +6487,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 59 of 89
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6523,7 +6523,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 60 of 89
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6559,7 +6559,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 61 of 89
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6597,7 +6597,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 62 of 89
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6635,7 +6635,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 63 of 89
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6672,7 +6672,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 64 of 89
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6708,7 +6708,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 65 of 89
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -6750,7 +6750,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 66 of 89
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6788,7 +6788,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 67 of 89
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6829,7 +6829,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 68 of 89
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -6870,7 +6870,7 @@ DL 0.50 0.50 0.50 1.00 10
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 69 of 89
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6913,7 +6913,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 70 of 89
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 #8626-Dom
@@ -6958,7 +6958,7 @@ F.1.D. Canal
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 71 of 89
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7001,7 +7001,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 72 of 89
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 No soil analyses entered.
@@ -7041,7 +7041,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 73 of 89
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 #407 - 11/24/2022: Wheat, silage, soft dough
@@ -7095,7 +7095,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 74 of 89
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Brawley #446 - 12/17/2022: Wheat, silage, soft dough
@@ -7149,7 +7149,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 75 of 89
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Carsten E #448 - 06/01/2023: Corn, silage
@@ -7203,7 +7203,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 76 of 89
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Carsten S - 12/10/2022: Wheat, silage, soft dough
@@ -7257,7 +7257,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 77 of 89
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Carsten W #448 - 05/27/2023: Corn, silage
@@ -7310,7 +7310,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 78 of 89
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Dairy E - 07/02/2023: Corn, silage
@@ -7365,7 +7365,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 79 of 89
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Dairy W&S #443 - 07/02/2023: Corn, silage
@@ -7418,7 +7418,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 80 of 89
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Deis E&W #418 - 11/20/2022: Wheat, silage, soft dough
@@ -7472,7 +7472,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 81 of 89
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Salwassser #447 - 11/16/2022: Wheat, silage, soft dough
@@ -7524,7 +7524,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 82 of 89
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Salwassser #447 - 05/27/2023: Corn, silage
@@ -7579,7 +7579,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 83 of 89
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Scharton #449 - 06/22/2023: Corn, silage
@@ -7607,7 +7607,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 84 of 89
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -7644,7 +7644,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 85 of 89
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7720,7 +7720,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 Page 86 of 89
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -7765,7 +7765,7 @@ wastewater that are new or were revised within the reporting period?
 Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
 06/27/2024 13:38:49 Page 87 of 89
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -7780,7 +7780,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 88 of 89
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 . CERTIFICATION
@@ -7807,7 +7807,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 06/27/2024 13:38:49 Page 89 of 89
 
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -7842,7 +7842,7 @@ Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | 
 
 06/27/2024 13:38:49 Page 1 of 1
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -7910,7 +7910,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 12/11/2023
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 For
 
 Manure / Process Wastewater Tracking Manifest
@@ -7963,7 +7963,7 @@ Hauler Signati
 Date
 
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8031,7 +8031,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 11/15/2023
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -8072,7 +8072,7 @@ iH
 7]
 
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8140,7 +8140,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 10/10/2023
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8177,7 +8177,7 @@ Zen Purrewe 6-25-24
 Hauler Signature Date
 
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8245,7 +8245,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 06/05/2023
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8283,7 +8283,7 @@ eke Bunrswe 6-25-24
 Hauler Sighature Date
 
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8351,7 +8351,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 05/31/2023
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8383,7 +8383,7 @@ Operator Signature Date
 Hauler SigyAture Date
 
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8451,7 +8451,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 05/19/2023
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8482,7 +8482,7 @@ Zé) LAA AL 6-25-24
 
 Hauler Signdture Date
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8550,7 +8550,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 05/10/2023
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8584,7 +8584,7 @@ Vel LODO VL 6 “25- 24
 Hauler Signgture Date
 
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8652,7 +8652,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 05/09/2023
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 Manure / Process ar ie Tracking Manifest
 For!
 
@@ -8693,7 +8693,7 @@ wane oe oor i b Z5- Zf
 Date
 
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8761,7 +8761,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 03/25/2023
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -8794,7 +8794,7 @@ Tony, Purnrowe b-25-24
 Hauler Signafdre Date
 
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -8836,7 +8836,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 1 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -8878,7 +8878,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -8920,7 +8920,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 DENELE ANALYTICAL, INC.
 
 865 S. KILROY DAIRY COMPLIANCE
@@ -8988,7 +8988,7 @@ LABORATORY NUMBER
 Logged In By:
 
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9030,7 +9030,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 1 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9072,7 +9072,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9114,7 +9114,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9156,7 +9156,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 4 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9198,7 +9198,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 5 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9240,7 +9240,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 6 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9282,7 +9282,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 7 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 Client:
 
 DENELE ANALYTICAL, INC.
@@ -9389,7 +9389,7 @@ equired to be submitted to any agency? (YES / NO)
 
 TS2I7 OA (0
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 Pages from 2023 AR SOUZA'S DAIRY, INC.
 
 Final Audit Report 2024-06-27

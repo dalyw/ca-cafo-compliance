@@ -1,7 +1,5 @@
 *.ipynb
-**plasma**
 **original**
-**.env
 
 # Python specific
 __pycache__/

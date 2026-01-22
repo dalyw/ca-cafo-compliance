@@ -44,7 +44,7 @@ Mailing Address Number and Street City State Zip Code
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 1 of 55
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -87,7 +87,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 2 of 55
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -111,7 +111,7 @@ No liquid nutrient exports entered.
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 3 of 55
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -152,7 +152,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 4 of 55
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 01E
@@ -191,7 +191,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 5 of 55
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -232,7 +232,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 6 of 55
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2E
@@ -271,7 +271,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 7 of 55
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -312,7 +312,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 8 of 55
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5E
@@ -351,7 +351,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 9 of 55
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -492,7 +492,7 @@ Amount
 
 Page 10 of 55
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -529,7 +529,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 11 of 55
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -705,7 +705,7 @@ Salt (Ibs/acre) Amount
 
 Page 12 of 55
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -744,7 +744,7 @@ Application event totals 105.94 6.99 82.19 1,318.90
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 13 of 55
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -951,7 +951,7 @@ Salt (Ibs/acre)
 
 Page 14 of 55
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1117,7 +1117,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 15 of 55
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1297,7 +1297,7 @@ Salt (Ibs/acre) Amount
 
 Page 16 of 55
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1472,7 +1472,7 @@ Salt (Ibs/acre) Amount
 
 Page 17 of 55
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1513,7 +1513,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 18 of 55
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1725,7 +1725,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 19 of 55
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1901,7 +1901,7 @@ Salt (Ibs/acre) Amount
 
 Page 20 of 55
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2081,7 +2081,7 @@ Salt (Ibs/acre) Amount
 
 Page 21 of 55
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2253,7 +2253,7 @@ Salt (Ibs/acre) Amount
 
 Page 22 of 55
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2310,7 +2310,7 @@ Salt (Ibs/acre) Amount
 
 Page 23 of 55
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2347,7 +2347,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 24 of 55
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2383,7 +2383,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 25 of 55
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2420,7 +2420,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 26 of 55
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2458,7 +2458,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 27 of 55
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2517,7 +2517,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 28 of 55
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2553,7 +2553,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 29 of 55
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2612,7 +2612,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 30 of 55
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2650,7 +2650,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 31 of 55
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2709,7 +2709,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 32 of 55
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2747,7 +2747,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 33 of 55
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2823,7 +2823,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 34 of 55
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2978,7 +2978,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 35 of 55
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3035,7 +3035,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 36 of 55
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3109,7 +3109,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 37 of 55
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3200,7 +3200,7 @@ Applied to removed ratio 1.26 3.03
 
 Page 38 of 55
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3238,7 +3238,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 39 of 55
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -3281,7 +3281,7 @@ DL 500.00 100.00 200.00 27.70
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 40 of 55
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3316,7 +3316,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 41 of 55
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3350,7 +3350,7 @@ DL 0.23 0.23 10.00
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 42 of 55
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3391,7 +3391,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 43 of 55
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Domestic Well
@@ -3426,7 +3426,7 @@ Field 01E - 11/09/2022: Wheat, silage, soft dough
 SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tulare Basin
 06/21/2024 09:53:27 Page 44 of 55
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 01E - 11/09/2022: Wheat, silage, soft dough
@@ -3479,7 +3479,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 45 of 55
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 03E - 05/15/2023: Corn, silage
@@ -3532,7 +3532,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 46 of 55
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2E - 11/15/2022: Wheat, silage, soft dough
@@ -3584,7 +3584,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 47 of 55
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 3E - 05/15/2023: Corn, silage
@@ -3637,7 +3637,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 48 of 55
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5E - 11/17/2022: Wheat, silage, soft dough
@@ -3689,7 +3689,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 49 of 55
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 6E - 05/15/2023: Corn, silage
@@ -3717,7 +3717,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 50 of 55
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3826,7 +3826,7 @@ Total salt (Ibs)
 
 Page 51 of 55
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3907,7 +3907,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 Page 52 of 55
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -3953,7 +3953,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 53 of 55
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -3972,7 +3972,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 54 of 55
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4001,7 +4001,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 55 of 55
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -4036,7 +4036,7 @@ SOZINHO DAIRY #2 | 8489 E. Elkhorn AVE | Selma, CA 93662 | Fresno County | Tular
 
 06/21/2024 09:53:27 Page 1 of 1
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4078,7 +4078,7 @@ map showing well locations, and the analytical results from BSK Analytical Labor
 
 FYE The regulatory limit for Nitrate as NO3N is 10 mg/L.
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4115,7 +4115,7 @@ also be analyzed for ammoniumjin the ELAP laboratory.
 Sampler Signature:
 
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4154,7 +4154,7 @@ also be analyzed for ammonium jh the ELAP laboratory.
 Sampler Signature: a we
 
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4192,7 +4192,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 
 Sampler Signature:
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4230,7 +4230,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: Vu Gh AR
 
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4269,7 +4269,7 @@ also be analyzed for ammonium in the ELAP laboratory.
 Sampler Signature: QA Ol
 
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -4304,7 +4304,7 @@ also be analyzed for ammonium in the FLAP laboratory.
 
 Sampler Signature:
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -4354,7 +4354,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 AGG2084
 
 RB5 Surface
@@ -4400,7 +4400,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 AGG2084
 
 RB5 Surface
@@ -4426,7 +4426,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 AGG2084
 
 RB5 Surface
@@ -4497,7 +4497,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 AGG2084
 
 RB5 Surface
@@ -4554,7 +4554,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 AGG2084
 
 ‘ RB5 Surface
@@ -4593,7 +4593,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 AGG2084
 
 RB5 Surface
@@ -4620,7 +4620,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -4644,7 +4644,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 BSK Associates SR-FL-0002-24 G2084 Sezinbo00 7/17/2022
 
 “UNUM
@@ -4712,7 +4712,7 @@ Labeled by: Labels Checked by:
 
 Scanned: Rush/Short HT Page: Time:
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 1414 Stanislaus St., Fresno, CA 93706 Turnaround Time Request AGG20R4  Sezintunt WON ‘
 i
 i
@@ -4778,7 +4778,7 @@ ther the-Giient of an authorand agent fo.te Client, trat the ‘llont ayrogs lo 
 ean ba found at wirw-bskassoclates.comBSKLabTarmsConditions, pal
 SR-FL-CO42-07
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -4832,7 +4832,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 AGJ2288
 
 RB5 Well
@@ -4874,7 +4874,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 ASSOCIATES.
 
 Sample ID: AGJ2288-01
@@ -4920,7 +4920,7 @@ AGJ2288 Final FINAL 10 31 2023 1622 10312023 1622
 
 Page 3 of 11
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 E-K<
 
 ASSOCIATES
@@ -4968,7 +4968,7 @@ Mult Batch Prepared Analyzed Qual
 
 AGJ2288 Final FINAL 10 31 2023 1622 10312023 1622
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 e=< AGJ2288
 . Pees wel
 ASSOCIATES me
@@ -5003,7 +5003,7 @@ AGJ2288 Final FINAL 10 31 2023 1622 10312023 1622
 
 Page 5 of 11
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 AGJ2288
 “ RBS5 Well
 ASSOCIATES
@@ -5053,7 +5053,7 @@ analytical report must be reproduced in its entirety.
 aR www.BSKAssociates.com
 
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 AGJ2288
 
 RBS Well
@@ -5093,7 +5093,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com
 
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 ‘
 
 ASSOCIATES
@@ -5170,7 +5170,7 @@ i
 t
 
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -5206,7 +5206,7 @@ Page 9 of 11
 
 —_—_— SOUT www.BSKAsssociates.com
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 BSK Associales SR-FL-0002-24
 
 Sample Integrity
@@ -5328,7 +5328,7 @@ Scanned: Aw. Rush/Short HT Page: Time:
 Page 10 of 11
 
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 1414 Stanislaus St., Fresno, CA 93706
 
 Turnaround Time Request
@@ -5377,7 +5377,7 @@ Boveri fe eins ronda 3 ed hers ar he ll a0 Gay Was a date. 9A vo a, RIT blanca a
 
 SR-FL-OOL2 97
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -5431,7 +5431,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 AGK2961
 
 RB5 Well
@@ -5464,7 +5464,7 @@ www.BSKAssociates.com
 
 Page 2 of 10
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 ASSOCIATES.
 
 Sample ID: AGK2961-01
@@ -5507,7 +5507,7 @@ AGK2961 Final FINAL 12 06 2023 1116 12062023 1116
 
 Page 3 of 10
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 AGK2961
 
 = RB5 Well
@@ -5534,7 +5534,7 @@ www.BSKAssociates.com
 
 Page 4 of 10
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 AGK2961
 RB5 Well
 
@@ -5586,7 +5586,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com [_ Page5of10 |
 
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 AGK2961
 
 ee . RB5 Well
@@ -5627,7 +5627,7 @@ Page 6 of 10
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 ASSOCIATES
 
 Certificate of Analysis
@@ -5702,7 +5702,7 @@ AGK2961 Final FINAL 12 06 2023 1116 12062023 1116
 
 Page 7 of 10
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -5752,7 +5752,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 8SK Associates SR-FL-0002-24
 Sample Integrity
 
@@ -5848,7 +5848,7 @@ Page 9 of 10
 
 Scanned: Rush/Short HT Page:
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 i
 A 1414 Stanislaus St., Fresno, CA 93706 3K2961 — SozinbOnt 12122023
 
@@ -5907,7 +5907,7 @@ oO
 oa
 
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 Fresno, CA 93727
@@ -5968,7 +5968,7 @@ www.BSKAssociates.com
 
 Page 1 of 9
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 AGL2857
 
 RB5 Well
@@ -5999,7 +5999,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com  ————————— Page 2 of 9
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 : =< AGL2857
 _ RBS Well
 ASSOCIATES Dairy Ag Well
@@ -6026,7 +6026,7 @@ www.BSKAssociates.com
 
 Page 3 of 9
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 AGL2857
 . RB5 Well
 
@@ -6074,7 +6074,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 AGL2857
 
 == RB5 Well
@@ -6117,7 +6117,7 @@ www.BSKAssociates.com
 |
 
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 AGL2857
 
 —_— RB5 Well
@@ -6145,7 +6145,7 @@ analytical report must be reproduced in its entirety.
 www.BSKAssociates.com [ Pageéof9 |
 
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -6200,7 +6200,7 @@ AGL2857 Final FINAL 01 04 2024 1053 01042024 1053
 
 Page 7 of 9
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 1220/2023
 8SK Associates SR-FL-0002-24
 
@@ -6262,7 +6262,7 @@ Scanned: _[( ye) Rush/Short HT Page: Time:
 Page 8 of 9
 
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 1414 Stanislaus St., Fresno, CA 93706
 (559) 497-2888 - Fax (559) 497-2893
 
@@ -6332,7 +6332,7 @@ in ound at www bsrasroclates comOsntabTerms Conditions pdt
 SR-FL-0012-07
 
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 JMLORD, INC.
 
 4184 N. KNOLL DRIVE FRESNO, CA 93722
@@ -6368,7 +6368,7 @@ also be analyzed for ammoniumjin the ELAP laboratory.
 
 Sampler Signature:
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 Fresno, CA 93727
@@ -6428,7 +6428,7 @@ www.BSKAssociates.com
 
 AGG2084 Final FINAL 07 31 2023 1822 07312023 1822
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 AGG2084
 
 RB5 Surface
@@ -6479,7 +6479,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 ASSOCIATES
 
 Sample !D: AGG2084-01
@@ -6540,7 +6540,7 @@ AGG2084 Final FINAL 07 31 2023 1822 07312023 1822
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 AGG2084
 
 RB5 Surface
@@ -6614,7 +6614,7 @@ i
 i
 
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 AGG2084
 
 RB5 Surface
@@ -6676,7 +6676,7 @@ analytical report must be reproduced in its entirety.
 meee re——n————eee |~-s www.BSKAssociates.com
 
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 AGG2084
 
 . RB5 Surface
@@ -6715,7 +6715,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 &
 
 ASSOCIATES
@@ -6787,7 +6787,7 @@ www.BSKAssociates.com
 AGG2084 Final FINAL 07 31 2023 1822 07312023 1822
 
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -6815,7 +6815,7 @@ analytical report must be reproduced in its entirety.
 ——<<ussnnee  www.BSKAssociates.com
 
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 BSK Associates SR-FL-0002-24
 
 G2084 — Sezmdonn O7/17/202
@@ -6891,7 +6891,7 @@ J ClLot #
 Labeled by: Labels Checked by:
 Scanned: Rush/Short HT Page: Time:
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 OCIATES
 
 ee cet www.bskassociates.com

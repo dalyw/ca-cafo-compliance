@@ -10,7 +10,7 @@ L Whe FaciIity / Land Map
 INA CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation 4 Date
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -34,7 +34,7 @@ Home Phone Number
 CeIlPhone Number 559-904-2583
          Jerk if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 Bred Heifers CaIves
@@ -59,7 +59,7 @@ Total nitrogen generated - ibs
 - lbs
 Total saIt (TDS) generated . los
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 Harvest AppIied
@@ -81,7 +81,7 @@ a SG
 a RS RD ES
 f C(CSCCSCSCSCSCSCSCSC(SNWN(WNCSTOOaCroopAcresf 82.00
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 pA WeIl ECCGrounds CC CUNOSCd
@@ -114,7 +114,7 @@ QO
 DS
 Pp Cast Cid CCSCSrfcce water CNCCCSCSCSY
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 a ar at a ae aS ee Ba on IEE OTe . or 7 won 7 ee aaa
  ws _ crop moies wow _ rox ros son res sempier oar source
@@ -140,7 +140,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.05 0.01 0.01 0.054
 DeIlovatie 0.0019 0.01 0.014 0.0034 0.001
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Prete Pai be EE oe Se 7 ae a nIs
 net cop froin oe rene ox soe. .-tes - same oat sence
@@ -165,7 +165,7 @@ VaIley Tech 0.10 0.054 0.01 0.01 0.05
 
 DeIlavaIle 0.0019 0.019 0.01 0,003 0.0019
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reporting
@@ -188,7 +188,7 @@ Rs SS
 DetectabIe t VaIley Tech 0.10 0.054 0.019 0.01 0.05
 DeIlavatIe 0,001 0.01 0.014 0.003 0.001
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Harvest N Kim _ SaIt, Reporting
 
@@ -212,7 +212,7 @@ DetectabIe t VaIley Tech 0.10 0.05 0.014 0,014 0.05&
 
 DeIlavaIle 0,001 0.01 0.01 0.0039 0.001
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -256,7 +256,7 @@ FGL Enviromentat o 0 Qo 0 0 o a oa 0 o o oO
 
 VaIley Tech 01 1 NR NR NR NR NR NR NR NR NR NR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 ne ees Pa Te RR a eee dtd dos og
@@ -279,7 +279,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.4
 DetIaVaIle 0.1 0.1 1.1 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 
@@ -303,7 +303,7 @@ DetectabIe Limits
 VaIley Tech O41 O41
 DeIlaVaIle 0.1 0.4 4.1 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -333,7 +333,7 @@ a Rs es
 a es ee
 a Rs
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -361,7 +361,7 @@ VaIley Tech 0,01 0,024 0.024
 
 DeIlavaIle 0.014 0.01 0.0034 0.001K 0,001K 9,001 0,001 D.000 0.001 0.0014
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 FieId Name/Number BarceIlos 42 (7) Acres 42.00
@@ -404,7 +404,7 @@ TotaIst Loo Ls Tsu ne Teme oe esas use To om
 Ory Weight
 As Received
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FieId Name/Number BarceIlos 82 (7) Acres 42
 (NwutrientsAppIied TTT ag67.a esses
@@ -436,7 +436,7 @@ Atm. Depos. Yes 70
 5. PIanting 6/1/23
 S. Harvest 10/20/23 26.7 TiAc (253.7) (113.6) (875.4)
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 2s wi
 ra) ze
@@ -545,7 +545,7 @@ Se wgag rf
 o 8
 2sg2
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 nw 7
 oa a 20
@@ -648,7 +648,7 @@ i & 2
 G gs & Ei 2
 - a 4 z
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 cp
 u
@@ -751,11 +751,11 @@ E z
 iJ
 a
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 . 4 .- Manure Tracking Manifest.
 f i 5 . .
@@ -792,11 +792,11 @@ Operstors Signature Lk Hh _f. Le lie Dates
 ev 5-13-25
 HauIers Signatures LO ALMOT a Date_7 a
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 _ (p/ Livingston Dairy ConsuIting, Inc.
 . FIELD ACTIVITY REPORT
@@ -816,11 +816,11 @@ Dy Benn rst go
 SampIe Preservation Method (cice one) Ice Chest Refrigerator Ice Pack
                                                                                                                                                    Y Livingston Dairy ContuIing, Inc. 2020
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 ENVIRONMENTAL 2) AGRICULTURAL
 AnaIytical Chemists
@@ -864,7 +864,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (630)343-5818 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (669)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 CA ELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Ls BSE .
 ENVIRONMENTAL 2 AGRICULTURAL
@@ -900,7 +900,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (200)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (569)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 GA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 ENVIRONMENTAL AGRICULTURAL
 AnaIytical Cheinists
@@ -956,7 +956,7 @@ TEL (805)392-2000 TEL (209)942-01982 TEL (530)343-5818 TEL (805)783-2940 TEL (56
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2012 FAX (559)724-6435
 CAELAP Certification No. 1573 GA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CA ELAP Cartification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 , F
 a
@@ -1038,7 +1038,7 @@ B a 3 iat al 2
 See 62 22a gIe gel al22-----fe-leIeleIs
 bz ESkd 6s & 6( 3) 32/7. Ld. 2
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -1090,11 +1090,11 @@ ReveIation Livingston Dairy ConsuIting, Ine
 contacts) iv 02/01/2023 1618-16
 UIA
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 a a
 fe aIt a .
@@ -1115,7 +1115,7 @@ SMT
 we eB a BIg E Fl
 SQ iF i Ss gi ag i
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 a
 1

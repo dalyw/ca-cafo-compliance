@@ -30,7 +30,7 @@ Tite. Operator/Owner
 Signature.
 Date January 12, 2024
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -59,7 +59,7 @@ Wes Manure Amount CaIcuIated Using the FoIlowing Factors Yes OQ No )
 1 CaIf produces approximateIy 0.6 tons of manure per year
 1 ton of corral manure equais 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -93,7 +93,7 @@ eee
 Tite Owner/Operator
 SSS
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Form 4. Manure Tracking Manifest
 Renional Water QuaIity Control Board .
@@ -142,7 +142,7 @@ Operators Signature Date- 2
 HauIes Signature le -ay de rie levve x oe Ae fez
      The Ragional Boerd atey ask for a copy of manure nutient anaIysis.
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Form 4. Manure Tracking Manifest
 Order No. R8-2013-0001, NPDES No, GAGO18001
@@ -188,7 +188,7 @@ _
 HauIers Signature Capi Lerme lorres Date. Gi fez
     Tip Regional Board may ask for a copy of manure nutrient anaIysis. - oe.
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Form 4. Manure Tracking Manifest
 Regional Water QuaIity Control Board
@@ -238,7 +238,7 @@ Operators Signature- Oate Yn /74 . _. _
    bottIers Torres Datss lof /23
      The Regional Board may exk for a copy of manure nuttant anaIysis .
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Form 4, Manure Tracking Manifest
 ReaIonal Weter Quatity Control Beard

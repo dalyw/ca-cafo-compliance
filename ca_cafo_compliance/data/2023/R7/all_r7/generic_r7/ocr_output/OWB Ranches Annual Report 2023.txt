@@ -42,7 +42,7 @@ Attachment H Manure Tracking Manifest................cccccccccscececeeeeeceeeeee
 Attachment I Stormwater and Wastewater Management Structure and Water Lines Inspection
 ae) eee
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Attachment G Annual Report
 CaIifornia Regional Water QuaIity Control Board
@@ -82,7 +82,7 @@ oof
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 a
 Chickens (broiIers)
@@ -125,7 +125,7 @@ C. Amount of process wastewater transferred during the reporting period
 0 gaIlons.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Vv. Summary of Production Area Discharges
 Report aIl discharges of manure, litter, and process wastewater from the production
@@ -154,7 +154,7 @@ O I certify that a Manure Tracking Manifest has been prepared for each manure
 hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART B - COMPOSTING INVENTORY
 X I certify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -214,7 +214,7 @@ inventory and
 finished
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 January February March / April May June JuIy August September
 Il. FIood
@@ -246,7 +246,7 @@ O Check if anaIysis resuIts are attached.
 If any stormwater discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow-
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 IV. Operation and Maintenance
 
@@ -288,7 +288,7 @@ rates for the crops that were harvested during the reporting year. Attach additi
 needed.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Source SampIe AnaIytical ResuIts
 sampIed date NHeN TKN TP Uniits
@@ -317,7 +317,7 @@ g. Indicate the caIcuIated amount of pIant avaiIabIe nitrogen in the soil, if so
 caIcuIating nutrient appIication rates.
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 lV. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId
@@ -345,7 +345,7 @@ poof CCU CU
 poof CE
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 , . PIanned Manure to be AppIied Actual Manure AppIied
 FieId Crop(s) YieId YieId
@@ -362,7 +362,7 @@ f. Report the actual amount of manure, compost, litter, or wastewater appIied.
 g. If Other is seIected, write in the type of manure, litter, or wastewater to be appIied
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -386,7 +386,7 @@ a.List aIl fieIds where manure, compost, litter, or process wastewater was appIi
 in the approved NMP.
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the
@@ -398,7 +398,7 @@ O Monitoring resuIts are not attached. ExpIain
   Not appIicabIe. A groundwater monitoring program is not required for this faciIity.
 Attachment G - Annual Report 1
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 PART E - CERTIFICATION
  certify under penaity of law that this document and aIl attachments were prepared under my
@@ -425,11 +425,11 @@ PaIm Desert, CA. 92260
 
 Attachment G - Annual Report 2
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 2023 DaiIy Inspection Reports
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 a
 Pm)
@@ -515,7 +515,7 @@ An a a GAG a A AW A A WA HA HTH HD WD A A HD AAA A on Q
 ee
 aS
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 s 3
 2 23
@@ -602,7 +602,7 @@ vo fay x Ss Ss SS fF FF FF FF YF FF F FF FF FF as
 za
 of
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 am)
 wn
@@ -684,7 +684,7 @@ oo Fr FP F fF F F F F F F F F F F F F F F F F F OS
 za
 Or
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 oO
 a
@@ -767,7 +767,7 @@ a 2 Fr or2e 22 22 2 22 2 F & F&F fF 2 2 2 2 2 aS
 za
 or
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 o
 Q
@@ -849,7 +849,7 @@ TORR GHG GF FF GF GF HS
 Q
 or
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 oO
 a
@@ -935,7 +935,7 @@ at
 za
 or
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
   3
   s
@@ -1017,7 +1017,7 @@ mn oF 6 6 D0 0 DF 86 DF OoOOtOHermImlmIUUUmUmICUCUOUOUCOUCUCUCOUCUCUOUCUCUMOUCUM
 za
 or
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 o
 Q
@@ -1099,7 +1099,7 @@ oo 2 6 6 6 6 6 6 GF GF G6 GH 6 GF KF KX XK KR KR KR KR KR KR DS
 za
 or
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
           5 2
 a 5 8
@@ -1188,7 +1188,7 @@ YF YF Xe KF RF KF KF KF KF KF KF KF KR KR RK rt x Se SN NR OF
 za
 Oot
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
                       c
 cs) z 8
@@ -1277,7 +1277,7 @@ a x 6 6 6 6 6 6 6 6 6 6 6 6C 6 6 6 GC GCF S&S DAF
 za
 or
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 oO
 a
@@ -1363,7 +1363,7 @@ oOo o6& 6 6 6 6 6 6 6 6 6 6 6 H6 fF HF 6 HH fF HY YY -
 za
 or
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 oO
 a
@@ -1451,7 +1451,7 @@ oO oY HY oo Ho oF oY Hf HY oF ob YF ob YH Ho oeIUmmIUlUmUmIUL UL ll -
 za
 or
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Q
 wo
@@ -1534,7 +1534,7 @@ at
 sa
 65
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 o
 a
@@ -1616,7 +1616,7 @@ i s 2 8 & SF FT FeHeeesgeqgegsggg sg na
 FoF F F F F F F F F F GF GF GF GF GF G6 GF G es
 68
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
    vo
 BY fae
@@ -1703,7 +1703,7 @@ An a Q YN qggg 5 5 5 5 & & F F &F &F BK E LCL m &
 za
 or
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 oO
 Q
@@ -1784,7 +1784,7 @@ t
 sa
 or
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
                2 2
 os) & S
@@ -1870,7 +1870,7 @@ Nn N NN N N NN N N N N N FF TF FF FF FO r TT Be
 N
 Or
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 o
 Q
@@ -1955,7 +1955,7 @@ a 3 SS & & s&s FS Fs FE EESESE ERE EE a
 za
 or
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Oo
 im)
@@ -2049,11 +2049,11 @@ om a a oF
 za
 or
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 2023 WeekIy Inspection Reports
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 12/31/2023
@@ -2118,7 +2118,7 @@ Yes damage to the liners and/or
 OWEB Imperia County - R7-2013-AAAA Page 1 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2184,7 +2184,7 @@ Yes Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 2 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2251,7 +2251,7 @@ Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 3 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 9/17/2023
@@ -2316,7 +2316,7 @@ Yes damage to the liners and/or
 OWEB Imperia County - R7-2013-AAAA Page 4 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 a OWB Imperial County - R7-2013-AAAA WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2382,7 +2382,7 @@ Yes Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 5 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2449,7 +2449,7 @@ Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 6 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 /28/2023
@@ -2514,7 +2514,7 @@ Yes damage to the liners and/or
 OWEB Imperia County - R7-2013-AAAA Page 7 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 a OWB Imperial County - R7-2013-AAAA WeekIy
 embankments7 Yes Are aIl control structures Has the wastewater handIing Has the manure/compost
@@ -2580,7 +2580,7 @@ Yes Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 8 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 Has the manure/compost Note any findings, deficiencies, Are the ponds free of erosion, Are cattIe prevented from
@@ -2647,7 +2647,7 @@ Yes Yes
 OWEB Imperia County - R7-2013-AAAA Page 9 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 ARAL OWB Imperial County - R7-2013-AAAA WeekIy
 2/12/2023
@@ -2712,7 +2712,7 @@ Yes damage to the liners and/or
 OWEB Imperia County - R7-2013-AAAA Page 10 of 11
 424/2024 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 juarU .
 Swe C OWB Imperial County - R7-2013-AAAA WeekIy
@@ -2740,11 +2740,11 @@ Yes Yes
 OWB Imperial County - R7-2013-AAAA Page 11 of 11
 1/24/2024 CafoPro.cam - CompIiance by DesignTM
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 2023 MonthIy Inspection Reports
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Sq OWB Imperial County - R7-2013-AAAA MonthIy
 12/1/2023
@@ -2799,7 +2799,7 @@ methods that appIy..
 OWEB Imperia Courity - R7-2013-AAAA Page 1 of 2
 1/24/2024 CafoPro.com - CompIiance by Design TM
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 juaru .
 AR OWB Imperial County - R7-2013-AAAA MonthIy

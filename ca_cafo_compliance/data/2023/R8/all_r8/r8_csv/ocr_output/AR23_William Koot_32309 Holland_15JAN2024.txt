@@ -32,7 +32,7 @@ Sig
 Date JanuaryA2, 2024
 a
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -60,7 +60,7 @@ Was Manure Amount CakuIated Using the FoIlowing Factors7 Yes O No)
 1 CaIf produces approximateIy 0.6 tons of manure per year
 4 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equats 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -96,7 +96,7 @@ Date. January 1P, 2024
 TitIe. Operator
 _eS SSS
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
         General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 4
@@ -144,7 +144,7 @@ _
 Operators Signature Date ia a AOA,
 HauIers Signature- , Date I HA (202 4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 4

@@ -1,22 +1,22 @@
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
-General Order No. R5-2007-0035, Attachment D
-1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+General Order No. R5-2007-0035 Attachment D
+1) Complete one manifest for each hauling event for each destination. A hauling event may last for several days as long as the 
 manure is being hauled to the same destination.
-2) If there are multiple destinations, complete a separate form for each destination.
+2) If there are multiple destinations complete a separate form for each destination.
 3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
 Existing Milk Cow Dairies.
 INSTRUCTIONS
-Name of Operator:
-Name of Dairy Facility:
-Facility Address:
+Name of Operator
+Name of Dairy Facility
+Facility Address
 Number and Street
 City
 County
 Zip Code
-Contact Person Name and Phone Number:
+Contact Person Name and Phone Number
 Name
 Phone Number
 William Vander Woude
@@ -29,15 +29,15 @@ Le Grand
 Grand View Dairy
 OPERATOR INFORMATION
 MANURE HAULER INFORMATION
-Name of Hauling Company/Person:
+Name of Hauling Company/Person
 Grand View Farms
-Address of Hauling Company/Person:
+Address of Hauling Company/Person
 Number and Street
 City
 State
 Zip Code
 95333
-Contact Person:
+Contact Person
 Name
 Phone Number
 (209) 631-6136
@@ -46,9 +46,9 @@ CA
 11923 E Childs AVE
 William Vander Woude
 DESTINATION INFORMATION
-Composting Facility / Broker / Farmer / Other (identify):
+Composting Facility / Broker / Farmer / Other (identify)
 Farmer
-Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Name
 Dhillon Ranch
 11923 E Childs AVE
@@ -61,8 +61,8 @@ LeGrand
 CA
 95333
 (209) 631-6136
-Last date hauled: 05/15/2024
-Destination Address or Assessor's Parcel Number:
+Last date hauled 05/15/2024
+Destination Address or Assessor's Parcel Number
 Address
 City
 Zip Code
@@ -72,29 +72,28 @@ Street and nearest cross street (if no address)
 County
 Assessor's Parcel Number County
 Merced
-Docusign Envelope ID: 05199974-C601-4A8A-B541-688E23DE37FF
-
+Docusign Envelope ID 05199974-C601-4A8A-B541-688E23DE37FF
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
-General Order No. R5-2007-0035, Attachment D
+General Order No. R5-2007-0035 Attachment D
 MANURE AMOUNT HAULED
-Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
-Manure:
- 2,898.00 tons
-Manure Solids Content:
+Enter the amount of manure hauled in tons manure solids content and the method used to calculate the amount
+Manure
+ 2898.00 tons
+Manure Solids Content
 81.5 %
-Method used to determine amount of manure:
+Method used to determine amount of manure
 Average Load Weight by Total Loads
 CERTIFICATION
-I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
-based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
-accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information I believe that the information is true 
+accurate and complete. I am aware that there are significant penalties for submitting false information including the possibility of a 
 fine and imprisonment for knowing violations.
 Operator Signature
 Date
 Hauler Signature
 Date
-Docusign Envelope ID: 05199974-C601-4A8A-B541-688E23DE37FF
+Docusign Envelope ID 05199974-C601-4A8A-B541-688E23DE37FF
 6/20/2025
 6/20/2025

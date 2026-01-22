@@ -63,7 +63,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 Page 1 of 31
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -102,7 +102,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 2 of 31
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -121,7 +121,7 @@ No liquid nutrient exports entered.
 Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare Basin
 06/21/2024 15:38:33 Page 3 of 31
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -233,7 +233,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 Page 4 of 31
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AC 2
@@ -266,7 +266,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 5 of 31
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Phillips 1
@@ -299,7 +299,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 6 of 31
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Phillips 3
@@ -317,7 +317,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 7 of 31
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -356,7 +356,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 8 of 31
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -511,7 +511,7 @@ Salt (Ibs/acre) Amount
 
 Page 9 of 31
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -751,7 +751,7 @@ Amount
 
 Page 10 of 31
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -938,7 +938,7 @@ Salt (Ibs/acre) Amount
 
 Page 11 of 31
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -977,7 +977,7 @@ Application event totals 0.00 0.00 0.00 125.73
 Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare Basin
 06/21/2024 15:38:33 Page 12 of 31
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1013,7 +1013,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 13 of 31
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1040,7 +1040,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 14 of 31
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1083,7 +1083,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 15 of 31
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1122,7 +1122,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 16 of 31
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1159,7 +1159,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 17 of 31
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1196,7 +1196,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 18 of 31
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1235,7 +1235,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 19 of 31
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1270,7 +1270,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 20 of 31
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1307,7 +1307,7 @@ B. PROCESS WASTEWATER ANALYSES
 Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare Basin
 06/21/2024 15:38:33 Page 21 of 31
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1343,7 +1343,7 @@ DL 0.01 0.01 0.01 0.01 0.01 0.01 10
 Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare Basin
 06/21/2024 15:38:33 Page 22 of 31
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1387,7 +1387,7 @@ No soil analyses entered.
 Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare Basin
 06/21/2024 15:38:33 Page 23 of 31
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. PLANT TISSUE ANALYSES
@@ -1443,7 +1443,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 Page 24 of 31
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Phillips 1 - 02/01/2016: Pistachios
@@ -1496,7 +1496,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 Page 25 of 31
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -1507,7 +1507,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 26 of 31
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1545,7 +1545,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 27 of 31
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1621,7 +1621,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 Page 28 of 31
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1667,7 +1667,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 29 of 31
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1680,7 +1680,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 30 of 31
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/0 1/2023 to 12/31/2023.
 
@@ -1706,7 +1706,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 23230 | Kings County | Tulare 
 
 06/29/2024 14:17:52 Page 31 of 3’
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -1741,7 +1741,7 @@ Sozinho Jerseys 2 | 5811 Lacey BLVD | Hanford, CA 93230 | Kings County | Tulare 
 
 06/21/2024 15:38:33 Page 1 of 1
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Sampled Sampled _pmhos/cm _mmhos/cm mg/L. mg/L. mg/L unit
 
 1
@@ -1796,7 +1796,7 @@ Crop ID:
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 1
 
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 seamen ND em een narhnh re sh EDS SSSA SRO SUA hp nennenoniaset—
 
 12/07/23 06:45 23L0351 Yp

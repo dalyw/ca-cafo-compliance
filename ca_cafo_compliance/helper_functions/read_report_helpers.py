@@ -20,7 +20,7 @@ consultant_mapping = dict(
 )
 
 # Known California cities for address parsing
-KNOWN_CA_CITIES = {
+CA_CITIES = {
     'chowchilla', 'fresno', 'kerman', 'madera', 'hanford', 
     'visalia', 'tulare', 'bakersfield', 'merced', 'modesto',
     'stockton', 'lodi', 'manteca', 'tracy', 'riverdale',
@@ -72,39 +72,6 @@ TABLE_CELL_LABELS = {
 }
 
 
-def format_address(street, city, state, zipcode, county=None):
-    """
-    Format address components into a clean, single-line address string.
-    Returns: "Street, City, State Zip" or similar clean format.
-    """
-    # Clean each component
-    if street:
-        street = ' '.join(street.split())
-    if city:
-        city = ' '.join(city.split())
-    if state:
-        state = state.strip().upper()
-        if state == 'CALIFORNIA':
-            state = 'CA'
-    if zipcode:
-        zipcode = zipcode.strip()
-    
-    # Build address string
-    parts = []
-    if street:
-        parts.append(street)
-    if city:
-        parts.append(city)
-    if state and zipcode:
-        parts.append(f"{state} {zipcode}")
-    elif state:
-        parts.append(state)
-    elif zipcode:
-        parts.append(zipcode)
-    
-    return ', '.join(parts) if parts else None
-
-
 def parse_marker_table_address(line):
     """
     Parse address from a marker-format table line.
@@ -146,7 +113,7 @@ def parse_marker_table_address(line):
         
         # Remaining cells are likely city (if proper name format)
         if re.match(r'^[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*$', cell) and not city:
-            if cell.lower() in KNOWN_CA_CITIES:
+            if cell.lower() in CA_CITIES:
                 city = cell
     
     return street, city, state, zipcode
@@ -241,7 +208,7 @@ def extract_address_from_section(text, section_start, section_end=None):
             continue
         
         # Check for city
-        if line.lower() in KNOWN_CA_CITIES:
+        if line.lower() in CA_CITIES:
             city = line.title()
             continue
         
@@ -249,8 +216,32 @@ def extract_address_from_section(text, section_start, section_end=None):
         if line.lower() in CA_COUNTIES:
             county = line.title()
             continue
+
+    if street:
+        street = ' '.join(street.split())
+    if city:
+        city = ' '.join(city.split())
+    if state:
+        state = state.strip().upper()
+        if state == 'CALIFORNIA':
+            state = 'CA'
+    if zipcode:
+        zipcode = zipcode.strip()
     
-    return format_address(street, city, state, zipcode, county)
+    # Build address string
+    parts = []
+    if street:
+        parts.append(street)
+    if city:
+        parts.append(city)
+    if state and zipcode:
+        parts.append(f"{state} {zipcode}")
+    elif state:
+        parts.append(state)
+    elif zipcode:
+        parts.append(zipcode)
+    
+    return ', '.join(parts) if parts else None
 
 
 def extract_value_from_line(
@@ -477,22 +468,6 @@ def clean_common_errors(text):
     return text
 
 
-def load_ocr_text(pdf_path):
-    """Load OCR text from file."""
-    pdf_dir = os.path.dirname(pdf_path)
-    parent_dir = os.path.dirname(pdf_dir)
-    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-
-    for ocr_dir in ["marker_output", "tesseract_output"]:
-        text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
-        if os.path.exists(text_file):
-            with open(text_file, "r") as f:
-                text = f.read()
-                return clean_common_errors(text)
-
-    return None
-
-
 def get_default_value(param_key, data_types, defaults):
     """Get the default value for a parameter, with type conversion."""
     default = defaults.get(param_key, None)
@@ -509,26 +484,34 @@ def get_default_value(param_key, data_types, defaults):
 
 def find_parameter_value(ocr_text, row, data_types, defaults):
     """Extract a parameter value from OCR text based on the specified row from parameter_locations."""
-    if pd.isna(row["search_direction"]):
-        return get_default_value(row["parameter_key"], data_types, defaults)
+
+    search_direction = row.get("search_direction", pd.NA)
+    page_search_text = row.get("page_search_text", pd.NA)
+    row_search_text = row.get("row_search_text", pd.NA)
+    column_search_text = row.get("column_search_text", pd.NA)
+    param_key = row["parameter_key"]
+    data_type = data_types.get(param_key, "text")
+
+    if pd.isna(search_direction):
+        print(param_key)
+        return get_default_value(param_key, data_types, defaults)
     data_type = data_types.get(row["parameter_key"], "text")
     param_key = row["parameter_key"]
     
     try:
-        # Get the text to search in
         search_text = ocr_text
-        if not pd.isna(row["page_search_text"]):
-            # If page_search_text is provided, use it to find the starting point
-            clean_search = " ".join(row["page_search_text"].split())
+        if not pd.isna(page_search_text):
+            clean_search = " ".join(page_search_text.split())
             clean_text = " ".join(ocr_text.split())
             pos = clean_text.find(clean_search)
             if pos == -1:
                 return get_default_value(param_key, data_types, defaults)
-            # Start searching from after the page_search_text
-            search_text = ocr_text[pos + len(row["page_search_text"]) :]
-        
-        # If no row_search_text, we can't find the value
-        if pd.isna(row["row_search_text"]):
+            search_text = ocr_text[pos + len(page_search_text):]
+
+        if pd.isna(row_search_text):
+            return get_default_value(param_key, data_types, defaults)
+
+        if pd.isna(column_search_text):
             return get_default_value(param_key, data_types, defaults)
             
         # Search for the value in the appropriate text section (use search_text, not ocr_text)
@@ -550,7 +533,19 @@ def process_pdf(pdf_path, template_params, columns, data_types, defaults):
     """Process a single PDF file and extract all parameters from OCR text."""
     result = {col: None for col in columns}
     result["filename"] = os.path.basename(pdf_path)
-    ocr_text = load_ocr_text(pdf_path)
+    ocr_text = None
+
+    pdf_dir = os.path.dirname(pdf_path)
+    parent_dir = os.path.dirname(pdf_dir)
+    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
+
+    for ocr_dir in ["marker_output", "tesseract_output"]:
+        text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
+        if os.path.exists(text_file):
+            with open(text_file, "r") as f:
+                text = f.read()
+                ocr_text = clean_common_errors(text)
+
     if not ocr_text:
         # Use defaults for all parameters if OCR text is missing
         for _, row in template_params.iterrows():
@@ -563,286 +558,3 @@ def process_pdf(pdf_path, template_params, columns, data_types, defaults):
         value = find_parameter_value(ocr_text, row, data_types, defaults)
         result[param_key] = value
     return result
-
-# Manifest Extraction Helpers
-
-def identify_manifest_pages(result_text):
-    """
-    Identify manifests in OCR text by finding manifest header occurrences.
-    Works with page-delimited format (=== Page X ===) from both fitz and marker output.
-    
-    Returns a tuple of:
-    - manifest_starts: List of manifest numbers (1-indexed)
-    - manifest_blocks: List of manifest text blocks (each block may span 2 pages)
-    - manifest_page_ranges: List of (start_page, end_page) tuples for each manifest
-    """
-    # Multiple possible manifest header patterns
-    manifest_headers = [
-        "Manure / Process Wastewater Tracking Manifest",
-        "Manure/Process Wastewater Tracking Manifest",
-        "ATTACHMENT D",  # R5 form variant
-    ]
-    
-    def has_manifest_header(text):
-        """Check if text contains any manifest header pattern."""
-        text_upper = text.upper()
-        return any(h.upper() in text_upper for h in manifest_headers)
-    
-    # Check for page delimiter format (=== Page X ===)
-    page_delimiter_pattern = r'=== Page (\d+) ==='
-    page_matches = list(re.finditer(page_delimiter_pattern, result_text))
-    
-    if page_matches:
-        # Parse pages with delimiters
-        pages = {}
-        for i, match in enumerate(page_matches):
-            page_num = int(match.group(1))
-            start_pos = match.end()
-            if i + 1 < len(page_matches):
-                end_pos = page_matches[i + 1].start()
-            else:
-                end_pos = len(result_text)
-            pages[page_num] = result_text[start_pos:end_pos].strip()
-        
-        # Find manifests by looking for the header + OPERATOR INFORMATION
-        manifest_blocks = []
-        manifest_starts = []
-        manifest_page_ranges = []
-        
-        sorted_pages = sorted(pages.keys())
-        i = 0
-        manifest_num = 0
-        processed_pages = set()  # Track which pages we've already used
-        
-        while i < len(sorted_pages):
-            page_num = sorted_pages[i]
-            if page_num in processed_pages:
-                i += 1
-                continue
-                
-            page_text = pages[page_num]
-            
-            # Skip false positive page
-            if "REQUIRED ATTACHMENTS" in page_text.upper():
-                i += 1
-                continue
-            
-            # Check if this page starts a manifest (has header + operator info)
-            if has_manifest_header(page_text) and (
-                "OPERATOR INFORMATION" in page_text.upper() or 
-                "Name of Operator:" in page_text or
-                "Name of Dairy Facility" in page_text
-            ):
-                manifest_num += 1
-                manifest_starts.append(manifest_num)
-                
-                # Look for the next page to see if it's the AMOUNT HAULED page
-                combined_text = page_text
-                end_page = page_num
-                processed_pages.add(page_num)
-                
-                # Check if next page(s) contain the AMOUNT HAULED sections
-                next_idx = i + 1
-                while next_idx < len(sorted_pages):
-                    next_page_num = sorted_pages[next_idx]
-                    if next_page_num in processed_pages:
-                        next_idx += 1
-                        continue
-                    
-                    next_page_text = pages[next_page_num]
-                    next_page_upper = next_page_text.upper()
-                    
-                    # If next page has AMOUNT HAULED section (manure or wastewater), combine it
-                    if ("MANURE AMOUNT HAULED" in next_page_upper or 
-                        "WASTEWATER AMOUNT HAULED" in next_page_upper or
-                        "PROCESS WASTEWATER AMOUNT" in next_page_upper or
-                        "AMOUNT HAULED" in next_page_upper):
-                        combined_text += "\n\n" + next_page_text
-                        end_page = next_page_num
-                        processed_pages.add(next_page_num)
-                        break
-                    else:
-                        # If next page doesn't have amount info, stop combining
-                        break
-                
-                manifest_blocks.append(combined_text)
-                manifest_page_ranges.append((page_num, end_page))
-            
-            i += 1
-        
-        return manifest_starts, manifest_blocks, manifest_page_ranges
-    
-    # Legacy: Check if text has LLMWhisperer page separators (<<<)
-    if "<<<" in result_text:
-        pages = result_text.split("<<<")
-        manifest_starts = []
-        manifest_page_ranges = []
-        for i, page_text in enumerate(pages):
-            # Skip attachments pages
-            if "REQUIRED ATTACHMENTS" in page_text.upper():
-                continue
-            
-            if has_manifest_header(page_text) and (
-                "NAME OF OPERATOR" in page_text.upper() 
-                or "OPERATOR INFORMATION" in page_text.upper()
-                or "NAME OF DAIRY FACILITY" in page_text.upper()
-            ):
-                manifest_starts.append(i + 1)
-                manifest_page_ranges.append((i + 1, i + 1))
-        return manifest_starts, pages, manifest_page_ranges
-    
-    # Fallback: Continuous text without page markers
-    # Find all manifest occurrences by header
-    manifest_blocks = []
-    manifest_starts = []
-    manifest_page_ranges = []
-    
-    # Find positions of all manifest headers
-    header_positions = []
-    search_start = 0
-    for header in manifest_headers:
-        pos = 0
-        while True:
-            pos = result_text.find(header, pos)
-            if pos == -1:
-                break
-            if pos not in header_positions:
-                header_positions.append(pos)
-            pos += len(header)
-    header_positions.sort()
-    
-    if not header_positions:
-        return [], [result_text], []
-    
-    # Extract each manifest block
-    for i, start_pos in enumerate(header_positions):
-        if i + 1 < len(header_positions):
-            end_pos = header_positions[i + 1]
-        else:
-            end_pos = len(result_text)
-        
-        block_text = result_text[start_pos:end_pos]
-        
-        # Skip if this is an attachments page, not a manifest
-        if "REQUIRED ATTACHMENTS" in block_text.upper():
-            continue
-        
-        if "OPERATOR INFORMATION" in block_text.upper() or "Name of Operator:" in block_text or "Name of Dairy Facility" in block_text:
-            manifest_starts.append(i + 1)
-            
-            # Try to combine with the next block if it's the "amount hauled" page
-            if i + 1 < len(header_positions):
-                next_start = header_positions[i + 1]
-                if i + 2 < len(header_positions):
-                    next_end = header_positions[i + 2]
-                else:
-                    next_end = len(result_text)
-                next_block = result_text[next_start:next_end]
-                
-                if "MANURE AMOUNT HAULED" in next_block.upper():
-                    block_text = result_text[start_pos:next_end]
-            
-            manifest_blocks.append(block_text)
-            manifest_page_ranges.append((None, None))  # Unknown pages for legacy format
-    
-    return manifest_starts, manifest_blocks, manifest_page_ranges
-
-
-def extract_manifest_field(text, field_patterns, table_column=None):
-    """
-    Extract a value from manifest text using multiple possible field patterns.
-    Handles both regular text and markdown table formats.
-    
-    Args:
-        text: Text to search
-        field_patterns: List of possible labels to search for
-        table_column: If provided, look for value in table row after this label
-        
-    Returns:
-        Extracted value or None
-    """
-    if not text:
-        return None
-    
-    for pattern in field_patterns:
-        # Check if pattern exists in text
-        if pattern.lower() not in text.lower():
-            continue
-        
-        lines = text.split('\n')
-        for i, line in enumerate(lines):
-            if pattern.lower() in line.lower():
-                # Handle markdown table format: | Label | Value |
-                if '|' in line:
-                    parts = [p.strip() for p in line.split('|') if p.strip()]
-                    # Find the part containing our pattern
-                    for j, part in enumerate(parts):
-                        if pattern.lower() in part.lower():
-                            # Value is typically in the next column
-                            if j + 1 < len(parts):
-                                value = parts[j + 1].strip()
-                                if value and value.lower() not in ['none', 'n/a', '']:
-                                    return value
-                            break
-                else:
-                    # Regular text format: look after the pattern
-                    idx = line.lower().find(pattern.lower())
-                    if idx != -1:
-                        after = line[idx + len(pattern):].strip()
-                        # Remove common separators
-                        after = after.lstrip(':').strip()
-                        if after:
-                            return after
-                
-                # Try next line if nothing found on same line
-                if i + 1 < len(lines):
-                    next_line = lines[i + 1].strip()
-                    if next_line and '|' not in next_line:
-                        return next_line
-    
-    return None
-
-
-def extract_field_from_text(text, field_label):
-    """
-    Extract a value from manifest text following a field label.
-    Looks for the value either on the same line (right) or below the label.
-    
-    Args:
-        text: Text to search
-        field_label: The label to search for
-        
-    Returns:
-        Extracted value or None
-    """
-    if not text or not field_label:
-        return None
-    
-    # Try to find the label in the text
-    if field_label not in text:
-        return None
-    
-    lines = text.split('\n')
-    for i, line in enumerate(lines):
-        if field_label in line:
-            # Try to get value to the right of the label first
-            parts = line.split(field_label)
-            if len(parts) > 1:
-                right_text = parts[1].strip()
-                if right_text:
-                    # Clean up the text
-                    right_text = re.sub(r'[^\w\s\.\,\-\&\(\)\/]', '', right_text)
-                    right_text = ' '.join(right_text.split())
-                    if right_text and right_text.lower() != 'none':
-                        return right_text
-            
-            # If nothing to the right, try the next non-empty line
-            if i + 1 < len(lines):
-                next_line = lines[i + 1].strip()
-                if next_line and next_line.lower() != 'none':
-                    next_line = re.sub(r'[^\w\s\.\,\-\&\(\)\/]', '', next_line)
-                    next_line = ' '.join(next_line.split())
-                    if next_line:
-                        return next_line
-    
-    return None

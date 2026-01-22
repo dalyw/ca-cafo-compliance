@@ -10,7 +10,7 @@ L Nie FaciIity / Land Map
     x Icca Nitrogen Retrofit Report
 GEO Tracker Confirmation Date
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -34,7 +34,7 @@ Home Phone Number
 CeIlPhone Number 559-308-6241
          Jere if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 _tancoms orvcow Tioeemy warm) wana _
@@ -58,7 +58,7 @@ Total nitrogen generated so tbs
 ce ibs
 Total saIt (TDS) generated . lbs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 . see Total Type of Waste
@@ -71,7 +71,7 @@ a A OT
 OT
 Total Crop Acres i 477.00
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 
@@ -107,7 +107,7 @@ a
 CO
  canal CdS CSc Water SS SCSCCONGSCOCOCOCOC(NWY(CO
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Bieta MP ee ee
 ss cop foes wx t-tos6 os_ soteafsires. somite ame) soue
@@ -133,7 +133,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.059 0.01 0.014 0.05
 DeIlavaIle 0.00196 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 p moist _ Nie _ tee Canoe Sant Zi pee teseF sampIe de It Bates viIe Source
 
@@ -158,7 +158,7 @@ VaIley Tech 0.104 0.05 0.01 0.01 0.05
 
 DetIavaIle 0,001 0.01K 0.019 0.003 0.00196
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 Harvest N ae Fa SaIt. .f. Reporting
@@ -181,7 +181,7 @@ nD GS CO GO (RS CO
 DetectabIe t VaIley Tech 0.10 0.05 0.019 0.014 0.054
 DeIlavaIle 0.0014 0.014 0.01 0,003 0.001
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 _ PP a ) Mosturel, na Fae . Tecka ajIic..ani
 ee pgs Ss att a 1 dis ae AT aa ae re Racer 21 VOSS
@@ -203,7 +203,7 @@ SE eS RR GE A A GO
 DetectabIe i VaIley Tech 0.106 0.054 0.014 0.014 0.05
 DeIlavatIe 0.001 0.01 0.01 G.003 0.001
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -247,7 +247,7 @@ FGL Enviromental o a o o oO a a Q o o Q a
 
 VaIley Tech O04 i NR NR NR NR NR NR NR NR NR WR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 ESTE OO
@@ -269,7 +269,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.4
 DeIlaVaIle 0.1 6.1 1.41 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 YS eee Or a i r _ apres ST ee a Tp UPe te Laem ATT -
@@ -293,7 +293,7 @@ DetectabIe Limits
 VaIley Tech 0.4 0.1
 DeIlaVaIle 0.1 0.4 41 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -307,7 +307,7 @@ Type of Manure .
 i Asis / Dry Weight -
 FieId Name AppIied sis/ ry M el f4
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -334,7 +334,7 @@ VaIley Tech 0.01 0.02 0.02
 
 DeIlavaIle 0.01 0.014 0.003 0.001 0.001 0.001 0.001 9.000 0,001 0.001
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 FieId Name/Number m1 Atres 55.00
@@ -379,7 +379,7 @@ Dry Weight
 
 As Received
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FieId Name/Number- 411 Acres 55
 (NutrientsAppied CT Pe
@@ -411,7 +411,7 @@ Atm. Depos. HN/A HN/A
 S. PIanting HN/A
 S. Harvest N/A N/A T/Ac aN/A HN/A HN/A
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Nutrient AppIications
 
@@ -454,7 +454,7 @@ a A I ND AS NE ES RES CE ES NO
 A Rs NES OS SS OO EY RS ES OC
 TotaIs L250 Lo J sez J zoa zof zfs aoe 956 To aas3_
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 FieId Name/Number- 214 Acres 70.00
 fNutrientsAppIied CL SS Tag 0
@@ -502,7 +502,7 @@ S. PIanting 6/28/23
 
 S. Harvest 10/12/23 26.1 T/Ac (235.0) (80.2) (210.0)
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Nutrient AppIications
 FieId Name/Number 215 Acres. 72.00
@@ -544,7 +544,7 @@ a a ss es es ee es ee
 SC SS ES CIO CS CO GO SP
 Toteisr (2s J Lo T zvsa To zOa TT ss eso asoa foo To so97_
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 FieId Name/Number 2u5 Acres 72.00
 (utrientsAppIied Trea aa eno Ts
@@ -593,7 +593,7 @@ S. PIanting 4/10/23
 
 S, Harvest 8/2/23 31.0 T/Ac (253.7) (413.4) (217.8)
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Nutrient AppIications
 FieId Name/Number- 2L6/2L7 Acresz 100.00
@@ -635,7 +635,7 @@ a a A
 
 TotaIs (_ 90 J Ls ere Tsao Taf ent snare 000 To J zaas
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 FieId Name/Number 2L6/2L7 Acres 100.00
 INutrientsAppiied CY gag aaa
@@ -684,7 +684,7 @@ Atm. Depos. Yes 7.0
 
 S. Harvest 8/3/23 28.4 T/Ac (258.7) (203.0) (210.6)
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Nutrient AppIications
 FieId Name/Number aIa Acres 70.00
@@ -724,7 +724,7 @@ ee ES CI ES OO ES
 A ee EN NE RC I ES A EON CE OO ES
 TotaIss oo Lo Tass foo T wenl af tansy aoe To T2000
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 FieId Name/Number 3B Acres 70,00
 lwutrientsAppied tots
@@ -773,7 +773,7 @@ S, PIanting N/A
 
 S. Harvest N/A N/A T/Ac RN/A EN/A HN/A
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Nutrient AppIications
 
@@ -815,7 +815,7 @@ a ss ES A
 A SS I
 TotaIs (iss Lo T seas T soes sof s as aasT ose oo ese _
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 FieId Name/Number 319 Acres 55.00
 (NutrientsAppied CTS AT tana 8835.0
@@ -864,7 +864,7 @@ S. PIanting 6/9/23
 
 5S. Harvest 9/23/23 34.5 T/Ac (186.6) (100.8) (380.0)
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 a
 3 c
@@ -969,11 +969,11 @@ n 5
 5
 Z 3
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 w.-
 , F-4 RaJ
@@ -1029,7 +1029,7 @@ zy 2232 &
 si 28ae 2
 E
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 iy
 ie
@@ -1063,7 +1063,7 @@ ige i
 ae
 rs
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
        Ve/ Livingston Dairy ConsuIting, Inc.
 FIELD ACTIVITY REPORT
@@ -1084,11 +1084,11 @@ IE gom ce se es
 SampIe Preservation Method (CircIe one) Ice Chest Refrigerator Ice Pack
 yA Livingston Dairy ContuIing, Inc. 2020
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 ENVIRONMENTAL AGRICULTURAL
 AnaIytical Chemists
@@ -1135,7 +1135,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940. TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (559)794-6435
 CA ELAP CertiIication No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 GA ELAP Certification No. 2810
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1169,7 +1169,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)789-2940 TEL (689
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)943-3807 FAX (805)783-2012 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 GA ELAP Certification No. 2775 CA ELAP Gertification No. 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ENVIRONMENTAL AGRICULTURAL
 eeeTeeeeee EE INMATE
@@ -1204,7 +1204,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (590)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2083 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1251,7 +1251,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (690)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (805)825-4172 / Ag FAX (805)392-2063 FAX (2089)942-0423 FAX (530)943-3807 FAX (805)783-2912 FAX (659)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 GA ELAP Certification No. 2670 CA ELAP Certification No. 2775 GAELAP Certification No. 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -1316,7 +1316,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (659)734-8495
 CA ELAP CGentification No. 1573 CA ELAP Certification No. 1563 CA ELAP Cartification No. 2670 CA ELAP Certification No. 2776 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 omy oy es a ren acne tom 19 Sie 9 apa Oat RRs
 March 9, 2023 ee wins Se eee, 1a TPAD Sg
@@ -1344,7 +1344,7 @@ an ss o poci qiIe POREIEE CEE TCE AGE op sora i puIps Bech eae cal Ds cts Ede a.
 ND Nats SRevaIt was beIoy ths DOO listed fone RNAi, SAB ESD Ry hak Seas aa.
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 . e
 a 2
@@ -1427,7 +1427,7 @@ a & Zo o 2 bo g is se Oo ac co
 . a B . 8 ue 32) 8B & 8S 5 8 ono Wi
 . 3 z z 8 & & & Z a & 3 &z amfaIamset onfIolrfoIals E
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC .
 Revision Datez 10/09/14 Page 1 of i .
@@ -1479,7 +1479,7 @@ ResoIution Livingston Dairy ConsuIting, Ine.
 (PIease use the back of this sheet for additional co Vl 2340870
                THNa
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1525,7 +1525,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8495
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2870 CA ELAP Certification No. 2775 CAELAP Certification No. 281
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 (a Ce Spey FQ PF
 ENVIRONMENTAL AGRICULTURAL
@@ -1563,7 +1563,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)3423-5818 TEL (805)783-2940 TEL (55
 Env FAX (B05)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2012 FAX (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -1599,7 +1599,7 @@ TEL (805)392-2000 TEL (209)942-01a2 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)625-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CA ELAP Cantification No. 1573 CAELAP Certification No. 1683 GA ELAP Certification No. 2670 CAELAP Certification No. 2775 GAELAP Certification No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -1656,7 +1656,7 @@ TEL.(805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (869
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-0435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 GAELAP Certification No. 2810
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 bond
 Q gw Ol, oO 2 rR
@@ -1740,7 +1740,7 @@ gS F828 2e 2/2 & 8) 2lge 2
 s oO 7 _
   5g Sed dja SS/SIs217(T (Pepe e ye tots
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1 .
@@ -1791,7 +1791,7 @@ ProbIem we uA Ine.
 (PIease 3 the back of this sheet for additional cor iv 07/07/2023 10-15251
 UMM
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 i to eIa Pay a a ATR 2
 S13) 2/3 3/22) 38 2/3/3/4/2) PIF )F PIs /2/5
@@ -1855,11 +1855,11 @@ SER STR OTTER MAA dita gy, oes gigs FRY ge ote ee ee ety ee OW se oe ae Nee
 TEE ee OES Sy UNS Ss Se oe. Beis P tints bee tee
 oan gga Sed fan SRUSTINSUBS Iupbissasty 99 g109 ee OF eS,
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 l
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Livingston Dairy ConsuIting, Inc.
 1635 E. Prosperity Ave. Ste. B
@@ -1892,5 +1892,5 @@ incompIete, book vaIues and / or historical data was used. The third party labor
 was not invoIved with the agronomic growth of the crops and the Nutrient Budget is based on information
 provided by the owner.
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 

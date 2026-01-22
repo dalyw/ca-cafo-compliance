@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 1 of 108
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -63,7 +63,7 @@ abl Ground water
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 2 of 108
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -138,7 +138,7 @@ V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 
 06/11/2024 132746 Page 3 of 108
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 No commercial or other nutrient imports entered.
@@ -148,7 +148,7 @@ No liquid nutrient exports entered.
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 4 of 108
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -191,7 +191,7 @@ X149-X020-X069-XXXX
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 5 of 108
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -224,7 +224,7 @@ FieId name 3-21S
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 6 of 108
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -255,7 +255,7 @@ Total actual harvest content 29.19 203.52 52.19 203.52 935.86
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 7 of 108
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -282,7 +282,7 @@ FieId name 7-32
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 8 of 108
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -313,7 +313,7 @@ Total actual harvest content 29.66 193.61 58.29 187.36 968.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 9 of 108
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -340,7 +340,7 @@ FieId name 7-36
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 10 of 108
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -366,7 +366,7 @@ FieId name 8-104
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 11 of 108
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -392,7 +392,7 @@ FieId name 9-111S
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 12 of 108
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -418,7 +418,7 @@ FieId name G3
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 13 of 108
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -444,7 +444,7 @@ FieId name G5
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 14 of 108
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -475,7 +475,7 @@ Total actual harvest content 29.00 223.49 54.89 186.24 1,017.45
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 15 of 108
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -502,7 +502,7 @@ FieId name M-2
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 16 of 108
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -528,7 +528,7 @@ FieId name V1
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 17 of 108
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -554,7 +554,7 @@ FieId name V3
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 18 of 108
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -578,7 +578,7 @@ Total actual harvest content 1.22 44.28 5.32 37.04 219.25
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 19 of 108
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -610,7 +610,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 20 of 108
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -642,7 +642,7 @@ AppIication event totaIs 76.72 8.19 146.43 1,257.68
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 21 of 108
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -674,7 +674,7 @@ AppIication event totaIs 81.25 13.54 130.90 826.44
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 22 of 108
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -705,7 +705,7 @@ AppIication event totaIs 0.00 0.00 0.00 43.14
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 23 of 108
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -736,7 +736,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 24 of 108
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -768,7 +768,7 @@ AppIication event totaIs 83.35 9.05 161.73 1,182.21
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 25 of 108
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -799,7 +799,7 @@ AppIication event totaIs 87.06 14.51 140.27 883.93
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 26 of 108
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -831,7 +831,7 @@ AppIication event totaIs 25.00 0.00 0.00 34.21
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 27 of 108
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -865,7 +865,7 @@ AppIication event totaIs 83.80 10.18 124.81 1,502.94
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 28 of 108
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -897,7 +897,7 @@ AppIication event totaIs 0.00 0.00 0.00 40.58
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 29 of 108
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -931,7 +931,7 @@ Crop Corn, siIage PIant date 06/10/2023
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 30 of 108
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -963,7 +963,7 @@ AppIication event totaIs 75.58 8.21 146.65 1,078.46
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 31 of 108
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -997,7 +997,7 @@ AppIication event totaIs 0.00 0.00 0.00 34.01
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 32 of 108
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1031,7 +1031,7 @@ AppIication event totaIs 25.00 0.00 0.00 33.99
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 33 of 108
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1065,7 +1065,7 @@ AppIication event totaIs 1.25 0.00 0.00 215.28
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 34 of 108
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1097,7 +1097,7 @@ AppIication event totaIs 0.00 0.00 0.00 40.77
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 35 of 108
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1128,7 +1128,7 @@ AppIication event totaIs 98.08 10.65 190.30 1,388.31
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 36 of 108
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1158,7 +1158,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 37 of 108
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1190,7 +1190,7 @@ AppIication event totaIs 0.00 0.00 0.00 38.13
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 38 of 108
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1224,7 +1224,7 @@ AppIication event totaIs 1.40 0.00 0.00 241.49
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 39 of 108
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1256,7 +1256,7 @@ AppIication event totaIs 0.00 0.00 0.00 36.97
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 40 of 108
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1290,7 +1290,7 @@ AppIication event totaIs 83.17 13.86 134.00 849.34
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 41 of 108
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1324,7 +1324,7 @@ AppIication event totaIs 0.00 0.00 0.00 33.56
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 42 of 108
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1354,7 +1354,7 @@ AppIication event totaIs 77.51 9.41 115.38 1,396.19
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 43 of 108
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1387,7 +1387,7 @@ AppIication event totaIs 98.09 16.35 158.04 994.37
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 44 of 108
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1418,7 +1418,7 @@ AppIication event totaIs 69.97 11.66 112.72 715.27
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 45 of 108
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1448,7 +1448,7 @@ AppIication event totaIs 0.00 0.00 0.00 34.55
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 46 of 108
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1479,7 +1479,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 47 of 108
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1513,7 +1513,7 @@ AppIication event totaIs 25.00 0.00 0.00 33.98
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 48 of 108
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1546,7 +1546,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 49 of 108
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1581,7 +1581,7 @@ AppIication event totaIs 0.00 0.00 0.00 33.99
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 50 of 108
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1612,7 +1612,7 @@ AppIication event totaIs 0.00 0.00 0.00 34.11
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 51 of 108
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1646,7 +1646,7 @@ AppIication event totaIs 925.00 0.00 0.00 43.18
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 52 of 108
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1680,7 +1680,7 @@ V2 - 11/01/2013 WaInuts
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 53 of 108
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1712,7 +1712,7 @@ AppIication event totaIs 0.00 0.00 0.00 40.90
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 54 of 108
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1746,7 +1746,7 @@ AppIication event totaIs 0.00 0.00 0.00 36.54
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 55 of 108
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1780,7 +1780,7 @@ AppIication event totaIs 25.00 0.00 0.00 33.76
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 56 of 108
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1813,7 +1813,7 @@ AppIication event totaIs 0.00 0.00 0.00 33.76
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 1312746 Page 57 of 108
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1850,7 +1850,7 @@ AppIied to removed ratio 1.22 2.20 2.51 6.36
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 58 of 108
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1884,7 +1884,7 @@ AppIied to removed ratio 1.24 0.72 2.00 3.26
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 59 of 108
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1918,7 +1918,7 @@ AppIied to removed ratio 1.36 1.38 3.54 2.01
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 60 of 108
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1952,7 +1952,7 @@ AppIied to removed ratio 1.11 0.57 3.16 3.76
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 61 of 108
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1989,7 +1989,7 @@ AppIied to removed ratio 1.34 0.60 2.44 3.33
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 62 of 108
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2025,7 +2025,7 @@ AppIied to removed ratio 1.32 2.29 2.58 5.66
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 63 of 108
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2060,7 +2060,7 @@ AppIied to removed ratio 0.96 0.00 0.00 1.53
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 64 of 108
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2094,7 +2094,7 @@ AppIied to removed ratio 1.33 1.17 3.83 2.86
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 65 of 108
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2128,7 +2128,7 @@ AppIied to removed ratio 1.34 0.60 2.37 2.11
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 66 of 108
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2164,7 +2164,7 @@ AppIied to removed ratio 1.37 0.52 2.53 3.41
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 67 of 108
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2198,7 +2198,7 @@ AppIied to removed ratio 0.97 0.00 0.00 3.99
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 68 of 108
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2232,7 +2232,7 @@ AppIied to removed ratio 0.96 0.00 0.00 4.01
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 69 of 108
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2266,7 +2266,7 @@ AppIied to removed ratio 1.30 0.00 0.00 1.77
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 70 of 108
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2299,7 +2299,7 @@ AppIied to removed ratio 1.10 0.71 2.14 3.13
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 71 of 108
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2335,7 +2335,7 @@ AppIied to removed ratio 1.21 2.07 2.50 5.54
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 72 of 108
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2368,7 +2368,7 @@ AppIied to removed ratio 1.29 0.00 0.00 3.88
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 73 of 108
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2402,7 +2402,7 @@ AppIied to removed ratio 0.98 0.00 0.00 4.54
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 74 of 108
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2436,7 +2436,7 @@ AppIied to removed ratio 1.21 4.62 1.73 1.92
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 75 of 108
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2471,7 +2471,7 @@ AppIied to removed ratio 1.02 0.00 0.00 1.40
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 76 of 108
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2505,7 +2505,7 @@ AppIied to removed ratio 1.37 1.15 3.79 2.00
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 77 of 108
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2541,7 +2541,7 @@ AppIied to removed ratio 1.24 2.21 2.54 5.73
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 78 of 108
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2577,7 +2577,7 @@ AppIied to removed ratio 1.36 2.37 2.22 0.94
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 79 of 108
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2612,7 +2612,7 @@ AppIied to removed ratio 1.28 0.62 2.86 3.32
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 80 of 108
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2647,7 +2647,7 @@ AppIied to removed ratio 1.24 3.01 1.78 0.07
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 81 of 108
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2680,7 +2680,7 @@ AppIied to removed ratio 1.27 0.00 0.00 2.11
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 82 of 108
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2716,7 +2716,7 @@ AppIied to removed ratio 1.09 0.00 0.00 1.27
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 83 of 108
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2749,7 +2749,7 @@ AppIied to removed ratio 1.04 0.00 0.00 1.06
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 84 of 108
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2783,7 +2783,7 @@ AppIied to removed ratio 1.31 0.00 0.00 2.11
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 85 of 108
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2818,7 +2818,7 @@ AppIied to removed ratio 0.78 0.00 0.00 4.23
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 86 of 108
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2854,7 +2854,7 @@ AppIied to removed ratio 1.19 0.00 0.00 1.36
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 87 of 108
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2889,7 +2889,7 @@ AppIied to removed ratio 0.88 0.00 0.00 1.08
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 88 of 108
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2923,7 +2923,7 @@ B. PROCESS WASTEWATER ANALYSES
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 89 of 108
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2958,7 +2958,7 @@ DL 10.00 2.00 2.00 2.00 0.20 0.50 100.00 10
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 90 of 108
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2990,7 +2990,7 @@ Lower TuIe
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 91 of 108
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3022,7 +3022,7 @@ D. SOIL ANALYSES
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 92 of 108
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3048,7 +3048,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 93 of 108
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3079,7 +3079,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 94 of 108
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3110,7 +3110,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 95 of 108
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3141,7 +3141,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 96 of 108
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3172,7 +3172,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 97 of 108
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3203,7 +3203,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 98 of 108
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3234,7 +3234,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 99 of 108
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3265,7 +3265,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 100 of 108
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3296,7 +3296,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 101 of 108
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3327,7 +3327,7 @@ DL 500.00 200.00 200.00 0.05
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 102 of 108
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3352,7 +3352,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 103 of 108
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3387,7 +3387,7 @@ N P K saIt
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 104 of 108
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3416,7 +3416,7 @@ lbs lbs
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 105 of 108
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3446,7 +3446,7 @@ wastewater that are new or were revised within the reporting period
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 106 of 108
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3462,7 +3462,7 @@ V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 
 06/11/2024 132746 Page 107 of 108
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3482,7 +3482,7 @@ oe
 V2 CaitIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 108 of 108
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3506,7 +3506,7 @@ Storm Water Reporting Section on page MRP-14.
 V2 CattIe 13902 Rd. 96 Tipton, CA 93272 TuIare County TuIare Basin
 06/11/2024 132746 Page 1 of 1
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -3553,7 +3553,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -3588,7 +3588,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3645,7 +3645,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
   Laboratory AnaIysis Work Order 3 2/ Vis 5 3043
 SITE NAME wor lv le, Lr. ) . LABORATORY VT FGL 4-19696 r
@@ -3692,7 +3692,7 @@ LABORATORY USE ONLY
 lo-lo
 Ror
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 FGL Environmental Doe ID 3D0900002_SOP_12.DOC .
 Revision Date 10/09/14 Page 1 of 1
@@ -3746,7 +3746,7 @@ ResoIution i 2344187
 contacts) Ur 23adie7 cnn
 XO tbo 2e
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -3793,7 +3793,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3828,7 +3828,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3885,7 +3885,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
   Laboratory AnaIysis Work Order 234 Y/3& 3041
 sirename TvIacg F0- LABORATORY VT FGL4-19696)
@@ -3933,7 +3933,7 @@ LABORATORY USE ONLY
 lo.o
 Ror
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 FGL Environmental Doc EID 3D0900002_SOP_12.DOC
 Revision Dates 10/09/14 Page 1 of 1
@@ -3985,7 +3985,7 @@ ResoIution i 2344188
 contacts) in
 - IM
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -4040,7 +4040,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4077,7 +4077,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4137,7 +4137,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
      Laboratory AnaIysis Work Order 3157
 914
@@ -4188,7 +4188,7 @@ LABORATORY USE ONLY s
 OLS -W//43
 Mo 145
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 a
 FGL Environmental Doc ID 310900002_SOP_12.DOC .
@@ -4240,7 +4240,7 @@ a , Vi 2346274
 (PIease use the back of this sheet for additional cc made 09/14/2023 180506
 contacts) VA
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 (_s
 ENVIRONMENTAL AGRICULTURAL
@@ -4286,7 +4286,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4316,7 +4316,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 A
 ENVIRONMENTAL AGRICULTURAL
@@ -4346,7 +4346,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 I
 ENVIRONMENTAL AGRICULTURAL
@@ -4385,7 +4385,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
   Laboratory AnaIysis Work Order 3500
 SITE NAME V Z C att le LABORATORY VT d FGL 4.19698 .
@@ -4455,7 +4455,7 @@ looped tabs TettSames_tatortes LN AO
 Saami
 VO NA
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 FGL Environmental Doc ID .
 00_uno_temp17754627647086214641.DOC

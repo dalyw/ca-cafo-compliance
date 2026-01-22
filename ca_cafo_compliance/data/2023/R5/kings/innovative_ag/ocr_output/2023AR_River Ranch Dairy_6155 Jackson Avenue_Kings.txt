@@ -37,7 +37,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -86,7 +86,7 @@ Yes. Number of discharges occurred (see Attachment H).
 
 MA NNovative AG SERVICES
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 River Ranch Dairy 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -141,7 +141,7 @@ MA NNovative AG SERVICES
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 River Ranch Dairy 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
 CENTRAL VALLEY REGION
@@ -188,7 +188,7 @@ BA INNOVATIVE ac services
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: 1C1FBEE1-166B-4B91-96DF-454C838D3C31
 
 River Ranch Dairy 2023
@@ -210,7 +210,7 @@ Title and Date Title and Date
 , BA NNovATIVE ac services
 Page
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 River Ranch Dairy 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -255,7 +255,7 @@ MA NNovative AG SERVICES
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -276,7 +276,7 @@ MA NNovative AG SERVICES
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -313,7 +313,7 @@ MA INNOVATIVE 4c services
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -352,7 +352,7 @@ MA Nnovative AG SERVICES
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -380,7 +380,7 @@ Season Nitrogen Ratio: 1.28 Lbs Per Acre; 440 2,453
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -420,7 +420,7 @@ H// INNOVATIVE Ac SERVICES
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -452,7 +452,7 @@ AA'N NOVATIVE AG Services
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -489,7 +489,7 @@ Season Nitrogen Ratio: 311
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -524,7 +524,7 @@ WA NNovaTive AG SERVICES
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -547,7 +547,7 @@ MA NNovative AG SERVICES
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -584,7 +584,7 @@ BAINNovATIVE nc services
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -622,7 +622,7 @@ BAINNOVATIVE ac services
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -655,7 +655,7 @@ MA NNovative AG SERVICES
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -689,7 +689,7 @@ Season Nitrogen Ratio: Lbs Per Acre;
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -726,7 +726,7 @@ BAINNOVATIVE 4c services
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -757,7 +757,7 @@ MA INNOVATIVE ac services
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -792,7 +792,7 @@ Season Nitrogen Ratio: Lbs Per Acre; 246
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -820,7 +820,7 @@ BA INNOVATIVE ac services
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -857,7 +857,7 @@ BAINNOVATIVE 4c services
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -890,7 +890,7 @@ MA NNovative AG SERVICES
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -925,7 +925,7 @@ BA INNOVATIVE ac services
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -953,7 +953,7 @@ MA NNovative AG SERVICES
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -986,7 +986,7 @@ Season Nitrogen Ratio: Lbs Per Acre;
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1025,7 +1025,7 @@ BA INNOVATIVE ac services
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1062,7 +1062,7 @@ MA INNovATIVE ac services
 
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1090,7 +1090,7 @@ AN NOVATIVE Ac SERVICES
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1131,7 +1131,7 @@ BA INNOVATIVE ac services
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1171,7 +1171,7 @@ _ NOVATIVE 4G SERVICES
 
 Page 32
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1206,7 +1206,7 @@ MA novative AG SERVICES
 
 Page 33
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1239,7 +1239,7 @@ BAINNOVATIVE ac services
 
 Page 34
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1272,7 +1272,7 @@ Season Nitrogen Ratio: Lbs Per Acre:
 
 Page 35
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1304,7 +1304,7 @@ BA INNOVATIVE ac services
 
 Page 36
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1340,7 +1340,7 @@ MAINNovative AG SERVICES
 
 Page 37
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1374,7 +1374,7 @@ H/ INNOVATIVE Ac SERVICES
 
 Page 38
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1418,7 +1418,7 @@ MA NNovative AG SERVICES
 
 Page 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1458,7 +1458,7 @@ BA INNOVATIVE ac services
 
 Page 40
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1499,7 +1499,7 @@ Season Nitrogen Ratio: 179
 
 Page 41
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Field Name: Y3
 Wheat, 80 Acres Planted on 12/17/2022
 
@@ -1612,7 +1612,7 @@ Extracted
 
 | NOVATIVE AG SERVICES
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1651,7 +1651,7 @@ MA NNovative AG SERVICES
 
 Page 43
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1688,7 +1688,7 @@ and harvest events.
 
 Page 44
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 River Ranch Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1727,7 +1727,7 @@ Page 45
 
 _ NOVATIVE AG SERVICES
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 River Ranch Dairy 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -1757,7 +1757,7 @@ BA INNOVATIVE ac services
 
 Page 46
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 River Ranch Dairy 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -1799,7 +1799,7 @@ MA NNovaTive AG SERVICES
 
 Page 47
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 River Ranch Dairy 2023
 1,613
 
@@ -1809,7 +1809,7 @@ Bl INNOVATIVE ac services
 
 Page 48
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1849,7 +1849,7 @@ BA INNOVATIVE ac services
 
 Page 49
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1878,7 +1878,7 @@ T1 1 Wheat 05/17/2023 35.60 5.48 14.16 57.30 6.58
 
 BAINNOVATIVE ac services
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1912,7 +1912,7 @@ Bl INNOVATIVE ac services
 
 Page 51
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1944,7 +1944,7 @@ Averages: 12.40 715 446.67 16.20 43.00 0.00 80.00 70.00 0.00 16.05 99.50
 
 Page 52
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1979,7 +1979,7 @@ BAINNOVATIVE 4c services
 
 Page 53
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 River Ranch Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -2007,7 +2007,7 @@ MA NNovative AG SERVICES
 
 Page 54
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 River Ranch Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2047,7 +2047,7 @@ Zh INNOVATIVE ac services
 
 Page 55
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 River Ranch Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2096,7 +2096,7 @@ WANN OVATIVE Ac SERVICES
 
 Page 56
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 River Ranch Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -2118,7 +2118,7 @@ Wheat 80 12/17/2022 05/21/2023 22.5 1656.0 20.7
 
 MAINNovative AG SERVICES
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Day January
 1 Light
 2 Light
@@ -2521,7 +2521,7 @@ None
 Light
 None
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 DocuSign Envelope ID: F715BOB8-BC9A-4FBF-884F-CO49FC1F7A4C.
 ATTACHMENT D
 
@@ -2589,7 +2589,7 @@ Manure Solids Content (if amount reported in tons): 54.9% Corral Solids
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 DocuSign Envelope ID: F715BOB8-BC9A-4FBF-884F-C049FC1F7A4C
 
 Attachment D D-2
@@ -2634,7 +2634,7 @@ Operator's Signature: ck Oe bo Date:
 Hauler’s Signature: Date:
 
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 DocuSign Envelope ID: F715B0B8-BC9A-4FBF-884F-CO49FC1F7A4C
 ATTACHMENT D
 
@@ -2702,7 +2702,7 @@ Manure Solids Content (if amount reported in tons): 54.9% Corral Solids
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 DocuSign Envelope ID: F715B0B8-BC9A-4FBF-884F-C049FC1F7A4C
 
 Attachment D D-2
@@ -2747,7 +2747,7 @@ Operator’s Signature: Wick, We Dorey Date:
 Hauler’s Signature: Date:
 
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 ENVIRONMENTAL
 
 Analytical Chemists
@@ -2824,7 +2824,7 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 A ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2867,7 +2867,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 ENVIRONMEN AGRICULTURAL
 
 emists
@@ -2913,7 +2913,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 <5
 ey
 
@@ -3004,7 +3004,7 @@ Total Samples,
 THE PRINTER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 L
 
 ENVIRONMENTA( AGRICULTU
@@ -3084,7 +3084,7 @@ CAELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 ENVIRONMEN ~ AGRICULTU
 
 Analytical Chemists
@@ -3156,7 +3156,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 ENVIRONMENTAL
 
 naly
@@ -3211,7 +3211,7 @@ Env FAX: (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 ENVIRONMEN AGRICULTU
 
 Analytical Chemists
@@ -3261,7 +3261,7 @@ Env FAX: (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No, 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 nalytical Chemists
 
 April 26, 2023
@@ -3306,7 +3306,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 ENVIRONMEN GRICULTURAL
 
 Chemists
@@ -3377,7 +3377,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 April 26, 2023
 
 Innovative Ag Services, LLC Ta NS, ka asa
@@ -3441,13 +3441,13 @@ MSRPD mg/L 4,000 0.6% 20.0
 
 Page 7 of 10 Page 7 of 10
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Page 8 of 10
 
 Page 8 of 10
 
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 April 26, 2023
 
 Innovative Ag Services, LLC TabiNe: pM gee eO?
@@ -3512,7 +3512,7 @@ MS mg/L 100.0 102% 82-124
 
 Page 9 of 10 Page 9 of 10
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 April 26, 2023
 
 Innovative Ag Services, LLC Pn, pe
@@ -3567,7 +3567,7 @@ Explanation
 
 Page 10 of 10 Page 10 of 10
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 Laboratory Analysis Work Order N° 40347
 
 #0263 oS Neko | FG
@@ -3619,7 +3619,7 @@ CS UL 4/57
 
 (2s ©
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 ENVIRONMEN AGRICULTU
 
 Analytical Chemists
@@ -3700,7 +3700,7 @@ TEL: (559)734-9473
 FAX; (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 NVIRONMENTA AGRICUL
 
 Analytical Chemi
@@ -3762,7 +3762,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 AGRICULTU
 
 tical Chemists
@@ -3829,7 +3829,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 July 11, 2023
 
 Innovative Ag Services, LLC
@@ -4129,11 +4129,11 @@ Page 4 of 5
 
 435
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 Page 5 of 5 Page 5 of 5
 
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 ZOU 2457
 
 Laboratory Analysis Work Order N° 40898
@@ -4184,7 +4184,7 @@ Gus Total sample es; 7 Laboratory #:
 
 ‘THE PRDITER INC. - 559-992-8127
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 July 12, 2023
 
 Lab No. : VI 2344245
@@ -4252,7 +4252,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 July 12, 2023
 
 Lab No. : VI 2344245-001
@@ -4292,7 +4292,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 July 12,
 Innovative Ag Services, LLC
 
@@ -4362,7 +4362,7 @@ CA ELAP Certification No, 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 2 344245-
 
 : Laboratory Analysis Work Order N° 40970
@@ -4430,7 +4430,7 @@ wine:
 ‘THE PRINTER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 ENVIRONMENTAL AGRICULTURAL
 
 October 19, 2023
@@ -4493,7 +4493,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 ENVIRONMENTAL ! Ju
 
 October 19, 2023
@@ -4535,7 +4535,7 @@ TEL: (805)392-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL; (805)783-2940 TEL:
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 ENVIRONMEN
 
 October 19, 2023
@@ -4579,7 +4579,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 IRONMENTA
 aly
 
@@ -4623,7 +4623,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 VIRONMEN AGRICULTUR/
 
 nalytical Chemists
@@ -4694,7 +4694,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 ; /| Laboratory Analysis Work Order N° 41462
 ID: #_DUL3 a) 674 LABORATORY: £62
 
@@ -4754,7 +4754,7 @@ NG)
 
 ae We (0/5 [3 u2B THE PRINTER ING. - 559-992-5127
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 GRICUL
 
 nists
@@ -4828,7 +4828,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 ENVIRONMENTAL
 
 nal
@@ -4873,7 +4873,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 November 2, 2023
 Innovative Ag Services, LLC
 
@@ -4941,7 +4941,7 @@ CA ELAP Certification No. 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 Laboratory Analysis Work Order ai N° 41518
 
 ID:#_263 eek Pertti LABORATORY: f°“
@@ -5000,7 +5000,7 @@ Jk Fae sohbet jo] 1]24 \\09
 
 THE PRINTER INC. - 559-992-5127
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 December 18, 2023
 
 Lab No. : VI 2348140
@@ -5072,7 +5072,7 @@ CA ELAP Certification No, 1573
 FAX: (559)734-8435
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 ENVIRONME GRIC
 
 Analytical Chemists
@@ -5116,7 +5116,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 VIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -5182,7 +5182,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 Laboratory Analysis Work Order ~ N° 42125
 ID:#_D2L3 BAH el 4O LABORATORY: £67
 

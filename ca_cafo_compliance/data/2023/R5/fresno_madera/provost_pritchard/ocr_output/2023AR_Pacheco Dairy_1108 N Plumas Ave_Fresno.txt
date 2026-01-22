@@ -15,7 +15,7 @@ Phone (559) 636-1166
 Fax (559) 636-1177
 www.ppeng.com
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Pacheco Dairy Inc 2023 Annual Report
 2023 ANNUAL REPORT
@@ -53,7 +53,7 @@ FaciIity Configuration Changes or Information about this Report
 Nothing significant to report.
 PROVOST&
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Pacheco Dairy Inc 2023 Annual Report
 This report contains information required to be submitted as outIined by the Annual Reporting
@@ -112,7 +112,7 @@ manure appIications during the period is provided in Attachment B.
 
 PROVOST &
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Pacheco Dairy Inc 2023 Annual Report
 9. Summary of Manure and Process Wastewater Discharges from the
@@ -161,7 +161,7 @@ reports provided in Attachment J.
 oo SOF 4
 PROVOST &
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Pacheco Dairy Inc 2023 Annual Report
 16. TabuIated Nutrient AnaIytical Data
@@ -203,7 +203,7 @@ Cl_sYes, discharges occurred. (See Attachment J for detaiIed reports.)
 oo 4 OF 4
 PROVOST &
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 5
 Dairy Address 1108 N. PIumas
@@ -243,7 +243,7 @@ Number of months the dairy was occupied 12
 
 Attachment A
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Dairy Name Pacheco Dairy Inc Page 2 of 5
 Dairy Address 1108 N. PIumas
@@ -274,7 +274,7 @@ Phosphorus and potassium were obtained from ASAE D384.2 March 2005.
 account for any losses or division into soIid or liquid portions.
 Attachment A
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Dairy Name- Pacheco Dairy Inc Page 3 of 5
 Dairy Address 1108 N. PIumas
@@ -311,7 +311,7 @@ not direct reIationships but are being used for estimation purposes. Ash can var
 AIso, ash content is onIy required to be anaIyzed once every two years. The latest resuItant vaIue is appIied to any subsequent appIications.
 Attachment A
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 5
 Dairy Address 1108 N. PIumas
@@ -331,7 +331,7 @@ AppIied Phosphorus SaIts
 46,875 110,627 23,307 265,086 1,377,317
 Attachment A
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Dairy Name- Pacheco Dairy Inc Page 5 of 5
 Dairy Address 1108 N. PIumas
@@ -352,7 +352,7 @@ Transferred Phosphorus SaIts
 0 0 0 0 0
 Attachment A
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 3
 Dairy Address 1108 N. PIumas
@@ -367,7 +367,7 @@ APN Not Part of Land
 APN County Acres Land Use AppIication Area
 Attachment B
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 3
 Dairy Address 1108 N. PIumas
@@ -409,7 +409,7 @@ og 39.0 None
 17 68.0 None
 Attachment B
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Dairy Name Pacheco Dairy Inc Page 3 of 3
 Dairy Address 1108 N. PIumas
@@ -430,7 +430,7 @@ aS A A
 015-290-20-S
 Attachment B
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 17
 Dairy Address 1108 N. PIumas
@@ -474,7 +474,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 17
 Dairy Address 1108 N. PIumas
@@ -518,7 +518,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Dairy Name Pacheco Dairy Inc Page 3 of 17
 Dairy Address 1108 N. PIumas
@@ -562,7 +562,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 17
 Dairy Address 1108 N. PIumas
@@ -606,7 +606,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Dairy Name- Pacheco Dairy Inc Page 5 of 17
 Dairy Address 1108 N. PIumas
@@ -650,7 +650,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Dairy Name Pacheco Dairy Inc Page 6 of 17
 Dairy Address 1108 N. PIumas
@@ -694,7 +694,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Dairy Name Pacheco Dairy Inc Page 7 of 17
 Dairy Address 1108 N. PIumas
@@ -738,7 +738,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Dairy Name- Pacheco Dairy Inc Page 8 of 17
 Dairy Address 1108 N. PIumas
@@ -782,7 +782,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Dairy Name Pacheco Dairy Inc Page 9 of 17
 Dairy Address 1108 N. PIumas
@@ -826,7 +826,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Dairy Name- Pacheco Dairy Inc Page 10 of 17
 Dairy Address 1108 N. PIumas
@@ -870,7 +870,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Dairy Name- Pacheco Dairy Inc Page 11 of 17
 Dairy Address 1108 N. PIumas
@@ -914,7 +914,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Dairy Name- Pacheco Dairy Inc Page 12 of 17
 Dairy Address 1108 N. PIumas
@@ -958,7 +958,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Dairy Name- Pacheco Dairy Inc Page 13 of 17
 Dairy Address 1108 N. PIumas
@@ -1002,7 +1002,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Dairy Name- Pacheco Dairy Inc Page 14 of 17
 Dairy Address 1108 N. PIumas
@@ -1046,7 +1046,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Dairy Name- Pacheco Dairy Inc Page 15 of 17
 Dairy Address 1108 N. PIumas
@@ -1090,7 +1090,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Dairy Name- Pacheco Dairy Inc Page 16 of 17
 Dairy Address 1108 N. PIumas
@@ -1134,7 +1134,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Dairy Name- Pacheco Dairy Inc Page 17 of 17
 Dairy Address 1108 N. PIumas
@@ -1178,7 +1178,7 @@ PAN BaIance Ratio is based on PIant AvaiIabIe Nitrogen. In addition to inorganic
 mineraIization. This incIudes both what is appIied during that growing season and the residual amounts from previous appIications to that fieId.
 Attachment C
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 4
 Dairy Address 1108 N. PIumas
@@ -1201,7 +1201,7 @@ a OL
 Ec CS
 Attachment D
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 4
 Dairy Address 1108 N. PIumas
@@ -1213,7 +1213,7 @@ FieId ID Crop Acres PIant Date Crop Harvest Date Expected Actual _ Tons
 cL
 Attachment D
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Dairy Name- Pacheco Dairy Inc Page 3 of 4
 Dairy Address 1108 N. PIumas
@@ -1239,7 +1239,7 @@ FieId ID Crop Date Tons (wet) (dry) ID Moisture fon ep .x. wn f ep f K
 17 Corn SiIage 9/28/2023 1,959 646 67.04 1.33 0.36 1.54 17,109 4,584 19,821
 Attachment D
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 4
 Dairy Address 1108 N. PIumas
@@ -1255,7 +1255,7 @@ FieId ID Crop Date Tons (wet) (dry) ID Moisture on ep .x. w fe f K
 23 Corn SiIage 9/18/2023 2,239 756 66.25 2.04 0.22 1.28 30,833 3,250 19,346
 Attachment D
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 57
 Dairy Address 1108 N. PIumas
@@ -1286,7 +1286,7 @@ Date (1,000Gal) _sampioip_ Nown ren or ik on re k
 Total -
 Attachment E
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 57
 Dairy Address 1108 N. PIumas
@@ -1312,7 +1312,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 11,544 11.5
 Attachment E
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Dairy Name- Pacheco Dairy Inc Page 3 of 57
 Dairy Address 1108 N. PIumas
@@ -1339,7 +1339,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 57
 Dairy Address 1108 N. PIumas
@@ -1366,7 +1366,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 2,310 76.9
 Attachment E
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Dairy Name- Pacheco Dairy Inc Page 5 of 57
 Dairy Address 1108 N. PIumas
@@ -1393,7 +1393,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Dairy Name- Pacheco Dairy Inc Page 6 of 57
 Dairy Address 1108 N. PIumas
@@ -1420,7 +1420,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 3,612 96.9
 Attachment E
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Dairy Name- Pacheco Dairy Inc Page 7 of 57
 Dairy Address 1108 N. PIumas
@@ -1449,7 +1449,7 @@ Total 240 378 50 1,612
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Dairy Name- Pacheco Dairy Inc Page 8 of 57
 Dairy Address 1108 N. PIumas
@@ -1469,7 +1469,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 6,204 21.1
 Attachment E
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Dairy Name- Pacheco Dairy Inc Page 9 of 57
 Dairy Address 1108 N. PIumas
@@ -1500,7 +1500,7 @@ orien 675 SdY ioo ae f en 320 _ 1677 2081
 Total - 2,805 9,898 2,102 13,224
 Attachment E
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Dairy Name- Pacheco Dairy Inc Page 10 of 57
 Dairy Address 1108 N. PIumas
@@ -1532,7 +1532,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 34,164 1,298.2
 Attachment E
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Dairy Name- Pacheco Dairy Inc Page 11 of 57
 Dairy Address 1108 N. PIumas
@@ -1563,7 +1563,7 @@ Total 1,605 2,531 336 10,782
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Dairy Name- Pacheco Dairy Inc Page 12 of 57
 Dairy Address 1108 N. PIumas
@@ -1587,7 +1587,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 15,276 147.9
 Attachment E
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Dairy Name- Pacheco Dairy Inc Page 13 of 57
 Dairy Address 1108 N. PIumas
@@ -1619,7 +1619,7 @@ ze2at2 000 209 990 ssz0 TT
 Total 2,205 6,684 1,728 10,082
 Attachment E
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Dairy Name- Pacheco Dairy Inc Page 14 of 57
 Dairy Address 1108 N. PIumas
@@ -1645,7 +1645,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total 20,808 790.7
 Attachment E
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Dairy Name- Pacheco Dairy Inc Page 15 of 57
 Dairy Address 1108 N. PIumas
@@ -1676,7 +1676,7 @@ Total - 1,575 2,484 329 10,581
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Dairy Name- Pacheco Dairy Inc Page 16 of 57
 Dairy Address 1108 N. PIumas
@@ -1695,7 +1695,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 8,190 17.6
 Attachment E
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Dairy Name- Pacheco Dairy Inc Page 17 of 57
 Dairy Address 1108 N. PIumas
@@ -1724,7 +1724,7 @@ Total - 810 2,012 666 3,577
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Dairy Name- Pacheco Dairy Inc Page 18 of 57
 Dairy Address 1108 N. PIumas
@@ -1751,7 +1751,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 28,152 1,069.8
 Attachment E
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Dairy Name- Pacheco Dairy Inc Page 19 of 57
 Dairy Address 1108 N. PIumas
@@ -1783,7 +1783,7 @@ ze2ai3 000 280 363 7280 fT
 Total - 1,905 3,452 454 12,378
 Attachment E
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Dairy Name- Pacheco Dairy Inc Page 20 of 57
 Dairy Address 1108 N. PIumas
@@ -1809,7 +1809,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total 13,260 35.8
 Attachment E
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Dairy Name- Pacheco Dairy Inc Page 21 of 57
 Dairy Address 1108 N. PIumas
@@ -1838,7 +1838,7 @@ Total 330 1,452 227 1,638
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Dairy Name- Pacheco Dairy Inc Page 22 of 57
 Dairy Address 1108 N. PIumas
@@ -1863,7 +1863,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 8,712 331.1
 Attachment E
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Dairy Name- Pacheco Dairy Inc Page 23 of 57
 Dairy Address 1108 N. PIumas
@@ -1895,7 +1895,7 @@ ze2ai3 000 280 363 7280 fT
 Total 3,210 5,869 771 20,808
 Attachment E
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Dairy Name- Pacheco Dairy Inc Page 24 of 57
 Dairy Address 1108 N. PIumas
@@ -1921,7 +1921,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total 20,124 56.3
 Attachment E
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Dairy Name- Pacheco Dairy Inc Page 25 of 57
 Dairy Address 1108 N. PIumas
@@ -1952,7 +1952,7 @@ Total - 1,635 4,062 1,343 7,220
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Dairy Name- Pacheco Dairy Inc Page 26 of 57
 Dairy Address 1108 N. PIumas
@@ -1977,7 +1977,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 14,328 544.5
 Attachment E
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Dairy Name- Pacheco Dairy Inc Page 27 of 57
 Dairy Address 1108 N. PIumas
@@ -2006,7 +2006,7 @@ Total 495 781 104 3,325
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Dairy Name- Pacheco Dairy Inc Page 28 of 57
 Dairy Address 1108 N. PIumas
@@ -2024,7 +2024,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 4,638 100.4
 Attachment E
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Dairy Name- Pacheco Dairy Inc Page 29 of 57
 Dairy Address 1108 N. PIumas
@@ -2055,7 +2055,7 @@ Total 240 1,056 165 1,191
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Dairy Name- Pacheco Dairy Inc Page 30 of 57
 Dairy Address 1108 N. PIumas
@@ -2080,7 +2080,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 11,016 418.6
 Attachment E
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Dairy Name- Pacheco Dairy Inc Page 31 of 57
 Dairy Address 1108 N. PIumas
@@ -2107,7 +2107,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Dairy Name- Pacheco Dairy Inc Page 32 of 57
 Dairy Address 1108 N. PIumas
@@ -2132,7 +2132,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 19,800 752.4
 Attachment E
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Dairy Name- Pacheco Dairy Inc Page 33 of 57
 Dairy Address 1108 N. PIumas
@@ -2161,7 +2161,7 @@ Total - 345 544 72 2,318
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Dairy Name- Pacheco Dairy Inc Page 34 of 57
 Dairy Address 1108 N. PIumas
@@ -2179,7 +2179,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 4,002 66.1
 Attachment E
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Dairy Name- Pacheco Dairy Inc Page 35 of 57
 Dairy Address 1108 N. PIumas
@@ -2208,7 +2208,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Dairy Name- Pacheco Dairy Inc Page 36 of 57
 Dairy Address 1108 N. PIumas
@@ -2235,7 +2235,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 11,952 454.2
 Attachment E
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Dairy Name- Pacheco Dairy Inc Page 37 of 57
 Dairy Address 1108 N. PIumas
@@ -2262,7 +2262,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Dairy Name- Pacheco Dairy Inc Page 38 of 57
 Dairy Address 1108 N. PIumas
@@ -2289,7 +2289,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 23,976 911.1
 Attachment E
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Dairy Name- Pacheco Dairy Inc Page 39 of 57
 Dairy Address 1108 N. PIumas
@@ -2321,7 +2321,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 6,768 257.2
 Attachment E
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Dairy Name- Pacheco Dairy Inc Page 40 of 57
 Dairy Address 1108 N. PIumas
@@ -2348,7 +2348,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Dairy Name- Pacheco Dairy Inc Page 41 of 57
 Dairy Address 1108 N. PIumas
@@ -2373,7 +2373,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 37,008 1,406.3
 Attachment E
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Dairy Name- Pacheco Dairy Inc Page 42 of 57
 Dairy Address 1108 N. PIumas
@@ -2405,7 +2405,7 @@ ze2ait 00 iso f52 cosa fT
 Total - 4,080 6,434 853 27,410
 Attachment E
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Dairy Name- Pacheco Dairy Inc Page 43 of 57
 Dairy Address 1108 N. PIumas
@@ -2429,7 +2429,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 27,312 216.5
 Attachment E
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Dairy Name- Pacheco Dairy Inc Page 44 of 57
 Dairy Address 1108 N. PIumas
@@ -2460,7 +2460,7 @@ Total - 2,805 9,036 2,161 12,977
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Dairy Name- Pacheco Dairy Inc Page 45 of 57
 Dairy Address 1108 N. PIumas
@@ -2487,7 +2487,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 47,952 1,822.2
 Attachment E
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Dairy Name- Pacheco Dairy Inc Page 46 of 57
 Dairy Address 1108 N. PIumas
@@ -2514,7 +2514,7 @@ Total -
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Dairy Name- Pacheco Dairy Inc Page 47 of 57
 Dairy Address 1108 N. PIumas
@@ -2541,7 +2541,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 56,538 1,910.7
 Attachment E
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Dairy Name- Pacheco Dairy Inc Page 48 of 57
 Dairy Address 1108 N. PIumas
@@ -2572,7 +2572,7 @@ Total 5,010 7,901 1,048 33,657
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Dairy Name- Pacheco Dairy Inc Page 49 of 57
 Dairy Address 1108 N. PIumas
@@ -2592,7 +2592,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 34,602 414.7
 Attachment E
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Dairy Name- Pacheco Dairy Inc Page 50 of 57
 Dairy Address 1108 N. PIumas
@@ -2624,7 +2624,7 @@ zezat2 000 209 990 520 f TT
 Total - 6,555 18,294 5,247 29,519
 Attachment E
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Dairy Name- Pacheco Dairy Inc Page 51 of 57
 Dairy Address 1108 N. PIumas
@@ -2656,7 +2656,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 81,504 3,097.2
 Attachment E
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Dairy Name- Pacheco Dairy Inc Page 52 of 57
 Dairy Address 1108 N. PIumas
@@ -2687,7 +2687,7 @@ T0/22I2022 T_ 000 280 363 7250 2,440 616
 Total - 5,460 9,395 1,239 35,945
 Attachment E
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Dairy Name- Pacheco Dairy Inc Page 53 of 57
 Dairy Address 1108 N. PIumas
@@ -2715,7 +2715,7 @@ Date (1,000 Gal) SampIe ID Source ID yp wosn onHen TKN N AppIied
 Total - 25,182 267.6
 Attachment E
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Dairy Name- Pacheco Dairy Inc Page 54 of 57
 Dairy Address 1108 N. PIumas
@@ -2740,7 +2740,7 @@ TotaIs - 375 85 3,178 595 1,394
 Wastewater AppIications.
 Attachment E
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Dairy Name- Pacheco Dairy Inc Page 55 of 57
 Dairy Address 1108 N. PIumas
@@ -2760,7 +2760,7 @@ Total 5,565 17,645 4,308 25,666
 Irrigation AppIications
 Attachment E
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Dairy Name- Pacheco Dairy Inc Page 56 of 57
 Dairy Address 1108N. PIumas
@@ -2788,7 +2788,7 @@ Date (1,000 Gal) SampIe ID wosn onHen TKN N AppIied
 9/08/2023 1,152 43.8
 Attachment E
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Dairy Name Pacheco Dairy Inc Page 57 of 57
 Dairy Address 1108 N. PIumas
@@ -2800,7 +2800,7 @@ Crop Corn SiIage
 Total 59,184 2,249.0
 Attachment E
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 2
 Dairy Address 1108 N. PIumas
@@ -2815,7 +2815,7 @@ Weather Conditions
 FieId Date Type of AppIication 24hrPrior During 24 hr After
 Attachment F
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Dairy Name Pacheco Dairy Inc Page 2 of 2
 Dairy Address 1108 N. PIumas
@@ -2826,7 +2826,7 @@ FieId Date Type of AppIication 24hrPrior During 24 hr After
 Note Nominal appIies to any weather condition that is not Precipitation or Standing Water when the appIication occurred .
 Attachment F
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 5
 Dairy Address 1108 N. PIumas
@@ -2838,7 +2838,7 @@ Support for Estimated SoIid Manure & Wastewater and Nutrients Transferred Offsit
 SoIid Manure Transfers
 Attachment G
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 5
 Dairy Address 1108 N. PIumas
@@ -2876,7 +2876,7 @@ Transfer Manure Manure SampIe Moisture kK
 9/22/2023 310 280
 Attachment G
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Dairy Name- Pacheco Dairy Inc Page 3 of 5
 Dairy Address 1108 N. PIumas
@@ -2913,7 +2913,7 @@ Report Period Jan 01 through Dec 31, 2023
 Po T2990 0.730 2460 7,804 1927 6,495
 Attachment G
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 5
 Dairy Address 1108 N. PIumas
@@ -2935,7 +2935,7 @@ Grand Total 7 394 6,554 10.235 2.766 0.714 2.515 363,604 93,620 329,393
 / Average
 Attachment G
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Dairy Name Pacheco Dairy Inc Page 5 of 5
 Dairy Address 1108 N. PIumas
@@ -2949,7 +2949,7 @@ Grand
 TotaIs / Averages Q 0 Q Q 0
 Attachment G
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Dairy Name Pacheco Dairy Inc Page 1 of 10
 Dairy Address 1108 N. PIumas
@@ -2977,7 +2977,7 @@ SampIe
 Date Source Location SampIe ID Na Ca Ng WS Cl ASH
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Dairy Name- Pacheco Dairy Inc Page 2 of 10
 Dairy Address 1108 N. PIumas
@@ -3001,7 +3001,7 @@ Source Co3 HCO3 cl S04-S Ca Mg Na
 SampIe Date Location SampIe ID (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l)
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Dairy Name- Pacheco Dairy Inc Page 3 of 10
 Dairy Address 1108 N. PIumas
@@ -3039,7 +3039,7 @@ Date Source ID Type Status SampIe ID Condition Min AnaIysis (umhos/cm) (mg/l) (m
 10.00 0.10 0.50)
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Dairy Name- Pacheco Dairy Inc Page 4 of 10
 Dairy Address 1108 N. PIumas
@@ -3066,7 +3066,7 @@ Date Source ID Type Status SampIe ID Condition Min AnaIysis (umhos/cm) (mg/l) (m
 UTS - UnabIe To SampIe (weIl needing repair, power disconnected, no ditch water received, etc.)
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Dairy Name- Pacheco Dairy Inc Page 5 of 10
 Dairy Address 1108 N. PIumas
@@ -3078,7 +3078,7 @@ Source TDS CO3 HCO3 cl S04-S Ca Mg Na
 SampIe Date ID Source Type SampIe ID (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l)
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Dairy Name- Pacheco Dairy Inc Page 6 of 10
 Dairy Address 1108 N. PIumas
@@ -3097,7 +3097,7 @@ O00
 a CC
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Dairy Name- Pacheco Dairy Inc Page 7 of 10
 Dairy Address 1108 N. PIumas
@@ -3123,7 +3123,7 @@ Date FieId ID Crop SampIe Location SampIe ID Moisture / n p xk ASH
 1.52 0.050 0.010 0.020 0.67
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Dairy Name- Pacheco Dairy Inc Page 8 of 10
 Dairy Address 1108 N. PIumas
@@ -3149,7 +3149,7 @@ Date FieId ID Crop SampIe Location SampIe ID _ Moisture 1 nn ep x ASH
 05/15/2023 23 TriticaIe 23-23-P-3 72.26 1.48 0.44 3.25 8.94
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Dairy Name- Pacheco Dairy Inc Page 9 of 10
 Dairy Address 1108 N. PIumas
@@ -3166,7 +3166,7 @@ Date FieId ID Crop SampIe Location SampIe ID Moisture 1 nn ep x ASH
 1.52 0.050 0.010 0.020 0.67
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Dairy Name- Pacheco Dairy Inc Page 10 of 10
 Dairy Address 1108 N. PIumas
@@ -3182,7 +3182,7 @@ SampIe Leaf Grain Stem
 Date FieId ID SampIe Location Description SampIe ID AN (dry) NO3-N (mg/kg)
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -3226,7 +3226,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3255,7 +3255,7 @@ patty interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 35
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3277,7 +3277,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 35
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3300,7 +3300,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 35
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3323,7 +3323,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 35
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3346,7 +3346,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 35
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3369,7 +3369,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 35
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3392,7 +3392,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 35
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3415,7 +3415,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 35
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3438,7 +3438,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 35
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3461,7 +3461,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 11 of 35
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3484,7 +3484,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 12 of 35
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3507,7 +3507,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 13 of 35
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3530,7 +3530,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 14 of 35
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3553,7 +3553,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 15 of 35
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3576,7 +3576,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 16 of 35
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3599,7 +3599,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 17 of 35
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3622,7 +3622,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 18 of 35
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3645,7 +3645,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 19 of 35
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3668,7 +3668,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 20 of 35
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3691,7 +3691,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 21 of 35
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3714,7 +3714,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 22 of 35
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3737,7 +3737,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 23 of 35
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
 T
 a
@@ -3778,7 +3778,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 24 of 35
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 T
 a
@@ -3820,7 +3820,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 25 of 35
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 T
 a
@@ -3873,7 +3873,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 26 of 35
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3897,7 +3897,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 27 of 35
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 T
 a
@@ -3949,7 +3949,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 28 of 35
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 Pacheco Dairy Account 00-0015840 Received 10/23/2023 1426
 19950 W BeImont Account Manager Ben Nydam Reported 10/25/2023 1423
@@ -3969,7 +3969,7 @@ patty interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 29 of 35
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 EEE x LL__- eh en ae
 CL 562 DELLAYALLE LABORATORY, ENG. _
@@ -4017,7 +4017,7 @@ SampIing hrs in Signature a
 MiIes 3 Out SampIe receIved vieIe wit ice (cooIant)
 ae a PG ot_Bpee 20 of 6
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
 a oe _. OO _ nos
 IAA DELLAVALLE LABORATORY, INC.
@@ -4065,7 +4065,7 @@ bear the costs of meduibomarbirstion. It, boWever, the shedhatir decIares that n
 se 2 er (omer vs BI Out SampIe ey el ie a conient)
 are A Ree ciecce Date 04 lof Pace st orss
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
 10/23/23 1426 231562 en. )
 Shipping Information Shipped Inco Picked-Upo WaIking DLISampIer4 Other a
@@ -4100,7 +4100,7 @@ q SuIfide-1LAGorPNaOH42nAcH ee
  HAAS -250mLAG Ammonium Chiorite PRS Mp
 DO KIT a ee ee
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
 40/23/23 1426 2351562
 Shipping Information Shipped Ino Picked-Upo WaIkino DLISampIer4 Other co
@@ -4128,7 +4128,7 @@ a iCyanidg. 500 ml. NaQH cdi, oee lee TT
 --f B-(ChIorigedromate -250 mL AG with EOMAT gears er eee Te
 - HAASZ50mL AG Ammonium ChIorte Pere ee
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
        A DELLAVALLE LABORATORY, INC.
               10/23/23 1426 231562 1910 W. McKinIey Avenue, Suite 110 Fresno, CA 93728
@@ -4176,7 +4176,7 @@ MiIes 3 Out SampIe received Yea with ice (cooIant)
 of td
 Set ap ge WHE ee . . Eine vee AES
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
 10/23/23 1426 2351562
 Shipping Information Shipped Ino Picked-Upg WaIking DLI SampIer Other o
@@ -4193,7 +4193,7 @@ ae TU eee TN i a ee
 2 1-8 Chiorte/Bromate- 250 mL AGwitheOmel amen. ar i) th ed.
 pokKiT
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4244,7 +4244,7 @@ Manure SoIids Content W4mount reported in tons).
 Manure Density (if amount reported in cubic yards)
 i
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4290,7 +4290,7 @@ Manure Wa AD Kondo Cubic Yards (indicate which units used)
 Manure SoIids Content tdmount reported in tons).
 Manure Density (if amount reported in cubic yards)- a
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4341,7 +4341,7 @@ Manure SoIids Content tiamount reported in tons)
 Manure Density (if amount reported in cubic yards)__
 eee
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4394,7 +4394,7 @@ Manure SoIids Content (amount reported in tons)
 Manure Density (if amount reported in cubic yards)_
 ee
 
-PDF PAGE BREAK 147
+=== Page 147 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4440,7 +4440,7 @@ Manure SoIids Content tifamount reported in tons).
 Manure Density (if amount reported in cubic yards)__
 eee
 
-PDF PAGE BREAK 148
+=== Page 148 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4491,7 +4491,7 @@ Manure SoIids Content (ifamount reported in tons)
 Manure Density (if amount reported in cubic yards).
 ee
 
-PDF PAGE BREAK 149
+=== Page 149 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4538,7 +4538,7 @@ Manure SoIids Content (amount reported in tons)
 Manure Density (if amount reported in cubic yards). i
 ee
 
-PDF PAGE BREAK 150
+=== Page 150 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4585,7 +4585,7 @@ Manure SoIids Content (famount reported in tons)
 Manure Density (if amount reported in cubic yards)_
 eee
 
-PDF PAGE BREAK 151
+=== Page 151 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4632,7 +4632,7 @@ Manure SoIids Content Widmount reported in tons)-
 Manure Density (if amount reported in cubic yards)_
 eee
 
-PDF PAGE BREAK 152
+=== Page 152 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4680,7 +4680,7 @@ Manure SoIids ContenNiLamount reported in tons)
 Manure Density (if amount reported in cubic yards)__
 eee
 
-PDF PAGE BREAK 153
+=== Page 153 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4728,7 +4728,7 @@ Manure SoIids Content tifamount reported in tons)
 Manure Density (if amount reported in cubic yards)_
 a
 
-PDF PAGE BREAK 154
+=== Page 154 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4774,7 +4774,7 @@ Manure SoIids Content (famount reported in tons)
 Manure Density (if amount reported in cubic yards)
 ee
 
-PDF PAGE BREAK 155
+=== Page 155 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4827,7 +4827,7 @@ Manure SoIids Content (fmount reported in tons).
 Manure Density (if amount reported in cubic yards).
 i
 
-PDF PAGE BREAK 156
+=== Page 156 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4876,7 +4876,7 @@ Manure SoIids Content tamount reported in tons)
 Manure Density (if amount reported in cubic yards)__
 eee
 
-PDF PAGE BREAK 157
+=== Page 157 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4925,7 +4925,7 @@ Manure SoIids Content (amount reported in tons)
 Manure Density (if amount reported in cubic yards)
 ee
 
-PDF PAGE BREAK 158
+=== Page 158 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -4968,7 +4968,7 @@ Manure VAA.V4 Gory or Cubic Yards (indicate which units used)
 Manure SoIids Content (Iamount reported in tons)
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 159
+=== Page 159 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -5011,7 +5011,7 @@ Manure (U 4 ( ons)or Cubic Yards (indicate which units used)
 Manure SoIids Content mount reported in tons).
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 160
+=== Page 160 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -5054,7 +5054,7 @@ Manure apy as , or Cubic Yards (indicate which units used)
 Manure SoIids Content amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 161
+=== Page 161 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -5097,7 +5097,7 @@ Manure a as A Gon) or Cubic Yards (indicate which units used)
 Manure SoIids Content (amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 162
+=== Page 162 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -5143,7 +5143,7 @@ Manure SoIids Content4mount reported in tons)
 Manure Density (if amount reported in cubic yards)
 eee
 
-PDF PAGE BREAK 163
+=== Page 163 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -5190,7 +5190,7 @@ Manure SoIids Content (amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 oe
 
-PDF PAGE BREAK 164
+=== Page 164 ===
 
 Attachment D Dp-2
 Waste Discharge Requirements General Order No. R5-2007-0035

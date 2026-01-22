@@ -37,7 +37,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -86,7 +86,7 @@ Yes. Number of discharges occurred (see Attachment H).
 
 An NOVATIVE 4G SERVICES
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Valadao Dairy 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -143,7 +143,7 @@ BB INNOVATIVE ac services
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Valadao Dairy 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -193,7 +193,7 @@ MA INNOVATIVE ac services
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: E72B5EC8-D39A-423B-8B4B-A1ABC975A6E8
 
 Valadao Dairy 2023
@@ -237,7 +237,7 @@ Title and Date
 
 By INNOVATIVE ac services
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Valadao Dairy 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -277,7 +277,7 @@ BA INNOVATIVE ac services
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -310,7 +310,7 @@ MA NNovative AG SERVICES
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -365,7 +365,7 @@ Season Nitrogen Ratio:
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -413,7 +413,7 @@ MAINNOVATIVE 4c services
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -439,7 +439,7 @@ Season Nitrogen Ratio: 0.84 Lbs Per Acre; 202 39 314 2,596 239
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -474,7 +474,7 @@ MA NNovative AG SERVICES
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -519,7 +519,7 @@ MA Nnovative AG SERVICES
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -556,7 +556,7 @@ Bh INNOVATIVE ac services
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -595,7 +595,7 @@ BAINNOVATIVE ac services
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -628,7 +628,7 @@ MA NNovative AG SERVICES
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -653,7 +653,7 @@ Season Nitrogen Ratio: 0.55 Lbs Per Acre; 193
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -692,7 +692,7 @@ Extracted
 10,894
 
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -721,7 +721,7 @@ MA novative AG SERVICES
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -762,7 +762,7 @@ Season Nitrogen Ratio:
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -804,7 +804,7 @@ Lbs Per Acre;
 
 MA NNovative AG SERVICES
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -842,7 +842,7 @@ MA Nnovative AG SERVICES
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -874,7 +874,7 @@ MA INNOVATIVE ac services
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -935,7 +935,7 @@ MA NNovative AG SERVICES
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -970,7 +970,7 @@ BAI INNOVATIVE ac services
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1008,7 +1008,7 @@ MA INNovative AG SERVICES
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1040,7 +1040,7 @@ MA INNOVATIVE ac services
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1076,7 +1076,7 @@ Season Nitrogen Ratio: Lbs Per Acre;
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1131,7 +1131,7 @@ Season Nitrogen Ratio: Lbs Per Acre:
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1162,7 +1162,7 @@ Season Nitrogen Ratio: 309
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1204,7 +1204,7 @@ Lbs Per Acre;
 MA nnovative AG SERVICES
 
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1259,7 +1259,7 @@ MA NNovative AG SERVICES
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1281,7 +1281,7 @@ Season Notes: Fallow.
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1318,7 +1318,7 @@ MM NNovaATIVE AG SERVICES
 
 Page 32
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Valadao Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1396,7 +1396,7 @@ Page 33
 
 | NOVATIVE AG SERVICES
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Valadao Dairy 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -1426,7 +1426,7 @@ BBINNOVATIVE ac services
 
 Page 34
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Valadao Dairy 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -1461,7 +1461,7 @@ BBB INNOVATIVE ac services
 Page 35
 
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Valadao Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1503,7 +1503,7 @@ MAINNovative AG SERVICES
 
 Page 36
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Valadao Dairy 2023 ;
 Lab Results Summary (Attachment E)
 
@@ -1534,7 +1534,7 @@ MA NNovative AG SERVICES
 
 Page 37
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Valadao Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1565,7 +1565,7 @@ INNOVATIVE ac services
 
 Page 38
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Valadao Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1589,7 +1589,7 @@ MA INNovative AG SERVICES
 
 Page 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Valadao Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1622,7 +1622,7 @@ BA INNOVATIVE ac services
 
 Page 40
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 * NH4N was non-detectable unless a value is shown
 
 Valadao Dairy 2023
@@ -1636,7 +1636,7 @@ Field Sample Date: PO4P
 MM INNOVATIVE Ac services
 Page 41
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Valadao Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1671,7 +1671,7 @@ Field: 7
 
 Page 42
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Valadao Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1703,7 +1703,7 @@ Field: 13
 
 Page 43
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Day January
 1 Light
 2 Light
@@ -2107,7 +2107,7 @@ None
 Light
 None
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2189,7 +2189,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ENVIRONMENTAL AGRICULTURA
 
 Analytical Chemists
@@ -2246,7 +2246,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2285,7 +2285,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 ENVIRONME AGRIC
 
 ytical Chemists
@@ -2355,7 +2355,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 April 11, 2023
 
 Innovative Ag Services, LLC CSG SUNS Neat
@@ -2419,7 +2419,7 @@ ND : Non-detect - Result was below the DQO listed for the analyte.
 
 Page 5 of 5 Page 5 of 5
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 D:# 029%
 
 SITE NAME: aN
@@ -2509,7 +2509,7 @@ Total Samples:
 
 ‘THE PRINTER INC. - 559-992-5127
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 ENVIRONMENTAL
 
 Analytical Cher
@@ -2585,7 +2585,7 @@ CA ELAP Certification No. 1573
 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 IRONMENTAL— AGRICULTU
 
 Analytical Chemi:
@@ -2627,7 +2627,7 @@ CAELAP Certification No, 1573
 “AX:
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 ENVIRONMENTAL
 Analytical Che
 
@@ -2662,7 +2662,7 @@ CA ELAP Certification No, 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Ana! al Chemists
@@ -2710,7 +2710,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 7 Laboratory Analysis Work Order N° 40363
 
 w:# 0223 o B90 Laboratory: EG.
@@ -2776,7 +2776,7 @@ TABORATORY USE ONLY Ja
 THE PRINTER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 AGRICUL)
 
 September 14, 2023
@@ -2850,7 +2850,7 @@ CAELAP Certification No. 1573
 FAX: (530)343-3807 FAX: (805)783-2912 FAX; (559)734-8435
 ‘A ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 ENVIRONMENT: AGRICULT
 
 Analytical Chemists
@@ -2893,7 +2893,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 ENVIRONMENTAL AGRICULTU
 
 Analytical Chemists
@@ -2959,7 +2959,7 @@ TEL: (805)382-2000 TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL:
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Laboratory Analysis Work Order N° 41268
 
 w:# 0 323 QBS CeO aporatory: FGL
@@ -3009,7 +3009,7 @@ a
 
 ‘THE PANTER INC, « 559-992-5127
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 ENVIRONMENTAL
 
 November 7, 2023
@@ -3083,7 +3083,7 @@ CA ELAP Certification No. 1673
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 ENVIRONMENT: AGRICULTU
 
 Analytical Chemists
@@ -3133,7 +3133,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 AGRICULTURAL
 
 ENVIRONMEN
@@ -3203,7 +3203,7 @@ Santa Paula, CA 93060 Stockton, CA 95215 Chico, CA 95926 San Luis Obispo, CA 934
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 V/\\ Laboratory Analysis Work Order N° 41632
 
 ID: #0323 D447 {2 | LABORATORY: 762
@@ -3283,7 +3283,7 @@ Gls We 70/16/23 110 U
 
 ‘THE PRINTER INC. - 559-992-5127
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 ENVIRONMENT, AGRICULTURAL
 
 Analytical Chemists
@@ -3356,7 +3356,7 @@ CAELAP Certification No. 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 ENVIRONMEN
 
 November 21, 2023
@@ -3397,7 +3397,7 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 L
 
 ENVIRONMENTAL AGRICULTURAL
@@ -3455,7 +3455,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 ENVIRONMENTA AGRICULTURAL
 
 Analytical Chemists
@@ -3520,7 +3520,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 November 21, 2023
 
 Innovative Ag Services, LLC Lah i ediinicagal
@@ -3584,7 +3584,7 @@ Les mg/L 11.22 96.1% 80-120
 
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 November 21, 2023
 
 Innovative Ag Services, LLC polio eNLEBATSHY
@@ -3625,7 +3625,7 @@ on the LCS or CCV recovery.
 
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 ID:#_ (2323
 SITE NAME: \/Atapho Daw
 
@@ -3727,7 +3727,7 @@ THE PRINTER INC, - §59-992-5127
 
 Ivo
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3803,7 +3803,7 @@ CA ELAP Certification No. 1573
 FAX: (559)734-8435
 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 ENVIRONMENTAL AGRICUL
 
 Analytical Chemists
@@ -3846,7 +3846,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No, 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 ENVIRONMENTAL = AGRICULTURAL
 
 Analytical Chemists
@@ -3912,7 +3912,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Laboratory Analysis Work Order N° 42044
 
 : DS4 7722
@@ -3960,7 +3960,7 @@ CHAIN OF CUSTODY RECORDING
 
 fE PARITER INC. - $59-992-5127
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -4033,7 +4033,7 @@ CA ELAP Certification No. 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 AGRICULTURAL
 
 tical Chemists
@@ -4080,7 +4080,7 @@ CA ELAP Certification No. 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -4129,7 +4129,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX; (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 Laboratory Analysis Work Order N° 42240
 
 :# 0323 2346789 Laporatory: FGL
@@ -4188,7 +4188,7 @@ Logged In By: ib
 E PAINTER INC. - 559-992-5127
 
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 December 18, 2023
 
 Lab No. : VI 2348142
@@ -4259,7 +4259,7 @@ CAELAP Certification No. 1573 ci
 
 ‘A ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No, 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 ENVIRONMENTAL AGRICULTURAL
 
 December 18, 2023
@@ -4300,7 +4300,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 ENVIRONMENTAL
 
 Analytical Chemists
@@ -4371,7 +4371,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX; (209)942-0423 FAX: (530)343-
 
 CAELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 IZ Laboratory Analysis Work Order N° 42123
 ID:#_ 0323 CONS! LABORATORY: _F6¢.
 

@@ -11,7 +11,7 @@ L NF CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation H Date
 oamanon tte
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 8/1/2023
@@ -35,7 +35,7 @@ Home Phone Number
 CeIl Phone Number
     X Jere if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 pT ntcoms T oncom ree mes,
@@ -60,7 +60,7 @@ Total nitrogen generated ibs
 . lbs
 Total saIt (TDS) generated . tbs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 ee
@@ -81,14 +81,14 @@ a ELEC EE (
 CS CO (ASUS OO
 CC C SSCCNCCTotal Crop Acres 28.00
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 J Doma Groundwater Sid SSCS
 J Dom Groundwater SSidSSSSCSCSN
 J Dom 3 Groundwater SSd SSCS
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 e-edme e ni TR Sere , - it on Loe ae . . uk
 re a ee ee ee eee
@@ -113,7 +113,7 @@ DetectabIe Limits
 VaIley Tech 0.109 0.054 0.014 0.019 0.05
 DeIlavaIie 0.001 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 __-Crop- ) Moist. 96. - N96 4) TP. TKS. he SaIta el PES 1 SampIe 2 iw Dates shs.- Source.
 peIi fs. FatIow PT Tatwaystatiow)
@@ -139,7 +139,7 @@ VaIley Tech 0.10 0.05 0.01 0.014 0.059
 
 DeIlavaIle 0,0019 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 Harvest Moisture N . SaIt Reporting
@@ -162,7 +162,7 @@ Po_OLO Sa SC Cd
 DetectabIe L VaIley Tech 0.10 0.05 0.014 0.01 0.054
 DeIlavaIle 0.001 0.019 0.01 0.003 0.001
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Harvest ny. (Moisture aye o xeetes 0 Parr gs tay cosa 3 3 es Roporting
 
@@ -200,7 +200,7 @@ a RS RS
 DetectabIe L VaIley Tech 0.104 0.05 0.01 0.014 0.054
 DeIlavatIe 0.001 0.01 0.01 0.0039 0.0019
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -245,7 +245,7 @@ FGL Enviromental o Uy) oO 0 a a Oo Q 0 oO 0 oO
 
 VaIley Tech Od 41 NR NR NR NR WR NR NR NR NR NR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 _ Soil AnaIysis (Winter)
 a Ba og Pe Sr Pt Pa BE ay a 7s 4
@@ -281,7 +281,7 @@ VaIley Tech 0.4 0.1
 
 DeIlaVaIle 0.1 04 14 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 ecu Es mereane indyeg)t foIie eal merci lasriys - RoR fara ay 2 Febader Bd PIsbabett a
@@ -304,7 +304,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.1
 DeIlaVatIe 0.1 01 11 0.2 0.0015 0,0001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -318,7 +318,7 @@ Type of Manure _ /
 FieId Name As ls / Dry Weight .
     3 __ AppIied... s/ Dry een Z
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 ES CO
@@ -340,7 +340,7 @@ DetectabIe Limits
 VaiIey Tech 0.01 0.02 0.02
 DeIlavaIle 0.01 0.019 0,0034 0.001 0.001 9.001 0.001 0.000 0.0019 0.0019
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Nutrient AppIications
 FieId Name/Number FieId 1 Acres 23.00
@@ -381,7 +381,7 @@ TotaIss _ oo a
 Ory Weight
 As Received
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 FIeld Name/Number. FieId 1 Actes 23
 a a TT SS A SOY
@@ -413,7 +413,7 @@ Atm. Depos. Yes 70
 5. PIanting aN/A
 S. Harvest - aN/A T/Ac AN/A BN/A aN/A
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Bow RMS
 Shee es Se ES Bee SAGAS ea Ee Stee 5 32 oe yer ot So Shek ET Tero ow He
@@ -472,7 +472,7 @@ piaeee Se 4k ARES se ea cae ets
 WES S TN Ewen e me Sy Lape z - ane . nt e
 ee ae Es rs Bows 3 Sin ae site eg
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 ww
 2 5
@@ -567,7 +567,7 @@ E RJ
 5
 8 2 E
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 ee By oT ee ge ee x a
 2 steht tage Nit a EE weet oe tg tet
@@ -630,11 +630,11 @@ wee Tie eh OE Deter tie thaws Be, - a)
 wpe VSS eee ee oe UE SNES ee 2 Ee 2-3 DOT a
 _ - bee bie Geo ME ery cas ot it - Saabs ag eek ae oe - ae re 4 a 2 t yy
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 N B/ Livingston Dairy ConsuIting, Inc.
                                                            FIELD ACTIVITY REPORT
@@ -653,11 +653,11 @@ Wh O px Va
 SampIe Preservation Method (Circte one) Ice Chest _ Refrigerator ice Pack
 Y Livingston Dairy ContuIing, Inc. 2020
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 l
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
                                                                                       AnaIytical Chemists
@@ -705,7 +705,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (859)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP CarIification No. 2810
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 GL
 ENVIRONMENTAL F AGRICULTURAL
@@ -745,7 +745,7 @@ TEL (808)392-2000 TEL (209)942-0182 TEL (630)249-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (605)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1663 GA ELAP Certification No. 2670 CA ELAP Certification No. 2775 GA ELAP Certification No. 2810
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 ENVIRONMENTAL 22 AGRICULTURAL
 AnaIytical Chemists
@@ -782,7 +782,7 @@ TEL (805)392-2000 TEL (209)842-0182 TEL (530)343-5618 TEL (805)783-2940 TEL (559
 Env FAX (805)525-41 72 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (559)9734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 GAELAP Certification No. 2670 GA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -826,7 +826,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (659
 Env FAX (805)525-41472 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Contification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 GA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 dim
 FGL
@@ -880,7 +880,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)734-8435
 CA ELAP Certification No. 1573 CAELAP Ceriification No. 1863 CAELAP Gertiication No, 2670 GA ELAP ContiIication No. 2775 CAELAP CertiIeation No, 2810
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 june 27, 20)
 J 23 Lab No. VIL. 2343453
@@ -937,7 +937,7 @@ MS mg/L 5.609 90.4 66-125
 (SP 2309747-002) MSD mg/L 5.609 91.2 66-125
 Page 6 of 7 Page 6 of 7
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 june 27, 2023 et memeen bot tIe
 Liviogeton Dairy ConsuIting, Inc. Lab No 2 iM 2363493 2 CO TESptoperars,
@@ -955,7 +955,7 @@ MSRPD MS/MSD ReIative Percent Difference (RFD) - The MS eIative percent differsi
 440 SampIe nonhomogensity may be affecting this anaIyte. Data was accepted based en the LCS or CCV recovery,
 Page 7 of 7 - Page 7 of 7
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Q
 hs) . - z 2
@@ -1036,7 +1036,7 @@ a 8 a 3 8 2 2 Z
 . EE FESE Se FE) sIes)-lml-l--lel-leIolsE
 Oo EOmk & OB &8G64aIs2 g
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Datez 10/09/14 Page 1 of 1 .
@@ -1088,7 +1088,7 @@ comecta) nn Penk OF tis sheet for ation na re
 contacts) UI 2343455 eee _
 234 Bus 4
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 &
 2
@@ -1098,7 +1098,7 @@ PDF PAGE BREAK 31
 .
 . .
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -1141,7 +1141,7 @@ and the method used to caIcuIate the amount-
 Manure SoIids Content (if amount reported in tons) 908.59 fons
                                 Manure Density (if amount reportedincubic yards)_
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 ) D-2
 AItachment D
@@ -1171,7 +1171,7 @@ imprisonment for knowing vioIations. p
 Operators Signature fa feast _ Date_0-19-23
 HauIers snare ALAA. fh aby Date 10-17-93
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -1215,7 +1215,7 @@ Manure SoIids Content (if amount reported in tons) WES tons
 Manure Density (if amount reported in cubic yards)
 _
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 l Attachment D D-2
 Waste Discharge Requirements General Order No. R5-2007-0035

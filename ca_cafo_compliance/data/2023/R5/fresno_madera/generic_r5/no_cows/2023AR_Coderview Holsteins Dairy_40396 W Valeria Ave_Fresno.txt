@@ -47,7 +47,7 @@ This owner is responsible for paying permit fees.
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 47
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -86,7 +86,7 @@ Shop Ground water
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 2 of 47
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -141,7 +141,7 @@ N (%) P (%) K (%) Salt (%)
 0.1 55.000000 5.000000 40.000000 0.000000
 Page 3 of 47
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -177,7 +177,7 @@ Field name: 101
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 4 of 47
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -291,7 +291,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 5 of 47
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 228
@@ -323,7 +323,7 @@ Field name: 368
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 6 of 47
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 368
@@ -355,7 +355,7 @@ Field name: 400
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 7 of 47
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -450,7 +450,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 8 of 47
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 74
@@ -487,7 +487,7 @@ Total actual harvest content 10.00 316.00 64.00 366.00 864.00
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 9 of 47
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -590,7 +590,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 10 of 47
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 900
@@ -612,7 +612,7 @@ Total actual harvest content 48.00 3,388.80 307.20 2,006.40 7,949.76
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 11 of 47
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -732,7 +732,7 @@ Salt (Ibs/acre) Amount
 
 Page 12 of 47
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -771,7 +771,7 @@ Crop: Corn, silage Plant date: 04/17/2023
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 13 of 47
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -988,7 +988,7 @@ Salt (Ibs/acre) Amount
 
 Page 14 of 47
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1026,7 +1026,7 @@ Application event totals 0.00 0.00 0.00 57.11
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 15 of 47
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1064,7 +1064,7 @@ Application event totals 0.00 0.00 0.00 118.87
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 16 of 47
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1296,7 +1296,7 @@ Salt (Ibs/acre)
 
 Page 17 of 47
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1444,7 +1444,7 @@ Precipitation 24 hours following
 
 Page 18 of 47
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1480,7 +1480,7 @@ No nutrient budget entered for this crop.
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 19 of 47
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1519,7 +1519,7 @@ Crop: Alfalfa, hay Plant date: 10/01/2022
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 20 of 47
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1753,7 +1753,7 @@ Salt (Ibs/acre)
 
 Page 21 of 47
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1791,14 +1791,14 @@ Application event totals 0.00 0.00 0.00 40.61
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 22 of 47
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 47
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1890,7 +1890,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 24 of 47
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1945,7 +1945,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 25 of 47
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2025,7 +2025,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 26 of 47
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2182,7 +2182,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 27 of 47
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2221,7 +2221,7 @@ Applied to removed ratio 0.90 0.00 0.00 0.48
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 28 of 47
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2372,7 +2372,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 29 of 47
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2463,7 +2463,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 30 of 47
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2515,7 +2515,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 31 of 47
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2571,7 +2571,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 32 of 47
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2630,7 +2630,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 33 of 47
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2686,7 +2686,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 34 of 47
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2821,7 +2821,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 35 of 47
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2952,7 +2952,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 36 of 47
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3042,7 +3042,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 37 of 47
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -3086,7 +3086,7 @@ DL 20.00 0.57 0.57 0.04 0.01 0.10 1
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 38 of 47
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3126,7 +3126,7 @@ REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS
 
 Page 39 of 47
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3168,7 +3168,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 Page 40 of 47
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Parsin Canal
@@ -3205,7 +3205,7 @@ No subsurface (tile) drainage analyses entered.
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 41 of 47
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -3243,7 +3243,7 @@ N Pp K salt
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 42 of 47
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3331,7 +3331,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 43 of 47
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -3376,7 +3376,7 @@ wastewater that are new or were revised within the reporting period?
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 44 of 47
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -3388,7 +3388,7 @@ No notes entered for this annual report.
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 45 of 47
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ANNUAL REPORT VALIDATION INFORMATION
@@ -3402,7 +3402,7 @@ The following sections contain validation errors and should be reviewed before s
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 46 of 47
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -3424,7 +3424,7 @@ DATE DATE
 Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | San Joaquin River Basin
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 47 of 47
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -3459,7 +3459,7 @@ Coderview Holsteins | 40396 W Valeria | Dos Palos, CA 93620 | Fresno County | Sa
 
 07/10/2024 16:41:02 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 1
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -3511,7 +3511,7 @@ www.BSKAssociates.com = —§£——— Page 1 of 29
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 ~ AGF 1167
 
 RB5 Surface
@@ -3552,7 +3552,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 2 of 29
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 AGF1167
 
 RB5 Surface
@@ -3573,7 +3573,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 3 of 29
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 AGF1167
 
 RB5 Surface
@@ -3593,7 +3593,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 4 of 29
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 AGF1167
 
 RB5 Surface
@@ -3627,7 +3627,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 5 of 29
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 AGF1167
 
 RB5 Surface
@@ -3647,7 +3647,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 6 of 29
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 ASSOCIATES
 
 Sample ID: AGF1167-05
@@ -3687,7 +3687,7 @@ AGF1167 FINAL 07052023 1754
 
 www.BSKAssociates.com = =———— Page 7 of 29
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 ASSOCIATES
 
 Sample ID: AGF1167-06
@@ -3736,7 +3736,7 @@ www.BSKAssociates.com
 
 Page 8 of 29
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 AGF1167
 
 RB5 Surface
@@ -3810,7 +3810,7 @@ www.BSKAssociates.com = —§£——— Page 9 of 29
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 AGF1167
 RB5 Surface
 
@@ -3886,7 +3886,7 @@ www.BSKAssociates.com = —§£——— Page 10 of 29
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 AGF1167
 
 RB5 Surface
@@ -3946,7 +3946,7 @@ www.BSKAssociates.com = —§£——— Page 11 of 29
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 AGF1167
 RB5 Surface
 
@@ -4012,7 +4012,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 12 of 29
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 AGF 1167
 
 RBS Surface
@@ -4052,7 +4052,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 13 of 29
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 AGF 1167
 
 RB5 Surface
@@ -4079,7 +4079,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = =———— Page 14 of 29
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -4110,7 +4110,7 @@ AGF1167 FINAL 07052023 1754
 
 www.BSKAssociates.com = =———— Page 15 of 29
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 AGF1167 — frank8125 06/08/2023
 
 weet et MI
@@ -4207,7 +4207,7 @@ Scanned: ( LA ) Rush/Short HT Page: Time:
 Page 16 of 29
 
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 ~
 K 1414 Stanislaus St., Fresno, CA 93706
 (559) 497-2888 - Fax (559) 497-2893
@@ -4294,7 +4294,7 @@ can be found at www, bskassociates.com/BSKLabTermsConditions pat
 SR-FL-0012-07
 
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 2527 Fresno Street
 
 MOORE TWINING Fresno, CA 93721
@@ -4335,7 +4335,7 @@ Client Services Representative
 
 Page 18 of 29
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4358,7 +4358,7 @@ Danielle Abrames, Director of Analytical Chemistry chain of custody document. Th
 entirety.
 Page 19 of 29
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4385,7 +4385,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4412,7 +4412,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4439,7 +4439,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4466,7 +4466,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 2527 Fresno Street
 
 Ge AMoore TWINING Freene CASST2I
@@ -4490,7 +4490,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 Ge AMoore TWINING aerene casarei
 
 (559) 268-7021 Phone
@@ -4557,7 +4557,7 @@ chain of custody document. This analytical report must be reproduced in its
 
 Danielle Abrames, Director of Analytical Chemistry
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 (559) 268-7021 Phone
 
 GeAMoore TWINING aerene casarei
@@ -4586,7 +4586,7 @@ Danielle Abrames, Director of Analytical Chemistry chain of custody document. Th
 entirety.
 
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 SENDING LABORATORY:
 
 " BSK Associates Laboratory Fresno
@@ -4653,7 +4653,7 @@ m
 Pad
 
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 SUBCONTRACT ORDER
 
 AGF1167 vb 2 Ss FO4UO/O
@@ -4664,7 +4664,7 @@ Page 2 of 2
 Page 28 of 29
 
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 vb
 
 ON S2A
@@ -4720,7 +4720,7 @@ Ja92y S3}10g
 pan
 
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -4786,7 +4786,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 1 of 10
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -4848,7 +4848,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 2 of 10
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -4903,7 +4903,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 3 of 10
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 Preliminary Dairy Facility Assessment Report
 
 General Order No. R5-2007-0035
@@ -4959,7 +4959,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 4 of 10
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 Preliminary Dairy Facility Assessment Report
 
 General Order No. R5-2007-0035
@@ -5087,7 +5087,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 Page 5 of 10
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -5113,7 +5113,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 6 of 10
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -5161,7 +5161,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 7 of 10
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -5210,7 +5210,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 8 of 10
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 
@@ -5255,7 +5255,7 @@ Plan will provide you with more detailed and precise calculations upon which to 
 
 07/10/2024 Page 9 of 10
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 Preliminary Dairy Facility Assessment Report
 General Order No. R5-2007-0035
 

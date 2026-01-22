@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 28
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ Irr. Well 47 Ground water
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 2 of 28
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -97,7 +97,7 @@ Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare
 
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 3 of 28
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -126,7 +126,7 @@ Total actual harvest content 20.21 231.13 59.92 301.04 1,697.78
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 4 of 28
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -157,7 +157,7 @@ Total actual harvest content 28.49 235.45 42.81 219.40 964.98
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 5 of 28
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -172,7 +172,7 @@ Total actual harvest content 0.00 0.00 0.00 0.00 0.00
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 6 of 28
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -204,7 +204,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 7 of 28
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -236,7 +236,7 @@ Application event totals 0.00 0.00 0.00 55.56
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 8 of 28
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -276,7 +276,7 @@ Application event totals 89.77 32.72 192.80 642.83
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 9 of 28
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -310,7 +310,7 @@ Application event totals 0.00 0.00 0.00 59.14
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 10 of 28
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -344,7 +344,7 @@ Application event totals 0.00 0.00 0.00 45.32
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 11 of 28
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -369,7 +369,7 @@ Application event totals 0.00 0.00 0.00 45.32
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 12 of 28
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -404,7 +404,7 @@ Applied to removed ratio 1.25 1.43 2.00 2.40
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 13 of 28
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -438,7 +438,7 @@ Applied to removed ratio 1.26 1.74 2.11 4.07
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 14 of 28
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -473,7 +473,7 @@ Applied to removed ratio 1.29 1.32 1.74 1.69
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 15 of 28
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -506,7 +506,7 @@ Applied to removed ratio 1.25 1.68 1.98 3.72
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 16 of 28
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -540,7 +540,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 17 of 28
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -573,7 +573,7 @@ DL 10.00 2.00 0.10 0.10 0.20 0.50 100.00 10
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 18 of 28
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -608,7 +608,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 19 of 28
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -636,7 +636,7 @@ E. PLANT TISSUE ANALYSES
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 20 of 28
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -667,7 +667,7 @@ DL 500.00 200.00 200.00 0.05
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 21 of 28
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -684,7 +684,7 @@ No subsurface (tile) drainage analyses entered.
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 22 of 28
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -732,7 +732,7 @@ Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare
 
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 28
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -763,7 +763,7 @@ Ibs Ibs
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 24 of 28
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -793,7 +793,7 @@ wastewater that are new or were revised within the reporting period
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 25 of 28
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -809,7 +809,7 @@ Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare
 
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 26 of 28
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -823,7 +823,7 @@ The following sections contain validation errors and should be reviewed before s
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 27 of 28
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No, R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ re. eee
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 1406.23 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 28 of 28
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -865,7 +865,7 @@ Storm Water Reporting Section on page MRP-14.
 Simoes Sandlin Family Farms 10254 Ave. 184 Tulare, CA 93274 Tulare County Tulare Basin
 06/11/2024 140623 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 1
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -912,7 +912,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -947,7 +947,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1004,7 +1004,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Toe,
 a) )
@@ -1053,7 +1053,7 @@ GaLFIdNO9 AG OLSISATVNY 2
 96961-7194 P LA ANOLVEORYT (i ag alr Tada JINVN JLIS
 9v0e TL/hHALE sapiQ YAM sishjeuy As0yes0qGe7
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 FGL Environmental Doe BD 3D0900002_SOP_12.DOC ,
 Revision Date 10/09/14 Page 1 of 1
@@ -1106,7 +1106,7 @@ iv 06/24709 He
 contacts) _ or ae cl 1
 ST rer
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1154,7 +1154,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 FGE
 ENVIRONMENTAL AGRICULTURAL
@@ -1200,7 +1200,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1256,7 +1256,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 January 2, 2024
 . Lab No. VI 2348249
@@ -1314,7 +1314,7 @@ MS mg/L 12.00 89.3 90-110 435
 MSRPD- mg/L 0.6 320
 Page 4 of 5 Page 4 of 5
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Definition
 
@@ -1340,7 +1340,7 @@ Explanation
 
 Page 5 of 5 Page 5 of 5
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
   Laboratory Analysis Work Order Pagop 3469
 SITENAME Su pes Sand/y LABORATORY VT_ FGL4-19696-
@@ -1388,7 +1388,7 @@ We A Eee ID, DO
 LABORATORY USE ONLY 7yY
 - sid oO
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of 1

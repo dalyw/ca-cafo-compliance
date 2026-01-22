@@ -15,7 +15,7 @@ C van S PO BOX 906
 NEWMAN CA 95360
 
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 DAIRY FACILITY INFORMATION
@@ -66,7 +66,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 1 of 47
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -103,7 +103,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 2 of 47
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -137,7 +137,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 3 of 47
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -214,7 +214,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 4 of 47
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 1
@@ -253,7 +253,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 5 of 47
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -294,7 +294,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 6 of 47
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5/6
@@ -333,7 +333,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 7 of 47
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -354,7 +354,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 8 of 47
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -392,7 +392,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tulare Basin
 07/01/2024 12:26:34 Page 9 of 47
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -647,7 +647,7 @@ Amount
 
 Page 10 of 47
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -827,7 +827,7 @@ Salt (Ibs/acre) Amount
 
 Page 11 of 47
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1073,7 +1073,7 @@ Amount
 
 Page 12 of 47
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1256,7 +1256,7 @@ Salt (Ibs/acre) Amount
 
 Page 13 of 47
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1473,7 +1473,7 @@ Amount
 
 Page 14 of 47
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1510,7 +1510,7 @@ Application event totals 104.22 11.75 130.34 552.02
 Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tulare Basin
 07/01/2024 12:26:34 Page 15 of 47
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1685,7 +1685,7 @@ Salt (Ibs/acre) Amount
 
 Page 16 of 47
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1868,7 +1868,7 @@ Precipitation 24 hours following
 
 Page 17 of 47
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2054,7 +2054,7 @@ Salt (Ibs/acre)
 
 Page 18 of 47
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2135,7 +2135,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 19 of 47
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2171,7 +2171,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 20 of 47
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2191,7 +2191,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 21 of 47
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2289,7 +2289,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 22 of 47
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2387,7 +2387,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 23 of 47
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2511,7 +2511,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 24 of 47
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2549,7 +2549,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 25 of 47
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2620,7 +2620,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 26 of 47
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2656,7 +2656,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 27 of 47
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2756,7 +2756,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 28 of 47
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2793,7 +2793,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 29 of 47
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2847,7 +2847,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 30 of 47
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2998,7 +2998,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 31 of 47
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3036,7 +3036,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 32 of 47
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -3080,7 +3080,7 @@ DL 0.01 0.01 0.01 0.01 0.01 0.01 10.00 1
 Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tulare Basin
 07/01/2024 12:26:34 Page 33 of 47
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3121,7 +3121,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 34 of 47
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -3162,7 +3162,7 @@ DL 0.01 0.01 0.01 10.00 1
 Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tulare Basin
 07/01/2024 12:26:34 Page 35 of 47
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3210,7 +3210,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 36 of 47
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5/6
@@ -3252,7 +3252,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 37 of 47
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Orchard
@@ -3295,7 +3295,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 38 of 47
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 1 - 09/30/2022: Wheat, silage, soft dough
@@ -3349,7 +3349,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 39 of 47
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2/3 - 05/25/2023: Corn, silage
@@ -3404,7 +3404,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 40 of 47
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5/6 - 09/30/2022: Wheat, silage, soft dough
@@ -3458,7 +3458,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 41 of 47
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 New 6 - 05/25/2023: Corn, silage
@@ -3502,7 +3502,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 Page 42 of 47
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -3543,7 +3543,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 43 of 47
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3578,7 +3578,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 44 of 47
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -3624,7 +3624,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 45 of 47
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -3637,7 +3637,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 46 of 47
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -3663,7 +3663,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 47 of 47
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -3698,7 +3698,7 @@ Silveira Dairy | 11277 Avenue 21 1/2 | Chowchilla, CA 93610 | Madera County | Tu
 
 07/01/2024 12:26:34 Page 1 of 1
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -3767,7 +3767,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 01/01/2023
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -3812,7 +3812,7 @@ Thay Ry . . Date
 Hauler Signature Date
 
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -3881,7 +3881,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 03/13/2023
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -3927,7 +3927,7 @@ hay Oily CULL
 jauler Signature Date
 
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -3996,7 +3996,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 04/18/2023
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4043,7 +4043,7 @@ Hauler Signature Date
 Date
 
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4112,7 +4112,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 06/12/2023
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4157,7 +4157,7 @@ hay Wine
 jauler Signature Date
 
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4226,7 +4226,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 06/30/2023
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4271,7 +4271,7 @@ Ray Silvtina
 jauler Signature Date
 
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4340,7 +4340,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 07/12/2023
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4383,7 +4383,7 @@ Qehsunye cea ws
 ae Signature Date
 
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4452,7 +4452,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 08/10/2023
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -4497,7 +4497,7 @@ jauler Signature Date
 perator Signature Date
 
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 DELLAVALLE’ Report of Dairy Well Water Analysis
 Lab No.: 23L0731
 
@@ -4530,7 +4530,7 @@ A2LA Certification #6440.02
 
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 DELLAVALLE’ Report of Dairy Well Water Analysis
 
 LABORATORY INC Lab No.: 23L0731
@@ -4577,7 +4577,7 @@ EPA = Environmental Protection Agency methods used unless otherwise indicated.
 
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 2 of 2
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4649,7 +4649,7 @@ party interpretation.
 
 Page 1 of 10
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4729,7 +4729,7 @@ party interpretation.
 
 Page 2 of 10
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4757,7 +4757,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 10
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4785,7 +4785,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 10
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4876,7 +4876,7 @@ party interpretation.
 
 Page 5 of 10
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 SELLAVALLE™
 
 LABORATORY
@@ -4939,7 +4939,7 @@ Page 6 of 10
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5024,7 +5024,7 @@ Page 7 of 10
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5061,7 +5061,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 10
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 WIM ~
 
 12/12/23 15:53 23L0731
@@ -5142,7 +5142,7 @@ Amt Paid Rec By Check No. [ 1Yes [ ] No cttcupdate 2020
 
 Page 9 of 10
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Samples Preserved with HNO, or H,SO, were:
 
 Type of Container(s) Received
@@ -5223,7 +5223,7 @@ Asbestos - 1L P wrapped in foil (Set of 2)
 =
 
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 DELLAVALLE’ Report of Dairy Well Water Analysis
 
 LABORATORY INC Lab No.: 23L0775
@@ -5257,7 +5257,7 @@ A2LA Certification #6440.02
 
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 DELLAVALLE’ Report of Dairy Well Water Analysis
 
 LABORATORY INC Lab No.: 23L0775
@@ -5307,7 +5307,7 @@ EPA = Environmental Protection Agency methods used unless otherwise indicated.
 
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 2 of 2
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5381,7 +5381,7 @@ party interpretation.
 
 Page 1 of 13
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5408,7 +5408,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 13
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5436,7 +5436,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 13
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5463,7 +5463,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 13
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 SELLAVALLE™
 
 LABORATORY
@@ -5506,7 +5506,7 @@ party interpretation.
 
 Page 5 of 13
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 SELLAVALLE™
 
 LABORATORY
@@ -5549,7 +5549,7 @@ party interpretation.
 
 Page 6 of 13
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 SELLAVALLE™
 
 LABORATORY
@@ -5591,7 +5591,7 @@ party interpretation.
 
 Page 7 of 13
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5669,7 +5669,7 @@ party interpretation.
 
 Page 8 of 13
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5702,7 +5702,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 13
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5790,7 +5790,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 10 of 13
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5827,7 +5827,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 11 of 13
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 Wnt
 
 —
@@ -5908,7 +5908,7 @@ Check No. [ 1Yes [I ] No ct update 2020
 
 Page 12 of 13
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 Shipping Information: Shipped Ino Picked-Upo Walkin DLI Samplero Other o
 Container: Ice Chest Refrigerant: Wetlcet’ Bluelceo Noneo
 

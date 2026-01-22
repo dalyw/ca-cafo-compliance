@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 1 of 14
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -62,7 +62,7 @@ P-2C Ground water
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 2 of 14
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -86,7 +86,7 @@ Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 03/13/2024 20.0838 Page 3 of 14
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -103,7 +103,7 @@ No appIication area fieIds entered.
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 4 of 14
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -120,7 +120,7 @@ Mattos Bro. 44 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 03/13/2024 200838 Page 5 of 14
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -153,7 +153,7 @@ DL 10.00 2.00 2.00 2.00 0.20 0.50 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.10 10
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 20.0838 Page 6 of 14
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -183,7 +183,7 @@ Canal
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 7 of 14
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -215,7 +215,7 @@ D. SOIL ANALYSES
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 20.0838 Page 8 of 14
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -240,7 +240,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 9 of 14
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -283,7 +283,7 @@ Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 03/13/2024 20.0838 Page 10 of 14
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -311,7 +311,7 @@ lbs lbs
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 11 of 14
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -341,7 +341,7 @@ wastewater that are new or were revised within the reporting period
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 12 of 14
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -361,7 +361,7 @@ Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 03/13/2024 200838 Page 13 of 14
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -377,7 +377,7 @@ DATE DATE
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 14 of 14
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -406,7 +406,7 @@ Mattus Bro. 94 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 
 02/26/2024 17.37/54 Page 14 of 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -430,7 +430,7 @@ Storm Water Reporting Section on page MRP-14.
 Mattos Bro. 4 4555 Kansas AVE Hanford, CA 93230 Kings County TuIare Basin
 03/13/2024 200838 Page 1 of 1
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Roxey J AviIa Account 00-0024349 Received 01/24/2023 745
 740 S. Kazarian St. Account Manager Ben Nydam Reported 01/25/2023 1550
@@ -472,7 +472,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 6
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Roxey J AviIa Account 00-0024349 Received 01/24/2023 745
 740 S. Kazarian St. Account Manager Ben Nydam Reported 01/25/2023 1550
@@ -495,7 +495,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 6
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 T
 a
@@ -537,7 +537,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 6
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 T
 a
@@ -584,7 +584,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 6
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 01/24/23 07-45 23A0604 Zy
 DELLAVALLE LABORATORY, INC.
@@ -640,7 +640,7 @@ eee eanee _ SampIe received in cooIer with ice
 Amt Paid Rec By Check No. Date L Yes No ing update 2023
 Page 5 of 6
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 ) He
                        01/24/23 07.45 23A0604 ,
@@ -669,7 +669,7 @@ DOK
 Others Page 6 of 6
 jOther .
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Roxey J AviIa Account 00-0024349 Received 08/01/2023 751
 740 S. Kazarian St. Account Manager Ben Nydam Reported 08/03/2023 1022
@@ -710,7 +710,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Roxey J AviIa Account 00-0024349 Received 08/01/2023 751
 740 S. Kazarian St. Account Manager Ben Nydam Reported 08/03/2023 1022
@@ -732,7 +732,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 T
 a
@@ -773,7 +773,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 T
 a
@@ -826,7 +826,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 T
 Roxey J AviIa Account 00-0024349 Received 08/01/2023 751
@@ -851,7 +851,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 5
 . UNA
@@ -906,7 +906,7 @@ SampIe received in cooier with ice
 Amt Paid Rec By Check No. Date f Yes 1 J No mg-update 2022
 ,
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 TT .
 08/01/23 0751 23H0237
@@ -949,7 +949,7 @@ DO KIT a ee
                           q
 i
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
 740 S. Kazarian St. Account Manager Ben Nydam Reported 07/24/2023 1449
@@ -991,7 +991,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 11
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 SELLAVALLE
 
@@ -1029,7 +1029,7 @@ AIt resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 T
 a
@@ -1084,7 +1084,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 11
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
 740 S. Kazarian St. Account Manager Ben Nydam Reported 07/24/2023 1449
@@ -1106,7 +1106,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 11
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -1162,7 +1162,7 @@ AIf resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 a
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
@@ -1209,7 +1209,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 11
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 a
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
@@ -1263,7 +1263,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 11
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
 740 S. Kazarian St. Account Manager Ben Nydam Reported 07/24/2023 1449
@@ -1296,7 +1296,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 11
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 a
 Roxey J AviIa Account 00-0024349 Received 07/13/2023 745
@@ -1326,7 +1326,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 11
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 ce - MoM
        OUT
@@ -1384,7 +1384,7 @@ SampIe received in cooIer with ice
 Amt Paid Rec By Check No. Date L 1 Yes I 1 No mg update 2022
 Page 10 of 11
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 AY
        LE s
@@ -1429,7 +1429,7 @@ Other
 Ot TT sieerotngerentoreeniotier teoreiedneeincembeineqe cae aIt
    a ee con
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Roxey J AviIa Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1200
@@ -1473,7 +1473,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 8
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Roxey J AviIa Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1200
@@ -1496,7 +1496,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 8
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 T
 a
@@ -1549,7 +1549,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 8
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Roxey J AviIa Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1200
@@ -1580,7 +1580,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 8
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 a
 Roxey J AviIa Account 00-0024349 Received 05/09/2023 750
@@ -1621,7 +1621,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 8
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Roxey J AviIa Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1200
@@ -1652,7 +1652,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 8
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 q
        SL
@@ -1709,7 +1709,7 @@ SampIe received in cooter with ive
 Amt Paid Rec By Check No Date 1 1 Yes No mgcupaaic 2022
 Page 7 of 8
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 05/09/23 0750 2360697
  a...

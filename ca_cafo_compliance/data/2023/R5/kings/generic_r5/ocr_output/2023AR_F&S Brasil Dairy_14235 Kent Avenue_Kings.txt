@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 1 of 37
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -63,7 +63,7 @@ P-1 Ground water
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 2 of 37
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -99,7 +99,7 @@ F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/10/2024 133536 Page 3 of 37
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -132,7 +132,7 @@ FieId name F-14
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 4 of 37
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -158,7 +158,7 @@ FieId name F-3
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 5 of 37
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -184,7 +184,7 @@ FieId name F-6
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 6 of 37
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -210,7 +210,7 @@ FieId name F-8
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 7 of 37
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -225,7 +225,7 @@ Total actual harvest content 23.20 158.47 25.30 245.03 1,218.49
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 8 of 37
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -257,7 +257,7 @@ AppIication event totaIs 73.27 23.36 160.74 611.27
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 9 of 37
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -288,7 +288,7 @@ AppIication event totaIs 79.76 25.42 174.97 661.17
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 10 of 37
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -318,7 +318,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 11 of 37
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -350,7 +350,7 @@ AppIication event totaIs 71.83 31.72 165.64 1,239.03
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 12 of 37
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -381,7 +381,7 @@ AppIication event totaIs 70.12 14.11 87.38 580.64
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 13 of 37
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -412,7 +412,7 @@ AppIication event totaIs 85.65 27.30 187.89 710.01
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 14 of 37
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -446,7 +446,7 @@ Crop Sorghum-Sudangrass, forage PIant date 06/05/2023
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 15 of 37
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -478,7 +478,7 @@ AppIication event totaIs 61.59 27.20 142.02 1,073.50
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 16 of 37
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -509,7 +509,7 @@ AppIication event totaIs 76.46 24.37 167.73 635.82
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 13.3536 Page 17 of 37
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -531,7 +531,7 @@ AppIication event totaIs 0.00 0.00 0.00 45.32
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 18 of 37
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -567,7 +567,7 @@ AppIied to removed ratio 1.29 1.37 1.49 1.28
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 19 of 37
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -602,7 +602,7 @@ AppIied to removed ratio 1.31 1.87 1.67 1.96
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 20 of 37
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -635,7 +635,7 @@ AppIied to removed ratio 1.28 1.70 1.60 1.83
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 21 of 37
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -670,7 +670,7 @@ AppIied to removed ratio 1.35 2.41 1.70 1.94
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 22 of 37
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -704,7 +704,7 @@ AppIied to removed ratio 1.34 2.04 1.64 1.41
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 23 of 37
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -738,7 +738,7 @@ AppIied to removed ratio 1.36 2.67 1.91 1.89
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 24 of 37
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -772,7 +772,7 @@ AppIied to removed ratio 1.36 2.76 1.83 1.84
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 25 of 37
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -806,7 +806,7 @@ B. PROCESS WASTEWATER ANALYSES
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 26 of 37
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ DL 10.00 2.00 0.10 0.10 0.20 0.50 100.00 10
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 27 of 37
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -873,7 +873,7 @@ PeopIes Ditch- Hanford
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 28 of 37
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -900,7 +900,7 @@ F-2 - 06/05/2023. Sorghum-Sudangrass, forage
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 29 of 37
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -931,7 +931,7 @@ DL 500.00 200.00 200.00 0.05
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 30 of 37
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -962,7 +962,7 @@ DL 500.00 200.00 200.00 0.05
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 31 of 37
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -970,7 +970,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 32 of 37
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1019,7 +1019,7 @@ F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/10/2024 133536 Page 33 of 37
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1055,7 +1055,7 @@ lbs lbs
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 34 of 37
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1085,7 +1085,7 @@ wastewater that are new or were revised within the reporting period
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 35 of 37
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1101,7 +1101,7 @@ F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 
 06/10/2024 133536 Page 36 of 37
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. RS-2007-0035
 Reporting period 01/01/2023 fo 12/31/2023,
@@ -1120,7 +1120,7 @@ DATE DATE
 F&S Brasil 14315 Kent AVE j Hanford, CA 93230 Kings County TuIere Basin
 08/10/2024 133536 Page 37 of 37
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1144,7 +1144,7 @@ Storm Water Reporting Section on page MRP-14.
 F&S Brasil 14315 Kent AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 133536 Page 1 of 1
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1199,7 +1199,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -1234,7 +1234,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1291,7 +1291,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 S2 Laboratory AnaIysis Work Order 3058
 SITENAME _ Peo pIe 55 Diteh- Heats LABORATORY FGL 4-19696
@@ -1352,7 +1352,7 @@ Rot CLs 7119/4
 
 5.39C We 1100
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 - EGU Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -1404,7 +1404,7 @@ ee Vi 234465
 contacts
                         CAM
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Ez
 ENVIRONMENTAL AGRICULTURAL
@@ -1454,7 +1454,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1497,7 +1497,7 @@ TEL (805)392-2000 TEL (20999420182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1540,7 +1540,7 @@ TEL (805)392-2000 TEL (20999420182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1605,7 +1605,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 January 8, 2024
 . Lab No. VI 2348338
@@ -1647,7 +1647,7 @@ ExpIanation
 on the LCS or CCV recovery.
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 January 8, 2024
 . Lab No. 1 VI 2348338
@@ -1708,7 +1708,7 @@ MSRPD _ MS/MSD ReIative Percent Difference (RPD) - The MS reIative percent diffe
 anaIysis.
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 ag7 Laboratory AnaIysis Work me 3471
 SITENAME FaS Bresil LABORATORY -v- FGL 4-19696
@@ -1784,7 +1784,7 @@ GCOS 1tf/8 /3
 
 Mme 1239
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 - FGL Environmental Doc ID CUR.DOC
 Revision Date 10/10/23 Page 1 of 1

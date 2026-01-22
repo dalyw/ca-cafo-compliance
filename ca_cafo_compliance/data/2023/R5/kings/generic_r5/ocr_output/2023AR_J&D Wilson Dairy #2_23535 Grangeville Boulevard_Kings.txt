@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 1 of 72
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ Canal Surface water
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 2 of 72
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -85,7 +85,7 @@ J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Jo
 
 06/30/2024 09.1811 Page 3 of 72
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -120,7 +120,7 @@ FieId name 1
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 4 of 72
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -151,7 +151,7 @@ Total actual harvest content 14.53 100.77 10.42 67.76 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 5 of 72
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -182,7 +182,7 @@ Total actual harvest content 27.63 297.61 34.12 216.10 1,103.23
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 6 of 72
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -209,7 +209,7 @@ FieId name 22
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 7 of 72
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -235,7 +235,7 @@ FieId name 3
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 8 of 72
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -266,7 +266,7 @@ Total actual harvest content 15.77 129.81 14.67 72.24 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 9 of 72
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -297,7 +297,7 @@ Total actual harvest content 27.86 291.32 34.50 270.24 1,117.37
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 10 of 72
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -329,7 +329,7 @@ Total actual harvest content 15.84 127.46 15.49 116.74 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 11 of 72
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -344,7 +344,7 @@ Total actual harvest content 27.46 234.09 36.58 177.39 1,146.66
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 12 of 72
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -378,7 +378,7 @@ Crop Corn, siIage PIant date 06/01/2023
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 13 of 72
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -409,7 +409,7 @@ AppIication event totaIs 0.00 0.00 0.00 11.31
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 14 of 72
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -440,7 +440,7 @@ AppIication event totaIs 26.70 0.98 10.45 68.39
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 15 of 72
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -472,7 +472,7 @@ AppIication event totaIs 55.72 1.86 9.74 86.85
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 16 of 72
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -504,7 +504,7 @@ AppIication event totaIs 52.44 8.18 28.72 297.30
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 17 of 72
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -542,7 +542,7 @@ AppIication event totaIs 43.39 1.59 16.98 119.40
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 18 of 72
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -575,7 +575,7 @@ AppIication event totaIs 0.00 0.00 0.00 9.69
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 19 of 72
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -609,7 +609,7 @@ AppIication event totaIs 0.00 0.00 0.00 8.28
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 20 of 72
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -642,7 +642,7 @@ AppIication event totaIs 0.00 0.00 0.00 5.41
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 21 of 72
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -675,7 +675,7 @@ AppIication event totaIs 0.00 0.00 0.00 9.63
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 22 of 72
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -706,7 +706,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 23 of 72
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -737,7 +737,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 24 of 72
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -769,7 +769,7 @@ AppIication event totaIs 58.47 1.95 10.22 91.14
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 25 of 72
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -803,7 +803,7 @@ AppIication event totaIs 0.00 0.00 0.00 6.30
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 26 of 72
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -834,7 +834,7 @@ AppIication event totaIs 113.14 3.78 19.78 159.99
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 27 of 72
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -869,7 +869,7 @@ AppIication event totaIs 0.00 0.00 0.00 11.31
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 28 of 72
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -900,7 +900,7 @@ AppIication event totaIs 38.84 1.42 15.19 107.76
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 29 of 72
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -932,7 +932,7 @@ AppIication event totaIs 58.76 1.96 10.27 90.83
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 30 of 72
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -967,7 +967,7 @@ Crop Wheat, siIage, boot stage PIant date 11/01/2022
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 31 of 72
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -998,7 +998,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 32 of 72
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1029,7 +1029,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.33
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 33 of 72
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1060,7 +1060,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 34 of 72
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1091,7 +1091,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 35 of 72
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1122,7 +1122,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.19
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 36 of 72
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1149,7 +1149,7 @@ AppIication event totaIs 0.00 0.00 0.00 10.19
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 37 of 72
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1187,7 +1187,7 @@ AppIied to removed ratio 0.42 0.10 0.14 0.28
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 38 of 72
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1221,7 +1221,7 @@ AppIied to removed ratio 0.91 0.23 0.22 0.39
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 39 of 72
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1256,7 +1256,7 @@ AppIied to removed ratio 1.35 0.45 0.75 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 40 of 72
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1289,7 +1289,7 @@ AppIied to removed ratio 0.90 0.46 0.60 0.74
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 41 of 72
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1324,7 +1324,7 @@ AppIied to removed ratio 1.40 0.55 0.88 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 42 of 72
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1359,7 +1359,7 @@ AppIied to removed ratio 0.63 0.38 0.25 0.50
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 43 of 72
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1393,7 +1393,7 @@ AppIied to removed ratio 1.18 3.21 2.52 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 0971811 Page 44 of 72
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1427,7 +1427,7 @@ AppIied to removed ratio 1.10 6.03 3.94 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 45 of 72
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1462,7 +1462,7 @@ AppIied to removed ratio 1.20 5.84 3.67 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 46 of 72
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1495,7 +1495,7 @@ AppIied to removed ratio 1.02 3.45 3.04 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 47 of 72
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1531,7 +1531,7 @@ AppIied to removed ratio 1.34 0.49 1.17 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 48 of 72
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1565,7 +1565,7 @@ AppIied to removed ratio 0.98 0.44 0.56 0.81
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 49 of 72
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1598,7 +1598,7 @@ AppIied to removed ratio 1.27 0.39 0.86 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 50 of 72
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1634,7 +1634,7 @@ AppIied to removed ratio 1.09 0.71 0.38 0.82
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 51 of 72
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1669,7 +1669,7 @@ AppIied to removed ratio 1.19 0.36 0.75 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 52 of 72
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1704,7 +1704,7 @@ AppIied to removed ratio 1.01 0.67 0.34 0.84
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 53 of 72
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1737,7 +1737,7 @@ AppIied to removed ratio 1.12 0.38 0.05 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 54 of 72
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1771,7 +1771,7 @@ AppIied to removed ratio 41.11 0.40 0.61 0.92
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 55 of 72
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1805,7 +1805,7 @@ AppIied to removed ratio 1.25 0.36 0.51 0.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 56 of 72
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1839,7 +1839,7 @@ AppIied to removed ratio 1.31 0.27 0.29 0.42
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 57 of 72
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1872,7 +1872,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 58 of 72
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1902,7 +1902,7 @@ Barn
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 59 of 72
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1929,7 +1929,7 @@ E. PLANT TISSUE ANALYSES
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 60 of 72
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1960,7 +1960,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 61 of 72
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1991,7 +1991,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 62 of 72
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2022,7 +2022,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 63 of 72
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2053,7 +2053,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 64 of 72
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2084,7 +2084,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 65 of 72
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2115,7 +2115,7 @@ DL 100.00 100.00 100.00 1.00
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 66 of 72
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2140,7 +2140,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 09.1811 Page 67 of 72
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2174,7 +2174,7 @@ N P K saIt
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 68 of 72
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2208,7 +2208,7 @@ lbs lbs
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 69 of 72
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2238,7 +2238,7 @@ wastewater that are new or were revised within the reporting period
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 70 of 72
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2254,7 +2254,7 @@ J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Jo
 
 06/30/2024 09.1811 Page 71 of 72
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2272,7 +2272,7 @@ DATE DATE
 , J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 j Kings County San Joaquin River Basin
 06/25/2024 074211 Page 72 of 72
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2296,7 +2296,7 @@ Storm Water Reporting Section on page MRP-14.
 J&D WiIson Dairy 42 23565 GrangeviIle BLVD Lemoore, CA 93230 Kings County San Joaquin River Basin
 06/30/2024 091811 Page 1 of 1
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 J & D WiIson Dairy 2 Account 00-0025816 Received 12/13/2023 700
 960 N. San Antonio Rd Suite 114 Account Manager Ben Nydam Reported 12/20/2023 1330
@@ -2337,7 +2337,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 10
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 J & D WiIson Dairy 2 Account 00-0025816 Received 12/13/2023 700
 960 N. San Antonio Rd Suite 114 Account Manager Ben Nydam Reported 12/20/2023 1330
@@ -2359,7 +2359,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 10
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 T
 a
@@ -2406,7 +2406,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 10
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 a
 J & D WiIson Dairy 2 Account 00-0025816 Received 12/13/2023 700
@@ -2446,7 +2446,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 10
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 T
 a
@@ -2499,7 +2499,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 10
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 J & D WiIson Dairy 2 Account 00-0025816 Received 12/13/2023 700
 
@@ -2536,7 +2536,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 10
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 J o--- - ee LY
                12/13/23 07.00 2310728 S
@@ -2584,7 +2584,7 @@ SamapIe received in cooIer with ice
 P Ama Paid Rec B Check No. Date 1Yes 1No oftcupdate 2020
 . Page 7 of 10
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 12/13/23 0700 23L0728
  Shipping information Shipped Ino Picked-Upo WaIk ingf DLISampIero Othero
@@ -2612,7 +2612,7 @@ Asbestos - 1L P wreppedin foil Setof2)_. J _ ..) .(1 1 1 _
 a ST SS SE SS SS LS
 AS SE ST A NR BOO TR
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 J o--- - ee LY
                12/13/23 07.00 2310728 S
@@ -2660,7 +2660,7 @@ SamapIe received in cooIer with ice
 P Ama Paid Rec B Check No. Date 1Yes 1No oftcupdate 2020
 . Page 9 of 10
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 12/13/23 0700 23L0728
  Shipping information Shipped Ino Picked-Upo WaIk ingf DLISampIero Othero
@@ -2688,7 +2688,7 @@ Asbestos - 1L P wreppedin oil Setof2)_.. J ..) 1 1 1 1 _
 a ST SS SE SS SS NS
 AS ST ST A A WOO CRC
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 J & D WiIson Dairy Account 00-0025817 Received 08/17/2023 8139
 960 N. San Antonio Rd Suite 114 Account Manager Ben Nydam Reported 08/21/2023 1523
@@ -2725,7 +2725,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 6
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 J & D WiIson Dairy Account 00-0025817 Received 08/17/2023 8139
 960 N. San Antonio Rd Suite 114 Account Manager Ben Nydam Reported 08/21/2023 1523
@@ -2743,7 +2743,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 6
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 a
 J & D WiIson Dairy Account 00-0025817 Received 08/17/2023 8139
@@ -2782,7 +2782,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 6
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 T
 a
@@ -2818,7 +2818,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 6
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 08/17/23 0839 23H1607
 DELLAVALLE LABORATORY, INC.
@@ -2874,7 +2874,7 @@ CaIibration Due 9/26/2023
 Locatton Laboratory
 Page 5 of 6
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 t
 .

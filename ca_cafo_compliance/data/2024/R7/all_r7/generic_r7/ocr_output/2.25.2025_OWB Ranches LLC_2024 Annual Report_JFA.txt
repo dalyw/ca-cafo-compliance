@@ -24,7 +24,7 @@ cc OWB Ranches, LLC REGION 7
 ios ee yh HONE 800-753-0525 youeervilogs.com. - _
 li in Si icpciSl s sos seated
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 GENERAL WASTE DISCHARGE REQUIREMENTS ORDER R7-2021-0029
 CONCENTRATED ANIMAL FEEDING OPERATIONS NPDES NO. CAG017001
@@ -65,7 +65,7 @@ Attachment H Manure Tracking Manifest... csscscsssesssscesesseessesssscesesescee
 Attachment Stormwater and Wastewater Management Structure and Water Lines inspection
 FOL essences cccncseseeesessesesssacnsssssserscssecuasucaasavaesecacineesenetstsessseesrsssesssesssaseatesssssssessseressssaee T
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Attachment G Annual Report
 California Regional Water Quality Control Board
@@ -108,7 +108,7 @@ Swine (65tbormore) CT Csd
 Hoses ET
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 a
 Chickens (broilers) PT CSCisdS
@@ -151,7 +151,7 @@ C. Amount of process wastewater transferred during the reporting period.
 0 gallons.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Vv. Summary of Production Area Discharges
 Report all discharges of manure, litter, and process wastewater from the production
@@ -198,7 +198,7 @@ D I certify that a Manure Tracking Manifest has been prepared for each manure
 hauling event that have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 PART B - COMPOSTING INVENTORY
 X I certify that no composting occurs at this facility. (If box is checked, skip to Part C.)
@@ -232,7 +232,7 @@ inventory and
 finished
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 ____- January February March April May June July August September October November December
 ll. Flood
@@ -264,7 +264,7 @@ O Check if analysis results are attached.
 If any stormwater discharges from the composting operations were not analyzed for the required parameters, explain below.
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Operation and Maintenance
 
@@ -306,7 +306,7 @@ rates for the crops that were harvested during the reporting year. Attach additi
 needed.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Source Sample Analytical Results
 sampled datet NHeN TKN TP Units
@@ -333,7 +333,7 @@ g. Indicate the calculated amount of plant available nitrogen in the soil, if so
 calculating nutrient application rates.
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 IV. Crop Growing Activity and Land Application
 For each field where manure, litter, or wastewater was applied, report the actual crops grown in each field, the actual yield
@@ -361,7 +361,7 @@ ee Qs OO
 es es QO
 Attachment G Annual Report G-8
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 . . Planned Manure to be Applied Actual Manure Applied
 Field Crop(s) Yielde Yield _ _ -
@@ -378,7 +378,7 @@ f. Report the actual amount of manure, compost, litter, or wastewater applied.
 g. IfOther is selected, write in the type of manure, litter, or wastewater to be applied
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 For each field where manure, compost, litter, or wastewater was applied, report the spreadable acres and the amount of total
 nitrogen and phosphorus applied per acre from commercial fertilizer during the 12-month reporting period. Attach additional
@@ -402,7 +402,7 @@ a.List all felds where manure, compost, litter, or process wastewater was applie
 in the approved NMP
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the results of quarterly groundwater monitoring conducted in accordance with the
@@ -414,7 +414,7 @@ O Agroundwater monitoring program is required for this facility.
 & Not applicable. A groundwater monitoring program is not required for this facility.
 Attachment G - Annual Report 1
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 PART E - CERTIFICATION
  certify under penaity of law that this document and all attachments were prepared under my
@@ -435,11 +435,11 @@ Colorado River Basin Region
 Palm Desert, CA. 92260
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 2024 Daily Inspection Reports
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes -_
 Temperature Temperature Precipitation Conditions
@@ -489,7 +489,7 @@ Temperature Temperature Precipitation Conditions
 OWB Impertal County - R7-2013-AAAA Page 1 of 18
 2142/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2Otnspected Notes a
 Temperature Temperature Precipitation Conditions
@@ -518,7 +518,7 @@ morning
 OWB tmperial County - R7-2013-AAAA Page 2 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes i
 Temperature Temperature Precipitation Conditions
@@ -547,7 +547,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 3 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes -
 Temperature Temperature Precipitation Conditions
@@ -597,7 +597,7 @@ F) (F) (in)
 OWB Imperial County - R7-2013-ABAA Page 4 of 18
 2112/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H20Inspected Notes a
 Temperature Temperature Precipitation Conditions
@@ -626,7 +626,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial Counly - R7-2013-AAAA Page 5 of 18
  21212025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 aq OWB Imperial County - R7-2013-AAAA . Daily -
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes -
@@ -656,7 +656,7 @@ Temperature Temperature - Precipitation Conditions
 OWB tmperial County - R7-2013-AAAA Page 6 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2O0Inspected Notes _
 Temperature Temperature Precipitation Conditions
@@ -685,7 +685,7 @@ Temperature Temperature Precipitation Conditions
 OWB imperial County - R7-2013-AAAA Page 7 of 18
 2112/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Salles te
 )
@@ -765,7 +765,7 @@ a 6 Bb OB o 6o se S68 6S FF FSSEES BA
 g
 oa
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes j
 Temperature Temperature Precipitation Conditions
@@ -794,7 +794,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 9 of 18
 2112/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 amityyn
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes
@@ -824,7 +824,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 10 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 ee
 iS 2 2 2 && 2 & & gs 2 g ex ay a x
@@ -902,7 +902,7 @@ Q
 wo
 yD.
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Date High Low Rain (in) Snow (in) Totat Sky H2OInspected Notes
 Temperature Temperature Precipitation Conditions
@@ -937,7 +937,7 @@ Temperature Temperature Precipitation Conditions
 OWE Imperlal County - R7-2013-AAAA Page 12 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes a
 Temperature Temperature Precipitation Conditions
@@ -986,7 +986,7 @@ fixed.
 OWB imperial County - R7-2013-AAAA Page 13 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes
 Temperature Temperature Precipitation Conditions
@@ -1015,7 +1015,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 14 of 18
 2/12/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes
 Temperature Temperature Precipitation Conditions
@@ -1044,7 +1044,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 15 of 18
 2/12/2025 CafoPra.com - Compliance by DesignTM
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 aan . .
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes Oo
@@ -1074,7 +1074,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperial County - R7-2013-AAAA Page 16 of 18
 2112/2025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Date High Low Rain (in) Snow (in) Totat Sky H2OInspected Notes _
 Temperature Temperature Precipitation Conditions
@@ -1103,7 +1103,7 @@ Temperature Temperature Precipitation Conditions
 OWB Imperiat County - R7-2013-AAAA Page 17 of 18
 211212025 CatoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Date High Low Rain (in) Snow (in) Total Sky H2OInspected Notes -
 Temperature Temperature Precipitation Conditions
@@ -1125,11 +1125,11 @@ Total Raln 3.00 Total Snow 1.00 Total Precip 3.10
 OWB imperial County - R7-2013-AAAA Page 18 of 18
 211212025 CafoPro.com - Compliance by DesignTM
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
                  2024 Weekly Inspection Reports
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Ease OWB Imperial County - R7-2013-AAAA- et 2 So nn Be Weekly-
 is the designated drainage area Have the retention control Are afl control structures Has the wastewater handling
@@ -1200,7 +1200,7 @@ TTC moo eemWTrOr
 OWE lirperist County - R7-20I-AAAA Paye toi 10
 222025 CafoPrm.comn - Compianee by DesignT a
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 AALS. owe imperial County - R7-2013-AAAA wet wt a Weekly
 Yes Are all control structures Has the wastewater handling Has the manure/compost handling
@@ -1273,7 +1273,7 @@ TFT OOOO
 OWS Imponal Counly - R7-2013-ARAA Page 2 of 10
 222028 CafePro.com - Coatpilance hy DesianTM
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
  ae, OWB imperial, County - R7-2013-AAAA oe . . Weekly
 - equipment been Inspected and/or Note any findings, deficiencies, Are the ponds free of erosion, Are cattle prevented from
@@ -1345,7 +1345,7 @@ ee
 OWE Imperial County - R7-2013-AAAA Page 3 of 12
 21212025 CafePra.com - Complisaca hy OesignT M4
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
  Sie OWB Imperial County - R7-2013-AAAA a Weekly
 9/8/2024
@@ -1417,7 +1417,7 @@ oo
 OWS Imperial Courty - R7-201-ARAS Page 4 ol 10
 2e2i2028 CafePra worn - Complianen by DesignTM
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 ae OWB imperiat County - R7-2013-AAAA i eee re Te . Weekly,
 - Yes . Are all control structures Has the wastewater handling Has the manure/compost handling -
@@ -1490,7 +1490,7 @@ ee OOOO
 OWE Ierpretiat County - RF-2012-AAaA Page Sof 10
 BAZ CafePro.com - Complinace by BesgnTM
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 neces OWB Imperial County -R7-2013AAAA Bee ee Pe OR ok, Weekly
 equipment been Inspected and/or Note any findings, deficiencies, Are the ponds free of erosion, Are cattle prevented from
@@ -1562,7 +1562,7 @@ ss ee oO
 OWS tnperiz Coumy - R7-2013-AAKA Page 6 of 10
 222025 CafePro.com - Gompinnea by Design TA
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 (oes. OWB Imperial. County R7-2013-ABAA. 7) Seo ie A oe ie leaded
 5/19/2024
@@ -1634,7 +1634,7 @@ EO
 OWE tmpurici County - R720 AAA Page 7 of 10
 222025 CafePra.cam - Comotiance hy Des gnTet
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Swe -OWB Imperjal. Courity-R7-2013-AAAA. -.). OME Weekly
 Yes Are all control structures Has the wastewater handling Has the manure/campost handling
@@ -1707,7 +1707,7 @@ Om
 OWE Imperial County - R7-2015-AAAR Page Sat 10
 BN 228 CafoPro.com - Cometiance by DesianTM
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 - Set. OWB Imperial County - R7-2013-AAAA . Sie nN , Weekly.
 . Jequipment been inspected andfor Note any findings, deficiencies, Ara the ponds free of erosion, Are cattle prevented from a
@@ -1778,7 +1778,7 @@ eee OOo
 OWE Imperist County - R7-20 S-AAAA Page 9 of 10
 BAN2028 CafoPre.com - Compliance by Design TM
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 es, OWB imperial County, RT-2013-AAAA fone ON EER gee ES oe Weekly...
 1/28/2024 . . a .
@@ -1832,11 +1832,11 @@ Oo
 OWE Itnpensl County - R7-ZOTEAAAA Paye 18 af 10
 222025 CafePre.com - Complisnes by DesignTi4
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 . 2024 Monthly Inspection Reports .
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Sa OWB Imperial County - R7-2013-AAAA ey . Monthly
 12/1/2024 - .
@@ -1902,7 +1902,7 @@ eS
 OWE imperial Caunly - R7-20TAAAA Page iol
 21282028 CafoPta.com Compliance by Des.anTi
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 aire. OWB Imperial County - R7-2013-AAAA- gu as yet Bea it ae Monthly -
 Check all mortality disposal Chemical Storage Inspected Yes.

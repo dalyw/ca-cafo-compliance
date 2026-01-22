@@ -1,31 +1,52 @@
-Manurc / Proceas Wastewater Tracklng Manifest For Existing Milk Cow Dairies General Order No. R5-2007-0035, Attachment O
+## Manure / Process Wastewater Tracking Manlfest
+For Existing Milk Cow Dairies General Order No. R5-2007-0035 Attachment D
 INSTRUCTIONS
-1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.
-
-2) lf there are multiple destinations, compl€t€ a separate form for each destination.
-
-3) The operator must obtain the signature ofthe hauler upon completion ofeach manure/process wastewater hauling event. 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
-
-| OPERATOR INFORIVATION                                                                                          |                |        |                         |
-|----------------------------------------------------------------------------------------------------------------|----------------|--------|-------------------------|
-| Name of Operator: Johnny Serpa Name of oairy Facility: Black Diamond Dairy Facility Address: 18541 S Fruit AVE | Riverdale      | Fresno | 93656                   |
-| Number and Strogt Contact Person Name and Phone Number:                                                        | City           | County | Zip Code                |
-| Johnny Serpa                                                                                                   | (s59) 352-0608 |        |                         |
-| Name                                                                                                           | Phone Number   |        |                         |
-| PROCESS WASTEWATER HAULER INFORMATION                                                                          |                |        |                         |
-| Name of Hauling Company/Person:                                                                                | Black Diamond  |        |                         |
-| Address ol Hauling Company/Person 18607 Fruit AVE                                                              | Riverdale      | CA     | 93656                   |
-| Number and Street Contact Person: Johnny Serpa                                                                 | City           | State  | Zip Code (5s9) 3s2-0608 |
-| Name                                                                                                           | Phone Number   |        |                         |
-| OESTINATION INFORMATION                                                                                        |                |        |                         |
-
-| Composting Facility / Broker / Farmer / Other (identify): Farmer Contact information of Composting Facility, Broker, Farmer, or Other (as identified abovs) EeU sr!s!'   | (559) 352-0608                 |          |                        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|----------|------------------------|
-| Name 18607 Fruil                                                                                                                                                         | Riverdale                      | CA       | ----FFone Num6er 93656 |
-| Address                                                                                                                                                                  | City                           | Stale    | Zip Code               |
-| Destination Address or Assessor's Parcel Numberl                                                                                                                         | Riverdale                      | 93656    |                        |
-| Address                                                                                                                                                                  | City                           | Zip Code |                        |
-| Fruit                                                                                                                                                                    | Fresno                         |          |                        |
-| Street and nearasi cross streef(ii no addiess)                                                                                                                           | County                         |          |                        |
-| Assessois Parc€l Number                                                                                                                                                  | Assesso/s Parcel Number County |          |                        |
-| Last date hauled: 1011512024                                                                                                                                             |                                |          |                        |
+1) Complete one manifest for each hauling event for each destination. A hauling event may last for several days as long as the manure is being hauled to the same destination.
+2) lf th€re are multiple destinations complete a separate form for each destination.
+3) The operator must oblain the signature of lhe hauler upon completion of each manurB/process wastewator hauling event.
+4) The operator shall submit copies of manurc/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+I Existing Milk Cow Dairies.                                           I OPERATOR INFORMATION  I            I     I
+I-----------------------------------------------------------------------------------------------------------------I------------------------I-----------------------I----------I
+I Name of Operator Johnny Serpa Name of Oairy Facility Black Diamond Dairy Facility Address '18541 S Fruit AVE I Riverdale       I Fresno        I 93656  I
+I Number and Street Contact Person Name and Phone Number                             I City          I County        I Zip code I
+I John                                                      I 559          I 352-0608       I     I
+I Name                                                      I ne Number       I            I     I
+I PROCESS WASTEWATER HAULER INFORMATION                                      I            I            I     I
+I Name of Hauling Company/Person                                         I Netto Ag        I            I     I
+I Address of Hauling Company/Person '1 0044 Flint Ave                              I Hanford        I CA          I     I
+I Number and Street Contact Person James Netto                                  I 93230         I            I     I
+I City                                                      I State         I Zip Code 559 585-2097 I     I
+I Name                                                      I Phone Nu        I            I     I
+I DESTINATION INFORMATION                                             I            I            I     I
+Composting Facility / Broker i Farmer / Other (identify) Farmer
+I Contact information of Composting Facility Broker Farmer or Other (as identifi6d above)  I 559 867-3186 one u 93656    I     I
+I----------------------------------------------------------------------------------------------I--------------------------------I----------I
+I Address Destination Address orAssessor's Parcel Number Mike Smith ame 1755 Mt.       I Riverdale           I CA    I
+I City                                             I State             I Zip Code I
+I Riverdale                                          I                I     I
+I Address                                           I 93656             I     I
+I City                                             I                I     I
+I Fruit                                            I Fresno             I     I
+I Street and nearest cross street (it no add.ess)                       I County             I     I
+I Assessor's Parcel Number                                   I Assesso/s Parcel Number County I     I
+I Last date hauled; 1011012024                                 I                I     I
+-
+Fresno
+Manure / Prcce8s Wastewater Tracklng Manlf6st
+For
+Existing Mllk Cow Dalrle3
+General Order No. R5-2007-0035 Attachment D
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount Process Wastewater 2519 000 gallons
+I PROCESS WASTEWATER AMOUNT HAULED  I
+I------------------------------------I
+Method used to d€termine volume ol procoss wastewater GPM x runtime
+## Written Agreement
+Does the Operator have a written agreement (in compliance with Land Applicaiion Specification C.2 of Wa6te Discharge Requirements ceneral Order No. R5-2007-0035) with any party that recoives process wastewater from the Operator for its own use?
+txlYES t lNo lf the answer is no the Operator agrees to have such a written agreement with any such party for any process wastewater transfered after 3'1 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement)
+## Certification
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document and that based on my inquiry of those individuals immediately responsible for obtaining the information I believe that the information is true 
+accurale and complete. I am aware that there are significanl pGnalties for submitting false information including the possibility of a flne and imprisonment for knowing violations.
+Hauler
+![0_image_1.png](0_image_1.png)
+![0_image_0.png](0_image_0.png)

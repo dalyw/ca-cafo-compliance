@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 1 of 45
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ Source Description Type
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 2 of 45
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -96,7 +96,7 @@ AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basi
 
 06/10/2024 10.1630 Page 3 of 45
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -126,7 +126,7 @@ Total actual harvest content 20.71 170.19 36.66 123.06 1,170.37
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 4 of 45
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -157,7 +157,7 @@ Total actual harvest content 30.47 227.00 4743 282.91 1,009.66
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 5 of 45
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -189,7 +189,7 @@ Total actual harvest content 22.50 172.61 42.80 198.28 1,169.73
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 6 of 45
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -220,7 +220,7 @@ Total actual harvest content 30.33 215.90 52.23 323.85 1,217.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 7 of 45
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -243,7 +243,7 @@ Total actual harvest content 29.06 200.53 41.85 268.54 1,035.79
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 8 of 45
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -276,7 +276,7 @@ AppIication event totaIs 0.60 0.00 0.00 47.94
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 9 of 45
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -311,7 +311,7 @@ AppIication event totaIs 0.74 0.00 0.00 59.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 10 of 45
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -345,7 +345,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 11 of 45
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -379,7 +379,7 @@ AppIication event totaIs 51.13 15.45 192.53 592.85
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 12 of 45
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -412,7 +412,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 13 of 45
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -446,7 +446,7 @@ AppIication event totaIs 0.70 0.00 0.00 56.19
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 14 of 45
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -480,7 +480,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 15 of 45
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -515,7 +515,7 @@ AppIication event totaIs 36.01 10.82 134.89 430.15
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 16 of 45
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -549,7 +549,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 17 of 45
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -583,7 +583,7 @@ AppIication event totaIs 71.59 21.73 270.80 807.62
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 18 of 45
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -617,7 +617,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 19 of 45
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -651,7 +651,7 @@ AppIication event totaIs 53.22 16.08 200.46 616.27
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 20 of 45
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -686,7 +686,7 @@ AppIied to removed ratio 1.30 0.60 2.79 2.26
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 21 of 45
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -720,7 +720,7 @@ AppIied to removed ratio 1.18 1.59 3.12 2.58
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 22 of 45
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -755,7 +755,7 @@ AppIied to removed ratio 1.30 0.55 3.53 2.51
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 23 of 45
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -789,7 +789,7 @@ AppIied to removed ratio 1.19 1.67 3.50 3.00
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 24 of 45
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -823,7 +823,7 @@ AppIied to removed ratio 1.30 0.58 3.15 2.37
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 25 of 45
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -857,7 +857,7 @@ AppIied to removed ratio 1.25 1.58 3.17 2.92
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 26 of 45
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -893,7 +893,7 @@ AppIied to removed ratio 1.38 0.53 2.19 2.64
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 27 of 45
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -927,7 +927,7 @@ AppIied to removed ratio 1.28 1.57 3.11 2.68
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 28 of 45
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -962,7 +962,7 @@ AppIied to removed ratio 1.32 0.55 2.37 2.54
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 29 of 45
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -996,7 +996,7 @@ AppIied to removed ratio 1.19 1.44 2.89 2.37
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 30 of 45
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1031,7 +1031,7 @@ AppIied to removed ratio 1.36 0.54 2.22 2.55
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 31 of 45
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1065,7 +1065,7 @@ AppIied to removed ratio 1.37 1.93 3.76 2.98
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 32 of 45
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1099,7 +1099,7 @@ B. PROCESS WASTEWATER ANALYSES
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 33 of 45
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1134,7 +1134,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 34 of 45
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1166,7 +1166,7 @@ PeopIes Ditch Hanford
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 35 of 45
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1193,7 +1193,7 @@ DL 500.00 200.00 200.00 0.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 36 of 45
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1224,7 +1224,7 @@ DL 500.00 200.00 200.00 0.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 37 of 45
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1255,7 +1255,7 @@ DL 500.00 200.00 200.00 0.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 38 of 45
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1286,7 +1286,7 @@ DL 500.00 200.00 200.00 0.05
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 39 of 45
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1311,7 +1311,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 10.1630 Page 40 of 45
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1344,7 +1344,7 @@ N P K saIt
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 41 of 45
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1375,7 +1375,7 @@ lbs lbs
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 42 of 45
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1405,7 +1405,7 @@ wastewater that are new or were revised within the reporting period
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 43 of 45
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1415,7 +1415,7 @@ WeIls 42 Bezzara WeIl, 44 Camara WeIl, 41 Dairy WeIl, W1, and 43 West Lake WeIl 
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 44 of 45
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1432,7 +1432,7 @@ DATI DATE
 AIvaro Machado Dairy / 5230 Sth Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 155033 Page 45 of 45
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1456,7 +1456,7 @@ Storm Water Reporting Section on page MRP-14.
 AIvaro Machado Dairy 5230 9th Ave AVE Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 101630 Page 1 of 1
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 (_s
 ENVIRONMENTAL AGRICULTURAL
@@ -1504,7 +1504,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1545,7 +1545,7 @@ TEL (805)392-2000 TEL (20999420182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1588,7 +1588,7 @@ TEL (805)392-2000 TEL (20999420182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1653,7 +1653,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 April 12, 2023
 . Lab No. VI. 2341716
@@ -1714,13 +1714,13 @@ anaIysis.
 ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 ExpIanation
 440 SampIe nonhomogeneity may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
   Laboratory AnaIysis Work Order 2738
 SITE NAME A Wanro Machado BH 7 LABORATORY 3 FGL 4-19696
@@ -1790,7 +1790,7 @@ OCS Y/13/(vd
 
 Meo 12S
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
  FG Environmental Doc ID 3D0900002_SOP_12.DOC ,
 Revision Date 10/09/14 Page 1 of 1
@@ -1842,7 +1842,7 @@ ResoIution i A 1 f
 contacts,
                 IA
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1897,7 +1897,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -1932,7 +1932,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1989,7 +1989,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 S2 Laboratory AnaIysis Work Order 3058
 SITENAME _ Peo pIe 55 Diteh- Heats LABORATORY FGL 4-19696
@@ -2050,7 +2050,7 @@ Rot CLs 7119/4
 
 5.39C We 1100
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 - EGU Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1

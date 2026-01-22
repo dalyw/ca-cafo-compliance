@@ -66,7 +66,7 @@ CA 93250 | Kern County | Tulare Basin
 
 Page 1 of 11
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -109,7 +109,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 2 of 11
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -128,7 +128,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 3 of 11
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -153,7 +153,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 4 of 11
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -169,7 +169,7 @@ No application area crops entered.
 McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tulare Basin
 06/30/2024 10:11:43 Page 5 of 11
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -192,7 +192,7 @@ No subsurface (tile) drainage analyses entered.
 McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tulare Basin
 06/30/2024 10:11:43 Page 6 of 11
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -227,7 +227,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 7 of 11
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -313,7 +313,7 @@ Ibs
 
 Page 8 of 11
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -359,7 +359,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 9 of 11
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -372,7 +372,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 10 of 11
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -393,7 +393,7 @@ DATE DATE
 McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tulare Basin
 06/30/2024 10:11:43 Page 11 of 11
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -428,7 +428,7 @@ McFarland Dairy | 31348 Hanawalt AVE | McFarland, CA 93250 | Kern County | Tular
 
 06/30/2024 10:11:43 Page 1 of 1
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 4bJ0 Lb eBeg EPLE'OL PZOZ/OE/SO
 uiseg auginy | Ayunog wey | aSze6 YO ‘PUBLEPW | SAV EMEUEH BrELE | AEG PUEHEOW
 
@@ -452,7 +452,7 @@ nes oS. a
 S£00-2002-9H “ON JePiO [e!euaN - poday jenuuy
 
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 DAIRY FACILITY INFORMATION
@@ -509,7 +509,7 @@ CA 93250 | Kern County | Tulare Basin
 
 Page 1 of 11
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA

@@ -30,7 +30,7 @@ Mature MaIes 414
 BuIls/Bucks/Rams
 Other (specify) 0
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Appendix 3 - Annual Report
 GWODR Monitoring and Reporting Program 2-
@@ -54,7 +54,7 @@ within 24 hours of becoming aware of its occurrence2 Yes K) No
 the dairy been performed as listed in the MRP section I.A. to ensure
 the dairy is being operated and maintained in compIiance with the GWDR2 Yes IX) No LJ
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Appendix 3 - Annual Report
 
@@ -108,7 +108,7 @@ ponds 7 surface waters
 
 Description of deficiencies (if any) or additional information-
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Appendix 3 - Annuai Report
 GWDR Monitoring and Reporting Program -4-
@@ -146,7 +146,7 @@ integrity2 maintained2
 Description of deficiencies (if any) or additional information.
 The septic tanks are on a scheduIe for annual cIeanout.
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -5-
@@ -188,7 +188,7 @@ Enterococci bacteria cfu/100 mL
 Note E. coIi is onIy to be tested in freshwaters. Enterococci is onIy to be tested in waters where saIinity
 is greater than 1 part per thousand more than 5 percent of the time in a caIendar year.
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Appendix 3 - Annual Report
 
@@ -238,7 +238,7 @@ OnIy domestic suppIy weIls at the dairy need to be tested for total coIiform bac
 Total CoIiform Bacteria MPN/100 mL
 Has aIl ground water quaIity sampIing been compIeted as described in the MRP2 Yes K) No (
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Appendix 3 - Annual Report
 
@@ -299,7 +299,7 @@ type of manure2
 
 Yes. a _ ee
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Appendix 3 - Annual Report
 GWDR Monitoring and Reporting Program -8-
@@ -334,7 +334,7 @@ underIying soiIs within manured areas, corraIs, pens, and animal housing areas
 BMPs are used to prevent manure-laden water (refer to question 10). In addition, lots are
 winterized and areas where water couId pool are fiIled in.
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Appendix 3 - Annual Report
 
@@ -372,7 +372,7 @@ PIease add any comments regarding soil sampIing resuIts such as pIans to adjust 
 appIication rates at specific locations to meet agronomic rates.
 Soil sampIing was not required in 2023.
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Appendix 3 - Annual Report
 
@@ -405,7 +405,7 @@ Is the composting practice in accordance with State Water Board Division of Wate
 DWOQ 2015-0121 or subsequent Order(s)
 Not appIicabIe
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Appendix 3 - Annual Report
 
@@ -447,7 +447,7 @@ Does the dairy compIy with the performance measures of the RMP7 Yes CJ No N/A
 If not, what is the pIan to compIy with the RMP incIuding timing of improvements7
 Not appIicabIe - riparian areas do not exist on the property.
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Appendix 3 - Annual Report
 

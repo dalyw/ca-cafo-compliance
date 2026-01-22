@@ -19,7 +19,7 @@ a Sa kt YO
 .
 eee eee, thy ee eee
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 CaIifornia Regional Water QuaIity Control Board
 CoIorado River Basin Region (R-7) RECEIVED .
@@ -57,7 +57,7 @@ Annual Report
 Groundwater representative monitoring program is under deveIopment with RWQCB staff, most recent
 version was sent to RWQCB for review JuIy 2024.
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Were the production factors provided beIow used to estimate your manure information2 5
 PRODUCTIONS PROVIDE OTHER PRODUCTION .
@@ -95,7 +95,7 @@ composition (a.g., emergency overfIow of process wastewater from lagoon 42), and
  VoIume Give an estimate of the number of gaIlons or tons of manure, iitter, or process wastewater discharged.
 Annual Report
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 VI. INSTANCES OF NONCOMPLIANCE NOT PREVIOUSLY REPORTED
 During the reporting period were there any instances of noncompIiance, which have not been reported to t
@@ -128,7 +128,7 @@ maintained at this faciIity.
 occurred at this faciIity. . .
 Annual Report
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART B - COMPOSTING INVENTORY
 SEV ING INVENTORY
@@ -165,7 +165,7 @@ C) Check if anaIysis resuIts are attached. .
 if any storm water discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow-
 Annual Report G-4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. OPERATION AND MAINTENANCE .
 Document any erosion control or drainage probIems and/or reIated maintenance .
@@ -199,7 +199,7 @@ Oothers
 _ ee
 Annual Report
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 PART D - CERTIFICATION
  certify under penaIty of law that this document and aIl attachments were prepared under my direct supervision in

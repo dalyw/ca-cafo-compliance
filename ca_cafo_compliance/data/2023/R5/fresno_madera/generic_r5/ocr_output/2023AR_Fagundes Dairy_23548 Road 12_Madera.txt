@@ -26,7 +26,7 @@ C. OWNERS
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 1 of 142
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -44,7 +44,7 @@ This owner is responsibIe for paying permit fees.
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 2 of 142
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -81,7 +81,7 @@ Domestic WeIl - Dairy 44 DW Ground water
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 3 of 142
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -119,7 +119,7 @@ G. NUTRIENT EXPORTS
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 4 of 142
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 No soIid nutrient exports entered.
@@ -127,7 +127,7 @@ No liquid nutrient exports entered.
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 5 of 142
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -187,7 +187,7 @@ X030-X140-X012-XXXX
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 6 of 142
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -231,7 +231,7 @@ B. CROPS AND HARVESTS
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 7 of 142
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -258,7 +258,7 @@ FieId name BIair 2-2
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 8 of 142
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -284,7 +284,7 @@ FieId name Correa
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 9 of 142
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -315,7 +315,7 @@ Total actual harvest content 16.48 150.17 35.62 223.33 943.37
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 10 of 142
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -346,7 +346,7 @@ Total actual harvest content 32.81 238.15 48.51 407.94 1,697.89
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 11 of 142
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -378,7 +378,7 @@ Total actual harvest content 16.48 115.22 53.59 261.71 1,286.23
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 12 of 142
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -404,7 +404,7 @@ FieId name Ginsburg
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 13 of 142
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -435,7 +435,7 @@ Total actual harvest content 16.89 148.42 38.33 238.85 1,032.08
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 14 of 142
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -466,7 +466,7 @@ Total actual harvest content 32.89 198.47 49.11 249.62 1,227.63
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 15 of 142
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -498,7 +498,7 @@ Total actual harvest content 16.97 144.58 36.72 242.12 1,101.57
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 16 of 142
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -529,7 +529,7 @@ Total actual harvest content 32.97 209.76 39.73 335.30 1,191.83
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 17 of 142
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -561,7 +561,7 @@ Total actual harvest content 31.43 246.44 63.25 270.43 1,177.68
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 18 of 142
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -592,7 +592,7 @@ Total actual harvest content 32.10 246.00 76.49 237.73 1,323.03
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 19 of 142
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -624,7 +624,7 @@ Total actual harvest content 16.22 146.90 33.70 241.65 782.17
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 20 of 142
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -655,7 +655,7 @@ Total actual harvest content 24.47 294.11 70.99 157.20 608.51
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 21 of 142
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -688,7 +688,7 @@ AppIication event totaIs 6.52 0.00 0.00 438.80
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 22 of 142
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -721,7 +721,7 @@ AppIication event totaIs 6.26 0.00 0.00 421.49
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 23 of 142
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -755,7 +755,7 @@ AppIication event totaIs 6.54 0.00 0.00 440.49
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 24 of 142
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -787,7 +787,7 @@ AppIication event totaIs 6.90 0.00 0.00 464.67
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 25 of 142
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -820,7 +820,7 @@ AppIication event totaIs 6.82 0.00 0.00 459.49
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 26 of 142
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -854,7 +854,7 @@ Correa - 11/15/2022 Oats, siIage-soft dough
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 27 of 142
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -886,7 +886,7 @@ AppIication event totaIs 124.15 22.68 256.80 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 28 of 142
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -918,7 +918,7 @@ AppIication event totaIs 30.61 7.54 7751 638.98
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 29 of 142
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -951,7 +951,7 @@ Crop Corn, siIage PIant date 06/11/2023
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 30 of 142
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -982,7 +982,7 @@ AppIication event totaIs 53.80 13.50 113.50 887.92
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 31 of 142
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1013,7 +1013,7 @@ AppIication event totaIs 1.07 0.00 0.00 270.05
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 32 of 142
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1047,7 +1047,7 @@ AppIication event totaIs 1.30 0.00 0.00 328.70
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 33 of 142
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1079,7 +1079,7 @@ AppIication event totaIs 92.73 12.56 104.83 800.71
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 34 of 142
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1113,7 +1113,7 @@ AppIication event totaIs 41.60 10.35 106.43 768.44
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 35 of 142
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1144,7 +1144,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 36 of 142
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1175,7 +1175,7 @@ AppIication event totaIs 122.27 16.58 138.36 1,027.21
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 37 of 142
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1209,7 +1209,7 @@ Crop Oats, siIage-soft dough PIant date 11/17/2022
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 38 of 142
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1241,7 +1241,7 @@ Crop Corn, siIage PIant date 06/22/2023
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 39 of 142
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1274,7 +1274,7 @@ AppIication event totaIs 8.06 0.00 0.00 542.74
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 40 of 142
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1307,7 +1307,7 @@ AppIication event totaIs 133.35 24.36 275.83 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 41 of 142
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1342,7 +1342,7 @@ AppIication event totaIs 8.78 0.00 0.00 591.16
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 42 of 142
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1375,7 +1375,7 @@ AppIication event totaIs 145.28 26.53 300.51 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 43 of 142
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1410,7 +1410,7 @@ AppIication event totaIs 1.32 0.00 0.00 331.77
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 44 of 142
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1443,7 +1443,7 @@ AppIication event totaIs 180.02 32.88 372.37 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 45 of 142
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1474,7 +1474,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 46 of 142
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1507,7 +1507,7 @@ AppIication event totaIs 3.02 0.00 0.00 761.75
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 47 of 142
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1540,7 +1540,7 @@ AppIication event totaIs 204.14 37.29 422.27 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 48 of 142
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1575,7 +1575,7 @@ AppIication event totaIs 1.51 0.00 0.00 380.48
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 49 of 142
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1608,7 +1608,7 @@ AppIication event totaIs 6.96 0.00 0.00 468.87
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 50 of 142
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1641,7 +1641,7 @@ AppIication event totaIs 8.27 0.00 0.00 557.09
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 51 of 142
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1674,7 +1674,7 @@ AppIication event totaIs 6.22 0.00 0.00 418.90
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 52 of 142
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1707,7 +1707,7 @@ AppIication event totaIs 6.19 0.00 0.00 AI7A7
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 53 of 142
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1737,7 +1737,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 54 of 142
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1770,7 +1770,7 @@ AppIication event totaIs 277.53 50.69 574.06 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 55 of 142
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1804,7 +1804,7 @@ VeIasco 2 - 11/15/2022 Oats, siIage-soft dough
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 56 of 142
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1835,7 +1835,7 @@ AppIication event totaIs 261.63 47.79 541.17 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 57 of 142
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1868,7 +1868,7 @@ AppIication event totaIs 3.52 0.00 0.00 352.12
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 58 of 142
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1901,7 +1901,7 @@ AppIication event totaIs 2.53 0.00 0.00 252.90
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 59 of 142
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1934,7 +1934,7 @@ AppIication event totaIs 2.53 0.00 0.00 252.90
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 60 of 142
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1966,7 +1966,7 @@ Crop Corn, siIage PIant date 04/01/2023
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 61 of 142
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1999,7 +1999,7 @@ AppIication event totaIs 2.36 0.00 0.00 236.15
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 62 of 142
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2028,7 +2028,7 @@ AppIication event totaIs 2.32 0.00 0.00 231.56
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 13.5214 Page 63 of 142
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2066,7 +2066,7 @@ AppIied to removed ratio 1.17 0.00 0.00 28.49
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 64 of 142
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2100,7 +2100,7 @@ AppIied to removed ratio 1.32 1.10 1.10 20.84
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 65 of 142
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2136,7 +2136,7 @@ AppIied to removed ratio 1.30 1.15 1.20 18.90
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 66 of 142
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2170,7 +2170,7 @@ AppIied to removed ratio 1.32 0.00 0.00 24.36
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 67 of 142
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2205,7 +2205,7 @@ AppIied to removed ratio 1.13 0.74 1.13 0.86
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 68 of 142
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2240,7 +2240,7 @@ AppIied to removed ratio 1.39 0.96 1.30 1.68
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 69 of 142
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2276,7 +2276,7 @@ AppIied to removed ratio 1.39 0.90 1.44 1.16
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 70 of 142
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2310,7 +2310,7 @@ AppIied to removed ratio 1.17 0.94 1.60 2.39
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 71 of 142
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2344,7 +2344,7 @@ AppIied to removed ratio 1.39 0.85 1.54 1.25
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 72 of 142
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2379,7 +2379,7 @@ AppIied to removed ratio 1.38 1.25 1.40 2.11
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 73 of 142
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2416,7 +2416,7 @@ AppIied to removed ratio 1.39 0.82 1.31 1.13
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 74 of 142
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2451,7 +2451,7 @@ AppIied to removed ratio 1.40 1.42 2.14 2.15
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 75 of 142
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2486,7 +2486,7 @@ AppIied to removed ratio 1.37 0.38 0.65 1.13
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 76 of 142
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2520,7 +2520,7 @@ AppIied to removed ratio 1.37 1.25 1.51 3.25
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 77 of 142
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2554,7 +2554,7 @@ AppIied to removed ratio 1.39 0.90 1.69 0.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 78 of 142
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2589,7 +2589,7 @@ AppIied to removed ratio 1.39 0.87 1.58 1.08
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 79 of 142
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2624,7 +2624,7 @@ AppIied to removed ratio 1.39 0.92 2.14 2.56
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 80 of 142
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2660,7 +2660,7 @@ AppIied to removed ratio 1.07 0.64 1.15 1.18
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 81 of 142
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2693,7 +2693,7 @@ AppIied to removed ratio 1.29 0.82 1.89 3.23
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 82 of 142
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2726,7 +2726,7 @@ AppIied to removed ratio 1.38 0.66 1.09 0.82
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 83 of 142
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2760,7 +2760,7 @@ AppIied to removed ratio 1.36 0.94 2.09 1.91
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 84 of 142
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2793,7 +2793,7 @@ AppIied to removed ratio 1.30 0.78 1.46 0.67
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 85 of 142
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2827,7 +2827,7 @@ AppIied to removed ratio 1.34 1.02 1.35 1.29
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 86 of 142
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2861,7 +2861,7 @@ AppIied to removed ratio 1.39 0.95 1.63 0.56
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 87 of 142
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2895,7 +2895,7 @@ AppIied to removed ratio 1.30 0.99 1.63 1.55
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 88 of 142
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2931,7 +2931,7 @@ AppIied to removed ratio 1.39 0.75 1.20 0.46
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 89 of 142
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2967,7 +2967,7 @@ AppIied to removed ratio 1.37 1.25 1.68 1.91
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 90 of 142
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3003,7 +3003,7 @@ AppIied to removed ratio 1.02 0.00 0.00 18.85
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 91 of 142
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3038,7 +3038,7 @@ AppIied to removed ratio 1.30 0.87 1.23 1.20
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 92 of 142
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3072,7 +3072,7 @@ AppIied to removed ratio 1.31 0.74 1.95 3.57
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 93 of 142
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3107,7 +3107,7 @@ AppIied to removed ratio 1.05 1.34 1.52 5.91
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 94 of 142
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3140,7 +3140,7 @@ AppIied to removed ratio 1.40 0.76 1.73 0.98
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 95 of 142
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3175,7 +3175,7 @@ AppIied to removed ratio 1.39 0.66 2.41 2.88
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 96 of 142
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3210,7 +3210,7 @@ AppIied to removed ratio 1.39 0.76 1.61 1.04
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 97 of 142
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3243,7 +3243,7 @@ AppIied to removed ratio 1.40 0.76 1.65 2.75
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 98 of 142
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3277,7 +3277,7 @@ AppIied to removed ratio 1.34 0.99 1.57 0.89
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 99 of 142
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3311,7 +3311,7 @@ AppIied to removed ratio 1.25 0.90 4.38 3.70
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 100 of 142
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3346,7 +3346,7 @@ AppIied to removed ratio 1.31 1.02 1.49 0.85
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 101 of 142
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3380,7 +3380,7 @@ AppIied to removed ratio 1.25 0.86 441 4.02
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 102 of 142
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3414,7 +3414,7 @@ B. PROCESS WASTEWATER ANALYSES
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 103 of 142
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3449,7 +3449,7 @@ DL 1.00 0.50 1.00 1.00 0.10 0.50 10.00 10
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 104 of 142
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3481,7 +3481,7 @@ DL 0.10 1.00 0.10 10.00 1
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 105 of 142
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3513,7 +3513,7 @@ Domestic WeIl - Dixon 4 DW
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 106 of 142
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3545,7 +3545,7 @@ Domestic WeIl - VeIasco DW
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 107 of 142
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3577,7 +3577,7 @@ Irrigation Water - Dixon 1 AW
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 108 of 142
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3609,7 +3609,7 @@ Irrigation Water - Looney 1 AW
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 109 of 142
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3641,7 +3641,7 @@ Irrigation Water - VeIasco 1 AW
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 110 of 142
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3673,7 +3673,7 @@ D. SOIL ANALYSES
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 111 of 142
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3704,7 +3704,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 112 of 142
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3735,7 +3735,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 113 of 142
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3765,7 +3765,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 114 of 142
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3795,7 +3795,7 @@ Correa - 06/11/2023 Corn, siIage
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 115 of 142
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3824,7 +3824,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 116 of 142
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3855,7 +3855,7 @@ Dixon 1 - 06/11/2023 Corn, siIage
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 117 of 142
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3885,7 +3885,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 118 of 142
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3916,7 +3916,7 @@ Dixon 3 - 11/17/2022 Oats, siIage-soft dough
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 119 of 142
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3946,7 +3946,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 120 of 142
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3977,7 +3977,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 121 of 142
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4006,7 +4006,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 122 of 142
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4035,7 +4035,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 123 of 142
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4064,7 +4064,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 124 of 142
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4094,7 +4094,7 @@ DOL 10.00 10.00 10.00 1.00
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 125 of 142
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4125,7 +4125,7 @@ Ginsburg 2 - 11/15/2022 Oats, siIage-soft dough
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 126 of 142
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4155,7 +4155,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 127 of 142
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4186,7 +4186,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 128 of 142
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4217,7 +4217,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 129 of 142
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4247,7 +4247,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 130 of 142
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4277,7 +4277,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 131 of 142
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4308,7 +4308,7 @@ Upton 1 - 11/15/2022 Oats, siIage-soft dough
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 132 of 142
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4338,7 +4338,7 @@ DOL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 133 of 142
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4369,7 +4369,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 134 of 142
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4400,7 +4400,7 @@ VeIasco 2 - 08/17/2023. Cor, siIage
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 135 of 142
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4431,7 +4431,7 @@ DL 100.00 100.00 100.00 0.01
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 136 of 142
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4456,7 +4456,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 137 of 142
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4491,7 +4491,7 @@ N P K saIt
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1375214 Page 138 of 142
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4524,7 +4524,7 @@ lbs lbs
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 139 of 142
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4554,7 +4554,7 @@ wastewater that are new or were revised within the reporting period
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 135214 Page 140 of 142
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4564,7 +4564,7 @@ No notes entered for this annual report.
 Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/25/2024 1352114 Page 141 of 142
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -4596,7 +4596,7 @@ Fagundes Dairy (TF Farms) 23732 Road 12 ChowchiIla, CA 93610 Madera County San J
 
 06/25/2024 135214 Page 142 of 142
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4647,7 +4647,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 18
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4672,7 +4672,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 18
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4698,7 +4698,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 18
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4724,7 +4724,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 18
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4750,7 +4750,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 18
 
-PDF PAGE BREAK 147
+=== Page 147 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4776,7 +4776,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 18
 
-PDF PAGE BREAK 148
+=== Page 148 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4802,7 +4802,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 18
 
-PDF PAGE BREAK 149
+=== Page 149 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4828,7 +4828,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 18
 
-PDF PAGE BREAK 150
+=== Page 150 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4854,7 +4854,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 18
 
-PDF PAGE BREAK 151
+=== Page 151 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4880,7 +4880,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 18
 
-PDF PAGE BREAK 152
+=== Page 152 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -4906,7 +4906,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 11 of 18
 
-PDF PAGE BREAK 153
+=== Page 153 ===
 
 T
 a
@@ -4946,7 +4946,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 12 of 18
 
-PDF PAGE BREAK 154
+=== Page 154 ===
 
 T
 a
@@ -5000,7 +5000,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 13 of 18
 
-PDF PAGE BREAK 155
+=== Page 155 ===
 
 R &J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/21/2023 1021
@@ -5031,7 +5031,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 14 of 18
 
-PDF PAGE BREAK 156
+=== Page 156 ===
 
 a
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
@@ -5061,7 +5061,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 15 of 18
 
-PDF PAGE BREAK 157
+=== Page 157 ===
 
 a
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
@@ -5099,7 +5099,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 16 of 18
 
-PDF PAGE BREAK 158
+=== Page 158 ===
 
 1418 23H1364
 08/15/23 yQ DELLAVALLE LABORATORY, INC.
@@ -5152,7 +5152,7 @@ a se Sam rece TINO
 lantFan_Recey chee ae
 Page 17 of 18
 
-PDF PAGE BREAK 159
+=== Page 159 ===
 
 08/15/23 1418 23H1364
 Ontraco PMSo USPSo Othero
@@ -5178,7 +5178,7 @@ rom TT
 HAAS CCCtsSC(SSSSC( (RSS CWS, SPT
 Home vor Nasonemora 1 JT 4
 
-PDF PAGE BREAK 160
+=== Page 160 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/23/2023 1557
@@ -5220,7 +5220,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 9
 
-PDF PAGE BREAK 161
+=== Page 161 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/23/2023 1557
@@ -5245,7 +5245,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 9
 
-PDF PAGE BREAK 162
+=== Page 162 ===
 
 T
 a
@@ -5287,7 +5287,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 9
 
-PDF PAGE BREAK 163
+=== Page 163 ===
 
 T
 a
@@ -5341,7 +5341,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 9
 
-PDF PAGE BREAK 164
+=== Page 164 ===
 
 R &J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 
@@ -5378,7 +5378,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 9
 
-PDF PAGE BREAK 165
+=== Page 165 ===
 
 a
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
@@ -5408,7 +5408,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 9
 
-PDF PAGE BREAK 166
+=== Page 166 ===
 
 a
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
@@ -5446,7 +5446,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 9
 
-PDF PAGE BREAK 167
+=== Page 167 ===
 
 08/15/23 1418 23H1366 DELLAVALLE LABORATORY, INC. .
 1910 W. McKinIey Avenue, Suite 110 Fresno, CA 93728 ,
@@ -5495,7 +5495,7 @@ a ee P L Yes 1 No t )
                                            t
 Page 8 of 9
 
-PDF PAGE BREAK 168
+=== Page 168 ===
 
 08/15/23 14-18 23H1366
 
@@ -5531,7 +5531,7 @@ HAAS es
 
 aomevoanas,osemcaa ff TT OT CUT CUT UT CT CT
 
-PDF PAGE BREAK 169
+=== Page 169 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5582,7 +5582,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 18
 
-PDF PAGE BREAK 170
+=== Page 170 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5605,7 +5605,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 18
 
-PDF PAGE BREAK 171
+=== Page 171 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5629,7 +5629,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 18
 
-PDF PAGE BREAK 172
+=== Page 172 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5653,7 +5653,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 18
 
-PDF PAGE BREAK 173
+=== Page 173 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5677,7 +5677,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 18
 
-PDF PAGE BREAK 174
+=== Page 174 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5701,7 +5701,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 18
 
-PDF PAGE BREAK 175
+=== Page 175 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5725,7 +5725,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 18
 
-PDF PAGE BREAK 176
+=== Page 176 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5749,7 +5749,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 18
 
-PDF PAGE BREAK 177
+=== Page 177 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5773,7 +5773,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 18
 
-PDF PAGE BREAK 178
+=== Page 178 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5797,7 +5797,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 18
 
-PDF PAGE BREAK 179
+=== Page 179 ===
 
 R & J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 8119 EIlington Ave Account Manager Ben Nydam Reported 08/18/2023 1112
@@ -5821,7 +5821,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 11 of 18
 
-PDF PAGE BREAK 180
+=== Page 180 ===
 
 T
 a
@@ -5874,7 +5874,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 12 of 18
 
-PDF PAGE BREAK 181
+=== Page 181 ===
 
 R &J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 
@@ -5911,7 +5911,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 13 of 18
 
-PDF PAGE BREAK 182
+=== Page 182 ===
 
 T
 a
@@ -5952,7 +5952,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 14 of 18
 
-PDF PAGE BREAK 183
+=== Page 183 ===
 
 T
 a
@@ -6006,7 +6006,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 15 of 18
 
-PDF PAGE BREAK 184
+=== Page 184 ===
 
 R &J AviIa Inc Account 00-0019840 Received 08/15/2023 1418
 
@@ -6043,7 +6043,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 16 of 18
 
-PDF PAGE BREAK 185
+=== Page 185 ===
 
 . ft
 Oana 3
@@ -6098,7 +6098,7 @@ i
 Loy Page 17 of 18
 ns aa
 
-PDF PAGE BREAK 186
+=== Page 186 ===
 
                 08/15/23 14.18 23H1364
 i

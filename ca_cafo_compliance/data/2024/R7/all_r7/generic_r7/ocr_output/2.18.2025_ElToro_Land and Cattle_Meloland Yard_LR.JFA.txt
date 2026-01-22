@@ -28,7 +28,7 @@ one time (and, for dairies, the number of miIkings per day).
 a
 Attachment G Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 a
 Chickens (broiIers) ee
@@ -68,7 +68,7 @@ C. Amount of process wastewater transferred during the reporting period-
 0 gaIlons.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Vv. Summary of Production Area Discharges
 Report aIl discharges of manure, litter, and process wastewater from the production
@@ -101,7 +101,7 @@ maintained at this faciIity.
 hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report 6-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 AIl Composting by TruSource, LLC.
 Stephania Masters Stephamnia Masters, 01/29/2025
@@ -165,7 +165,7 @@ inventory and
 finished
 Attachment G -- Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PC January February March April May June JuIy August September October November December
 Il. FIood
@@ -197,7 +197,7 @@ D Check if anaIysis resuIts are attached.
 If any stormwater discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow
 Attachment G Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 
@@ -239,7 +239,7 @@ rates for the crops that were harvested during the reporting year. Attach additi
 needed.
 Attachment G Annual Report G4
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Source SampIe AnaIytical ResuIts
 sampIed dato Nie TKN TP Unite
@@ -268,7 +268,7 @@ g. Indicate the caIcuIated amount of pIant avaiIabIe nitrogen in the soil, if so
 caicuIating nutrient appIication rates.
 Attachment G - Annual Report G7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication
 
@@ -296,7 +296,7 @@ ss ee es es
 eee es es
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 a gon rwe gts oe
 (Tons) (Tons) (GaIlons) (Tons) (Tons) (GaIlons)
@@ -325,7 +325,7 @@ f. Report the actual amount of manure, compost, litter, or wastewater appIied.
 g. IfOther is seIected, write in the type of manure, litter, or wastewater to be appIied
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -349,7 +349,7 @@ a.List aIl fieIds where manure, compost, litter, or process wastewater was appIi
 in the approved NMP
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the
@@ -363,7 +363,7 @@ Submitted in June 2024, is pending RWOCB approval.
 O Not appIicabIe. A groundwater monitoring program is not required for this faciIity.
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PART E - CERTIFICATION
  certify under penaIty of law that this document and aIl attachments were prepared under my
@@ -389,7 +389,7 @@ PaIm Desert, CA. 92260
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 EL TORO LAND & CATTLE
 
@@ -411,7 +411,7 @@ MELOLAND YARD DATE
 01/23/24
 02/02/24
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 gy, IMPERIAL COUNTY
 yw PUBLIC HEALTH DEPARTMENT
@@ -445,7 +445,7 @@ TruSource, LLC
 1469 La Brucherie Rd
 El Centro, CA 92243
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 ANALYTICAL CHEMISTS TEL 831-724-5422
 BACTERIOLOGISTS FAX 831-724-3188
@@ -503,7 +503,7 @@ SeIenium (Se) 4141 100 mg/kg AnaIyst Assaf Sadeh
 Zine (Zn). 390 2800 mg/kg . oe
 SampIe was received and handIed in accordance with TMECC procedures. oe es
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Account No. Date Received 30 Aug. 24
 4080650 - 1/1 - 9230 SampIe id. Line No. 4-5-6 Lot No. Lot 41012
@@ -560,7 +560,7 @@ Steve Size 6.3 MM (0.25
 48.1 Percent
 dry wt. fAIUses__ 3/ size May Restict Uses forPoIinq mikand.GoGouses a
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Account No. Date Received 30 Aug. 24
 4080650 - 1/1 - 9230 SampIe i.d. Line No. 4-5-6 Lot No. Lot 41012 .
@@ -611,7 +611,7 @@ found on fertiIizer formuIations. A sum greater than 5 is indicative of a compos
 nutrients to a receiving scil. A sum beIow 2 indicates low nutrient content, and is best-used to improve soil structure via the
 addition of organic matter. Most compost faIls between 2 and 5.
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Account No. Date Received 30 Aug. 24
 
@@ -689,7 +689,7 @@ IfRR 10 then X-0.4 Nitrate (NO3-N) 0.07
 Note If C/N ratio 15 additional N shouId be appIied. AvaiIabIe Phosphorus (P2050.64) 18.7
 RR Respiration rate AvaiIabIe Potassium (K20) 43.3
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 ANALYTICAL CHEMISTS TEL 831-724-5422
 and FAX 831-724-3188
@@ -712,7 +712,7 @@ Method of AnaIysis AOAC996.09
 SampIe CoIlected By. Santos GonzaIez
 AnaIyst Assaf Sadeh
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 2) Voro Lana & CattIe Co., line.
 PO Box G, Heber CA 92249
@@ -735,7 +735,7 @@ Regional Board Office, in writing, at least five (5) working days in
 advance.
 I
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Disposal of Dead AnimaIs
 MeIoland Yard
@@ -750,7 +750,7 @@ Stephania Mastery
 Stephania Masters,
 ControIler
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 April 8, 2024
 
@@ -781,7 +781,7 @@ Stephania Mastery
 Stephania Masters,
 ControIler
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 October 21, 2024
 
@@ -812,7 +812,7 @@ Stephania Mastery
 Stephania Masters,
 ControIler
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 EL TORO LAND & CATTLE
 MELOLAND YARD
@@ -836,7 +836,7 @@ Nov-24 0.00 ELTOROYARD MANURE
 Dec-24 0.00 ELTOROYARD MANURE
 TOTAL 6,120.00
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 ATTACHMENT H MANURE TRACKING MANIFEST .
 Manure Tracking Manifest
@@ -880,7 +880,7 @@ operators sgnatre_FAebe Mon ayy 213/25
 HauIers Signature, _26e PIo ate,_2/13/25
 Attachment H - Manure Tracking Manifest H-2
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 ATTACHMENT H MANURE TRACKING MANIFEST ,
 Manure Tracking Manifest
@@ -927,7 +927,7 @@ Operators Signature, BIake PIound Date 2/13/25
 HauIers Signature, BIake AIoud Date 2/13/25
 Attachment H - Manure Tracking Manifest H-2
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 ATTACHMENT H MANURE TRACKING MANIFEST .
 Manure Tracking Manifest
@@ -973,7 +973,7 @@ overars genre FeIs PIone gg 213/25
 HauIers Signature BIake PIoud pate__2/13/25
 Attachment H - Manure Tracking Manifest H-2
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 ATTACHMENT H MANURE TRACKING MANIFEST
 Manure Tracking Manifest
@@ -1018,7 +1018,7 @@ operate syranre, FAs Pre ayy, 213/25
 Hauters Signature- BIake PIourc Date, 2/13/25
 Attachment H - Manure Tracking Manifest H-2
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 ATTACHMENT I STORMWATER AND WASTEWATER MANAGEMENT STRUCTURE AND
 WATER LINES INSPECTION FORM
@@ -1056,7 +1056,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 1-1
 and Water Lines Inspection Form
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 es eS
 found possibIe soIutions.) oaING
@@ -1076,7 +1076,7 @@ heel 7
 wl 7L _
 at ent ros Inepection and Wastewater Management Structure 1-2
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
  BRE
 Gar i
@@ -1093,7 +1093,7 @@ hub f
 luIe(7 1 1
 eIe lt
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 (aS
 Pound). __Pevsbiesotutons) Comreriet Careaniay
@@ -1110,7 +1110,7 @@ Fuel
 ifel7
 el ZL __
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 OK Notes DaiIy
 found esiNo
@@ -1141,7 +1141,7 @@ Week
 Attachment I - Stormwater and Wastewater Management Structure 1-5
 and Water Lines Inspection Form
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 , ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1210,7 +1210,7 @@ as ftp TtCsSCSsYSC(CTTTCTCUCd
 
 ra top ttiidSC((((C(CdrUUU
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1226,7 +1226,7 @@ Ee a
 rb
 I
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1255,7 +1255,7 @@ Da tow ttCrSC(((CCdSCUUU
 rae lw LtCCiSC(C(CTTCUCd
 rat we CtCCiSSC
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1269,7 +1269,7 @@ DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
 pe He PE
 a
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1294,7 +1294,7 @@ Ad
 ras fw lTtCsYSC(CSWTCCUCUCdT CC
 a
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1308,7 +1308,7 @@ DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
 ee
 ES a
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1328,7 +1328,7 @@ ra tow lCdSC(((CSOTCUC OU
 oe fue tit CO
 2 fw ttCCrSC(( CCd
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1344,7 +1344,7 @@ I
 Lf
 RS a
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 , ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1379,7 +1379,7 @@ ra low. lOO (Cd
 2s tow ttCSsYSC((CtTTCUCd
 a SS
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1392,7 +1392,7 @@ Water Line Inspection Log for the Month of MAY 2024
 DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
  30 fw
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
                                                                                                         ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1426,7 +1426,7 @@ i 7 On
 2 fp we ltCdYSC( ( ((C( Cd UU
 fa tow lO CS
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1438,7 +1438,7 @@ LAND & CATTLE
 Water Line Inspection Log for the Month of JUNE 2024
     INITIALS LEAK DETECTED DATE FIXED REMARKS
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 , ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1464,7 +1464,7 @@ ao foe) tCidYC( _((CWWVUCT UU
 ia tue LCC Cid
 7
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1480,7 +1480,7 @@ DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
 ee
 Ee a
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1513,7 +1513,7 @@ a 7
 Date tCtiiSSSSTTTTCd
 3s fw ttisSt((((CCd
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1528,7 +1528,7 @@ EO
 a a a
 Ee
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 ORDER NO, R7-2008-0800
 NPDES NO.CAG01700
@@ -1557,7 +1557,7 @@ ras pw fTTTCdYC( (CCCUCT UU
 ras ye) i,
 ro fw ti, Cd
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1570,7 +1570,7 @@ Water Line Inspection Log for the Month of SEPTEMBER 2024
 DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
 PE
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1600,7 +1600,7 @@ ro lvl i, sd
 ee
 a bow liirSC( TCUCdE
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1616,7 +1616,7 @@ a
 f 30 f wT
 baat owe
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1653,7 +1653,7 @@ a foe tCtiSC(C Cd
 rs foe. tC CSC
 a fae tTCSdC
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1666,7 +1666,7 @@ Water Line Inspection Log for the Month of NOVEMBER 2024
 DATE INITIALS LEAK DETECTED DATE FIXED REMARKS
 A a
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAGO1700
@@ -1700,7 +1700,7 @@ fo ow )
 fas fw ( J
 fra ftuw
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 ORDER NO. R7-2008-0800
 NPDES NO.CAG01700
@@ -1717,7 +1717,7 @@ Pas ve TttidS((CsSOSOSCOCTT
 ee a
 fait we OCCT
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 fa. -
 er. El Toro Land & CattIe
@@ -1751,7 +1751,7 @@ es Oe
 Das CSS
 ea eV -2
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 4 _)
 ( _ El Toro Land & CattIe
@@ -1766,7 +1766,7 @@ Ee ee
 Le
 jaf oy, COO
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 a -)
 wr x EI Toro Land & CattIe
@@ -1799,7 +1799,7 @@ a 0
 Po fy UTCU
 raf Ae pa
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 /m.
 Et Toro Land & CattIe
@@ -1813,7 +1813,7 @@ DATE HOURS SIGNATURE
 a
 oe
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 lf. -_)
 2 _ El Toro Land & CattIe
@@ -1844,7 +1844,7 @@ ra . b ( Aenx
 Tae GU AP.
 Taf 6 aes 4
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 - El Toro Land & CattIe
 1 PO BOXG
@@ -1860,7 +1860,7 @@ ee ee ee,
  30 GOK OS
 j 32 lf
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 iL a
 El Toro Land & CattIe
@@ -1892,7 +1892,7 @@ raft, ( ge 7
 ra f 4 Ae 4
 fa ff, ag
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 rS
 El Toro Land & CattIe
@@ -1909,7 +1909,7 @@ DATE HOURS CSIGNATURE
 eo ee
 SS ae
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 SS
 we El Toro Land & CattIe
@@ -1942,7 +1942,7 @@ fa . jes. 4
 fal 4 ( 4eo7 4
 lal vy . Ae
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 4 -_)
 (2 El Toro Land & CattIe
@@ -1957,7 +1957,7 @@ pare T HOURS SIGNATURE
 p29 fe
 p32 le CS
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 x. _)
 er sm El Toro Land & CattIe
@@ -1991,7 +1991,7 @@ lo fb Aes
 rz y ( dew
 fat yl. ge.
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 SLz
 El Toro Land & CattIe
@@ -2005,7 +2005,7 @@ DaTe_ HOURS SIGNATURE
 ee
  30 eT CU OCS
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 SE oe
 El Toro Land & CattIe
@@ -2033,7 +2033,7 @@ lm) ob / es
 roel bf ge, 4
 (af vv aep
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 El Toro Land & CattIe
 1 PO BOX G
@@ -2048,7 +2048,7 @@ ee
 2)
 fj 32 fT OO
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 a -)
 wr El Toro Land & CattIe
@@ -2083,7 +2083,7 @@ Pal YF ga4ea
 fal 4 4eo
 laf 4 ( te .
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 S-ze
 El Toro Land & CattIe
@@ -2098,7 +2098,7 @@ p29 fe fe
 p30 fe
 EO
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 SS J)
 er i El Toro Land & CattIe
@@ -2131,7 +2131,7 @@ Daf bl wes
 fol 4 / .
 lal bp l sf J
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 4 -_)
 (2 _ El Toro Land & CattIe
@@ -2146,7 +2146,7 @@ ee
 pz foe kl UU SCS
  30 CE ks UK CSY
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 ar S
 CE El Toro Land & CattIe
@@ -2185,7 +2185,7 @@ Pos Tu HR
 
 aIy eS
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 S-
 El Toro Land & CattIe
@@ -2200,7 +2200,7 @@ Pe
 ee 2
 RE
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 ya S J
 2 sin EI Toro Land & CattIe
@@ -2235,7 +2235,7 @@ roe, yy ica
 fal y ( aqern
 raf
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 El Toro Land & CattIe
 i PO BOX G
@@ -2251,7 +2251,7 @@ ee ee
  30 eT
 RO
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 _S
 El Toro Land & CattIe
@@ -2290,7 +2290,7 @@ rao tl 4 ( aes
 
 27
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 SS
 El Toro Land & CattIe

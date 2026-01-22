@@ -52,7 +52,7 @@ CA 93272 | Tulare County | Tulare Basin
 
 Page 1 of 38
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -95,7 +95,7 @@ AVAILABLE NUTRIENTS
 
 Page 2 of 38
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -125,7 +125,7 @@ No liquid nutrient exports entered.
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 3 of 38
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -169,7 +169,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 4 of 38
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -307,7 +307,7 @@ TFS (%)
 
 Page 5 of 38
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -348,7 +348,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 6 of 38
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -396,7 +396,7 @@ Salt (mg/kg) TFS (%)
 
 Page 7 of 38
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -435,7 +435,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 8 of 38
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -651,7 +651,7 @@ Amount
 
 Page 9 of 38
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -688,7 +688,7 @@ Application event totals 104.29 9.95 118.58 1,082.96
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 10 of 38
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -837,7 +837,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 11 of 38
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1055,7 +1055,7 @@ Plant date: 11/20/2022
 
 Page 12 of 38
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1093,7 +1093,7 @@ Application event totals 104.32 10.58 149.46 677.74
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 13 of 38
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1337,7 +1337,7 @@ Amount
 
 Page 14 of 38
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1379,7 +1379,7 @@ Application event totals 87.23 8.85 124.97 574.99
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 15 of 38
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1571,7 +1571,7 @@ Precipitation 24 hours following
 
 Page 16 of 38
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1597,7 +1597,7 @@ Application event totals 69.34 7.03 99.33 455.55
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 17 of 38
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1639,7 +1639,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 18 of 38
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1677,7 +1677,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 19 of 38
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1717,7 +1717,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 20 of 38
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1756,7 +1756,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 21 of 38
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1796,7 +1796,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 22 of 38
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1834,7 +1834,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 23 of 38
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1873,7 +1873,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 24 of 38
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1972,7 +1972,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 25 of 38
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2012,7 +2012,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 26 of 38
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -2055,7 +2055,7 @@ B. PROCESS WASTEWATER ANALYSES
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 27 of 38
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2096,7 +2096,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 28 of 38
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2141,7 +2141,7 @@ P4
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 29 of 38
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 P4
@@ -2176,7 +2176,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 30 of 38
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 1A - 06/24/2023: Corn, silage
@@ -2229,7 +2229,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 31 of 38
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 2 - 11/20/2022: Triticale, soft dough
@@ -2281,7 +2281,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 32 of 38
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 3 - 06/15/2023: Sorghum
@@ -2324,7 +2324,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 33 of 38
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -2362,7 +2362,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 34 of 38
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2447,7 +2447,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 Page 35 of 38
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2493,7 +2493,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 36 of 38
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2509,7 +2509,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 37 of 38
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2534,7 +2534,7 @@ eee
 Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tulare Basin
 06/10/2024 15:53:05 Page 38 of 38
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2569,7 +2569,7 @@ Coronado Dairy Farms, LLC | 5850 160 AVE | Tipton, CA 93272 | Tulare County | Tu
 
 06/10/2024 15:53:05 Page 1 of 1
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
 
@@ -2641,7 +2641,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2684,7 +2684,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2750,7 +2750,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Laboratory Analysis Work Order Q2¢/ y , SD 3043
 
 sITENAME: [Owor Wie T.D.- LABORATORY: VT
@@ -2803,7 +2803,7 @@ TABORATORY USE ONLY
 Logged In By: Total Samples: Laboratory No.:
 
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 FGL Environmental "Doe ID: 3D0900002_SOP_12.DOC
 Revision Date: 10/09/14 Page 1 of 1
 
@@ -2881,7 +2881,7 @@ Resolution: . Ml 2344187
 
 tto vs
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2954,7 +2954,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2999,7 +2999,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3067,7 +3067,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Laboratory Analysis Work Order 3135
 
 | FGL 4-19696
@@ -3129,7 +3129,7 @@ CHAIN OF CUSTODY RECORDING
 
 Laboratory No.:
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 FGL Environmental Doc DD: 3D0900002_SOP_12.DOC
 Revision Date: 10/09/14 Page 1 of 1
 
@@ -3210,7 +3210,7 @@ contacts)
 
 ++aeac 14D RUINDer here
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3287,7 +3287,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3326,7 +3326,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3372,7 +3372,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 No. 3502
 
 Laboratory Analysis Work Order
@@ -3422,7 +3422,7 @@ Y/
 Total Samples: Laboratory No, UA
 YD WS
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 FGL Environmental Doc ID:
 
 0o0_uno_temp17754627647086214641.DOC *

@@ -55,7 +55,7 @@ fa haar 2
 8, 2 GIO &
 fe, _ ye
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -89,7 +89,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors . Yes O No ge
 1 CaIf produces approximateIy 0.6 tons of manure per year
 4 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -123,7 +123,7 @@ Signature-
 Date -lQ-
 TitIe Ce
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 . &
 Form 4. Manure Tracking Manifest .
@@ -188,7 +188,7 @@ HauIers Signature A Date- 1A AW 24 ,
 . 2. GPS coordinates shaIl be provided for aIl destinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B-16
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 .
 ae
@@ -246,7 +246,7 @@ waves sorawe, A ete (2, ffodIete __ove_ YO har 93
 . 2. GPS coordinates shaIl be provided for aIl destinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B-16 -
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 _
 Form 4. Manure Tracking Manifest

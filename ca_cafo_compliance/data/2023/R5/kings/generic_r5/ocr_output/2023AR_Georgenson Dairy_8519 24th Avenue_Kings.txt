@@ -46,7 +46,7 @@ This owner is responsible for paying permit fees.
 Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/30/2024 08:47:28 Page 1 of 31
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -87,7 +87,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 2 of 31
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -112,7 +112,7 @@ Total exports for all materials 69,120.00 32,000.00 119,680.00 2,308,320.00
 Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/30/2024 08:47:28 Page 3 of 31
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -159,7 +159,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 4 of 31
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field #3
@@ -198,7 +198,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 5 of 31
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -227,7 +227,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 6 of 31
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -268,7 +268,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 7 of 31
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -514,7 +514,7 @@ Amount
 
 Page 8 of 31
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -597,7 +597,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 9 of 31
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -766,7 +766,7 @@ Salt (Ibs/acre) Amount
 
 Page 10 of 31
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -980,7 +980,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 11 of 31
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1160,7 +1160,7 @@ Salt (Ibs/acre)
 
 Page 12 of 31
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1370,7 +1370,7 @@ Amount
 
 Page 13 of 31
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1427,7 +1427,7 @@ Salt (Ibs/acre) Amount
 
 Page 14 of 31
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1468,7 +1468,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 15 of 31
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1505,7 +1505,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 16 of 31
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1542,7 +1542,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 17 of 31
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1578,7 +1578,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 18 of 31
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1615,7 +1615,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 19 of 31
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1652,7 +1652,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 20 of 31
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1689,7 +1689,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/30/2024 08:47:28 Page 21 of 31
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1726,7 +1726,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 Page 22 of 31
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Canal
@@ -1769,7 +1769,7 @@ D. SOIL ANALYSES
 Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/30/2024 08:47:28 Page 23 of 31
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 No soil analyses entered.
@@ -1811,7 +1811,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 Page 24 of 31
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field #8 - 11/01/2022: Wheat, silage, boot stage
@@ -1863,7 +1863,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 Page 25 of 31
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field#13 - 06/01/2023: Corn, silage
@@ -1891,7 +1891,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 Page 26 of 31
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1937,7 +1937,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 27 of 31
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1976,7 +1976,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 28 of 31
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2022,7 +2022,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 29 of 31
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2037,7 +2037,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 30 of 31
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2058,7 +2058,7 @@ DATE DATE
 Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/23/2024 18:21:48 Page 31 of 31
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2093,7 +2093,7 @@ Georgeson Dairy | 8519 24th AVE | Lemoore, CA 93245 | Kings County | Tulare Basi
 
 06/30/2024 08:47:28 Page 1 of 1
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -2163,7 +2163,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 10/25/2023
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -2189,7 +2189,7 @@ fine and imprisonment for knowi
 
 jauler Signature Date
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2267,7 +2267,7 @@ party interpretation.
 
 Page 1 of 11
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2296,7 +2296,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 11
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2339,7 +2339,7 @@ party interpretation.
 
 Page 3 of 11
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2394,7 +2394,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 11
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2440,7 +2440,7 @@ party interpretation.
 
 Page 5 of 11
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2525,7 +2525,7 @@ Page 6 of 11
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2562,7 +2562,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 11
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 WN
 
 12/13/23 07:00 23L.0730 a ed
@@ -2636,7 +2636,7 @@ Amt Paid Rec By Check No. [ 1¥es [ 1 No cttupdate 2020
 
 Page 8 of 11
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 INN
 
 3/23 07:00 23L0730
@@ -2696,7 +2696,7 @@ sg
 a.
 no
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 WN
 
 12/13/23 07:00 23L.0730 a ed
@@ -2770,7 +2770,7 @@ Amt Paid Rec By Check No. [ 1¥es [ 1 No cttupdate 2020
 
 Page 10 of 11
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 INN
 
 3/23 07:00 23L0730
@@ -2832,7 +2832,7 @@ sg
 a.
 no
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2887,7 +2887,7 @@ party interpretation.
 
 Page 1 of 6
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2913,7 +2913,7 @@ Page 2 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2975,7 +2975,7 @@ party interpretation.
 
 Page 3 of 6
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 SELLAVALLE™
 
 LABORATORY
@@ -3045,7 +3045,7 @@ party interpretation.
 
 Page 4 of 6
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 vi Pav
 08/17/23 08:34 23H1603
 DELLAVALLE LABORATORY, INC.
@@ -3125,7 +3125,7 @@ Lecation: Laboratory
 
 Page 5 of 6
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 UII nv
 
 08/17/23 08:34 22111603

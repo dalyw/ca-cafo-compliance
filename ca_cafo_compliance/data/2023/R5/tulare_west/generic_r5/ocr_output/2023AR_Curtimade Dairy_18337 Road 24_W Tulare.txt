@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 74
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ Source Description Type
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 2 of 74
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -98,7 +98,7 @@ Total exports for all materials 5,118.75 3,375.00 9,450.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 3 of 74
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -135,7 +135,7 @@ Field name 30
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 4 of 74
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -167,7 +167,7 @@ Field name 32
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 5 of 74
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -199,7 +199,7 @@ Total actual harvest content 0.00 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 6 of 74
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -225,7 +225,7 @@ Field name 38
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 7 of 74
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -251,7 +251,7 @@ Field name 40
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 8 of 74
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -282,7 +282,7 @@ Total actual harvest content 21.00 201.60 37.80 281.40 2,237.26
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 9 of 74
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -313,7 +313,7 @@ Total actual harvest content 29.00 272.60 63.80 278.40 1,328.78
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 10 of 74
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -344,7 +344,7 @@ Total actual harvest content 0.00 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 11 of 74
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -378,7 +378,7 @@ Application event totals 152.18 0.00 0.00 576.54
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 12 of 74
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -408,7 +408,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 13 of 74
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -442,7 +442,7 @@ Application event totals 168.00 79.80 285.60 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 14 of 74
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -473,7 +473,7 @@ Application event totals 1.05 0.00 0.00 277.30
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 15 of 74
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -503,7 +503,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 16 of 74
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -537,7 +537,7 @@ Application event totals 120.00 57.00 204.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 17 of 74
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -569,7 +569,7 @@ Application event totals 91.13 25.18 238.22 1,635.80
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 18 of 74
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -601,7 +601,7 @@ Application event totals 0.65 0.00 0.00 171.13
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 19 of 74
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -631,7 +631,7 @@ Application event totals 76.44 26.26 243.08 1,385.76
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 20 of 74
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -663,7 +663,7 @@ Application event totals 0.72 0.00 0.00 189.76
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 21 of 74
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -701,7 +701,7 @@ Application event totals 134.84 46.32 428.76 2,557.36
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 22 of 74
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -734,7 +734,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 23 of 74
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -765,7 +765,7 @@ Application event totals 168.00 79.80 285.60 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 24 of 74
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -796,7 +796,7 @@ Application event totals 27.30 18.00 50.40 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 25 of 74
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -828,7 +828,7 @@ Application event totals 17.58 0.00 0.00 2,385.56
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 26 of 74
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -865,7 +865,7 @@ Applied to removed ratio 1.18 0.00 0.00 0.65
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 27 of 74
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -898,7 +898,7 @@ Applied to removed ratio 1.12 0.00 0.00 0.59
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 28 of 74
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -932,7 +932,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 29 of 74
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -967,7 +967,7 @@ Applied to removed ratio 1.33 2.31 1.74 1.36
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 30 of 74
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1001,7 +1001,7 @@ Applied to removed ratio 1.21 1.94 1.57 1.81
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 31 of 74
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1035,7 +1035,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 32 of 74
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1069,7 +1069,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 33 of 74
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1103,7 +1103,7 @@ Applied to removed ratio 1.19 2.28 2.06 2.63
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 34 of 74
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1137,7 +1137,7 @@ Applied to removed ratio 1.23 1.66 1.38 2.06
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 35 of 74
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1172,7 +1172,7 @@ Applied to removed ratio 1.14 1.51 1.38 2.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 36 of 74
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1207,7 +1207,7 @@ Applied to removed ratio 1.20 2.86 2.03 0.98
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 37 of 74
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1242,7 +1242,7 @@ Applied to removed ratio 1.15 1.37 2.00 5.42
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 38 of 74
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1276,7 +1276,7 @@ Applied to removed ratio 1.22 2.51 1.73 0.88
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 39 of 74
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1311,7 +1311,7 @@ Applied to removed ratio 1.28 2.75 3.09 4.49
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 40 of 74
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1345,7 +1345,7 @@ Applied to removed ratio 1.33 2.99 1.84 0.70
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 41 of 74
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1380,7 +1380,7 @@ Applied to removed ratio 1.19 1.77 3.15 3.78
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 42 of 74
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1415,7 +1415,7 @@ Applied to removed ratio 1.29 2.16 1.43 0.96
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 43 of 74
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1450,7 +1450,7 @@ Applied to removed ratio 1.12 1.64 2.64 4.29
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 44 of 74
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1484,7 +1484,7 @@ Applied to removed ratio 0.00 0.00 0.00 0.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 45 of 74
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1518,7 +1518,7 @@ B. PROCESS WASTEWATER ANALYSES
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 46 of 74
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1553,7 +1553,7 @@ DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 47 of 74
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1588,7 +1588,7 @@ DL 0.70 0.20 0.01 0.01 0.02 0.20 1.00 10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 48 of 74
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1618,7 +1618,7 @@ OL 0.20 0.01 0.10 0.10 0.03 3.00 0.90 0.03 0.03 1.00 10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 49 of 74
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1649,7 +1649,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 50 of 74
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1679,7 +1679,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 51 of 74
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1710,7 +1710,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 52 of 74
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1740,7 +1740,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 53 of 74
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1771,7 +1771,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 54 of 74
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1801,7 +1801,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 55 of 74
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1832,7 +1832,7 @@ AIA
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 56 of 74
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1863,7 +1863,7 @@ DOL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 57 of 74
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1893,7 +1893,7 @@ OL 0.20 0.01 1.00
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 58 of 74
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1925,7 +1925,7 @@ D. SOIL ANALYSES
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 59 of 74
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1954,7 +1954,7 @@ DL 1.10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 60 of 74
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1983,7 +1983,7 @@ DL 1.10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 61 of 74
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2012,7 +2012,7 @@ DL 1.10
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 62 of 74
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2043,7 +2043,7 @@ DL 0.10 0.10 0.10 0.01
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 63 of 74
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2074,7 +2074,7 @@ DL 0.10 0.10 0.10 0.01
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 64 of 74
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2105,7 +2105,7 @@ DL 0.10 0.10 0.10 0.01
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 65 of 74
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2136,7 +2136,7 @@ DL 0.10 0.10 0.10 0.01
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 66 of 74
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2167,7 +2167,7 @@ DL 0.10 0.10 0.10 0.01
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 67 of 74
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2184,7 +2184,7 @@ No subsurface (tile) drainage analyses entered.
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 68 of 74
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2218,7 +2218,7 @@ N P K salt
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0754.26 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 69 of 74
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2249,7 +2249,7 @@ Ibs Ibs
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 0775426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 70 of 74
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2279,7 +2279,7 @@ wastewater that are new or were revised within the reporting period
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 71 of 74
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2312,7 +2312,7 @@ be sampled again when operable.
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 07-5426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 72 of 74
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2326,7 +2326,7 @@ The following sections contain validation errors and should be reviewed before s
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 73 of 74
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2343,7 +2343,7 @@ DATE DATE
 . Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
             4116/2023 1023719 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 73 of 73
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2367,7 +2367,7 @@ Storm Water Reporting Section on page MRP-14.
 Curtimade Dairy Inc. 18337 Road 24 Tulare, CA 93274 Tulare County Tulare Basin
 06/17/2024 075426 REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS Page 1 of 1
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Sola Consulting Inc Account 00-0020655 Received 05/11/2023 859
 PO Box 190 Account Manager Ben Nydam Reported 06/02/2023 1329
@@ -2408,7 +2408,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 8
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Sola Consulting Inc Account 00-0020655 Received 05/11/2023 859
 PO Box 190 Account Manager Ben Nydam Reported 06/02/2023 1329
@@ -2430,7 +2430,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 8
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 T
 a
@@ -2469,7 +2469,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 8
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 T
 a
@@ -2522,7 +2522,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Sola Consulting Inc Account 00-0020655 Received 05/11/2023 859
 PO Box 190 Account Manager Ben Nydam Reported 06/02/2023 1329
@@ -2544,7 +2544,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 a
 Sola Consulting Inc Account 00-0020655 Received 05/11/2023 859
@@ -2578,7 +2578,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 - a ss a
 I f
@@ -2631,7 +2631,7 @@ S&S Dairy 15850 18.00 Qnty
 pie 2020
 Page 7 of 8
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 f)
 Shipping Information Shipped ino Picked-Upo Walking DLiSampierc Other ANT TO
@@ -2675,7 +2675,7 @@ fomers
 others
 Page 8 of 8
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/01/2023 1222
@@ -2717,7 +2717,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 11
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 SELLAVALLE
 
@@ -2755,7 +2755,7 @@ Alt results listed in this report are for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 T
 a
@@ -2810,7 +2810,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 11
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/01/2023 1222
@@ -2832,7 +2832,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 11
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -2888,7 +2888,7 @@ Alf results listed in this report are for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
@@ -2935,7 +2935,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 11
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
@@ -2989,7 +2989,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 11
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/01/2023 1222
@@ -3018,7 +3018,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 11
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
@@ -3048,7 +3048,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 11
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 . 23G1571
 07/21/23 07-13 M
@@ -3101,7 +3101,7 @@ Caltbration Due 9/26/2023
 Location Laboratory
 Page 10 of 11
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 07/21/23 0713 2361571,
 
@@ -3162,7 +3162,7 @@ pox
 
 others
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3200,7 +3200,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 13
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3223,7 +3223,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 13
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3247,7 +3247,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 13
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3271,7 +3271,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 13
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3295,7 +3295,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 13
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3319,7 +3319,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 13
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3343,7 +3343,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 13
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3367,7 +3367,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 13
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 T
 a
@@ -3408,7 +3408,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 13
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 T
 a
@@ -3462,7 +3462,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 10 of 13
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 07/31/2023 1205
@@ -3491,7 +3491,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 11 of 13
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 07/21/23 07.13 2361572
 - DELLAVALLE LABORATORY, INC.
@@ -3547,7 +3547,7 @@ Correction Factor 0C
 Location Laboratory.
 Page 12 of 13
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 07/21/23 07.13 2361572
 
@@ -3596,7 +3596,7 @@ HAAS -250mLAGAmmoniumChiorte 1 J J
 owt CsCs(drYSSCdTCCULdLCULLLLUL
 jother tCsssiiMSzdCYLSC((SCW.C(GSCSLT(SS C&sL/ CS ST ss WT CT
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1540
@@ -3640,7 +3640,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 10
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1540
@@ -3664,7 +3664,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 10
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1540
@@ -3688,7 +3688,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 10
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1540
@@ -3712,7 +3712,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 10
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 T
 a
@@ -3754,7 +3754,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 10
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 T
 a
@@ -3808,7 +3808,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 10
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1540
@@ -3837,7 +3837,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 10
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/21/2023 7213
@@ -3873,7 +3873,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 10
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 07/21/23 0713 2361573
 DELLAVALLE LABORATORY, Gy 23
@@ -3926,7 +3926,7 @@ Calibration Due 9/26/2023
 Location Laboratory
 Page 9 of 10
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 07/21/23 0713 2361573
 
@@ -3970,7 +3970,7 @@ foter CO
 
 Page 10 of 10
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4018,7 +4018,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 12
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4041,7 +4041,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 12
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4065,7 +4065,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 12
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4089,7 +4089,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 12
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4114,7 +4114,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 12
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4139,7 +4139,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 12
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 T
 a
@@ -4181,7 +4181,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 12
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 T
 a
@@ -4235,7 +4235,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 12
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/08/2023 1628
@@ -4260,7 +4260,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 12
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
@@ -4296,7 +4296,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 10 of 12
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 ie
 07/28/23 0700 2232097 Q
@@ -4355,7 +4355,7 @@ Sample recenved in cooks with ice
 Amt Pad Roc Bs Check No Dae L 1 Yes LL No at gpaate 2020
 _
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 Tm
 UL
@@ -4396,7 +4396,7 @@ HAAS -250mLAGAmmoniumChioite s,s, ft oT
 pont tCssCSYSCdSCCUCdECCLCUdLCLTLCLCULdLCLCULd LULU
 othe, Ss tssssstsiSs(CtsirYSC(iYSSCdTC (sd CCT CC
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/07/2023 0929
@@ -4438,7 +4438,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 11
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 SELLAVALLE
 
@@ -4476,7 +4476,7 @@ Alt results listed in this report are for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
 T
 a
@@ -4531,7 +4531,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 11
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/07/2023 0929
@@ -4553,7 +4553,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 11
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
@@ -4607,7 +4607,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 11
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/07/2023 0929
@@ -4636,7 +4636,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 11
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 SELLAVALLE
 LABORATORY INC
@@ -4692,7 +4692,7 @@ Alf results listed in this report are for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 a
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
@@ -4727,7 +4727,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 8 of 11
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 07/28/2023 700
 18337 Rd 24 Account Manager Ben Nydam Reported 08/07/2023 0929
@@ -4756,7 +4756,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 11
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
 an
         07/28/23 0700 2232099 OM
@@ -4810,7 +4810,7 @@ Sampling Hrs Miles Consulting s Out Stgnatuns
                               Aunt Paid Rec By Check No Date 1 1 Yes 1 No ab bite 2120
 Page 10 of 11
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
 07/28/23 07-00 2162099
 Shipping Information Shipped Inco Picked-Upo Walkinc DLI SampleX Othero_
@@ -4850,7 +4850,7 @@ HAAS -250mLAG Ammonium Chionte fT
 oowm
 others
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 08/04/2023 7115
 18337 Rd 24 Account Manager Ben Nydam Reported 08/14/2023 1124
@@ -4893,7 +4893,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 9
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 08/04/2023 7115
 18337 Rd 24 Account Manager Ben Nydam Reported 08/14/2023 1124
@@ -4917,7 +4917,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 9
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 08/04/2023 7115
 18337 Rd 24 Account Manager Ben Nydam Reported 08/14/2023 1124
@@ -4941,7 +4941,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 9
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
 T
 a
@@ -4983,7 +4983,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 9
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
 T
 a
@@ -5037,7 +5037,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 9
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
 Curtimade Dairy Inc Account 00-0015775 Received 08/04/2023 7115
 18337 Rd 24 Account Manager Ben Nydam Reported 08/14/2023 1124
@@ -5062,7 +5062,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 9
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 T
 a
@@ -5099,7 +5099,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 9
 
-PDF PAGE BREAK 147
+=== Page 147 ===
 
 oe _ agao7
 08/04/23 0715 23H0629 .
@@ -5154,7 +5154,7 @@ Sample recened 1 cooler with 1ce
 Ami Paid Rec By Cheek No Date 1 1Yes No eit update 2027
 Page 8 of 9
 
-PDF PAGE BREAK 148
+=== Page 148 ===
 
 noioary, MEERA
 123 07.15 23H0629
@@ -5197,7 +5197,7 @@ HAAS -260mL AG Ammonium Chionte fT
 power CO eee
 others ET
 
-PDF PAGE BREAK 149
+=== Page 149 ===
 
  , - Wanure Tracking Manifest .
 Onerstor information. ,

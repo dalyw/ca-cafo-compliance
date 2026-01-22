@@ -17,7 +17,7 @@ Cc NY S PO BOX 906
 aaa NEWMAN CA 95360
 
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 DAIRY FACILITY INFORMATION
@@ -65,7 +65,7 @@ This owner is responsible for paying permit fees.
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 1 of 33
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -105,7 +105,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 2 of 33
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -128,7 +128,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 3 of 33
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -185,7 +185,7 @@ TFS (%)
 
 Page 4 of 33
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -226,7 +226,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 5 of 33
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -348,7 +348,7 @@ TFS (%)
 
 Page 6 of 33
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -388,7 +388,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 7 of 33
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -427,7 +427,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 8 of 33
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -608,7 +608,7 @@ Salt (Ibs/acre) Amount
 
 Page 9 of 33
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -645,7 +645,7 @@ Application event totals 64.95 12.66 93.53 2,406.14
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 10 of 33
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -683,7 +683,7 @@ Application event totals 21.07 3.66 35.78 118.92
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 11 of 33
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -721,7 +721,7 @@ Application event totals 87.47 11.05 84.64 405.33
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 12 of 33
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -905,7 +905,7 @@ Salt (Ibs/acre) Amount
 
 Page 13 of 33
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -922,7 +922,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 14 of 33
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1022,7 +1022,7 @@ Plant date: 11/24/2022
 
 Page 15 of 33
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1100,7 +1100,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 16 of 33
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1225,7 +1225,7 @@ Plant date: 11/25/2022
 
 Page 17 of 33
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1376,7 +1376,7 @@ Plant date: 06/01/2023
 
 Page 18 of 33
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1504,7 +1504,7 @@ Plant date: 11/25/2022
 
 Page 19 of 33
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1623,7 +1623,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 20 of 33
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1778,7 +1778,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 21 of 33
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1815,7 +1815,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 22 of 33
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1858,7 +1858,7 @@ DL 100.00 100.00 100.00 1.00
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 23 of 33
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1895,7 +1895,7 @@ DL 0.01 0.01 0.01 0.01 0.01 0.01 0.01 1
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 24 of 33
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1936,7 +1936,7 @@ E. PLANT TISSUE ANALYSES
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 25 of 33
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 1 - 11/24/2022: Wheat, silage, soft dough
@@ -1990,7 +1990,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 26 of 33
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2 - 06/01/2023: Sudangrass, silage
@@ -2044,7 +2044,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 27 of 33
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4 - 11/25/2022: Wheat, silage, soft dough
@@ -2088,7 +2088,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 28 of 33
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -2126,7 +2126,7 @@ N F K salt
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 29 of 33
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2210,7 +2210,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 Page 30 of 33
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -2255,7 +2255,7 @@ wastewater that are new or were revised within the reporting period?
 Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
 06/26/2024 21:01:37 Page 31 of 33
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -2268,7 +2268,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 32 of 33
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -2291,7 +2291,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 33 of 33
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -2326,7 +2326,7 @@ Fred Thommen Dairy | 53955 W Nees AVE | Firebaugh, CA 93622 | Fresno County | Sa
 
 06/26/2024 21:01:37 Page 1 of 1
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -2394,7 +2394,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 04/01/2023
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -2424,7 +2424,7 @@ Operator Signature Date
 
 Hauler Signature Date
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 2023 Thommen
 
 ATTACHMENT D
@@ -2497,7 +2497,7 @@ Manure Solids Content (if amount reported in tons):
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 202 3 Th OW vy 24
 Attachment D D-
 

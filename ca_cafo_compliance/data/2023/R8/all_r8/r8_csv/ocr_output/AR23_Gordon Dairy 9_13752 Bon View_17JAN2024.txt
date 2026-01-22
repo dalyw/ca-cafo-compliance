@@ -39,7 +39,7 @@ v9 oe
 9, we oo
 fe, .
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 
@@ -72,7 +72,7 @@ Date. l - e. 2.4
 / Vv
 TitIe f j GA Age
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -107,7 +107,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors7 Yes oO Nowe
 1 CaIf produces approximateIy 0.6 tons of manure per year
 1 fon of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Form 4. Manure Tracking Manifest .
 RegIonsd Water QuaIity Control Board
@@ -150,7 +150,7 @@ bo egg Beg . 4 Pa er Ban
 Attachment 8 - Monitoring and Reporting Program CeBMB Oe
 Se es
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAG018001
 . Concentrated Animal Feeding Operations Form 4
@@ -201,7 +201,7 @@ and imprisonment for knowing vioIations.
 Operators Signature. CC Date. Gr 227 _
 HauIers Signature VU Suinf2 f (nti Date fo 93-2S
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 
@@ -278,7 +278,7 @@ a
 
 HauIers Signature VON YATE Date. e- 23- a ,
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Form 4. Manure Tracking Manifest - ,
                            Regionst Water QuaIity Control Board
@@ -332,7 +332,7 @@ Operators Signature. Ce Dete _ 0-272 _ .
 2. GPS coordinates shail be provided for aIl destinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B16
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 . . ) were
 Form 4. Manure Tracking Manifest . .
@@ -384,7 +384,7 @@ dauIers Signature Date _1a-4-DBS .
 . 2. GPS coordinates shaIl be provided for aIl destinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B16
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 4 Form 4. Manure Tracking Manifest
                      Regional Water QuaIity Control Board

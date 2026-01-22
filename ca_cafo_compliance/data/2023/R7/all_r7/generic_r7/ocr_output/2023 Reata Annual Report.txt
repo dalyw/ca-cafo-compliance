@@ -25,7 +25,7 @@ one time (and, for dairies, the number of miIkings per day).
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Ptueys
 Chickens (layers) ee
@@ -69,7 +69,7 @@ C. Amount of process wastewater transferred during the reporting period
 0 gaIlons.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Vv. Summary of Production Area Discharges
 Report aIl discharges of manure, litter, and process wastewater from the production
@@ -102,7 +102,7 @@ maintained at this faciIity.
 hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 IA I certify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -136,7 +136,7 @@ inventory and
 finished
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 fC January February March April May June JuIy August September October November December
 il. FIood
@@ -168,7 +168,7 @@ O Check if anaIysis resuIts are attached.
 If any stormwater discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow.
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 
@@ -211,7 +211,7 @@ rates for the crops that were harvested during the reporting year. Attach additi
 needed.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Source SampIe AnaIytical ResuIts
 sampIed date NHeN TKN TP Units
@@ -239,7 +239,7 @@ g. Indicate the caIcuIated amount of pIant avaiIabIe nitrogen in the soil, if so
 caIcuIating nutrient appIication rates.
 Attachment G Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 1V. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId
@@ -266,7 +266,7 @@ a a a er ee
 Ps ae es
 Attachment G - Annual Report G-38
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
                 PIanned Manure to be AppIied Actual Manure AppIied
 Crop(s) YieIde YieId
@@ -283,7 +283,7 @@ f. Report the actual amount of manure, compost, litter, or wastewater appIied.
 g. If Other is seIected, write in the type of manure, litter, or wastewater to be appIied
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -307,7 +307,7 @@ a. List aIl fieIds where manure, compost, litter, or process wastewater was appI
 in the approved NMP
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the
@@ -319,7 +319,7 @@ O Monitoring resuIts are not attached. ExpIain
 WwW Not appIicabIe. A groundwater monitoring program is not required for this faciIity.
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PART E - CERTIFICATION
  certify under penaIty of law that this document and aIl attachments were prepared under my

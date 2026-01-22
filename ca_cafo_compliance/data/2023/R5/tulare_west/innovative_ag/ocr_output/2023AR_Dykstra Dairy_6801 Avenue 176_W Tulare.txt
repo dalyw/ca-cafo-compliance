@@ -23,7 +23,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Dykstra Dairy 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -53,7 +53,7 @@ _ Yes. Number of discharges occurred (see Attachment H).
  INNOVATIVE Ac Services
 Page 1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Dykstra Dairy 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -109,7 +109,7 @@ constituent concentrations, and detection limits (see Attachment E).
 BBR INNOVATIVE ac services
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Dykstra Dairy 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -144,7 +144,7 @@ ___ It was not possible to collect any of the required samples or perform visual
 BBB INNOVATIVE ac services
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 DocuSign Envelope ID FF881B7E-EF3F-4CE9-8B45-B04B78D3081E
 Dykstra Dairy 2023
@@ -161,7 +161,7 @@ Title and Date Title and Date
 BBR INNOVATIVE as seanices
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Dykstra Dairy 2023
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -193,7 +193,7 @@ wastewater transferred offsite (Attachment C).
  INNOVATIVE ac services
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -219,7 +219,7 @@ Season Nitrogen Ratlo 0.70 Lbs Per Acre 190 0 0 5,399 273
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -246,7 +246,7 @@ BBB INNOVATIVE ac services
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -273,7 +273,7 @@ BBB NNOVATIVE se services
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -293,7 +293,7 @@ Season Nitrogen Ratio 1.38 Lbs Per Acre 186 13 229 2,258 135
 BB INNOVATIVE ac services
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -315,7 +315,7 @@ Season Nitrogen Ratio 1.39 Lbs Per Acre 235 10 225 5,144 168
  INNOVATIVE Ac services
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -339,7 +339,7 @@ BBP INNOVATIVE as services
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -368,7 +368,7 @@ Season Nitrogen Ratio 1.39 Lbs Per Acre 308 14 355 6,768 222
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -398,7 +398,7 @@ BBB INNOVATIVE 4c services
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -421,7 +421,7 @@ Season Nitrogen Ratio 1.38 Lbs Per Acre 88 47 3 2,025 64
 BBB INNOVATIVE ac services
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -444,7 +444,7 @@ Season Nitrogen Ratio 1.12 Lbs Per Acre 232 15 312 4,338 208
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -472,7 +472,7 @@ BBB INNOVATIVE ac services
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -496,7 +496,7 @@ Season Nitrogen Ratio 1.04 . Lbs Per Acre 221 13 224 3,421 213
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -524,7 +524,7 @@ Season Nitrogen Ratio 1.37 Lbs Per Acre 306 20 486 6,483 224
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -548,7 +548,7 @@ Season Nitrogen Ratio 1.05 Lbs Per Acre 206 13 231 3,119 195
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -575,7 +575,7 @@ BB INNOVATIVE ac services
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -604,7 +604,7 @@ Season Nitrogen Ratio 1.35 Lbs Per Acre 284 43 291 5,546 211
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -629,7 +629,7 @@ BBP INNOVATIVE ac services
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -656,7 +656,7 @@ Season Nitrogen Ratio 1.38 Lbs Per Acre 319 19 467 6,133 230
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -682,7 +682,7 @@ Season Nitrogen Ratio. 0.64 Lbs Per Acre 288 8 153 6,905 447
  INNOVATIVE ac services
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -709,7 +709,7 @@ BBB NW NOVATIVE nc services
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -729,7 +729,7 @@ Season Nitrogen Ratio 1.34 Lbs Per Acre 149 9 173 2,303 111
 PBR INNOVATIVE a6 services
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -757,7 +757,7 @@ BBR INNOVATIVE ac services
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -782,7 +782,7 @@ Season Nitrogen Ratio 1.36 Lbs Per Acre 176 8 147 3,047 130
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -809,7 +809,7 @@ BBR INNOVATIVE ac services
 
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -838,7 +838,7 @@ BBR INNOVATIVE ac services
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -867,7 +867,7 @@ BP INNOVATIVE ac services
 
 Page 31
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -897,7 +897,7 @@ Season Nitrogen Ratio 1.30 Lbs Per Acre 95 47 3 2,853 73
 
 Page 32
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -924,7 +924,7 @@ BBR INNOVATIVE ac services
 
 Page 33
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -952,7 +952,7 @@ L INNOVATIVE 4c services
 
 Page 34
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -979,7 +979,7 @@ Season Nitrogen Ratio 1.37 Lbs Per Acre 170 2 28 4,213 124
 
 Page 35
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1008,7 +1008,7 @@ Season Nitrogen Ratlo 1.38 Lbs Per Acre 194 10 234 3,854 141
 
 Page 36
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1034,7 +1034,7 @@ BBR INNOVATIVE 2c services
 
 Page 37
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1064,7 +1064,7 @@ BB INNOVATIVE ac services
 
 Page 38
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1090,7 +1090,7 @@ BP INNOVATIVE ac services
 
 Page 39
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1117,7 +1117,7 @@ BBB INNOVATIVE as services
 
 Page 40
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1147,7 +1147,7 @@ Season Nitrogen Ratio 1.22 Lbs Per Acre 223 12 308 4,216 184
 
 Page 41
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1177,7 +1177,7 @@ BBB INNOVATIVE ac services
 
 Page 42
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1200,7 +1200,7 @@ and harvest events.
 BBB NNOVATIVE ac services
 Page 43
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Dykstra Dairy 2023
 Nutrient Applications (Attachment B)
@@ -1231,7 +1231,7 @@ If Application Units Gallons, Then Lbs Applied per Acre Application Amount (per 
  INNOVATIVE 4c Services
 Page 44
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Dykstra Dairy 2023
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -1252,7 +1252,7 @@ or TKN, P, K, TDS) x 10-6 using the samples closest in date to the export event.
  INNOVATIVE Ac services
 Page 45
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Dykstra Dairy 2023
 Land Application Area Description Technical Report (Attachment D)
@@ -1275,7 +1275,7 @@ eae - no rarer oT oS s - a ae
 BB innovative AG SERVICES
 Page 46
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Dykstra Dairy 2023
 Land Application Area Description Technical Report (Attachment D)
@@ -1286,7 +1286,7 @@ Production Area APN(s) x228 x030 x001 xxxx
  INNOVATIVE 4c services
 Page 47
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1314,7 +1314,7 @@ Field Crop Crop Sample Date N TP TK Moisture Ash
 BBB INNOVATIVE ac services
 Page 48
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1343,7 +1343,7 @@ atte 4 Pistachios (1004/2023 6600 740 4460 5800 508
 BBB INNOVATIVE as services
 Page 49
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1381,7 +1381,7 @@ aia OCSsti s((itssSSCNAIOZSs(CCSN(C(CCZSSOOSCSOS2USBOOOOCCU 7o.ti eC (tiiSsSSSS(
 
 Page 50
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1400,7 +1400,7 @@ Averages 15.95 888
 L INNOVATIVE Ac services
 Page 51
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1430,7 +1430,7 @@ Ortiz NE 02/17/2023 21.00 1,080 710.00 21.00
 Y INNOVATIVE Ac services
 Page 52
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Dykstra Dairy 2023
 Lab Results Summary (Attachment E)
@@ -1450,7 +1450,7 @@ Averages 0.00 52 40.00 0.00
  INNOVATIVE Ac services
 Page 53
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Dykstra Dairy 2023
 Planting and Harvest Information (Attachment F)
@@ -1482,7 +1482,7 @@ Fields 40420
 BBR INNOVATIVE ac seavices
 Page 54
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Dykstra Dairy 2023
 Planting and Harvest Information (Attachment F)
@@ -1513,7 +1513,7 @@ Fields 8-100
 BBP INNOVATIVE ac services
 Page 55
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Dykstra Dairy 2023
 Planting and Harvest Information (Attachment F)
@@ -1534,7 +1534,7 @@ Fields 40110
 BBB NNOVATIVE ce services
 Page 56
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Dykstra Dairy 2023
 Weather Data (Attachment G)
@@ -1559,7 +1559,7 @@ Note SWP Standing Water Present
 BR innovative AG SERVICES
 Page 57
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 poe ATTACHMENT F
 ae Process Wastewater Manure / Digestate Tracking Manifest
@@ -1577,7 +1577,7 @@ Dates Mavied Mau. / Sihib meee tS ae, jo dh I
 fF a cae 71 F e os y Re a4 7 ye ae
 oO em a
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 af DOB eat ee DE I oy Cale oe Dae alt 4
 
@@ -1617,7 +1617,7 @@ SS i, SA ee ey rs ivy) ee Yow Peart a E ng
 SDA ARR ie of a pe . yy Bh
 rated 7 ,
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Manure/Process Wastewater Tracking Manifest
 Instructions
@@ -1655,7 +1655,7 @@ FOIE (201 Delta View Road Suite 5 Hanford, CA 93230
 FPAPABS Ciice (559) 587-2800 Fax (559) 587-2801
 Page 1 of 2
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 DocuSign Envelope ID 8D2FA218-A8DF-473B-A342-0908499A9583
 Amount Hauled
@@ -1693,7 +1693,7 @@ Smearae 201 Delta View Road, Buite S Hanford, CA 93230
 FRAPS) Oflice (559) 587-2800 Fax (559) 387-280)
 Page 2 of 2
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 A
 ENVIRONMENTAL AGRICULTURAL
@@ -1739,7 +1739,7 @@ TEL (805)362-2000 TEL (208)942-0182 TEL (530)343-5818 TEL (805)783-2640 TEL (559
 Env FAX (808)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CAELAP Certification No. 1673 CA ELAP Certification No. 1663 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1775,7 +1775,7 @@ TEL (805)362-2000 TEL (200)042-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (568
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (560)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1663 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1826,7 +1826,7 @@ TEL (805)392-2000 TEL (208)642-0182 TEL (530)343-5816 TEL (805)783-2840 TEL (558
 Env FAX (806)525-4172 / Ag FAX (806)302-2083 FAX (208)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (859)734-B435
 CA ELAP Cartification No. 1873 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 7g . e
 . V7 Laboratory Analysis Work Order Ne 40104
@@ -1874,7 +1874,7 @@ Be A ches CC 1/2 eo 17
 LABORATORY USE ONLY -
 Logged In By TotalSamples_ Laboratory 4
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 ENVIRONMENTAL - AGRICULTURAL
 Analytical Chemists
@@ -1914,7 +1914,7 @@ TEL (605)302-2000 TEL (200)642-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (200)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (650)734-8435,
 CAELAP Certification No. 1673 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Catification No. 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 (AN
 ENVIRONMENTAL AGRICULTURAL
@@ -1946,7 +1946,7 @@ TEL (808)362-2000 TEL (206)842-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)902-2063 FAX (209)942-0423, FAX (530)343-3807 FAX (808)782-2012 FAX (660)734-8435
 CA ELAP Certification No. 1873 CA ELAP Gertification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Carttification No, 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -1986,7 +1986,7 @@ TEL (805)382-2000 TEL (206)942-0182 TEL (530)343-5818 TEL (605)783-2040 TEL (559
 Env FAX (808)525-4172 / Ag FAX (806)302-2083 FAX (200)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (550)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Cenlification No, 2810
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 . i _ .
 , a7/( Laboratory Analysis Work Order Ne 40140
@@ -2032,7 +2032,7 @@ ee AA CT A ad
 LABORATORY USE ONLY
 Logged In By TotalSamples_ Laboratory
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 ENVIRONMENTAL -.- - AGRICULTURAL
 Analytical Chemists
@@ -2077,7 +2077,7 @@ TEL (805)392-2000 TEL (208)642-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (850
 Env FAX (806)525-4172 / Ag FAX (B05)382-2063 FAX (208)842-0423 FAX (830)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 ze
 ENVIRONMENTAL AGRICULTURAL
@@ -2114,7 +2114,7 @@ TEL (808)382-2000 TEL (200)042-0182 TEL (630)343-5618 TEL (805)783-2640 TEL (580
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1673 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Cartification No. 2810
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2151,7 +2151,7 @@ TEL (805)302-2000 TEL (209)842-0182 TEL (530)343-5818 TEL (805)763-2640 TEL (550
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)763-2012 FAX (650)734-8435
 CA ELAP Certification No. 1873 CAELAP Certification No. 1683 CAELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2198,7 +2198,7 @@ TEL (808)362-2000 TEL (200)642-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (650
 Env FAX (805)825-4172 / Ag FAX (805)302-2083 FAX (208)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (569)734-8435
 CA ELAP Certification No, 1873 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2260,7 +2260,7 @@ TEL (805)362-2000 TEL (200)942-0182 TEL (830)343-5818 TEL (805)783-2640 TEL (559
 Env FAX (808)525-4172 / Ag FAX (806)392-2083 FAX (208)842-0423 FAX (530)343-3807 FAX (805)783-2812 FAX (559)734-8435
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 ore . Oo
 //( / Laboratory Analysis Work Order N 40174
@@ -2306,7 +2306,7 @@ TABORATORY USE ONLY a Hraivt
 LoggedInBy TotalSamples Laboratory (ff 1 UC
 7 7 THE PRINTER INC. - 589-992-5127
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 EGE
 ENVIRONMENTAL AGRICULTURAL
@@ -2347,7 +2347,7 @@ TEL (805)32-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559)
 Env FAX (805)528-4172 / Ag FAX (805)302-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (669)734-8435
 CAELAP Certification No. 1673 CAELAP Cartification No. 1583 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2383,7 +2383,7 @@ TEL (805)392-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (669
 Env FAX (805)525-4172 /Ag FAX (805)382-2063 FAX (208)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)724-8435
 CA ELAP Certification No, 1873 CAELAP Ceriification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2421,7 +2421,7 @@ TEL (806)382-2000 TEL (209)942-0182 TEL (630)343-6818 TEL (805)782-2840 TEL (659
 Env FAX (805)625-4172 / Ag FAX (805)302-2063 FAX (200)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (550)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1583 CA ELAP Certification No. 2670 CAELAP Certification No. 2776 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 . jo
 m7 Laboratory Analysis Work Order N 40346
@@ -2472,7 +2472,7 @@ LABORATE ony ET 3 YT eS 2 ra A,
 Logged ALC, 4 Dota Samples, LY YP, Laboratory PAZ -
 / Lo THE PRINTER ANC, - 859-992-5127
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 a
 ENVIRONMENTAL AGRICULTURAL
@@ -2519,7 +2519,7 @@ TEL (805)302-2000 TEL (200)842-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (200)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (550)734-8435,
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2554,7 +2554,7 @@ TEL (806)302-2000 TEL (200)042-0182 TEL (530)343-5818 TEL (805)782-2940 TEL (569
 Env FAX (805)525-4172 /Ag FAX (805)302-2083 FAX (200)842-0423 FAX (530)343-3807 FAX (805)783-2012 PAX (689)734-8435
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Cartificatlon No. 2810
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 ENVIRONMENTAL --.- AGRICULTURAL
 Analytical Chemists
@@ -2588,7 +2588,7 @@ TEL (605)382-2000 TEL (200)042-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (658
 Env FAX (805)525-4172 / Ag FAX (805)382-2083 FAX (200)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (668)734-B435
 CA ELAP Centification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 FGE
 ENVIRONMENTAL AGRICULTURAL
@@ -2649,7 +2649,7 @@ TEL (805)362-2000 TEL (209)842-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (550
 Env FAX (805)825-4172 /Ag FAX (806)302-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (656)734-8435
 CA ELAP Ceriification No. 1873 CA ELAP Gentification No, 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certificatlon No. 2810
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 . C)
 _ Laboratory Analysis Work Order N 40954
@@ -2695,7 +2695,7 @@ LABORATORY USE ONLY 7 a ()
 Logged In By Total Sampl ca aboratory
 31 9 THE PANTER INC, - 559-992-8127
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2740,7 +2740,7 @@ TEL (805)362-2000 TEL (200)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (650
 Env FAX (805)525-4172 / Ag FAX (806)392-2063 FAX (209)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (660)734-8435
 CA ELAP Certification No. 1573 CAELAP Cartification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2778 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 _
 ENVIRONMENTAL AGRICULTURAL
@@ -2777,7 +2777,7 @@ TEL (805)382-2000 TEL (206)042-0182 TEL (530)343-5618 TEL (808)783-2640 TEL (559
 Env FAX (805)525-4172 / Ag FAX (808)392-2063 FAX (209)942-0423 FAX (530)343-3607 FAX (805)783-2812 FAX (568)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2778 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -2812,7 +2812,7 @@ TEL (805)302-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (569
 Env FAX (805)625-4172 / Ag FAX (806)302-2083 FAX (208)842-0423 FAX (830)343-3807 FAX (805)783-2012 FAX (650)734-8435
 CA ELAP Cenfification No, 1573 CAELAP Centification No. 1563 CA ELAP Certification No, 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2867,7 +2867,7 @@ TEL (805)362-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (850
 Env FAX (805)528-4172 / Ag FAX (808)302-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (550)734-8436
 CA ELAP Centification No. 1673 CA ELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 pole . Oo
 ZA Laboratory Analysis Work Order N 41062
@@ -2915,7 +2915,7 @@ ABORATORY USE ONLY 71774 -
 Logged In By- ,, Total Samples _( 4 ie A Soratory
 Gt bY Leo 7 / / 23 t ZL S oO THE PRRITER ING, - 559-992-5127
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 a
 ENVIRONMENTAL - AGRICULTURAL
@@ -2961,7 +2961,7 @@ TEL (805)362-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (808)828-4172 / Ag FAX (808)382-2083 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (650)734-B435
 CA& ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 ez
 ENVIRONMENTAL AGRICULTURAL
@@ -2995,7 +2995,7 @@ TEL (805)382-2000 TEL (200)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (569
 Env FAX (806)525-4172 / Ag FAX (805)302-2063 FAX (208)942-0423 FAX (630)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1673 CA ELAP Certification No. 1563 CA ELAP Certification No, 2670 CA ELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3049,7 +3049,7 @@ TEL (805)362-2000 TEL (200)842-0182 TEL (530)343-5818 TEL (808)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (806)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (658)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2776 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 wv.
 a . oO
@@ -3100,7 +3100,7 @@ LABORATORY USE ON at a-F1- 22, t Ts oO (OY ryy/ Vy
 Logged In By Total Samples Laboratory SL ae
 O Fraeswdlich nat 7559 252-5127
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Za
 ENVIRONMENTAL AGRICULTURAL
@@ -3144,7 +3144,7 @@ TEL (805)302-2000 TEL (208)842-0182 TEL (590)343-5818 TEL (805)783-2840 TEL (550
 Env FAX (805)525-4172 / Ag FAX (805)382-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (660)734-8435
 CAELAP Certification No. 1573 CAELAP Contification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2778 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 ENVIRONMENTAL s AGRICULTURAL
 Analytical Chemists
@@ -3179,7 +3179,7 @@ TEL (805)302-2000 TEL (206)942-0182 TEL (830)343-5818 TEL (805)783-2940 TEL (859
 Env FAX (805)525-4172 / Ag FAX (805)382-2063 FAX (200)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (560)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 EGL
 ENVIRONMENTAL -- AGRICULTURAL
@@ -3234,7 +3234,7 @@ TEL (805)392-2000 TEL (200)042-0182 TEL (830)343-6818 TEL. (805)783-2040 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)302-2083 FAX (208)942-0423 FAX (630)343-3807 FAX (805)783-2012 FAX (550)734-8435
 CA ELAP Certification No, 1673 CAELAP Certification No. 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Ceriification No, 2810
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 . oO
 a 7/// Laboratory Analysis Work Order N 41105
@@ -3282,7 +3282,7 @@ LABOR BTORY SEONLY AEE
 Logged In By Y ) J Total Samples X aboratory 4
 THE PRINTER INC. - S9-092-5127
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -3329,7 +3329,7 @@ TEL (805)302-2000 TEL (209)942-0162 TEL (530)343-5818 TEL (805)783-2040 TEL (859
 Env FAX (808)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1873 CAELAP Certification No, 1663 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Centification No. 2810
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 ENVIRONMENTAL ---- AGRICULTURAL
 Analytical Chemists
@@ -3365,7 +3365,7 @@ TEL (805)392-2000 TEL (200)842-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (208)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (658)734-8435
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 GAELAP Cerfification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 FGE
 ENVIRONMENTAL AGRICULTURAL
@@ -3409,7 +3409,7 @@ TEL (808)392-2000 TEL (208)042-0182 TEL (530)343-5618 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)302-2083 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CA ELAP Certification No, 1573 CA ELAP Centification No. 1583 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
@@ -3465,7 +3465,7 @@ TEL (808)302-2000 TEL (200)042-0162 TEL (530)343-5818 TEL (805)783-2840 TEL (550
 Env FAX (605)525-4172 /Ag FAX (805)302-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)734-8435
 CA LAP Caittification No. 1873 CAELAP Certification No, 1563 CA ELAP Certification No, 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 October 30, 2023 .
 Innovative Ag Services, LLC Lab No. VI.-2346788
@@ -3516,12 +3516,12 @@ MS mg/L 5,609 83.64 66-125
 MSRPD mg/L 0.34 30.4
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 . et W i tot Bone sone a rote oat meee Son hoes
 Page 6.0f 6 Page 6 of 6
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 a . Oo
 A i Laboratory Analysis Work Order N 41474
@@ -3574,7 +3574,7 @@ CAEORRI SHERRY 70 aor O)
 Loggetth By & A aySamples Laboratory 4
 THE PADHER ING. - 59-992-5127
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 fa
 ENVIRONMENTAL AGRICULTURAL
@@ -3621,7 +3621,7 @@ TEL (805)362-2000 TEL (209)942-0182 TEL (530)343-5618 TEL (805)783-2940 TEL (869
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (650)734-8435
 CAELAP Certification No. 1573. CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Ceriification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Ez
 ENVIRONMENTAL AGRICULTURAL
@@ -3656,7 +3656,7 @@ TEL (805)382-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)382-2063 FAX (208)942-0423 FAX (530)343-3607 FAX (805)789-2612 FAX (568)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 ENVIRONMENTAL - AGRICULTURAL
 Analytical Chemists
@@ -3691,7 +3691,7 @@ TEL (805)382-2000 TEL (200)942-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (808)525-4172 /Ag FAX (808)392-2063 FAX (209)842-0423 FAX (830)343-3807 FAX (805)783-2012 FAX (559)734-8435
 CA ELAP Certification No. 1673 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3755,7 +3755,7 @@ TEL (805)302-2000 TEL (200)942-0182 TEL (830)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)382-2063 FAX (208)042-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (668)734-8435
 CA ELAP Certification No. 1573 CAELAP Centification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Ceilification No, 2810
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
                                                . ()
 AA Laboratory Analysis Work Order N 41498
@@ -3827,7 +3827,7 @@ eagech By- cs Total Samples Laboratory 4
 
 THE PREITER IC, - 859-992-5127
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 ENVIRONMENTAL 2. AGRICULTURAL
 Analytical Chemists
@@ -3870,7 +3870,7 @@ TEL (805)362-2000 TEL (200)042-0182 TEL (830)343-5818 TEL (806)783-2940 TEL (859
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (208)942-0423 FAX (30)343-3807 FAX (808)783-2012 FAX (650)734-B436
 CAELAP Certification No. 1673 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 cz
 ENVIRONMENTAL AGRICULTURAL
@@ -3905,7 +3905,7 @@ TEL (805)302-2000 TEL (200)942-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2812 FAX (650)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2776 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -3963,7 +3963,7 @@ TEL (805)382-2000 TEL (206)042-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (550
 Env FAX (805)525-4172 / Ag FAX (806)392-2083 FAX (208)942-0423 FAX (830)343-3807 FAX (805)783-2012 FAX (659)734-8436
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 . io
 
@@ -4018,7 +4018,7 @@ LABORATORY USE ONLY CL vr
 Logged In By - Total Samples Wp RK Proratory Cv A FX
 cw Ni THE PAINTER (NC, - 559-992-8127,
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 ENVIRONMENTAL - AGRICULTURAL
 Analytical Chemists
@@ -4062,7 +4062,7 @@ TEL (805)362-2000 TEL (200)842-0182 TEL (530)343-5618 TEL (805)783-2940 TEL (550
 Env FAX (805)525-4172 / Ag FAX (805)302-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)789-2012 FAX (550)734-8435
 CAELAP Certification No. 1673 CAELAP Certification No. 1563 GA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Ceniification No. 2810
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 (a
 ENVIRONMENTAL AGRICULTURAL
@@ -4102,7 +4102,7 @@ TEL (805)392-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (805)763-2940 TEL (659
 Env FAX (805)525-4172 /Ag FAX (808)362-2083 FAX (209)842-0423 FAX (530)343-3607 FAX (805)783-2912 FAX (569)734-8435
 CA ELAP Certification No. 1873 CA ELAP Certification No. 1863 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2610
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 (Em
 ENVIRONMENTAL AGRICULTURAL
@@ -4146,7 +4146,7 @@ TEL (805)392-2000 TEL (200)842-0182 TEL (530)343-5818 TEL (805)783-2840 TEL (559
 Env FAX (805)625-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (659)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
                                                        . C)
 . Fi ff Laboratory Analysis Work Order N 42226
@@ -4197,7 +4197,7 @@ Logged In By Y Total Samples OKO AA Rporatory y Xa
 rawr LS .. OS
 () V V TU THE PRINTER INC, - 89-992-5127
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -4242,7 +4242,7 @@ TEL (805)302-2000 TEL (208)042-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (559
 Env FAX (805)526-4172 / Ag FAX (808)302-2063. FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2012 FAX (650)734-8435
 CA ELAP Certification No. 1673 CAELAP Cantification No. 1563 CA ELAP Certification No, 2670 GAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 Zz 9
 ENVIRONMENTAL AGRICULTURAL
@@ -4277,7 +4277,7 @@ TEL (808)382-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (808)783-2040 TEL (559
 Env FAX (808)525-4172 / Ag FAX (806)382-2063 FAX (209)942-0423 FAX, (530)343-3807 FAX (808)783-2012 FAX (858)734-8435
 CA ELAP Certification No. 1673 CA ELAP Certification No. 1563 GA ELAP Certification No, 2670 CAELAP Gerlification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 Analytical Chemists
@@ -4312,7 +4312,7 @@ TEL. (805)302-2000 TEL (208)842-0182 TEL (530)343-5818 TEL (805)783-2040 TEL (68
 Env FAX (805)525-4172 /Ag FAX (806)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2812 FAX (568)734-8435
 CAELAP Cartification No, 1573 CAELAP Certification No, 1863 CA ELAP Certification No, 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4371,7 +4371,7 @@ TEL (805)302-2000 TEL (206)942-0182 TEL (530)343-5818 TEL (808)783-2940 TEL (550
 Env FAX (805)525-4172 / Ag FAX (805)392-2083 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (669)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 GA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Ceniification No. 2810
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
  a . jo
 a Laboratory Analysis Work Order N 42250

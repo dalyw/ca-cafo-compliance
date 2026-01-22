@@ -18,7 +18,7 @@ Sincerely, LY
 Paul Cameron
 Owner
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 California Regional Water Quality Controi Board
 Colorado River Basin Region (R-7) RECEIVE D
@@ -49,7 +49,7 @@ a
  _ eee
 Attachment G - Annual Report G1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 ill. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -112,7 +112,7 @@ noncompliance.
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 VU. Certification of Preparation of Inspection Logs And Manifests
 KJ I certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -122,7 +122,7 @@ kJ I certify that a Manure Tracking Manifest has been prepared for each manure h
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART B - COMPOSTING INVENTORY
 I certify that no composting occurs at this facility. (If box is checked, skip to Part C.)
@@ -156,7 +156,7 @@ O Check if analysis results are attached.
 If any storm water discharges from the composting operations were not analyzed for the required parameters, explain below
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 
@@ -203,7 +203,7 @@ b. Indicate the date of the sample results reported.
 c. Indicate the reporting units (i.e., mg/L, mg/kg, Ib/ton, or tb/1,000 gallons).
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Report the results of the most recent soil nutrient analyses used in calculating nutrient application rates for the
 crops harvested during the reporting year. If soil is not analyzed for nitrogen, report the calculated amount of plant
@@ -224,7 +224,7 @@ g. Indicate the calculated amount of plant available nitrogen in the soil, if so
 calculating nutrient application rates.
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land Application
 For each field where manure, litter, or wastewater was applied, report the actual crops grown in each field, the actual yield achieved, the amount of
@@ -235,7 +235,7 @@ Crop(s) Grown tec
 rot oe Sn Tome i OO a Lom _ OOF
 Attachment G Annual Report G-7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Yield Planned Manure to be Applied Actual Manure Appited
 Crop(s) Grown Yietd ef . 7
@@ -250,7 +250,7 @@ i. Report the actual amount of manure, litter, or wastewater applied.
 g. If Other is selected, write in the type of manure, litter, or wastewater to be applied.
 Attachment G - Annual Report G8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each field where manure, litter, or wastewater was applied, report the spreadable acres and the amount of total nitrogen and phosphorus applied per
 
@@ -270,7 +270,7 @@ a a
 
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the results of quarterly groundwater monitoring conducted in accordance with the CAFOs
@@ -298,7 +298,7 @@ Colorado River Basin Region
 Palm Desert, CA. 92260
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 m
 Mesquite Cattfe Feeders Account 00-0016752 Received 12/13/2024 1020
@@ -322,7 +322,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavaitetab.com
 Page 1 of 8
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 SIELLAVALLE
 
@@ -386,7 +386,7 @@ All results listed in this report are for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 59-233-6129 www.dellavalletab.com
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 TM
 Mesquite Cattle Feeders Account4 00-0016752 Received 12/13/2024 1020
@@ -418,7 +418,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deltavattetab.com
 Page 3 of 8
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 m
  ELLAVALLE
@@ -477,7 +477,7 @@ All resuits listed in this report ere for the exclusive use of the submitting pa
 party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 7
 DELLAVALLE
@@ -537,7 +537,7 @@ party interpreiation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavaltelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 m
 ta
@@ -589,7 +589,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 TM
 el
@@ -610,7 +610,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavailelab.com
 Page 7 of 8
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
                                                         DELLAVALLE LABORATORY, INC.
 g ie 1910 W. McKinley Avenue, Suite 110 - Fresno, CA 93728

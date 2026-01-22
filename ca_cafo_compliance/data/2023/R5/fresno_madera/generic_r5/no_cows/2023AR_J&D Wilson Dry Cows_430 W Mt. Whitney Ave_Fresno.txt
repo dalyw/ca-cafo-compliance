@@ -36,7 +36,7 @@ Mailing Address Number and Street City State Zip Code
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 1 of 48
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -76,7 +76,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 2 of 48
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -104,7 +104,7 @@ Total exports for all materials 55,440.00 31,680.00 136,800.00 3,069,684.00
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 3 of 48
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -154,7 +154,7 @@ Total actual harvest content 17.37 288.74 46.06 421.59 1,114.21
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 4 of 48
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -276,7 +276,7 @@ TFS (%)
 
 Page 5 of 48
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -375,7 +375,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 Page 6 of 48
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4
@@ -414,7 +414,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 7 of 48
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -536,7 +536,7 @@ TFS (%)
 
 Page 8 of 48
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -575,7 +575,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 9 of 48
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -789,7 +789,7 @@ Amount
 
 Page 10 of 48
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -827,7 +827,7 @@ Application event totals 0.00 0.00 0.00 6.01
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 11 of 48
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -865,7 +865,7 @@ Application event totals 0.00 0.00 0.00 11.57
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 12 of 48
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1075,7 +1075,7 @@ Salt (Ibs/acre) Amount
 
 Page 13 of 48
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1111,7 +1111,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 14 of 48
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1332,7 +1332,7 @@ Amount
 
 Page 15 of 48
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1370,7 +1370,7 @@ Application event totals 0.00 0.00 0.00 8.22
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 16 of 48
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1408,7 +1408,7 @@ Application event totals 0.00 0.00 0.00 13.35
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 17 of 48
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1644,7 +1644,7 @@ Salt (Ibs/acre)
 
 Page 18 of 48
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1765,7 +1765,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 19 of 48
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1986,7 +1986,7 @@ Amount
 
 Page 20 of 48
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5 - 06/01/2023: Corn, silage
@@ -2038,7 +2038,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 Page 21 of 48
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2229,7 +2229,7 @@ Salt (Ibs/acre) Amount
 
 Page 22 of 48
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2261,7 +2261,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 23 of 48
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2301,7 +2301,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 24 of 48
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2337,7 +2337,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 25 of 48
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2375,7 +2375,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 26 of 48
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2412,7 +2412,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 27 of 48
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2450,7 +2450,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 28 of 48
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2589,7 +2589,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 Page 29 of 48
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2626,7 +2626,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 30 of 48
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2665,7 +2665,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 31 of 48
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2701,7 +2701,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 32 of 48
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2739,7 +2739,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 33 of 48
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2775,7 +2775,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 34 of 48
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2812,7 +2812,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 35 of 48
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -2846,7 +2846,7 @@ AR-1 Dom
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 36 of 48
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-1 Dom
@@ -2890,7 +2890,7 @@ AR7-Dom
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 37 of 48
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR7-Dom
@@ -2927,7 +2927,7 @@ Field 1 - 11/01/2022: Wheat, silage, boot stage
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 38 of 48
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2967,7 +2967,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 39 of 48
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3005,7 +3005,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 40 of 48
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3043,7 +3043,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 41 of 48
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 5 - 06/01/2023: Corn, silage
@@ -3095,7 +3095,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 Page 42 of 48
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -3106,7 +3106,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 43 of 48
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -3143,7 +3143,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 44 of 48
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3220,7 +3220,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 Page 45 of 48
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -3266,7 +3266,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 46 of 48
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -3283,7 +3283,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 47 of 48
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -3304,7 +3304,7 @@ DATE DATE
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 09:19:49 Page 48 of 48
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -3339,7 +3339,7 @@ J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno Count
 
 06/30/2024 09:19:49 Page 1 of 1
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3359,7 +3359,7 @@ DATE DATE
 J&D Wilson Dry Cows | 430 W Mt. Whitney AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/25/2024 10:18:29 Page 48 of 48
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -3431,7 +3431,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 11/15/2023
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -3458,7 +3458,7 @@ fine and imprisonment fpr knowing violations.
 
 Hauler Signature Date
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -3522,7 +3522,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 11/05/2023
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -3549,7 +3549,7 @@ fine and imprisonment for knowing violations.
 
 Hauler Signatlre
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3616,7 +3616,7 @@ party interpretation.
 
 Page 1 of 15
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3647,7 +3647,7 @@ party interpretation.
 
 Page 2 of 15
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3679,7 +3679,7 @@ party interpretation.
 
 Page 3 of 15
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3710,7 +3710,7 @@ party interpretation.
 
 Page 4 of 15
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3741,7 +3741,7 @@ party interpretation.
 
 Page 5 of 15
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3796,7 +3796,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 15
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3842,7 +3842,7 @@ party interpretation.
 
 Page 7 of 15
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3927,7 +3927,7 @@ Page 8 of 15
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -3964,7 +3964,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 15
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4049,7 +4049,7 @@ Page 10 of 15
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4086,7 +4086,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 11 of 15
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 III MT
 
 12/13/23 07:00 230737 4
@@ -4164,7 +4164,7 @@ cttcupdate 2020
 
 Page 12 of 15
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 No j
 
 12/13/23 07:00 23L07
@@ -4228,7 +4228,7 @@ o)
 Sg
 3
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 III MT
 
 12/13/23 07:00 230737 4
@@ -4306,7 +4306,7 @@ cttcupdate 2020
 
 Page 14 of 15
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 No j
 
 12/13/23 07:00 23L07
@@ -4370,7 +4370,7 @@ o)
 Sg
 3
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4425,7 +4425,7 @@ party interpretation.
 
 Page 1 of 6
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4451,7 +4451,7 @@ Page 2 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 SELLAVALLE™
 
 LABORATORY
@@ -4513,7 +4513,7 @@ party interpretation.
 
 Page 3 of 6
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 SELLAVALLE™
 
 LABORATORY
@@ -4583,7 +4583,7 @@ party interpretation.
 
 Page 4 of 6
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 IMINO a!
 
 08/17/23 08:39 23H1607
@@ -4650,7 +4650,7 @@ Location: Laboratory
 Page 5 of 6
 
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 LL
 
 08/17/23 08:39 16

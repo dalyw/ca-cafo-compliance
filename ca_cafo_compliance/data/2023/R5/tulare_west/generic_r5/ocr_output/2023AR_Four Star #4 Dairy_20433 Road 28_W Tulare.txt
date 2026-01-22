@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 1 of 18
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ AG 21 Ground water
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 2 of 18
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -89,7 +89,7 @@ No liquid nutrient exports entered.
 
 04/20/2024 09.2058 Page 3 of 18
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -121,7 +121,7 @@ Total actual harvest content 17.89 173.16 45.65 170.02 1,637.19
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 4 of 18
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -136,7 +136,7 @@ Total actual harvest content 30.00 194.11 50.55 323.52 1,336.54
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 5 of 18
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -170,7 +170,7 @@ Application event totals 86.35 18.09 25.08 41.12
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 6 of 18
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -193,7 +193,7 @@ Application event totals 0.26 0.00 0.00 67.69
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 7 of 18
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -228,7 +228,7 @@ Applied to removed ratio 1.31 1.28 1.84 4.27
 4 Star 4 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 0972058 Page 8 of 18
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -263,7 +263,7 @@ Applied to removed ratio 1.15 0.72 0.81 1.10
 4 Star 4 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 9 of 18
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -296,7 +296,7 @@ DL 10.00 2.00 2.00 2.00 0.20 0.50 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0.10 10
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 10 of 18
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -326,7 +326,7 @@ AG 19 Canal
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 11 of 18
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -353,7 +353,7 @@ F-8 - 06/03/2023 Corn, silage
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 12 of 18
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -370,7 +370,7 @@ No subsurface (tile) drainage analyses entered.
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 13 of 18
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -402,7 +402,7 @@ N P K salt
 4 Star 4 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 092058 Page 14 of 18
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -431,7 +431,7 @@ Ibs Ibs
 4 Star 4 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 092058 Page 15 of 18
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -461,7 +461,7 @@ wastewater that are new or were revised within the reporting period
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 16 of 18
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -485,7 +485,7 @@ server. The correct values / totals for each of these is 0
 
 04/20/2024 09.2058 Page 17 of 18
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -501,7 +501,7 @@ DATE DATE
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 18 of 18
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0036
 Reporting period 01/01/2023 to 12/31/2023.
@@ -519,7 +519,7 @@ DATE OATE
 4 Star 24 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 092058 Page 18 of 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -543,7 +543,7 @@ Storm Water Reporting Section on page MRP-14.
 4 Star 44 20433 28 RD Tulare, CA 93274 Tulare County Tulare Basin
 04/20/2024 09.2058 Page 1 of 1
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Roxey J Avila Account 00-0024349 Received 02/02/2023 7115
 740 S. Kazarian St. Account Manager Ben Nydam Reported 02/03/2023 1430
@@ -587,7 +587,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 8
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Roxey J Avila Account 00-0024349 Received 02/02/2023 7115
 740 S. Kazarian St. Account Manager Ben Nydam Reported 02/03/2023 1430
@@ -610,7 +610,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 8
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Roxey J Avila Account 00-0024349 Received 02/02/2023 7115
 740 S. Kazarian St. Account Manager Ben Nydam Reported 02/03/2023 1430
@@ -634,7 +634,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 8
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Roxey J Avila Account 00-0024349 Received 02/02/2023 7115
 740 S. Kazarian St. Account Manager Ben Nydam Reported 02/03/2023 1430
@@ -658,7 +658,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 T
 a
@@ -700,7 +700,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 T
 a
@@ -747,7 +747,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
  eee eee eee
 . Zs
@@ -803,7 +803,7 @@ Sample ceceived in cooler with ice
 Anat Paid Rec By Cheek No Date 1Yes No migcepdiate 2022
 Page 7 of 8
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
       HAAR
 02/02/23 07/15 2380249
@@ -846,7 +846,7 @@ Asbestos -1LP wrapped infoit(Setof2) fT TT
 DO KIT a ee ee ee ee
 Others eT Page 8 of 8
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Roxey J Avila Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1219
@@ -890,7 +890,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 8
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Roxey J Avila Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1219
@@ -913,7 +913,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 8
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 T
 a
@@ -954,7 +954,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 8
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 T
 a
@@ -1008,7 +1008,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Roxey J Avila Account 00-0024349 Received 05/09/2023 750
 740 S. Kazarian St. Account Manager Ben Nydam Reported 05/30/2023 1219
@@ -1039,7 +1039,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Roxey J Avila Account 00-0024349 Received 05/09/2023 750
 
@@ -1075,7 +1075,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
         CL q)
 7 230703
@@ -1136,7 +1136,7 @@ j Sample received in cooler with ice
 i
 i
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 05/09/23 0750 23E0703
      _ Shipping Information Shipped ino Picked-Upo Walk Ing DLISamplera Otherc

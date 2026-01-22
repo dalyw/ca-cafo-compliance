@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 1 of 13
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -60,7 +60,7 @@ Dom-1 ILRP WeIl Ground water
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 2 of 13
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -88,7 +88,7 @@ Total exports for aIl materiaIs 95,500.77 31,989.94 186,504.21 119,007.54
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 3 of 13
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -111,7 +111,7 @@ FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Bas
 
 01/10/2024 0837128 Page 4 of 13
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -128,7 +128,7 @@ FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Bas
 
 01/10/2024 0837128 Page 5 of 13
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -161,7 +161,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 6 of 13
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -191,7 +191,7 @@ D-1
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 7 of 13
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -220,7 +220,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 8 of 13
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -263,7 +263,7 @@ FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Bas
 
 01/10/2024 0837128 Page 9 of 13
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -291,7 +291,7 @@ lbs lbs
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 083728 Page 10 of 13
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -321,7 +321,7 @@ wastewater that are new or were revised within the reporting period
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 11 of 13
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -343,7 +343,7 @@ FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Bas
 
 01/10/2024 0837128 Page 12 of 13
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -362,7 +362,7 @@ DATE DATE
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 13 of 13
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -386,7 +386,7 @@ Storm Water Reporting Section on page MRP-14.
 FREA DAIRY, LLC 6205 S. BrawIey Avenue Fresno, CA 93706 Fresno County TuIare Basin
 01/10/2024 0837128 Page 1 of 1
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 ) DeneIe AnaIytical, Inc.
 Yew a4 865 South KiIroy Avenue TurIock, CA 95380 40 N. East Street, WoodIand, CA 95776
@@ -416,7 +416,7 @@ customer uses our test resuIts, nor liabiIity for any other warranties, express 
 conditions submitted on customer purchase orders or other forms submitted for work.
 DeneIe AnaIytical Page 1 ELAP Certificate No. 2714
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 DENELE ANALYTICAL, INC.
 eh 865 S. KILROY DAIRY COMPLIANCE
@@ -460,7 +460,7 @@ j Signajure Company Received Date & Time ReIinquished Date & Time LABORATORY USE
 bos J occurance BIakes (40 LBD FARO
 Required to be subrnitfdfo any agency7 (YES / NO)
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -506,7 +506,7 @@ Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessors Parcel Number County
 Last date hauIed 03/31/2023
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -552,7 +552,7 @@ Operates Signature . Date _
 HauIer Signature Date
 . oo
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 ,
 Manure / Process Wastewater Tracking Manifest ,
@@ -597,7 +597,7 @@ a
 Assessors Parcel Number Assessors Parcel Number County
 Lot Last date hauIed 05/20/2023
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Manure / Process Wastewater Tracking Manifest
 . For
@@ -619,7 +619,7 @@ fine and imprisonmi nowing vioIations.
 Opel Signature Date
 HauIer Signature Date
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Manure / Process Wastewater Tracking Manifest
 . For
@@ -664,7 +664,7 @@ Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessors Parcel Number County
 , Last date hauIed 06/30/2023
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -699,7 +699,7 @@ Pb IV LE
                 . &
 ls
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Manure / Process Wastewater Tracking Manifest
 je For
@@ -743,7 +743,7 @@ eS
               Assessors Parce Number Assessors Parcel Number County
 . Last date hauIed 09/27/2023 .
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 . Manure / Process Wastewater Tracking Manifest
 For
@@ -771,7 +771,7 @@ CT TZ ns. / /
 Operator Signature SAV /,
 o A) Signature Date .
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 r Manure / Process Wastewater Tracking Manifest
 . For
@@ -816,7 +816,7 @@ NN
 Last date hauIed 10/15/2023
                                                                         . er
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Manure / Process Wastewater Tracking Manifest
 For . .
@@ -837,7 +837,7 @@ Opefator Signature 3 Date
 jauIer Sign&ture Date
 ,
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -881,7 +881,7 @@ SouthEast Corner - CIayton & VaIentine Avenue . Fresno
 Assessors Parcel Number Assessors Parcel Number County .
 Last date hauIed 10/45/2023
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -911,7 +911,7 @@ accurate, and compIete. 1 am aware that there are significant penaIties for subm
               Pre Signature Date
                    HauIer Signature Date
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 f Manure / Process Wastewater Tracking Manifest
 pot For
@@ -955,7 +955,7 @@ Fresno
 Assessors Parcel Number Assessors Parcel Number County
 Last date hauIed 12/29/2023
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -982,7 +982,7 @@ based on my inquiry of those individuaIs immediateIy responsibIe for obtaining t
                fine ios for knowing i y, /-
 HauIer Signature - Date
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 2023 AR CALC FREA DAIRY, LLC
 Final Audit Report 2024-06-12

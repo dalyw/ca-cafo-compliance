@@ -16,7 +16,7 @@ Lx CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation Date
 ates
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -40,7 +40,7 @@ Home Phone Number.
 CeIl Phone Number.
           Joneck if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 ptameone oreo i
@@ -63,7 +63,7 @@ Process wastewater generated ee AL BtEAO0- gal
 Total nitrogen generated _-amaage MESS. lbs
 Total saIt (TDS) generated 780,926 ibs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 ) Totat.-) --TypeofiWaste-
@@ -84,7 +84,7 @@ a ee
 a Ys 7 2 a
  225 ars 00 008 on, 119 080 005 mone a9asoOI7m Y 630 isa a d om
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Land AppIication Areas
 
@@ -102,7 +102,7 @@ A
 De DS)
 OR 0
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 List of Land AppIication Areas
 eS fens TotaIe2P.- stype-of. Waste
@@ -120,7 +120,7 @@ a (2 ee)
 a a (2 ad
 Total Crop Acres TE 65 2.00
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 List of Fresh Water Sources
 
@@ -156,7 +156,7 @@ D2, D3, D4, DS, D6, PAOW, PAOE,P27,P46,P4 ss GroundWaters SS CONOSSCSC
 P14, BixIer N, D10 (oId), P22 (oId), NatGal_ ss GroundWater ss CONSSCSCd
  Canal SurfacewaterSSCSNSSCCCSCS
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 (WINTER) PLANT TISSUE-ANALYSIS(RecotdadMuneteIiudjo bene rs ame re
  ras _ cop ove noe_ sex vex sn roe somiers seer some _
@@ -182,7 +182,7 @@ DetectabIe Limits
 VaIley Tach 0.104 0.05 0.01 0.01 0.05
 DeItlavaiIe 0.0019 0.01 0.01 0.0034 0.001
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 (WINTER) PRPEANTET ESUCAWALYSISHRURM CE RIERA Ue De dean
 jr cop ooers oe _ rex rx _ ssatf sted) emp 22lssime
@@ -208,7 +208,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.05 0.019 0,01 0.05
 DeIlavaiIe 0.001 0.014 0.01 0.0034 0.0019
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 (WINTER) PLANT-TISSUE ANALYSIS (RecordeMIASHeceueU EP RSC aR RL ere
 naa cop oie nm rox rox soe ris samters ower source _
@@ -235,7 +235,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.054 0.01 0.014 0.054
 DetIavaIle 0.001 0.01 0.01 0.003 0.001 4
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 - . To. Wet ST we oo eatin PPR IE 5 STE Fr FORINT OW feo RII TLE oS ae ET Pets
 (SUMMER). PLANTSESSUE ANALYSIS (Retuatemacineccived/ss GE Sie min
@@ -259,7 +259,7 @@ DetectabIe Limits
 VaIlev Tech 0.10 0.05 0.01 0.014 0.059
 DeIlavatIe 0.001 0.014 0.01 0.003 0.001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
  eas _ cmp mse ox rox nex se re sampe- oe sae
 a
@@ -283,7 +283,7 @@ VaIley Tech 0.109 0.05 0.01 0.01 0.059
 
 DeIlavatIe 0,001 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 nS aaa AS er AE EN SY Me io MRE onary as eae aIien i E
 
@@ -308,7 +308,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.05 0.01 0.014 0.05
 DetIavatie C.001 0.01 0.019 0.003 0.001
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Winter Crops & Harvest
 a ee ee i cc
@@ -331,7 +331,7 @@ Ee
 DetectabIe L VaIley Tech 0.10 0.05 0.01 0.01 0.059
 DeIlavatIe 0.001 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Winter Crops & Harvest
 Harvest Moisture Nd pe cael ke fmeskevIs cSaIts . x acze. . 5 Reporting
@@ -354,7 +354,7 @@ Ee ee OO YS
 DetectabIe L VaIley Tech 0.10 0.054 0.01 0.01& 0,05
 DetIavatIe 0.0019 0.014 0.01 0.003 0.001
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reporting
@@ -377,7 +377,7 @@ Po eNnNr
 DetectabIe L VaIley Tech 0.10 0.05 0.014 0.01 0.05
 DeIlavaIle 0.001 0.01 0.014 0.003 0.001
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Harvest Moisture N ., SaIt, fo. oe _ Reporting
 es OS
@@ -399,7 +399,7 @@ DetectabIe L VaIley Tech 0.10 0.05 0.014 0.01 0.05
 
 DeHIavatie 0.001 0.01 0.014 0.003 0.001
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Harvest Moisture N Sait Reporting
 
@@ -423,7 +423,7 @@ DetectabIe L VaIley Tech 0.10 0.05 0.01 0.01 0.05K
 
 DeIlavaIle 0.001 0.01 0.01 0,003 0.001
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Harvest MoIsture/ Nt a cmayicen We lma/ke)i SaIts fe cca Reporting.
 a ee ee Saieka liibe Ca ee
@@ -445,7 +445,7 @@ a CS ES NT CG
 DetectabIe L VatIey Tech 0.10 0.05 0.01 0.01 0.05
 DeIlavaiIe 0.001 0.014 0.01 0.003 0.0015
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -485,7 +485,7 @@ DetIovaIle 0.01 i 10 O2 NR 01 Ot O15 3 0.9 0.03 0.03
 FGL Enviromental a 0 o Q oO o a o o oO 0 tt
 VaIley Tech G4 1 NR NR AR NR NR NR NA NR NR NR
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Soil AnaIysis (Winter)
 tear) trey. nasi c FP RRA AE asthe ee Hee Omen feta cacao
@@ -508,7 +508,7 @@ DetectabIe Limits
 VaIley Tech 04 0.4
 DeIlaVaIle Q1 0.1 1d 0.2 0,0015 0.0001
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Soil AnaIysis (Winter)
 
@@ -532,7 +532,7 @@ DetectabIe Limits
 VaIley Tech O41 o4
 DeIlaVatte 9.4 0.1 11 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Soil AnaIysis (Winter)
 
@@ -558,7 +558,7 @@ DetectabIe Limits
 VaIley Tech O.4 0.4
 DeIiaVatie 0.1 Ot 11 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Soil AnaIysis (Summer)
 OfAft. NO3-N 1/2 ft. NO3-N 0/1 ft.Sol.P O/1ft. K O/LFRLEC. orig rTP Re a See a eee RR
@@ -585,7 +585,7 @@ DetectabIe Limits
 VaIley Tech O41 0.1
 DeIlaVatte 0.4 0.5 11 0.2 0.0015 0,0001
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Soil AnaIysis (Summer)
 
@@ -609,7 +609,7 @@ DetectabIe Limits
 VaIley Tech 9.1 0.1
 BeIlaVaIle 0.1 0.2 44 0,2 0.0015 0.0001
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Soil AnaIysis (Summer)
 0/1ft. NO3-N 1/2 ft. NO3-N 0/1 ft. Sol. P re ee shes
@@ -635,7 +635,7 @@ DetectabIe Limits
 VatIey Tech a2 0.1
 DeiIaVaIte o4 0.4 41 0.2 0.0015 9.0001
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property2
@@ -649,7 +649,7 @@ Type of Manure , fo. ny
 Fiel Di . .
 eId Name AppIied As Is/ ory Weight for ot __ Saute a
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Pracess Water & Manure AnaIysis
 PeeeeDOretT Ta - Trew hy Leake Ban fd EOL T TL Can the PET rn eee Lae SE Lee beige ye tot fa oon
@@ -679,7 +679,7 @@ VaIley Tech 0.01 0.02 0.02
 
 DeitavaIie 0.014 0.01 0.003 0.001 0.001 0.001 0.001 0.000 0.001 0.001
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Nutrient AppIications
 FieId Name/Number D1 Acres 80.00
@@ -724,7 +724,7 @@ Dry Weight
 
 As Received
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 FieId Name/Number D1 Acres 80
 Nutrients Removed atHarvest 53.7 so aan To
@@ -755,7 +755,7 @@ Atm. Depos. HN/A aN/A
 S. PIanting HN/A
 S. Harvest 4N/A HN/A T/Ac ANJA aN/A HN/A
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Nutrient AppIications
 FieId Name/Number D2 Acres 74.00
@@ -797,7 +797,7 @@ pr
 eS I RE NS ES ES ES EOS SS
 TotaIs Loo oJ sess ooo asasiIer con sass aos 0 oa _
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 FieId Name/Number 02 Acres 74.00
 INutrientsAppied CT Pts
@@ -846,7 +846,7 @@ Atm. Depos. AN/A aN/A
 
 S. Harvest N/A 4N/A TAc HN/A HN/A HN/A
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Nutrient AppIications
 
@@ -887,7 +887,7 @@ a Ns eS ES CC OS
 a ES OO OE EC ES OG
 TotaIez L205 (o ass saa Twas (ss aas2 ozs 0 esas
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 FieId Name/Number D3 Acres 39.00
 lMutrients AppIied sag ase ae ase
@@ -919,7 +919,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 6/26/23
 S. Harvest 10/11/23 20.7 T/Ac (183.5) (81.5) (162.0)
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Nutrient AppIications
 
@@ -961,7 +961,7 @@ a A A QS ES GS a
 AS ESS SS NO AES OI TSS OS (SR PS
 Totats Loo J Lo assz az ef al wom a7ue 2028 0 ase
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 FieId Name/Number D4 Acres 33.00
 (Nutrients AppIied TTT e082
@@ -993,7 +993,7 @@ Atm, Depos. Yes 7.0
 S. PIanting 6/21/23
 S. Harvest 10/11/23 19.2 T/Ac (174.7) (77.5) (149.5)
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Nutrient AppIications
 
@@ -1034,7 +1034,7 @@ a SD
 A A En SO ES ON OE RN I RE
 TotaIs Loo _ Lo T a9se fo00 Ttacsel teal sam ses ft023 To 8a0_
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 FieId Name/Number DS Acres 110.00
 fwutrientsAppied Ton CdS
@@ -1066,7 +1066,7 @@ Atm. Depos. aN/A N/A
 S. PIanting aN/A
 S. Harvest aN/A HN/A T/A AN/A aN/A HN/A
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Nutrient AppIications
 
@@ -1107,7 +1107,7 @@ a EN SE ES ES SS
 ES ES ENS ES A I ES ED GR
 TotaIs L258 Lo aio eax of a sesso toms 0) sane
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 FieId Name/Number D6 Acres 19.00
 Nutrients AppIied Tos) SCdCSCSCSCtT
@@ -1139,7 +1139,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 6/22/23
 5. Harvest 10/21/23 30.7 T/Ac (248.0) (152.7) (330.1)
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Nutrient AppIications
 
@@ -1180,7 +1180,7 @@ a a SS A
 _ oo
 TotaIez (_ 200 Lo J 2a ( sao se 2s ses om 0 mss
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 FieId Name/Number D7 Acres 30.00
 (Nutrients AppIied TT
@@ -1212,7 +1212,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 6/19/23
 S. Harvest 9/21/23 27.5 TiAc (244.4) (116.8) (272.9)
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Nutrient AppIications
 FieId Name/Number Ds Acresz 19.00
@@ -1253,7 +1253,7 @@ a a Pe a I
 es SY ESS ES EE OE EN US TS SD DS
 TotaIss _ oo oo sre sao fasf lal ae oo fo maa
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 FieId Name/Number ps Acresz 19.00
 Nutrients Removed atHarvest zag zest OT SCS
@@ -1284,7 +1284,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 6/20/23
 S. Harvest 9/21/23 27.5 T/Ac (244,5) (128.8) (277.8)
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Nutrient AppIications
 FieId Name/Number D5-10 Acres 16.00
@@ -1325,7 +1325,7 @@ a A ES ES ES EN SES ES OE
 A ES ES OE NE EE OS OE SR
 Totats oa oJ 606 eas Tm TT - wa ao 0 som _
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 FieId Name/Number D9-10 Acres 16.00
 NutrientsAppIied Tosa Sse
@@ -1373,7 +1373,7 @@ S. PIanting 6/23/23
 
 S. Harvest 10/11/23 27.6 T/Ac (235.4) (126.8) (244.5)
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Nutrient AppIications
 FieId Name/Number- BhiIer/RiddIe Acres 76.00
@@ -1413,7 +1413,7 @@ a SE A ES EE AS
 LS RS SN NE TED GE CP
 TotaIs Loo Lo sans ooo Taso omf ar tozs 0 an _
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 FieId Name/Number BixIer/RiddIe Acres 76.00
 NutrientsAppIied Ta tt
@@ -1462,7 +1462,7 @@ Atm. Depes. HN/A HN/A
 
 5. Harvest N/A aN/A T/Ac ANJA ANJA HN/A
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Nutrient AppIications
 
@@ -1503,7 +1503,7 @@ eS EE EE ESS EY NOTES OS ES (RY a
 ES GON SE ES TED ES PO CE
 TotaIs L_ oo oJ soz ooo tases asl sail a6 3023 0 sos _
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 FieId Name/Number- G1 Acres 151.00
 fNutientsappied TSEC
@@ -1552,7 +1552,7 @@ S. PIanting HN/A
 
 S. Harvest HN/A aN/A T/Ac HN/A HN/A HN/A
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Nutrient AppIications
 
@@ -1593,7 +1593,7 @@ a A EE NE AS ORT CS NE NE RS
 RE RI OSE SS SS CE
 TotaIs Loo Lo sz ooo Teal wal onl se soz 0 oan
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 FieId Name/Number- Gz Acres 97.00
 Nutrients AppIied Po ots
@@ -1625,7 +1625,7 @@ Atm. Depos. N/A HN/A
 5. PIanting aN/A
 5S. Harvest aN/A HN/A Tac N/A 4N/A BN/A
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Nutrient AppIications
 
@@ -1666,7 +1666,7 @@ a ES ES EI ES DS ES OS ES
 A RE ES EI OE EY RS
 TotaIsz Loo Le sea6 ooo Toul wo taeyf aso aozs 0 949
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 FieId Name/Number G3 Acres 74.00
 (wutrientsappied Pao
@@ -1699,7 +1699,7 @@ Atm. Depos. N/A 4N/A
 S. PIanting N/A
 5. Harvest HN/A HN/A T/Ac AN/A HN/A HN/A
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Nutrient AppIications
 
@@ -1740,7 +1740,7 @@ a as ES
 RS RE NE ES ES NS RS
 Totais L oo o sss oo frail al eas) ts7-_ ozs 0 om _
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 FieId Name/Number T1 Acres 114.00
 NutrientsApptied Pt CSCC
@@ -1788,7 +1788,7 @@ S. PIanting AN/A
 
 S. Harvest HN/A N/A T/Ac HN/A HN/A N/A
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Nutrient AppIications
 FieId Name/Number 12-25 Acresi 152.00
@@ -1829,7 +1829,7 @@ I ON ES GE I I GO
 es ES OE NS I NN
 TotaIs _ oo Lazo seas ono al sm ens oo To azn
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 FieId Name/Number 72-25 Acres 152.00
 lNutrients AppIied Toa TCC CdYCi(ti
@@ -1861,7 +1861,7 @@ Atm. Depos. Yes 70
 5. PIanting 5/24/23
 5. Harvest 9/1/23 33.3 T/Ac (204.1) (120.2) (314.9)
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Nutrient AppIications
 FiaId Name/Number. 3 Acres 41.00
@@ -1905,7 +1905,7 @@ Dry Weight
 
 As Received
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 FieId Name/Number 3 Acres 4a
 Nutrientsappied Ton oT
@@ -1953,7 +1953,7 @@ Atm. Depos. N/A HN/A
 
 S. Harvest aN/A HN/A T/AC HN/A AN/A aN/A
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Nutrient AppIications
 FieId Name/Number T4-14 Acres 70.00
@@ -1995,7 +1995,7 @@ A EN OC SS A NE
 A CS RC RI ES SS ES (SS PS
 TotaIs L_ oo J soo ssa 000 aaj eentgss asz coo 0 sav
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 FieId Name/Number T4-14 Acres 70.00
 lNutrientsAppied Eta dSCSCdYSSSC
@@ -2044,7 +2044,7 @@ S. PIanting 4/16/23
 
 S. Harvest 8/12/23 25.4 T/Ac (282.2) 205.4) (239.4)
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Nutrient AppIications
 
@@ -2085,7 +2085,7 @@ a es a RN SS ES
 SS SE OS SS ES AS PS CS
 TotaIss Loo Lo Jo s228 ( ooo twosif eal emf oaza acs 0 om
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 FIeld Name/Number TS Acres 75.00
 (NutrientsAppied on Cte
@@ -2134,7 +2134,7 @@ S. PIanting AN/A
 
 5. Harvest AN/A N/A T/Ac HN/A 4N/A aN/A
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Nutrient AppIications
 FieId Name/Number T11 Acres 115.00
@@ -2177,7 +2177,7 @@ a a es ES EN
 ES EN RS ES PS NT
 TotaIs _soo sess coo sil onl aan) ooo to seas
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 FieId Name/Number T11 Acres 115.00
 lNutrients Appfied ana TSCdSCiS
@@ -2209,7 +2209,7 @@ Atm. Depos. Yes 7.0
 5. PIanting 6/10/23
 S. Harvest 9/13/23 32.8 T/Ac (184.7) (85.4) (288.7)
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Nutrient AppIications
 
@@ -2252,7 +2252,7 @@ a as a
 A SN ES ES SS SO SG
 TotaIsz Loo Liza se43 ooo eal ol assil as owe 0 zrze
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 FieId Name/Number 6 Acres 95.00
 fNutrients AppIied tooo Cts
@@ -2284,7 +2284,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 4/21/23
 S. Harvest 8/14/23 27.30 TiAc (197.3) (114.0) (305.7)
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Nutrient AppIications
 
@@ -2325,7 +2325,7 @@ LS a EN ES SO ST
 A ES CN CIS ES RE ES ET SS
 TotaIs L120 Lo sees ooo eIev ae ssa oto 0 azas
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 FieId Name/Number v7 Acres 100.00
 NutrientsApped Tagg asa 79
@@ -2374,7 +2374,7 @@ Atm. Depos. Yes 70
 
 S. Harvest 8/14/23 17.5 T/Ac (135.9) (69.8) (150.8)
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Nutrient AppIications
 
@@ -2415,7 +2415,7 @@ a I CD ES IS SS SY
 A ES ES EO OS SS GS EC
 TotaIet oo Lo sm ooo ( sol ai aes aez aoe 0 on
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 FieId Name/Number Ta Acres 65.00
 lNutrientsAppIied on oo SCdYC( ((CS
@@ -2464,7 +2464,7 @@ Atm. Depos. HN/A N/A
 
 S. Harvest aN/A HN/A T/Ac RN/A HN/A HN/A
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Nutrient AppIications
 FieId Name/Number TS Acres 61.00
@@ -2505,7 +2505,7 @@ poe ee
 a I ON ES I SS ET
 Totats _o0 L_soo saz ooo wl eal too sat oo 0 26a
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 FieId Name/Number Tg Acres 61.00
 _TotaiN(lbs/ac) Total P(tbs/ac) Total Ktbs/ac) Total SaIts lbs/aq)
@@ -2538,7 +2538,7 @@ Atm. Depos. Yes 7.0
 5. PIanting 4/19/23
 5. Harvest 8/10/23 26.4 T/Ac (188.6) (86.4) (239.9)
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Nutrient AppIications
 FIeld Name/Number T15-16-23 Acres 84.00
@@ -2581,7 +2581,7 @@ a a
 a a SE SS ES RE PE GO a
 TotaIst Loo J Luo a oo mia - - wa om o mas
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 FieId Name/Number T15-16-23 Acres 84.00
 Nutrients AppIied Eton oCTitCdSSC (tit
@@ -2613,7 +2613,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 4/13/23
 5. Harvest 8/10/23 32.2 T/Ac (207.7) (147.2) (328.9)
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Nutrient AppIications
 FieId Namne/Number 719 Acres 63.00
@@ -2653,7 +2653,7 @@ a aes He a SS ES GO ES EE
 a Ne ES ES I
 TotaIss Loo L_wo sees T ooo wo wal eanl asaf ooo 0 27m _
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 FieId Name/Number tig Acres 63.00
 Nutients AppIied Eton TCs CTC
@@ -2685,7 +2685,7 @@ Atm. Depos. Yes 70
 5. PIanting 4/13/23
 S. Harvest 8/9/23 27.0 T/Ac (180.3) (96.6) (260.1)
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Nutrient AppIications
 
@@ -2726,7 +2726,7 @@ a re ee
 A ae SE EN NE NSS TS ES CP
 TotaIe Loo _ L120 sear ( ooo sil sil ial am oo 0 nar_
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 FieId Name/Number 721-29 Acres 31.00
 futientsappied aoa TCT
@@ -2775,7 +2775,7 @@ S. PIanting 4/14/23
 
 S. Harvest 8/10/23 31.9 T/Ac (215.1) (120.4) (255.3)
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Nutrient AppIications
 
@@ -2816,7 +2816,7 @@ a as a SR SS
 a SS I NE SES ES GS EO GS
 TotaIs L- oo Lo JT oasa Too wen aol esi ses aoe 0 900
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 FieId Name/Number 22-24 Acres 153.00
 futrientsAppIied ot CdSCitSCCSCSCt
@@ -2865,7 +2865,7 @@ S. PIanting N/A
 
 S. Harvest HN/A AN/A TfAc N/A HN/A HN/A
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Nutrient AppIications
 FieId Name/Number T26 Acres 89.00
@@ -2906,7 +2906,7 @@ SD aes OE PS CN GE OA
 a Ee SS RS EE
 TotaIs Loo _ Lo fee ooo Terai roeoy am too 0 30
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 FieId Name/Number T26 Acres 89.00
 INutrientsAppied Tn SCSYSC( (asst
@@ -2955,7 +2955,7 @@ S. PIanting 4N/A
 
 S. Harvest HN/A aN/A T/Ac HN/A HN/A N/A
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Nutrient AppIications
 
@@ -2996,7 +2996,7 @@ Po
 A A I A ES ES ENS ES EG
 TotaIs 00 Lao JT ssaa 000 wal sl eal sv ooo 0 some
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 FIeld Name/Number 130 Actes 26.00
 lNutrientsAppied Toa oo CdCtCiitS
@@ -3045,7 +3045,7 @@ S. PIanting 4/14/23
 
 S. Harvest 8/10/23 30.9 T/Ac (203.5) (102.4) (276.4)
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Nutrient AppIications
 
@@ -3086,7 +3086,7 @@ A SS SS I SUE EO
 ES NE ES ES CEN ES CS PS
 Totatss Loo Lo sor coo TeaIl tson aa tse 0 oa
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 FieId Name/Number 136 Acres 77.00
 wutrientsApptied oT CCCSCSdYSC((sOd
@@ -3135,7 +3135,7 @@ S. PIanting aN/A
 
 S. Harvest HN/A HN/A TAC N/A aN/A aN/A
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Nutrient AppIications
 FieId Name/Number Ta9-44 Acres 197.00
@@ -3178,7 +3178,7 @@ TotaIs L102 Le sx2 ooo Tael s6 azoIe ass 0 (teas
 Dry Weight
 As Received
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 FieId Name/Number 739-44 Acres 197
 INutrients Removed at Harvest tao saa SidYCSSCas dS
@@ -3209,7 +3209,7 @@ Atm, Depos. Yes 70
 S. PIanting 4/15/23
 S. Harvest 8/12/23 16.9 T/Ac (212.0) (62.0) (144.7)
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Nutrient AppIications
 
@@ -3250,7 +3250,7 @@ a A SE CS ES EE ES SP a TS
 a Se EG I SS SS ES NS NS SG
 Totates Loo L_wo sear ooo vs tesil uan asz ase 0 asa
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 FieId Name/Number 740 Acres 156.00
 _ Total ibs/ac) Total P(lbs/ac)_ Total Ktbsfac)_ Total SaIts (bs/ac) _
@@ -3283,7 +3283,7 @@ Atm. Depos, Yes 7.0
 S. PIanting 4/15/23
 S. Harvest 8/13/23 25.9 T/Ac (175.2) (111.5) (217.3)
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Nutrient AppIications
 FieId Name/Number T45-46 Acres 139.00
@@ -3323,7 +3323,7 @@ a ES EN I EN ES GE a
 A ES ON SE SS OE ES OS
 TotaIs Loo o sage 000 asf anil aon ame ono 0 oma
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 FieId Name/Number 745-46 Acres 139.00
 fNuttentsAppIied Toa dS
@@ -3372,7 +3372,7 @@ S. PIanting HN/A
 
 S. Harvest ANJA N/A T/Ac ANJA HN/A HN/A
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Nutrient AppIications
 
@@ -3414,7 +3414,7 @@ a es ON ES
 a es ES NE SE ES a
 Totats L i338 L_so0 sz00 ( ooo nl azs auf nas ase 0 stz0
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 FieId Name/Number ZonneveId E Acres 80.00
  Total p (tis/ac) T Totsl KUbs/ac) Total SaIts lbsjoc) _
@@ -3447,7 +3447,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 7f4f23
 S. Harvest 10/31/23 25.8 T/Ac (186.1) (77.5) (151.3)
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Nutrient AppIications
 FieId Name/Number ZonneveId W Acres 80.00
@@ -3487,7 +3487,7 @@ pp ep
 ep pt
 pp yt
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 FieId Name/Number ZonneveId W Acres 80.00
 fNutients AppIied Tg
@@ -3519,7 +3519,7 @@ Atm. Depos. Yes 7.0
 S. PIanting 7/13/23
 5. Harvest 11/1/23 30.0 T/Ac 191.9) (77.8) (179.3)
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 . 2 5
 a, 29
@@ -3600,7 +3600,7 @@ sas 2883 E
 35 2838
 Ss 28
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 F 5
 o cc 2
@@ -3702,7 +3702,7 @@ i-J Pat J s Fy
     Fj 5 s
 2 n A z s
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 sE
 Bes
@@ -3766,11 +3766,11 @@ Fe BE
 SIE 8
 a
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 aN heco tAscoc,
 ENVIRONMENTAL 2 AGRICULTURAL
@@ -3816,7 +3816,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5813 TEL (805)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2083 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8425
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 ENVIRONMENTAL 22- AGRICULTURAL
 AnaIytical Chemists
@@ -3848,7 +3848,7 @@ TEL (B05)392-2000 TEL (209)942-0182 TEL (630)249-5818 TEL (805)783-2940 TEL (559
 Env FAX (B05)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (590)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1663 CAELAP Certification No. 2670 CAELAP Certiication No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 FGL
 ENVIRONMENTAL 22 AGRICULTURAL
@@ -3901,7 +3901,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5813 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 o
 2 9
@@ -3977,7 +3977,7 @@ Wjgr ate 28 ES EIs a ae xe . Ba e2
 s & 3 3 22/8 B 2132 z
 54 Eoge ls a 6 4 g
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC ,
 Revision Date- 10/09/14 Page 1 of 1
@@ -4029,11 +4029,11 @@ Re aon Livingston Dairy ConsuIting, Ine,
 contacts) iv 02/01/2023 09.2728 .
 TT
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 FGL
 ENVIRONMENTAL 2& AGRICULTURAL
@@ -4078,7 +4078,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423, FAX (530)343-3907 FAX (B05)783-2912 FAX (559)734-6435.
 CA ELAP Cerntification No. 1673 CA ELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -4112,7 +4112,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL. (530)343-6818 TEL (805)783-2940 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734.8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CA ELAP Certification No. 2775 GAELAP CerIification No. 2810
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 . g 2
 bs FoItS x2 Ss
@@ -4224,7 +4224,7 @@ z s 223 2 e 4 e & A Bel aIalmIelnIelrIola eIe
 - bee sse8 8/6 gs &/ A Zz I 4
 a5 2 EgE & 6/8 aw a
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 . EGL Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -4277,7 +4277,7 @@ ResoIution iv 07/12/2023 090456
 (PIease use the back of this sheet for addi WALA here
 contacts) . soaee i Fae -
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
                   R/ Livingston Dairy ConsuIting, Inc.
 FIELD ACTIVITY REPORT
@@ -4299,11 +4299,11 @@ SampIe Preservation Method (circ one) Ice Chest _Refrigerator Ice Pack
 as,
 Y Livingston Dairy ContuIing, Inc, 2020
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 Manure/Process Wastewater Tracking Manifest For Existing Mik Cow Dairies
 instructions
@@ -4361,11 +4361,11 @@ there ere significant pena for submitting infomation, incIuding the possibIity o
 Operators Signature Ce t- _ Date- Ss 2, f
 HauIers Signature _ Date
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 Livingston Dairy ConsuIting, Inc.
 1635 E. Prosperity Ave. Ste. B
@@ -4398,5 +4398,5 @@ incompIete, book vaIues and / or historical data was used. The third party labor
 was not invoIved with the agronomic growth of the crops and the Nutrient Budget is based on information
 provided by the owner.
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 

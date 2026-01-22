@@ -27,7 +27,7 @@ This owner is responsibIe for paying permit fees.
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 1 of 32
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ Ags6 Ground water
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 2 of 32
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -100,7 +100,7 @@ Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basi
 
 06/10/2024 16.1311 Page 3 of 32
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -133,7 +133,7 @@ FieId name 12
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 4 of 32
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -159,7 +159,7 @@ FieId name 4
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 5 of 32
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -190,7 +190,7 @@ Total actual harvest content 0.11 4.99 1.05 1.85 9.87
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 6 of 32
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -206,7 +206,7 @@ Total actual harvest content 17.41 179.50 37.92 194.67 1,504.27
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 7 of 32
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -239,7 +239,7 @@ AppIication event totaIs 58.23 5.28 50.30 587.73
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 8 of 32
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -272,7 +272,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 9 of 32
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -304,7 +304,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 10 of 32
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -336,7 +336,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 11 of 32
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -368,7 +368,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 12 of 32
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -401,7 +401,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 13 of 32
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -434,7 +434,7 @@ AppIication event totaIs 0.00 0.00 0.00 42.10
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 14 of 32
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -468,7 +468,7 @@ AppIied to removed ratio 1.18 0.86 1.42 2.79
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 15 of 32
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -502,7 +502,7 @@ AppIied to removed ratio 1.21 0.96 1.62 2.98
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 16 of 32
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -535,7 +535,7 @@ AppIied to removed ratio 1.17 0.94 1.74 3.23
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 17 of 32
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -568,7 +568,7 @@ AppIied to removed ratio 1.30 0.94 1.67 3.58
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 161311 Page 18 of 32
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -601,7 +601,7 @@ AppIied to removed ratio 1.20 1.06 1.76 4.20
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 161311 Page 19 of 32
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -636,7 +636,7 @@ AppIied to removed ratio 1.40 0.00 0.00 20.93
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 20 of 32
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -670,7 +670,7 @@ AppIied to removed ratio 0.08 0.00 0.00 0.15
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 21 of 32
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -704,7 +704,7 @@ B. PROCESS WASTEWATER ANALYSES
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 22 of 32
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -735,7 +735,7 @@ Dom 4
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 23 of 32
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -767,7 +767,7 @@ D. SOIL ANALYSES
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 24 of 32
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -793,7 +793,7 @@ DL 500.00 200.00 200.00 0.05
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 25 of 32
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -824,7 +824,7 @@ DL 500.00 200.00 200.00 0.05
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 26 of 32
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -849,7 +849,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 27 of 32
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -884,7 +884,7 @@ N P K saIt
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 1671311 Page 28 of 32
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -916,7 +916,7 @@ lbs lbs
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 161311 Page 29 of 32
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -946,7 +946,7 @@ wastewater that are new or were revised within the reporting period
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 30 of 32
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -964,7 +964,7 @@ Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basi
 
 06/10/2024 16.1311 Page 31 of 32
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -981,7 +981,7 @@ DATE DATE
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 161311 Page 32 of 32
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1005,7 +1005,7 @@ Storm Water Reporting Section on page MRP-14.
 Garcia & Sons Dairy 15315 17th Avenue Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 16.1311 Page 1 of 1
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1060,7 +1060,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -1095,7 +1095,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1152,7 +1152,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 ug _ Laboratory AnaIysis Work Order 3059
 SITE NAME Lemyore F-0. LABORATORY WF FGL 4-19696
@@ -1216,7 +1216,7 @@ ol GOS A/G f3
 
 5.39C Ye //O
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 , FGL Environmental Doc ID 3D0900002_SOP_12.DOC ,
 Revision Date 10/09/14 Page 1 of 1
@@ -1266,7 +1266,7 @@ ProbIem
 Crease . the back of this sheet for additional co iv 0771912023 08711244
 UA
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 (_s
 ENVIRONMENTAL AGRICULTURAL
@@ -1313,7 +1313,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -1343,7 +1343,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -1373,7 +1373,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -1403,7 +1403,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 I
 ENVIRONMENTAL AGRICULTURAL
@@ -1449,7 +1449,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
   Laboratory AnaIysis Work Order 3489
 SITE NAME Garee aSoas ABH BS c LABORATORY FGL 4-19696 ,
@@ -1514,7 +1514,7 @@ et Ae BN SAS Ee Op 27 tsc2e,. _
 Fe EY te Oe Te YI cl. ek oe
 LABORATORY USE ONLY y aw
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 FGL Environmental Doc ID
 0o_uno_temp17754627647086214641.DOC

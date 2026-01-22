@@ -36,7 +36,7 @@ CA 93230 | Kings County | Tulare Basin
 
 Page 1 of 82
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -93,7 +93,7 @@ AVAILABLE NUTRIENTS
 
 Page 2 of 82
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -117,7 +117,7 @@ No liquid nutrient exports entered.
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 3 of 82
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -289,7 +289,7 @@ Parcel number
 
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 1
@@ -328,7 +328,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 5 of 82
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 10
@@ -367,7 +367,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 6 of 82
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -408,7 +408,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 7 of 82
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 14
@@ -447,7 +447,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 8 of 82
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -488,7 +488,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 9 of 82
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 29
@@ -527,7 +527,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 10 of 82
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -568,7 +568,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 11 of 82
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4&5
@@ -607,7 +607,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 12 of 82
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -636,7 +636,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 13 of 82
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -793,7 +793,7 @@ Salt (Ibs/acre) Amount
 
 Page 14 of 82
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -832,7 +832,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 15 of 82
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -870,7 +870,7 @@ Application event totals 0.00 0.00 0.00 46.43
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 16 of 82
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -907,7 +907,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 17 of 82
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 11 - 11/12/2022: Wheat, silage, soft dough
@@ -989,7 +989,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 18 of 82
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1026,7 +1026,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 19 of 82
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1064,7 +1064,7 @@ Application event totals 130.26 19.30 183.01 1,109.55
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 20 of 82
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1100,7 +1100,7 @@ Application event totals 127.16 19.23 142.68 912.21
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 21 of 82
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1138,7 +1138,7 @@ Application event totals 114.78 9.40 110.85 753.98
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 22 of 82
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1177,7 +1177,7 @@ Application event totals 0.00 0.00 0.00 27.24
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 23 of 82
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1359,7 +1359,7 @@ Salt (Ibs/acre) Amount
 
 Page 24 of 82
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1497,7 +1497,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 25 of 82
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1740,7 +1740,7 @@ Amount
 
 Page 26 of 82
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1892,7 +1892,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 27 of 82
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2106,7 +2106,7 @@ Plant date: 11/12/2022
 
 Page 28 of 82
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2144,7 +2144,7 @@ Application event totals 0.00 0.00 0.00 47.81
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 29 of 82
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2181,7 +2181,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 30 of 82
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2219,7 +2219,7 @@ Application event totals 0.00 0.00 0.00 47.45
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 31 of 82
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2256,7 +2256,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 32 of 82
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2294,7 +2294,7 @@ Application event totals 0.00 0.00 0.00 47.67
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 33 of 82
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2479,7 +2479,7 @@ Salt (Ibs/acre) Amount
 
 Page 34 of 82
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2517,7 +2517,7 @@ Application event totals 0.00 0.00 0.00 51.07
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 35 of 82
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2555,7 +2555,7 @@ Application event totals 0.00 0.00 0.00 68.74
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 36 of 82
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2743,7 +2743,7 @@ Salt (Ibs/acre) Amount
 
 Page 37 of 82
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2763,7 +2763,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 38 of 82
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2822,7 +2822,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 39 of 82
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2859,7 +2859,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 40 of 82
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2919,7 +2919,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 41 of 82
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3060,7 +3060,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 42 of 82
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3137,7 +3137,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 43 of 82
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3280,7 +3280,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 44 of 82
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3357,7 +3357,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 45 of 82
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3395,7 +3395,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 46 of 82
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3433,7 +3433,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 47 of 82
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3473,7 +3473,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 48 of 82
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3532,7 +3532,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 49 of 82
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3570,7 +3570,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 50 of 82
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3644,7 +3644,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 51 of 82
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3784,7 +3784,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 52 of 82
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3858,7 +3858,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 53 of 82
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3934,7 +3934,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 54 of 82
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3972,7 +3972,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 55 of 82
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4050,7 +4050,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 56 of 82
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4109,7 +4109,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 57 of 82
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4178,7 +4178,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 58 of 82
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4214,7 +4214,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 59 of 82
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4364,7 +4364,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 60 of 82
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4456,7 +4456,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 61 of 82
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4558,7 +4558,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 62 of 82
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4632,7 +4632,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 63 of 82
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4708,7 +4708,7 @@ Total N (Ibs/acre) Total P (Ibs/acre) Total K (Ibs/acre) Total salt (Ibs/acre) |
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 Page 64 of 82
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -4750,7 +4750,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 65 of 82
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4783,7 +4783,7 @@ Last Chance Ditch
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 66 of 82
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Last Chance Ditch
@@ -4828,7 +4828,7 @@ W3M1
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 67 of 82
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 W3M1
@@ -4863,7 +4863,7 @@ Field 1 - 11/12/2022: Wheat, silage, soft dough
 LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/25/2024 14:22:32 Page 68 of 82
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 1 - 11/12/2022: Wheat, silage, soft dough
@@ -4915,7 +4915,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 69 of 82
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 10 - 05/14/2023: Corn, silage
@@ -4968,7 +4968,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 70 of 82
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 12 - 11/15/2022: Wheat, silage, soft dough
@@ -5020,7 +5020,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 71 of 82
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 14 - 05/14/2023: Corn, silage
@@ -5073,7 +5073,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 72 of 82
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 21 - 11/11/2022: Wheat, silage, soft dough
@@ -5125,7 +5125,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 73 of 82
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 29 - 05/15/2023: Corn, silage
@@ -5178,7 +5178,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 74 of 82
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 32 - 11/12/2022: Wheat, silage, soft dough
@@ -5231,7 +5231,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 75 of 82
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4 & 5 - 05/16/2023: Corn, silage
@@ -5284,7 +5284,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 76 of 82
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 9 - 11/12/2022: Wheat, silage, soft dough
@@ -5327,7 +5327,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 77 of 82
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -5368,7 +5368,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 78 of 82
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5445,7 +5445,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 Page 79 of 82
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -5491,7 +5491,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 80 of 82
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -5513,7 +5513,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 81 of 82
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5537,7 +5537,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 82 of 82
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -5572,7 +5572,7 @@ LU/AR Dairy | 6121 15th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 
 06/25/2024 14:22:32 Page 1 of 1
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 JMLORD, INC.
 
 4184 N. KNOLL, FRESNO, CA 93722
@@ -5611,7 +5611,7 @@ abundant surface water: W-2 Map 3, W-4 Map 1, W-5 Map 1, W-1 Map 2, W-3 Map 2, W
 
 FYI: The regulatory limit for Nitrate as NO3N is 10 mg/L.
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -5666,7 +5666,7 @@ www.BSKAssociates.com =————— Page 1 of 9
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 AGJ2528
 
 RB5 Well
@@ -5697,7 +5697,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = —§£——— Page 2 of 9
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 ASSOCIATES
 
 Certificate of Analysis
@@ -5735,7 +5735,7 @@ AGJ2528 Final FINAL 10 31 2023 1628 10312023 1628
 
 Page 3 of 9
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 AGJ2528
 RB5 Well
 
@@ -5790,7 +5790,7 @@ www.BSKAssociates.com = —§£——— Page 4 of 9
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 AGJ2528
 
 RB5 Well
@@ -5830,7 +5830,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com =————————— Page 5 of 9
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 AGJ2528
 
 RB5 Well
@@ -5857,7 +5857,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com = —§£——— Page 6 of 9
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -5888,7 +5888,7 @@ AGJ2528 Final FINAL 10 31 2023 1628 10312023 1628
 
 www.BSKAssociates.com = —§£——— Page 7 of 9
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 BSK Associates SR-FL-0002-24
 
 Sample Integrity
@@ -5986,7 +5986,7 @@ Scanned: _[{ } Rush/Short HT Page: Time:
 Page 8 of 9
 
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 1414 Stanislaus St., Fresno, CA 93706 Turnaround Time Request f AGIJ2528 — luard9755 LO/1 7/2023
 |
 
@@ -6048,7 +6048,7 @@ eqn ji found at www.tskassociates.conv/BSKLabTermsCot
 SR-FL-0012-67
 
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
 
@@ -6103,7 +6103,7 @@ www.BSKAssociates.com =————————— Page 1 of 11
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 AGJ2979
 
 RB5 Well
@@ -6134,7 +6134,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com =————————— Page 2 of 11
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 ASSOCIATES
 
 Sample ID: AGJ2979-01
@@ -6178,7 +6178,7 @@ AGJ2979 Final FINAL 11 02 2023 1343 11022023 1343
 
 Page 3 of 11
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 ASSOCIATES
 
 Sample ID: AGJ2979-02
@@ -6222,7 +6222,7 @@ AGJ2979 Final FINAL 11 02 2023 1343 11022023 1343
 
 Page 4 of 11
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 AGJ2979
 RB5 Well
 
@@ -6294,7 +6294,7 @@ www.BSKAssociates.com =————————— Page 5 of 11
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 AGJ2979
 RB5 Well
 
@@ -6328,7 +6328,7 @@ www.BSKAssociates.com =————————— Page 6 of 11
 
 analytical report must be reproduced in its entirety.
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 AGJ2979
 
 RB5 Well
@@ -6368,7 +6368,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com =————————— Page 7 of 11
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 AGJ2979
 
 RB5 Well
@@ -6395,7 +6395,7 @@ analytical report must be reproduced in its entirety.
 
 www.BSKAssociates.com =————————— Page 8 of 11
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 Certifications: Please refer to our website for a copy of our Accredited Fields of Testing under each certification.
 
 Fresno
@@ -6426,7 +6426,7 @@ AGJ2979 Final FINAL 11 02 2023 1343 11022023 1343
 
 www.BSKAssociates.com =————————— Page 9 of 11
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 AGI2979 — luard9755 10/19/2023
 
 BSK Associates SR-FL-0002-24 - ce
@@ -6510,7 +6510,7 @@ Scanned: (ga ) Rush/Short HT Page: Time:
 Page 10 of 11
 
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 1414 Stanislaus St., Fresno, CA 93706
 (559) 497-2888 - Fax (559) 497-2893
 

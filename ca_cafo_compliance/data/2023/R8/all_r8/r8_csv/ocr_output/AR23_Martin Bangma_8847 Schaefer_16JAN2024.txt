@@ -38,7 +38,7 @@ Ve a &
 8, &
 See, see
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 4
@@ -84,7 +84,7 @@ and imprisonment for knowing vioIations.
 Operators Signature- AE Date G fad 2. LY -7- 2
 HauIers Signature- a Date- G-2e -2 3
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -138,7 +138,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors Yes 4) No oO
 
 1 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3

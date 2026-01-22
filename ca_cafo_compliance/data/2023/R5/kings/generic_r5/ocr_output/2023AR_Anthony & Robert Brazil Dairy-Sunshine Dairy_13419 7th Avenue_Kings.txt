@@ -41,7 +41,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 1 of 52
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -69,7 +69,7 @@ Mailing Address Number and Street City State Zip Code
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 2 of 52
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -143,7 +143,7 @@ AVAILABLE NUTRIENTS
 
 Page 3 of 52
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -162,7 +162,7 @@ No liquid nutrient exports entered.
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 4 of 52
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -205,7 +205,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 5 of 52
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -327,7 +327,7 @@ TFS (%)
 
 Page 6 of 52
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -368,7 +368,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 7 of 52
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -490,7 +490,7 @@ TFS (%)
 
 Page 8 of 52
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -519,7 +519,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 9 of 52
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -638,7 +638,7 @@ Amount
 
 Page 10 of 52
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -855,7 +855,7 @@ Amount
 
 Page 11 of 52
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1060,7 +1060,7 @@ Amount
 
 Page 12 of 52
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1095,7 +1095,7 @@ Application event totals 0.00 0.00 0.00 10.51
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 13 of 52
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1284,7 +1284,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 14 of 52
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1323,7 +1323,7 @@ Application event totals 0.00 0.00 0.00 9.88
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 15 of 52
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1358,7 +1358,7 @@ Application event totals 0.00 0.00 0.00 13.08
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 16 of 52
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1574,7 +1574,7 @@ Amount
 
 Page 17 of 52
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1674,7 +1674,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 18 of 52
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1709,7 +1709,7 @@ Application event totals 0.00 0.00 0.00 12.82
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 19 of 52
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1925,7 +1925,7 @@ Amount
 
 Page 20 of 52
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2097,7 +2097,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 21 of 52
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2136,7 +2136,7 @@ Application event totals 0.00 0.00 0.00 10.21
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 22 of 52
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2350,7 +2350,7 @@ Amount
 
 Page 23 of 52
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-8 - 06/01/2023: Corn, silage
@@ -2441,7 +2441,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 24 of 52
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2476,7 +2476,7 @@ Application event totals 0.00 0.00 0.00 11.02
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 25 of 52
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2595,7 +2595,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 26 of 52
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2678,7 +2678,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 27 of 52
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2793,7 +2793,7 @@ Plant date: 11/01/2022
 
 Page 28 of 52
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2925,7 +2925,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 29 of 52
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2981,7 +2981,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 30 of 52
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3017,7 +3017,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 31 of 52
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3173,7 +3173,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 32 of 52
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3234,7 +3234,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 33 of 52
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3387,7 +3387,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 34 of 52
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3423,7 +3423,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 35 of 52
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3517,7 +3517,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 36 of 52
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3634,7 +3634,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 37 of 52
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3785,7 +3785,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 38 of 52
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3821,7 +3821,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 39 of 52
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -3858,7 +3858,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 40 of 52
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3891,7 +3891,7 @@ Canal
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 41 of 52
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Canal
@@ -3934,7 +3934,7 @@ War-7 Dom
 Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 06/28/2024 07:26:10 Page 42 of 52
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 War-7 Dom
@@ -3979,7 +3979,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 43 of 52
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-2 - 06/01/2023: Corn, silage
@@ -4031,7 +4031,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 44 of 52
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-6 - 11/01/2022: Wheat, silage, boot stage
@@ -4083,7 +4083,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 45 of 52
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-7 - 06/01/2023: Corn, silage
@@ -4135,7 +4135,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 46 of 52
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AR-9 - 11/01/2022: Wheat, silage, boot stage
@@ -4177,7 +4177,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 47 of 52
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -4216,7 +4216,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 48 of 52
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4293,7 +4293,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 49 of 52
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -4339,7 +4339,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 50 of 52
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -4354,7 +4354,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 51 of 52
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4380,7 +4380,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 Page 52 of 52
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -4415,7 +4415,7 @@ Sunshine Dairy (Anthony & Robert Brazil Dairy) | 13113 7th AVE | Hanford, CA 932
 
 06/28/2024 07:26:10 Page 1 of 1
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4485,7 +4485,7 @@ party interpretation.
 
 Page 1 of 11
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4515,7 +4515,7 @@ party interpretation.
 
 Page 2 of 11
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4546,7 +4546,7 @@ party interpretation.
 
 Page 3 of 11
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4578,7 +4578,7 @@ party interpretation.
 
 Page 4 of 11
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4609,7 +4609,7 @@ party interpretation.
 
 Page 5 of 11
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4689,7 +4689,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 11
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4747,7 +4747,7 @@ party interpretation.
 
 Page 7 of 11
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4832,7 +4832,7 @@ Page 8 of 11
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -4869,7 +4869,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 9 of 11
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 ———
 
 bil
@@ -4940,7 +4940,7 @@ Amt Paid Check No. { 1¥es [ 1 No cftcupdate 2020
 
 Page 10 of 11
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 SU a
 
 12/13/23 07:00
@@ -5040,7 +5040,7 @@ oO
 =
 
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5095,7 +5095,7 @@ party interpretation.
 
 Page 1 of 6
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5121,7 +5121,7 @@ Page 2 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -5210,7 +5210,7 @@ Page 3 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 SELLAVALLE™
 
 LABORATORY
@@ -5280,7 +5280,7 @@ party interpretation.
 
 Page 4 of 6
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 AUIOOIVUIN
 
 08/17/23 08:41 23H1582 Q
@@ -5350,7 +5350,7 @@ Location: Laboratory
 Page 5 of 6
 
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 MUO
 
 08/17/23 08:44 23H1582

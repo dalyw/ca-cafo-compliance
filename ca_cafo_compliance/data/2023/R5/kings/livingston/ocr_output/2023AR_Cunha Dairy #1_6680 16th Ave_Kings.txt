@@ -16,7 +16,7 @@ L Nie CCA Nitrogen Retrofit Report
 GEO Tracker Confirmation Date
 eee eat
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -40,7 +40,7 @@ Home Phone Number.
 CeIl Phone Number.
           Jeneck any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 ____ ee
@@ -61,7 +61,7 @@ Bey nt nagetn SSO
 eee ee Cer ae ae
 Total saIt (TDS) generated SAV ean eee eS Gee NeNRT lbs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 . . .
 List of Land AppIication Areas
@@ -73,7 +73,7 @@ Vaz x04 x090 022 rox, xO04 x090 023 100 B Sa ae P.W. & D.M.
 Sarypeyy
 RRRICRE SPS aOR Sig Ue AS RCS i LUE Soca can TT PORE
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
 
@@ -111,7 +111,7 @@ a (a
 a Qe
 Po Canat TC((CCSCNCOCSC(((NSNCNCSCUNCNCNNYNCCUCCNCOCWCSC((COYYNNNNSN SY
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
  ses a a er ROT
 se detaIetit 205 Chop 1 Sil eMMGIetCS RENISE g eae ae ie Lene Cot ee epee
@@ -137,7 +137,7 @@ DetectabIe Limits
 VaIley Tech 0.10 0.05 0.014 0.01 0.054
 DeIlavaIle 0.001 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 __ dura com, siIage 6698 oss 013 oss - - 7.70 2311089 09/25/23 DeIlavaIle
  ver Gorn, SiIage ezaafoa7f ose oes- _8.t0 2311089 09/25/23 _DeIlavaIle
@@ -160,7 +160,7 @@ VaIley Tech 0.104 0.05 0.014 0.014 0.05
 
 DeIlavaIle 0.001 0.019 0.01 0,0034 0.001
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 oePIeldtt 42-2 Crops..3/ PIank pata ene Loeb be ieee Apeeti mgt NG ed ee ee
@@ -183,7 +183,7 @@ SS CO RS NS GS CO
 DetectabIe L VaIley Tech 0.104 0.05 0.01 0.014 0.05
 DeIlavatte 0.001 0.014 0.01 0.0034 0.0019
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 paIa er ite eta e eee pgs A way, es Fra vigghanea 4 i ee Piet ie ne
 __outre _ corn, sitage syzayza ovszvas zaisoag ssoa o.saot3oss - 7.70 Dry Weight
@@ -205,7 +205,7 @@ DetectabIe L VaIley Tech 0.104 0.054 0.01 0.01 0.05
 
 DeIlavatte 0.001 0.01 0.01 0.003 0.001
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs.
@@ -245,7 +245,7 @@ DeIlavaIle 6.01 i 10 O2 NR 01 Ot 0.15 3 039 0.03 9.03 -
 FGL Enviromental Oo e 6 o 0 o o Q 0 o o o
 VaIley Tech 0.2 1 NR NR NR WR NR NR NR NR NR NR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 SSS Ta A A SS OS OY
@@ -257,7 +257,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.1
 DeIlaVaIle 0.1 0.1 41.1 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 eee Bees SRE tee Seat ear Ly oa a ee tees ae ee PO DAE OST Made
@@ -277,7 +277,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.1
 DeIlaVaIle 0.1 0.1 11 0.2 0.0015 0.0001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient Import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -291,7 +291,7 @@ So pIate Nama gs ony Rese Manare x, Geert jal PAL ca pe pened
 _ stNGne TRE Sabine eck Raat Ge Nene Eee
 ee
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -318,7 +318,7 @@ VaIley Tech 0.01 0.02 0.024
 
 DeiIavatie 0.01 0.01 0.003 0.001 0.001 0.001. 0,001 0.000 0.001 0.001
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 zz gIeleIy/sIelaIe gisIeleIsleIe fas
 fe al IIIA ebb eel1 lead Be
@@ -343,7 +343,7 @@ EEE E EGA ETC EE ET ETT gta
 A
 eM TRELL A LETEET EEL TEEEETE TTT
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 2
 a
@@ -390,7 +390,7 @@ Ea
 -
 E
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 ALTUIL TT ateeeee 111 Teese ee
 SEOs EW
@@ -417,7 +417,7 @@ EL AE a
 
 be EAEELTEL EU BE 1
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 7
 4
@@ -460,7 +460,7 @@ wis
 .
 &
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 ALLL UTTER eee TA es
 3 ad Paveie--3) &
@@ -480,7 +480,7 @@ eT AERA ELEC CECT TT Bee
 TTT TTT TTT gi
 SLE ELELLEELREED FLEET ECE TT
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Fa
 J
@@ -527,7 +527,7 @@ bl las
 im
 R
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Notes
 
@@ -541,7 +541,7 @@ The signature(s) affixed to this report does not affirmativeIy refer to those re
 
 a ( - (initial)
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Exception Reporting
 Manure , Process Water and Other Dairy Waste Discharges
@@ -565,7 +565,7 @@ Written Agreements
 Are there any written agreements with third parties to receive manure or process water that are
 new or were revised within the repoting period No
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Owner and/or Operator Certification
 t certify under penaIty of lew that aIl information submitted as part of this document is accurate and true. Certification signatures by a CaIifornia Registered Professional have been
@@ -579,11 +579,11 @@ a
 Print Name Print Name
 Date Date ,
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
               a
 l DD -
@@ -592,11 +592,11 @@ l DD -
 iB al 4 os
 2 or a a a
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 T
 ww
@@ -638,7 +638,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 19
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Tm
 OELLAVALLE
@@ -672,7 +672,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation,
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 m
 
@@ -710,7 +710,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlaveIlleIab.com
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 m
 OELLAVALLE
@@ -745,7 +745,7 @@ Ail resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93726 559-233-6129 www.deIlavaIletab.com
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 7
 
@@ -783,7 +783,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suits 110 Fresno, CA 93728 559-233.6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 T
 OELLAVALLE
@@ -818,7 +818,7 @@ AIl resuIts listed in this repart are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 &
 Cunha Dairy 41 Account 00-0015898 Received 09/01/2023 700
@@ -853,7 +853,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA.93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 19
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 T
 OELLAVALLE
@@ -888,7 +888,7 @@ AIl resutts listed in this report are for the excIusive use of the submitting pa
 party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 IELLAVALLE
 &
@@ -928,7 +928,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 Party interpretation. .
 1910 W. McKinIey Ave Suite 110 Fresno, CA93728 559-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 m
 OELLAVALLE
@@ -963,7 +963,7 @@ AIl resuIts listed In this report are for the excIusive use of the submitting pa
 Party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 569-233-6129 www.deIlavaIleIab.com
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 UL Lt
 a 7 He
@@ -1019,7 +1019,7 @@ _ _ ___ Ferg CaIibration Duer 9/26/2073 _
 Ast Paid Ree By Check Ne Dats 1 py Loeation Laboratory we
 Page 18 of 19
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 HAUNT
 

@@ -27,7 +27,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -83,7 +83,7 @@ Yes. Number of discharges occurred (see Attachment H).
 INNOVATIVE
 
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Fontes Dairy Farms - Dairy 1 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -143,7 +143,7 @@ INNOVATIVE a
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Fontes Dairy Farms - Dairy 1 2023
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
 CENTRAL VALLEY REGION
@@ -192,7 +192,7 @@ INNOVATIVE
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: FEACD141-2BE2-4ED0-A476-C21CE5079EFF
 
 Fontes Dairy Farms - Dairy 1 2023
@@ -216,7 +216,7 @@ INNOVATIVE as sé
 
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Fontes Dairy Farms - Dairy 1 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -260,7 +260,7 @@ ZA NNOVATIVE «:
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -295,7 +295,7 @@ INNOVATIVE «
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -332,7 +332,7 @@ ZANNNOVATIVE:
 
 Page 7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -373,7 +373,7 @@ INNOVATIVE s
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -410,7 +410,7 @@ INNOVATIVE Ac services
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -444,7 +444,7 @@ ZANNOVATIVE«
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -485,7 +485,7 @@ INNOVATIVE a
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -513,7 +513,7 @@ INNOVATIVE
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -549,7 +549,7 @@ RVICES
 
 Page 13
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -580,7 +580,7 @@ INNOVATIVE
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -610,7 +610,7 @@ INNOVATIVE a
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -638,7 +638,7 @@ ZANNOVATIVEs
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -664,7 +664,7 @@ INNOVATIVE 4G Services
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -754,7 +754,7 @@ Extracted
 20,880
 
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -791,7 +791,7 @@ INNOVATIVE AG SERVICES
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Fontes Dairy Farms - Dairy 1 2023
 Nutrient Applications (Attachment B)
 
@@ -827,7 +827,7 @@ INNOVATIVE
 
 Page 20
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Fontes Dairy Farms - Dairy 1 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -858,7 +858,7 @@ INNOVATIVE Ac services
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Field Name
 Burrel
 Chester1
@@ -927,7 +927,7 @@ Manure
 None
 
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Fontes Dairy Farms - Dairy 1 2023
 Lab Results Summary (Attachment E)
 
@@ -967,7 +967,7 @@ INNOVATIVE;
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Fontes Dairy Farms - Dairy 1 2023
 Lab Results Summary (Attachment E)
 
@@ -998,7 +998,7 @@ INNOVATIVE
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Fontes Dairy Farms - Dairy 1 2023
 Lab Results Summary (Attachment E)
 
@@ -1021,7 +1021,7 @@ ZA\NNOVATIVE AGS
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Fontes Dairy Farms - Dairy 1 2023
 Lab Results Summary (Attachment E)
 
@@ -1051,7 +1051,7 @@ l|NNOVATIVE AG SERVICES
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Fontes Dairy Farms - Dairy 1 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1098,7 +1098,7 @@ ZA'NNOVATIVE AG SERVICES
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Day January
 1 None
 2 Light
@@ -1502,7 +1502,7 @@ Light
 SWP
 None
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 ATTACHMENT D
 
 Manure/Process Wastewater Tracking Manifest
@@ -1568,7 +1568,7 @@ Manure Solids Content (if amount reported in tons): 60.8% Corral Solids
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 DocuSign Envelope ID: FEACD141-2BE2-4ED0-A476-C21CE5079EFF
 
 Attachment D D-2
@@ -1613,7 +1613,7 @@ Operator’s Signature: Dan hAs— Date:
 Hauler’s Signature: Date:
 
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 ENVIRONMENTAL AGRICULTURAL
 
 November 28, 2023
@@ -1685,7 +1685,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 ENVIRONMENT,
 
 November 28, 2023
@@ -1726,7 +1726,7 @@ Env FAX; (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 November 28, 2023
 Innovative Ag Services, LLC
 
@@ -1824,7 +1824,7 @@ Visalia, CA 93291
 TEL: (559)734-9473
 FAX: (559)734-8435,
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Laboratory Analysis Work Order
 
 N° 42067
@@ -1926,7 +1926,7 @@ Po Rg ss __
 
 THE PRIUTER INC, - §$9-992-5127
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 ENVIRONM AGRICULTU
 
 Analytical Chemists
@@ -2003,7 +2003,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 ENVIRONMENTA AGRICULT
 
 naly
@@ -2041,7 +2041,7 @@ CA ELAP Certification No, 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Analytical Chemists
 
 December 21, 2023
@@ -2074,7 +2074,7 @@ Env FAX; (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 December 21, 2023
 
 Lab No. : VI 2348354-003
@@ -2107,7 +2107,7 @@ CA ELAP Certification No. 1573
 
 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ENVIRONMENTAL AGRICULTURAL
 
 ical Chemists
@@ -2149,7 +2149,7 @@ Env FAX: (805)525-4172 / Ag FAX; (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No, 2670 CAELAP Certification No, 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ENVIRONMEN
 
 December 21, 2023
@@ -2208,7 +2208,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX; (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 GA Laboratory Analysis Work Order
 ID ooge een
 

@@ -1,61 +1,88 @@
 template,ocr_format,parameter_key,section_start,section_end,row_search_text,search_direction,item_order,ignore_before,ignore_after,notes
-manifest_r5,fitz,origin_dairy_name,Name of Dairy Facility,OPERATOR INFORMATION,Name of Dairy Facility,below,NA,Name of Dairy Facility:,Facility Address,Last line before OPERATOR INFORMATION section
+manifest_r5,fitz,origin_dairy_name,Name of Dairy Facility,OPERATOR INFORMATION,Name of Dairy Facility,right,1,Name of Dairy Facility,Facility Address,Name on same line after label
+manifest_r5,fitz,origin_dairy_name,Name of Dairy Facility,OPERATOR INFORMATION,Name of Dairy Facility,below,-1,NA,NA,Use last non-label line in section when value is not inline
 manifest_r5,fitz,origin_dairy_address,Facility Address,Contact Person,Number and Street,below,NA,Number and Street,City,Street address between labels
 manifest_r5,fitz,hauler_name,HAULER INFORMATION,DESTINATION,Name of Hauling Company,below,NA,Name of Hauling Company,Address of,Hauler name between labels
 manifest_r5,fitz,hauler_address,HAULER INFORMATION,DESTINATION,Address of Hauling Company,below,NA,Address of Hauling Company,Contact Person,Hauler address between labels
-manifest_r5,fitz,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility / Broker / Farmer,below,NA,Farmer,Contact information,Type selection after labels
+manifest_r5,fitz,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility / Broker / Farmer,below,NA,NA,Contact information,Type selection after labels
 manifest_r5,fitz,destination_name,Contact information of Composting,Destination Address,Name,below,NA,Name,Number and Street,Destination name between labels
 manifest_r5,fitz,destination_address,Destination Address or Assessor,Last date hauled,Number and Street,below,NA,Number and Street,City,Destination address between labels
 manifest_r5,fitz,destination_parcel_number,Destination Address or Assessor,Last date hauled,Assessor's Parcel Number,below,NA,Assessor's Parcel Number,Last date hauled,APN between labels
-manifest_r5,fitz,haul_date,Last date hauled,AMOUNT HAULED,Last date hauled,right,NA,:,AMOUNT HAULED,Date after colon before next section
-manifest_r5,fitz,wastewater_amount_gallons,,,Process Wastewater:,below,NA,NA,gallons,Amount on next line after label
-manifest_r5,fitz,wastewater_method,,,Method used to determine volume of process wastewater:,below,NA,NA,NA,Method on line after label
-manifest_r5,fitz,wastewater_haul_type,Enter the amount of process wastewater,Written Agreement,Process Wastewater Haul Type:,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
-manifest_r5,fitz,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure:,below,NA,NA,tons,Amount on next line after label
-manifest_r5,fitz,manure_method,Method used to determine amount of manure,CERTIFICATION,Method used to determine amount of manure:,below,NA,NA,NA,Method on line after label
-manifest_r5,marker,origin_dairy_name,OPERATOR INFORMATION,HAULER,Name of Dairy Facility,right,NA,:,|,Same cell or next cell in table
-manifest_r5,marker,origin_dairy_address,Facility Address,Contact Person,Number and Street,right,NA,|,|,Table cell value
-manifest_r5,marker,hauler_name,HAULER INFORMATION,DESTINATION,Name of Hauling Company,right,NA,:,|,Table cell value
-manifest_r5,marker,hauler_address,Address of Hauling Company,Contact Person,Number and Street,right,NA,|,|,Table cell value
-manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility / Broker / Farmer,right,NA,|,|,Table cell value
-manifest_r5,marker,destination_name,Contact information of Composting,Address,NA,below,NA,|,|,Name in table row
-manifest_r5,marker,destination_address,Destination Address or Assessor,Last date hauled,Address,right,NA,|,|,Table cell value
-manifest_r5,marker,destination_parcel_number,Destination Address or Assessor,Last date hauled,Assessor's Parcel Number,right,NA,|,|,APN if present
-manifest_r5,marker,haul_date,Last date hauled,AMOUNT HAULED,Last date hauled,right,NA,|,|,Date in table cell
-manifest_r5,marker,wastewater_amount_gallons,,,Process Wastewater:,right,NA,:,gallons,Amount after colon before gallons on same line
-manifest_r5,marker,wastewater_method,,,Method used to determine volume of process wastewater:,right,NA,:,NA,Method text after colon
-manifest_r5,marker,wastewater_haul_type,Enter the amount of process wastewater,Written Agreement,Process Wastewater Haul Type:,right,NA,:,|,Haul type (Truck/Pipeline) in table cell
-manifest_r5,marker,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure:,right,NA,:,tons,Amount after colon before tons on same line
-manifest_r5,marker,manure_method,Manure:,CERTIFICATION,Method used to determine,right,NA,:,NA,Method text after colon
-manifest_attachment_d,fitz,origin_dairy_name,Operator Information,Hauler Information,Name of Dairy Facility,right,NA,:,Facility Address,Stop at next field label
-manifest_attachment_d,fitz,origin_dairy_address,Operator Information,Hauler Information,Facility Address,right,NA,:,Contact Person,Stop at next field label
-manifest_attachment_d,fitz,hauler_name,Hauler Information,Destination Information,Name of Hauling Company,right,NA,:,Address of,Stop at next field
-manifest_attachment_d,fitz,hauler_address,Hauler Information,Destination Information,Address of Hauling Company,right,NA,:,Contact Person,Stop at next field label
+manifest_r5,fitz,haul_date,Last date hauled,AMOUNT HAULED,Last date hauled,right,NA,,AMOUNT HAULED,Date after colon before next section
+manifest_r5,fitz,wastewater_amount_gallons,,,Process Wastewater,below,NA,NA,gallons,Amount on next line after label
+manifest_r5,fitz,wastewater_method,,,Method used to determine volume of process wastewater,below,NA,NA,NA,Method on line after label
+manifest_r5,fitz,wastewater_haul_type,Enter the amount of process wastewater,Written Agreement,Process Wastewater Haul Type,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
+manifest_r5,fitz,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure,below,NA,NA,tons,Amount on next line after label
+manifest_r5,fitz,manure_method,Method used to determine amount of manure,CERTIFICATION,Method used to determine amount of manure,below,NA,NA,NA,Method on line after label
+manifest_r5,marker,origin_dairy_name,OPERATOR INFORMATION,HAULER,Name of Dairy Facility,right,NA,,Facility Address,Same cell or next cell in table
+manifest_r5,marker,origin_dairy_address,Facility Address,Contact Person,Facility Address,right,NA,,Contact Person,Inline address after label
+manifest_r5,marker,hauler_name,HAULER INFORMATION,DESTINATION,Name of Hauling Company,right,NA,,Address of Hauling Company,Inline value before next field
+manifest_r5,marker,hauler_address,Address of Hauling Company,Contact Person,Address of Hauling Company,right,NA,,Contact Person,Inline address after label
+manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Broker,below,NA,NA,Contact information,Look for Broker keyword
+manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Farmer,below,NA,NA,Contact information,Look for Farmer keyword
+manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility,below,NA,NA,Contact information,Look for Composting Facility keyword
+manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility / Broker / Farmer,right,NA,,please circle one,Inline type after label
+manifest_r5,marker,destination_type,DESTINATION INFORMATION,Contact information,Composting Facility / Broker / Farmer,below,NA,NA,Contact information,Type on next line when inline is blank
+manifest_r5,marker,destination_name,Contact information of Composting,Destination Address,Contact information of Composting,below,NA,NA,NA,Name on next line when inline is blank
+manifest_r5,marker,destination_name,Contact information of Composting,Destination Address,Contact information of Composting,right,NA,,Address,Inline name after contact label
+manifest_r5,marker,destination_address,Destination Address or Assessor,Last date hauled,Destination Address or Assessor,right,NA,,Number and Street,Inline address trimmed before label text
+manifest_r5,marker,destination_address,Destination Address or Assessor,Last date hauled,Destination Address or Assessor,below,NA,NA,NA,Address on next line when inline is blank
+manifest_r5,marker,destination_address,Destination Address or Assessor,Last date hauled,Destination Address or Assessor,right,NA,,Last date hauled,Inline destination address
+manifest_r5,marker,destination_parcel_number,Destination Address or Assessor,Last date hauled,Assessor's Parcel Number,left,NA,NA,NA,APN before label
+manifest_r5,marker,destination_parcel_number,Destination Address or Assessor,Last date hauled,APN,right,NA,,Merced,APN line when provided
+manifest_r5,marker,destination_parcel_number,Destination Address or Assessor,Last date hauled,Assessor's Parcel Number,right,NA,,Last date hauled,APN if present
+manifest_r5,marker,haul_date,Destination Address or Assessor,AMOUNT HAULED,Dates Hauled,left,NA,Assessor's Parcel Number,NA,Date before label on same line
+manifest_r5,marker,haul_date,Last date hauled,AMOUNT HAULED,Last date hauled,right,NA,,AMOUNT HAULED,Date after label
+manifest_r5,marker,wastewater_amount_gallons,,,Process Wastewater,right,NA,,gallons,Amount after colon before gallons on same line
+manifest_r5,marker,wastewater_method,,,Method used to determine volume of process wastewater,right,NA,,NA,Method text after colon
+manifest_r5,marker,wastewater_haul_type,Enter the amount of process wastewater,Written Agreement,Process Wastewater Haul Type,right,NA,,|,Haul type (Truck/Pipeline) in table cell
+manifest_r5,marker,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure,right,NA,,tons,Amount after colon before tons on same line
+manifest_r5,marker,manure_method,Manure,CERTIFICATION,Method used to determine,right,NA,,NA,Method text after colon
+manifest_attachment_d,fitz,origin_dairy_name,Operator Information,Hauler Information,Name of Dairy Facility,right,1,,Facility Address,Stop at next field label
+manifest_attachment_d,fitz,origin_dairy_name,INSTRUCTIONS,OPERATOR INFORMATION,Name of Dairy Facility,below,-1,NA,NA,Use last non-label line in section when value is not inline
+manifest_attachment_d,fitz,origin_dairy_name,Operator Information,Hauler Information,Name of Dairy Facility,above,NA,NA,NA,Use line above label when OCR places name before label
+manifest_attachment_d,fitz,origin_dairy_address,Operator Information,Hauler Information,Facility Address,right,NA,,Contact Person,Stop at next field label
+manifest_attachment_d,fitz,origin_dairy_address,Operator Information,Hauler Information,Facility Address,below,NA,NA,NA,Address on next line when inline is blank
+manifest_attachment_d,fitz,hauler_name,Hauler Information,Destination Information,Name of Hauling Company,right,NA,,Address of,Stop at next field
+manifest_attachment_d,fitz,hauler_name,Hauler Information,Destination Information,Name of Hauling Company,below,NA,NA,NA,Name on next line when inline is blank
+manifest_attachment_d,fitz,hauler_address,Hauler Information,Destination Information,Address of Hauling Company,right,NA,,Contact Person,Stop at next field label
+manifest_attachment_d,fitz,hauler_address,Hauler Information,Destination Information,Address of Hauling Company,below,NA,NA,NA,Address on next line when inline is blank
 manifest_attachment_d,fitz,destination_type,Destination Information,Contact information,Composting Facility,right,NA,(please circle one),Contact information,Stop before contact info
+manifest_attachment_d,fitz,destination_type,Destination Information,Contact information,Composting Facility,below,NA,NA,Contact information,Type on next line when inline is blank
 manifest_attachment_d,fitz,destination_name,Contact information of Composting,Destination Address,Name,right,NA,Name,Number and Street,Extract between Name and next label
+manifest_attachment_d,fitz,destination_name,Contact information of Composting,Destination Address,Name,below,NA,NA,NA,Name on next line when inline is blank
 manifest_attachment_d,fitz,destination_address,Destination Address or Assessor,Dates Hauled,Number and Street,right,NA,Number and Street,City,Extract between labels
+manifest_attachment_d,fitz,destination_address,Destination Address or Assessor,Dates Hauled,Number and Street,below,NA,NA,NA,Address on next line when inline is blank
 manifest_attachment_d,fitz,destination_parcel_number,Destination Address or Assessor,Dates Hauled,Assessor's Parcel Number,right,NA,Assessor's Parcel Number,Dates Hauled,Extract between labels
-manifest_attachment_d,fitz,haul_date,Dates Hauled,Amount Hauled,Dates Hauled,right,NA,:,Amount Hauled,Date between markers
-manifest_attachment_d,fitz,wastewater_amount_gallons,,,Process Wastewater:,below,NA,NA,gallons,Amount on next line after label
-manifest_attachment_d,fitz,wastewater_method,,,Method used to determine volume of process wastewater:,below,NA,NA,NA,Method on line after label
-manifest_attachment_d,fitz,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure:,below,NA,NA,tons,Amount on next line after label
-manifest_attachment_d,fitz,manure_method,method used to calculate,CERTIFICATION,method used,right,NA,:,NA,Method description
-manifest_attachment_d,fitz,wastewater_haul_type,,,Process Wastewater Haul Type:,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
-manifest_attachment_d,marker,origin_dairy_name,Operator Information,Hauler Information,Name of Dairy Facility,right,NA,:,|,Same cell or next cell
-manifest_attachment_d,marker,origin_dairy_address,Operator Information,Hauler Information,Facility Address,right,NA,:,|,Same line after label
-manifest_attachment_d,marker,hauler_name,Hauler Information,Destination Information,Name of Hauling Company,right,NA,:,|,Same line after label
-manifest_attachment_d,marker,hauler_address,Hauler Information,Destination Information,Address of Hauling Company,right,NA,:,|,Same line after label
-manifest_attachment_d,marker,destination_type,Destination Information,Contact information,Composting Facility,right,NA,(please circle one),|,Circled value
-manifest_attachment_d,marker,destination_name,Contact information of Composting,Destination Address,Name,right,NA,:,|,After Name label
-manifest_attachment_d,marker,destination_address,Destination Address or Assessor,Dates Hauled,Number and Street,right,NA,:,|,Street address
-manifest_attachment_d,marker,destination_parcel_number,Destination Address or Assessor,Dates Hauled,Assessor's Parcel Number,right,NA,:,|,APN value
-manifest_attachment_d,marker,haul_date,Dates Hauled,Amount Hauled,Dates Hauled,right,NA,:,|,Date range
-manifest_attachment_d,marker,wastewater_amount_gallons,,,Process Wastewater:,right,NA,:,gallons,Amount after colon before gallons
-manifest_attachment_d,marker,wastewater_method,,,Method used to determine volume of process wastewater:,right,NA,:,NA,Method text after colon
-manifest_attachment_d,marker,wastewater_haul_type,,,Process Wastewater Haul Type:,right,NA,:,|,Haul type (Truck/Pipeline) in table cell
-manifest_attachment_d,marker,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure:,right,NA,:,tons,Amount after colon before tons
-manifest_attachment_d,marker,manure_method,method used to calculate,CERTIFICATION,method used,right,NA,:,|,Method description
-manifest_r5,fitz,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type:,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
-manifest_r5,marker,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type:,right,NA,:,|,Haul type (Truck/Pipeline) in table cell
-manifest_attachment_d,fitz,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type:,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
-manifest_attachment_d,marker,manure_haul_type,Enter the amount of process wastewater,Written Agreement,Manure Haul Type:,right,NA,:,|,Haul type (Truck/Pipeline) in table cell
+manifest_attachment_d,fitz,destination_parcel_number,Destination Address or Assessor,Dates Hauled,Assessor's Parcel Number,below,NA,NA,NA,APN on next line when inline is blank
+manifest_attachment_d,fitz,haul_date,Dates Hauled,Amount Hauled,Dates Hauled,right,NA,,Amount Hauled,Date between markers
+manifest_attachment_d,fitz,wastewater_amount_gallons,,,Process Wastewater,below,NA,NA,gallons,Amount on next line after label
+manifest_attachment_d,fitz,wastewater_method,,,Method used to determine volume of process wastewater,below,NA,NA,NA,Method on line after label
+manifest_attachment_d,fitz,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure,below,NA,NA,tons,Amount on next line after label
+manifest_attachment_d,fitz,manure_method,method used to calculate,CERTIFICATION,method used,right,NA,,NA,Method description
+manifest_attachment_d,fitz,wastewater_haul_type,,,Process Wastewater Haul Type,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
+manifest_attachment_d,marker,origin_dairy_name,Operator Information,Hauler Information,Name of Dairy Facility,right,NA,,Facility Address,Same cell or next cell
+manifest_attachment_d,marker,origin_dairy_address,Operator Information,Hauler Information,Facility Address,right,NA,,Contact Person,Same line after label
+manifest_attachment_d,marker,hauler_name,Hauler Information,Destination Information,Name of Hauling Company,right,NA,,Address of Hauling Company,Same line after label
+manifest_attachment_d,marker,hauler_address,Hauler Information,Destination Information,Address of Hauling Company,right,NA,,Contact Person,Same line after label
+manifest_attachment_d,marker,destination_type,Destination Information,Contact information,Composting Facility,right,NA,,please circle one,Circled value
+manifest_attachment_d,marker,destination_type,Destination Information,Contact information,Composting Facility,below,NA,NA,Contact information,Circled value on next line
+manifest_attachment_d,marker,destination_name,Contact information of Composting,Destination Address,Contact information of Composting,below,NA,NA,NA,Name on next line when inline is blank
+manifest_attachment_d,marker,destination_name,Contact information of Composting,Destination Address,Contact information of Composting,right,NA,,Address,After contact label
+manifest_attachment_d,marker,destination_address,Destination Address or Assessor,Dates Hauled,Destination Address or Assessor,right,NA,,Number and Street,Inline address trimmed before label text
+manifest_attachment_d,marker,destination_address,Destination Address or Assessor,Dates Hauled,Destination Address or Assessor,below,NA,NA,NA,Street address on next line
+manifest_attachment_d,marker,destination_address,Destination Address or Assessor,Dates Hauled,Destination Address or Assessor,right,NA,,Dates Hauled,Street address
+manifest_attachment_d,marker,destination_parcel_number,Destination Address or Assessor,Dates Hauled,Assessor's Parcel Number,left,NA,NA,NA,APN before label
+manifest_attachment_d,marker,destination_parcel_number,Destination Address or Assessor,Dates Hauled,APN,right,NA,,Merced,APN line when provided
+manifest_attachment_d,marker,destination_parcel_number,Destination Address or Assessor,Dates Hauled,Assessor's Parcel Number,right,NA,,Dates Hauled,APN value
+manifest_attachment_d,marker,haul_date,Destination Address or Assessor,Amount Hauled,Dates Hauled,left,NA,Assessor's Parcel Number,NA,Date before label on same line
+manifest_attachment_d,marker,haul_date,Dates Hauled,Amount Hauled,Dates Hauled,right,NA,,Amount Hauled,Date range
+manifest_attachment_d,marker,wastewater_amount_gallons,,,Process Wastewater,right,NA,,gallons,Amount after colon before gallons
+manifest_attachment_d,marker,wastewater_method,,,Method used to determine volume of process wastewater,right,NA,,NA,Method text after colon
+manifest_attachment_d,marker,wastewater_haul_type,,,Process Wastewater Haul Type,right,NA,,|,Haul type (Truck/Pipeline) in table cell
+manifest_attachment_d,marker,manure_amount_tons,Enter the amount of manure,CERTIFICATION,Manure,right,NA,,tons,Amount after colon before tons
+manifest_attachment_d,marker,manure_method,method used to calculate,CERTIFICATION,method used,right,NA,,|,Method description
+manifest_r5,fitz,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
+manifest_r5,marker,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type,right,NA,,|,Haul type (Truck/Pipeline) in table cell
+manifest_attachment_d,fitz,manure_haul_type,Enter the amount of manure,CERTIFICATION,Manure Haul Type,below,NA,NA,NA,Haul type (Truck/Pipeline) on next line after label
+manifest_attachment_d,marker,manure_haul_type,Enter the amount of process wastewater,Written Agreement,Manure Haul Type,right,NA,,|,Haul type (Truck/Pipeline) in table cell

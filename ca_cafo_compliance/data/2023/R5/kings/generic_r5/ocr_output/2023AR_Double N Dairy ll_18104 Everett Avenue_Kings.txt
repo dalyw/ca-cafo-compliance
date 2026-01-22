@@ -31,7 +31,7 @@ MaiIing Address Number and Street City State Zip Code
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 1 of 36
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -54,7 +54,7 @@ This owner is responsibIe for paying permit fees.
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 2 of 36
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -88,7 +88,7 @@ Canal Surface water
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 3 of 36
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -109,7 +109,7 @@ Total exports for aIl materiaIs 36,442.00 20,276.00 70,144.00 1,694,820.15
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 4 of 36
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -143,7 +143,7 @@ Total actual harvest content 28.86 287.54 49.92 327.47 1,082.26
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 5 of 36
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -175,7 +175,7 @@ Total actual harvest content 22.40 257.71 60.01 416.57 1,632.74
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 6 of 36
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -206,7 +206,7 @@ Total actual harvest content 24.06 277.03 34.99 328.07 1,007.53
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 7 of 36
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -237,7 +237,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 8 of 36
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -268,7 +268,7 @@ AppIication event totaIs 0.00 0.00 0.00 16.98
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 9 of 36
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -302,7 +302,7 @@ AppIication event totaIs 96.79 11.82 87.11 588.92
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 10 of 36
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -334,7 +334,7 @@ AppIication event totaIs 77A1 14.66 75.13 561.44
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 11 of 36
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -369,7 +369,7 @@ Crop Wheat, siIage, boot stage PIant date 11/01/2022
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 12 of 36
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -400,7 +400,7 @@ AppIication event totaIs 0.00 0.00 0.00 13.46
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 13 of 36
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -434,7 +434,7 @@ AppIication event totaIs 147.46 19.28 183.45 1,065.28
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 14 of 36
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -464,7 +464,7 @@ AppIication event totaIs 97.92 11.96 88.12 604.86
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 15 of 36
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -496,7 +496,7 @@ AppIication event totaIs 83.37 15.79 80.90 603.67
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 16 of 36
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -523,7 +523,7 @@ AppIication event totaIs 0.00 0.00 0.00 18.18
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 17 of 36
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -560,7 +560,7 @@ AppIied to removed ratio 1.21 1.10 1.38 2.30
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 18 of 36
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -593,7 +593,7 @@ AppIied to removed ratio 1.33 1.24 1.24 2.56
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 19 of 36
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -628,7 +628,7 @@ AppIied to removed ratio 1.34 1.22 1.16 2.42
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 20 of 36
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -661,7 +661,7 @@ AppIied to removed ratio 1.29 1.07 1.27 2.30
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 21 of 36
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -696,7 +696,7 @@ AppIied to removed ratio 1.38 0.71 0.75 1.31
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 22 of 36
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -730,7 +730,7 @@ AppIied to removed ratio 1.32 1.82 1.37 2.72
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 23 of 36
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -764,7 +764,7 @@ AppIied to removed ratio 1.23 1.09 1.03 2.11
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 24 of 36
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -799,7 +799,7 @@ AppIied to removed ratio 1.36 1.80 1.20 2.72
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 25 of 36
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -832,7 +832,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 26 of 36
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -862,7 +862,7 @@ Barn
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 27 of 36
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -889,7 +889,7 @@ FieId 1 - 11/01/2022 Wheat, siIage, boot stage
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 28 of 36
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -920,7 +920,7 @@ DL 100.00 100.00 100.00 1.00
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 29 of 36
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -951,7 +951,7 @@ DL 100.00 100.00 100.00 1.00
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 30 of 36
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -976,7 +976,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 31 of 36
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1009,7 +1009,7 @@ N P K saIt
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 32 of 36
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1041,7 +1041,7 @@ lbs lbs
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 33 of 36
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1071,7 +1071,7 @@ wastewater that are new or were revised within the reporting period
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 34 of 36
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1087,7 +1087,7 @@ DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 
 06/30/2024 085143 Page 35 of 36
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1116,7 +1116,7 @@ Doubie N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 
 06/17/2024 08-08-45 Page 36 of 36
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1140,7 +1140,7 @@ Storm Water Reporting Section on page MRP-14.
 DoubIe N Dairy II 18104 Everett AVE Laton, CA 93242 Kings County TuIare Basin
 06/30/2024 085143 Page 1 of 1
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -1187,7 +1187,7 @@ Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessors Parcel Number County
 Last date hauIed 04/15/2023
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Manure / Process Wastewater Tracking Manifest
 For
@@ -1221,7 +1221,7 @@ le) r Signal ate
 
 . HauIer Signature Date
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 SELLAVALLE Report of Water AnaIysis
 LABORATORY INC Lab No. 23H1602
@@ -1245,7 +1245,7 @@ ELAP Certification 41595
 A2LA Certification 46440.02
 DeIlavaIle Laboratory, Inc - 1910 W McKinIey 4110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.deIlavaIleIab.com See Attached for AnaIysis Documentation Page 1 of 1
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 DoubIe N Dairy II Account 00-0025804 Received 12/13/2023 700
 1004 FIint Ave Account Manager Ben Nydam Reported 12/20/2023 1338
@@ -1286,7 +1286,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 10
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 DoubIe N Dairy II Account 00-0025804 Received 12/13/2023 700
 1004 FIint Ave Account Manager Ben Nydam Reported 12/20/2023 1338
@@ -1308,7 +1308,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 10
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 T
 a
@@ -1355,7 +1355,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 10
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 DoubIe N Dairy II Account 00-0025804 Received 12/13/2023 700
 1004 FIint Ave Account Manager Ben Nydam Reported 12/20/2023 1338
@@ -1375,7 +1375,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 10
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 T
 a
@@ -1428,7 +1428,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 10
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 DoubIe N Dairy II Account 00-0025804 Received 12/13/2023 700
 1004 FIint Ave Account Manager Ben Nydam Reported 12/20/2023 1338
@@ -1452,7 +1452,7 @@ party interpretation.
 1910 W. MckinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 10
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 12/13/23 07-00 23L0732 x4
 DELLAVALLE LABORATORY, INC.
@@ -1499,7 +1499,7 @@ SampIe received in cooIer with ice
 Amt Paid RecB Check No. Date C )Ye L Ne etcupdate 2020
 Page 7 of 10
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 ART ,
 12/13/23 0700 2310732
@@ -1526,7 +1526,7 @@ Asbestos. 1L P wrapped infoi Setota) gf
 cS ST ST I SS
 other, age 010
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 12/13/23 07-00 23L0732 x4
 DELLAVALLE LABORATORY, INC.
@@ -1573,7 +1573,7 @@ SampIe received in cooIer with ice
 Amt Paid RecB Check No. Date C )Ye L Ne etcupdate 2020
 Page 9 of 10
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 SUL ,
 12/13/23 0700 2310732

@@ -19,7 +19,7 @@ _
 S
 Josh Trimm
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 CaIifornia Regional Water QuaIity Control Board
 CoIorado River Basin Region (R-7)
@@ -49,7 +49,7 @@ fer OP
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 lIl. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -100,7 +100,7 @@ to continue.
 O Description of the steps taken or pIanned to reduce, eIiminate, and prevent reoccurrence of the noncompIiance.
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 VIL. Certification of Preparation of Inspection Logs And Manifests
 2 I certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -110,7 +110,7 @@ I certify that a Water Line Inspections Log has been prepared for and is maintai
 have occurred at this faciIity (Large CAFOs onIy).
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 PART B - COMPOSTING INVENTORY
 O1_steertify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -145,7 +145,7 @@ o Check if anaIysis resuIts are attached.
 If any storm water discharges from the composting operations were not anaIyzed I for the required parameters, expIain beIow
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 WV. Operation and Maintenance
 
@@ -190,7 +190,7 @@ b. Indicate the date of the sampIe resuIts reported.
 c. Indicate the reporting units (i.e., mg/L, mg/kg, Ib/ton, or lb/1,000 gaIlons).
 Attachment G - Annual Report G5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Report the resuIts of the most recent soil nutrient anaIyses used in caIcuIating nutrient appIication rates for the
 
@@ -220,7 +220,7 @@ caIcuIating nutrient appIication rates.
 
 Attachment G - Annual Report G6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops grown in each fieId, the actual yieId achieved, the amount of
@@ -231,7 +231,7 @@ FieId ID Crop(s)Grown YieId e . .
 P Units Compost Liquid ther Compost Liquid ther
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 YieId PIanned Manure to be Apptied Actual Manure AppIied .
                 el
@@ -248,7 +248,7 @@ f. Report the actual amount of manure, litter, or wastewater appIied.
 g. IfOther is seIected, write in the type of manure, litter, or wastewater to be appIied.
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total nitrogen and phosphorus appIied per .
 acre from commercial fertiIizer during the 12-month reporting period. Attach additional sheets if needed.
@@ -267,7 +267,7 @@ urine ees
 approved NMP.
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the resuIts of quarterIy groundwater monitoring conducted in accordance with the CAFOs
@@ -294,14 +294,14 @@ CoIorado River Basin Region
 PaIm Desert, CA. 92260
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 2024 DaiIy Inspection Reports
 RECEIVED
 FEB 122025
 REGION 7
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 rIl .
 ._ Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
@@ -312,7 +312,7 @@ __ _ aaa . id Aor ae Lis a ee es aes reIa ae . 2 mote el aye A
 Brandt CattIe - R7-2021-0029, CAG117001 Page 1 of 19
 27/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 mY .
 _ Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
@@ -325,7 +325,7 @@ _ ne . - _- eee hy
 Brandt CattIe - R7-2021-0029, CAG117001 Page 2 of 19
 27/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
      Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
 FO accep MEO se Ge J RAI 3 RAD, FS Oe Sah ie moment NR a
@@ -338,7 +338,7 @@ CC
 Brandt CattIe - R7-2021-0029 CAG117001 Page 3 of 19
 2/7/2025 CafoPro.com - GampIiance by DesignTM
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
       Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
 Bigs cong ves he ie eet aIe ee oe
@@ -356,7 +356,7 @@ NC
 Brandt CattIe - R7-2021-0029, CAG117001 Page 4 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 rIl .
 _- Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -371,7 +371,7 @@ _ . _ t fg te a - a _ a a iN we
 Brandt CattIe - R7-2021-0029, CAG117001 Page 5 of 19
 2/712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 LA .
 s Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
@@ -382,7 +382,7 @@ CA
 Brandt CattIe - R7-2021-0029 CAG117001 Page 6 of 19
 2/71/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Py .
 oS Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -396,7 +396,7 @@ _ nee eh Z a i eee - a
 Brandt CattIe - R7-2021-0029, CAG117001 Page 7 of 19
 21712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
      Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
 ig vot) eee oe he ee ee ae
@@ -413,7 +413,7 @@ CC
 Brandt CattIe - R7-2021-0029, CAG117001 Page 8 of 19
 21712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 rIy
      Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -431,7 +431,7 @@ nk UL Ee LOE oe a B
 Brandt CattIe - R7-2021-0029 CAG117001 Page 9 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 ea Brandt CattIe - R7-2021-0029 CAG117001 DaiIy
 cic gametes come 3 ae Ae ee cts ie ee
@@ -451,7 +451,7 @@ EC
 Brandt CattIe - R7-2021-0029, CAG117001 Page 10 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 -_ Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
 ee en eee Oe oan ene CER mime
@@ -467,7 +467,7 @@ EC
 BrandtCatIe-R7-2021-0029,CAG117001 Pagetiof19t
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 ea Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
 bs iii inthe (Cais viabIe OIdivcastitea varia GaiIe bas aah Maia
@@ -481,7 +481,7 @@ CC
 Brandt CattIe - R7-2021-0029, CAG117001 Page 12 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 mY .
      Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -498,7 +498,7 @@ EN
 Brandt CattIe - R7-2021-0029, CAG117001 Page 13 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 DAR U .
 _s Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -515,7 +515,7 @@ Repaired sprinkIer
 Brandt CattIe - R7-2021-0029, CAG117001 Page 14 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 ry .
 --a_. Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -533,7 +533,7 @@ main lines in the C
 Brandt CattIe - R7-2021-0029, CAG117001 Page 15 of 19
 2712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 my .
 _ Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -546,7 +546,7 @@ aon a ae eee ere ve oem a aa)
 Brandt CattIe - R7-2021-0029, CAG117001 Page 16 of 19
 21712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 . en Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
 he i 5 a i a ee eee
@@ -564,7 +564,7 @@ rwzrines 7500 azo _ fo fd a i oo for En / fe _-
 , Brandt CattIe - R7-2021-0029, CAG117001 Page 17 of 19
              2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 a Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
 RON Ba hy. LEO Ses Bin injees. FeSHOW(O) ReIais P SRP err) MOIRSpeReE PRR. go
@@ -576,7 +576,7 @@ FRA CC
 Brandt CattIe - R7-2021-0029 CAG117001 Page 18 of 19
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 RY .
 _ Brandt CattIe - R7-2021-0029, CAG117001 DaiIy
@@ -588,11 +588,11 @@ Liaise SaaIe ACA Utena maa oe EL ee ets aR. Se -
 Brandt CaitIe - R7-2021-0029, CAG117001 Page 19 of 19
 21712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 2024 WeekIy Inspection Reporis
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 ce. Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 2/29/2024
@@ -662,7 +662,7 @@ _oeeNaaawmeaeaerrvvr_ aeaesE
 Brandt CatIle - R7-2021-0029 CAG117001 Page 7 of 10
 . 2712026 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 -ge5- Brandt CattIe - R7-2021-0029 CAG117001 WeekIy
 embankments7 Yes Are ail control structures Has the wastewater handIing Has the manure/compost
@@ -734,7 +734,7 @@ Yes Yes Yes
 Brandt CattIe - R7-2021-0029, CAG117001 Page 2 of 10
 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 igi
 gee Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -807,7 +807,7 @@ Yes Yes
 Brandt CattIe - R7-2021-0029 CAG117001 Page 3 of 10
 . 2772026 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 eR Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 G 24
@@ -878,7 +878,7 @@ ee COC
 Brandl CattIe - R7-2021-0029 CAG117001 Page 4 of 10
 24712025 CaIoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 qhidip
 ize Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -950,7 +950,7 @@ embankments ditches7 appropriate
 Brandt CattIe - R7-2021-0029, CAG117004 Page 5 of 10
 . 2/7/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 e- Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
 Has the manure/compost Note any findings, deficiancies, Are the ponds free of erosion, Are cattIe prevented from
@@ -1022,7 +1022,7 @@ eC
 Brandt CattIe - R7-2021-0029 CAG117001 Page 6 of 10
 _ 2712028 GafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 CAFU
 Se- Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -1094,7 +1094,7 @@ a
 Brandt CattIe - R7-2021-0029 CAG117001 Page 7 of 10
 , 2712025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 LArU
 A. Branat CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -1167,7 +1167,7 @@ Ore Oe
 Brandt CattIe - R7-2021-0029 CAG117001 Page 8 of 10
 , 3712028 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 uaro
 Se - Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -1240,7 +1240,7 @@ ee es s_ ss a
 Brandt CattIe - R7-2021-0029, CAG117001 Page 9 of 10
 . 27/2025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 bArU
 ame Brandt CattIe - R7-2021-0029, CAG117001 WeekIy
@@ -1295,11 +1295,11 @@ OC eeeeEee _ _e_EsesaErnrr OOOO
 Brandt CaitIe - R7-2021-0029 CAG117003 Page 10 of 10
 , 272025 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 2024 MonthIy Inspection Reports
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 iy
 ane Brandt CattIe - R7-2021-0029, CAG117001 MonthIy
@@ -1366,7 +1366,7 @@ eee ee
 Brandt CattIe - R7-2021-0029, CAG117001 Page (of 2
 s 27/2026 CafoPro.com - CompIiance by DesignTM
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 are
 _ Brandt CattIe - R7-2021-0029, CAG117001 MonthIy

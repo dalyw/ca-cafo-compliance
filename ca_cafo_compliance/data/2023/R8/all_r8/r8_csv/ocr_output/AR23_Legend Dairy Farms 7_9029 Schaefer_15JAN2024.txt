@@ -30,7 +30,7 @@ Tite Operator/Owner
 Signature,
 Date. January 12, 2024
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -51,7 +51,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors7 Yes O No
 1 CeIf produces approximateIy 0.6 tens of manure per year
 1 tan cf corral manure equaIs 2.32 cubie yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -86,7 +86,7 @@ Date January 12, 2024
 Tite Owner/Operator
 SSS
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Form 4. Manure Tracking Manifest
 Regional Water QuaIity Control Board
@@ -137,7 +137,7 @@ dnprisonment for knowing , l
  HauIors Signature Cur lIe o forces Date 8.2) 23
 1 The Regional Board may ask far 8 copy of menure nutrient anaIysis.
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 SrtAeue lueyinu amuew 70 Adoo 8 20) x78 hau preog peuCBey oi, t
                                             s KA . 4 a1eq BS aC aye remeutss 8 29nep j

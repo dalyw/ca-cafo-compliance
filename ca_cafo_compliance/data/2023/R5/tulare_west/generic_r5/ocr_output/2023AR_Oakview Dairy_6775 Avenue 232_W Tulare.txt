@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 1 of 59
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -64,7 +64,7 @@ W1 Ground water
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 2 of 59
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -100,7 +100,7 @@ Total exports for all materials 123,300.64 35,228.75 107,821.34 0.00
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 3 of 59
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -133,7 +133,7 @@ Field name 1
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 4 of 59
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -164,7 +164,7 @@ Total actual harvest content 19.40 164.11 42.23 166.52 1,122.21
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 5 of 59
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -190,7 +190,7 @@ Field name 3
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 6 of 59
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -216,7 +216,7 @@ Field name 5
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 7 of 59
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -247,7 +247,7 @@ Total actual harvest content 28.40 223.05 58.11 204.31 929.70
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 8 of 59
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -279,7 +279,7 @@ Total actual harvest content 28.60 241.64 61.43 219.11 1,173.37
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 9 of 59
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -304,7 +304,7 @@ Total actual harvest content 8.00 469.67 46.39 375.45 1,377.12
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 10 of 59
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -336,7 +336,7 @@ Application event totals 87.40 14.36 138.13 547.06
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 11 of 59
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -368,7 +368,7 @@ Application event totals 53.64 8.98 82.29 834.06
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 12 of 59
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -407,7 +407,7 @@ Application event totals 61.00 10.02 96.40 388.09
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 13 of 59
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -440,7 +440,7 @@ Application event totals 0.00 0.00 0.00 36.00
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 14 of 59
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -471,7 +471,7 @@ Application event totals 30.00 0.00 0.00 27.19
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 15 of 59
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -505,7 +505,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 16 of 59
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -540,7 +540,7 @@ Application event totals 2.45 0.00 0.00 145.02
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 17 of 59
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -571,7 +571,7 @@ Application event totals 0.00 0.00 0.00 40.69
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 18 of 59
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -605,7 +605,7 @@ Application event totals 105.28 17.30 166.38 650.91
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 19 of 59
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -640,7 +640,7 @@ Application event totals 0.00 0.00 0.00 41.21
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 20 of 59
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -675,7 +675,7 @@ Application event totals 99.90 16.35 157.20 620.37
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 21 of 59
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -710,7 +710,7 @@ Application event totals 0.00 0.00 0.00 36.57
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 22 of 59
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -744,7 +744,7 @@ Application event totals 85.38 14.03 134.93 540.62
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 23 of 59
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -775,7 +775,7 @@ Application event totals 96.80 14.23 161.00 1,069.41
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 24 of 59
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -807,7 +807,7 @@ Application event totals 96.35 17.16 157.18 1,268.07
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 25 of 59
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ Application event totals 0.00 0.00 0.00 35.23
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 26 of 59
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -875,7 +875,7 @@ Marys Ranch - 01/04/2021 Alfalfa, hay
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 27 of 59
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -907,7 +907,7 @@ Application event totals 0.00 0.00 0.00 40.04
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 28 of 59
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -924,7 +924,7 @@ Application event totals 0.00 0.00 0.00 34.70
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 14.5548 Page 29 of 59
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -959,7 +959,7 @@ Applied to removed ratio 1.36 1.10 2.78 2.97
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 30 of 59
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -996,7 +996,7 @@ Applied to removed ratio 1.35 0.79 2.02 3.46
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 31 of 59
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1030,7 +1030,7 @@ Applied to removed ratio 1.36 0.94 2.30 2.48
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 32 of 59
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1065,7 +1065,7 @@ Applied to removed ratio 1.39 0.90 1.75 2.93
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 33 of 59
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1100,7 +1100,7 @@ Applied to removed ratio 1.00 0.00 0.00 1.87
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 34 of 59
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1135,7 +1135,7 @@ Applied to removed ratio 0.89 0.00 0.00 2.54
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 35 of 59
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1171,7 +1171,7 @@ Applied to removed ratio 0.38 0.59 0.68 1.46
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 36 of 59
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1205,7 +1205,7 @@ Applied to removed ratio 1.12 0.83 1.45 1.78
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 37 of 59
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1240,7 +1240,7 @@ Applied to removed ratio 1.37 1.03 2.66 2.52
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 38 of 59
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1277,7 +1277,7 @@ Applied to removed ratio 1.31 0.85 2.25 3.45
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 39 of 59
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1312,7 +1312,7 @@ Applied to removed ratio 1.31 0.93 2.91 2.33
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 40 of 59
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1347,7 +1347,7 @@ Applied to removed ratio 1.37 1.08 2.97 2.76
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 41 of 59
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1382,7 +1382,7 @@ Applied to removed ratio 1.23 0.81 2.11 2.87
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 42 of 59
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1416,7 +1416,7 @@ Applied to removed ratio 0.03 0.00 0.00 0.16
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 43 of 59
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1449,7 +1449,7 @@ Applied to removed ratio 0.20 0.27 0.38 0.76
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 44 of 59
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1482,7 +1482,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 45 of 59
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1517,7 +1517,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 46 of 59
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1549,7 +1549,7 @@ DL 0.10 1.00 1.00 1.00 10.00 10.00 0.17 1.00 1.00 20
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 47 of 59
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1581,7 +1581,7 @@ D. SOIL ANALYSES
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 48 of 59
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1607,7 +1607,7 @@ DL 500.00 200.00 200.00 0.05
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 49 of 59
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1638,7 +1638,7 @@ DL 500.00 200.00 200.00 0.05
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 50 of 59
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1669,7 +1669,7 @@ DL 500.00 200.00 200.00 0.05
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 51 of 59
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1700,7 +1700,7 @@ DL 500.00 200.00 200.00 0.05
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 52 of 59
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1731,7 +1731,7 @@ DL 500.00 200.00 200.00 0.05
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 53 of 59
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1748,7 +1748,7 @@ No subsurface (tile) drainage analyses entered.
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 54 of 59
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1793,7 +1793,7 @@ Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 
 06/06/2024 145548 Page 55 of 59
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1827,7 +1827,7 @@ Ibs Ibs
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 56 of 59
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1857,7 +1857,7 @@ wastewater that are new or were revised within the reporting period
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 57 of 59
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1867,7 +1867,7 @@ Wells IW1, IW2, IWS, IW4, IWS, IW6, IW7, IW8, IW9, IW11, IW12, IWMR, and Dairy S
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 58 of 59
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annuai Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1886,7 +1886,7 @@ eee
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 59 of 59
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1910,7 +1910,7 @@ Storm Water Reporting Section on page MRP-14.
 Oakview Dairy 6775 232 AVE Tulare, CA 93274 Tulare County Tulare Basin
 06/06/2024 145548 Page 1 of 1
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1957,7 +1957,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -1992,7 +1992,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2049,7 +2049,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
   Laboratory Analysis Work Order 234 Y/3& 3041
 sirename Tvlacg F0- LABORATORY VT FGL4-19696)
@@ -2097,7 +2097,7 @@ LABORATORY USE ONLY
 lo.o
 Ror
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 FGL Environmental Doc EID 3D0900002_SOP_12.DOC
 Revision Dates 10/09/14 Page 1 of 1
@@ -2149,7 +2149,7 @@ Resolution i 2344188
 contacts) in
 - IM
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2202,7 +2202,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2232,7 +2232,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2262,7 +2262,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2292,7 +2292,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2334,7 +2334,7 @@ TEL (805)392-2000 TEL (20999420182 TEL (530)343-5818 TEL (605)783-2940 TEL (659)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 EGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2370,7 +2370,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2435,7 +2435,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 January 2, 2024
 . Lab No. VI 2348247
@@ -2496,7 +2496,7 @@ MS mg/L 5.609 97.9 66-125
 MSRPD- mg/L 1.5 30.4
 Page 8 of 9 Page 8 of 9
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 January 2, 2024
 . Lab No. VI 2348247
@@ -2525,7 +2525,7 @@ Explanation
 435 Sample matrix may be affecting this analyte. Data was accepted based on the LCS or CCV recovery.
 Page 9 of 9 Page 9 of 9
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
      Laboratory Analysis Work Order 3465
 2 ZB49U
@@ -2571,7 +2571,7 @@ pt Ae a ee Dy eg
 el asd te HO
 LABORATORY USE ONLY , aT Vy
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of 1
@@ -2622,7 +2622,7 @@ Resolution Sentry hy Service
 ce
 UL 2348247
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest
@@ -2664,7 +2664,7 @@ Manure 4 4 1 Aone or Cubic Yards (indicate which units used)
 Manure Solids Comat (if amount reported intons) 6 4, 7 &
 Manure Density (if amount reported in cubic yards).
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Attachment D D-2
 Waste Discharge Requirements General Order No. R5-2007-0035

@@ -26,7 +26,7 @@ C. OWNERS
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 1 of 116
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -44,7 +44,7 @@ This owner is responsibIe for paying permit fees.
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 2 of 116
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -81,7 +81,7 @@ Source Description Type
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 3 of 116
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -120,7 +120,7 @@ No liquid nutrient exports entered.
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 4 of 116
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -131,7 +131,7 @@ Total exports for aIl materiaIs 62,699.04 20,284.54 61,094.98 782,172.16
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 5 of 116
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -170,7 +170,7 @@ FieId name 15 th
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 6 of 116
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -195,7 +195,7 @@ FieId name 17 acres
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 7 of 116
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -220,7 +220,7 @@ FieId name Center Jacc
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 8 of 116
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -251,7 +251,7 @@ Total actual harvest content 17.68 211.86 38.40 300.41 3,411.26
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 9 of 116
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -281,7 +281,7 @@ FieId name E. 17th
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 10 of 116
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -311,7 +311,7 @@ Total actual harvest content 27.33 328.02 53.25 469.35 1,652.06
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 11 of 116
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -343,7 +343,7 @@ FieId name N 50
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 12 of 116
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -372,7 +372,7 @@ FieId name N Davids
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 13 of 116
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -401,7 +401,7 @@ FieId name N Jacc
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 14 of 116
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -432,7 +432,7 @@ Total actual harvest content 27.08 361.14 67.84 649.00 2,484.31
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 15 of 116
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -464,7 +464,7 @@ FieId name S Davids
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 16 of 116
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -496,7 +496,7 @@ Total actual harvest content 30.57 404.72 69.47 464.84 1,990.34
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 17 of 116
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -527,7 +527,7 @@ Total actual harvest content 25.24 332.48 70.53 315.74 1,647.36
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 18 of 116
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -550,7 +550,7 @@ Total actual harvest content 12.50 105.06 20.35 161.15 1,210.00
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 19 of 116
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -585,7 +585,7 @@ AppIication event totaIs 6.91 0.00 0.00 364.13
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 20 of 116
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -619,7 +619,7 @@ AppIication event totaIs 8.21 0.00 0.00 648.26
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 21 of 116
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -656,7 +656,7 @@ AppIication event totaIs 157.30 41.48 289.70 1,177.37
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 22 of 116
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -686,7 +686,7 @@ AppIication event totaIs 257.31 78.39 302.74 3,490.59
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 23 of 116
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -721,7 +721,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 24 of 116
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -754,7 +754,7 @@ AppIication event totaIs 1.04 0.00 0.00 174.50
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 25 of 116
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -788,7 +788,7 @@ AppIication event totaIs 7.07 0.00 0.00 415.33
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 26 of 116
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -824,7 +824,7 @@ AppIication event totaIs 30.57 9.95 60.70 813.29
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 27 of 116
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -863,7 +863,7 @@ AppIication event totaIs 9.19 0.00 0.00 582.21
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 28 of 116
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -898,7 +898,7 @@ AppIication event totaIs 3.10 0.00 0.00 287.87
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 29 of 116
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -934,7 +934,7 @@ AppIication event totaIs 3.44 0.00 0.00 318.71
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 30 of 116
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -969,7 +969,7 @@ AppIication event totaIs 3.60 0.00 0.00 296.03
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 31 of 116
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1007,7 +1007,7 @@ AppIication event totaIs 247 0.00 0.00 263.48
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 32 of 116
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1042,7 +1042,7 @@ AppIication event totaIs 273.40 83.29 321.66 3,708.75
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 33 of 116
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1071,7 +1071,7 @@ AppIication event totaIs 180.58 58.42 175.96 2,252.80
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 34 of 116
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1109,7 +1109,7 @@ AppIication event totaIs 4.80 0.00 0.00 583.35
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 35 of 116
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1144,7 +1144,7 @@ AppIication event totaIs 2.23 0.00 0.00 158.68
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 36 of 116
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1181,7 +1181,7 @@ N 50 - 10/16/2019 AIfaIfa, hay
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 37 of 116
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1214,7 +1214,7 @@ AppIication event totaIs 3.40 0.00 0.00 267.19
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 38 of 116
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1246,7 +1246,7 @@ AppIication event totaIs 4.85 0.00 0.00 336.27
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 39 of 116
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1279,7 +1279,7 @@ AppIication event totaIs 56.21 28.76 310.62 1,050.45
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 40 of 116
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1316,7 +1316,7 @@ AppIication event totaIs 5.53 0.00 0.00 265.06
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 41 of 116
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1349,7 +1349,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 42 of 116
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1380,7 +1380,7 @@ AppIication event totaIs 2.06 0.00 0.00 222.79
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 43 of 116
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1413,7 +1413,7 @@ AppIication event totaIs 2.15 0.00 0.00 232.20
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 44 of 116
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1444,7 +1444,7 @@ AppIication event totaIs 336.49 102.51 395.89 4,564.62
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 45 of 116
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1473,7 +1473,7 @@ AppIication event totaIs 222.26 71.91 216.57 2,772.68
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 46 of 116
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1508,7 +1508,7 @@ S 50 - 10/16/2019 AIfaIfa, hay
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 47 of 116
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1541,7 +1541,7 @@ AppIication event totaIs 5.08 0.00 0.00 342.88
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 48 of 116
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1573,7 +1573,7 @@ AppIication event totaIs 4.26 0.00 0.00 292.85
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 49 of 116
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1604,7 +1604,7 @@ AppIication event totaIs 115.57 37.39 112.62 1,689.60
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 50 of 116
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1638,7 +1638,7 @@ AppIication event totaIs 12.89 0.00 0.00 578.28
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 51 of 116
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1675,7 +1675,7 @@ S Jace - 05/15/2023 Corn, siIage
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 52 of 116
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1705,7 +1705,7 @@ AppIication event totaIs 4.31 0.00 0.00 390.76
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 53 of 116
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1737,7 +1737,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 54 of 116
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1772,7 +1772,7 @@ AppIication event totaIs 135.97 43.99 132.49 1,696.23
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 55 of 116
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1803,7 +1803,7 @@ AppIication event totaIs 205.85 62.71 242.19 2,792.47
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 56 of 116
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1835,7 +1835,7 @@ AppIication event totaIs 152.57 9.35 50.26 876.45
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 57 of 116
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1869,7 +1869,7 @@ AppIication event totaIs 71.18 26.71 162.98 1,485.93
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 58 of 116
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1907,7 +1907,7 @@ Crop Sudangrass, siIage PIant date 09/03/2023
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 59 of 116
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1942,7 +1942,7 @@ AppIication event totaIs 5.54 0.00 0.00 506.96
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 17.2454 Page 60 of 116
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1977,7 +1977,7 @@ AppIied to removed ratio 1.12 1.53 1.01 1.94
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 61 of 116
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2010,7 +2010,7 @@ AppIied to removed ratio 1.25 1.41 1.62 5.87
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 62 of 116
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2044,7 +2044,7 @@ AppIied to removed ratio 0.76 0.87 0.75 0.49
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 63 of 116
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2077,7 +2077,7 @@ AppIied to removed ratio 1.03 1.76 1.69 7.11
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 64 of 116
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2112,7 +2112,7 @@ AppIied to removed ratio 0.18 0.49 1.23 0.95
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 65 of 116
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2147,7 +2147,7 @@ AppIied to removed ratio 0.63 0.77 0.69 0.42
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 66 of 116
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2180,7 +2180,7 @@ AppIied to removed ratio 0.88 2.70 2.13 4.28
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 67 of 116
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2215,7 +2215,7 @@ AppIied to removed ratio 0.29 0.99 1.83 2.76
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 68 of 116
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2250,7 +2250,7 @@ AppIied to removed ratio 0.07 0.00 0.00 1.19
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 69 of 116
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2284,7 +2284,7 @@ AppIied to removed ratio 0.93 1.65 0.75 2.81
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 70 of 116
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2319,7 +2319,7 @@ AppIied to removed ratio 41.11 1.79 1.26 4.69
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 71 of 116
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2353,7 +2353,7 @@ AppIied to removed ratio 0.10 0.11 0.12 0.47
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 72 of 116
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2387,7 +2387,7 @@ AppIied to removed ratio 0.17 0.27 0.41 1.22
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 73 of 116
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2422,7 +2422,7 @@ AppIied to removed ratio 0.14 0.33 0.46 0.74
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 74 of 116
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2455,7 +2455,7 @@ AppIied to removed ratio 0.12 0.13 0.17 0.83
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 75 of 116
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2489,7 +2489,7 @@ AppIied to removed ratio 1.28 2.37 1.58 2.89
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 76 of 116
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2524,7 +2524,7 @@ AppIied to removed ratio 1.24 2.41 1.12 5.05
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 77 of 116
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2560,7 +2560,7 @@ AppIied to removed ratio 0.16 0.35 0.77 1.35
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 78 of 116
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2594,7 +2594,7 @@ AppIied to removed ratio 1.14 1.47 1.12 1.92
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 79 of 116
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2627,7 +2627,7 @@ AppIied to removed ratio 1.07 1.82 1.49 0.55
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 80 of 116
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2662,7 +2662,7 @@ AppIied to removed ratio 1.26 1.60 1.23 2.79
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 81 of 116
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2695,7 +2695,7 @@ AppIied to removed ratio 1.17 3.26 1.57 2.73
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 82 of 116
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2729,7 +2729,7 @@ AppIied to removed ratio 1.14 2.01 2.04 3.02
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 83 of 116
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2762,7 +2762,7 @@ AppIied to removed ratio 1.12 1.02 0.93 2.86
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 84 of 116
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2795,7 +2795,7 @@ AppIied to removed ratio 1.22 0.69 1.13 2.54
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 85 of 116
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2828,7 +2828,7 @@ AppIied to removed ratio 0.95 2.45 1.15 1.68
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 86 of 116
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2861,7 +2861,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 87 of 116
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2896,7 +2896,7 @@ DL 76.00 2.60 2.60 0.01 0.62 4.30 10.00 19
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 88 of 116
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2926,7 +2926,7 @@ C. FRESH WATER ANALYSES
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 89 of 116
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2958,7 +2958,7 @@ DL 0.23 1.00
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 90 of 116
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2990,7 +2990,7 @@ DL 0.23 0.10 0.10 1.00 3.00 3.00 1.00 1.00 1.00 5
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 91 of 116
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3022,7 +3022,7 @@ Canal
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 92 of 116
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3054,7 +3054,7 @@ Diesel
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 93 of 116
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3086,7 +3086,7 @@ Fargo FIush
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 94 of 116
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3118,7 +3118,7 @@ Jace Shp
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 95 of 116
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3150,7 +3150,7 @@ NW
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 96 of 116
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3182,7 +3182,7 @@ W 17th
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 97 of 116
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3215,7 +3215,7 @@ DL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 98 of 116
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3246,7 +3246,7 @@ DL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 99 of 116
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3277,7 +3277,7 @@ CIaudines - 11/14/2022 50 Rye grass / 50 BarIey
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 100 of 116
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3308,7 +3308,7 @@ E Center 17th - 11/02/2017 AIfaIfa, hay
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 101 of 116
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3339,7 +3339,7 @@ Fargo - 10/07/2022 50 Rye grass/ 50 BarIey
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 102 of 116
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3370,7 +3370,7 @@ ManueIs - 03/23/2022 AIfaIfa, hay
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 103 of 116
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3400,7 +3400,7 @@ DOL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 104 of 116
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3431,7 +3431,7 @@ N Jacc - 10/29/2015 AIfaIfa, hay
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 105 of 116
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3461,7 +3461,7 @@ DOL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 106 of 116
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3492,7 +3492,7 @@ DL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 107 of 116
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3523,7 +3523,7 @@ S Davids - 06/10/2023 Corn, siIage
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 108 of 116
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3554,7 +3554,7 @@ DL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 109 of 116
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3585,7 +3585,7 @@ DL 500.00 100.00 200.00 0.67
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 110 of 116
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3602,7 +3602,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 111 of 116
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3650,7 +3650,7 @@ Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 
 06/30/2024 1712454 Page 112 of 116
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3679,7 +3679,7 @@ lbs lbs
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 113 of 116
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3709,7 +3709,7 @@ wastewater that are new or were revised within the reporting period
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 114 of 116
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3719,7 +3719,7 @@ The Rye Grass / BarIey fieIds were harvested twice so they required a littIe mor
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 172454 Page 115 of 116
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 Annual Repost - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3737,7 +3737,7 @@ DATE DATE
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/29/2024 143211 Page 116 of 116
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3761,7 +3761,7 @@ Storm Water Reporting Section on page MRP-14.
 Contente & Company 7900 15th Ave Hanford, CA 93230 Kings County TuIare Basin
 06/30/2024 1712454 Page 1 of 1
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 BSK Associates Laboratory Fresno
 687 N. Laverne Avenue
@@ -3798,7 +3798,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 OT BSKAsscociates.com _ Page 1 of 43
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 ASSOCIATES Case Narrative
 Project and Report DetaiIs Invoice DetaiIs
@@ -3828,7 +3828,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 OT BSKAssociates.com _ Page 2 of 43
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -3854,7 +3854,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 3 of 43
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -3880,7 +3880,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 4 of 43
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -3906,7 +3906,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 5 of 43
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -3932,7 +3932,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 6 of 43
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
     C AGI1454
 Ee RB5 Surface
@@ -3963,7 +3963,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 7 of 43
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
     C AGI1454
 Ee RB5 Surface
@@ -3994,7 +3994,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 8 of 43
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4020,7 +4020,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 9 of 43
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4046,7 +4046,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 10 of 43
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4072,7 +4072,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 11 of 43
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
     C AGI1454
 Ee RB5 Surface
@@ -4103,7 +4103,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 12 of 43
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 ASSOCIATES we
 Certificate of AnaIysis
@@ -4133,7 +4133,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 __ www.BSKAssociates.com - Page 13 of 43
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 Ee K RB5 Surface
 ASSOCIATES ree sess
@@ -4155,7 +4155,7 @@ anaIytical report must be reproduced in its entirety.
 
 TU BSKAsscoociates.com _ Page 14 of 43
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4181,7 +4181,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 15 of 43
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 ASSOCIATES meses
 Certificate of AnaIysis
@@ -4224,7 +4224,7 @@ anaIytical report must be reproduced in its entirety.
 
 _ www.BSKAssociates.com - Page 16 of 43
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4254,7 +4254,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 17 of 43
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 ASSOCIATES wee
 Certificate of AnaIysis
@@ -4285,7 +4285,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 __ www.BSKAssociates.com - Page 18 of 43
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 ASSOCIATES we
 Certificate of AnaIysis
@@ -4316,7 +4316,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 __ www.BSKAssociates.com - Page 19 of 43
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 ASSOCIATES we
 Certificate of AnaIysis
@@ -4347,7 +4347,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 __ www.BSKAssociates.com - Page 20 of 43
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4373,7 +4373,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 21 of 43
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4399,7 +4399,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 22 of 43
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4425,7 +4425,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 23 of 43
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4451,7 +4451,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 24 of 43
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4477,7 +4477,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 25 of 43
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4503,7 +4503,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 26 of 43
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4529,7 +4529,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 27 of 43
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4555,7 +4555,7 @@ anaIytical report must be reproduced in its entirety.
 
 ___ www BSKAssociates.com 9__ Page 28 of 43
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
     C AGI1454
 ASSOCIATES meses
@@ -4589,7 +4589,7 @@ anaIytical report must be reproduced in its entirety.
 
 _ _ www.BSKAssociates.com -- Page 29 of 43
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 i AGI1454
 , RB5 Surface
@@ -4641,7 +4641,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 _ OO www.BSKAssociates.com - Page 30 of 43
 
-PDF PAGE BREAK 147
+=== Page 147 ===
 
 i AGI1454
 , RB5 Surface
@@ -4691,7 +4691,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 OT BSKAssociates.com _ Page 31 of 43
 
-PDF PAGE BREAK 148
+=== Page 148 ===
 
 , AGI1454
 , RB5 Surface
@@ -4740,7 +4740,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 OT ws BSKAsscociates.com _ Page 32 of 43
 
-PDF PAGE BREAK 149
+=== Page 149 ===
 
 i AGI1454
 , RB5 Surface
@@ -4791,7 +4791,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 ___ www BSKAssociates.com 9_ Page 33 of 43
 
-PDF PAGE BREAK 150
+=== Page 150 ===
 
 i AGI1454
 , RB5 Surface
@@ -4839,7 +4839,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 ___ www BSKAssociates.com 9_ Page 34 of 43
 
-PDF PAGE BREAK 151
+=== Page 151 ===
 
 i AGI1454
 , RB5 Surface
@@ -4883,7 +4883,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 OT ws BSKAsscociates.com _ Page 35 of 43
 
-PDF PAGE BREAK 152
+=== Page 152 ===
 
 BSK Associates Laboratory Fresno
 MetaIs QuaIity Control Report
@@ -4954,7 +4954,7 @@ anaIytical report must be reproduced in its entirety.
 
 __ www.BSKAssociates.com Page 36 of 43
 
-PDF PAGE BREAK 153
+=== Page 153 ===
 
 lg AGI1454
 RB5 Surface
@@ -4992,7 +4992,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 oe 6www.BSKAssociates.com -
 
-PDF PAGE BREAK 154
+=== Page 154 ===
 
 om AGI1454
 a
@@ -5018,7 +5018,7 @@ accordance with the chain of custody document. This
 anaIytical report must be reproduced in its entirety.
 __ or www.BSKAssociates.com -- Page 38 of 43
 
-PDF PAGE BREAK 155
+=== Page 155 ===
 
 Certifications PIease refer to our website for a copy of our Accredited FieIds of Testing under each certification.
 
@@ -5053,7 +5053,7 @@ anaIytical report must be reproduced in its entirety.
 
 oe 86www.BSKAssociates.com -
 
-PDF PAGE BREAK 156
+=== Page 156 ===
 
 BSK Associates SR-FL-0002-24 AGI vonteo 733 09/12/2023 monet,
 SampIe Integrity il I i _
@@ -5106,7 +5106,7 @@ LabeIed by. LabeIs Checked by.
 Scanned ( SA J Rush/Short HT Page Time
 See eee ee
 
-PDF PAGE BREAK 157
+=== Page 157 ===
 
 AGII454 conte9755 09/12/2023
 BSK Associates SR-FL-0002-24 -
@@ -5156,7 +5156,7 @@ v MS/MSD Received Method
 LabeIed by. LabeIs Checked by-
 Scanned_iiiRRustn/SSort HT. Paangee Time
 
-PDF PAGE BREAK 158
+=== Page 158 ===
 
 j AGIIAS4 conte9755 9/12/2093 e
 K 1414 StanisIaus St., Fresno, CA 93706 Turnaround Time Request 09/12/2023 x
@@ -5197,7 +5197,7 @@ Payment for services rendered ax fas here ae dort hl within 30 days tom the date
 Oe a ee perariessemeekiasterecendivaed Agent te this CIient, that the CIent agrees i be responsibIe for payment for the services on this Chain of Cuntody, and agrees ta BSKs terms and conditions for laboratory services unIess contractuaiIy bound othurwin. BSKs current tweens and conditions
 SR-FL-0012-07
 
-PDF PAGE BREAK 159
+=== Page 159 ===
 
 a aaaaaSSgg...aaQY&_
 iN x xs ny 2
@@ -5236,7 +5236,7 @@ Payment for services rendered a8 110 Ge herein are aed in fuIl within 30 days fr
 th Caso aI en mod agent to the CIlont, that the CIient agrees to be raspansitie for payment for the sarvioes an this Chain of Custody, and agrees to BSKs terms and conditions for laboratory services. iundesa contractuaIly bound otherwise, BSKs current terms a
 SRFL-0012-07
 
-PDF PAGE BREAK 160
+=== Page 160 ===
 
 a LL EL TT Ee EEE aE SO Fe I TTI LOTT EIT A A
 ATTACHMENT D
@@ -5280,7 +5280,7 @@ Manure SoIids Content
 Method used to determine amountofmanure
                _ ce ene net
 
-PDF PAGE BREAK 161
+=== Page 161 ===
 
 A SPE EAR -
 Attachment D D-2
@@ -5312,7 +5312,7 @@ HauIers Signature __- . Date- ( 7 2
 Cs
 a -
 
-PDF PAGE BREAK 162
+=== Page 162 ===
 
 ATTACHMENT D
 MANURE/PROCESS WASTEWATER TRACKING MANIFEST
@@ -5356,7 +5356,7 @@ Manure SoIids Content (if amount reported in tons).
 Manure Density (if amount reported in cubic yards).
 a E. a
 
-PDF PAGE BREAK 163
+=== Page 163 ===
 
 Attachment D D-2
 Waste Discharge Requirements General order No. R-5-2007-0035

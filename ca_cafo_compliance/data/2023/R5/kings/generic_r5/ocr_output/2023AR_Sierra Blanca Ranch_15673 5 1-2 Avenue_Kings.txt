@@ -26,7 +26,7 @@ C. OWNERS
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 1 of 109
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -44,7 +44,7 @@ MaiIing Address Number and Street City State Zip Code
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 2 of 109
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -81,7 +81,7 @@ Source Description Type
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 3 of 109
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -120,7 +120,7 @@ No liquid nutrient exports entered.
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 4 of 109
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -164,7 +164,7 @@ FieId name 10
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 5 of 109
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -190,7 +190,7 @@ FieId name 11B
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 6 of 109
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -221,7 +221,7 @@ Total actual harvest content 28.00 245.70 60.93 235.87 1,240.29
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 7 of 109
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -253,7 +253,7 @@ Total actual harvest content 23.30 233.26 62.86 254.76 2,084.42
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 8 of 109
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -284,7 +284,7 @@ Total actual harvest content 28.19 154.34 30.56 239.91 994.80
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 9 of 109
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -316,7 +316,7 @@ Total actual harvest content 28.30 177.04 40.61 220.90 1,024.89
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 10 of 109
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -348,7 +348,7 @@ Total actual harvest content 23.70 262.59 48.63 314.45 1,847.83
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 11 of 109
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -374,7 +374,7 @@ FieId name 25
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 12 of 109
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -405,7 +405,7 @@ Total actual harvest content 23.50 269.33 49.75 247.03 1,542.23
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 13 of 109
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -431,7 +431,7 @@ FieId name 4
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 14 of 109
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -457,7 +457,7 @@ FieId name 6
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 15 of 109
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -483,7 +483,7 @@ FieId name 8
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 16 of 109
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -507,7 +507,7 @@ Total actual harvest content 9.13 450.68 39.33 273.69 1,720.79
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 17 of 109
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -540,7 +540,7 @@ AppIication event totaIs 13.91 0.00 0.00 340.28
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 18 of 109
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -573,7 +573,7 @@ AppIication event totaIs 7.00 0.00 0.00 171.30
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 19 of 109
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -606,7 +606,7 @@ AppIication event totaIs 9.34 0.00 0.00 228.40
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 20 of 109
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -639,7 +639,7 @@ AppIication event totaIs 8.17 0.00 0.00 199.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 21 of 109
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -673,7 +673,7 @@ AppIication event totaIs 8.17 0.00 0.00 199.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 22 of 109
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -708,7 +708,7 @@ AppIication event totaIs 51.28 14.07 102.79 638.67
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 23 of 109
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -742,7 +742,7 @@ AppIication event totaIs 48.06 8.34 50.22 806.60
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 24 of 109
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -781,7 +781,7 @@ AppIication event totaIs 77.86 10.29 61.84 234.17
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 25 of 109
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -816,7 +816,7 @@ AppIication event totaIs 65.96 11.48 69.16 1,003.69
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 26 of 109
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -848,7 +848,7 @@ AppIication event totaIs 91.68 12.13 72.91 217.53
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 27 of 109
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -880,7 +880,7 @@ AppIication event totaIs 65.43 17.96 131.23 793.82
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 28 of 109
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -912,7 +912,7 @@ AppIication event totaIs 81.67 12.37 753.28 1,351.97
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 29 of 109
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -944,7 +944,7 @@ AppIication event totaIs 0.67 0.00 0.00 322.59
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 30 of 109
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -978,7 +978,7 @@ Crop Wheat, siIage, soft dough PIant date 11/14/2022
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 31 of 109
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1011,7 +1011,7 @@ AppIication event totaIs 44.32 12.11 88.47 636.93
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 32 of 109
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1043,7 +1043,7 @@ AppIication event totaIs 0.61 0.00 0.00 292.81
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 33 of 109
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1074,7 +1074,7 @@ AppIication event totaIs 52.93 14.50 105.95 690.78
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 34 of 109
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1105,7 +1105,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 35 of 109
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1138,7 +1138,7 @@ AppIication event totaIs 65.97 17.97 131.35 664.00
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 36 of 109
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1173,7 +1173,7 @@ Crop Wheat, siIage, soft dough PIant date 11/20/2022
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 37 of 109
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1206,7 +1206,7 @@ AppIication event totaIs 60.17 16.37 119.59 622.95
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 38 of 109
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1238,7 +1238,7 @@ AppIication event totaIs 1.16 0.00 0.00 193.74
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 39 of 109
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1271,7 +1271,7 @@ AppIication event totaIs 4.67 0.00 0.00 114.20
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 40 of 109
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1304,7 +1304,7 @@ AppIication event totaIs 8.17 0.00 0.00 199.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 41 of 109
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1343,7 +1343,7 @@ AppIication event totaIs 91.30 11.00 66.09 302.54
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 42 of 109
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1377,7 +1377,7 @@ AppIication event totaIs 77.33 11.48 69.16 1,131.11
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 43 of 109
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1408,7 +1408,7 @@ AppIication event totaIs 98.35 13.02 78.26 212.09
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 44 of 109
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1440,7 +1440,7 @@ AppIication event totaIs 51.66 14.14 103.33 696.77
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 45 of 109
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1472,7 +1472,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 46 of 109
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1505,7 +1505,7 @@ AppIication event totaIs 8.17 0.00 0.00 199.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 47 of 109
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1538,7 +1538,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 48 of 109
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1571,7 +1571,7 @@ AppIication event totaIs 8.17 0.00 0.00 199.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 49 of 109
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1604,7 +1604,7 @@ AppIication event totaIs 10.77 0.00 0.00 263.59
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 50 of 109
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1638,7 +1638,7 @@ AppIication event totaIs 13.36 0.00 0.00 326.98
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 51 of 109
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1673,7 +1673,7 @@ AppIication event totaIs 12.61 0.00 0.00 308.55
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 52 of 109
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1706,7 +1706,7 @@ AppIication event totaIs 13.87 0.00 0.00 339.32
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 53 of 109
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1739,7 +1739,7 @@ AppIication event totaIs 12.86 0.00 0.00 314.65
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 54 of 109
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1772,7 +1772,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 55 of 109
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1805,7 +1805,7 @@ AppIication event totaIs 12.48 0.00 0.00 305.34
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 56 of 109
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1818,7 +1818,7 @@ AppIication event totaIs 12.60 0.00 0.00 308.35
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 57 of 109
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1853,7 +1853,7 @@ AppIied to removed ratio 0.23 0.00 0.00 1.32
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 58 of 109
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1888,7 +1888,7 @@ AppIied to removed ratio 0.38 0.00 0.00 2.20
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 59 of 109
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1922,7 +1922,7 @@ AppIied to removed ratio 0.35 0.00 0.00 1.89
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 60 of 109
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1956,7 +1956,7 @@ AppIied to removed ratio 1.24 0.49 2.45 0.97
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 61 of 109
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1988,7 +1988,7 @@ AppIied to removed ratio 1.34 1.27 2.29 3.90
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 62 of 109
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2023,7 +2023,7 @@ AppIied to removed ratio 1.24 0.50 3.09 1.14
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 63 of 109
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2056,7 +2056,7 @@ AppIied to removed ratio 1.30 1.21 2.22 441
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 64 of 109
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2091,7 +2091,7 @@ AppIied to removed ratio 1.18 0.57 2.98 0.78
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 65 of 109
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2124,7 +2124,7 @@ AppIied to removed ratio 1.27 1.22 1.14 3.33
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 66 of 109
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2158,7 +2158,7 @@ AppIied to removed ratio 1.20 0.65 3.89 1.41
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 67 of 109
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2191,7 +2191,7 @@ AppIied to removed ratio 1.22 1.36 1.20 3.79
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 68 of 109
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2226,7 +2226,7 @@ AppIied to removed ratio 1.04 0.69 3.76 0.96
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 69 of 109
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2259,7 +2259,7 @@ AppIied to removed ratio 1.33 1.18 1.39 4.34
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 70 of 109
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2293,7 +2293,7 @@ AppIied to removed ratio 1.32 1.20 1.50 4.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 71 of 109
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2327,7 +2327,7 @@ AppIied to removed ratio 1.02 0.48 3.71 0.73
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 72 of 109
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2360,7 +2360,7 @@ AppIied to removed ratio 1.03 0.97 1.04 2.40
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 73 of 109
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2395,7 +2395,7 @@ AppIied to removed ratio 1.01 0.74 2.90 0.85
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 74 of 109
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2428,7 +2428,7 @@ AppIied to removed ratio 1.34 1.08 1.32 3.80
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 75 of 109
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2463,7 +2463,7 @@ AppIied to removed ratio 0.22 0.00 0.00 1.01
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 76 of 109
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2498,7 +2498,7 @@ AppIied to removed ratio 1.03 0.69 3.32 1.22
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 77 of 109
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2531,7 +2531,7 @@ AppIied to removed ratio 1.23 0.62 1.26 4.25
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 78 of 109
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2565,7 +2565,7 @@ AppIied to removed ratio 1.02 0.75 3.75 1.19
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 79 of 109
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2599,7 +2599,7 @@ AppIied to removed ratio 1.36 1.13 1.21 3.97
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 80 of 109
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2634,7 +2634,7 @@ AppIied to removed ratio 0.28 0.00 0.00 1.63
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 81 of 109
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2669,7 +2669,7 @@ AppIied to removed ratio 0.24 0.00 0.00 1.30
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 82 of 109
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2702,7 +2702,7 @@ AppIied to removed ratio 0.22 0.00 0.00 1.26
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 83 of 109
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2736,7 +2736,7 @@ AppIied to removed ratio 0.24 0.00 0.00 1.28
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 84 of 109
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2770,7 +2770,7 @@ AppIied to removed ratio 0.24 0.00 0.00 1.29
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 85 of 109
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2803,7 +2803,7 @@ AppIied to removed ratio 0.22 0.00 0.00 1.59
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 86 of 109
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2837,7 +2837,7 @@ AppIied to removed ratio 0.23 0.00 0.00 1.29
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 87 of 109
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2870,7 +2870,7 @@ DL 10.00 2.00 0.20 0.50 2.00 2.00 2.00 2.00 5.00 2.00 2.00 10.00 10
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 88 of 109
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2905,7 +2905,7 @@ DL 10.00 2.00 0.20 0.50 100.00 10
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 89 of 109
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2937,7 +2937,7 @@ DL 0.10 1.00
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 90 of 109
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -2969,7 +2969,7 @@ DL 0.50 0.40 1.00 20
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 91 of 109
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3001,7 +3001,7 @@ DL 0.40 1.00
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 92 of 109
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3033,7 +3033,7 @@ PeopIes Ditch- Hanford
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 93 of 109
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3060,7 +3060,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 94 of 109
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3091,7 +3091,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 95 of 109
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3122,7 +3122,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 96 of 109
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3153,7 +3153,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 97 of 109
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3184,7 +3184,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 98 of 109
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3215,7 +3215,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 99 of 109
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3246,7 +3246,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 100 of 109
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3277,7 +3277,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 101 of 109
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3308,7 +3308,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 102 of 109
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3339,7 +3339,7 @@ DL 500.00 200.00 200.00 0.05
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 103 of 109
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3364,7 +3364,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 104 of 109
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3398,7 +3398,7 @@ N P K saIt
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 105 of 109
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3433,7 +3433,7 @@ lbs lbs
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 106 of 109
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3463,7 +3463,7 @@ wastewater that are new or were revised within the reporting period
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 107 of 109
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3473,7 +3473,7 @@ WeIls 1, 14, 18, 1A, 2, 26W Office, 27 Dairy W, 3, 3S, 4, 6E, 6W, 7, and Shop we
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 108 of 109
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3501,7 +3501,7 @@ Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basi
 
 06/11/2024 123936 Page 109 of 109
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -3525,7 +3525,7 @@ Storm Water Reporting Section on page MRP-14.
 Sierra BIanca Ranch 15673 5th 1/2 AVE Hanford, CA 93230 Kings County TuIare Basin
 06/11/2024 123936 Page 1 of 1
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 a
 ENVIRONMENTAL AGRICULTURAL
@@ -3577,7 +3577,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (830)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 (_
 ENVIRONMENTAL AGRICULTURAL
@@ -3623,7 +3623,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (830)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 GAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 ENVIRONMENTAL AGRICULTURAL
 AnaIytical Chemists
@@ -3657,7 +3657,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 AN
 ENVIRONMENTAL AGRICULTURAL
@@ -3723,7 +3723,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (830)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 August 16, 2023
 . Lab No. VI 2344744
@@ -3749,7 +3749,7 @@ ExpIanation
 on the LCS or CCV recovery.
 Page 7 of 9 Page 7 of 9
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 August 16, 2023
 . Lab No. VI 2344744
@@ -3810,7 +3810,7 @@ MSRPD mg/L 0.9X 27
 MS mg/L 12.00 91.34 54-136
 Page 8 of 9 Page 8 of 9
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 
 August 16, 2023
 . Lab No. 2 VI2344744
@@ -3856,7 +3856,7 @@ on the LCS or CCV recovery.
 435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 9 of 9 Page 9 of 9
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 
 a7 _ Laboratory AnaIysis Work Order 3066
 SITE NAME Sierra _BIeaca LABORATORY 44 FGL 4-19696
@@ -3928,7 +3928,7 @@ LABORATORY USE ONLY
 Rot. Ges fat (r3
 2-bC Woe 4d
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 
 _ FGL Environmental Doe ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -3978,7 +3978,7 @@ ProbIem i
 PIease see the back of this sheet for additional cc iv 07/21/2023 10243252
 Un
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -4033,7 +4033,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -4068,7 +4068,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4125,7 +4125,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 
 S2 Laboratory AnaIysis Work Order 3058
 SITENAME _ Peo pIe 55 Diteh- Heats LABORATORY FGL 4-19696
@@ -4186,7 +4186,7 @@ Rot CLs 7119/4
 
 5.39C We 1100
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 
 - EGU Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Date 10/09/14 Page 1 of 1
@@ -4238,7 +4238,7 @@ ee Vi 234465
 contacts
                         CAM
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 
 Ez
 ENVIRONMENTAL AGRICULTURAL
@@ -4288,7 +4288,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 
 FGE
 ENVIRONMENTAL AGRICULTURAL
@@ -4329,7 +4329,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 
 Zz
 ENVIRONMENTAL AGRICULTURAL
@@ -4365,7 +4365,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4433,7 +4433,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 
 October 12, 2023
 . Lab No. VI 2346140
@@ -4494,7 +4494,7 @@ MS mg/L 5.609 98.1 66-125
 (VI 2346501-002) MSD mg/L __ 5.609 99.0 66-125
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 
 October 12, 2023
 . Lab No. VI 2346140
@@ -4519,7 +4519,7 @@ ExpIanation
 435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 
 . Laboratory AnaIysis Work Order 3150
 SITE NAME S LevIa BIanca OO YO LABORATORY FGL 4-19696
@@ -4571,7 +4571,7 @@ TABORATORY USE ONLY A
 Ce Ait fe
 Mert (2/49
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 
 . FGL Environmental . Doc ID 3D0900002_SOP_12.DOC ,
 Revision Datez 10/09/14 m Page 1 of 1
@@ -4623,7 +4623,7 @@ ResoIutidn Sentry Ag Service
 contacts) . eda 09/12/2023 074951
 __ CRT _
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4671,7 +4671,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)842-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 
 Certification I certify that this data package is in compIiance with ELAP standards, both technicaIly and for
 compIeteness, except for any conditions listed above and in the QC Section. ReIease of the data contained in this data
@@ -4684,7 +4684,7 @@ Approved By KeIly A. Dunnahoo, B.S. e Tides Laboratiy Director Paenanen OS
 Date 2023-12-24
 Page 2 of 13 Page 2 of 13
 
-PDF PAGE BREAK 134
+=== Page 134 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -4727,7 +4727,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 135
+=== Page 135 ===
 
 _a 4
 ENVIRONMENTAL AGRICULTURAL
@@ -4767,7 +4767,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 136
+=== Page 136 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4807,7 +4807,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 137
+=== Page 137 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4847,7 +4847,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 138
+=== Page 138 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4887,7 +4887,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 139
+=== Page 139 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -4927,7 +4927,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 140
+=== Page 140 ===
 
 _a 4
 ENVIRONMENTAL AGRICULTURAL
@@ -4967,7 +4967,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 141
+=== Page 141 ===
 
 _a 4
 ENVIRONMENTAL AGRICULTURAL
@@ -5007,7 +5007,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 142
+=== Page 142 ===
 
 FGL
 ENVIRONMENTAL AGRICULTURAL
@@ -5075,7 +5075,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 143
+=== Page 143 ===
 
 December 22, 2023
 . Lab No. 1 VI 2348243
@@ -5136,13 +5136,13 @@ anaIysis.
 ND Non-detect - ResuIt was beIow the DQO listed for the anaIyte.
 Page 12 of 13 Page 12 of 13
 
-PDF PAGE BREAK 144
+=== Page 144 ===
 
 ExpIanation
 435 SampIe matrix may be affecting this anaIyte. Data was accepted based on the LCS or CCV recovery.
 Page 13 of 13 Page 13 of 13
 
-PDF PAGE BREAK 145
+=== Page 145 ===
 
 wagy Laboratory AnaIysis Work Order 2 2NeL42 3455
 SITE NAME Vherra BIanca LABORATORY -vF FGL 4-19696
@@ -5207,7 +5207,7 @@ LABORATORY USE ONLY 7 i
 
 WT eae
 
-PDF PAGE BREAK 146
+=== Page 146 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of I

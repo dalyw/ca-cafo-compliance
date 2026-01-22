@@ -46,7 +46,7 @@ This owner is responsible for paying permit fees.
 Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tulare Basin
 07/02/2024 12:38:57 Page 1 of 12
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -63,7 +63,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 2 of 12
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -106,7 +106,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 3 of 12
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -125,7 +125,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 4 of 12
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -152,7 +152,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 5 of 12
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -168,7 +168,7 @@ No application area crops entered.
 Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tulare Basin
 07/02/2024 12:38:57 Page 6 of 12
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -207,7 +207,7 @@ No subsurface (tile) drainage analyses entered.
 Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tulare Basin
 07/02/2024 12:38:57 Page 7 of 12
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -242,7 +242,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 8 of 12
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -326,7 +326,7 @@ Ibs
 
 Page 9 of 12
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -372,7 +372,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 10 of 12
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -388,7 +388,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 11 of 12
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -409,7 +409,7 @@ DATE DATE
 Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tulare Basin
 07/02/2024 12:38:57 Page 12 of 12
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -444,7 +444,7 @@ Sid De Boer Dairy | 21622 South Cedar AVE | Laton, CA 93242 | Fresno County | Tu
 
 07/02/2024 12:38:57 Page 1 of 1
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 

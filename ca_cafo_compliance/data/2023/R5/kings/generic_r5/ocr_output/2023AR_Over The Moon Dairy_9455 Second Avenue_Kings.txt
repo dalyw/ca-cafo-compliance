@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 1 of 32
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -63,7 +63,7 @@ WeIl 9472 1 1/2 Ave Ground water
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 2 of 32
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -88,7 +88,7 @@ Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 
 06/10/2024 154449 Page 3 of 32
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -122,7 +122,7 @@ Total actual harvest content 27.86 266.29 47.34 244.59 1,025.69
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 4 of 32
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -149,7 +149,7 @@ FieId name FL-19
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 5 of 32
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -171,7 +171,7 @@ Total actual harvest content 26.00 269.08 62.98 295.80 1,202.29
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 6 of 32
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -204,7 +204,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 7 of 32
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -237,7 +237,7 @@ AppIication event totaIs 12.77 0.00 0.00 588.27
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 8 of 32
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -267,7 +267,7 @@ AppIication event totaIs 21.45 0.00 0.00 448.76
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 9 of 32
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -298,7 +298,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 10 of 32
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -330,7 +330,7 @@ AppIication event totaIs 76.23 16.25 82.11 1,015.62
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 11 of 32
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -369,7 +369,7 @@ FL-19 - 06/19/2023. Corn, siIage
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 12 of 32
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -403,7 +403,7 @@ AppIication event totaIs 17.06 0.00 0.00 356.95
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 15.4449 Page 13 of 32
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -416,7 +416,7 @@ AppIication event totaIs 18.30 0.00 0.00 382.86
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 14 of 32
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -450,7 +450,7 @@ AppIied to removed ratio 1.29 2.42 0.99 1.17
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 15 of 32
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -484,7 +484,7 @@ AppIied to removed ratio 1.34 1.77 0.89 4.01
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 16 of 32
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -518,7 +518,7 @@ AppIied to removed ratio 1.36 0.74 0.75 2.99
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 17 of 32
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -552,7 +552,7 @@ AppIied to removed ratio 1.29 0.73 1.01 3.14
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 18 of 32
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -587,7 +587,7 @@ AppIied to removed ratio 1.26 0.90 0.87 2.13
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 19 of 32
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -620,7 +620,7 @@ AppIied to removed ratio 1.20 0.82 0.99 3.41
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 20 of 32
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -654,7 +654,7 @@ B. PROCESS WASTEWATER ANALYSES
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 21 of 32
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -689,7 +689,7 @@ DL 10.00 2.00 2.00 2.00 0.20 0.50 100.00 10
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 22 of 32
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -721,7 +721,7 @@ WeIl 410S
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 23 of 32
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -753,7 +753,7 @@ D. SOIL ANALYSES
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 24 of 32
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -779,7 +779,7 @@ FL-17 - 04/18/2023 Corn, siIage
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 25 of 32
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -810,7 +810,7 @@ DL 500.00 200.00 200.00 0.05
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 26 of 32
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -827,7 +827,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 27 of 32
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -860,7 +860,7 @@ N P K saIt
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 28 of 32
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -888,7 +888,7 @@ lbs lbs
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 29 of 32
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -918,7 +918,7 @@ wastewater that are new or were revised within the reporting period
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 30 of 32
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -928,7 +928,7 @@ No notes entered for this annual report.
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 31 of 32
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -947,7 +947,7 @@ Neen
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 32 of 32
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -971,7 +971,7 @@ Storm Water Reporting Section on page MRP-14.
 Over the Moon Dairy 9455 2nd Avenue Hanford, CA 93230 Kings County TuIare Basin
 06/10/2024 154449 Page 1 of 1
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 FGL
 ENVIRONMENTAL _ AGRICULTURAL
@@ -1016,7 +1016,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 j-N
 ENVIRONMENTAL AGRICULTURAL
@@ -1054,7 +1054,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 FGE
 ENVIRONMENTAL AGRICULTURAL
@@ -1093,7 +1093,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (659)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 ,oss
 of x ,
@@ -1138,7 +1138,7 @@ oO u z f20 eff Es cu 2 a Dik is oss _
 EEESESE g8eE2 - Eas a 22383
 z QaoOrL
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_14.DOC
 Revision Date 10/10/23 Page 1 of 1
@@ -1186,7 +1186,7 @@ Initiated By Tote
 ResoIution Wi Ay Service
 (PIease use the back of this sheet for additional comments or cc iv ae 46
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 DELLAVALLE Report of Dairy WeIl Water AnaIysis
 LABORATORY INC Lab No. 23K0978
@@ -1214,7 +1214,7 @@ ELAP Certification 41595
 A2LA Certification 46440.02
 DeIlavaiIe Laboratory, Inc - 1910 W McKinIey 4110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.deIlavaiIelab.com See Attached for AnaIysis Documentation Page 1 of 2
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 2ELLAVALLE Report of Dairy WeIl Water AnaIysis
 LABORATORY INC Lab No. 23K0978
@@ -1247,7 +1247,7 @@ SM Standard Methods for the Examination of Water and Wastewater
 EPA Environmental Protection Agency methods used unIess otherwise indicated.
 DeIlavaIle Laboratory, Inc - 1910 W McKinIey 110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.deIlavaIleIab.com See Attached for AnaIysis Documentation Page 2 of 2
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 ZELLAVALLE Report of Dairy WeIl Water AnaIysis
 LABORATORY INC Lab No. 23K0979
@@ -1273,7 +1273,7 @@ ELAP Certification 1595
 A2LA Certification 46440.02
 DeIlavaIie Laboratory, Inc - 1910 W McKinIey 110 - Fresno CA 93728 - (859) 233- 6129 - (800) 228-9896 -www.deIlavaIleIab.com See Attached for AnaIysis Documentation Page 1 of 2
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 DELLAVALLE Report of Dairy WeIl Water AnaIysis
 LABORATORY INC Lab No. 23K0979

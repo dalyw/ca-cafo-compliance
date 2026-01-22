@@ -42,7 +42,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 1 of 13
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -81,7 +81,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 2 of 13
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -169,7 +169,7 @@ TDS
 
 Page 3 of 13
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -192,7 +192,7 @@ No application area fields entered.
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 4 of 13
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -208,7 +208,7 @@ No application area crops entered.
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 5 of 13
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -245,7 +245,7 @@ DL 67.00 0.57 0.01 0.01 0.67 0.01 1.00 19
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 6 of 13
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -276,7 +276,7 @@ Domestic
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 7 of 13
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Domestic
@@ -303,7 +303,7 @@ No subsurface (tile) drainage analyses entered.
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 8 of 13
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -338,7 +338,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 9 of 13
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -418,7 +418,7 @@ Ibs
 
 Page 10 of 13
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -464,7 +464,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 11 of 13
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -479,7 +479,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 12 of 13
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -501,7 +501,7 @@ DATE DATE
 C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 06/27/2024 07:48:31 Page 13 of 13
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -536,7 +536,7 @@ C&R Dairy | 18321 Idaho AVE | Lemoore, CA 93245 | Kings County | Tulare Basin
 
 06/27/2024 07:48:31 Page 1 of 1
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -607,7 +607,7 @@ Assessor's Parcel Number Assessors Parcel Number County
 
 Last date hauled: 04/28/2023
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -650,7 +650,7 @@ Operator Signature Date
 Hauler Signature Date
 
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -722,7 +722,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 01/18/2023
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -764,7 +764,7 @@ St
 
 Hauler Signature Date
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 SELLAVALLE™
 
 LABORATORY
@@ -842,7 +842,7 @@ party interpretation.
 
 Page 1 of 9
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -871,7 +871,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 9
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -902,7 +902,7 @@ party interpretation.
 
 Page 3 of 9
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -957,7 +957,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 9
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1009,7 +1009,7 @@ Page 5 of 9
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1097,7 +1097,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 9
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1134,7 +1134,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 7 of 9
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 i
 t
 
@@ -1253,7 +1253,7 @@ Signature
 
 Page 8 of 9
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 _ TT .
 
 12/13/23 14:50 23L0811
@@ -1301,7 +1301,7 @@ Other:
 other ne oe EE
 
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1356,7 +1356,7 @@ party interpretation.
 
 Page 1 of 6
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1382,7 +1382,7 @@ Page 2 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1471,7 +1471,7 @@ Page 3 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1541,7 +1541,7 @@ party interpretation.
 
 Page 4 of 6
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 STINT J
 
 08/17/23 08:42 23H1592 ee
@@ -1606,7 +1606,7 @@ Location: Laboratory
 
 | Page 5 of 6
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Ml an
 
 23H1592

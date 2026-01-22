@@ -47,7 +47,7 @@ This owner is responsible for paying permit fees.
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 19:43:09 Page 1 of 11
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -87,7 +87,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 2 of 11
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -104,7 +104,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 3 of 11
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -133,7 +133,7 @@ No application area fields entered.
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 19:43:09 Page 4 of 11
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -149,7 +149,7 @@ No application area crops entered.
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 19:43:09 Page 5 of 11
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -185,7 +185,7 @@ No subsurface (tile) drainage analyses entered.
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 19:43:09 Page 6 of 11
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -220,7 +220,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 7 of 11
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -268,7 +268,7 @@ Ibs
 
 Page 8 of 11
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -314,7 +314,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 9 of 11
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -329,7 +329,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 10 of 11
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -350,7 +350,7 @@ DATE DATE
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 19:43:09 Page 11 of 11
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -385,7 +385,7 @@ Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County 
 
 06/29/2024 19:43:09 Page 1 of 1
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023. 4
 CERTIFICATION
@@ -411,7 +411,7 @@ OO NSwSn— Oo SSS
 Grain Mill Group East | 4604 W Harlan AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/29/2024 16:41:12 i. Page 11 of 11
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 SELLAVALLE’ Report of Dairy Well Water Analysis
 
 LABORATORY INC Lab No.: 23L0769
@@ -448,7 +448,7 @@ A2LA Certification #6440.02
 Dellavaile Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 1
 
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 WIM Ss
 
 12/13/23 07:00 23L0769 .

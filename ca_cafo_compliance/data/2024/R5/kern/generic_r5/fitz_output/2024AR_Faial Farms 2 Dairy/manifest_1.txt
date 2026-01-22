@@ -1,0 +1,78 @@
+Solid/Liquid Manure Tracking Manifest
+Waste Generator Information
+Name
+Manuel Rosa Jr.
+Facility Name
+Faial Farms 2
+Facility Address
+18683 Magnolia Ave
+Facility City/State
+Shafter CA 93263
+Contact
+Name
+Manuel Rosa Jr.
+Number
+(661) 667-1016
+Manure Hauler / Processor Information
+Name
+T/M Composting
+Facility Address
+4322 Saco rd.
+Facility City/State
+Bakersfield CA 93308
+Contact
+Name
+Trina Payne
+Number
+800-995-8331
+Manure Destination
+Composting Facility
+Destination Information
+Name
+T/M Composting
+Facility Address
+4322 Saco Rd
+Facility City/State
+Bakersfield CA
+Contact
+Name
+Trina Payne
+Number
+800 995 8331
+Dates Hauled / Transferred
+Amount Hauled / Transferred
+Units
+Moisture %
+Jun 1 2024 - Jun 30 2024
+5997
+ton
+68 %
+Jul 1 2024 - Jul 31 2024
+6536
+ton
+64 %
+Aug 1 2024 - Aug 31 2024
+7878
+ton
+68 %
+Total
+20411
+If amount hauled / transferred is liquid then a "Waste Water
+Agreement" is required in compliance with Land Application
+Specification C.2 of the General Order R5-2007-0035.
+Does the operator have an agreement and is a Waste Water
+Agreement on file with the RWQCD?   NO
+I declare under the penalty of law that I personally examined
+and am familiar with the information submitted in this document
+and that based on my inquiry of those individuals immediately
+responsible for obtaining the information I believe that the
+information is true accurate and complete. I am aware that
+there are significant penalties for submitting false information.
+including the possibility of a fine and imprisonment for knowing
+violations.
+Signature of Owner
+Date
+12/30/2024
+Signature of Hauler
+Date
+12/30/2024

@@ -21,7 +21,7 @@ Existing Milk Cow Dairies for July 1, 2024.
 
 (See attached delivery confirmation)
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 8.
 9.
 
@@ -70,7 +70,7 @@ Yes. Number of discharges occurred (see Attachment H).
 
 MA INNovaATIVE AG SERVICES
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Holland's Dairy 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -123,7 +123,7 @@ MA INNovative AG SERVICES
 
 Page 2
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Holland's Dairy 2023
 
 CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD
@@ -172,7 +172,7 @@ BAI INNOVATIVE ac services
 
 Page 3
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 DocuSign Envelope ID: E4E82AC0-944D-42FA-93D6-09576CEA76E9
 
 Holland's Dairy 2023
@@ -197,7 +197,7 @@ Print Name Print Name
 BBB INNOVATIVE ac services
 Page 4
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Holland's Dairy 2023
 
 Estimated Manure and Nutrients Generated (Attachment A)
@@ -238,7 +238,7 @@ wastewater transferred offsite (Attachment C).
 
 Page 5
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -266,7 +266,7 @@ BA INNOVATIVE ac services
 
 Page 6
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Field Name: 1
 Corn, 40 Acres Planted on 06/12/2023
 
@@ -376,7 +376,7 @@ Extracted
 10,652
 
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -404,7 +404,7 @@ BA INNOVATIVE a6 services
 
 Page 8
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -434,7 +434,7 @@ MA NNovative AG SERVICES
 
 Page 9
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -470,7 +470,7 @@ MAINNovative AG SERVICES
 
 Page 10
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -505,7 +505,7 @@ aM INNOVATIVE Ac SERVICES
 
 Page 11
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -535,7 +535,7 @@ Al INNOVATIVE ac services
 
 Page 12
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -626,7 +626,7 @@ Extracted
 
 6,325
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -658,7 +658,7 @@ ZANNovative AG SERVICES
 
 Page 14
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -688,7 +688,7 @@ v// INNOVATIVE Ac SERVICES
 
 Page 15
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -717,7 +717,7 @@ MA NNovative AG SERVICES
 
 Page 16
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -746,7 +746,7 @@ BAINNOVATIVE ac services
 
 Page 17
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -776,7 +776,7 @@ BAI INNOVATIVE ac services
 
 Page 18
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -814,7 +814,7 @@ Mh INNOVATIVE ac services
 
 Page 19
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Field Name: 8
 Almonds, 107 Acres Planted on 11/14/2015
 
@@ -993,7 +993,7 @@ Extracted
 15,107
 
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1034,7 +1034,7 @@ MM NNovATIVE AG SERVICES
 
 Page 21
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1071,7 +1071,7 @@ M INNOVATIVE Ac SERVICES
 
 Page 22
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Holland's Dairy 2023
 Nutrient Applications (Attachment B)
 
@@ -1110,7 +1110,7 @@ AI INNOVATIVE ac services
 
 Page 23
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Holland's Dairy 2023
 
 Estimated Manure and Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
@@ -1138,7 +1138,7 @@ MA NNovative AG SERVICES
 
 Page 24
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Holland's Dairy 2023
 Land Application Area Description Technical Report (Attachment D)
 
@@ -1160,7 +1160,7 @@ MA NNovative AG SERVICES
 
 Page 25
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Holland's Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1200,7 +1200,7 @@ BA INNOVATIVE 4c services
 
 Page 26
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Holland's Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1230,7 +1230,7 @@ MA NNovative AG SERVICES
 
 Page 27
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Holland's Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1266,7 +1266,7 @@ MM INNOVATIVE Ac SERVICES
 
 Page 28
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Holland's Dairy 2023
 Lab Results Summary (Attachment E)
 
@@ -1294,7 +1294,7 @@ MA NNovative AG SERVICES
 
 Page 29
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Holland's Dairy 2023
 
 Planting and Harvest Information (Attachment F)
@@ -1330,7 +1330,7 @@ BA INNOVATIVE ac services
 
 Page 30
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Day January
 41 Light
 2 Light
@@ -1734,7 +1734,7 @@ None
 Light
 None
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 ENVIRONMENTA AGRICULTURAL
 
 Analytical Chemists
@@ -1809,7 +1809,7 @@ CA ELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 FGL
 
 ENVIRONMENTAL — AGRICULTUR,
@@ -1868,7 +1868,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 ENVIRONMENTAL AGRICU
 
 Analytical Chemists
@@ -1933,7 +1933,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 September 14, 2023
 
 Innovative Ag Services, LLC Tana, VL ASeeeoe
@@ -2043,12 +2043,12 @@ Note
 
 435
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Page 5 of 5
 
 Page 5 of 5
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 w:# O1)2
 
 Laboratory Analysi
@@ -2159,7 +2159,7 @@ PBi2y/23 362) _—
 
 ‘THE PANTER INC. - 559-992-5127
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 ENVIRONMENTAL === AGRICULTU
 
 Analytical Chemists
@@ -2239,7 +2239,7 @@ CAELAP Certification No. 1573
 
 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 FGL
 
 ENVIRONMENTAL AGRICULTURAL
@@ -2288,7 +2288,7 @@ Env FAX: (805)525-4172 / Ag FAX: (B06)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2338,7 +2338,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 November 2, 2023
 
 Innovative Ag Services, LLC pantie Be iceaal
@@ -2427,7 +2427,7 @@ Visalia, CA 93291
 TEL: (559)734-9473
 FAX: (559)734-8435,
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 November 2, 2023
 
 Innovative Ag Services, LLC Tab: BUSS OTES
@@ -2491,7 +2491,7 @@ Sulfate Sulfur 300.0 10/12/2023:211631LDM Blank mg/L ND <0.5
 
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 November 2, 2023
 
 Innovative Ag Services, LLC SHAE. Nee G86
@@ -2534,7 +2534,7 @@ Explanation
 
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 ID: # Oe
 SITE NAME: Ho?iA aps. Dah
 Billing: PAS
@@ -2653,7 +2653,7 @@ U,
 
 ‘THE PRITER INC, - 559-992-5127
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 ENVIRONMENT: AGRICULT
 
 lytical Chemists
@@ -2728,7 +2728,7 @@ CA LAP Certification No. 1573
 
 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 ENVIRONMENTAL — AGRICULTURAL
 
 Analytical Chemists
@@ -2788,7 +2788,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 ENVIRONMENTAL AGRICU
 
 Analytical Chemists
@@ -2831,7 +2831,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 hemists
 
 December 18, 2023
@@ -2896,7 +2896,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 December 18, 2023
 
 Innovative Ag Services, LLC pee) Meese
@@ -2960,7 +2960,7 @@ MS mg/L 12.00 84.4% <% 406
 
 Page 5 of 6 Page 5 of 6
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 December 18, 2023
 
 Innovative Ag Services, LLC Tan: pNigeee les
@@ -3004,7 +3004,7 @@ on the LCS or CCV recovery.
 
 Page 6 of 6 Page 6 of 6
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 ID: # ( ) He
 SITE NAME: Holl gad £ Don's
 Billing: AR
@@ -3105,7 +3105,7 @@ CHAIN OF CUSTODY RECORDING
 
 ‘THE PABITER INC. - 559-992-5127
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 AGRICULTURAL
 
 Analytical Chemists
@@ -3191,7 +3191,7 @@ TEL: (209)942-0182 TEL: (530)343-5818 TEL: (805)783-2940 TEL: (559)734-9473
 Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-3807 FAX: (805)783-2912 FAX: (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3234,7 +3234,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 MENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -3291,7 +3291,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No, 1573 CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CA ELAP Certification No, 2810
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 ENVIRONMENTAL AGRICULTURAL
 
 ytical Chemists
@@ -3363,7 +3363,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 January 2, 2024
 Innovative Ag Services, LLC
 
@@ -3662,11 +3662,11 @@ Page 5 of 6
 435
 435
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Page 6 of 6 Page 6 of 6
 
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 | Laboratory Analysis Work Order
 
 ID:#_Ov72

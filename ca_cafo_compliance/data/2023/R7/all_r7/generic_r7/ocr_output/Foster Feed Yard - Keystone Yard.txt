@@ -30,7 +30,7 @@ fos Of S
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 IIl. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were
@@ -70,7 +70,7 @@ es
 a Ga
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Vi. Instances of NoncompIiance Not PreviousIy Reported
 During the reporting period were there any instances of noncompIiance which have
@@ -92,7 +92,7 @@ of certify that a Manure Tracking Manifest has been prepared for each manure
 hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 Attachment G Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 OO Icertify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -123,7 +123,7 @@ process-inventory
 and finished
 Attachment G - Annual Report G-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 L
 &
@@ -215,7 +215,7 @@ o
 gs
 x
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 &
 S
@@ -306,7 +306,7 @@ oO
 iy
 tb
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 IV. Operation and Maintenance
 
@@ -349,7 +349,7 @@ needed.
 a eee AnaIytical ResuIts
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Source SampIe tec
 a. Identify the manure type (e.g., liquid, sIurry, soIid, compost, litter, etc.) that was sampIed
@@ -377,7 +377,7 @@ g. Indicate the caIcuIated amount of piant avaiIabIe nitrogen in the soil, if so
 were not used in caIcuIating nutrient appIication rates.
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 IV. Crop Growing Activity and Land AppIication
 For each fieId where manure, litter, or wastewater was appIied, report the actual crops
@@ -392,7 +392,7 @@ i Grown Unit sot Compost unuia OP soma Compost
 
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 a. List aIl fieIds where manure, Compost, litter, or process wastewater was appIied during the repo
 shouid correspond to those used in the approved NMP.
@@ -443,7 +443,7 @@ O A groundwater monitoring program is required for this faciIity.
 
 Attachment G Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 O1 Monitoring resuIts are attached.
 7 Monitoring resuIts are not attached. ExpIain
@@ -471,7 +471,7 @@ CoIorado River Basin Region
 PaIm Desert, CA. 92260
 Attachment G - Annual Report G-11
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 FOSTER FEED YARD, INC.
 3403 CASEY ROAD
@@ -509,7 +509,7 @@ Foster Feed Yard, inc.
 ManueIfosterfeedyard.com
 CC Jose Figueroa-Acevedo (jose figueroa-acevedowaterboards.ca.gov)
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Manure Tracking Manifest
 . CoIorado Regional Water QuaIity Control Board
@@ -550,7 +550,7 @@ Operators Signature
 Date
 HauIers Signature 4 ty A, On EA lL XN Date 33 J 23
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 MANURE REMOVAL _sIMIPE iS WIPOST
 Eebruary 2023
@@ -568,7 +568,7 @@ PO
 a
 Bi ON ae i .
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Manure Tracking Manifest
 CoIorado Regional Water QuaIity Control Board
@@ -607,7 +607,7 @@ Operators Signature-
 Date
 HauIers Signature 4 by VA e Li A X Date- 5 l l AS
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 agit REMOVAL IMP Hep jrosr
 Hest - Key Stone
@@ -628,7 +628,7 @@ ae
 ee eee
 _J
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Manure Tracking Manifest
 . CoIorado Regional Water QuaIity Control Board
@@ -667,7 +667,7 @@ Operators Signature-
 Date
 HauIers Signature- 4 bY A on 4 L N Date le a fos
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 MANURE REMOVAL MPERIAMEQIPOST
 Foster Feed Yard
@@ -681,7 +681,7 @@ a
           BrawIey, CA Oaaiige.
 iPr gs eed cS
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -727,7 +727,7 @@ Total 28 head 72.00 2,016.00 (ifn y
 13 babies 20.00 260.00
 2,276.00
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Keystone
 
@@ -803,7 +803,7 @@ Foster 28 head 72.00 2,016.00
 Keystone 32 head 72.00 2,304.00
 39 babies 20.00 780.00
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Total 60 head 72.00 4,320.00
 
@@ -812,7 +812,7 @@ Total 5,360.00
 Surcharge 59 3,162.40
 Total due 8,522.40
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -857,7 +857,7 @@ Keystone
 11/2/2023 1 72.00 72.00 iIo )
 11/4/2023 5 72.00 360.00
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 11/4/2023 2 babies 20.00 40.00
 11/6/2023 2 72.00 144.00
@@ -901,7 +901,7 @@ Foster 23 head 72.00 1,656.00
 Keystone 41 head 72.00 2,952.00
 36 babies 20.00 720.00
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Total 64 head 72.00 34,608.00
 
@@ -910,7 +910,7 @@ Total 5,568.00
 Surcharge 59 3,285.12
 Total due 8,853.12
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -955,7 +955,7 @@ Keystone /
 10/10/2023 2 72.00 144.00 jon 2
 10/11/2023 1 72.00 72.00
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 10/12/2023 1 72.00 72.00
 
@@ -1021,7 +1021,7 @@ Total 3,784.00
 Surcharge 59 2,232.56
 Total due 56,016.56
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1061,7 +1061,7 @@ Total 17 head 72.00 1,224.00 y
 1,404.00
 Keystone
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 9/1/2023 1 72.00 S72.00
 
@@ -1127,7 +1127,7 @@ Total 3,012.00
 Surcharge 59 1,777.08
 Total due 54,789.08
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1174,7 +1174,7 @@ Total 25 head 67.00 1,675.00
 Keystone af ay
    gIa qo
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 8/1/2023 2 567.00 134.00
 8/1/2023 3 babies 10,00 30.00
@@ -1222,7 +1222,7 @@ PDF PAGE BREAK 29
 Total 43 head S67.00 2,881.00
 31 babies 10.00 310.00
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 3,191.00
 
@@ -1239,7 +1239,7 @@ Total 5,036.00
 Surcharge 56 2,820.16
 Total due 57,856.16
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1284,7 +1284,7 @@ Keystone a
 7/1/2023 1 S67.00 S67.00
 7/1/2023 3 babies 10.00 30.00
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 7/2/2023 1 baby 10.00 10.00
 7/3/2023 2 67.00 134.00
@@ -1332,7 +1332,7 @@ Total 63 head 67.00 4,221.00
 
 1 caIf 10.00 10.00
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 4,561.00
 
@@ -1353,7 +1353,7 @@ Total 7,468.00
 Surcharge 56 54,182.08
 Total due 11,650.08
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1398,7 +1398,7 @@ Keystone eS &
 6/6/2023 2 567.00 134.00
 6/6/2023 2 babies 10.00 20.00
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 6/7/2023 1 67.00 67.00
 
@@ -1475,7 +1475,7 @@ Total 3,931.00
 Surcharge 56 2,201.36
 Total due 6,132.36
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1519,7 +1519,7 @@ Keystone
 5/9/2023 2 S60.00 120.00
 5/9/2023 2 babies 8,00 S16.00
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 5/10/2023 3 60.00 180.00
 
@@ -1589,7 +1589,7 @@ Total 3,228.00
 Surcharge 56 1,807.68
 Total due 5,035.68
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1635,7 +1635,7 @@ Keystone
 4/20/2023 12 baby 8.00 96.00
 4/24/2023 2 S60.00 120.00 .
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 4/25/2023 1 60.00 60.00
 
@@ -1663,7 +1663,7 @@ Total 2,728.00
 Surcharge 56 1,527.68
 Total due 54,255.68
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1709,7 +1709,7 @@ Keystone
 3/13/2023 3 babies 0.00 0.00
 3/14/2023 2 60.00 120.00
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 3/15/2023 4 babies S0.00 0.00
 
@@ -1757,7 +1757,7 @@ Total 45 head 60.00 2,700.00
 Surcharge 56 1,512.00
 Total due 4,212.00
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 GIenn FamiIy Commodities, LLC
 P. O. Box 13
@@ -1804,7 +1804,7 @@ A 2/10/2023 5 babies 0.00 0.00
 2/17/2023 1 baby S0.00 0.00
 2/18/2023 1 S8.00 S8.00
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 2/20/2023 1 558.00 58.00
 2/20/2023 1 baby 50.00 0.00
@@ -1831,7 +1831,7 @@ ders (0 xref
 _
 a1 tote
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 GIenn FamiIy Commodities, LLC
 P.O. Box 13 -
@@ -1876,7 +1876,7 @@ Keystone
 1/27/2023 3 babies 0.00 0.00
 1/30/2023 2 58.00 116.00
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Total 23 head 58.00 1,334.00
 Foster 7 head 558.00 406.00

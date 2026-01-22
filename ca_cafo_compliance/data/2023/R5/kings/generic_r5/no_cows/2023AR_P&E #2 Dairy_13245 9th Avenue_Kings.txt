@@ -38,7 +38,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/13/2024 20:33:09 Page 1 of 20
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -60,7 +60,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 Page 2 of 20
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -100,7 +100,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 3 of 20
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -117,7 +117,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 4 of 20
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -156,7 +156,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 5 of 20
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2
@@ -183,7 +183,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 6 of 20
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -221,7 +221,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 7 of 20
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -405,7 +405,7 @@ Salt (Ibs/acre) Amount
 
 Page 8 of 20
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -443,7 +443,7 @@ Application event totals 0.00 0.00 0.00 413.05
 Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 07/02/2024 23:18:56 Page 9 of 20
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -649,7 +649,7 @@ Amount
 
 Page 10 of 20
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -747,7 +747,7 @@ Plant date: 12/01/2022
 
 Page 11 of 20
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -838,7 +838,7 @@ Plant date: 12/01/2022
 
 Page 12 of 20
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -875,7 +875,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 13 of 20
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -916,7 +916,7 @@ DL 0.01 0.01 0.01 0.01
 Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Basin
 07/02/2024 23:18:56 Page 14 of 20
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2 - 12/01/2022: Wheat, silage, boot stage
@@ -960,7 +960,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 Page 15 of 20
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1008,7 +1008,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 16 of 20
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1105,7 +1105,7 @@ Ibs
 
 Page 17 of 20
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1151,7 +1151,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 18 of 20
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1167,7 +1167,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 19 of 20
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035 : i
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1192,7 +1192,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 06/30/2024 10:27:41 Page 12 of 12
 
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -1227,7 +1227,7 @@ Paulo Bros Dairy | 13245 9th AVE | Hanford, CA 93230 | Kings County | Tulare Bas
 
 07/02/2024 23:18:56 Page 1 of 1
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 SELLAVALLE"™ Report of Dairy Well Water Analysis
 
 LABORATORY INC Lab No,; 22F1843
@@ -1261,7 +1261,7 @@ Approved By:
 Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 -www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 1
 
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 INA 4G’
 
 06/23/22 07:00 22F 1843

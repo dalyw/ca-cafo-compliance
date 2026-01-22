@@ -53,7 +53,7 @@ Sheeportambs
 Attachment G - Annual Report G-1
 
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Turkeys
 Chickens (broIers)
@@ -123,7 +123,7 @@ C. Amount of process wastewater transferred during the reporting period
 Attachment G - Annual Report G-2
 
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 V. Summary of Production Area Discharges
 Report aIl discharges of manure, litter, and process wastewater from the production
@@ -161,7 +161,7 @@ hauIing event that have occurred at this faciIity (Large CAFOs onIy).
 
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
 
@@ -205,7 +205,7 @@ finished
 Attachment G - Annual Report G-4
 
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 fp CS January February March April May June JuIy August September October November December
 
@@ -244,7 +244,7 @@ If any stormwater discharges from the composting operations were not anaIyzed fo
 
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 IV. Operation and Maintenance
 
@@ -294,7 +294,7 @@ needed.
 
 Attachment G - Annual Report G-6
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 a. Identify the manure type (e.g., liquid, sIurry, soIid, compost, litter, etc.) that was sampIed and the storage
 structure sampIed (if more than one structure used to store that type of manure). Use a separate line for each
@@ -328,7 +328,7 @@ caIcuIating nutrient appIication rates.
 
 Attachment G - Annual Report G-7
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 IV. Crop Growing Activity and Land AppIication
 
@@ -347,7 +347,7 @@ Units
 
 Attachment G - Annual Report G-8
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 PIanned Manure to be AppIied Actual Manure AppIied
 
@@ -370,7 +370,7 @@ g. lIfOther is seIected, write in the type of manure, litter, or wastewater to b
 
 Attachment G - Annual Report G-9
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 For each fieId where manure, compost, litter, or wastewater was appIied, report the spreadabIe acres and the amount of total
 nitrogen and phosphorus appIied per acre from commercial fertiIizer during the 12-month reporting period. Attach additional
@@ -402,7 +402,7 @@ in the approved NMP
 
 Attachment G - Annual Report G-10
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 
@@ -419,7 +419,7 @@ YY Not appIicabIe. A groundwater monitoring program is not required for this fac
 Attachment G - Annual Report G-1
 
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 PARTE - CERTIFICATION
 

@@ -45,7 +45,7 @@ Mailing Address Number and Street City State Zip Code
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 1 of 31
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -87,7 +87,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 2 of 31
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -112,7 +112,7 @@ Total exports for all materials 116,386.70 39,548.88 87,007.54 0.00
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 3 of 31
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -153,7 +153,7 @@ Total actual harvest content 21.20 185.46 39.84 245.90 1,251.50
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 4 of 31
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -279,7 +279,7 @@ TFS (%)
 
 Page 5 of 31
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -309,7 +309,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 6 of 31
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -445,7 +445,7 @@ Precipitation 24 hours following
 
 Page 7 of 31
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -664,7 +664,7 @@ Amount
 
 Page 8 of 31
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 1 - 06/28/2023: Corn, silage
@@ -774,7 +774,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 Page 9 of 31
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -812,7 +812,7 @@ Application event totals 0.00 0.00 0.00 38.59
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 10 of 31
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -848,7 +848,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 11 of 31
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -886,7 +886,7 @@ Application event totals 66.53 15.21 183.90 535.76
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 12 of 31
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1102,7 +1102,7 @@ Amount
 
 Page 13 of 31
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1118,7 +1118,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 14 of 31
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1156,7 +1156,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 15 of 31
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1194,7 +1194,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 16 of 31
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1230,7 +1230,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 17 of 31
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1268,7 +1268,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 18 of 31
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1305,7 +1305,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 19 of 31
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1344,7 +1344,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 20 of 31
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -1387,7 +1387,7 @@ DL 10.00 2.00 0.10 0.10 0.20 0.50 100.00 10
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 21 of 31
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1428,7 +1428,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 Page 22 of 31
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -1471,7 +1471,7 @@ D. SOIL ANALYSES
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/06/2024 13:06:58 Page 23 of 31
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 No soil analyses entered.
@@ -1512,7 +1512,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 Page 24 of 31
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 2 - 11/16/2022: Triticale, soft dough
@@ -1564,7 +1564,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 Page 25 of 31
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 3 - 06/30/2023: Corn, silage
@@ -1591,7 +1591,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 Page 26 of 31
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1643,7 +1643,7 @@ ME Harvested
 
 Page 27 of 31
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1690,7 +1690,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 28 of 31
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1736,7 +1736,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 29 of 31
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1749,7 +1749,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 30 of 31
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -1771,7 +1771,7 @@ DATE DATE
 Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basin
 06/11/2024 08:58:43 Page 31 of 31
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -1806,7 +1806,7 @@ Del Arco Dairy | 4738 120 AVE | Corcoran, CA 93212 | Tulare County | Tulare Basi
 
 06/06/2024 13:06:58 Page 1 of 1
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 ENVIRONMENTAL AGRICULTURAL
 Analytical Chemists
 
@@ -1878,7 +1878,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -1921,7 +1921,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -1987,7 +1987,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Laboratory Analysis Work Order Q2¢/ y , SD 3043
 
 sITENAME: [Owor Wie T.D.- LABORATORY: VT
@@ -2040,7 +2040,7 @@ TABORATORY USE ONLY
 Logged In By: Total Samples: Laboratory No.:
 
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 FGL Environmental "Doe ID: 3D0900002_SOP_12.DOC
 Revision Date: 10/09/14 Page 1 of 1
 
@@ -2118,7 +2118,7 @@ Resolution: . Ml 2344187
 
 tto vs
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2191,7 +2191,7 @@ CAELAP Certification No. 1573
 
 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2246,7 +2246,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CAELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 ENVIRONMENTAL AGRICULTURAL
 
 Analytical Chemists
@@ -2321,7 +2321,7 @@ Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423 FAX: (530)343-
 
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 December 27, 2023
 
 Sentry Ag Service Lab No. : VI 2348559
@@ -2380,7 +2380,7 @@ analysis.
 
 Page 4 of 4 Page 4 of 4
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 No. _ 3505
 
 Laboratory Analysis Work Order
@@ -2454,7 +2454,7 @@ Logged In By: Total Samples:
 
 iI
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 FGL Environmental Doc ID:
 00_uno_temp17754627647086214641.DOC
 Revision Date: 10/10/23 Page 1 of 1
@@ -2527,7 +2527,7 @@ Resolution: Sentry Ag Service .
 
 a “TOR
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 ATTACHMENT D
 Wanure/Process Wastewater Tracking Manifest
 
@@ -2583,7 +2583,7 @@ Manure Solids Content (if amount reported in tons):
 Manure Density (if amount reported in cubic yards):
 
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Attachment D D-2
 
 Waste Discharge Requirements General Order No. R5-2007-0035

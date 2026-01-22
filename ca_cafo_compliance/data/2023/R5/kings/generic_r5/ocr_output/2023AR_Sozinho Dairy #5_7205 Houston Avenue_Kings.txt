@@ -27,7 +27,7 @@ This owner is responsible for paying permit fees.
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 1 of 48
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -61,7 +61,7 @@ Canal Surface water
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 2 of 48
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -85,7 +85,7 @@ Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 
 06/30/2024 090204 Page 3 of 48
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -118,7 +118,7 @@ Field name 2H
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 4 of 48
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -149,7 +149,7 @@ Total actual harvest content 18.01 333.79 46.89 288.02 1,241.39
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 5 of 48
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -180,7 +180,7 @@ Total actual harvest content 17.87 222.75 32.25 232.83 833.55
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 6 of 48
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -212,7 +212,7 @@ Total actual harvest content 2747 313.64 49.78 383.34 1,282.77
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 7 of 48
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -235,7 +235,7 @@ Total actual harvest content 25.75 326.69 54.70 357.07 1,329.53
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 8 of 48
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -269,7 +269,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 9 of 48
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -300,7 +300,7 @@ Application event totals 0.00 0.00 0.00 11.31
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 10 of 48
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -331,7 +331,7 @@ Application event totals 0.00 0.00 0.00 11.31
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 11 of 48
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -362,7 +362,7 @@ Application event totals 0.00 0.00 0.00 8.73
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 12 of 48
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -394,7 +394,7 @@ Application event totals 70.27 14.80 66.83 531.99
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 13 of 48
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -425,7 +425,7 @@ Application event totals 0.00 0.00 0.00 13.02
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 14 of 48
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -464,7 +464,7 @@ Application event totals 96.17 11.34 69.13 409.31
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 15 of 48
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -497,7 +497,7 @@ Application event totals 0.00 0.00 0.00 12.82
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 16 of 48
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -528,7 +528,7 @@ Application event totals 192.34 22.68 138.27 799.87
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 17 of 48
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -558,7 +558,7 @@ Application event totals 0.00 0.00 0.00 8.63
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 18 of 48
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -589,7 +589,7 @@ Application event totals 0.00 0.00 0.00 10.76
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 19 of 48
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -623,7 +623,7 @@ Crop Wheat, silage, boot stage Plant date 11/01/2022
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 20 of 48
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -654,7 +654,7 @@ Application date Application method Precipitation 24 hours prior Precipitation d
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 21 of 48
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -685,7 +685,7 @@ Application event totals 0.00 0.00 0.00 12.16
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 22 of 48
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -703,7 +703,7 @@ Application event totals 0.00 0.00 0.00 12.16
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 23 of 48
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -738,7 +738,7 @@ Applied to removed ratio 1.26 0.59 0.58 0.91
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 24 of 48
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -773,7 +773,7 @@ Applied to removed ratio 1.33 0.65 0.74 0.99
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 25 of 48
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -807,7 +807,7 @@ Applied to removed ratio 1.31 1.18 0.93 2.11
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 26 of 48
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -841,7 +841,7 @@ Applied to removed ratio 1.36 1.12 1.12 1.51
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 27 of 48
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -875,7 +875,7 @@ Applied to removed ratio 1.26 0.92 0.92 1.86
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 28 of 48
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -909,7 +909,7 @@ Applied to removed ratio 1.30 0.58 0.60 0.88
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 29 of 48
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -943,7 +943,7 @@ Applied to removed ratio 1.37 1.30 1.04 2.33
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 30 of 48
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -978,7 +978,7 @@ Applied to removed ratio 0.82 0.30 0.30 0.55
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 31 of 48
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1013,7 +1013,7 @@ Applied to removed ratio 1.31 0.62 0.59 0.97
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 32 of 48
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1047,7 +1047,7 @@ Applied to removed ratio 1.35 1.21 0.89 2.10
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 33 of 48
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1083,7 +1083,7 @@ Applied to removed ratio 1.37 0.55 0.59 0.70
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 34 of 48
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1118,7 +1118,7 @@ Applied to removed ratio 1.31 1.35 1.04 2.21
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 35 of 48
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1151,7 +1151,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 36 of 48
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1181,7 +1181,7 @@ Barn
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 37 of 48
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1208,7 +1208,7 @@ E. PLANT TISSUE ANALYSES
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 38 of 48
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1239,7 +1239,7 @@ DL 100.00 100.00 100.00 1.00
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 39 of 48
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1270,7 +1270,7 @@ DL 100.00 100.00 100.00 1.00
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 40 of 48
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1301,7 +1301,7 @@ DL 100.00 100.00 100.00 1.00
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 41 of 48
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1332,7 +1332,7 @@ DL 100.00 100.00 100.00 1.00
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 42 of 48
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 F. SUBSURFACE (TILE) DRAINAGE ANALYSES
@@ -1340,7 +1340,7 @@ No subsurface (tile) drainage analyses entered.
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 43 of 48
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1373,7 +1373,7 @@ N P K salt
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 44 of 48
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1407,7 +1407,7 @@ Ibs Ibs
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 45 of 48
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1437,7 +1437,7 @@ wastewater that are new or were revised within the reporting period
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 46 of 48
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1453,7 +1453,7 @@ Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 
 06/30/2024 090204 Page 47 of 48
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annuai Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1469,7 +1469,7 @@ DATE DATE
 Sozinho Dairy 45 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Sasin
 06/14/2024 104422 Page 48 of 48
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1493,7 +1493,7 @@ Storm Water Reporting Section on page MRP-14.
 Sozinho Dairy 5 7205 Houston AVE Hanford, CA 93230 Kings County Tulare Basin
 06/30/2024 090204 Page 1 of 1
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Sozinho 45 Account 00-0025831 Received 12/13/2023 700
 12252 7th Ave Account Manager Ben Nydam Reported 12/20/2023 1213
@@ -1534,7 +1534,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 8
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Sozinho 45 Account 00-0025831 Received 12/13/2023 700
 12252 7th Ave Account Manager Ben Nydam Reported 12/20/2023 1213
@@ -1556,7 +1556,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 8
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 T
 a
@@ -1603,7 +1603,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 8
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 a
 Sozinho 5 Account 00-0025831 Received 12/13/2023 700
@@ -1643,7 +1643,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 8
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 T
 a
@@ -1696,7 +1696,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 5 of 8
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Sozinho 45 Account 00-0025831 Received 12/13/2023 700
 12252 7th Ave Account Manager Ben Nydam Reported 12/20/2023 1213
@@ -1720,7 +1720,7 @@ party interpretation.
 1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 12/13/23 0700 23L0690 9 ne
 DELLAVALLE LABORATORY, INC.
@@ -1768,7 +1768,7 @@ Sample received in cooler with ice
 Amt Paid Rec B Check No. Date L 1Yes 1 No eftupdate 2020
 Page 7 of 8
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 OT ,
 12/13/23 07-00 2310690
@@ -1807,7 +1807,7 @@ a A A PN
 
 others dT Page 8 of 8
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Sozinho 45 Account 00-0025831 Received 08/17/2023 838
 12252 7th Ave Account Manager Ben Nydam Reported 08/21/2023 1517
@@ -1844,7 +1844,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 1 of 6
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Sozinho 45 Account 00-0025831 Received 08/17/2023 838
 12252 7th Ave Account Manager Ben Nydam Reported 08/21/2023 1517
@@ -1862,7 +1862,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 2 of 6
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 a
 Sozinho 5 Account 00-0025831 Received 08/17/2023 8138
@@ -1901,7 +1901,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 3 of 6
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 T
 a
@@ -1937,7 +1937,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 4 of 6
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 08/17/23 0838 23H1605 ft
 DELLAVALLE LABORATORY, INC.
@@ -1995,7 +1995,7 @@ Location Laboratory
 
 Page 5 of 6
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Ny
                       AAA N

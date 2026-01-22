@@ -30,7 +30,7 @@ MaiIing Address Number and Street City State Zip Code
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 1 of 35
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -65,7 +65,7 @@ This owner is responsibIe for paying permit fees.
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 2 of 35
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -99,7 +99,7 @@ Eastman Canal Surface water
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 3 of 35
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -123,7 +123,7 @@ Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 
 06/28/2024 144916 Page 4 of 35
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -156,7 +156,7 @@ Total actual harvest content 14.68 159.35 36.46 222.82 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 5 of 35
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -187,7 +187,7 @@ Total actual harvest content 38.18 313.34 59.78 362.82 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 6 of 35
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -219,7 +219,7 @@ Total actual harvest content 19.84 339.22 51.78 371.36 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 7 of 35
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -240,7 +240,7 @@ Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 
 06/28/2024 144916 Page 8 of 35
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -273,7 +273,7 @@ AppIication event totaIs 0.12 0.00 0.00 116.23
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 9 of 35
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -306,7 +306,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 10 of 35
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -339,7 +339,7 @@ AppIication event totaIs 27.91 5.23 44.40 236.73
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 11 of 35
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -372,7 +372,7 @@ AppIication event totaIs 35.88 7.54 56.81 263.03
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 14.4916 Page 12 of 35
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -405,7 +405,7 @@ AppIication event totaIs 0.13 0.00 0.00 125.18
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 14.4916 Page 13 of 35
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -438,7 +438,7 @@ AppIication event totaIs 28.62 5.36 45.54 242.80
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 14.4916 Page 14 of 35
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -473,7 +473,7 @@ AppIication event totaIs 9.54 1.79 15.18 80.93
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 14.4916 Page 15 of 35
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -494,7 +494,7 @@ AppIication event totaIs 0.29 0.00 0.00 87.94
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 14.4916 Page 16 of 35
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -532,7 +532,7 @@ AppIied to removed ratio 0.62 0.53 0.66 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 17 of 35
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -567,7 +567,7 @@ AppIied to removed ratio 0.51 0.51 0.55 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 18 of 35
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -603,7 +603,7 @@ AppIied to removed ratio 0.42 0.31 0.36 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 19 of 35
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -638,7 +638,7 @@ AppIied to removed ratio 0.35 0.40 0.37 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 20 of 35
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -672,7 +672,7 @@ AppIied to removed ratio 0.42 0.35 0.37 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 21 of 35
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -706,7 +706,7 @@ AppIied to removed ratio 0.60 0.63 0.65 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 22 of 35
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -741,7 +741,7 @@ AppIied to removed ratio 0.19 0.22 0.24 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 23 of 35
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -775,7 +775,7 @@ AppIied to removed ratio 0.50 0.64 0.44 0.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 24 of 35
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -808,7 +808,7 @@ DL 0.70 0.20 0.01 0.02 0.20 1.00 10
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 25 of 35
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -839,7 +839,7 @@ Eastman Canal
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 26 of 35
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -866,7 +866,7 @@ FieId 1 - 05/01/2023 Corn, siIage
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 27 of 35
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -897,7 +897,7 @@ DL 100.00 100.00 100.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 28 of 35
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -928,7 +928,7 @@ DL 100.00 100.00 100.00
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 29 of 35
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -960,7 +960,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 30 of 35
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -996,7 +996,7 @@ N P K saIt
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 31 of 35
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1029,7 +1029,7 @@ lbs lbs
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 32 of 35
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1059,7 +1059,7 @@ wastewater that are new or were revised within the reporting period
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 33 of 35
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1069,7 +1069,7 @@ No notes entered for this annual report.
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 1449116 Page 34 of 35
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1085,7 +1085,7 @@ DATE DATE
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 35 of 35
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1109,7 +1109,7 @@ Storm Water Reporting Section on page MRP-14.
 Dry River Dairy 12718 Avenue 25 ChowchiIla, CA 93610 Madera County TuIare Basin
 06/28/2024 144916 Page 1 of 1
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.

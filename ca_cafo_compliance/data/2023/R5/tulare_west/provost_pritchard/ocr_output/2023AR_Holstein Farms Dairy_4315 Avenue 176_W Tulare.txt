@@ -27,7 +27,7 @@ Fax (559) 636-1177
 www.ppeng.com
 
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 HoIstein Farms . oe a 2023 Annual Report
 
@@ -69,7 +69,7 @@ PROVOST &
 PRITCHARE)
 
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 HoIstein Farms 2023 Annual Report
 
@@ -137,7 +137,7 @@ ez 2 OF 4
 PROVOS LA
 PRITCHARD
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 HoIstein Farms 2023 Annual Report
 
@@ -207,7 +207,7 @@ ez 3 OF 4
 PROVOS IA
 PRITCHARD
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 HoIstein Farms 2023 Annual Report
 
@@ -271,7 +271,7 @@ PROVOST A
 
 PRICHARD
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Dairy Name. HoIstein Farms Page 1 of 5
 Dairy Address. 4625 Ave 176
@@ -312,7 +312,7 @@ Number of months the dairy was occupied 12
 
 AttachmentA
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Dairy Name. HoIstein Farms Page 2 of 5
 Dairy Address. 4625 Ave 176
@@ -345,7 +345,7 @@ account for any losses or division into soIid or liquid portions.
 
 AttachmentA
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Dairy Name HoIstein Farms Page 3 of 5
 Dairy Address 4625 Ave 176
@@ -400,7 +400,7 @@ AIso, ash content is onIy required to be anaIyzed once every two years. The late
 
 AttachmentA
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Dairy Name HoIstein Farms Page 4 of 5
 Dairy Address 4625 Ave 176
@@ -429,7 +429,7 @@ AppIied Phosphorus
 
 AttachmentA
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Dairy Name HoIstein Farms Page 5 of 5
 Dairy Address 4625 Ave 176
@@ -460,7 +460,7 @@ Transferred Phosphorus
 
 AttachmentA
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Dairy Name HoIstein Farms Page 1 of 2
 Dairy Address 4625 Ave 176
@@ -515,7 +515,7 @@ A
 
 Attachment B
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Dairy Name HoIstein Farms Page 2 of 2
 Dairy Address 4625 Ave 176
@@ -540,7 +540,7 @@ ee
 
 Attachment B
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Dairy Name HoIstein Farms Page 1 of 9
 Dairy Address 4625 Ave 176
@@ -600,7 +600,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Dairy Name HoIstein Farms Page 2 of 9
 Dairy Address 4625 Ave 176
@@ -660,7 +660,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Dairy Name HoIstein Farms Page 3 of 9
 Dairy Address 4625 Ave 176
@@ -720,7 +720,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Dairy Name HoIstein Farms Page 4 of 9
 Dairy Address 4625 Ave 176
@@ -780,7 +780,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Dairy Name HoIstein Farms Page 5 of 9
 Dairy Address 4625 Ave 176
@@ -840,7 +840,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Dairy Name HoIstein Farms Page 6 of 9
 Dairy Address 4625 Ave 176
@@ -900,7 +900,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Dairy Name HoIstein Farms Page 7 of 9
 Dairy Address 4625 Ave 176
@@ -960,7 +960,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Dairy Name HoIstein Farms Page 8 of 9
 Dairy Address 4625 Ave 176
@@ -1020,7 +1020,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Dairy Name HoIstein Farms Page 9 of 9
 Dairy Address 4625 Ave 176
@@ -1080,7 +1080,7 @@ mineraIization. This incIudes both what is appIied during that growing season an
 
 Attachment C
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Dairy Name HoIstein Farms Page 1 of 3
 Dairy Address 4625 Ave 176
@@ -1107,7 +1107,7 @@ FieId ID Crop Acres PIant Date Crop Harvest Date Tons
 
 Attachment D
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Dairy Name HoIstein Farms Page 2 of 3
 Dairy Address 4625 Ave 176
@@ -1142,7 +1142,7 @@ FieId ID Crop Date Tons (wet) (dry) Moisture ss N ee ee ee ee eee K
 
 Attachment D
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Dairy Name HoIstein Farms Page 3 of 3
 Dairy Address 4625 Ave 176
@@ -1161,7 +1161,7 @@ BR-1 AIfaIfa 9/09/2023 264 209 20.99 3.40 0.30 2.14 14,184 1,265 8,914
 
 Attachment D
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Dairy Name HoIstein Farms Page 1 of 30
 Dairy Address 4625 Ave 176
@@ -1212,7 +1212,7 @@ mis2022 7.200 T2559. 479.0 15,119 3,544
 
 Attachment E
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Dairy Name HoIstein Farms Page 2 of 30
 Dairy Address 4625 Ave 176
@@ -1242,7 +1242,7 @@ N AppIied
 
 Attachment E
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Dairy Name HoIstein Farms Page 3 of 30
 Dairy Address 4625 Ave 176
@@ -1280,7 +1280,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Dairy Name HoIstein Farms Page 4 of 30
 Dairy Address 4625 Ave 176
@@ -1308,7 +1308,7 @@ Total - 101,500 0.0
 
 Attachment E
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Dairy Name HoIstein Farms Page 5 of 30
 Dairy Address 4625 Ave 176
@@ -1363,7 +1363,7 @@ N AppIied
 Attachment E
 
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Dairy Name HoIstein Farms Page 6 of 30
 Dairy Address 4625 Ave 176
@@ -1404,7 +1404,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Dairy Name HoIstein Farms Page 7 of 30
 Dairy Address 4625 Ave 176
@@ -1457,7 +1457,7 @@ Date (1,000 Gal) SampIe ID Source ID yPe Noon ONHaN TKN NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Dairy Name HoIstein Farms Page 8 of 30
 Dairy Address 4625 Ave 176
@@ -1510,7 +1510,7 @@ N AppIied
 Attachment E
 
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Dairy Name HoIstein Farms Page 9 of 30
 Dairy Address 4625 Ave 176
@@ -1545,7 +1545,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Dairy Name HoIstein Farms Page 10 of 30
 Dairy Address 4625 Ave 176
@@ -1598,7 +1598,7 @@ Date (1,000 Gal) SampIe ID Source ID ype Noon ONHaN TKN. _NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Dairy Name HoIstein Farms Page 11 of 30
 Dairy Address 4625 Ave 176
@@ -1653,7 +1653,7 @@ N AppIied
 Attachment E
 
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Dairy Name HoIstein Farms Page 12 of 30
 Dairy Address 4625 Ave 176
@@ -1688,7 +1688,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Dairy Name HoIstein Farms Page 13 of 30
 Dairy Address 4625 Ave 176
@@ -1741,7 +1741,7 @@ Date (1,000 Gal) SampIe ID Source ID ype Noon ONHaN TKN. _NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Dairy Name HoIstein Farms Page 14 of 30
 Dairy Address 4625 Ave 176
@@ -1796,7 +1796,7 @@ N AppIied
 Attachment E
 
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Dairy Name HoIstein Farms Page 15 of 30
 Dairy Address 4625 Ave 176
@@ -1831,7 +1831,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Dairy Name HoIstein Farms Page 16 of 30
 Dairy Address 4625 Ave 176
@@ -1884,7 +1884,7 @@ Date (1,000 Gal) SampIe ID Source ID ype Noon ONHaN TKN. _NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Dairy Name HoIstein Farms Page 17 of 30
 Dairy Address 4625 Ave 176
@@ -1925,7 +1925,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Dairy Name HoIstein Farms Page 18 of 30
 Dairy Address 4625 Ave 176
@@ -1955,7 +1955,7 @@ N AppIied
 
 Attachment E
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Dairy Name HoIstein Farms Page 19 of 30
 Dairy Address 4625 Ave 176
@@ -1994,7 +1994,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Dairy Name HoIstein Farms Page 20 of 30
 Dairy Address 4625 Ave 176
@@ -2047,7 +2047,7 @@ Date (1,000 Gal) SampIe ID Source ID yPe Noon ONHaN TKN _NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Dairy Name HoIstein Farms Page 21 of 30
 Dairy Address 4625 Ave 176
@@ -2087,7 +2087,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Dairy Name HoIstein Farms Page 22 of 30
 Dairy Address 4625 Ave 176
@@ -2122,7 +2122,7 @@ Total - 33,000 0.0
 
 Attachment E
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Dairy Name HoIstein Farms Page 23 of 30
 Dairy Address 4625 Ave 176
@@ -2161,7 +2161,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Dairy Name HoIstein Farms Page 24 of 30
 Dairy Address 4625 Ave 176
@@ -2214,7 +2214,7 @@ Date (1,000 Gal) SampIe ID Source ID yPe Noon ONHaN TKN _NAppIied
 
 Attachment E
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Dairy Name HoIstein Farms Page 25 of 30
 Dairy Address 4625 Ave 176
@@ -2259,7 +2259,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Dairy Name HoIstein Farms Page 26 of 30
 Dairy Address 4625 Ave 176
@@ -2285,7 +2285,7 @@ N AppIied
 
 Attachment E
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Dairy Name HoIstein Farms Page 27 of 30
 Dairy Address 4625 Ave 176
@@ -2320,7 +2320,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Dairy Name HoIstein Farms Page 28 of 30
 Dairy Address 4625 Ave 176
@@ -2349,7 +2349,7 @@ Total - 15,100 2,310.3
 
 Attachment E
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Dairy Name HoIstein Farms Page 29 of 30
 Dairy Address 4625 Ave 176
@@ -2390,7 +2390,7 @@ Irrigation AppIications
 
 Attachment E
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Dairy Name HoIstein Farms Page 30 of 30
 Dairy Address 4625 Ave 176
@@ -2417,7 +2417,7 @@ Total - 30,000 10,590.0
 
 Attachment E
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Dairy Name HoIstein Farms Page 1 of 1
 Dairy Address 4625 Ave 176
@@ -2442,7 +2442,7 @@ Note Nominal appIies to any weather condition that is not Precipitation or Stand
 
 Attachment F
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Dairy Name HoIstein Farms Page 1 of 2
 Dairy Address 4625 Ave 176
@@ -2491,7 +2491,7 @@ Grand Total 9,838 3.820 1.270 0.510 1.900 249,892 100,350 373,854
 
 Attachment G
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Dairy Name HoIstein Farms Page 2 of 2
 Dairy Address 4625 Ave 176
@@ -2513,7 +2513,7 @@ TotaIs / Averages
 
 Attachment G
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Dairy Name HoIstein Farms Page 1 of 8
 Dairy Address 4625 Ave 176
@@ -2544,7 +2544,7 @@ Source Location SampIe ID
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Dairy Name HoIstein Farms Page 2 of 8
 Dairy Address 4625 Ave 176
@@ -2579,7 +2579,7 @@ SampIe Date Location SampIe ID
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 Dairy Name HoIstein Farms Page 3 of 8
 Dairy Address 4625 Ave 176
@@ -2612,7 +2612,7 @@ UTS - UnabIe To SampIe (weIl needing repair, power disconnected, no ditch water 
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Dairy Name HoIstein Farms Page 4 of 8
 Dairy Address 4625 Ave 176
@@ -2634,7 +2634,7 @@ SampIe Date Source Type SampIe ID (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) (mg/l) mal 
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 Dairy Name HoIstein Farms Page 5 of 8
 Dairy Address 4625 Ave 176
@@ -2653,7 +2653,7 @@ Date FieId ID SampIe Location SampIe ID AnaIysis (mg/kg) a0 (mg/kg) (dS/m) _ (mg
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 Dairy Name HoIstein Farms Page 6 of 8
 Dairy Address 4625 Ave 176
@@ -2705,7 +2705,7 @@ ee ae ee ee ee ee
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 Dairy Name HoIstein Farms Page 7 of 8
 Dairy Address 4625 Ave 176
@@ -2731,7 +2731,7 @@ a a cede ae eee
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 Dairy Name HoIstein Farms Page 8 of 8
 Dairy Address 4625 Ave 176
@@ -2748,7 +2748,7 @@ FieId ID SampIe Location Description SampIe ID N (dry) NO3-N (mg/kg)
 
 Notes Laboratory detection limit listed beIow each resuIt. Attachment H
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 f
 .. Manure Tracking Manifest
@@ -2818,7 +2818,7 @@ Operators Signature
 
 FauIers Signature
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 ob Vianure Tracking Manifest
 
@@ -2894,7 +2894,7 @@ a
 HauIers Signature
 
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
  ad. Manure Tracking Manifest
 
@@ -2978,7 +2978,7 @@ Operators Signature
 
 HauIers Signature
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 Ne
 
@@ -3053,7 +3053,7 @@ GPS coordinates of the manure wastewatey destinatior.
 Dates HauIec. 3) -12-
 
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 JELLAVALLE
 
@@ -3116,7 +3116,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 16
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 JELLAVALLE
 
@@ -3147,7 +3147,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 16
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 
 JELLAVALLE
 
@@ -3180,7 +3180,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 16
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 
 JELLAVALLE
 
@@ -3213,7 +3213,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 16
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 
 JELLAVALLE
 
@@ -3246,7 +3246,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 16
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 
 JELLAVALLE
 
@@ -3279,7 +3279,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 16
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 
 JELLAVALLE
 
@@ -3312,7 +3312,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 16
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 
 JELLAVALLE
 
@@ -3345,7 +3345,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 16
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 
 JELLAVALLE
 
@@ -3378,7 +3378,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 16
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 
 SELLAVALLE
 
@@ -3443,7 +3443,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 16
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 
 JELLAVALLE
 
@@ -3534,7 +3534,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 11 of 16
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 
 JELLAVALLE
 
@@ -3574,7 +3574,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 12 of 16
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 
 JELLAVALLE
 
@@ -3665,7 +3665,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 13 of 16
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 
 JELLAVALLE
 
@@ -3705,7 +3705,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 14 of 16
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 
 AAO
 
@@ -3781,7 +3781,7 @@ pay
 a . Si Raat lea
 a ew . CS
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 
 YL
 
@@ -3838,7 +3838,7 @@ Othe
 
 Page 16 of 16
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 
 JELLAVALLE
 
@@ -3894,7 +3894,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 7
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 
 JELLAVALLE
 
@@ -3925,7 +3925,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 7
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 
 SELLAVALLE
 
@@ -3990,7 +3990,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 7
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 
 JELLAVALLE
 
@@ -4081,7 +4081,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 7
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 
 JELLAVALLE
 
@@ -4121,7 +4121,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 7
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 
 wun
 
@@ -4184,7 +4184,7 @@ Amt Pard Rec By Check No y Ves No ett upeate D020
 Page 6 of 7
 
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 
 veo lIiiini
 
@@ -4242,7 +4242,7 @@ other ppt
 
 Page 7 of 7
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 
 JELLAVALLE
 
@@ -4299,7 +4299,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 12
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 
 JELLAVALLE
 
@@ -4342,7 +4342,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 12
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 
 JELLAVALLE
 
@@ -4387,7 +4387,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 12
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 
 JELLAVALLE
 
@@ -4434,7 +4434,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4of 12
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 
 JELLAVALLE
 
@@ -4527,7 +4527,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 12
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 
 JELLAVALLE
 
@@ -4570,7 +4570,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 12
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 
 JELLAVALLE
 
@@ -4660,7 +4660,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 12
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 
 JELLAVALLE
 
@@ -4712,7 +4712,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 12
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 
 JELLAVALLE
 
@@ -4809,7 +4809,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 12
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 
 JELLAVALLE
 
@@ -4842,7 +4842,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 12
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 
 CU
 
@@ -4912,7 +4912,7 @@ Rec By Check No
 
 Page 11 of 12
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 
 Ue
 
@@ -4979,7 +4979,7 @@ a
 
 Page 12 of 12
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 
 JELLAVALLE
 
@@ -5036,7 +5036,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 1 of 12
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 
 JELLAVALLE
 
@@ -5079,7 +5079,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 2 of 12
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 
 JELLAVALLE
 
@@ -5124,7 +5124,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 3 of 12
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 
 JELLAVALLE
 
@@ -5171,7 +5171,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4of 12
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 
 JELLAVALLE
 
@@ -5264,7 +5264,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 12
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 
 JELLAVALLE
 
@@ -5307,7 +5307,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 6 of 12
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 
 JELLAVALLE
 
@@ -5397,7 +5397,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 7 of 12
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 
 JELLAVALLE
 
@@ -5449,7 +5449,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 8 of 12
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 
 JELLAVALLE
 
@@ -5546,7 +5546,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 9 of 12
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 
 JELLAVALLE
 
@@ -5579,7 +5579,7 @@ party interpretation.
 1910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 10 of 12
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 
 CU
 
@@ -5649,7 +5649,7 @@ Rec By Check No
 
 Page 11 of 12
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 
 Ue
 

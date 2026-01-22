@@ -29,7 +29,7 @@ Name of person making this report (pIease prinay Att Oostdam
 TitIe Operator
 Date January 12, 2024
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -75,7 +75,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors Yes O No
 
 1 ton of corral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -129,7 +129,7 @@ Signature-
 Date January 12, 2024
 Tite. Operator
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
  Form 4. Manure Tracking Menifent i
 Sesional Veter QueIiwe Comtrai Soard
@@ -170,7 +170,7 @@ eeu sean SRN Oe ope S223
 the Ragnnal Boag ay ent ior a cipy af mane mel aaa.
 2 GPS comdinates sheIl 00 prowded far af destiretons itis Pe Saree te Region.
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 4

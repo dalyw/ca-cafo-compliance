@@ -28,7 +28,7 @@ a
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 ill. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -92,7 +92,7 @@ noncompliance.
 
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 VII. Certification of Preparation of Inspection Logs And Manifests
 FI 1 certify that a CAFO Stormwater Management Structure Inspections Log has been prepared for
@@ -102,7 +102,7 @@ Rl I certify that a Manure Tracking Manifest has been prepared for each manure h
 have occurred at this facility (Large CAFOs only).
 Attachment G Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 a
 co)
@@ -226,7 +226,7 @@ a -
 &
 EI
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 IV. Operation and Maintenance
 
@@ -275,7 +275,7 @@ b. indicate the date of the sample results reported.
 c. Indicate the reporting units (i.e., mg/L, mg/kg, lb/ton, or Ib/1,000 gallons).
 Attachment G - Annual Report G-5
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Report the results of the most recent soil nutrient analyses used in calculating nutrient application rates for the
 crops harvested during the reporting year. If soil is not analyzed for nitrogen, report the calculated amount of plant
@@ -302,7 +302,7 @@ calculating nutrient application rates.
 Attachment G - Annual Report G-6
 eee
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 a
 o
@@ -401,7 +401,7 @@ sess) es S 1 &
 2 reg
 eee
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 no)
 o
@@ -504,7 +504,7 @@ a oouteerez oe i
 ) Scud OD x
 eee ee ee
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 g of g
 2 5 int 5
@@ -593,7 +593,7 @@ ee
 ia
 SSS pS SS yep ye es
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 PART D - GROUNDWATER MONITORING REPORT
 Attach the results of quarterly groundwater monitoring conducted in accordance with the CAFOs

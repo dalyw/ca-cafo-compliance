@@ -41,7 +41,7 @@ CA 93610 | Madera County | San Joaquin River Basin
 
 Page 1 of 112
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -65,7 +65,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 2 of 112
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -108,7 +108,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 3 of 112
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -144,7 +144,7 @@ No liquid nutrient exports entered.
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 4 of 112
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -197,7 +197,7 @@ H16-17 73 73 2 manure 0023-0110-0002-0000
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 5 of 112
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -318,7 +318,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 6 of 112
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 10
@@ -357,7 +357,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 7 of 112
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 2
@@ -396,7 +396,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 8 of 112
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -437,7 +437,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 9 of 112
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 3 EW
@@ -476,7 +476,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 10 of 112
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -517,7 +517,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 11 of 112
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 33
@@ -556,7 +556,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 12 of 112
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -667,7 +667,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 13 of 112
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -779,7 +779,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 14 of 112
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -922,7 +922,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 15 of 112
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 6 EW
@@ -961,7 +961,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 16 of 112
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1051,7 +1051,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 17 of 112
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 H14-15
@@ -1090,7 +1090,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 18 of 112
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 H16-17
@@ -1108,7 +1108,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 19 of 112
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1303,7 +1303,7 @@ Salt (Ibs/acre) Amount
 
 Page 20 of 112
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1374,7 +1374,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 21 of 112
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1535,7 +1535,7 @@ Amount
 
 Page 22 of 112
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1709,7 +1709,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 23 of 112
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1909,7 +1909,7 @@ Salt (Ibs/acre) Amount
 
 Page 24 of 112
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2093,7 +2093,7 @@ Salt (Ibs/acre) Amount
 
 Page 25 of 112
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2166,7 +2166,7 @@ Precipitation 24 hours following
 
 Page 26 of 112
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2205,7 +2205,7 @@ Application event totals 39.00 0.00 0.00 0.00
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 27 of 112
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2438,7 +2438,7 @@ Salt (Ibs/acre)
 
 Page 28 of 112
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2595,7 +2595,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 29 of 112
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 3 EW - 05/18/2023: Tomato
@@ -2734,7 +2734,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 30 of 112
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2775,7 +2775,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 31 of 112
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -2815,7 +2815,7 @@ Application event totals 62.29 15.28 65.29 284.40
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 32 of 112
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 33 - 12/23/2022: Wheat, silage, soft dough
@@ -2989,7 +2989,7 @@ Amount
 
 Page 33 of 112
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 33 - 06/20/2023: Corn, silage
@@ -3089,7 +3089,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 34 of 112
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3144,7 +3144,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 35 of 112
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3276,7 +3276,7 @@ Precipitation 24 hours following
 
 Page 36 of 112
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3317,7 +3317,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 37 of 112
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3485,7 +3485,7 @@ Precipitation 24 hours following
 
 Page 38 of 112
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3519,7 +3519,7 @@ Application event totals 151.51 37.17 158.82 704.97
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 39 of 112
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3736,7 +3736,7 @@ Salt (Ibs/acre) Amount
 
 Page 40 of 112
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -3878,7 +3878,7 @@ Precipitation 24 hours following
 
 Page 41 of 112
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4032,7 +4032,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 42 of 112
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 H14-15 - 10/31/2022: Wheat, silage, soft dough
@@ -4091,7 +4091,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 43 of 112
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4126,7 +4126,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 44 of 112
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4165,7 +4165,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 45 of 112
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4246,7 +4246,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 46 of 112
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4397,7 +4397,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 47 of 112
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4478,7 +4478,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 48 of 112
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4580,7 +4580,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 49 of 112
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4733,7 +4733,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 50 of 112
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4833,7 +4833,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 51 of 112
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -4871,7 +4871,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 52 of 112
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5026,7 +5026,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 53 of 112
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5064,7 +5064,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 54 of 112
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5213,7 +5213,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 55 of 112
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5267,7 +5267,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 56 of 112
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5416,7 +5416,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 57 of 112
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5569,7 +5569,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 58 of 112
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5718,7 +5718,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 59 of 112
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5871,7 +5871,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 60 of 112
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5913,7 +5913,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 61 of 112
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -5991,7 +5991,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 62 of 112
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6028,7 +6028,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 63 of 112
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6065,7 +6065,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 64 of 112
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6103,7 +6103,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 65 of 112
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6140,7 +6140,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 66 of 112
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6178,7 +6178,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 67 of 112
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6215,7 +6215,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 68 of 112
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6255,7 +6255,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 69 of 112
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6405,7 +6405,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 70 of 112
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6534,7 +6534,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 71 of 112
 
-PDF PAGE BREAK 71
+=== Page 71 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6621,7 +6621,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 72 of 112
 
-PDF PAGE BREAK 72
+=== Page 72 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6743,7 +6743,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 73 of 112
 
-PDF PAGE BREAK 73
+=== Page 73 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6895,7 +6895,7 @@ Plant date: 01/10/2017
 
 Page 74 of 112
 
-PDF PAGE BREAK 74
+=== Page 74 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -6939,7 +6939,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 75 of 112
 
-PDF PAGE BREAK 75
+=== Page 75 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7087,7 +7087,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 76 of 112
 
-PDF PAGE BREAK 76
+=== Page 76 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7221,7 +7221,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 77 of 112
 
-PDF PAGE BREAK 77
+=== Page 77 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7258,7 +7258,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 78 of 112
 
-PDF PAGE BREAK 78
+=== Page 78 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7371,7 +7371,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 79 of 112
 
-PDF PAGE BREAK 79
+=== Page 79 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -7414,7 +7414,7 @@ DL 1,000.00 1,000.00 1,000.00 0.10
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 80 of 112
 
-PDF PAGE BREAK 80
+=== Page 80 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7461,7 +7461,7 @@ Chloride EC TDS
 
 Page 81 of 112
 
-PDF PAGE BREAK 81
+=== Page 81 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7500,7 +7500,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 82 of 112
 
-PDF PAGE BREAK 82
+=== Page 82 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7541,7 +7541,7 @@ DW-1W
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 83 of 112
 
-PDF PAGE BREAK 83
+=== Page 83 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7583,7 +7583,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 84 of 112
 
-PDF PAGE BREAK 84
+=== Page 84 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7625,7 +7625,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 85 of 112
 
-PDF PAGE BREAK 85
+=== Page 85 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7667,7 +7667,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 86 of 112
 
-PDF PAGE BREAK 86
+=== Page 86 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7709,7 +7709,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 87 of 112
 
-PDF PAGE BREAK 87
+=== Page 87 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -7751,7 +7751,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 88 of 112
 
-PDF PAGE BREAK 88
+=== Page 88 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 No soil analyses entered.
@@ -7786,7 +7786,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 89 of 112
 
-PDF PAGE BREAK 89
+=== Page 89 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 10 - 06/10/2023: Corn, silage
@@ -7840,7 +7840,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 90 of 112
 
-PDF PAGE BREAK 90
+=== Page 90 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 28E - 06/15/2023: Corn, silage
@@ -7894,7 +7894,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 91 of 112
 
-PDF PAGE BREAK 91
+=== Page 91 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 3 EW - 11/03/2022: Wheat, silage, soft dough
@@ -7946,7 +7946,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 92 of 112
 
-PDF PAGE BREAK 92
+=== Page 92 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 31 - 06/08/2023: Tomato
@@ -7999,7 +7999,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 93 of 112
 
-PDF PAGE BREAK 93
+=== Page 93 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 33 - 12/23/2022: Wheat, silage, soft dough
@@ -8052,7 +8052,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 94 of 112
 
-PDF PAGE BREAK 94
+=== Page 94 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 34 - 06/21/2023: Corn, silage
@@ -8104,7 +8104,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 95 of 112
 
-PDF PAGE BREAK 95
+=== Page 95 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 35 - 11/12/2020: Alfalfa, hay
@@ -8156,7 +8156,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 96 of 112
 
-PDF PAGE BREAK 96
+=== Page 96 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 36 - 11/10/2020: Alfalfa, hay
@@ -8196,7 +8196,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 97 of 112
 
-PDF PAGE BREAK 97
+=== Page 97 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 36 - 11/10/2020: Alfalfa, hay
@@ -8248,7 +8248,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 98 of 112
 
-PDF PAGE BREAK 98
+=== Page 98 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 37 - 11/15/2019: Alfalfa, hay
@@ -8290,7 +8290,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 99 of 112
 
-PDF PAGE BREAK 99
+=== Page 99 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 38 - 11/15/2019: Alfalfa, hay
@@ -8330,7 +8330,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 100 of 112
 
-PDF PAGE BREAK 100
+=== Page 100 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 38 - 11/15/2019: Alfalfa, hay
@@ -8372,7 +8372,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 101 of 112
 
-PDF PAGE BREAK 101
+=== Page 101 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4 NS - 11/10/2019: Alfalfa, hay
@@ -8412,7 +8412,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 102 of 112
 
-PDF PAGE BREAK 102
+=== Page 102 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4 NS - 11/10/2019: Alfalfa, hay
@@ -8452,7 +8452,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 103 of 112
 
-PDF PAGE BREAK 103
+=== Page 103 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 4 NS - 11/10/2019: Alfalfa, hay
@@ -8506,7 +8506,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 104 of 112
 
-PDF PAGE BREAK 104
+=== Page 104 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 6 EW - 06/07/2023: Corn, silage
@@ -8561,7 +8561,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 105 of 112
 
-PDF PAGE BREAK 105
+=== Page 105 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Field 9 - 01/08/2017: Almond, in shell
@@ -8614,7 +8614,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 106 of 112
 
-PDF PAGE BREAK 106
+=== Page 106 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 H16-17 - 10/31/2022: Wheat, silage, soft dough
@@ -8658,7 +8658,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 107 of 112
 
-PDF PAGE BREAK 107
+=== Page 107 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -8694,7 +8694,7 @@ N Pp K salt
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 108 of 112
 
-PDF PAGE BREAK 108
+=== Page 108 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -8771,7 +8771,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 Page 109 of 112
 
-PDF PAGE BREAK 109
+=== Page 109 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -8816,7 +8816,7 @@ wastewater that are new or were revised within the reporting period?
 Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/29/2024 13:56:46 Page 110 of 112
 
-PDF PAGE BREAK 110
+=== Page 110 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -8834,7 +8834,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 111 of 112
 
-PDF PAGE BREAK 111
+=== Page 111 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -8860,7 +8860,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 i Page 112 of 112
 
-PDF PAGE BREAK 112
+=== Page 112 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -8895,7 +8895,7 @@ Triangle M Dairy | 11302 Avenue 18 1/2 | Chowchilla, CA 93610 | Madera County | 
 
 06/29/2024 13:56:46 Page 1 of 1
 
-PDF PAGE BREAK 113
+=== Page 113 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -8938,7 +8938,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 4 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 114
+=== Page 114 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -8981,7 +8981,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 5 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 115
+=== Page 115 ===
 DENELE ANALYTICAL, INC.
 
 865 S. KILROY DAIRY COMPLIANCE
@@ -9048,7 +9048,7 @@ submitted to any agency? (YES / NO)
 
 Required to be
 
-PDF PAGE BREAK 116
+=== Page 116 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9091,7 +9091,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 1 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 117
+=== Page 117 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9134,7 +9134,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 118
+=== Page 118 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9177,7 +9177,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 119
+=== Page 119 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9220,7 +9220,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 4 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 120
+=== Page 120 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9263,7 +9263,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 5 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 121
+=== Page 121 ===
 DENELE ANALYTICAL, INC.
 
 Client: — McREE TRIANGLE M DAIRY
@@ -9371,7 +9371,7 @@ AG ~5 130 |Loggedinsy:| LABORATORY NUM
 BER
 
 
-PDF PAGE BREAK 122
+=== Page 122 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9414,7 +9414,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 1 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 123
+=== Page 123 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9457,7 +9457,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 124
+=== Page 124 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9500,7 +9500,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 125
+=== Page 125 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9543,7 +9543,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 6 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 126
+=== Page 126 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9586,7 +9586,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 7 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 127
+=== Page 127 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9629,7 +9629,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 8 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 128
+=== Page 128 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9672,7 +9672,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 9 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 129
+=== Page 129 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9715,7 +9715,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 10 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 130
+=== Page 130 ===
 Client:
 
 Mailing address: 11812 Avenue 18, Chowchila CA 93610
@@ -9846,7 +9846,7 @@ LABORATORY NUMBER
 Required abe suprfitted to any agency? (YES / NO)
 
 
-PDF PAGE BREAK 131
+=== Page 131 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -9889,7 +9889,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 132
+=== Page 132 ===
 DENELE ANALYTIGAL, INC.
 
 865 S. KILROY DAIRY COMPLIANCE
@@ -9938,7 +9938,7 @@ DENELE ANALYTICAL, INC. | //- { 3 2340/13
 
 Required to be Submitted to any agency? (YES / NO)
 
-PDF PAGE BREAK 133
+=== Page 133 ===
 Pages from 2023 AR McREE TRIANGLE M
 DAIRY
 

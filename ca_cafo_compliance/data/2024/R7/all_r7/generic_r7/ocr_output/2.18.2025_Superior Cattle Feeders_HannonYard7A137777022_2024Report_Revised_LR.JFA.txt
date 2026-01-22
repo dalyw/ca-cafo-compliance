@@ -34,7 +34,7 @@ Annual Report
 Groundwater representative monitoring program is under deveIopment with RWQCB staff, most recent
 version was sent to RWQCB for review JuIy 2024.
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Were the production factors provided beIow used to estimate your manure information
 PRoDUCTIONS / PROVIDE OTHER PRODUCTION .
@@ -73,7 +73,7 @@ Composition (e.g., emergency overfIow of process wastewater from lagoon 42), and
  VoIume Give an estimate of the number of gaItons or tons of manure, litter, or process wastewater discharged.
 Annual Report
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Vi. INSTANCES OF NONCOMPLIANCE Not PREVIOUSLY REPORTED .
 During the reporting period were there any instances of noncompIiance, which have not been reported to .
@@ -103,7 +103,7 @@ maintained at this faciIity.
                              occurred at this faciIity. , .
 Annual Report
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 PART B - COMPOSTING INVENTORY
    I certify that no composting occurs at this faciIity. (If box is checked, skip to Part C.)
@@ -135,7 +135,7 @@ O Check if anaIysis resuIts are attached, .
 If any storm water discharges from the composting operations were not anaIyzed for the required parameters, expIain beIow.
 Annual Report 6-4
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 iV. OPERATION AND MAINTENANCE .
                   Document any erosion control or drainage probIems and/or reIated maintenance ,
@@ -169,7 +169,7 @@ C1 Oats CiRye Grass C1 VegetabIes
 ee eeeeeeeSeSSSSSSSS
 Annual Report .
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 PART D - CERTIFICATION
  certify under penaIty of law that this document and aIl attachments were prepared under my direct supervision in .

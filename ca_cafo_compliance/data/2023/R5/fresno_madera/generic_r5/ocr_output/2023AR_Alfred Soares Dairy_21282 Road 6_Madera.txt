@@ -45,7 +45,7 @@ This owner is responsible for paying permit fees.
 Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/28/2024 06:37:41 Page 1 of 22
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -106,7 +106,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 Page 2 of 22
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -138,7 +138,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 3 of 22
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -177,7 +177,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 4 of 22
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 R-2
@@ -205,7 +205,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 5 of 22
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -317,7 +317,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 Page 6 of 22
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -461,7 +461,7 @@ Precipitation 24 hours following
 
 Page 7 of 22
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -683,7 +683,7 @@ Amount
 
 Page 8 of 22
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -700,7 +700,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 9 of 22
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -745,7 +745,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 10 of 22
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -783,7 +783,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 11 of 22
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -823,7 +823,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 12 of 22
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -872,7 +872,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 Page 13 of 22
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -915,7 +915,7 @@ DL 1.20 0.60 0.10 10.00 1.00 1
 Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/28/2024 06:37:41 Page 14 of 22
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 C. FRESH WATER ANALYSES
@@ -958,7 +958,7 @@ DL 0.40 1.00
 Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County | San Joaquin River Basin
 06/28/2024 06:37:41 Page 15 of 22
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Domestic Well R2
@@ -1006,7 +1006,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 Page 16 of 22
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 R-2 - 05/29/2023: Sudangrass, silage
@@ -1046,7 +1046,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 Page 17 of 22
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1083,7 +1083,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 18 of 22
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1121,7 +1121,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 19 of 22
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1167,7 +1167,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 20 of 22
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1180,7 +1180,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 21 of 22
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -1202,7 +1202,7 @@ Alfred O. Soares Dairy | 21282 Road 6 RD | Chowchilla, CA 93610 | Madera County 
 
 06/28/2024 06:37:41 Page 22 of 22
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS

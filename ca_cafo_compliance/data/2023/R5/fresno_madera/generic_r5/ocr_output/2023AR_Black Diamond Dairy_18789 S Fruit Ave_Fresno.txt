@@ -39,7 +39,7 @@ Mailing Address Number and Street City State Zip Code
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 08:46:28 Page 1 of 19
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -78,7 +78,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 2 of 19
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -108,7 +108,7 @@ Total exports for all materials 268,056.80 83,495.43 317,637.77 6,615,785.15
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 08:46:28 Page 3 of 19
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -217,7 +217,7 @@ TFS (%)
 
 Page 4 of 19
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -382,7 +382,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 Page 5 of 19
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -598,7 +598,7 @@ Amount
 
 Page 6 of 19
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -625,7 +625,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 7 of 19
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -721,7 +721,7 @@ Applied to removed ratio 1.39 0.90
 
 Page 8 of 19
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -780,7 +780,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 Page 9 of 19
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -817,7 +817,7 @@ DL 67.00 0.57 0.01 0.01 0.64 0.01 1.00 19
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 08:46:28 Page 10 of 19
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -850,7 +850,7 @@ Ag
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 08:46:28 Page 11 of 19
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -902,7 +902,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 Page 12 of 19
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 Houses
@@ -945,7 +945,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 Page 13 of 19
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 401 - 06/01/2023: Corn, silage
@@ -973,7 +973,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 Page 14 of 19
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -1011,7 +1011,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 15 of 19
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1050,7 +1050,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 16 of 19
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -1096,7 +1096,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 17 of 19
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -1111,7 +1111,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 18 of 19
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -1132,7 +1132,7 @@ DATE DATE
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/30/2024 08:46:28 Page 19 of 19
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -1167,7 +1167,7 @@ Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | 
 
 06/30/2024 08:46:28 Page 1 of 1
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -1188,7 +1188,7 @@ DATE DATE
 Black Diamond Dairy | 18541 S Fruit AVE | Riverdale, CA 93656 | Fresno County | Tulare Basin
 06/14/2024 08:29:17 Page 19 of 19
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1252,7 +1252,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 10/25/2023
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1293,7 +1293,7 @@ med
 Hauler Signature Date
 
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1357,7 +1357,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 10/25/2023
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1383,7 +1383,7 @@ accurate, and complete. | am aware that there are significant penalties for subm
 fine and imprisonment for knowing violations.
 
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1448,7 +1448,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 05/20/2023
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1488,7 +1488,7 @@ Operal nature Date
 Dodi 1st whi td
 Hauler Signatu: Date
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1551,7 +1551,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 04/25/2023
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1591,7 +1591,7 @@ Oper i ire — Date
 —
 Hauler Signature Date
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1662,7 +1662,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 01/28/2023
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 Manure / Process Wastewater Tracking Manifest
 For
 
@@ -1703,7 +1703,7 @@ ignature Date
 
 Hauler Signature Date
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1774,7 +1774,7 @@ party interpretation.
 
 Page 1 of 8
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1801,7 +1801,7 @@ Page 2 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -1829,7 +1829,7 @@ Page 3 of 8
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 SELLAVALLE™
 
 LABORATORY
@@ -1933,7 +1933,7 @@ party interpretation.
 
 Page 4 of 8
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2020,7 +2020,7 @@ party interpretation.
 
 Page 5 of 8
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2092,7 +2092,7 @@ party interpretation.
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 Page 6 of 8
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 inl & /
 
 12/12/23 07:40 23L0604
@@ -2171,7 +2171,7 @@ Sample received in cooler with ice?
 
 Page 7 of 8
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 veo UUM
 
 23L0604
@@ -2234,7 +2234,7 @@ eee
 [UES CRSTSES ST ee I a ee
 
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2289,7 +2289,7 @@ party interpretation.
 
 Page 1 of 6
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2315,7 +2315,7 @@ Page 2 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 SELLAVALLE™
 
 LABORATORY INC
@@ -2404,7 +2404,7 @@ Page 3 of 6
 
 1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 SELLAVALLE™
 
 LABORATORY
@@ -2474,7 +2474,7 @@ party interpretation.
 
 Page 4 of 6
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 WU
 
 08/17/23 09:31 23H1588 pv
@@ -2545,7 +2545,7 @@ Location: Laboratory
 
 Page 5 of 6
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 WINNIE
 
 08/17/23 09:31

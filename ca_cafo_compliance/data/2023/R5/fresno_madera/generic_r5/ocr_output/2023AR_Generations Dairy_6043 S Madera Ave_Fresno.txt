@@ -39,7 +39,7 @@ Mailing Address Number and Street City State Zip Code
 
 Page 1 of 14
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 AVAILABLE NUTRIENTS
@@ -77,7 +77,7 @@ Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Ba
 
 06/17/2024 08:43:50 Page 2 of 14
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 E. SUBSURFACE (TILE) DRAINAGE SOURCES
@@ -107,7 +107,7 @@ Total exports for all materials 146,691.09 23,155.28 162,541.70 925,521.77
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 3 of 14
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 APPLICATION AREA
@@ -130,7 +130,7 @@ No application area fields entered.
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 4 of 14
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT BUDGET
@@ -146,7 +146,7 @@ No application area crops entered.
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 5 of 14
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT ANALYSES
@@ -188,7 +188,7 @@ B. PROCESS WASTEWATER ANALYSES
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 6 of 14
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -225,7 +225,7 @@ DL 0.50 0.50 0.50 0.50 0.50 2.00 1.00 10
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 7 of 14
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -264,7 +264,7 @@ DL 0.50 0.50 0.50 1.00 10
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 8 of 14
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 #4-DOM
@@ -290,7 +290,7 @@ No subsurface (tile) drainage analyses entered.
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 9 of 14
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
@@ -324,7 +324,7 @@ N P K salt
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 10 of 14
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 
@@ -406,7 +406,7 @@ Ibs
 
 Page 11 of 14
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 EXCEPTION REPORTING
@@ -451,7 +451,7 @@ wastewater that are new or were revised within the reporting period?
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 12 of 14
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ADDITIONAL NOTES
@@ -466,7 +466,7 @@ All manures solid manures are exported setting aside an amount used as bedding. 
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 13 of 14
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 CERTIFICATION
@@ -489,7 +489,7 @@ DATE DATE
 Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Basin
 06/17/2024 08:43:50 Page 14 of 14
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
 ATTACHMENTS
@@ -524,7 +524,7 @@ Generations Dairy | 6043 S Madera | Kerman, CA 93630 | Fresno County | Tulare Ba
 
 06/17/2024 08:43:50 Page 1 of 1
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -566,7 +566,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 2 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -608,7 +608,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 3 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 Denele Analytical, Inc.
 
 865 South Kilroy Avenue Turlock, CA 95380 40 N. East Street, Woodland, CA 95776
@@ -650,7 +650,7 @@ conditions submitted on customer purchase orders or other forms submitted for wo
 
 Denele Analytical | Page 4 ELAP Certificate No.: 2714
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 DENELE ANALYTICAL, INC.
 
 865 S. KILROY DAIRY COMPLIANCE
@@ -713,7 +713,7 @@ LABORATORY NUMBER
 Logged In By:
 
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -781,7 +781,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 03/31/2023
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -827,7 +827,7 @@ Seott Naupt. O6-28-2024
 Hauler Signature V Date
 
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -895,7 +895,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 06/30/2023
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -941,7 +941,7 @@ Scott Nasyot- 06-28-2024
 Hauler Signature Date
 
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1009,7 +1009,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 06/08/2023
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1043,7 +1043,7 @@ Lonnie Puree O2-09-20724
 Hauler Signature ate
 
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1111,7 +1111,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 09/30/2023
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1157,7 +1157,7 @@ Sestt Na O6-78-7074
 Hauler Signature Date
 
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1225,7 +1225,7 @@ Assessor's Parcel Number Assessor's Parcel Number County
 
 Last date hauled: 12/31/2023
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 Manure / Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies
@@ -1268,7 +1268,7 @@ Operator Signature Date
 Seat Nasgot- 06-28-2024
 Hauler Signature Date
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 2023 AR GENERATIONS DAIRY
 
 Final Audit Report 2024-06-28

@@ -32,7 +32,7 @@ nnn ss 00.02 9595907 000
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 1 of 11
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -66,7 +66,7 @@ I
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 2 of 11
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 F. NUTRIENT IMPORTS
@@ -80,7 +80,7 @@ NN ee
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 3 of 11
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -106,7 +106,7 @@ Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin 
 
 06/27/2024 11723728 Page 4 of 11
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -124,7 +124,7 @@ Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin 
 
 06/27/2024 1123-28 Page 5 of 11
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Reporting period 01/01/2023 to 12/31/2023.
 A. MANURE ANALYSES
@@ -149,7 +149,7 @@ NN
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 11-23.28 Page 6 of 11
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -177,7 +177,7 @@ a
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 7 of 11
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 , rder No. R5-2007-0035
 Annual Report - General Order No. spel
@@ -222,7 +222,7 @@ in River Basin
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, Page 8of 11
 06/27/2024 11-2328
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -253,7 +253,7 @@ I
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 11-2328 Page 9 of 11
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -270,7 +270,7 @@ Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin 
 
 06/27/2024 112328 Page 10 of 11
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annuai Report - General Order No. R5-2007-6035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -286,7 +286,7 @@ DATE DATE
 . Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 41 of 14
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -315,7 +315,7 @@ a OTe
 Pimentel Dairy 18177 Road 10 1/2 ChowchiIla, CA 93610 Madera County San Joaquin River Basin
 06/27/2024 112328 Page 1 of 1
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 pats S8d
 a ts,
@@ -348,7 +348,7 @@ AIf rasuIts listed in this report are for the excIusive use of the submitting pa
 4910 W. McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 wwnw.deIlavaIleIab.com
 Page 1 of 7
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 AngeIa Pimentet Account 00-0026610 Received 06/17/2024 1020
 18177 Road 10 1/2 Account Manager Christian Duran Reported 06/20/2024 1122
@@ -370,7 +370,7 @@ party interpretation,
 41910 W. McKiniay Ave SuIte 110 Fresno, CA 93728 659-233-6129 www.deIlavaIleIab,com
 Page 2 of 7
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 & j
 AngeIa Pimentel Account 00-0026610 ReceIved 06/17/2024 1020
@@ -421,7 +421,7 @@ AIf resuIts fisted in this report are for the excIusive use of the submitting pa
 1910 W. McKinIey Ave Suite 110 Fresno, GA 93728 599-233-6129 www.deIlavaIteIab.com
 Page 3 of 7
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 7
 i
@@ -451,7 +451,7 @@ party interpretation.
 1910 W, McKinIey Ave Suite 110 Fresno, CA 93728 559-233-6129 www.deIlavaIleIab.com
 Page 4 of 7
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 7
 & .
@@ -483,7 +483,7 @@ AIl resuIts listed in this report are for the excIusive use of the submitting pa
 4910 W, McKinIay Ave SuIte 110 Fresno, CA 99728 559-233-6129 www.deIlavaIleIab.com
 Page 5 of 7
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 aan eS re
 OBINTS . 24E1451 910.W. McKinIey Avenue, Suits 110- Fresno, CA 93728 me
@@ -528,7 +528,7 @@ ASampiing hrs an Signature Seca
 i coca a BAe Out SampIe received in cooIer with ice (cooIant)
 XALCLIENT CUSTOM FIELOSHEETSIFIELOSHEETSIDaIry FieIdsheotsIBLANK DaIry Water xIsiDaIry Water Rov 380-21 Page 6 of 7
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
  2 Shifiping Information Shipped Ina Picked-Upg WaIk inyy DLISampIern Othera
 .. .Gontainer Ice Chetin . Boxa Noneo s.sRefrigerant WetIee BIue loen Noneo

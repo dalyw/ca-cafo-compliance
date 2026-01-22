@@ -27,7 +27,7 @@ Name of person making this report (pIease print, Sam Sousa
 Signature- a
 Date. January 11, 2024
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 3
@@ -77,7 +77,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors7 ves O No
 
 1 ton of cocral manure equaIs 2.32 cubic yards and 1 cubic yard of corral manure equaIs 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -109,7 +109,7 @@ Name of person making this report (pIease print Sam Sousa
 Date. January 11/2024
 TitIe, Operator
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 General Waste Discharge Requirements Page 1 of 1 NPDES Permit No. CAGO18001
 Concentrated Animal Feeding Operations Form 4
@@ -153,7 +153,7 @@ irect i ther ink son, the informe 1a, oi lock
 Operators Signature i/ Oate- (- (f- 1
 HeuIers Signature- Me a Date - O-Z
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
     ge ea Se EL pet es ee es Soe ie Rel ERAS Ie
 os a B wh eee eee ge. apa eeien rarest rags ee Seige iy Rg Bieta se _-

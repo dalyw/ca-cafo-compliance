@@ -26,7 +26,7 @@ dairies, the number of milkings per day).
 Number of milkings per day (dairies only) CJ One ClTwo (Three WJ /Po
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 , ii. Manure, Litter, And Process Wastewater Production
 Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -75,7 +75,7 @@ QO certify that a Manure Tracking Manifest has been prepared for each manure hau
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 PART BCO POSTING INVENTORY
 DE) f certify that no composting occurs at this facility. (If box is checked, skip to Part CG)
@@ -111,7 +111,7 @@ for the required parameters
 ff any storm water discharges from the Composting operations were not analyzed for the required Parameters, explain below-
 Attachment G - Annual Report G-3
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 . IV. Operation and Maintenance .
 Document any erosion conirol or drainage problems and/or related maintenance
@@ -158,7 +158,7 @@ Clothers
 ees
 Attachment G - Annual Report
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 . PART D - CERTIFICATION
  certify under penalty of law that this document and all attachments were Prepared under my direct supervision in
@@ -177,7 +177,7 @@ Colorado River Basin Region
 Paim Desert, CA. 92260
 Attachment G - Annual Report
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 . Manure Tracking Manifest
 Colorado Regional Water Quality Control Board
@@ -223,7 +223,7 @@ Cc
 H-1
 Attachment H Manure Tracking Manifest
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 , Manure Tracking Manifest
 Colorado Regional Water Quality Control Board
@@ -271,7 +271,7 @@ Haulers Signature aN pater ILoploor-e
 a
 . __ Attachment H- Manure Tracking Manifest
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 2024 Manure/ Compost/ Cameiro Yard
 Month Manure In Compost out
@@ -284,7 +284,7 @@ October 1,952.00 2,781.84
 November 3,312.00 -
 Total 13,568.00 8,802.83
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
                         California Regional Water Quality Control Board
 Colorado River Basin Region (R-7)
@@ -315,7 +315,7 @@ a
 a
 Attachment G - Annual Report G-1
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 ti, Manure, Litter, And Process Wastewater Production
 . Report the estimated amount of manure, litter, and process wastewater that were generated at this
@@ -364,7 +364,7 @@ O I certify that a Manure Tracking Manifest has been prepared for each manure ha
 have occurred at this facility (Large CAFOs only).
 Attachment G - Annual Report G-2
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 PART B - COMPOSTING INVENTORY
 LA certify that no composting occurs at this facility. (If box is checked, skip to Part GC)
@@ -401,7 +401,7 @@ O Check if analysis results are attached,
 if any storm water discharges from the Composting operations were not analyzed for the required Parameters, explain below
 Attachment G Annual Report G-3
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
           V. Operation and Maintenance .
 Document any erosion control or drainage problems and/or related maintenance
@@ -436,7 +436,7 @@ CJ Oats CiRrye Grass C1 Vegetables
 Cothers . ma
 Attachment G - Annual Report
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 . PART D - CERTIFICATION
  certify under penalty of law that this document and all attachments were prepared under my direct supervision in
@@ -455,7 +455,7 @@ Colorado River Basin Region
 Palm Desert, CA. 92260
 Attachment G - Annual Report
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 . Manure Tracking Manifest
 Colorade Regional Water Quality Control Board i

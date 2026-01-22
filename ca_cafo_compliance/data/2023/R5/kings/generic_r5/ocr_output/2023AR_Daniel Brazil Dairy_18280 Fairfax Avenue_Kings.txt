@@ -26,7 +26,7 @@ MaiIing Address Number and Street City State Zip Code
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 1 of 58
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -63,7 +63,7 @@ AG-5 Ground water
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 2 of 58
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -105,7 +105,7 @@ Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basi
 
 06/10/2024 090828 Page 3 of 58
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -136,7 +136,7 @@ Total actual harvest content 20.38 310.92 61.78 366.72 1,375.20
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 4 of 58
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -167,7 +167,7 @@ Total actual harvest content 29.62 177.69 49.75 117.28 812.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 5 of 58
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -199,7 +199,7 @@ Total actual harvest content 20.22 234.45 54.90 324.97 1,320.64
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 6 of 58
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -230,7 +230,7 @@ Total actual harvest content 29.06 282.73 55.65 164.74 1,142.03
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 7 of 58
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -262,7 +262,7 @@ Total actual harvest content 20.00 169.31 30.93 213.27 976.80
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 8 of 58
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -293,7 +293,7 @@ Total actual harvest content 28.75 149.94 48.86 148.26 729.50
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 9 of 58
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -326,7 +326,7 @@ FieId 3 - 06/10/2023 Corn, siIage
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 10 of 58
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -360,7 +360,7 @@ AppIication event totaIs 0.00 0.00 0.00 46.46
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 11 of 58
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -391,7 +391,7 @@ AppIication event totaIs 135.05 37.39 225.01 1,180.65
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 12 of 58
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -422,7 +422,7 @@ AppIication event totaIs 0.00 0.00 0.00 40.49
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 13 of 58
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -452,7 +452,7 @@ AppIication event totaIs 124.41 58.36 133.01 1,438.63
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 14 of 58
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -484,7 +484,7 @@ AppIication event totaIs 73.99 25.66 150.34 443.06
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 15 of 58
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -518,7 +518,7 @@ Crop Wheat, siIage, soft dough PIant date 11/14/2022
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 16 of 58
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -549,7 +549,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 17 of 58
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -584,7 +584,7 @@ Crop Wheat, siIage, soft dough PIant date 11/15/2022
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 18 of 58
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -615,7 +615,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 19 of 58
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -648,7 +648,7 @@ AppIication event totaIs 0.00 0.00 0.00 42.52
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 20 of 58
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -679,7 +679,7 @@ AppIication event totaIs 96.20 26.63 160.28 861.09
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 21 of 58
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -711,7 +711,7 @@ AppIication event totaIs 68.39 23.72 138.97 414.10
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 22 of 58
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -742,7 +742,7 @@ AppIication event totaIs 114.57 32.31 190.46 1,524.10
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 23 of 58
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -773,7 +773,7 @@ AppIication event totaIs 0.00 0.00 0.00 46.54
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 24 of 58
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -804,7 +804,7 @@ AppIication date AppIication method Precipitation 24 hours prior Precipitation d
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 25 of 58
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -837,7 +837,7 @@ AppIication event totaIs 53.25 18.47 108.20 326.14
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 09.08.28 Page 26 of 58
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -868,7 +868,7 @@ AppIication event totaIs 0.00 0.00 0.00 43.66
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 27 of 58
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -903,7 +903,7 @@ AppIied to removed ratio 1.14 1.95 1.37 2.82
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 28 of 58
 
-PDF PAGE BREAK 28
+=== Page 28 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -938,7 +938,7 @@ AppIied to removed ratio 1.32 1.64 2.67 1.66
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 29 of 58
 
-PDF PAGE BREAK 29
+=== Page 29 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -972,7 +972,7 @@ AppIied to removed ratio 1.24 2.07 1.45 3.00
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 30 of 58
 
-PDF PAGE BREAK 30
+=== Page 30 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1006,7 +1006,7 @@ AppIied to removed ratio 1.30 1.56 3.88 1.81
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 31 of 58
 
-PDF PAGE BREAK 31
+=== Page 31 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1040,7 +1040,7 @@ AppIied to removed ratio 1.24 1.48 0.98 2.59
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 32 of 58
 
-PDF PAGE BREAK 32
+=== Page 32 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1075,7 +1075,7 @@ AppIied to removed ratio 1.36 1.50 3.11 1.79
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 33 of 58
 
-PDF PAGE BREAK 33
+=== Page 33 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1110,7 +1110,7 @@ AppIied to removed ratio 1.29 1.93 1.28 2.55
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 34 of 58
 
-PDF PAGE BREAK 34
+=== Page 34 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1144,7 +1144,7 @@ AppIied to removed ratio 1.36 1.38 1.99 1.54
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 35 of 58
 
-PDF PAGE BREAK 35
+=== Page 35 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1177,7 +1177,7 @@ AppIied to removed ratio 1.36 1.97 1.18 2.48
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 36 of 58
 
-PDF PAGE BREAK 36
+=== Page 36 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1211,7 +1211,7 @@ AppIied to removed ratio 1.23 2.12 4.20 1.84
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 37 of 58
 
-PDF PAGE BREAK 37
+=== Page 37 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1244,7 +1244,7 @@ AppIied to removed ratio 1.20 1.80 1.08 2.25
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 38 of 58
 
-PDF PAGE BREAK 38
+=== Page 38 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1278,7 +1278,7 @@ AppIied to removed ratio 1.30 2.43 4.76 2.32
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 39 of 58
 
-PDF PAGE BREAK 39
+=== Page 39 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1312,7 +1312,7 @@ AppIied to removed ratio 1.29 1.91 1.65 2.49
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 40 of 58
 
-PDF PAGE BREAK 40
+=== Page 40 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1346,7 +1346,7 @@ AppIied to removed ratio 1.33 1.92 3.67 2.14
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 41 of 58
 
-PDF PAGE BREAK 41
+=== Page 41 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1382,7 +1382,7 @@ AppIied to removed ratio 1.32 1.95 1.69 2.34
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 42 of 58
 
-PDF PAGE BREAK 42
+=== Page 42 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1418,7 +1418,7 @@ AppIied to removed ratio 1.38 1.42 2.74 1.86
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 43 of 58
 
-PDF PAGE BREAK 43
+=== Page 43 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1452,7 +1452,7 @@ B. PROCESS WASTEWATER ANALYSES
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 44 of 58
 
-PDF PAGE BREAK 44
+=== Page 44 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1487,7 +1487,7 @@ DL 10.00 2.00 0.20 0.20 0.20 0.50 100.00 10
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 45 of 58
 
-PDF PAGE BREAK 45
+=== Page 45 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1519,7 +1519,7 @@ D-2
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 46 of 58
 
-PDF PAGE BREAK 46
+=== Page 46 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1546,7 +1546,7 @@ FieId 3 - 11/13/2022 Wheat, siIage, soft dough
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 47 of 58
 
-PDF PAGE BREAK 47
+=== Page 47 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1577,7 +1577,7 @@ DL 500.00 200.00 200.00 0.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 48 of 58
 
-PDF PAGE BREAK 48
+=== Page 48 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1608,7 +1608,7 @@ DL 500.00 200.00 200.00 0.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 49 of 58
 
-PDF PAGE BREAK 49
+=== Page 49 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1639,7 +1639,7 @@ DL 500.00 200.00 200.00 0.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 50 of 58
 
-PDF PAGE BREAK 50
+=== Page 50 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1670,7 +1670,7 @@ DL 500.00 200.00 200.00 0.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 51 of 58
 
-PDF PAGE BREAK 51
+=== Page 51 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1701,7 +1701,7 @@ DL 500.00 200.00 200.00 0.05
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 52 of 58
 
-PDF PAGE BREAK 52
+=== Page 52 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1718,7 +1718,7 @@ No subsurface (tiIe) drainage anaIyses entered.
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 53 of 58
 
-PDF PAGE BREAK 53
+=== Page 53 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1751,7 +1751,7 @@ N P K saIt
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 54 of 58
 
-PDF PAGE BREAK 54
+=== Page 54 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1783,7 +1783,7 @@ lbs lbs
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 55 of 58
 
-PDF PAGE BREAK 55
+=== Page 55 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1813,7 +1813,7 @@ wastewater that are new or were revised within the reporting period
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 56 of 58
 
-PDF PAGE BREAK 56
+=== Page 56 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1823,7 +1823,7 @@ WeIls 4, 5, 6, 7, 8, 9, 10, 11, and 12 were out of service in 2023.
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 090828 Page 57 of 58
 
-PDF PAGE BREAK 57
+=== Page 57 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1841,7 +1841,7 @@ eee
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 / Kings County TuIare Basin
 06/10/2024 090828 Page 58 of 58
 
-PDF PAGE BREAK 58
+=== Page 58 ===
 
 Annual Report - General Order No. R5-2007-0035
 Reporting period 01/01/2023 to 12/31/2023.
@@ -1865,7 +1865,7 @@ Storm Water Reporting Section on page MRP-14.
 Daniel Brasil Dairy 18280 Fairfax AVE Lemoore, CA 93245 Kings County TuIare Basin
 06/10/2024 0908.28 Page 1 of 1
 
-PDF PAGE BREAK 59
+=== Page 59 ===
 
 EN
 ENVIRONMENTAL AGRICULTURAL
@@ -1920,7 +1920,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 60
+=== Page 60 ===
 
 Sz SI
 ENVIRONMENTAL AGRICULTURAL
@@ -1955,7 +1955,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 61
+=== Page 61 ===
 
 PGL
 ENVIRONMENTAL AGRICULTURAL
@@ -2012,7 +2012,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 62
+=== Page 62 ===
 
 ug _ Laboratory AnaIysis Work Order 3059
 SITE NAME Lemyore F-0. LABORATORY WF FGL 4-19696
@@ -2076,7 +2076,7 @@ ol GOS A/G f3
 
 5.39C Ye //O
 
-PDF PAGE BREAK 63
+=== Page 63 ===
 
 , FGL Environmental Doc ID 3D0900002_SOP_12.DOC ,
 Revision Date 10/09/14 Page 1 of 1
@@ -2126,7 +2126,7 @@ ProbIem
 Crease . the back of this sheet for additional co iv 0771912023 08711244
 UA
 
-PDF PAGE BREAK 64
+=== Page 64 ===
 
 (_s
 ENVIRONMENTAL AGRICULTURAL
@@ -2173,7 +2173,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)042-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573. CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 65
+=== Page 65 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2215,7 +2215,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 66
+=== Page 66 ===
 
 (sN
 ENVIRONMENTAL AGRICULTURAL
@@ -2257,7 +2257,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 67
+=== Page 67 ===
 
 _a 4
 ENVIRONMENTAL AGRICULTURAL
@@ -2299,7 +2299,7 @@ TEL (805)392-2000 TEL (209)042-0182 TEL (530)343-5818 TEL (605)783-2940 TEL (659
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 68
+=== Page 68 ===
 
 I
 ENVIRONMENTAL AGRICULTURAL
@@ -2340,7 +2340,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-8435
 CA ELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CAELAP Certification No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 69
+=== Page 69 ===
 
 Vey Laboratory AnaIysis Work Order 3324
                               2au429b
@@ -2389,7 +2389,7 @@ LABORATORY USE ONLY
 Gus wItize V2
 yu / 4
 
-PDF PAGE BREAK 70
+=== Page 70 ===
 
 , FGL Environmental Doc ID
 oo_uno_temp4548346165251876894.DOOC

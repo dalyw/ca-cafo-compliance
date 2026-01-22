@@ -16,7 +16,7 @@ L nin FaciIity / Land Map
 
 GEO Tracker Confirmation 4 Date
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 FaciIity Info
 Reporting Period 1/1/2023 to 12/31/2023
@@ -40,7 +40,7 @@ Home Phone Number 559-752-4727
 CeIl Phone Number
           Jere if any information has changed
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 Herd Information
 com oncom atm cazmy oom
@@ -65,7 +65,7 @@ Total nitrogen generated 78,785 lbs
 127,116 ibs
 Total saIt (TDS) generated 775,223 lbs
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
 List of Land AppIication Areas
 . Ih Total Type of Waste
@@ -88,7 +88,7 @@ a ne
 a ee
 To CsiSCSsSSCSC(COCNCNCTotaICropAcres
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
 List of Fresh Water Sources
  Domestic Os Ground Water PN
@@ -121,7 +121,7 @@ a Re
 QO
 po Cama
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 . cu ee ee St te ge Do A EE ey La Pe OT TE ey
 BaGtietane ae, Cr GRE Coe cy
@@ -148,7 +148,7 @@ DetectabIe Limits
 VaIiey Tech 0.10 0.05 0.014 0.01 0.05
 DeItavaIle 0.001 0.01 0.01 0.0034 0.001
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
 poor RE EOP cen a a baIe tt ee
 js crop froin nm to roo sericea foseni ose source _
@@ -173,7 +173,7 @@ VaIley Tech 0.10 0.05 0.01 0.019 0.05
 
 DeIlavaiIe 0,001 0.01K G.01 6,003 0.001
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
 Winter Crops & Harvest
 Harvest Moisture N SaIt Reporting
@@ -196,7 +196,7 @@ POCCO eC
 DetectabIe L VaIley Tech 0.108 0.054 0.01 0.01 0.05
 DeIlavatie 0.0G01 0.01 0.014 0.003 0.001
 
-PDF PAGE BREAK 8
+=== Page 8 ===
 
 Harvest tabg Moisture N Kim SaIt _ Reporting
 ja coe PIant Date pate - _ tugs regs Leman ELE cigreadsf TS. - Bass
@@ -219,7 +219,7 @@ DetectabIe L VaIley Tech 0.10 0.05 0.01 0.01 0.05
 
 DeIlavaiIe 0.001 0.01 0.01 0.003 0.0019
 
-PDF PAGE BREAK 9
+=== Page 9 ===
 
 WeIl / Canal AnaIysis
 General MineraIs
@@ -259,7 +259,7 @@ DeIfavaiIe 0.01 i 10 0.2 NR 0.1 ad 0.15 3 03 0.03 0.02
 FGL Enviromental oO oO cd 0 a a Q a 0 0 o o
 VaIley Tech 0.1 NR NR AR NR NR NR NR NR NR NR
 
-PDF PAGE BREAK 10
+=== Page 10 ===
 
 Soil AnaIysis (Winter)
 Powryomy o PE
@@ -281,7 +281,7 @@ DetectabIe Limits
 VaIley Tech 0.41 0.1
 DeIlaVaiIe 0.1 0.1 1.4 0.2 0.0015 0,00014
 
-PDF PAGE BREAK 11
+=== Page 11 ===
 
 Soil AnaIysis (Summer)
 
@@ -305,7 +305,7 @@ DetectabIe Limits
 VaIley Tech 0.1 0.1
 DeIlavatte 0.4 0.1 1 0.2 0.0015 0,0001
 
-PDF PAGE BREAK 12
+=== Page 12 ===
 
 Nutrient import & Export
 Nutrient Export-Did you seIl, give away or otherwise remove sIurry, process water or dry manure from your property
@@ -318,7 +318,7 @@ No Commerical or other nutrient imports entered
 T Manure
 FieId Name vee of lied As ls / Dry Weight source
 
-PDF PAGE BREAK 13
+=== Page 13 ===
 
 Process Water & Manure AnaIysis
 
@@ -343,7 +343,7 @@ VaIley Tech 0.01 0.02 0.02K
 
 DeIlavaite 0.014 0.01 0.003 0.001 0.001 0.001 0.001 0.0K00 0.001 0.001
 
-PDF PAGE BREAK 14
+=== Page 14 ===
 
 Notes
 LEASES FACHLITy ONLY. OWNER TAKES CARE OF ALL FARM GROUND.
@@ -356,7 +356,7 @@ requirements,
 The Signature(s) affixed to this report does not affirmativeIy refes to those references to saIt that we know to be incorrect,
 Le (initial)
 
-PDF PAGE BREAK 15
+=== Page 15 ===
 
 Exception Reporting
 Manure , Process Water and Other Dairy Waste Discharges
@@ -380,7 +380,7 @@ Written Agreements
 Are there any written agreements with third parties to receive manure or process water that are
 new or were revised within the repoting period No
 
-PDF PAGE BREAK 16
+=== Page 16 ===
 
 Owner and/or Operator Certification
 I certify under penaIty of law that aIl information submitted as part of this document is accurate and true. Certification signatures by a CaIifornia Registered Professional have been
@@ -395,11 +395,11 @@ S-2- 2 HLT Lor) ee
 
 Date Date
 
-PDF PAGE BREAK 17
+=== Page 17 ===
 
 
 
-PDF PAGE BREAK 18
+=== Page 18 ===
 
 Manure/Process Wastewater Tracking Manifest For Existing MiIk Cow Dairies
 Instrucnons-
@@ -455,11 +455,11 @@ there are significanl perfadIestfor si iting/faIse information, incIuding the po
 Operators Signature a --
 HauIers Signature Date . _
 
-PDF PAGE BREAK 19
+=== Page 19 ===
 
 
 
-PDF PAGE BREAK 20
+=== Page 20 ===
 
 A (p/ Livingston Dairy ConsuIting, Inc.
 FIELD ACTIVITY REPORT
@@ -485,13 +485,13 @@ _Date_ _WeIltame time PH SOstemp Ammonium
 SampIe Preservation Method (circie one) ice Chest Refrigerator Ice Pack
                                                                                                                                                 Y Livingston Dairy ContuIing, Inc. 2020
 
-PDF PAGE BREAK 21
+=== Page 21 ===
 
 az)
 cq
 I.
 
-PDF PAGE BREAK 22
+=== Page 22 ===
 
 ENVIRONMENTAL 2 AGRICULTURAL
 AnaIytical Chemists
@@ -536,7 +536,7 @@ TEL (805)992-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (805)392-2069 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (559)734-B435
 CA ELAP Centification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2870 CA ELAP Centitication No. 2775 CAELAP Certification No. 2810
 
-PDF PAGE BREAK 23
+=== Page 23 ===
 
 ENVIRONMENTAL AGRICULTURAL
 AnaIytical Chemists
@@ -572,7 +572,7 @@ TEL (805)392-2000 TEL (209)842-0182 TEL (80)343-5818 TEL (805)783-2940 TEL (859)
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)7B3-2912 FAX (659)734-8435
 CAELAP Certification No. 1573 CAELAP CentiIication No. 1563 CA ELAP Centification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810
 
-PDF PAGE BREAK 24
+=== Page 24 ===
 
                                                                           FGL
 ENVIRONMENTAL 2 AGRICULTURAL
@@ -611,7 +611,7 @@ TEL (805)392-2000 TEL (209)942-0182 TEL (530)343-5818 TEL (805)783-2940 TEL (559
 Env FAX (805)525-4172 / Ag FAX (905)392-2063 FAX (209)942-0423 FAX (590)343-3807 FAX (805)782-2912 FAX (659)734-8425
 CA ELAP Certification No. 1573. CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810
 
-PDF PAGE BREAK 25
+=== Page 25 ===
 
 FGL
 ENVIRONMENTAL 22 AGRICULTURAL
@@ -672,7 +672,7 @@ TEL (805)382-2000 TEL- (209)942.0182 TEL (630)343-5818 TEL (805)783-2040 TEL (55
 Env FAX (805)525-4172 / Ag FAX (805)392-2063 FAX (209)942-0423 FAX (530)343-3807 FAX (805)783-2912 FAX (569)734-8435
 CAELAP Certification No. 1573 CAELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No, 2775 GAELAP Certification No. 2810
 
-PDF PAGE BREAK 26
+=== Page 26 ===
 
 EE 2.88
 e E BS OE ERSe
@@ -754,7 +754,7 @@ Sei geese) 32/2/-
 eS g Bees & Eel 2 Ea aIafos t a/S/&
 of fGE 26/8 85/35) 32 so
 
-PDF PAGE BREAK 27
+=== Page 27 ===
 
 FGL Environmental Doc ID 3D0900002_SOP_12.DOC
 Revision Datez 10/09/14 Page 1 of 1

@@ -1,103 +1,88 @@
 ATTACHMENT D
 Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies
-
-Instructions:
-Complete one manifest for each hauling event, for each destination.  A hauling event may last for
+Instructions
+Complete one manifest for each hauling event for each destination. A hauling event may last for
 (1)
-several days, as long as the manure is being hauled to the same destination.
-
-If there are multiple destinations, complete a separate form for each destination.
-
+several days as long as the manure is being hauled to the same destination.
+If there are multiple destinations complete a separate form for each destination.
 2)
 The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
-
 3)
 The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 4)
 Monitoring Report for Existing Milk Cow Dairies.
-
-| Operator Information:                                                                       | Brian Pacheco         |                |                          |              |
-|---------------------------------------------------------------------------------------------|-----------------------|----------------|--------------------------|--------------|
-| Name of Operator:                                                                           |                       |                |                          |              |
-| Name of Dairy Facility:                                                                     | Pacheco Dairy Inc.    |                |                          |              |
-| 1108 N. Plumas                                                                              |                       |                |                          |              |
-| Facility Address:                                                                           | Kerman                | 93630          |                          |              |
-| Number and Street                                                                           | City                  | Zip Code       |                          |              |
-| Contact Person Name and Phone Number:                                                       | Brian Pacheco         | (559) 846-9686 |                          |              |
-| Name                                                                                        | Phone Number          |                |                          |              |
-| Manure/Process Wastewater Hauler Information:                                               |                       |                |                          |              |
-| Name of Hauling Company/Person:                                                             | Alex Buchnoff & Sons  |                |                          |              |
-| Address of Hauling Company /Person:                                                         | 1395 N. Madera Avenue | Kerman         | 93630                    |              |
-| Number and Street                                                                           | City                  | Zip Code       |                          |              |
-| Morrie Buchnoff                                                                             |                       |                |                          |              |
-| Contact Person:                                                                             | (559)                 | 999-0685       |                          |              |
-| Name                                                                                        | Phone Number          |                |                          |              |
-| Destination Information:                                                                    |                       |                |                          |              |
-| Composting Facility / Broker /(Farmer) Other (identify)                                     | (please circle one)   |                |                          |              |
-| Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): |                       |                |                          |              |
-| ASEN N. LIXU, INVIL                                                                         |                       |                |                          |              |
-| VINNESS HAVING                                                                              | Y A / M U A /         | 11             | (554) Sim : 12013.       |              |
-| Name                                                                                        | Number and Street     | City           | Zip Code                 | Phone Number |
-| Manure/Process Wastewater Destination Address or Assessor's Parcel Number:                  |                       |                |                          |              |
-| (ROLADEE)                                                                                   |                       |                |                          |              |
-| MAAS + LINKL                                                                                | Vlimin                | WW             | 05-060-115               |              |
-| Number and Street                                                                           | City                  | Zip Code       | Assessor's Parcel Number |              |
-| Dates Hauled: WONUWOR /  19. 2024.                                                          |                       |                |                          |              |
-
-## Amount Hauled:
-
-Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
-and the method used to calculate the amount:
-
+I Operator Information                                    I Brian Pacheco     I        I             I       I
+I---------------------------------------------------------------------------------------------I-----------------------I----------------I--------------------------I--------------I
+I Name of Operator                                      I            I        I             I       I
+I Name of Dairy Facility                                   I Pacheco Dairy Inc.  I        I             I       I
+I 1108 N. Plumas                                       I            I        I             I       I
+I Facility Address                                      I Kerman        I 93630     I             I       I
+I Number and Street                                      I City         I Zip Code    I             I       I
+I Contact Person Name and Phone Number                            I Brian Pacheco     I (559) 846-9686 I             I       I
+I Name                                            I Phone Number     I        I             I       I
+I Manure/Process Wastewater Hauler Information                        I            I        I             I       I
+I Name of Hauling Company/Person                               I Alex Buchnoff & Sons I        I             I       I
+I Address of Hauling Company /Person                             I 1395 N. Madera Avenue I Kerman     I 93630          I       I
+I Number and Street                                      I City         I Zip Code    I             I       I
+I Morrie Buchnoff                                       I            I        I             I       I
+I Contact Person                                       I (559)         I 999-0685    I             I       I
+I Name                                            I Phone Number     I        I             I       I
+I Destination Information                                  I            I        I             I       I
+I Composting Facility / Broker /(Farmer) Other (identify)                   I (please circle one)  I        I             I       I
+I Contact information of Composting Facility Broker Farmer or Other (as identified above) I            I        I             I       I
+I ASEN N. LIXU INVIL                                     I            I        I             I       I
+I VINNESS HAVING                                       I Y A / M U A /     I 11       I (554) Sim 12013.    I       I
+I Name                                            I Number and Street   I City      I Zip Code         I Phone Number I
+I Manure/Process Wastewater Destination Address or Assessor's Parcel Number         I            I        I             I       I
+I (ROLADEE)                                          I            I        I             I       I
+I MAAS + LINKL                                        I Vlimin        I WW       I 05-060-115        I       I
+I Number and Street                                      I City         I Zip Code    I Assessor's Parcel Number I       I
+I Dates Hauled WONUWOR / 19. 2024.                             I            I        I             I       I
+## Amount Hauled
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used) the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards)
+and the method used to calculate the amount
 (Tons) or Cubic Yards (indicate which units used)
-Manure:
-Manure Solids Content (if amount reported in tons):
-Manure Density (if amount reported in cubic yards):
-
+Manure
+Manure Solids Content (if amount reported in tons)
+Manure Density (if amount reported in cubic yards)
 ATTACHMENT D
-Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies Instructions:
-
-Complete one manifest for each hauling event, for each destination.  A hauling event may last for 1)
-several days, as long as the manure is being hauled to the same destination.
-
-If there are multiple destinations, complete a separate form for each destination.
-
+Manure/Process Wastewater Tracking Manifest For Existing Milk Cow Dairies Instructions
+Complete one manifest for each hauling event for each destination. A hauling event may last for 1)
+several days as long as the manure is being hauled to the same destination.
+If there are multiple destinations complete a separate form for each destination.
 The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
-
 3)
 The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 4)
 Monitoring Report for Existing Milk Cow Dairies.
-
-| Operator Information:                                                                       |                       |                |                          |
-|---------------------------------------------------------------------------------------------|-----------------------|----------------|--------------------------|
-| Name of Operator:                                                                           | Brian Pacheco         |                |                          |
-| Name of Dairy Facility: _                                                                   | Pacheco Dairy Inc.    |                |                          |
-| 1108 N. Plumas                                                                              | Kerman                |                |                          |
-| Facility Address:                                                                           | 93630                 |                |                          |
-| Number and Street                                                                           | City                  | Zip Code       |                          |
-| Contact Person Name and Phone Number:                                                       | Brian Pacheco         | (559) 846-9686 |                          |
-| Name                                                                                        | Phone Number          |                |                          |
-| Manure/Process Wastewater Hauler Information:                                               |                       |                |                          |
-| Alex Buchnoff & Sons                                                                        |                       |                |                          |
-| Name of Hauling Company/Person:                                                             | 1395 N. Madera Avenue |                |                          |
-| Address of Hauling Company /Person:                                                         | Kerman                | 93630          |                          |
-| Number and Street                                                                           | City                  | Zip Code       |                          |
-| (559) 978-0685                                                                              |                       |                |                          |
-| Morrie Buchnoff                                                                             |                       |                |                          |
-| Contact Person:                                                                             | Name                  | Phone Number   |                          |
-| Destination Information:                                                                    |                       |                |                          |
-| Composting Facility / Broker /(Farmer) Other (identify)                                     | (please circle one)   |                |                          |
-| Contact information of Composting Facility, Broker, Farmer, or Other (as identified above); |                       |                |                          |
-| ASER N. LUXL, RAIL,                                                                         |                       |                |                          |
-| Unniversity of the University                                                               | VL I MILAI            | i////30        | (554):10000              |
-| Number and Street                                                                           |                       |                |                          |
-| Name                                                                                        | City                  | Zip Code       | Phone Number             |
-| Manure/Process Wastewater Destination Address or Assessor's Parcel Number:                  |                       |                |                          |
-| ULAS                                                                                        | VALIMIN               | 731124         | 05-061-01                |
-| Number and Street                                                                           | City                  | Zip Code       | Assessor's Parcel Number |
-| Dates Hauled: Debold 32, 2024  *   Ideology 34, 2024.                                       |                       |                |                          |
-| Amount Hauled:                                                                              |                       |                |                          |
-
-Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
-and the method used to calculate the amount:
-Manure: 364- 1 3 Tons/or Cubic Yards (indicate which units used)
-Manure Solids Content (if amount reported in tons): Manure Density (if amount reported in cubic yards):
+I Operator Information                                    I            I        I             I
+I---------------------------------------------------------------------------------------------I-----------------------I----------------I--------------------------I
+I Name of Operator                                      I Brian Pacheco     I        I             I
+I Name of Dairy Facility _                                  I Pacheco Dairy Inc.  I        I             I
+I 1108 N. Plumas                                       I Kerman        I        I             I
+I Facility Address                                      I 93630         I        I             I
+I Number and Street                                      I City         I Zip Code    I             I
+I Contact Person Name and Phone Number                            I Brian Pacheco     I (559) 846-9686 I             I
+I Name                                            I Phone Number     I        I             I
+I Manure/Process Wastewater Hauler Information                        I            I        I             I
+I Alex Buchnoff & Sons                                    I            I        I             I
+I Name of Hauling Company/Person                               I 1395 N. Madera Avenue I        I             I
+I Address of Hauling Company /Person                             I Kerman        I 93630     I             I
+I Number and Street                                      I City         I Zip Code    I             I
+I (559) 978-0685                                       I            I        I             I
+I Morrie Buchnoff                                       I            I        I             I
+I Contact Person                                       I Name         I Phone Number  I             I
+I Destination Information                                  I            I        I             I
+I Composting Facility / Broker /(Farmer) Other (identify)                   I (please circle one)  I        I             I
+I Contact information of Composting Facility Broker Farmer or Other (as identified above); I            I        I             I
+I ASER N. LUXL RAIL                                     I            I        I             I
+I Unniversity of the University                                I VL I MILAI      I i////30    I (554)10000       I
+I Number and Street                                      I            I        I             I
+I Name                                            I City         I Zip Code    I Phone Number       I
+I Manure/Process Wastewater Destination Address or Assessor's Parcel Number         I            I        I             I
+I ULAS                                            I VALIMIN        I 731124     I 05-061-01        I
+I Number and Street                                      I City         I Zip Code    I Assessor's Parcel Number I
+I Dates Hauled Debold 32 2024 *  Ideology 34 2024.                    I            I        I             I
+I Amount Hauled                                       I            I        I             I
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used) the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards)
+and the method used to calculate the amount
+Manure 364- 1 3 Tons/or Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons) Manure Density (if amount reported in cubic yards)

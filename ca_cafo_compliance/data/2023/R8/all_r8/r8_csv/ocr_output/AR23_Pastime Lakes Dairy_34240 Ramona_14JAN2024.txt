@@ -28,7 +28,7 @@ Tite, Managing Partner
 Signature CLE Pai COAL.
 Oate, fiz fzef
 
-PDF PAGE BREAK 1
+=== Page 1 ===
 
 General Waste Discharge Requirements Page 1 of 2 NPDES Permit No. CAG018001
 Concentrated Animal Feeding Operations Form 3
@@ -58,7 +58,7 @@ Was Manure Amount CaIcuIated Using the FoIlowing Factors2 Yes O no
 1 CaIf produces approximateIy 0.6 tons of manure per year
 1 ton of corral manure equats 2.32 cubic yards and 4 cubIe yard of corral manure equais 0.43 tons
 
-PDF PAGE BREAK 2
+=== Page 2 ===
 
 1 ae a ne
 General Waste Discharge Requirements Page 2 of 2 NPDES Permit No. CAGO18001
@@ -95,7 +95,7 @@ Signature AUP LOLA
 Date- pte fruef
 Tite, Managing Partner
 
-PDF PAGE BREAK 3
+=== Page 3 ===
 
     Form 4. Manur6 Tracking Manifest - .
 - Beatonal Water QuaIity Control Board
@@ -149,7 +149,7 @@ HauIers Signatura, Date . .
 . 2 GPS coordinates shel be provided for aIl destinations within the Santa Ana Region.
                  Attachment B - Monitoring and Reporting Program B-16 -
 
-PDF PAGE BREAK 4
+=== Page 4 ===
 
     Form 4. Manure Tracking Manifest - .
 . BeaIonal Water QuaIity Control Board
@@ -203,7 +203,7 @@ HauIers aan Date . .
 -2 GPS coontnates sheIl be provided for uIt Gostinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B-16
 
-PDF PAGE BREAK 5
+=== Page 5 ===
 
 re a
     Form 4. Manure Tracking Manifest - .
@@ -255,7 +255,7 @@ and imprisonment for knowing vioIations. .
 . -2 GPS coordinates shaIl be provided for nit dastnations within the Santa Ana Region.
 Attachment B - Monitoring and Rsporting Program B-16
 
-PDF PAGE BREAK 6
+=== Page 6 ===
 
        Form 4. Manure Tracking Manifest - ,
 - . RenIonal Water QuaIity Control Board
@@ -307,7 +307,7 @@ HauIers Signature, Date . .
 . -2 GPS coordinates shaIt be provided for aIl destinations within the Santa Ana Region.
 Attachment B - Monitoring and Reporting Program B-18
 
-PDF PAGE BREAK 7
+=== Page 7 ===
 
      Form 4. Manure Tracking Manifost - .
 - RepIonsl Water QuaIity Gontrol Board
