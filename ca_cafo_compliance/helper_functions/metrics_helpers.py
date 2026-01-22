@@ -3,8 +3,6 @@ import numpy as np
 from .read_report_helpers import cf
 
 parameters = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
-for v in parameters["parameter_key"]:
-    globals()[f'{v.upper()}'] = v
 
 def calculate_metrics(df):
     """Calculate all metrics for the dataframe."""
@@ -16,12 +14,12 @@ def calculate_metrics(df):
             df[param] = np.nan
 
     # Calculate annual milk production
-    df["avg_milk_prod_kg_per_cow"] = df[AVG_MILK_LB_PER_COW_DAY] * cf["LBS_TO_KG"]
+    df["avg_milk_prod_kg_per_cow"] = df["avg_milk_lb_per_cow_day"] * cf["LBS_TO_KG"]
     df["avg_milk_prod_l_per_cow"] = (
-        df[AVG_MILK_LB_PER_COW_DAY] * cf["LBS_TO_KG"] * cf["KG_PER_L_MILK"]
+        df["avg_milk_lb_per_cow_day"] * cf["LBS_TO_KG"] * cf["KG_PER_L_MILK"]
     )
     df["reported_annual_milk_production_l"] = (
-        df[AVG_MILK_LB_PER_COW_DAY]
+        df["avg_milk_lb_per_cow_day"]
         * cf["LBS_TO_KG"]
         * cf["KG_PER_L_MILK"]
         * (df["avg_milk_cows"] + df["avg_dry_cows"])
@@ -77,21 +75,21 @@ def calculate_metrics(df):
     
     # Check if we have milk production data
     has_milk_data = (
-        AVG_MILK_LB_PER_COW_DAY in df.columns
-        and df[AVG_MILK_LB_PER_COW_DAY].notna().any()
+        "avg_milk_lb_per_cow_day" in df.columns
+        and df["avg_milk_lb_per_cow_day"].notna().any()
     )
     
     if has_milk_data:
         # Use actual milk production data when available
         df[est_milk_col] = (
-            df[AVG_MILK_LB_PER_COW_DAY]
+            df["avg_milk_lb_per_cow_day"]
             * cf["LBS_TO_KG"]
             * cf["KG_PER_L_MILK"]
             * (df["avg_milk_cows"].fillna(0) + df["avg_dry_cows"].fillna(0))
             * cf["DAYS_PER_YEAR"]
         )
         # Set to NA where we don't have milk production data
-        df.loc[df[AVG_MILK_LB_PER_COW_DAY].isna(), est_milk_col] = np.nan
+        df.loc[df["avg_milk_lb_per_cow_day"].isna(), est_milk_col] = np.nan
     else:
         # Use default milk production when no data available
         df[est_milk_col] = (

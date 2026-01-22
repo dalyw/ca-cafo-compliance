@@ -1,0 +1,52 @@
+=== Page 1 ===
+
+
+![0_image_0.png](0_image_0.png)
+
+![0_image_1.png](0_image_1.png)
+
+![0_image_2.png](0_image_2.png)
+
+![0_image_3.png](0_image_3.png)
+
+![0_image_4.png](0_image_4.png)
+
+# Degroot Dairy South 2024 Annual Report
+
+| ~ Attachment H                  |                                     |                                       |              |
+|---------------------------------|-------------------------------------|---------------------------------------|--------------|
+| L                               | Report Form                         |                                       |              |
+| L Attachment A                  | _Jill                               | Attachment I                          |              |
+| L                               | Attachment 8                        | NA                                    | Attachment J |
+| x_ Attachment C                 | JJA_ Manure Tracking Manifests      |                                       |              |
+| ¼.-Attachment D                 | fJA                                 | New or Revised Waste Water Agreements |              |
+| L Attachment E                  | _j(_ Groundwater Monitoring Samples |                                       |              |
+| ¼_ Attachment F  L Attachment G | MA                                  | Monitoring Well Report                |              |
+| ~A Owner/Operator Change Form   |                                     |                                       |              |
+
+Enclosed are the required documents to be submitted to the Regional Water Quality Control Board Centra l Valley Region in compliance with Order No. RS-2013-0122 Waste Discharge Requirement s, Genera l Order for Existing Milk Cow Dairies for July 1, 2025. 
+
+=== Page 3 ===
+# Degroot Dairy South 2024 Estimated Manure And Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
+
+## A. Estimated Total Manure Transferred Offsite
+
+| Total Manure     | Total Nitrogen   | Total Phosphorus   | Total Potassium   | Total Salts      |
+|------------------|------------------|--------------------|-------------------|------------------|
+| Exported (tons)* | Exported (lbs)** | Exported (lbs)**   | Exported (lbs)**  | Exported (lbs)** |
+
+- The Total Manure (tons) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period. 
+
+•• Total (N, P, K, Salts) (lbs)= Sum of (N, P, K, Salts) for each manure export event based on (Manure(tons) x 2000Ib/ton) x ((100-moisture¾)/100) x (N, P, K, and Ash) Concentration(%, dry weight) / 
+100 using the samples closest in date to the export event. 
+
+## B. Estimated Total Process Wastewater Transferred Offsite
+
+| Total Process  Wastewater   | Total Nitrogen   | Total Phosphorus   | Total Potassium   | Total TDS        |
+|-----------------------------|------------------|--------------------|-------------------|------------------|
+| Exported (gal)*             | Exported (lbs)** | Exported (lbs)**   | Exported (lbs)**  | Exported (lbs)** |
+
+- The Total Manure (gals) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period. 
+
+** Total (Nitrogen, Phosphorus, Potassium, TDS) (lbs)= Sum of (Nitrogen, Phosphorus, Potassium, TDS) for each wastewater export event based on (Process Wastewater(gals) x 8.33Ib/gal) x (N03-N 
+or TKN, P, K, TDS) x 10-6 using the samples closest in date to the export event. 

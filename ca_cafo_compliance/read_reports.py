@@ -3,23 +3,23 @@ import numpy as np
 import os
 import glob
 import json
+import gc
+import sys
 
+from helper_functions.metrics_helpers import *
 from helper_functions.read_report_helpers import YEARS, REGIONS, process_pdf
 from helper_functions.geocoding_helpers import (
     geocode_address,
     find_cached_address,
     extract_address_components,
 )
-from helper_functions.metrics_helpers import *
-# (
-#     calculate_metrics,
-#     calculate_consultant_metrics,
-# )
+
+# TODO: 
+# use https://github.com/reglab/cal-ff/tree/main/cacafo
+# for facility list and location cross-checking
 
 read_reports = True
 consolidate_data = True
-cleanup_intermediate = True  # Set to True to clean up OCR files after processing
-
 
 def find_fuzzy_match(row, cadd_facilities):
     """Find fuzzy match between row and CADD facilities."""
@@ -45,13 +45,9 @@ def find_fuzzy_match(row, cadd_facilities):
     return min(distances, key=lambda x: x[0])[1] if distances else None
 
 
-def main(test_mode=False):
+def main():
     """Main function to process all PDF files and extract data."""
-    # Load parameters and create mappings
-    # parameters = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
-    # for v in parameters["parameter_key"]:
-    #     globals()[f'{v.upper()}'] = v
-    print(WASTEWATER_RATIO_AVG)
+
     snake_to_pretty = dict(
         zip(parameters["parameter_key"], parameters["parameter_name"])
     )
@@ -416,14 +412,8 @@ def main(test_mode=False):
         else:
             print("No data found to create all_master file")
 
-    # Force garbage collection
-    import gc
-
+    # Cleanup and clear any large variables
     gc.collect()
-
-    # Clear any large variables that might be in memory
-    import sys
-
     for name in list(sys.modules.keys()):
         if name.startswith("ca_cafo_compliance"):
             try:
@@ -435,4 +425,4 @@ def main(test_mode=False):
 
 
 if __name__ == "__main__":
-    main(test_mode=False)
+    main()

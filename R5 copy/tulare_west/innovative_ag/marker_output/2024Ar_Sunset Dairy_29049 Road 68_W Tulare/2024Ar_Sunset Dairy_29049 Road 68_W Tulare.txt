@@ -1,0 +1,48 @@
+=== Page 1 ===
+
+
+![0_image_0.png](0_image_0.png)
+
+# Sunset Dairy 2024 Ann Ua I Report
+
+| ~ Attachment H               |              |                                                |                                       |
+|------------------------------|--------------|------------------------------------------------|---------------------------------------|
+| y:                           | Report Form  |                                                |                                       |
+| X:                           | Attachment A | NF\                                            | Attachment I                          |
+| )(,                          | Attachment B | t-JA Attachment J  x Manure Tracking Manifests |                                       |
+| X:                           | Attachment C |                                                |                                       |
+| )c,                          | Attachment D | NP...                                          | New or Revised Waste Water Agreements |
+| L_  Attachment E             | Y...         | Groundwater Monitoring Samples                 |                                       |
+| x  -                         | Attachment F | NA                                             | Monitoring Well Report                |
+| ~ Owner/Operator Change Form |              |                                                |                                       |
+| X                            | Attachment G |                                                |                                       |
+
+![0_image_1.png](0_image_1.png)
+
+Enclosed are the required documents to be submitted to the Regional Water Quality Control Board Central Valley Region in compliance with Order No. RS-2013-0122 Waste Discharge Requirements, General Order for Existing Milk Cow Dairies for July 1, 2025. 
+
+=== Page 3 ===
+# Sunset Dairy 2024 Estimated Manure And Process Wastewater/Nutrients Transferred Off-Site {Attachment C)
+
+## A. Estimated Total Manure Transferred Offs!Te
+
+| Total Manure  Exported (tons)*   | Total Nitrogen  Exported (lbs)**   | Total Phosphorus  Exported (lbs)**   | Total Potassium  Exported (lbs)**  59,873.30   | Total Salts   |
+|----------------------------------|------------------------------------|--------------------------------------|------------------------------------------------|---------------|
+| Exported (lbs)**                 |                                    |                                      |                                                |               |
+| 2,340                            | 89,356.36                          | 20,910.30                            | 2,272,463.86                                   |               |
+
+* The Total Manure (tons) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period . 
+
+** Total (N, P, K, Salts) (lbs) = Sum of (N, P, K, Salts) for each manure export event based on (Manure(tons) x 2000Ib/ton) x ((1 00-moisture¾)/100) x (N, P, K, and Ash) Concentration(%, dry weight) / 
+100 using the samples closest in date to the export event. 
+
+## B. Estimated Total Process Wastewater Transferred Offsite
+
+| Total Process  Wastewater   | Total Nitrogen   | Total Phosphorus   | Total Potassium   | Total TDS        |
+|-----------------------------|------------------|--------------------|-------------------|------------------|
+| Exported (gal)*             | Exported (lbs)** | Exported (lbs)**   | Exported (lbs)**  | Exported (lbs)** |
+
+* The Total Manure (gals) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period. 
+
+** Total (Nitrogen, Phosphorus, Potassium, TDS) (lbs) = Sum of (Nitrogen, Phosphorus, Potassium, TDS) for each wastewater export event based on (Process Wastewater(gals) x 8.33Ib/gal) x (N03-N 
+or TKN, P, K, TDS) x 10-6 using the samples closest in date to the export event. 

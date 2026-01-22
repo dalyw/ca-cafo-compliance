@@ -1,0 +1,58 @@
+=== Page 1 ===
+i General Waste Discharge Requirements Concentrated Animal Feeding Operations Page 1 of 1 NPDES Permit No. CAG018001 Form 4
+
+## Form 4
+
+Manure Tracking Manifest INSTRUCTIONS:
+Complete one manifest for each hauling event and for each destination.  A hauling event may last for several days, as long as the manure is
+-
+being hauled to the same destination.
+
+If there are multiple destinations, complete a separate form for each destination.
+
+2. 3.
+
+The CAFO operator must obtain the signature of the hauler upon completion of each manure hauling event.
+
+The CAFO operator shall submit manure tracking manifest(s) with the Annual Report to Regional Board, 4.
+
+OPERATOR'S INFORMATION
+
+| OPERATOR'S INFORMATION                                                             |                                                                                     |             |                                                           |
+|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------|
+| CAFO Operator's Name                                                               | Josh de Jong                                                                        |             |                                                           |
+| Hollandia Farms North                                                              |                                                                                     |             |                                                           |
+| CAFO Facility Name                                                                 |                                                                                     |             |                                                           |
+| Facility Address                                                                   | 35600 Ramona Expressway, San Jacinto CA 92582                                       |             |                                                           |
+| Mailing Address                                                                    | 35600 Ramona Expressway, San Jacinto CA 92582                                       |             |                                                           |
+| 951-330-1735                                                                       |                                                                                     |             |                                                           |
+| Telephone Number                                                                   |                                                                                     |             |                                                           |
+| MANURE INFORMATION                                                                 | Yes                                                                                 | No          | n                                                         |
+| Manure analyzed for nutrients?                                                     | Yes                                                                                 | No          |                                                           |
+| Most current nutrient analysis of manure provided to the recipient of the manure?  |                                                                                     |             |                                                           |
+| MANURE HAULER INFORMATION                                                          | Phone Number:                                                                       |             |                                                           |
+| Name and Address of Hauling Company Milkyway Trucking, PO Box 77, Brawley CA 92227 | 760-592-3010                                                                        |             |                                                           |
+| Contact Person Name: Chad                                                          |                                                                                     |             |                                                           |
+| MANURE DESTINATION INFORMATION                                                     | Dates Hauled: 1/1/23-12/31/23                                                       |             |                                                           |
+| Hauled to (please check):                                                          |                                                                                     |             |                                                           |
+| Composting Facility                                                                | Destination of Haul: N/A                                                            |             |                                                           |
+| Regional Treatment Facility                                                        | Latitude:                                                                           |             |                                                           |
+| Croplands In Riverside County                                                      | GPS Coordinates of Destination                                                      | Longitude:  |                                                           |
+| Croplands in San Bernardino County                                                 |                                                                                     |             |                                                           |
+| L                                                                                  | Croplands in other Counties                                                         | Imperial    | Destination Receiver of Manure:_                          |
+| Out of State                                                                       | Written permissions or exemptions from the reciplent of the manure are valid and in |             |                                                           |
+| "                                                                                  |                                                                                     |             |                                                           |
+| Amount delivered:                                                                  | Tons                                                                                | Cubic Yards | full effect and have been provided to the Regional Board: |
+| (Please enter the amount in the box below and circle the                           |                                                                                     |             |                                                           |
+| appropriate units)                                                                 |                                                                                     |             |                                                           |
+| 12189                                                                              | Approximate Acreage (If Destination Is Cropland)                                    |             |                                                           |
+| Crop(s) Grown on Cropland_                                                         |                                                                                     |             |                                                           |
+| CERTIFICATION:                                                                     |                                                                                     |             |                                                           |
+
+I certily under penelty of law that this document and all attachments were prepared under my direction or supervision in eccordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted.  Based on my inquiry of the person or persons wo manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge and belief, true, accurate, and complete.  I am aware that there are significant ponalties for submitting false information. Including the possibility of fine and imprisonment for knowing violations. Operator's Signature:
+
+![0_image_0.png](0_image_0.png)
+
+Hauler's Signature:
+Date:
+Date:

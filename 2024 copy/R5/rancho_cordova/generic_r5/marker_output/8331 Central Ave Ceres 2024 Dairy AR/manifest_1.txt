@@ -1,0 +1,56 @@
+## Attachment D
+
+Manure Tracking Manifest For Existing Milk Cow Dairies Instructions:
+
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the manure is being hauled to the same destination.
+
+If there are multiple destinations, complete a separate form for each destination.
+
+The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+3)
+The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 4)
+Monitoring Report for Existing Milk Cow Dairies.
+Operator Information:
+Name of Operator:
+Chris Bettencourt
+
+| Name of Dairy Facility:               |
+|---------------------------------------|
+| Facility Address:                     |
+| Contact Person Name and Phone Number: |
+| Manure Hauler Information:            |
+
+Frank J. Bettencourt & Sons Dairy
+
+| 8331 Central Avenue, Ceres, CA 95307    |                |
+|-----------------------------------------|----------------|
+| Chris Bettencourt                       | (209) 678-5245 |
+| Silva & Sons, LLC                       |                |
+| 23616 Williams Avenue, Hilmar, CA 95324 |                |
+| (209) 678-4027                          |                |
+| Frank Silva                             |                |
+
+Name of Hauling Company/Person:
+
+| Address of Hauling Company /Person:   |
+|---------------------------------------|
+
+Contact Person and Phone Number: Destination Information:
+Composting Facility / Broker / Farmer / Other (identify)  Broker
+(please circle one)
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Silva & Sons, LLC 23616 Williams Avenue Name Number and Street Hilmar City
+(209) 678-4027 95324 Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number:
+23616 Williams Avenue Number and Street
+
+| Hilmar   | 95324    |                          |
+|----------|----------|--------------------------|
+| City     | Zip Code | Assessor's Parcel Number |
+
+11/1/24 Dates Hauled:
+Amount Hauled:
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:
+Manure:
+950 Tons Manure Solids Content (if amount reported in tons): 91.6%

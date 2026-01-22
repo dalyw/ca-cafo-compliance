@@ -1,0 +1,215 @@
+=== Page 89 ===
+REQUIRED ATTACHMENTS
+A. REQUIRED ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted.
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Discharge Maps
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+Discharge Lab Reports
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 90 ===
+Solid/Liquid Manure Tracking Manifest
+Waste Generator Information:
+Name:
+Javier Echeverria
+Facility Name:
+J&R Dairy
+Facility Address:
+4403 Bear Mountain Blvd
+Facility City/State:
+Bakersfield, CA 93313
+Contact:
+Name:
+Javier Echeverria
+Number:
+(661) 074-7063
+ 
+ 
+Manure Hauler / Processor Information:
+Name:
+Brachena Ag Services, Inc
+Facility Address:
+9442 Bear Mountain Blvd.
+Facility City/State:
+Bakersfield, CA 93311
+Contact:
+Name:
+Fred Amirfar
+Number:
+(661) 978-9321
+ 
+Manure Destination
+Farmer
+Destination Information:
+Name:
+American Ag, Inc.
+Facility Address:
+PO Box 20370
+Facility City/State:
+Bakersfield, CA
+Contact:
+Name:
+American Ag, Inc.
+Number:
+ 
+Dates Hauled / Transferred
+Amount Hauled / Transferred
+Units
+Moisture %
+Jun 1, 2024 - Jun, 30 2024
+5,323
+ton
+68 %
+Jul 1, 2024 - Jul, 31 2024
+10,284
+ton
+66 %
+Aug 1, 2024 - Aug, 31 2024
+8,463
+ton
+66 %
+Nov 1, 2024 - Nov, 30 2024
+3,811
+ton
+70 %
+Dec 1, 2024 - Dec, 31 2024
+3,103
+ton
+70 %
+Total
+30,984
+If amount hauled / transferred is liquid, then a "Waste
+Water Agreement" is required in compliance with
+Land Application Specification C.2 of the General
+Order R5-2007-0035.
+Does the operator have an agreement, and is a
+Waste Water Agreement on file with the
+RWQCD?   NO
+I declare under the penalty of law that I personally
+examined and am familiar with the information
+submitted in this document, and that based on my
+inquiry of those individuals immediately responsible
+for obtaining the information, I believe that the
+information is true, accurate and complete. I am
+aware that there are significant penalties for
+submitting false information., including the possibility
+of a fine and imprisonment for knowing violations.
+Signature of Owner:
+Date:
+12/30/2024
+ 
+Signature of Hauler:
+Date:
+12/30/2024
+
+
+=== Page 92 ===
+Solid/Liquid Manure Tracking Manifest
+Waste Generator Information:
+Name:
+Javier Echeverria
+Facility Name:
+J&R Dairy
+Facility Address:
+4403 Bear Mountain Blvd
+Facility City/State:
+Bakersfield, CA 93313
+Contact:
+Name:
+Javier Echeverria
+Number:
+(661) 074-7063
+ 
+ 
+Manure Hauler / Processor Information:
+Name:
+Brachena Ag Services, Inc
+Facility Address:
+9442 Bear Mountain Blvd.
+Facility City/State:
+Bakersfield, CA 93311
+Contact:
+Name:
+Fred Amirfar
+Number:
+(661) 978-9321
+ 
+Manure Destination
+Farmer
+Destination Information:
+Name:
+Kirschenman Enterprises
+Facility Address:
+Po Box 27
+Facility City/State:
+Edison, CA
+Contact:
+Name:
+Kirschenman Enterprises
+Number:
+ 
+Dates Hauled / Transferred
+Amount Hauled / Transferred
+Units
+Moisture %
+Jan 1, 2024 - Jan, 31 2024
+2,977
+ton
+68 %
+May 1, 2024 - May, 31 2024
+9,407
+ton
+67 %
+Jun 1, 2024 - Jun, 30 2024
+12,150
+ton
+69 %
+Aug 1, 2024 - Aug, 31 2024
+10,887
+ton
+66 %
+Sep 1, 2024 - Sep, 30 2024
+13,294
+ton
+70 %
+Total
+48,715
+If amount hauled / transferred is liquid, then a "Waste
+Water Agreement" is required in compliance with
+Land Application Specification C.2 of the General
+Order R5-2007-0035.
+Does the operator have an agreement, and is a
+Waste Water Agreement on file with the
+RWQCD?   NO
+I declare under the penalty of law that I personally
+examined and am familiar with the information
+submitted in this document, and that based on my
+inquiry of those individuals immediately responsible
+for obtaining the information, I believe that the
+information is true, accurate and complete. I am
+aware that there are significant penalties for
+submitting false information., including the possibility
+of a fine and imprisonment for knowing violations.
+Signature of Owner:
+Date:
+12/30/2024
+ 
+Signature of Hauler:
+Date:
+12/30/2024

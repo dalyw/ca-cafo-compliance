@@ -1,0 +1,55 @@
+Manure/Process Wastewater Tracking Manifest For
+
+## Existing Milk Cow Dairies
+
+Instructions:
+
+ Complete one manifest for each hauling event, for each destination.  A hauling event may last for 1)
+several days, as long as the manure is being hauled to the same destination.
+
+2) If there are multiple destinations, complete a separate form for each destination.
+
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+## Operator Information:
+
+Name of Operator:
+Kevin Ullrich
+
+| Name of Dairy Facility:     U Bar Dairy                 |              |          |
+|---------------------------------------------------------|--------------|----------|
+| Facility Address:   11100 Liberty Rd.                   | Galt         | 95632    |
+| Number and Street                                       | City         | Zip Code |
+| Contact Person Name and Phone Number:     Kevin Ullrich | 209-607-5043 |          |
+| Name                                                    | Phone Number |          |
+| Manure/Process Wastewater Hauler Information:           |              |          |
+| Name of Hauling Company/Person: _Warren Spreading_      |              |          |
+| Address of Hauling Company /Person: _27613 Sowles Rd.   | Galt         | 95632    |
+| Number and Street                                       | City         | Zip Code |
+| Contact Person:      Jerry Warren                       | 209-327-0779 |          |
+| Name                                                    | Phone Number |          |
+| Destination Information:                                |              |          |
+
+Destination Information:
+Composting Facility / Broker / Farmer / Other (identify)
+(please circle one)
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above);
+Frank Riccobuono 11151 Liberty Rd.
+
+Galt 95632 Name Number and Street City Zip Code 209-368-4514 Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number:
+Number and Street SAME
+City Zip Code Assessor's Parcel Number Dates Hauled: 1999 September 23-26, 2024
+
+## Amount Hauled:
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:  N   2.00%
+P 1.64%
+K 3.25%
+Manure:
+470 Tons or Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons):
+6.8%
+Manure Density (if amount reported in cubic yards):

@@ -1,6 +1,8 @@
 *.ipynb
 *.pdf
 **plasma**
+**original**
+**.env
 
 # Python specific
 __pycache__/
@@ -33,3 +35,6 @@ var/
 # OS specific
 .DS_Store
 Thumbs.db 
+
+# Local folders
+*local*

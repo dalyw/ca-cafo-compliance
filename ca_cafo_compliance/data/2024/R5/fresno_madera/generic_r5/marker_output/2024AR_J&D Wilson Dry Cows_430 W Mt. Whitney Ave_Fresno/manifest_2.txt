@@ -1,0 +1,32 @@
+## Manu16 / Process Wastewater Tracking Manifest
+
+Fot Exlsting Milk Cow Dairies General Order No. R5-2007-0035, Attachment D
+INSTRUCTIONS
+'l) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the manure is being hauled to the same destination.
+
+2) lf there are multiple destinations, complete a s€parat€ form for each deslination.
+
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event. 4) The operalor shall submit copies of manure/process wastewater tracking manifest(s) wilh the Annual Monitoring Reporl for Exisling Milk Cow Dairies.
+
+| OPERATOR INFORMATION                                                                                                                                                             |                                |          |                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|----------|-----------------------|
+| Name of Operator: Jim Wilson Name of Dairy Facility: J&D Wilson Dry Cows Facility Address: 430 W Mt. Whitney AVE                                                                 | Riverdale                      | Fresno   | 93656                 |
+| Number and Street Contact Person Name and Phone Number                                                                                                                           | City                           | County   | Zip Code              |
+| Jim Wilson                                                                                                                                                                       | 559                            | 244-5206 |                       |
+| ame                                                                                                                                                                              | Phone Number                   |          |                       |
+| MANURE HAULER INFORI\,4ATION                                                                                                                                                     |                                |          |                       |
+| Name of Hauling Company/Person:                                                                                                                                                  | Thomas Bros Spreading          |          |                       |
+| Address of Hauling company/Person 19721 Exceslsior                                                                                                                               | Riverdale                      | CA       | 93656                 |
+| Number and Street ContactPerson: ManuelThomas                                                                                                                                    | Cily                           | Slate    | Zip Code 559 906-1406 |
+| ame                                                                                                                                                                              | Phone Number                   |          |                       |
+| DESTINATION NFORI\,4ATION                                                                                                                                                        |                                |          |                       |
+| Composting Facility / Broker / Farmer / Other (identiry): Broker Contiact information of Composting Facility, Brok6r, Farmsr, or Other (as identified above) Thomas Brcs Hauling | (s59) 352-0608                 |          |                       |
+| Name                                                                                                                                                                             | Phone Number                   |          |                       |
+| 19721 Exceslsior                                                                                                                                                                 | Riverdale                      | CA       | 93656                 |
+| Address Destination Address orAssessor's Parcel Numb6r                                                                                                                           | City                           | State    | Zip Code              |
+| Riverdale                                                                                                                                                                        | 93656                          |          |                       |
+| Address                                                                                                                                                                          | City                           | Zip Code |                       |
+| Stockpile                                                                                                                                                                        | Fresno                         |          |                       |
+| Street and nearesl cross street {if no address)                                                                                                                                  | County                         |          |                       |
+| Assessoas Parcel Number                                                                                                                                                          | Assesso/s Parcel Number County |          |                       |
+| Last date hauled: Ogl1ol2024                                                                                                                                                     |                                |          |                       |

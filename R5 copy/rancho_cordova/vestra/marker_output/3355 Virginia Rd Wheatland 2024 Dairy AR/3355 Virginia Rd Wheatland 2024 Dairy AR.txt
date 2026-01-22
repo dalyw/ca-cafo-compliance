@@ -1,0 +1,86 @@
+=== Page 2 ===
+13. A statement indicating whether the Nutrient Management Plan (NMP) has been updated and whether the current version of the NMP was developed or approved by a certified nutrient management planner as specified in Attachment C of the Order. Included in Exhibit 2, Page 44.
+
+14. Copies of all manure/wastewater tracking manifests for the reporting period. Included in Exhibit 4.
+
+15. A statement indicating if there were any changes to third-party agreements to receive manure or process wastewater. No changes occurred in 2024.
+
+16. Copies of all written agreements with each third party that receives wastewater from the Discharger for its own use from the Discharger. No wastewater is transferred offsite.
+
+17. Copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), 
+surface water (upstream and downstream of a discharge), and stormwater, including chain-ofcustody forms and laboratory quality assurance/quality control results. The laboratory report for the stormwater analysis is included in Exhibit 3. 
+
+18. Tabulated analytical data for samples of manure, wastewater, irrigation water, soil, and plant tissue. The data shall be tabulated to clearly show sample dates, constituents analyzed, constituent concentrations, and detection limits. Included in Exhibit 3. 
+
+19. Results of the Record-Keeping Requirements for the production and land application areas specified in Record-Keeping Requirements: 
+B.2.b Deficiencies. None recorded in 2024 B.2.c Time, date, and volume of overflow. No overflow events occurred during the reporting period. 
+
+B.3.a Crop yields. Included in Exhibit 2, Page 4-9. B.3.b Crop acreage, plant and harvest dates. Included in Exhibit 2, Pages 4-9. B.3.c Manure applied to fields. No manure applied during reporting period.
+
+B.3.d Wastewater applied to fields. Included in Exhibit 2, Pages 10-16.
+
+B.3.e Weather conditions during wastewater application. Included in Exhibit 5 B.3.j Calculations of nitrogen, phosphorus, and potassium actually applied. Included in Exhibit 2, Pages 16-32, and Page 42.
+
+B.3.l Corrective actions. None required or implemented in 2024. 
+
+## Annual Reporting Notes And Limitations
+
+Application volumes used in the 2024 Annual Report are reduced by 25 percent from volumes recorded in the irrigation records to account for the portion of water that runs off the fields and is recirculated into the process wastewater pond. Field 1 was not planted during the 2024 reporting year, and there were no land applications to Field 1. See the Notes section of the Annual Report (Exhibit 2, Page 43) for additional details regarding the data entered into the Annual Report.
+
+P:\Projects\2009\70918 Tollcrest Dairy\Reports\Annual Reports\2024 Annual Report\_Tollcrest Dairy Annual Report Cover Letter_062725.doc
+
+=== Page 5 ===
+Manure/Process Wastewater Tracking Manifest For
+
+# Existing Milk Cow Dairies
+
+Instructions:
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for
+
+several days, as long as the manure is being hauled to the same destination.
+
+If there are multiple destinations, complete a separate form for each destination.
+
+2).
+
+The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+3)
+The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 4)
+Monitoring Report for Existing Milk Cow Dairies.
+
+## Operator Information :
+
+Name of Operator:  Sietse Tollenaar
+
+| Name of Dairy Facility:  Tollcrest Dairy               |              |          |
+|--------------------------------------------------------|--------------|----------|
+| Facility Address:  3355 Virginia Rd.                   | Wheatland    | 95692    |
+| Number and Street                                      | City         | Zip Code |
+| 530.633.0670                                           |              |          |
+| Contact Person Name and Phone Number; Sietse Tollenaar |              |          |
+| Name                                                   | Phone Number |          |
+| Manure/Process Wastewater Hauler Information:          |              |          |
+
+Name of Hauling Company/Person: Beebe Industries Address of Hauling Company /Person: P.O. Box 665.
+
+| Lincoln           | 95648   |          |
+|-------------------|---------|----------|
+| Number and Street | City    | Zip Code |
+| 916-645-6073      |         |          |
+| Phone Number      |         |          |
+
+Contact Person:  Gary Beebell Name Destination Information:
+Composting Facility / Broker / Farmer / Other (identify)  Broker
+(please circle one)
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name Number and Street City Zip Code Phone Number Manure/Process Wastewater Destination Address or Assessor's Parcel Number:
+Number and Street City Zip Code Assessor's Parcel Number Dates Hauled:  01-01-2024 through 01-31-2024
+
+## Amount Hauled:
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:
+Tons or Cubic Yards (indicate which units used)
+Manure:  15200 Manure Solide Content (if amount reported in tons): _15200_
+Manure Density (if amount reported in cubic yards):

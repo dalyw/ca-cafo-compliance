@@ -1,0 +1,48 @@
+Manure/Process Wastewater Tracking Manifest For
+
+![0_image_1.png](0_image_1.png)
+
+![0_image_2.png](0_image_2.png)
+
+Existing Milk Cow Dairies Instructions:
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the manure is being hauled to the same destination.
+
+2)
+3)
+4)
+If there are multiple destinations, complete a separate form for each destination.
+
+The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for Existing Milk Cow Dairies.
+
+![0_image_0.png](0_image_0.png)
+
+Operator Information:
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+
+Contact Person Name and Phone Number:
+Manure/Process Wastewater Hauler InformationS
+
+| Manure/Process Wastewater Hauler InformationS   |              |
+|-------------------------------------------------|--------------|
+| Name of Hauling Company/Person:                 |              |
+| Address of Hauling Company /Person:             |              |
+| Contact Person:                                 |              |
+| Destination Information:                        | Phone Number |
+
+Composting Facility / Broker / Farmer / Other (identify)
+(please circle one)
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified about
+-an-base Number and Street Manure/Process Wastewater Destination Address or Assessor's Parcel Number; Number and Street Dates Hauled:
+Amount Hauled:
+Enter the amount of manure hauled in tons or cubic yards (indicate the Units used), the manure solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:
+Manure:   20 Tons or Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons):
+Manure Density (if amount reported in cubic yards):
+
+| City   | Zip Code   | Assessor's Parcel Number   |
+|--------|------------|----------------------------|

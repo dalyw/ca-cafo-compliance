@@ -1,0 +1,104 @@
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Chamberlain Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 09/26/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X074-X013-X029-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 492.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024

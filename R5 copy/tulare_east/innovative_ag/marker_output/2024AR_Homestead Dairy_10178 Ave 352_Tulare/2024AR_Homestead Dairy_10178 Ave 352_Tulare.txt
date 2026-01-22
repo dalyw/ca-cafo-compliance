@@ -1,0 +1,48 @@
+=== Page 1 ===
+
+
+![0_image_0.png](0_image_0.png)
+
+![0_image_1.png](0_image_1.png)
+
+![0_image_2.png](0_image_2.png)
+
+![0_image_3.png](0_image_3.png)
+
+# Homestead Dairy 2024 Annual Report
+
+| L Report Form  L Attachment A    | ___jJ_8_ Attachment H  ~A: Attachment I   |                                              |
+|----------------------------------|-------------------------------------------|----------------------------------------------|
+| L                                | Attachment 8                              | ___hl_fl_ Attachment J                       |
+| LAttachment C                    | NA.                                       | Manure Tracking Manifests                    |
+| X                                | Attachment D                              | --1JA_ New or Revised Waste Water Agreements |
+| .}{_ Attachment E                | 'I                                        | Groundwater Monitoring Samples               |
+| ~ Monitoring Well Report         |                                           |                                              |
+| _X__Attachment F  L Attachment G | ____hl& Owner/Operator Change Form        |                                              |
+
+Enclosed are the required documents to be submitted to the Regional Water Quality Control Board Central Valley Region in compliance with Order No. RS-2013-0122 Waste Discharge Requirements, General Order for Existing Milk Cow Dairies for July 1, 2025. 
+
+=== Page 3 ===
+# Homestead Dairy 2024 Estimated Manure And Process Wastewater/Nutrients Transferred Off-Site (Attachment C)
+
+## A. Estimated Total Manure Transferred Offsite
+
+| Total Manure     | Total Nitrogen   | Total Phosphorus   | Total Potassium   | Total Salts      |
+|------------------|------------------|--------------------|-------------------|------------------|
+| Exported (tons)* | Exported (lbs)** | Exported (lbs)**   | Exported (lbs)**  | Exported (lbs)** |
+
+* The Total Manure (tons) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period. 
+
+** Total (N, P, K, Salts) (lbs)= Sum of (N, P, K, Salts) for each manure export event based on (Manure(tons) x 2000Ib/ton) x ((1 00-moisture¾)/100) x (N, P, K, and Ash) Concentration (%, dry weight) / 
+100 using the samples closest in date to the export event. 
+
+## B. Estimated Total Process Wastewater Transferred Offsite
+
+| Total Process  Wastewater   | Total Nitrogen   | Total Phosphorus   | Total Potassium   | Total TDS        |
+|-----------------------------|------------------|--------------------|-------------------|------------------|
+| Exported (gal)*             | Exported (lbs)** | Exported (lbs)**   | Exported (lbs)**  | Exported (lbs)** |
+
+* The Total Manure (gals) should be calculated as the sum of all manure transferred offsite as reported in all the Manure/Process Wastewater Tracking Manifests for the reporting period. 
+
+** Total (Nitrogen, Phosphorus, Potassium, TDS) (lbs)= Sum of (Nitrogen, Phosphorus, Potassium, TDS) for each wastewater export event based on (Process Wastewater(gals) x 8.33Ib/gal) x (N03-N 
+or TKN, P, K, TDS) x 10-6 using the samples closest in date to the export event. 

@@ -1,0 +1,11 @@
+{
+  "result_text": "=== Page 1 ===\n# Livingston Dairy Consulting, Inc.\n\n![0_Image_0.Png](0_Image_0.Png)\n\n1635 E. Propserity Ave., Ste B, Tulare 559-687-1440\n\n![0_image_1.png](0_image_1.png)\n\nAnnual Report \n\n![0_image_2.png](0_image_2.png)\n\nWater Analysis Samples\n\n| Manure Manifest   |\n|-------------------|\n\n| Facility / Land Map   |\n|-----------------------|\n\n| CCA Nitrogen Retrofit Report   |\n|--------------------------------|\n",
+  "markdown": "=== Page 1 ===\n# Livingston Dairy Consulting, Inc.\n\n![0_Image_0.Png](0_Image_0.Png)\n\n1635 E. Propserity Ave., Ste B, Tulare 559-687-1440\n\n![0_image_1.png](0_image_1.png)\n\nAnnual Report \n\n![0_image_2.png](0_image_2.png)\n\nWater Analysis Samples\n\n| Manure Manifest   |\n|-------------------|\n\n| Facility / Land Map   |\n|-----------------------|\n\n| CCA Nitrogen Retrofit Report   |\n|--------------------------------|\n",
+  "pages_processed": [
+    1,
+    13,
+    101
+  ],
+  "extraction_method": "marker",
+  "status": "success"
+}

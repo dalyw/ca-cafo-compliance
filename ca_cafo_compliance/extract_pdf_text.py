@@ -1,403 +1,431 @@
 #!/usr/bin/env python3
-
 import os
+os.environ['HF_HUB_OFFLINE'] = '1' # TODO: test this line
+os.environ['TRANSFORMERS_OFFLINE'] = '1'
 import glob
 import csv
 import json
-import tempfile
-import pytesseract
-from pdf2image import convert_from_path
 import cv2
+import pymupdf as fitz
+import pytesseract
 import numpy as np
-import pandas as pd
+from PIL import Image
+import io
+from pdf2image import convert_from_path
+import tempfile
+from marker.convert import convert_single_pdf
+from marker.models import load_all_models
 from helper_functions.read_report_helpers import clean_common_errors, YEARS, REGIONS
-from paddleocr import PaddleOCR
-from multiprocessing import Pool
 
-# All scripts generated with help from Claude 3.5
-
-
-# OCR engine selection: "paddleocr" (default) or "tesseract"
-ocr_engine = "paddleocr"
-
-test_mode = True  # Set to True to process only 5 files for testing
-max_pages_per_document = 10  # Limit processing to first N pages of each document
-
-# Performance optimization settings
-use_angle_cls = False  # Disable angle classification for speed
-use_doc_orientation_classify = False  # Disable document orientation classification
-use_doc_unwarping = False  # Disable document unwarping
-text_det_limit_side_len = 960  # Limit image size for faster processing
-text_rec_score_thresh = 0.5  # Lower threshold for faster processing
-
-# Global OCR model to avoid reinitialization
-global_ocr_model = None
-
-# --- Helper Functions ---
-def clean_text(text):
-    """Clean up OCR text output while preserving original line structure."""
-    lines = text.splitlines()
-    cleaned_lines = []
-    for line in lines:
-        # Clean common OCR errors
-        line = clean_common_errors(line)
-
-        # Preserve leading spaces and clean up the rest
-        leading_spaces = len(line) - len(line.lstrip())
-        line = " " * leading_spaces + " ".join(line.strip().split())
-        line = "".join(char for char in line if char.isprintable())
-        cleaned_lines.append(line)
-    return "\n".join(cleaned_lines)
+# Configuration
+OCR_ENGINE = "marker"  # Default OCR engine
+TEST_MODE = False  # Process only test files
+MAX_PAGES = 999  # Max pages per document
+FITZ_OUTPUT_FOLDER = "fitz_output"
+_MARKER_MODELS = load_all_models()
 
 
-def preprocess_image(image):
-    """Preprocess image to improve OCR accuracy."""
-    image = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
-    gray = clahe.apply(gray)
-    _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-    kernel = np.ones((1, 2), np.uint8)
-    dilated = cv2.dilate(thresh, kernel, iterations=1)
-    return dilated
-
-
-def detect_orientation(image):
-    """Detect page orientation using Tesseract OSD (psm 1). 
-    Returns angle in degrees (0, 90, 180, 270)."""
-    try:
-        osd = pytesseract.image_to_osd(image)
-        for line in osd.splitlines():
-            if "Rotate:" in line:
-                return int(line.split(":")[1].strip())
-    except Exception:
-        pass
-    return 0
-
-
-def process_page_tesseract(image, rotation=0):
-    """Process a page image with Tesseract OCR."""
-    processed_image = preprocess_image(image)
-    angle = detect_orientation(processed_image)
-    if angle != 0:
-        if angle == 90:
-            processed_image = cv2.rotate(processed_image, cv2.ROTATE_90_CLOCKWISE)
-        elif angle == 180:
-            processed_image = cv2.rotate(processed_image, cv2.ROTATE_180)
-        elif angle == 270:
-            processed_image = cv2.rotate(
-                processed_image, cv2.ROTATE_90_COUNTERCLOCKWISE
-            )
-    # OCR Config notes:
-    # https://pyimagesearch.com/2021/11/15/tesseract-page-segmentation-modes-psms-explained-how-to-improve-your-ocr-accuracy/
-    ocr_config = (
-        r'--oem 1 --psm 4 -c tessedit_char_whitelist="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        r'abcdefghijklmnopqrstuvwxyz.,()-_&/ " -c preserve_interword_spaces=1'
-    )
-    raw_text = pytesseract.image_to_string(
-        processed_image, config=ocr_config, lang="eng"
-    )
-    return clean_text(raw_text)
-
-
-def process_page_paddleocr(image, ocr_model):
-    """Process a page image with PaddleOCR."""
-    # Convert PIL image to numpy array
-    img_array = np.array(image)
+def extract_specific_pages(pdf_path, pages, output_path=None):
+    """
+    Extract specific pages from a PDF to a new PDF file.
     
-    # Resize image if too large for faster processing
-    height, width = img_array.shape[:2]
-    max_size = 2048  # Maximum dimension for processing
-    if max(height, width) > max_size:
-        scale = max_size / max(height, width)
-        new_height = int(height * scale)
-        new_width = int(width * scale)
-        img_array = cv2.resize(img_array, (new_width, new_height), interpolation=cv2.INTER_AREA)
+    Args:
+        pdf_path: Source PDF path
+        pages: List of 1-indexed page numbers to extract
+        output_path: Output PDF path (default: temp file)
     
-    # Run PaddleOCR
-    result = ocr_model.ocr(img_array)
-    print('page done')
-    return result
-
-
-def extract_text_from_paddleocr_result(result):
-    """Extract plain text from PaddleOCR result."""
-    if not result or not result[0]:
-        return ""
+    Returns:
+        Path to the extracted PDF, or None on failure
+    """
     
-    text_lines = []
-    for line in result[0]:
-        if line and len(line) >= 2:
-            # line[1][0] contains the recognized text
-            text_lines.append(line[1][0])
+    if not pages:
+        return None
     
-    return "\n".join(text_lines)
+    doc = fitz.open(pdf_path)
+    new_doc = fitz.open()
+    added_pages = 0
+    
+    for page_num in pages:
+        if 0 < page_num <= len(doc):
+            new_doc.insert_pdf(doc, from_page=page_num-1, to_page=page_num-1)
+            added_pages += 1
+    
+    if output_path is None:
+        # Create a temporary file path for the extracted page(s)
+        fd, tmp_path = tempfile.mkstemp(suffix=".pdf")
+        os.close(fd)
+        output_path = tmp_path
+    
+    # Avoid saving zero-page PDFs
+    if added_pages == 0:
+        new_doc.close()
+        doc.close()
+        return None
+    
+    new_doc.save(output_path)
+    new_doc.close()
+    doc.close()
+    
+    return output_path
+
+def is_low_quality_ocr(text):
+    """Detect low-quality OCR text with common errors."""
+    if not text or len(text) < 100:
+        return True
+    
+    # Count suspicious patterns per 1000 characters
+    sample = text[:5000]
+    issues = 0
+    
+    # Check for common OCR errors
+    issues += sample.count('6') / 10  # '6' often replaces 'e' 
+    issues += sample.count('1') / 10  # '1' often replaces 'l' or 'i'
+    issues += len([w for w in sample.split() if len(w) <= 2 and w.isalpha()]) / 5  # Too many 2-letter words
+    issues += sum(1 for c in sample if not c.isprintable() and c not in '\n\t') / 5  # Unprintable chars
+    
+    # Check for missing spaces (words too long)
+    avg_word_len = sum(len(w) for w in sample.split()) / max(len(sample.split()), 1)
+    if avg_word_len > 12:
+        issues += 10
+    
+    return issues > 20  # Threshold for "low quality"
 
 
-def process_pdf(pdf_path, file_list_df, ocr_engine="paddleocr", max_pages=10):
-    """Process a single PDF file and extract text using OCR."""
-    global global_ocr_model
+def has_missing_manifest_quantities(text):
+    """Detect if manifest form is present but quantity values are missing or unreadable."""
+    import re
+    
+    text_lower = text.lower()
+    
+    # Check if this is a manifest
+    is_manifest = any(term in text_lower for term in [
+        "manifest",
+        "amount hauled",
+        "operator information",
+        "hauler information"
+    ])
+    
+    if not is_manifest:
+        return False
+    
+    # Look for quantity fields with actual numeric values
+    # Check for manure quantity (tons or cubic yards followed by a number)
+    manure_pattern = r'manure:?\s*[_\s]*(?:tons|cubic yards)?[_\s]*(\d+[,\d]*(?:\.\d+)?)'
+    wastewater_pattern = r'(?:process\s+)?wastewater:?\s*[_\s]*(?:gallons)?[_\s]*(\d+[,\d]*(?:\.\d+)?)'
+    
+    has_manure_number = bool(re.search(manure_pattern, text_lower))
+    has_wastewater_number = bool(re.search(wastewater_pattern, text_lower))
+    
+    # Check for N/A patterns (form filled but with N/A instead of numbers)
+    has_na_only = ('n/a' in text_lower) and not (has_manure_number or has_wastewater_number)
+    
+    # If manifest keywords exist but no quantities found, likely unreadable
+    has_amount_section = 'amount hauled' in text_lower
+    
+    return has_amount_section and not (has_manure_number or has_wastewater_number)
+
+
+def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None, max_pages=999):
+    """Universal text extraction supporting fitz, marker, and tesseract."""
+    
+    if method == "fitz":
+        doc = fitz.open(pdf_path)
+        pages = [p - 1 for p in pages_to_process if 0 < p <= len(doc)] if pages_to_process else range(len(doc))
+        all_text = [f"=== Page {p + 1} ===\n{doc[p].get_text()}" 
+                    for p in pages if doc[p].get_text().strip()]
+        doc.close()
+        full_text = "\n\n".join(all_text)
+        
+        # Check quality and fall back to marker if poor
+        if is_low_quality_ocr(full_text):
+            # TODO: remove this if template detection suffices
+            return {"result_text": full_text, "extraction_method": "fitz", "status": "low_quality", "should_retry": True}
+        
+        return {"result_text": full_text, "extraction_method": "fitz", "status": "success"}
+    
+    elif method == "marker":
+        pages_list = pages_to_process or list(range(1, fitz.open(pdf_path).page_count + 1))
+        all_page_texts = []
+        
+        for page_num in pages_list:
+            temp_pdf = extract_specific_pages(pdf_path, [page_num])
+            if temp_pdf:
+                page_text, _, _ = convert_single_pdf(str(temp_pdf), _MARKER_MODELS, max_pages=1)
+                all_page_texts.append(f"=== Page {page_num} ===\n{page_text}")
+                os.remove(temp_pdf)
+        
+        full_text = "\n\n".join(all_page_texts)
+        return {"result_text": full_text, "extraction_method": "marker", "status": "success"}
+    
+    elif method == "tesseract":
+        images = convert_from_path(pdf_path, dpi=300)[:max_pages]
+        all_text = []
+        
+        for image in images:
+            img = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
+            gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+            clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+            gray = clahe.apply(gray)
+            _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+            
+            text = pytesseract.image_to_string(thresh, config='--oem 1 --psm 4 -c preserve_interword_spaces=1')
+            cleaned = "\n".join("".join(c for c in clean_common_errors(line) if c.isprintable()) 
+                              for line in text.splitlines())
+            all_text.append(cleaned)
+        
+        return {"result_text": "\n\n".join(all_text), "extraction_method": "tesseract", "status": "success"}
+
+
+def process_pdf(pdf_path, ocr_engine="marker", max_pages=999, process_only_manifests=False):
+    """Process a single PDF file and extract text."""
     
     print(f"Processing {pdf_path}")
-
-    pdf_dir = os.path.dirname(pdf_path)
-    parent_dir = os.path.dirname(pdf_dir)
     pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     
-    # Create paddleocr_output directory
-    paddleocr_dir = os.path.join(parent_dir, "paddleocr_output")
-    os.makedirs(paddleocr_dir, exist_ok=True)
-    
-    # Create folder named after the PDF file under paddleocr_output
-    pdf_folder = os.path.join(paddleocr_dir, pdf_name)
-    os.makedirs(pdf_folder, exist_ok=True)
-    
-    # Output file paths
-    text_file = os.path.join(paddleocr_dir, f"{pdf_name}.txt")
-    json_file = os.path.join(paddleocr_dir, f"{pdf_name}.json")
-    
-    # Check if already processed (for paddleocr only)
-    if os.path.exists(text_file) and os.path.exists(json_file):
-        print(f"Already processed: {pdf_name}")
+    # Check if already processed
+    if is_processed(pdf_path, ocr_engine):
+        print(f"  Already processed: {pdf_name}")
         return
     
-    # Convert PDF to images (reduced DPI for faster processing)
-    images = convert_from_path(pdf_path, dpi=300)
-    
-    # Limit to max_pages
-    images = images[:max_pages]
-    print(f"Processing first {len(images)} pages (max: {max_pages})")
-    
-    # Initialize PaddleOCR
-    ocr_model = None
-    if ocr_engine == "paddleocr":
-        if global_ocr_model is None:
-            print("Initializing PaddleOCR model...")
-            global_ocr_model = PaddleOCR(
-                use_angle_cls=use_angle_cls,
-                use_doc_orientation_classify=use_doc_orientation_classify,
-                use_doc_unwarping=use_doc_unwarping,
-                text_det_limit_side_len=text_det_limit_side_len,
-                text_rec_score_thresh=text_rec_score_thresh,
-                lang="en"
-            )
-            print("PaddleOCR model initialized")
-        ocr_model = global_ocr_model
-    
-    # Process each page
-    all_results = []
-    combined_text = []
-    
-    for i, image in enumerate(images):
-        page_num = i + 1
-        print(f"  Processing page {page_num}")
+    # Scan for manifest pages if requested
+    pages_to_process = None
+    if process_only_manifests:
+        print("  Scanning for manifest pages...")
         
-        page_result = {
-            "page": page_num,
-            "tesseract_text": "",
-            "paddleocr_result": None,
-            "paddleocr_text": ""
-        }
+        manifest_pages = []
+        doc = fitz.open(pdf_path)
         
-        # Process with Tesseract if requested
-        if ocr_engine == "tesseract":
-            tesseract_text = process_page_tesseract(image)
-            page_result["tesseract_text"] = tesseract_text
-            if ocr_engine == "tesseract":
-                combined_text.append(tesseract_text)
-        
-        # Process with PaddleOCR if requested
-        if ocr_engine == "paddleocr" and ocr_model:
-            paddleocr_result = process_page_paddleocr(image, ocr_model)
-            page_result["paddleocr_result"] = paddleocr_result
-            paddleocr_text = extract_text_from_paddleocr_result(paddleocr_result)
-            page_result["paddleocr_text"] = paddleocr_text
-            if ocr_engine == "paddleocr":
-                combined_text.append(paddleocr_text)
-        
-        all_results.append(page_result)
-        
-        # Save individual page results
-        page_folder = os.path.join(pdf_folder, f"page_{page_num:03d}")
-        os.makedirs(page_folder, exist_ok=True)
-        
-        # Save page text
-        page_text_file = os.path.join(page_folder, f"page_{page_num:03d}.txt")
-        with open(page_text_file, "w", encoding="utf-8") as f:
-            if ocr_engine == "tesseract":
-                f.write(page_result["tesseract_text"])
-            else:
-                f.write(page_result["paddleocr_text"])
-        
-        # Save page JSON with full OCR result
-        page_json_file = os.path.join(page_folder, f"page_{page_num:03d}.json")
-        with open(page_json_file, "w", encoding="utf-8") as f:
-            json.dump(page_result, f, indent=2, ensure_ascii=False)
-        
-        # Save intermediate image files in test mode
-        if test_mode:
-            print(f"    Saving intermediate images for page {page_num}")
-            # Save original image
-            image_file = os.path.join(page_folder, f"page_{page_num:03d}_original.png")
-            image.save(image_file, "PNG")
+        for page_num in range(len(doc)):
+            page = doc[page_num]
+            text = page.get_text().lower()
             
-            # Save preprocessed image if using Tesseract
-            if ocr_engine == "tesseract":
-                processed_image = preprocess_image(image)
-                processed_image_file = os.path.join(page_folder, f"page_{page_num:03d}_processed.png")
-                cv2.imwrite(processed_image_file, processed_image)
+            # If no embedded text, try quick OCR at low resolution
+            if len(text.strip()) < 50:
+                pix = page.get_pixmap(dpi=72)
+                img = Image.open(io.BytesIO(pix.tobytes("png")))
+                text = pytesseract.image_to_string(img, config='--psm 3').lower()
+            
+            # Check for manifest-related terms
+            # Must have specific manifest form fields, not just the word "manifest"
+            has_manifest_keywords = "manifest" in text or "attachment d" in text
+            has_form_fields = any(term in text for term in [
+                "operator information",
+                "hauler information", 
+                "destination information",
+                "name of dairy facility",
+                "hauling company"
+            ])
+            
+            if has_manifest_keywords and has_form_fields:
+                manifest_pages.append(page_num + 1)
+                # Always include the next page (page 2 of manifest with method/certification)
+                if page_num + 1 < len(doc):
+                    manifest_pages.append(page_num + 2)
         
-        # Add page break separator
-        if i < len(images) - 1:
-            combined_text.append(f"\nPDF PAGE BREAK {page_num}\n")
+        doc.close()
+        
+        # Remove duplicates and sort
+        manifest_pages = sorted(set(manifest_pages))
+        
+        if manifest_pages:
+            print(f"  Found {len(manifest_pages)} manifest page(s): {manifest_pages}")
+            pages_to_process = manifest_pages
+        else:
+            print("  No manifest pages found, skipping")
+
+            # Save empty result and return
+            paths = get_output_paths(pdf_path, "fitz")
+            os.makedirs(paths['dir'], exist_ok=True)
+            
+            with open(paths['txt'], "w", encoding="utf-8") as f:
+                f.write("")
+            
+            with open(paths['json'], "w", encoding="utf-8") as f:
+                json.dump({"status": "no_manifests_found"}, f, indent=2)
+            
+            return 
     
-    # Save plain text (combined)
-    with open(text_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(combined_text))
+    # Try fitz first, fall back to OCR
+    result = extract_text_from_pdf(pdf_path, "fitz", pages_to_process)
     
-    # Save full JSON output
-    with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, indent=2, ensure_ascii=False)
+    result_text = result.get("result_text", "") if result else ""
+    should_retry = False
     
-    print(f"Saved results to {paddleocr_dir}")
+    # Check if we should retry with OCR
+    if not result or len(result_text) < 100:
+        should_retry = True
+    elif result.get("should_retry"):
+        should_retry = True
+        print(f"  Low quality fitz output, retrying with {ocr_engine}...")
+    elif has_missing_manifest_quantities(result_text):
+        should_retry = True
+        print(f"  Manifest quantities missing/unreadable in fitz output, retrying with {ocr_engine}...")
+    
+    if should_retry:
+        if not result or len(result_text) < 100:
+            print(f"  Falling back to {ocr_engine}...")
+        result = extract_text_from_pdf(pdf_path, ocr_engine, pages_to_process, max_pages)
+    
+    # Save results
+    method = result.get("extraction_method", ocr_engine)
+    paths = get_output_paths(pdf_path, method)
+    os.makedirs(paths['dir'], exist_ok=True)
+
+    text_content = result.get("result_text", "")
+
+    if isinstance(text_content, list):
+        text_content = "\n".join(text_content)
+    
+    with open(paths['txt'], "w", encoding="utf-8") as f:
+        f.write(text_content)
+    
+    with open(paths['json'], "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+
+    print(f"  Extraction complete via {method}")
 
 
-def main():
-    """Process all PDF files in the data directory."""
-    # Load file list
-    file_list_path = "ca_cafo_compliance/outputs/file_list.csv"
-    if not os.path.exists(file_list_path):
-        print(
-            f"File list not found at {file_list_path}. "
-            "Please run generate_file_list.py first."
-        )
-        return
+def get_output_paths(pdf_path, method):
+    """Return all output paths for a given PDF and method."""
+    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
+    parent_dir = os.path.dirname(os.path.dirname(pdf_path))
+    folder = FITZ_OUTPUT_FOLDER if method == "fitz" else f"{method}_output"
+    output_dir = os.path.join(parent_dir, folder, pdf_name)
+    return {
+        'dir': output_dir,
+        'txt': os.path.join(output_dir, f"{pdf_name}.txt"),
+        'json': os.path.join(output_dir, f"{pdf_name}.json"),
+    }
 
-    file_list_df = pd.read_csv(file_list_path)
 
+def is_processed(pdf_path, ocr_engine):
+    """Check if PDF has been successfully processed with non-empty output."""
+    paths = get_output_paths(pdf_path, "fitz")
+    if os.path.exists(paths['txt']) and os.path.getsize(paths['txt']) > 0:
+        return True
+    paths = get_output_paths(pdf_path, ocr_engine)
+    return os.path.exists(paths['txt']) and os.path.getsize(paths['txt']) > 0
+
+
+def collect_pdf_files():
+    """Collect all PDF files from the data directory."""
     pdf_files = []
-    for year in YEARS:
-        base_data_path = f"ca_cafo_compliance/data/{year}"
-        for region in REGIONS:
-            region_data_path = os.path.join(base_data_path, region)
-            if not os.path.exists(region_data_path):
-                continue
-
-            for county in [
-                d
-                for d in os.listdir(region_data_path)
-                if os.path.isdir(os.path.join(region_data_path, d))
-            ]:
-                county_data_path = os.path.join(region_data_path, county)
-
-                for template in [
-                    d
-                    for d in os.listdir(county_data_path)
-                    if os.path.isdir(os.path.join(county_data_path, d))
-                ]:
-                    folder = os.path.join(county_data_path, template, "original")
-                    if os.path.exists(folder):
-                        pdf_files.extend(glob.glob(os.path.join(folder, "*.pdf")))
-
-    if not pdf_files:
-        print("No PDF files found")
-        return
-
-    # Count already processed files (check both combined files and individual page folders)
-    processed_files = sum(
-        1
-        for pdf_path in pdf_files
-        if (os.path.exists(
-            os.path.join(
-                os.path.dirname(os.path.dirname(pdf_path)),
-                "paddleocr_output",
-                f"{os.path.splitext(os.path.basename(pdf_path))[0]}.txt",
-            )
-        ) or os.path.exists(
-            os.path.join(
-                os.path.dirname(os.path.dirname(pdf_path)),
-                "paddleocr_output",
-                os.path.splitext(os.path.basename(pdf_path))[0],
-            )
-        ))
-    )
-
-    files_to_process = [
-        pdf_path
-        for pdf_path in pdf_files
-        if not (os.path.exists(
-            os.path.join(
-                os.path.dirname(os.path.dirname(pdf_path)),
-                "paddleocr_output",
-                f"{os.path.splitext(os.path.basename(pdf_path))[0]}.txt",
-            )
-        ) or os.path.exists(
-            os.path.join(
-                os.path.dirname(os.path.dirname(pdf_path)),
-                "paddleocr_output",
-                os.path.splitext(os.path.basename(pdf_path))[0],
-            )
-        ))
-    ]
-
-    print(f"\nFound {len(pdf_files)} PDF files total")
-    print(f"Already processed: {processed_files}")
-    print(f"Files to process: {len(files_to_process)}")
-    print(f"Using OCR engine: {ocr_engine}")
-    print(f"Processing first {max_pages_per_document} pages per document")
-    print(f"Performance optimizations: DPI=300, max_size=2048px, disabled angle/doc classification")
-
-    if test_mode:
-        print("Test mode active: only processing 5 files.")
-        files_to_process = files_to_process[:5]
-
-    if not files_to_process:
-        print("No new files to process")
-        return
-
-    # Process PDFs in parallel
-
-    args_list = [(pdf_path, file_list_df, ocr_engine, max_pages_per_document) for pdf_path in files_to_process]
     
-    with Pool(1) as pool:
-        pool.starmap(process_pdf, args_list)
-    print("\nOCR processing complete")
+    for year in YEARS:
+        base_path = f"ca_cafo_compliance/data/{year}"
+        for region in REGIONS:
+            region_path = os.path.join(base_path, region)
+            if not os.path.exists(region_path):
+                continue
+            
+            for county in os.listdir(region_path):
+                county_path = os.path.join(region_path, county)
+                if not os.path.isdir(county_path):
+                    continue
+                
+                for template in os.listdir(county_path):
+                    template_path = os.path.join(county_path, template)
+                    if not os.path.isdir(template_path):
+                        continue
+                    
+                    for folder in ["non-readable", "readable", "original"]:
+                        folder_path = os.path.join(template_path, folder)
+                        if os.path.exists(folder_path):
+                            pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
+                            pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
+    
+    return pdf_files
 
 
-def update_reports_available():
-    """Count PDFs in R5 subfolders by region/county and update reports_available.csv."""
-    # Define region-county mapping
+def sort_pdf_files(pdf_files):
+    """Sort PDF files by priority (2024 first, R5 first)."""
+    def priority(path):
+        return (
+            0 if "2024" in path else 1,
+            0 if "/R5/" in path else 1,
+        )
+    return sorted(pdf_files, key=priority)
+
+
+def update_reports_available_csv():
+    """Update reports_available.csv with PDF counts."""
     region_county_map = {
         "5F": ["kern"],
         "5S": ["fresno_madera", "kings", "tulare_west"],
-        "5R": [],  # Add counties for 5R if needed
+        "5R": [],
     }
+    
     base_path = "ca_cafo_compliance/data/2023/R5"
+    csv_path = "ca_cafo_compliance/data/reports_available.csv"
+    
+    if not os.path.exists(csv_path):
+        return
+    
     pdf_counts = {}
     for region, counties in region_county_map.items():
         total = 0
         for county in counties:
             county_path = os.path.join(base_path, county)
-            for root, dirs, files in os.walk(county_path):
+            for _, _, files in os.walk(county_path):
                 total += sum(1 for f in files if f.lower().endswith(".pdf"))
         pdf_counts[region] = total
-    # Read and update reports_available.csv
-    csv_path = "ca_cafo_compliance/data/reports_available.csv"
+    
     rows = []
     with open(csv_path, "r", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            region = row["region"]
-            if region in pdf_counts:
-                row["acquired"] = str(pdf_counts[region])
+            if row["region"] in pdf_counts:
+                row["acquired"] = str(pdf_counts[row["region"]])
             rows.append(row)
+    
     with open(csv_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["region", "acquired", "total"])
         writer.writeheader()
         writer.writerows(rows)
-    print("Updated reports_available.csv with PDF counts:", pdf_counts)
+
+
+def main(ocr_engine=OCR_ENGINE, test_mode=TEST_MODE, max_pages=MAX_PAGES,
+         process_only_manifests=False):
+    # Update reports CSV
+    update_reports_available_csv()
+    
+    # Collect and sort PDF files
+    pdf_files = collect_pdf_files()
+    pdf_files = sort_pdf_files(pdf_files)
+    
+    # Filter out already processed files
+    files_to_process = [f for f in pdf_files if not is_processed(f, ocr_engine)]
+    processed_count = len(pdf_files) - len(files_to_process)
+    
+    print(f"{processed_count} processed, {len(files_to_process)} to go")
+    
+    # Test mode filtering
+    if test_mode:
+        white_river = [f for f in files_to_process if "White River Dairy" in f]
+        files_to_process = white_river[:1] if white_river else files_to_process[:1]
+        print(f"Test mode: processing {len(files_to_process)} file(s)")
+    
+    if not files_to_process:
+        print("No files to process")
+        return
+    
+    # Process files
+    for pdf_path in files_to_process:
+        process_pdf(
+            pdf_path,
+            ocr_engine=ocr_engine,
+            max_pages=max_pages,
+            process_only_manifests=process_only_manifests
+        )
+    
+    print("OCR complete")
 
 
 if __name__ == "__main__":
-    update_reports_available()
-    main()
+    
+    main(
+        ocr_engine="marker",
+        test_mode=False,
+        max_pages=999,
+        process_only_manifests=True
+    )
