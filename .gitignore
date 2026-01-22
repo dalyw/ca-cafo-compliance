@@ -1,5 +1,4 @@
 *.ipynb
-*.pdf
 **plasma**
 **original**
 **.env
