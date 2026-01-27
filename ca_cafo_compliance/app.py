@@ -98,7 +98,7 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
 
 def load_data():
     """Load data from CSV files in the outputs/consolidated directory, 
-    or from GitHub as a fallback."""
+    or from GitHub."""
     # Try local files first
     csv_files = glob.glob("ca_cafo_compliance/outputs/consolidated/*.csv")
 

@@ -6,5 +6,11 @@ innovative_ag,2,NA,Innovative Ag
 livingston,3,NA,Livingston
 generic_r7,1,NA,Self-completed (R7)
 generic_r8,1,NA,Self-completed (R8)
-manifest_r5,NA,NA,Manifest (R5 Standard)
-manifest_attachment_d,NA,NA,Manifest (ATTACHMENT D)
+r5_fitz,NA,NA,R5 Manifest from Fitz output
+manifest_digital_R5-2007-0035_tesseract,NA,NA,R5 Manifest from Tesseract output
+manifest_digital_R5-2007-0035_llmwhisperer,NA,NA,R5 Manifest from Marker output
+manifest_handwritten_R5-2007-0035_tesseract,NA,NA,R5 Manifest from Handwritten Tesseract output
+manifest_onepage_R5-2007-0035_llmwhisperer,NA,NA,R5 Manifest from One-page LLMWhisperer output
+r5_old_fitz,NA,NA,Old formar R5 Manifest from Fitz output
+manifest_R5-2013-0122_tesseract,NA,NA,Old format R5 Manifest from Tesseract output
+manifest_R5-2013-0122_llmwhisperer,NA,NA,Old format R5 Manifest from LLMWhisperer output

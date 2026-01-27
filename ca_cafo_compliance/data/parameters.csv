@@ -1,97 +1,116 @@
-parameter_key,parameter_name,data_type,default,description,source
-dairy_name,Dairy Name,text,NA,,pdf
-dairy_address,Dairy Address,text,NA,,pdf
-avg_milk_cows,Average Milk Cows,numeric,0,,pdf
-avg_dry_cows,Average Dry Cows,numeric,0,,pdf
-avg_bred_heifers,Average Bred Heifers,numeric,0,,pdf
-avg_heifers,Average Heifers,numeric,0,,pdf
-avg_calves_4_6_mo,Average Calves (4-6 mo.),numeric,0,,pdf
-avg_calves_0_3_mo,Average Calves (0-3 mo.),numeric,0,,pdf
-avg_other,Average Other/Unspecified Head,numeric,0,,pdf
-avg_steer,Average Steer,numeric,0,,pdf
-total_manure_gen_tons,Total Manure Excreted (tons),numeric,NA,,pdf
-avg_milk_lb_per_cow_day,Average Milk Production (lb per cow per day),numeric,NA,,pdf
-total_manure_gen_n_after_nh3_losses_lbs,Total Dry Manure Generated N After Ammonia Losses (lbs),numeric,NA,,pdf
-total_manure_gen_n_lbs,Total Dry Manure Generated N (lbs),numeric,NA,,pdf
-total_manure_gen_p_lbs,Total Dry Manure Generated P (lbs),numeric,NA,,pdf
-total_manure_gen_k_lbs,Total Dry Manure Generated K (lbs),numeric,NA,,pdf
-total_manure_gen_salt_lbs,Total Dry Manure Generated Salt (lbs),numeric,NA,,pdf
-total_ww_gen_gals,Total Process Wastewater Generated (gals),numeric,NA,,pdf
-total_ww_gen_n_lbs,Total Process Wastewater Generated N (lbs),numeric,NA,,pdf
-total_ww_gen_p_lbs,Total Process Wastewater Generated P (lbs),numeric,NA,,pdf
-total_ww_gen_k_lbs,Total Process Wastewater Generated K (lbs),numeric,NA,,pdf
-total_ww_gen_salt_lbs,Total Process Wastewater Generated Salt (lbs),numeric,NA,,pdf
-applied_n_dry_manure_lbs,Applied N Dry Manure (lbs),numeric,NA,,pdf
-applied_p_dry_manure_lbs,Applied P Dry Manure (lbs),numeric,NA,,pdf
-applied_k_dry_manure_lbs,Applied K Dry Manure (lbs),numeric,NA,,pdf
-applied_salt_dry_manure_lbs,Applied Salt Dry Manure (lbs),numeric,NA,,pdf
-applied_ww_gals,Applied Process Wastewater (gals),numeric,NA,,pdf
-applied_ww_n_lbs,Applied Process Wastewater N (lbs),numeric,NA,,pdf
-applied_ww_p_lbs,Applied Process Wastewater P (lbs),numeric,NA,,pdf
-applied_ww_k_lbs,Applied Process Wastewater K (lbs),numeric,NA,,pdf
-applied_ww_salt_lbs,Applied Process Wastewater Salt (lbs),numeric,NA,,pdf
-applied_to_removed_ratio_n,Applied to Removed Ratio N,numeric,NA,,pdf
-applied_to_removed_ratio_p,Applied to Removed Ratio P,numeric,NA,,pdf
-applied_to_removed_ratio_k,Applied to Removed Ratio K,numeric,NA,,pdf
-applied_to_removed_ratio_salt,Applied to Removed Ratio Salt,numeric,NA,,pdf
-total_exports_n_lbs,Total Exported N (lbs),numeric,NA,,pdf
-total_exports_p_lbs,Total Exported P (lbs),numeric,NA,,pdf
-total_exports_k_lbs,Total Exported K (lbs),numeric,NA,,pdf
-total_exports_salt_lbs,Total Exported Salt (lbs),numeric,NA,,pdf
-filename,File Name,text,NA,,pdf
-avg_milk_prod_kg_per_cow,Average Milk Production (kg per cow),numeric,NA,Calculated from average milk production in pounds,calculation
-avg_milk_prod_l_per_cow,Average Milk Production (L per cow),numeric,NA,Calculated from average milk production in pounds,calculation
-reported_annual_milk_production_l,Reported Annual Milk Production (L),numeric,NA,Calculated from daily milk production and herd size,calculation
-total_herd_size,Total Herd Size,numeric,NA,Sum of all animal categories,calculation
-total_applied_n_lbs,Total Applied N (lbs),numeric,NA,Sum of dry manure and wastewater N application,calculation
-total_applied_p_lbs,Total Applied P (lbs),numeric,NA,Sum of dry manure and wastewater P application,calculation
-total_applied_k_lbs,Total Applied K (lbs),numeric,NA,Sum of dry manure and wastewater K application,calculation
-total_applied_salt_lbs,Total Applied Salt (lbs),numeric,NA,Sum of dry manure and wastewater salt application,calculation
-total_reported_n_lbs,Total Reported N (lbs),numeric,NA,Sum of dry manure and wastewater N generation,calculation
-total_reported_p_lbs,Total Reported P (lbs),numeric,NA,Sum of dry manure and wastewater P generation,calculation
-total_reported_k_lbs,Total Reported K (lbs),numeric,NA,Sum of dry manure and wastewater K generation,calculation
-total_reported_salt_lbs,Total Reported Salt (lbs),numeric,NA,Sum of dry manure and wastewater salt generation,calculation
-unaccounted_for_n_lbs,Unaccounted For N (lbs),numeric,NA,Difference between reported and applied N,calculation
-unaccounted_for_p_lbs,Unaccounted For P (lbs),numeric,NA,Difference between reported and applied P,calculation
-unaccounted_for_k_lbs,Unaccounted For K (lbs),numeric,NA,Difference between reported and applied K,calculation
-unaccounted_for_salt_lbs,Unaccounted For Salt (lbs),numeric,NA,Difference between reported and applied salt,calculation
-total_ww_gen_liters,Total Wastewater Generated (L),numeric,NA,Converted from gallons,calculation
-wastewater_estimated,Estimated Total Wastewater Generated (L),numeric,NA,Estimated based on milk,calculation
-wastewater_to_reported,Wastewater to Reported Milk Ratio,numeric,NA,Ratio of wastewater to reported milk production,calculation
-wastewater_to_estimated,Wastewater to Estimated Milk Ratio,numeric,NA,Ratio of wastewater to estimated milk production,calculation
-wastewater_ratio_discrepancy,Wastewater Ratio Discrepancy,numeric,NA,Difference between estimated and reported ratios,calculation
-calculated_manure_factor,Calculated Manure Factor,numeric,NA,Calculated from manure production and herd size,calculation
-manure_factor_discrepancy,Manure Factor Discrepancy,numeric,NA,Difference from base manure factor,calculation
-nitrogen_discrepancy,Nitrogen Discrepancy,numeric,NA,Difference between reported and USDA estimated N,calculation
-usda_nitrogen_pct_deviation,USDA Nitrogen % Deviation,numeric,NA,Percentage deviation from USDA estimate,calculation
-ucce_nitrogen_pct_deviation,UCCE Nitrogen % Deviation,numeric,NA,Percentage deviation from UCCE estimate,calculation
-usda_nitrogen_estimate_lbs,USDA N Estimate (lbs),numeric,NA,Nitrogen estimate based on manure production and nitrogen content,calculation
-ucce_nitrogen_estimate_lbs,UCCE N Estimate (lbs),numeric,NA,Nitrogen estimate based on herd size and animal factors,calculation
-estimated_annual_milk_production_l,Estimated Annual Milk Production (L),numeric,NA,Estimated annual milk production in liters (using default or reported values),calculation
-wastewater_estimated_l,Estimated Wastewater Generation (L),numeric,NA,Estimated wastewater generation in liters (low range),calculation
-wastewater_to_restimated,Wastewater to Estimated Milk Ratio,numeric,NA,Ratio of total wastewater generated to estimated annual milk production,calculation
-total_manure_gen_tons,Total Manure Generated (tons),numeric,NA,,calculation
-total_manure_gen_n_lbs,Total Dry Manure Generated N (lbs),numeric,NA,,calculation
-total_manure_gen_p_lbs,Total Dry Manure Generated P (lbs),numeric,NA,,calculation
-total_manure_gen_k_lbs,Total Dry Manure Generated K (lbs),numeric,NA,,calculation
-total_manure_gen_salt_lbs,Total Dry Manure Generated Salt (lbs),numeric,NA,,calculation
-city,City,text,NA,,calculation
-region,Region,text,NA,,calculation
-sub_region,Sub-Region,text,NA,,calculation
-year,Year,text,NA,,calculation
-county,County,text,NA,,calculation
-state,State,text,NA,,calculation
-zip,Zip,text,NA,,calculation
-latitude,Latitude,text,NA,,calculation
-longitude,Longitude,text,NA,,calculation
-template,Template,text,NA,,calculation
-manure_factor_avg,Manure Factor Average,numeric,NA,Average calculated manure factor per consultant,calculation
-manure_factor_std,Manure Factor Standard Deviation,numeric,NA,Standard deviation of manure factor per consultant,calculation
-wastewater_ratio_avg,Wastewater Ratio Average,numeric,NA,Average wastewater to reported milk ratio per consultant,calculation
-wastewater_ratio_std,Wastewater Ratio Standard Deviation,numeric,NA,Standard deviation of wastewater ratio per consultant,calculation
-usda_nitrogen_pct_dev_avg,USDA Nitrogen % Deviation Average,numeric,NA,Average USDA nitrogen percentage deviation per consultant,calculation
-usda_nitrogen_pct_dev_std,USDA Nitrogen % Deviation Standard Deviation,numeric,NA,Standard deviation of USDA nitrogen percentage deviation per consultant,calculation
-ucce_nitrogen_pct_dev_avg,UCCE Nitrogen % Deviation Average,numeric,NA,Average UCCE nitrogen percentage deviation per consultant,calculation
-ucce_nitrogen_pct_dev_std,UCCE Nitrogen % Deviation Standard Deviation,numeric,NA,Standard deviation of UCCE nitrogen percentage deviation per consultant,calculation
-facility_count,Facility Count,numeric,NA,Number of facilities per consultant,calculation
-CADDID,CADDID,text,NA,,
+parameter_key,parameter_name,data_type,default,description,type,source
+dairy_name,Dairy Name,text,NA,,main_report,pdf
+dairy_address,Dairy Address,text,NA,,main_report,pdf
+avg_milk_cows,Average Milk Cows,numeric,0,,main_report,pdf
+avg_dry_cows,Average Dry Cows,numeric,0,,main_report,pdf
+avg_bred_heifers,Average Bred Heifers,numeric,0,,main_report,pdf
+avg_heifers,Average Heifers,numeric,0,,main_report,pdf
+avg_calves_4_6_mo,Average Calves (4-6 mo.),numeric,0,,main_report,pdf
+avg_calves_0_3_mo,Average Calves (0-3 mo.),numeric,0,,main_report,pdf
+avg_other,Average Other/Unspecified Head,numeric,0,,main_report,pdf
+avg_steer,Average Steer,numeric,0,,main_report,pdf
+total_manure_gen_tons,Total Manure Excreted (tons),numeric,NA,,main_report,pdf
+avg_milk_lb_per_cow_day,Average Milk Production (lb per cow per day),numeric,NA,,main_report,pdf
+total_manure_gen_n_after_nh3_losses_lbs,Total Dry Manure Generated N After Ammonia Losses (lbs),numeric,NA,,main_report,pdf
+total_manure_gen_n_lbs,Total Dry Manure Generated N (lbs),numeric,NA,,main_report,pdf
+total_manure_gen_p_lbs,Total Dry Manure Generated P (lbs),numeric,NA,,main_report,pdf
+total_manure_gen_k_lbs,Total Dry Manure Generated K (lbs),numeric,NA,,main_report,pdf
+total_manure_gen_salt_lbs,Total Dry Manure Generated Salt (lbs),numeric,NA,,main_report,pdf
+total_ww_gen_gals,Total Process Wastewater Generated (gals),numeric,NA,,main_report,pdf
+total_ww_gen_n_lbs,Total Process Wastewater Generated N (lbs),numeric,NA,,main_report,pdf
+total_ww_gen_p_lbs,Total Process Wastewater Generated P (lbs),numeric,NA,,main_report,pdf
+total_ww_gen_k_lbs,Total Process Wastewater Generated K (lbs),numeric,NA,,main_report,pdf
+total_ww_gen_salt_lbs,Total Process Wastewater Generated Salt (lbs),numeric,NA,,main_report,pdf
+applied_n_dry_manure_lbs,Applied N Dry Manure (lbs),numeric,NA,,main_report,pdf
+applied_p_dry_manure_lbs,Applied P Dry Manure (lbs),numeric,NA,,main_report,pdf
+applied_k_dry_manure_lbs,Applied K Dry Manure (lbs),numeric,NA,,main_report,pdf
+applied_salt_dry_manure_lbs,Applied Salt Dry Manure (lbs),numeric,NA,,main_report,pdf
+applied_ww_gals,Applied Process Wastewater (gals),numeric,NA,,main_report,pdf
+applied_ww_n_lbs,Applied Process Wastewater N (lbs),numeric,NA,,main_report,pdf
+applied_ww_p_lbs,Applied Process Wastewater P (lbs),numeric,NA,,main_report,pdf
+applied_ww_k_lbs,Applied Process Wastewater K (lbs),numeric,NA,,main_report,pdf
+applied_ww_salt_lbs,Applied Process Wastewater Salt (lbs),numeric,NA,,main_report,pdf
+applied_to_removed_ratio_n,Applied to Removed Ratio N,numeric,NA,,main_report,pdf
+applied_to_removed_ratio_p,Applied to Removed Ratio P,numeric,NA,,main_report,pdf
+applied_to_removed_ratio_k,Applied to Removed Ratio K,numeric,NA,,main_report,pdf
+applied_to_removed_ratio_salt,Applied to Removed Ratio Salt,numeric,NA,,main_report,pdf
+total_exports_n_lbs,Total Exported N (lbs),numeric,NA,,main_report,pdf
+total_exports_p_lbs,Total Exported P (lbs),numeric,NA,,main_report,pdf
+total_exports_k_lbs,Total Exported K (lbs),numeric,NA,,main_report,pdf
+total_exports_salt_lbs,Total Exported Salt (lbs),numeric,NA,,main_report,pdf
+filename,File Name,text,NA,,main_report,pdf
+avg_milk_prod_kg_per_cow,Average Milk Production (kg per cow),numeric,NA,Calculated from average milk production in pounds,main_report,calculation
+avg_milk_prod_l_per_cow,Average Milk Production (L per cow),numeric,NA,Calculated from average milk production in pounds,main_report,calculation
+reported_annual_milk_production_l,Reported Annual Milk Production (L),numeric,NA,Calculated from daily milk production and herd size,main_report,calculation
+total_herd_size,Total Herd Size,numeric,NA,Sum of all animal categories,main_report,calculation
+total_applied_n_lbs,Total Applied N (lbs),numeric,NA,Sum of dry manure and wastewater N application,main_report,calculation
+total_applied_p_lbs,Total Applied P (lbs),numeric,NA,Sum of dry manure and wastewater P application,main_report,calculation
+total_applied_k_lbs,Total Applied K (lbs),numeric,NA,Sum of dry manure and wastewater K application,main_report,calculation
+total_applied_salt_lbs,Total Applied Salt (lbs),numeric,NA,Sum of dry manure and wastewater salt application,main_report,calculation
+total_reported_n_lbs,Total Reported N (lbs),numeric,NA,Sum of dry manure and wastewater N generation,main_report,calculation
+total_reported_p_lbs,Total Reported P (lbs),numeric,NA,Sum of dry manure and wastewater P generation,main_report,calculation
+total_reported_k_lbs,Total Reported K (lbs),numeric,NA,Sum of dry manure and wastewater K generation,main_report,calculation
+total_reported_salt_lbs,Total Reported Salt (lbs),numeric,NA,Sum of dry manure and wastewater salt generation,main_report,calculation
+unaccounted_for_n_lbs,Unaccounted For N (lbs),numeric,NA,Difference between reported and applied N,main_report,calculation
+unaccounted_for_p_lbs,Unaccounted For P (lbs),numeric,NA,Difference between reported and applied P,main_report,calculation
+unaccounted_for_k_lbs,Unaccounted For K (lbs),numeric,NA,Difference between reported and applied K,main_report,calculation
+unaccounted_for_salt_lbs,Unaccounted For Salt (lbs),numeric,NA,Difference between reported and applied salt,main_report,calculation
+total_ww_gen_liters,Total Wastewater Generated (L),numeric,NA,Converted from gallons,main_report,calculation
+wastewater_estimated,Estimated Total Wastewater Generated (L),numeric,NA,Estimated based on milk,main_report,calculation
+wastewater_to_reported,Wastewater to Reported Milk Ratio,numeric,NA,Ratio of wastewater to reported milk production,main_report,calculation
+wastewater_to_estimated,Wastewater to Estimated Milk Ratio,numeric,NA,Ratio of wastewater to estimated milk production,main_report,calculation
+wastewater_ratio_discrepancy,Wastewater Ratio Discrepancy,numeric,NA,Difference between estimated and reported ratios,main_report,calculation
+calculated_manure_factor,Calculated Manure Factor,numeric,NA,Calculated from manure production and herd size,main_report,calculation
+manure_factor_discrepancy,Manure Factor Discrepancy,numeric,NA,Difference from base manure factor,main_report,calculation
+nitrogen_discrepancy,Nitrogen Discrepancy,numeric,NA,Difference between reported and USDA estimated N,main_report,calculation
+usda_nitrogen_pct_deviation,USDA Nitrogen % Deviation,numeric,NA,Percentage deviation from USDA estimate,main_report,calculation
+ucce_nitrogen_pct_deviation,UCCE Nitrogen % Deviation,numeric,NA,Percentage deviation from UCCE estimate,main_report,calculation
+usda_nitrogen_estimate_lbs,USDA N Estimate (lbs),numeric,NA,Nitrogen estimate based on manure production and nitrogen content,main_report,calculation
+ucce_nitrogen_estimate_lbs,UCCE N Estimate (lbs),numeric,NA,Nitrogen estimate based on herd size and animal factors,main_report,calculation
+estimated_annual_milk_production_l,Estimated Annual Milk Production (L),numeric,NA,Estimated annual milk production in liters (using default or reported values),main_report,calculation
+wastewater_estimated_l,Estimated Wastewater Generation (L),numeric,NA,Estimated wastewater generation in liters (low range),main_report,calculation
+wastewater_to_restimated,Wastewater to Estimated Milk Ratio,numeric,NA,Ratio of total wastewater generated to estimated annual milk production,main_report,calculation
+total_manure_gen_tons,Total Manure Generated (tons),numeric,NA,,main_report,calculation
+total_manure_gen_n_lbs,Total Dry Manure Generated N (lbs),numeric,NA,,main_report,calculation
+total_manure_gen_p_lbs,Total Dry Manure Generated P (lbs),numeric,NA,,main_report,calculation
+total_manure_gen_k_lbs,Total Dry Manure Generated K (lbs),numeric,NA,,main_report,calculation
+total_manure_gen_salt_lbs,Total Dry Manure Generated Salt (lbs),numeric,NA,,main_report,calculation
+city,City,text,NA,,main_report,calculation
+region,Region,text,NA,,main_report,calculation
+sub_region,Sub-Region,text,NA,,main_report,calculation
+year,Year,text,NA,,main_report,calculation
+county,County,text,NA,,main_report,calculation
+state,State,text,NA,,main_report,calculation
+zip,Zip,text,NA,,main_report,calculation
+latitude,Latitude,text,NA,,main_report,calculation
+longitude,Longitude,text,NA,,main_report,calculation
+template,Template,text,NA,,main_report,calculation
+manure_factor_avg,Manure Factor Average,numeric,NA,Average calculated manure factor per consultant,main_report,calculation
+manure_factor_std,Manure Factor Standard Deviation,numeric,NA,Standard deviation of manure factor per consultant,main_report,calculation
+wastewater_ratio_avg,Wastewater Ratio Average,numeric,NA,Average wastewater to reported milk ratio per consultant,main_report,calculation
+wastewater_ratio_std,Wastewater Ratio Standard Deviation,numeric,NA,Standard deviation of wastewater ratio per consultant,main_report,calculation
+usda_nitrogen_pct_dev_avg,USDA Nitrogen % Deviation Average,numeric,NA,Average USDA nitrogen percentage deviation per consultant,main_report,calculation
+usda_nitrogen_pct_dev_std,USDA Nitrogen % Deviation Standard Deviation,numeric,NA,Standard deviation of USDA nitrogen percentage deviation per consultant,main_report,calculation
+ucce_nitrogen_pct_dev_avg,UCCE Nitrogen % Deviation Average,numeric,NA,Average UCCE nitrogen percentage deviation per consultant,main_report,calculation
+ucce_nitrogen_pct_dev_std,UCCE Nitrogen % Deviation Standard Deviation,numeric,NA,Standard deviation of UCCE nitrogen percentage deviation per consultant,main_report,calculation
+facility_count,Facility Count,numeric,NA,Number of facilities per consultant,main_report,calculation
+CADDID,CADDID,text,NA,,main_report,
+origin_dairy_name,Origin Dairy Name,text,NA,Name of the dairy facility,manifest,pdf
+origin_dairy_address,Origin Dairy Address,text,NA,Address of the dairy facility,manifest,pdf
+hauler_name,Hauler Name,text,NA,Name of hauling company/person,manifest,pdf
+hauler_address,Hauler Address,text,NA,Address of hauling company/person,manifest,pdf
+destination_name,Destination Name,text,NA,Name of destination facility/person,manifest,pdf
+destination_address,Destination Address,text,NA,Address of destination,manifest,pdf
+destination_type,Destination Type,text,NA,Composting Facility / Broker / Farmer / Digester / Other,manifest,pdf
+destination_parcel_number,Destination Assessor Parcel Number,text,NA,APN of destination,manifest,calculation
+haul_date,Haul Date,text,NA,Last date hauled,manifest,pdf
+wastewater_haul_type,Wastewater Haul Type,text,NA,Truck or Pipeline,manifest,calculation
+wastewater_number_hauls,Wastewater Number of Hauls,text,NA,Number of hauls,manifest,calculation
+wastewater_amount,Total Process Wastewater Exports (Gallons),numeric,NA,Total wastewater hauled in gallons,manifest,pdf
+manure_haul_type,Manure Haul Type,text,NA,Truck or Pipeline,manifest,calculation
+manure_number_hauls,Manure Number of Hauls,text,NA,Number of hauls,manifest,calculation
+manure_amount,Total Manure Amount (tons),numeric,NA,Total manure hauled in tons,manifest,pdf
+manure_solids_percent,Manure Solids (%),numeric,NA,Fraction of manure solids,manifest,pdf
+manure_density,Manure Density,numeric,NA,Density of manure if reported in volume,manifest,pdf
+manure_method,Method Used to Determine Volume of Manure,text,NA,Method used to calculate manure amount,manifest,pdf
+wastewater_method,Method Used to Determine Volume of Wastewater,text,NA,Method used to calculate manure amount,manifest,pdf

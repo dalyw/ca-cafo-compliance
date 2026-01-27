@@ -1,5 +1,7 @@
 *.ipynb
 **original**
+**workspace**
+.env
 
 # Python specific
 __pycache__/

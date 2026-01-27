@@ -16,6 +16,14 @@ def save_geocoding_cache(cache):
         json.dump(cache, f, indent=2)
 
 
+def load_geocoding_cache():
+    """Load geocoded addresses from cache file."""
+    # Load geocoding cache
+    with open("ca_cafo_compliance/outputs/geocoding_cache.json", "r") as f:
+        cache = json.load(f)
+    return cache
+
+
 def normalize_address(address):
     if pd.isna(address) or not isinstance(address, str):
         return None

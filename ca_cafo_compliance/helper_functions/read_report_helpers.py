@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import os
 import re
 
 # Dictionary of conversion factors (cf)
@@ -19,259 +18,63 @@ consultant_mapping = dict(
     zip(templates_df["template_key"], templates_df["template_name"])
 )
 
-# Known California cities for address parsing
-CA_CITIES = {
-    'chowchilla', 'fresno', 'kerman', 'madera', 'hanford', 
-    'visalia', 'tulare', 'bakersfield', 'merced', 'modesto',
-    'stockton', 'lodi', 'manteca', 'tracy', 'riverdale',
-    'selma', 'reedley', 'dinuba', 'porterville', 'delano',
-    'corcoran', 'lemoore', 'coalinga', 'gustine', 'newman',
-    'hilmar', 'turlock', 'atwater', 'livingston', 'dos palos',
-    'firebaugh', 'mendota', 'caruthers', 'fowler', 'parlier',
-    'sanger', 'clovis', 'kingsburg', 'orange cove', 'exeter',
-    'lindsay', 'woodlake', 'farmersville', 'earlimart', 'pixley',
-    'tipton', 'terra bella', 'ducor', 'richgrove', 'mcfarland',
-    'wasco', 'shafter', 'arvin', 'lamont', 'taft', 'buttonwillow',
-    'winton', 'dos palos'
-}
+GDRIVE_BASE = '/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests'
 
-# California counties in the dairy regions
-CA_COUNTIES = {'madera', 'fresno', 'kings', 'kern', 'tulare', 'merced', 'stanislaus', 'san joaquin'}
-
-# Address label patterns to skip when parsing
-ADDRESS_LABEL_PATTERNS = [
-    r'^name\s*(of\s+operator)?:?$',
-    r'^name\s*(of\s+dairy\s+facility)?:?$',
-    r'^(facility\s+)?address:?$',
-    r'^number\s+and\s+street$',
-    r'^city$',
-    r'^county$',
-    r'^state$',
-    r'^zip\s*code$',
-    r'^contact\s+person.*$',
-    r'^name$',
-    r'^phone\s*number$',
-    r'^address$',
-    r'^adress$',
-    r'^street\s+and\s+nearest.*$',
-    r"^assessor'?s?\s+parcel.*$",
-    r'^operator\s+information$',
-    r'^destination\s+information$',
-    r'^composting\s+facility.*$',
-    r'^contact\s+information.*$',
-    r'^last\s+date\s+hauled.*$',
-    r'^instructions$',
-    r'^manure\s*/?\s*process.*$',
-    r'^\d\).*$',
-]
-
-# Labels to skip in table cells
-TABLE_CELL_LABELS = {
-    'city', 'county', 'state', 'zip code', 'zip', 'name', 'phone number',
-    'number and street', 'address', 'adress', 'street and nearest cross street'
-}
-
-
-def parse_marker_table_address(line):
-    """
-    Parse address from a marker-format table line.
-    Example: | 2792 W Mt. Whitney AVE | Riverdale | Fresno | Zip Code |
-    Returns: (street, city, state, zipcode)
-    """
-    if '|' not in line:
-        return None, None, None, None
-    
-    cells = [c.strip() for c in line.split('|') if c.strip()]
-    
-    street = None
-    city = None
-    state = None
-    zipcode = None
-    
-    for cell in cells:
-        cell_lower = cell.lower()
-        
-        # Skip labels
-        if cell_lower in TABLE_CELL_LABELS:
-            continue
-        
-        # Check for zip code
-        if re.match(r'^\d{5}(-\d{4})?$', cell):
-            zipcode = cell
-            continue
-        
-        # Check for state
-        if cell.upper() in ['CA', 'CALIFORNIA']:
-            state = 'CA'
-            continue
-        
-        # Check for street address (starts with number, contains street type)
-        if re.match(r'^\d+\s+', cell) and not street:
-            if re.search(r'(AVE|Ave|Avenue|ST|St|Street|RD|Rd|Road|DR|Dr|Drive|Blvd|Way|Lane|Ln|HWY|Hwy)', cell, re.IGNORECASE):
-                street = cell
-                continue
-        
-        # Remaining cells are likely city (if proper name format)
-        if re.match(r'^[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*$', cell) and not city:
-            if cell.lower() in CA_CITIES:
-                city = cell
-    
-    return street, city, state, zipcode
-
-
-def is_address_label(line):
-    """Check if a line is an address form label (not a value)."""
-    for pattern in ADDRESS_LABEL_PATTERNS:
-        if re.match(pattern, line, re.IGNORECASE):
-            return True
-    return False
-
-
-def extract_address_from_section(text, section_start, section_end=None):
-    """
-    Extract address from a section of OCR text.
-    Handles both fitz (plain text) and marker (table) formats.
-    
-    Args:
-        text: Full OCR text
-        section_start: String marking start of section to search
-        section_end: Optional string marking end of section
-    
-    Returns: Formatted address string or None
-    """
-    # Find the section
-    start_idx = text.find(section_start)
-    if start_idx == -1:
-        return None
-    
-    if section_end:
-        end_idx = text.find(section_end, start_idx)
-        section = text[start_idx:end_idx] if end_idx != -1 else text[start_idx:]
-    else:
-        section = text[start_idx:start_idx + 1000]
-    
-    street = None
-    city = None
-    state = None
-    zipcode = None
-    county = None
-    
-    for line in section.split('\n'):
-        line = line.strip()
-        if not line:
-            continue
-        
-        # Skip labels
-        if is_address_label(line):
-            continue
-        
-        # Handle marker table format
-        if '|' in line:
-            t_street, t_city, t_state, t_zip = parse_marker_table_address(line)
-            if t_street and not street:
-                street = t_street
-            if t_city and not city:
-                city = t_city
-            if t_state and not state:
-                state = t_state
-            if t_zip and not zipcode:
-                zipcode = t_zip
-            continue
-        
-        # Plain text format (fitz)
-        # Check for zip code
-        if re.match(r'^\d{5}(-\d{4})?$', line):
-            zipcode = line
-            continue
-        
-        # Check for state
-        if line.upper() in ['CA', 'CALIFORNIA']:
-            state = 'CA'
-            continue
-        
-        # Check for street address
-        street_match = re.match(
-            r'^(\d+\s+[A-Za-z0-9\s\./]+(?:AVE|Ave|Avenue|ST|St|Street|RD|Rd|Road|DR|Dr|Drive|Blvd|Boulevard|Way|Lane|Ln|HWY|Hwy|Highway)\.?)(?:\s|$)',
-            line, re.IGNORECASE
-        )
-        if street_match:
-            street = street_match.group(1).strip()
-            continue
-        
-        # Check for street with fractional numbers (e.g., "10221 Ave 21 1/2")
-        street_alt_match = re.match(
-            r'^(\d+\s+(?:Ave|Avenue|Road|Rd|Street|St|Dr|Drive)\s+[\d\s/]+)$',
-            line, re.IGNORECASE
-        )
-        if street_alt_match:
-            street = street_alt_match.group(1).strip()
-            continue
-        
-        # Check for city
-        if line.lower() in CA_CITIES:
-            city = line.title()
-            continue
-        
-        # Check for county
-        if line.lower() in CA_COUNTIES:
-            county = line.title()
-            continue
-
-    if street:
-        street = ' '.join(street.split())
-    if city:
-        city = ' '.join(city.split())
-    if state:
-        state = state.strip().upper()
-        if state == 'CALIFORNIA':
-            state = 'CA'
-    if zipcode:
-        zipcode = zipcode.strip()
-    
-    # Build address string
-    parts = []
-    if street:
-        parts.append(street)
-    if city:
-        parts.append(city)
-    if state and zipcode:
-        parts.append(f"{state} {zipcode}")
-    elif state:
-        parts.append(state)
-    elif zipcode:
-        parts.append(zipcode)
-    
-    return ', '.join(parts) if parts else None
-
-
-def extract_value_from_line(
-    line, item_order=None, ignore_before=None, ignore_after=None, param_key=None
-):
-    """Extract value from a line using item_order, ignore_before, and ignore_after. 
-    If none, return full line."""
+def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None):
+    """Extract value from a line using item_order, ignore_before, and ignore_after."""
     if not isinstance(line, str):
         line = str(line)
 
     if item_order is None and not ignore_before and not ignore_after:
-        return line
+        return line.strip()
 
-    # Optionally trim before/after
-    if ignore_after:
+    # Process ignore_before first (remove everything before and including the marker)
+    if ignore_before and ignore_before != "NA":
+        if ignore_before == "str":
+            # If ignore_before is 'str', extract first numeric sequence
+            match = re.search(r"([-+]?\d*\.?\d+)", line.strip())
+            if match:
+                line = match.group(1)
+            else:
+                line = line
+        elif ignore_before == "num":
+            # If ignore_before is 'num', extract first number
+            match = re.search(r"([-+]?\d*\.?\d+)", line.strip())
+            if match:
+                line = match.group(1)
+            else:
+                line = line
+        else:
+            # Find the ignore_before marker and take everything after it
+            idx = line.lower().find(str(ignore_before).lower())
+            if idx != -1:
+                line = line[idx + len(str(ignore_before)) :].strip()
+            else:
+                # If marker not found, return empty (field might be in different format)
+                line = line
+
+    # Then process ignore_after (remove everything after and including the marker)
+    if ignore_after and ignore_after != "NA":
         if ignore_after == "str":
-            # If ignore_after is 'str', trim at first non-numeric character
-            # after a numeric sequence
+            # If ignore_after is 'str', trim at first non-numeric character after a numeric sequence
             match = re.match(r"([-+]?\d*\.?\d+)", line.strip())
             if match:
                 line = match.group(1)
+            else:
+                line = ""
+        elif ignore_after == "num":
+            # If ignore_after is 'num', extract first number only
+            match = re.match(r"([-+]?\d*\.?\d+)", line.strip())
+            if match:
+                line = match.group(1)
+            else:
+                line = line
         else:
+            # Find the ignore_after marker and take everything before it
             idx = line.lower().find(str(ignore_after).lower())
             if idx != -1:
                 line = line[:idx].strip()
-
-    if ignore_before:
-        idx = line.lower().find(str(ignore_before).lower())
-        if idx != -1:
-            line = line[idx + len(str(ignore_before)) :].strip()
+            # If marker not found, keep the line as is
 
     # Optionally select item by order
     if item_order is not None and not pd.isna(item_order):
@@ -282,137 +85,9 @@ def extract_value_from_line(
         else:
             result = ""
     else:
-        result = line
+        result = line.strip()
 
     return result
-
-
-def extract_text_adjacent_to_phrase(
-    text,
-    phrase,
-    direction="right",
-    row_search_text=None,
-    column_search_text=None,
-    item_order=None,
-    ignore_before=None,
-    ignore_after=None,
-    param_key=None,
-):
-    if not text or not phrase:
-        return None
-    
-    lines = [str(line).strip() for line in text.split("\n") if str(line).strip()]
-    
-    # Debug: Print lines if extracting dairy_name for R1
-    if param_key == "dairy_name":
-        print("DEBUG: Lines being searched for dairy_name:")
-        for i, l in enumerate(lines):
-            print(f"  {i}: {l}")
-    
-    phrase_line_idx = next(
-        (
-            i
-            for i, line in enumerate(lines)
-            if isinstance(line, str) and phrase.lower() in line.lower()
-        ),
-        None,
-    )
-    
-    if phrase_line_idx is None:
-        return None
-    if direction == "right":
-        line = lines[phrase_line_idx]
-        phrase_idx = line.lower().find(phrase.lower())
-        if phrase_idx != -1:
-            text_after = line[phrase_idx + len(phrase) :].strip()
-            # Debug: Print extracted text_after before ignore_after
-            if param_key == "dairy_name":
-                print(f"DEBUG: Extracted text after phrase: '{text_after}'")
-            return extract_value_from_line(
-                text_after, item_order, ignore_before, ignore_after, param_key=param_key
-            )
-    elif direction == "below":
-        # Find the next non-blank line after the phrase
-        next_line = None
-        for j in range(phrase_line_idx + 1, len(lines)):
-            if lines[j].strip():
-                next_line = lines[j].strip()
-                break
-        if next_line is not None:
-            return extract_value_from_line(
-                next_line, item_order, ignore_before, ignore_after, param_key=param_key
-            )
-    elif direction == "table":
-        if row_search_text and column_search_text:
-            row_idx = next(
-                (
-                    i
-                    for i, line in enumerate(lines)
-                    if isinstance(line, str) and row_search_text.lower() in line.lower()
-                ),
-                None,
-            )
-            if row_idx is not None:
-                header_parts = [
-                    part.strip() for part in str(lines[row_idx]).split() if part.strip()
-                ]
-                col_idx = next(
-                    (
-                        i
-                        for i, part in enumerate(header_parts)
-                        if column_search_text.lower() in part.lower()
-                    ),
-                    None,
-                )
-                if col_idx is not None and row_idx + 1 < len(lines):
-                    value_parts = [
-                        part.strip()
-                        for part in str(lines[row_idx + 1]).split()
-                        if part.strip()
-                    ]
-                    if col_idx < len(value_parts):
-                        return extract_value_from_line(
-                            value_parts[col_idx],
-                            item_order,
-                            ignore_before,
-                            ignore_after,
-                            param_key=param_key,
-                        )
-    elif direction == "above":
-        if phrase_line_idx > 0:
-            value_line = lines[phrase_line_idx - 1]
-            return extract_value_from_line(
-                value_line, item_order, ignore_before, ignore_after, param_key=param_key
-            )
-    return None
-
-
-def find_value_by_text(page_text, row, data_type, param_key=None):
-    if pd.isna(row["row_search_text"]):
-        return None
-    extracted_text = extract_text_adjacent_to_phrase(
-        text=page_text,
-        phrase=row["row_search_text"],
-        direction=row["search_direction"],
-        row_search_text=row["row_search_text"],
-        column_search_text=row.get("column_search_text", pd.NA),
-        item_order=row["item_order"],
-        ignore_before=row["ignore_before"],
-        ignore_after=row["ignore_after"] if "ignore_after" in row else None,
-        param_key=param_key,
-    )
-    if extracted_text:
-        # If it's a single value, just return it
-        if isinstance(extracted_text, str) and len(extracted_text.split()) == 1:
-            return convert_to_numeric(extracted_text, data_type)
-        item_order = row["item_order"]
-        if pd.isna(item_order) or item_order == -1:
-            return convert_to_numeric(extracted_text, data_type)
-        else:
-            parts = extracted_text.split()
-            if item_order < len(parts):
-                return convert_to_numeric(parts[item_order], data_type)
-    return 0 if data_type == "numeric" else None
 
 
 def convert_to_numeric(value, data_type):
@@ -440,10 +115,19 @@ def clean_common_errors(text):
         "S5": "S",
         "Ibs": "lbs",
         "/bs": "lbs",
+        "©": "",
         "Maxiumu": "Maximum",
         "FaciIity": "Facility",
         "CattIe": "Cattle",
         "KjeIdahl": "Kjeldahl",
+        "Sroker": "Broker",
+        " I Broker": "Broker",
+        " I Composting Facility ": "Composting Facility",
+        "HauIing": "Hauling",
+        "Solide": "Solids",
+        "Doing": "Dairy",
+        "Tous": "Tons",
+        "[X]": "", # for false checkmarks in llmwhisperer
     }
 
     # Apply replacements
@@ -461,8 +145,16 @@ def clean_common_errors(text):
     text = re.sub(r"([a-zA-Z])0([a-zA-Z])", r"\1O\2", text)
     text = re.sub(r"([a-zA-Z])I([a-zA-Z])", r"\1I\2", text)
 
-    # Clean up whitespace
-    text = text.replace("  ", " ")
+    # remove spaces before and after "/"
+    text = re.sub(r"\s*/\s*", "/", text)
+    
+    # Remove underscores from OCR reading of form
+    text = re.sub(r"_+", "", text)
+    
+    # Clean up whitespace with more than 1 space / tab
+    text = re.sub(r"[ \t\f\v\r]+", " ", text)
+    # Strip leading semicolon + space from lines (e.g. "; E.R. Prins Dairy")
+    text = "\n".join([re.sub(r"^\s*;\s*", "", line) for line in text.split("\n")])
     text = "\n".join([line for line in text.split("\n") if line.strip()])
 
     return text
@@ -483,80 +175,148 @@ def get_default_value(param_key, data_types, defaults):
 
 
 def find_parameter_value(ocr_text, row, data_types, defaults):
-    """Extract a parameter value from OCR text based on the specified row from parameter_locations."""
-
-    search_direction = row.get("search_direction", pd.NA)
-    page_search_text = row.get("page_search_text", pd.NA)
-    row_search_text = row.get("row_search_text", pd.NA)
-    column_search_text = row.get("column_search_text", 'pd.NA')
+    """Extract a parameter value from OCR text based on one row from parameter_locations."""
     param_key = row["parameter_key"]
     data_type = data_types.get(param_key, "text")
 
-    if pd.isna(search_direction):
-        print(param_key)
+    if not ocr_text:
         return get_default_value(param_key, data_types, defaults)
-    data_type = data_types.get(row["parameter_key"], "text")
-    param_key = row["parameter_key"]
-    
-    # try:
+
+    # reduce the search area using page_search_text (case-insensitive)
+    page_search_text = row.get("page_search_text", pd.NA)
     search_text = ocr_text
-    if not pd.isna(page_search_text):
-        clean_search = " ".join(page_search_text.split())
-        clean_text = " ".join(ocr_text.split())
-        pos = clean_text.find(clean_search)
+    if not pd.isna(page_search_text) and page_search_text != "NA":
+        pos = ocr_text.lower().find(str(page_search_text).lower())
         if pos == -1:
             return get_default_value(param_key, data_types, defaults)
-        search_text = ocr_text[pos + len(page_search_text):]
+        search_text = ocr_text[pos + len(str(page_search_text)) :]
 
-    if pd.isna(row_search_text):
-        print("NA row_search_text for param:", param_key)
+    row_search_text = row["row_search_text"]
+    direction = row["search_direction"]
+    item_order = row.get("item_order", pd.NA)
+    ignore_before = row.get("ignore_before", None)
+    ignore_after = row.get("ignore_after", None)
+
+    if pd.isna(row_search_text) or not str(row_search_text).strip() or pd.isna(direction):
         return get_default_value(param_key, data_types, defaults)
 
-    if pd.isna(column_search_text):
-        print("NA column_search_text for param:", param_key)
-        return get_default_value(param_key, data_types, defaults)
-        
-    # Search for the value in the appropriate text section (use search_text, not ocr_text)
-    value = find_value_by_text(
-        page_text=search_text, row=row, data_type=data_type, param_key=param_key
+    row_search_text = str(row_search_text)
+
+    # Keep all lines including empty ones for empty line detection
+    all_lines = search_text.split("\n")
+    lines = [ln.strip() for ln in all_lines]
+    non_empty_lines = [ln for ln in lines if ln]
+
+    # Debug which lines are being searched for destination fields
+    if param_key in ("destination_name", "destination_address"):
+        print(f"[DEBUG] param_key={param_key}")
+        print(f"[DEBUG]   page_search_text={page_search_text!r}")
+        print(f"[DEBUG]   row_search_text={row_search_text!r}")
+        print(f"[DEBUG]   non_empty_lines={len(non_empty_lines)}")
+
+    phrase_line_idx = next(
+        (i for i, ln in enumerate(non_empty_lines) if row_search_text.lower() in ln.lower()),
+        None,
     )
-    
+
+    extracted_text = None
+    selected_line = None
+    selected_line_text = None
+    if phrase_line_idx is not None:
+        d = str(direction).lower()
+
+        if d == "right":
+            line = non_empty_lines[phrase_line_idx]
+            phrase_idx = line.lower().find(row_search_text.lower())
+            if phrase_idx != -1:
+                selected_line = phrase_line_idx
+                selected_line_text = non_empty_lines[selected_line]
+                # "right" means value is to the right of row_search_text. take everything after it
+                ignore_before = row_search_text
+
+        elif d == "below":
+            # Find the actual line index in the full lines list (including empty lines)
+            phrase_actual_idx = None
+            for i, ln in enumerate(lines):
+                if row_search_text.lower() in ln.lower():
+                    phrase_actual_idx = i
+                    break
+            
+            if phrase_actual_idx is not None:
+                # Look for next non-empty line, but also check if current line is empty
+                found_line_idx = None
+                for j in range(phrase_actual_idx + 1, len(lines)):
+                    if lines[j]:
+                        # Check if this line starts with ignore_before (indicating empty field)
+                        if ignore_before and ignore_before != "NA":
+                            if lines[j].lower().startswith(str(ignore_before).lower()):
+                                # Field is empty, return default
+                                return get_default_value(param_key, data_types, defaults)
+                        # Use this line for extraction
+                        selected_line_text = lines[j]
+                        found_line_idx = j
+                        break
+
+                if param_key in ("destination_name", "destination_address"):
+                    print(f"[DEBUG]   phrase_actual_idx={phrase_actual_idx}")
+                    print(f"[DEBUG]   selected_line_idx={found_line_idx}")
+                    print(f"[DEBUG]   selected_line_text={selected_line_text!r}")
+                
+                if selected_line_text:
+                    extracted_text = extract_value_from_line(
+                        selected_line_text, item_order, ignore_before, ignore_after
+                    )
+                    
+                    # If extracted text is empty, check if next line starts with ignore_before
+                    if (not extracted_text or not extracted_text.strip()) and ignore_before and ignore_before != "NA":
+                        if found_line_idx is not None and found_line_idx + 1 < len(lines) and lines[found_line_idx + 1]:
+                            if lines[found_line_idx + 1].lower().startswith(str(ignore_before).lower()):
+                                return get_default_value(param_key, data_types, defaults)
+
+        elif d == "above":
+            if phrase_line_idx > 0:
+                selected_line = phrase_line_idx - 1
+                selected_line_text = non_empty_lines[selected_line]
+        
+        # Extract text for "right" and "above" directions
+        if d in ["right", "above"] and selected_line_text:
+            extracted_text = extract_value_from_line(
+                        selected_line_text, item_order, ignore_before, ignore_after
+                    )
+            
+            # If extracted text is empty or just whitespace, check if next line starts with ignore_before
+            if (not extracted_text or not extracted_text.strip()) and ignore_before and ignore_before != "NA":
+                # Find the actual line in full lines list
+                actual_line_idx = None
+                for i, ln in enumerate(lines):
+                    if ln == selected_line_text:
+                        actual_line_idx = i
+                        break
+                
+                if actual_line_idx is not None and actual_line_idx + 1 < len(lines):
+                    next_line = lines[actual_line_idx + 1]
+                    if next_line and next_line.lower().startswith(str(ignore_before).lower()):
+                        # Field is empty, return default
+                        return get_default_value(param_key, data_types, defaults)
+
+    # Convert + apply item_order
+    value = 0 if data_type == "numeric" else None
+    if extracted_text and extracted_text.strip():
+        if pd.isna(item_order) or item_order == -1:
+            value = convert_to_numeric(extracted_text, data_type)
+        else:
+            try:
+                k = int(item_order)
+                parts = str(extracted_text).split()
+                if 0 <= k < len(parts):
+                    value = convert_to_numeric(parts[k], data_type)
+            except (TypeError, ValueError):
+                value = convert_to_numeric(extracted_text, data_type)
+
+    # get default value if nothing else returned
     if value is None or (data_type == "numeric" and (pd.isna(value) or value == 0)):
-        # Use default if not found or is zero/NA for numeric
         value = get_default_value(param_key, data_types, defaults)
-    
+
+    if type(value) == str:
+        value = value.title() # title case for all string outputs
     return value
-    # except Exception as e:
-    #     print(f"Error processing parameter {row['parameter_key']}: {str(e)}")
-    #     return get_default_value(param_key, data_types, defaults)
-
-
-def process_pdf(pdf_path, template_params, columns, data_types, defaults):
-    """Process a single PDF file and extract all parameters from OCR text."""
-    result = {col: None for col in columns}
-    result["filename"] = os.path.basename(pdf_path)
-    ocr_text = None
-
-    pdf_dir = os.path.dirname(pdf_path)
-    parent_dir = os.path.dirname(pdf_dir)
-    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-
-    for ocr_dir in ["marker_output", "tesseract_output"]:
-        text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
-        if os.path.exists(text_file):
-            with open(text_file, "r") as f:
-                text = f.read()
-                ocr_text = clean_common_errors(text)
-
-    if not ocr_text:
-        # Use defaults for all parameters if OCR text is missing
-        for _, row in template_params.iterrows():
-            param_key = row["parameter_key"]
-            result[param_key] = get_default_value(param_key, data_types, defaults)
-        return result
-    # Process main report parameters
-    for _, row in template_params.iterrows():
-        param_key = row["parameter_key"]
-        value = find_parameter_value(ocr_text, row, data_types, defaults)
-        result[param_key] = value
-    return result

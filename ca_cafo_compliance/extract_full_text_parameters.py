@@ -2,16 +2,16 @@ import pandas as pd
 import numpy as np
 import os
 import glob
-import json
 import gc
 import sys
 
 from helper_functions.metrics_helpers import *
-from helper_functions.read_report_helpers import YEARS, REGIONS, process_pdf
+from helper_functions.read_report_helpers import YEARS, REGIONS, clean_common_errors, get_default_value, find_parameter_value
 from helper_functions.geocoding_helpers import (
     geocode_address,
     find_cached_address,
     extract_address_components,
+    load_geocoding_cache,
 )
 
 # TODO: 
@@ -79,9 +79,7 @@ def main():
     all_params = parameters["parameter_key"].unique().tolist()
     available_templates = parameter_locations["template"].unique()
 
-    # Load geocoding cache
-    with open("ca_cafo_compliance/outputs/geocoding_cache.json", "r") as f:
-        cache = json.load(f)
+    cache = load_geocoding_cache()
 
     # Load zipcode to county mapping
     zipcode_df = pd.read_csv("ca_cafo_compliance/data/zipcode_to_county.csv")
@@ -206,19 +204,35 @@ def main():
                         # Process PDFs sequentially
                         results = []
                         for pdf_file in pdf_files:
-                            try:
-                                result = process_pdf(
-                                    pdf_file,
-                                    template_params,
-                                    all_params,
-                                    params["data_types"],
-                                    params["defaults"],
-                                )
-                                if result is not None:
-                                    results.append(result)
-                            except Exception as e:
-                                print(f"Error processing {pdf_file}: {e}")
-                                continue
+                            result = {col: None for col in all_params}
+                            result["filename"] = os.path.basename(pdf_file)
+                            ocr_text = None
+
+                            pdf_dir = os.path.dirname(pdf_file)
+                            parent_dir = os.path.dirname(pdf_dir)
+                            pdf_name = os.path.splitext(os.path.basename(pdf_file))[0]
+
+                            for ocr_dir in ["marker_output", "tesseract_output", "fitz_output"]:
+                                text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
+                                if os.path.exists(text_file):
+                                    with open(text_file, "r") as f:
+                                        text = f.read()
+                                        ocr_text = clean_common_errors(text)
+
+                            if not ocr_text:
+                                # Use defaults for all parameters if OCR text is missing
+                                for _, row in template_params.iterrows():
+                                    param_key = row["parameter_key"]
+                                    result[param_key] = get_default_value(param_key, params["data_types"], params["defaults"])
+                                return result
+                            # Process main report parameters
+                            for _, row in template_params.iterrows():
+                                param_key = row["parameter_key"]
+                                value = find_parameter_value(ocr_text, row, params["data_types"], params["defaults"])
+                                result[param_key] = value
+
+                            if result is not None:
+                                results.append(result)
 
                         # Create DataFrame and initialize all parameters as NA
                         df = pd.DataFrame(results)
