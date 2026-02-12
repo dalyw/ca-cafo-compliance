@@ -28,53 +28,45 @@ def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_af
     if item_order is None and not ignore_before and not ignore_after:
         return line.strip()
 
-    # Process ignore_before first (remove everything before and including the marker)
+    # Process ignore_before first (remove everything before and including the phrase)
     if ignore_before and ignore_before != "NA":
         if ignore_before == "str":
             # If ignore_before is 'str', extract first numeric sequence
             match = re.search(r"([-+]?\d*\.?\d+)", line.strip())
             if match:
                 line = match.group(1)
-            else:
-                line = line
         elif ignore_before == "num":
             # If ignore_before is 'num', extract first number
             match = re.search(r"([-+]?\d*\.?\d+)", line.strip())
             if match:
                 line = match.group(1)
-            else:
-                line = line
         else:
-            # Find the ignore_before marker and take everything after it
+            # Find the ignore_before phrase and take everything after it
             idx = line.lower().find(str(ignore_before).lower())
             if idx != -1:
                 line = line[idx + len(str(ignore_before)) :].strip()
-            else:
-                # If marker not found, return empty (field might be in different format)
-                line = line
 
     # Then process ignore_after (remove everything after and including the marker)
+    # ignore_after can be a string, or a list of markers (trim at whichever appears first)
     if ignore_after and ignore_after != "NA":
         if ignore_after == "str":
             # If ignore_after is 'str', trim at first non-numeric character after a numeric sequence
             match = re.match(r"([-+]?\d*\.?\d+)", line.strip())
             if match:
                 line = match.group(1)
-            else:
-                line = ""
-        elif ignore_after == "num":
-            # If ignore_after is 'num', extract first number only
-            match = re.match(r"([-+]?\d*\.?\d+)", line.strip())
-            if match:
-                line = match.group(1)
-            else:
-                line = line
-        else:
-            # Find the ignore_after marker and take everything before it
-            idx = line.lower().find(str(ignore_after).lower())
-            if idx != -1:
+        else: # any other search term
+            markers = ignore_after if isinstance(ignore_after, list) else [ignore_after]
+            idx = len(line)
+            line_lower = line.lower()
+            for m in markers:
+                if not m:
+                    continue
+                i = line_lower.find(str(m).lower())
+                if i != -1 and i < idx:
+                    idx = i
+            if idx < len(line):
+                # trim line at the earliest ignore_after marker
                 line = line[:idx].strip()
-            # If marker not found, keep the line as is
 
     # Optionally select item by order
     if item_order is not None and not pd.isna(item_order):
@@ -95,20 +87,38 @@ def convert_to_numeric(value, data_type):
     if value is None:
         return 0 if data_type == "numeric" else None
 
-    # Remove non-numeric characters
     if data_type == "numeric":
+        # Try to coerce to float, but if that fails, keep the original text
         value = str(value).replace(",", "")
         try:
             return float(value)
         except ValueError:
-            return 0
+            return value
     return value
 
 
 def clean_common_errors(text):
     """Clean up common OCR errors in text while preserving structure."""
-    # Common OCR error replacements
-    replacements = {
+
+    # Case-insensitive replacements (pattern -> replacement)
+    # These will match regardless of case
+    case_insensitive_replacements = {
+        "6pm": "GPM",
+        "galions": "Gallons",
+        "galons": "Gallons",
+        "pek load": "per load",
+        " pek ": " per ",
+        "jons": "tons",
+        "waste water": "Wastewater",
+        "haulers calcs": "Hauler's Calculations",
+        "haulers calculations": "Hauler's Calculations",
+        "hauler's calculations": "Hauler's Calculations",
+        "Arriount": "Amount",
+    }
+
+    # Case-sensitive replacements
+    case_sensitive_replacements = {
+        # odd characters
         "|": "I",
         "0O": "O",
         "1I": "I",
@@ -116,6 +126,8 @@ def clean_common_errors(text):
         "Ibs": "lbs",
         "/bs": "lbs",
         "©": "",
+        "; ": "", # remove semicolons which sometimes appear leading a word
+        # misspellings
         "Maxiumu": "Maximum",
         "FaciIity": "Facility",
         "CattIe": "Cattle",
@@ -126,17 +138,32 @@ def clean_common_errors(text):
         "HauIing": "Hauling",
         "Solide": "Solids",
         "Doing": "Dairy",
+        "Daing": "Dairy",
         "Tous": "Tons",
+        "Tong": "Tons",
+        "Cubie": "Cubic",
+        "Havler": "Hauler",
+        "[]": "", # for false checkmarks in llmwhisperer
         "[X]": "", # for false checkmarks in llmwhisperer
+        "> ": "", # OCR artifact at beginning of lines
+        "[ ] ": "", # OCR artifact at beginning of lines
     }
 
-    # Apply replacements
-    for old, new in replacements.items():
+    # Apply case-insensitive replacements
+    for old, new in case_insensitive_replacements.items():
+        # Use regex with re.IGNORECASE for case-insensitive replacement
+        text = re.sub(re.escape(old), new, text, flags=re.IGNORECASE)
+
+    # Apply case-sensitive replacements
+    for old, new in case_sensitive_replacements.items():
         text = text.replace(old, new)
 
     # Remove certain characters
     for char in ["|", ",", "=", ":", "___"]:
         text = text.replace(char, "")
+
+    # Remove empty lines
+    text = "\n".join([line for line in text.split("\n") if line.strip()])
 
     # Fix number-letter confusions
     text = re.sub(r"(\d)O(\d)", r"\1O\2", text)
@@ -145,8 +172,9 @@ def clean_common_errors(text):
     text = re.sub(r"([a-zA-Z])0([a-zA-Z])", r"\1O\2", text)
     text = re.sub(r"([a-zA-Z])I([a-zA-Z])", r"\1I\2", text)
 
-    # remove spaces before and after "/"
+    # remove spaces before and after "/" and "-"
     text = re.sub(r"\s*/\s*", "/", text)
+    text = re.sub(r"\s*-\s*", "-", text) # helpful for parcel numbers
     
     # Remove underscores from OCR reading of form
     text = re.sub(r"_+", "", text)
@@ -178,145 +206,137 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
     """Extract a parameter value from OCR text based on one row from parameter_locations."""
     param_key = row["parameter_key"]
     data_type = data_types.get(param_key, "text")
+    default = lambda: get_default_value(param_key, data_types, defaults)
 
     if not ocr_text:
-        return get_default_value(param_key, data_types, defaults)
+        return default()
 
-    # reduce the search area using page_search_text (case-insensitive)
+    # Reduce search area using page_search_text (case-insensitive)
     page_search_text = row.get("page_search_text", pd.NA)
     search_text = ocr_text
     if not pd.isna(page_search_text) and page_search_text != "NA":
         pos = ocr_text.lower().find(str(page_search_text).lower())
         if pos == -1:
-            return get_default_value(param_key, data_types, defaults)
-        search_text = ocr_text[pos + len(str(page_search_text)) :]
+            return default()
+        # return lines after the page_search_text
+        search_text = ocr_text[pos + len(str(page_search_text)):]
 
     row_search_text = row["row_search_text"]
-    direction = row["search_direction"]
+    direction = str(row.get("search_direction", "")).lower()
     item_order = row.get("item_order", pd.NA)
     ignore_before = row.get("ignore_before", None)
     ignore_after = row.get("ignore_after", None)
+    
+    # Support pipe-delimited list: "Gallons|(If Amount Reported" -> list
+    if isinstance(ignore_after, str) and "|" in ignore_after:
+        ignore_after = [s.strip() for s in ignore_after.split("|") if s.strip()]
 
-    if pd.isna(row_search_text) or not str(row_search_text).strip() or pd.isna(direction):
-        return get_default_value(param_key, data_types, defaults)
+    if pd.isna(row_search_text) or not str(row_search_text).strip() or not direction:
+        return default()
 
     row_search_text = str(row_search_text)
+    search_lower = row_search_text.lower()
 
-    # Keep all lines including empty ones for empty line detection
-    all_lines = search_text.split("\n")
-    lines = [ln.strip() for ln in all_lines]
-    non_empty_lines = [ln for ln in lines if ln]
+    # Parse lines
+    lines = [ln.strip() for ln in search_text.split("\n")]
+    non_empty = [ln for ln in lines if ln]
+    
+    # Helper: find index of first line containing search text
+    def find_line_idx(line_list):
+        return next((i for i, ln in enumerate(line_list) if search_lower in ln.lower()), None)
+    
+    # Helper: get next non-empty line after index
+    def next_non_empty(start_idx):
+        for j in range(start_idx + 1, len(lines)):
+            # skip lines with only spaces or tabs 
+            if lines[j].strip():
+                return j, lines[j]
+        return None, None
 
-    # Debug which lines are being searched for destination fields
-    if param_key in ("destination_name", "destination_address"):
-        print(f"[DEBUG] param_key={param_key}")
-        print(f"[DEBUG]   page_search_text={page_search_text!r}")
-        print(f"[DEBUG]   row_search_text={row_search_text!r}")
-        print(f"[DEBUG]   non_empty_lines={len(non_empty_lines)}")
+    phrase_idx = find_line_idx(non_empty)
+    if phrase_idx is None:
+        return default()
 
-    phrase_line_idx = next(
-        (i for i, ln in enumerate(non_empty_lines) if row_search_text.lower() in ln.lower()),
-        None,
-    )
-
+    line = non_empty[phrase_idx]
+    actual_idx = find_line_idx(lines)
     extracted_text = None
-    selected_line = None
-    selected_line_text = None
-    if phrase_line_idx is not None:
-        d = str(direction).lower()
 
-        if d == "right":
-            line = non_empty_lines[phrase_line_idx]
-            phrase_idx = line.lower().find(row_search_text.lower())
-            if phrase_idx != -1:
-                selected_line = phrase_line_idx
-                selected_line_text = non_empty_lines[selected_line]
-                # "right" means value is to the right of row_search_text. take everything after it
-                ignore_before = row_search_text
+    if direction == "right":
+        # ignore_before = row_search_text  # Take everything after search phrase
+        # first reduce to text to the right of search phrase on same line
+        idx = line.lower().find(str(row_search_text).lower())
+        if idx != -1:
+            line = line[idx + len(str(row_search_text)) :].strip()
+        extracted_text = extract_value_from_line(line, item_order, ignore_before, ignore_after)
 
-        elif d == "below":
-            # Find the actual line index in the full lines list (including empty lines)
-            phrase_actual_idx = None
-            for i, ln in enumerate(lines):
-                if row_search_text.lower() in ln.lower():
-                    phrase_actual_idx = i
-                    break
-            
-            if phrase_actual_idx is not None:
-                # Look for next non-empty line, but also check if current line is empty
-                found_line_idx = None
-                for j in range(phrase_actual_idx + 1, len(lines)):
-                    if lines[j]:
-                        # Check if this line starts with ignore_before (indicating empty field)
-                        if ignore_before and ignore_before != "NA":
-                            if lines[j].lower().startswith(str(ignore_before).lower()):
-                                # Field is empty, return default
-                                return get_default_value(param_key, data_types, defaults)
-                        # Use this line for extraction
-                        selected_line_text = lines[j]
-                        found_line_idx = j
-                        break
-
-                if param_key in ("destination_name", "destination_address"):
-                    print(f"[DEBUG]   phrase_actual_idx={phrase_actual_idx}")
-                    print(f"[DEBUG]   selected_line_idx={found_line_idx}")
-                    print(f"[DEBUG]   selected_line_text={selected_line_text!r}")
-                
-                if selected_line_text:
-                    extracted_text = extract_value_from_line(
-                        selected_line_text, item_order, ignore_before, ignore_after
-                    )
-                    
-                    # If extracted text is empty, check if next line starts with ignore_before
-                    if (not extracted_text or not extracted_text.strip()) and ignore_before and ignore_before != "NA":
-                        if found_line_idx is not None and found_line_idx + 1 < len(lines) and lines[found_line_idx + 1]:
-                            if lines[found_line_idx + 1].lower().startswith(str(ignore_before).lower()):
-                                return get_default_value(param_key, data_types, defaults)
-
-        elif d == "above":
-            if phrase_line_idx > 0:
-                selected_line = phrase_line_idx - 1
-                selected_line_text = non_empty_lines[selected_line]
-        
-        # Extract text for "right" and "above" directions
-        if d in ["right", "above"] and selected_line_text:
+    elif direction == "above":
+        if phrase_idx > 0:
             extracted_text = extract_value_from_line(
-                        selected_line_text, item_order, ignore_before, ignore_after
-                    )
-            
-            # If extracted text is empty or just whitespace, check if next line starts with ignore_before
-            if (not extracted_text or not extracted_text.strip()) and ignore_before and ignore_before != "NA":
-                # Find the actual line in full lines list
-                actual_line_idx = None
-                for i, ln in enumerate(lines):
-                    if ln == selected_line_text:
-                        actual_line_idx = i
-                        break
-                
-                if actual_line_idx is not None and actual_line_idx + 1 < len(lines):
-                    next_line = lines[actual_line_idx + 1]
-                    if next_line and next_line.lower().startswith(str(ignore_before).lower()):
-                        # Field is empty, return default
-                        return get_default_value(param_key, data_types, defaults)
+                non_empty[phrase_idx - 1], item_order, ignore_before, ignore_after
+            )
 
-    # Convert + apply item_order
-    value = 0 if data_type == "numeric" else None
+    elif direction == "below":
+        if actual_idx is not None:
+            next_idx, next_line = next_non_empty(actual_idx)
+            if next_line:
+                # Check for empty field marker
+                if ignore_before and ignore_before != "NA":
+                    if next_line.lower().startswith(str(ignore_before).lower()):
+                        return default()
+                extracted_text = extract_value_from_line(
+                    next_line, item_order, ignore_before, ignore_after
+                )
+
+    elif direction == "right_below":
+        # if "PO" in
+        # Section headers that indicate a new field (not spillover)
+        section_starts = ["enter the amount", "process wastewater", "written agreement", "method used"]
+
+        # Get text to the right of search phrase
+        pos = line.lower().find(search_lower)
+        right_text = line[pos + len(row_search_text):].strip() if pos != -1 else ""
+        # if "PO" in right_text:
+        #     print(f" PO in line {line}")
+        if right_text:
+            # Apply ignore_before/ignore_after to right_text
+            right_text_cleaned = extract_value_from_line(right_text, item_order, ignore_before, ignore_after)
+            # Check for spillover to next line
+            if actual_idx is not None:
+                _, next_line = next_non_empty(actual_idx)
+                if next_line and not any(next_line.lower().startswith(s) for s in section_starts):
+                    next_line_text = extract_value_from_line(next_line, item_order, ignore_before, ignore_after)
+                    extracted_text = f"{right_text_cleaned} {next_line_text}"
+                else:
+                    # Next line is a section header or doesn't exist, just use right_text
+                    extracted_text = right_text_cleaned
+            else:
+                extracted_text = right_text_cleaned
+        else:
+            # Nothing on same line, look below
+            if actual_idx is not None:
+                _, next_line = next_non_empty(actual_idx)
+                extracted_text = next_line
+                extracted_text = extract_value_from_line(extracted_text, item_order, ignore_before, ignore_after)
+
+    # Convert and apply item_order
+    value = None
     if extracted_text and extracted_text.strip():
         if pd.isna(item_order) or item_order == -1:
             value = convert_to_numeric(extracted_text, data_type)
         else:
             try:
-                k = int(item_order)
                 parts = str(extracted_text).split()
+                k = int(item_order)
                 if 0 <= k < len(parts):
                     value = convert_to_numeric(parts[k], data_type)
             except (TypeError, ValueError):
                 value = convert_to_numeric(extracted_text, data_type)
 
-    # get default value if nothing else returned
+    # Return default if no valid value
     if value is None or (data_type == "numeric" and (pd.isna(value) or value == 0)):
-        value = get_default_value(param_key, data_types, defaults)
+        return default()
+    
+    if value == "N/A" or value == "NA" or value == ".":
+        return default()
 
-    if type(value) == str:
-        value = value.title() # title case for all string outputs
-    return value
+    return value.title() if isinstance(value, str) else value

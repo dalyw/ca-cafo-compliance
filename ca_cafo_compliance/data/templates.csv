@@ -1,16 +1,15 @@
-template_key,first_key_page,last_key_page,template_name
-provost_pritchard,6,NA,Provost-Pritchard
-generic_r5,1,NA,Self-completed (R5)
-cas,2,NA,CAS
-innovative_ag,2,NA,Innovative Ag
-livingston,3,NA,Livingston
-generic_r7,1,NA,Self-completed (R7)
-generic_r8,1,NA,Self-completed (R8)
-r5_fitz,NA,NA,R5 Manifest from Fitz output
-manifest_digital_R5-2007-0035_tesseract,NA,NA,R5 Manifest from Tesseract output
-manifest_digital_R5-2007-0035_llmwhisperer,NA,NA,R5 Manifest from Marker output
-manifest_handwritten_R5-2007-0035_tesseract,NA,NA,R5 Manifest from Handwritten Tesseract output
-manifest_onepage_R5-2007-0035_llmwhisperer,NA,NA,R5 Manifest from One-page LLMWhisperer output
-r5_old_fitz,NA,NA,Old formar R5 Manifest from Fitz output
-manifest_R5-2013-0122_tesseract,NA,NA,Old format R5 Manifest from Tesseract output
-manifest_R5-2013-0122_llmwhisperer,NA,NA,Old format R5 Manifest from LLMWhisperer output
+template_key,first_key_page,last_key_page,template_name,keywords,page_count
+provost_pritchard,6,NA,Provost-Pritchard,,
+generic_r5,1,NA,Self-completed (R5),,
+cas,2,NA,CAS,,
+innovative_ag,2,NA,Innovative Ag,,
+livingston,3,NA,Livingston,,
+generic_r7,1,NA,Self-completed (R7),,
+generic_r8,1,NA,Self-completed (R8),,
+R5-2017-0000_general_order,NA,NA,R5 Manifest from general order R5-2013-0122,2017-,2
+R5-2013-0122_general_order,NA,NA,R5 Manifest from general order R5-2013-0122,2013-|Attachment G,2
+R5-2010-XXXX_general_order,NA,NA,R5 Manifest from general order R5-2007-0035,2010-|Attachment G,2
+R5-2007-0035_software,NA,NA,R5 Manifest from software referencing R5-2007-0035,2007-0035&&MANURE AMOUNT HAULED|WASTEWATER AMOUNT HAULED,2
+R5-2007-0035_general_order,NA,NA,R5 Manifest from general order R5-2007-0035,2007-0035,2
+R5-2007-0035_one_page_1,NA,NA,One Page R5 Manifest for R5-2007-0035,certification,1
+R5-2007-0035_one_page_2,NA,NA,One Page R5 Manifest for R5-2007-0035,certification&&waste generator,1

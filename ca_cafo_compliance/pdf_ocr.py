@@ -1,34 +1,24 @@
 #!/usr/bin/env python3
 import os
-os.environ['HF_HUB_OFFLINE'] = '1' # TODO: test this line
-os.environ['TRANSFORMERS_OFFLINE'] = '1'
 import glob
 import csv
 import json
 import cv2
 import pymupdf as fitz
 import pytesseract
+from pytesseract import Output
 import numpy as np
 from PIL import Image
 from PIL import Image as PILImage
 import io
 from pdf2image import convert_from_path
 import tempfile
-from marker.convert import convert_single_pdf
-from marker.models import load_all_models
 from dotenv import load_dotenv
 load_dotenv() # to load LLMWhisperer API key
 from helper_functions.read_report_helpers import YEARS, REGIONS, GDRIVE_BASE
 
 # Configuration
-OCR_ENGINE = "marker"  # Default OCR engine
 TEST_MODE = False  # Process only test files
-_MARKER_MODELS = None # lazy load later
-def get_marker_models():
-    global _MARKER_MODELS
-    if _MARKER_MODELS is None:
-        _MARKER_MODELS = load_all_models()
-    return _MARKER_MODELS
 # LLMWhisperer API settings
 LLMWHISPERER_API_KEY = os.getenv("LLMWHISPERER_API_KEY", "")
 LLMWHISPERER_BASE_URL = "https://llmwhisperer-api.us-central.unstract.com/api/v2"
@@ -39,6 +29,43 @@ manifest_specific_terms = [
     "hauler info", "destination", "method used", "operator shall", "d-2",
     "solids content", "hauler signature", "hauling event", "complete one"
     ]
+
+
+def _rotate_bound(image: np.ndarray, angle: float) -> np.ndarray:
+    """
+    Rotate an image while keeping the full image in view (no corner cropping).
+
+    Note: matches the behavior of imutils.rotate_bound by rotating *clockwise*
+    for positive angles (OpenCV uses counter-clockwise angles by default).
+    """
+    (h, w) = image.shape[:2]
+    (cX, cY) = (w / 2.0, h / 2.0)
+
+    # rotate clockwise for positive angles (imutils compatibility)
+    M = cv2.getRotationMatrix2D((cX, cY), -angle, 1.0)
+    cos = abs(M[0, 0])
+    sin = abs(M[0, 1])
+
+    nW = int((h * sin) + (w * cos))
+    nH = int((h * cos) + (w * sin))
+
+    M[0, 2] += (nW / 2.0) - cX
+    M[1, 2] += (nH / 2.0) - cY
+
+    return cv2.warpAffine(image, M, (nW, nH))
+
+
+def _correct_orientation_osd(image_bgr: np.ndarray) -> np.ndarray:
+    """Use Tesseract OSD to deskew/rotate a page image into reading orientation."""
+    rgb = cv2.cvtColor(image_bgr, cv2.COLOR_BGR2RGB)
+    try:
+        results = pytesseract.image_to_osd(rgb, output_type=Output.DICT)
+    except pytesseract.TesseractError:
+        return image_bgr
+    rotate = float(results.get("rotate", 0))
+    if rotate:
+        return _rotate_bound(image_bgr, angle=rotate)
+    return image_bgr
 
 
 def convert_pages_safe(pdf_path, first_p, last_p, dpi_list=(350, 250, 200, 150)):
@@ -87,7 +114,7 @@ def extract_specific_pages(pdf_path, pages, output_path=None):
 
 
 def needs_handwritten_analysis(text):
-    """Detect if manifest needs marker OCR (R5-2013-0122 or handwritten forms)."""
+    """Detect if manifest needs handwritten OCR analysis (R5-2013-0122 or handwritten forms)."""
     text_upper = text.upper()
     
     # R5-2013-0122 template: identified by "R5-2013-0122" or "CUBIC YARDS"
@@ -97,7 +124,7 @@ def needs_handwritten_analysis(text):
     return False
 
 
-def find_manifest_pages(pdf_path) -> list[int]:
+def find_manifest_pages(pdf_path, *, detect_orientation: bool = False) -> list[int]:
     manifest_pages = []
     doc = fitz.open(pdf_path)
 
@@ -105,19 +132,23 @@ def find_manifest_pages(pdf_path) -> list[int]:
         page = doc[page_num]
         text = page.get_text().lower()
 
-        # If no embedded text, use quick OCR at low resolution to identify manifest pages
+        # If no embedded text, use OCR at low resolution to identify manifest pages
         if len(text.strip()) < 50:
-            pix = page.get_pixmap(dpi=144)
-            img = Image.open(io.BytesIO(pix.tobytes("png")))
-            text = pytesseract.image_to_string(img, config='--psm 3').lower()
+            pix = page.get_pixmap(dpi=300) # can use 144 for testing or faster results
+            pil_img = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+            img_bgr = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
+            if detect_orientation:
+                img_bgr = _correct_orientation_osd(img_bgr)
+            img_rgb = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
+            text = pytesseract.image_to_string(img_rgb, config="--psm 3").lower()
 
         if any(term in text for term in manifest_specific_terms):
             manifest_pages.append(page_num + 1)
             if page_num + 1 < len(doc):
-                manifest_pages.append(page_num + 2)
+                manifest_pages.append(page_num + 2) # include following page for later processing too
 
     doc.close()
-    return sorted(set(manifest_pages))
+    return sorted(set(manifest_pages)) # remove duplicates
 
 
 def pages_to_extract_str(pages: list[int]) -> str:
@@ -301,9 +332,7 @@ def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=99
         raise RuntimeError(f"LLMWhisperer error {response.status_code}: {response.text[:500]}")
 
 
-def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
-    """Universal text extraction supporting fitz, marker, and tesseract."""
-    
+def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):    
     if pages_to_process is None:
         # Process all pages if none specified
         doc = fitz.open(pdf_path)
@@ -322,21 +351,6 @@ def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
 
             return {"result_text": full_text, "extraction_method": "fitz"}
         
-    elif method == "marker":
-        models = get_marker_models()  
-        all_page_texts = []
-        for page_num in pages_to_process:
-            temp_pdf = extract_specific_pages(pdf_path, [page_num])
-            if temp_pdf:
-                try:
-                    page_text, _, _ = convert_single_pdf(str(temp_pdf), models, max_pages=1)
-                    all_page_texts.append(f"=== Page {page_num} ===\n{page_text}")
-                finally:
-                    try: os.remove(temp_pdf)
-                    except OSError: pass
-        
-        full_text = "\n\n".join(all_page_texts)
-        return {"result_text": full_text, "extraction_method": "marker"}
     
     elif method == "tesseract":
         all_text = []
@@ -360,23 +374,7 @@ def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
     
     elif method == "llmwhisperer":
         return extract_text_llmwhisperer(pdf_path, pages_to_process=pages_to_process, keep_raw=False)
-    
 
-# def extract_text_auto(pdf_path, pages_to_process=None):
-#     results = {}
-#     # 1) try text layer
-#     results["fitz"] = extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=pages_to_process)
-
-#     # 2) tesseract first for scans
-#     results["tesseract"] = extract_text_from_pdf(pdf_path, method="tesseract", pages_to_process=pages_to_process)
-#     tesseract_text = results["tesseract"].get("result_text", "")
-    
-#     # 3) marker if low quality OR if manifest needs marker (R5-2013-0122, handwritten)
-#     if needs_handwritten_analysis(tesseract_text):
-#         results["marker"] = extract_text_from_pdf(pdf_path, method="marker", pages_to_process=pages_to_process)
-#         return results, "marker"
-    
-#     return results, "tesseract"
 
 def extract_text_auto(pdf_path, pages_to_process=None):
     results = {}
@@ -388,12 +386,8 @@ def extract_text_auto(pdf_path, pages_to_process=None):
     results["tesseract"] = extract_text_from_pdf(pdf_path, method="tesseract", pages_to_process=pages_to_process)
     tesseract_text = results["tesseract"].get("result_text", "")
 
-    # 3) if we'd use marker, use LLMWhisperer instead (and optionally also run marker)
+    # 3) LLMWhisperer for better analysis
     if needs_handwritten_analysis(tesseract_text):
-        # # optional: still run marker for comparison/debug
-        # results["marker"] = extract_text_from_pdf(pdf_path, method="marker", pages_to_process=pages_to_process)
-
-        # LLMWhisperer becomes the "final" extraction
         results["llmwhisperer"] = extract_text_from_pdf(pdf_path, method="llmwhisperer", pages_to_process=pages_to_process)
         return results, "llmwhisperer"
 
@@ -406,30 +400,7 @@ def extract_pdf_text(pdf_path, process_only_manifests=False):
     
     pages_to_process = None
     if process_only_manifests:
-        
-        manifest_pages = []
-        doc = fitz.open(pdf_path)
-        
-        for page_num in range(len(doc)):
-            page = doc[page_num]
-            text = page.get_text().lower()
-            
-            # If no embedded text, use quick OCR at low resolution to identify manifest pages
-            if len(text.strip()) < 50:
-                pix = page.get_pixmap(dpi=144)
-                img = Image.open(io.BytesIO(pix.tobytes("png")))
-                text = pytesseract.image_to_string(img, config='--psm 3').lower()
-            
-            # Check for manifest-related terms
-            if any(term in text for term in manifest_specific_terms):
-                manifest_pages.append(page_num + 1)
-                # Always include the next page (page 2 of manifest with method/certification)
-                if page_num + 1 < len(doc):
-                    manifest_pages.append(page_num + 2)
-        
-        doc.close()
-        
-        manifest_pages = sorted(set(manifest_pages)) # Remove duplicates
+        manifest_pages = find_manifest_pages(pdf_path, detect_orientation=True)
         if manifest_pages:
             print(f"  Found {len(manifest_pages)} likely manifest page(s): {manifest_pages}")
             pages_to_process = manifest_pages
@@ -445,17 +416,11 @@ def extract_pdf_text(pdf_path, process_only_manifests=False):
     
     results, final_method = extract_text_auto(pdf_path, pages_to_process)
 
-    # Always save fitz and tesseract; only save marker if it's the final method    
+    # Always save fitz and tesseract; only save llmwhisperer if it's the final method    
     methods_to_save = ["fitz", "tesseract"]
 
     if final_method == "llmwhisperer":
         methods_to_save.append("llmwhisperer")
-        # optional: also save marker when you ran it
-        if "marker" in results:
-            methods_to_save.append("marker")
-
-    elif final_method == "marker":
-        methods_to_save.append("marker")
 
     for method in methods_to_save:
         if method in results:
@@ -583,94 +548,6 @@ def update_reports_available_csv():
         writer.writerows(rows)
 
 
-
-def reprocess_tesseract_needing_handwriting(years=None, regions=None, test_mode=False):
-    """Find tesseract-only files that need marker OCR and process them."""
-    if not years:
-        years = YEARS
-    if not regions:
-        regions = REGIONS
-    
-    files_to_reprocess = []
-    
-    for year in years:
-        for region in regions:
-            region_path = os.path.join(GDRIVE_BASE, str(year), region)
-            if not os.path.exists(region_path):
-                print('no region path')
-                continue
-            
-            for county in os.listdir(region_path):
-                county_path = os.path.join(region_path, county)
-                if not os.path.isdir(county_path): # DS store
-                    continue
-                
-                for template in os.listdir(county_path):
-                    template_path = os.path.join(county_path, template)
-                    tesseract_path = os.path.join(template_path, "tesseract_output")
-                    
-                    if not os.path.exists(tesseract_path):
-                        print(f'{county} {template} has no tesseract path')
-                        continue
-                    
-                    # Check each tesseract output folder
-                    for pdf_folder in os.listdir(tesseract_path):
-                        tesseract_folder = os.path.join(tesseract_path, pdf_folder)
-
-                        llm_folder = os.path.join(template_path, "llmwhisperer_output", pdf_folder)
-                        llm_txt = os.path.join(llm_folder, f"{pdf_folder}.txt")
-                        if os.path.exists(llm_txt) and os.path.getsize(llm_txt) > 0:
-                            continue  # already has llmwhisperer output
-                        
-                        # Read tesseract text to check if needs marker
-                        txt_file = os.path.join(tesseract_folder, f"{pdf_folder}.txt")
-                        if not os.path.exists(txt_file):
-                            continue
-                        
-                        with open(txt_file, "r", encoding="utf-8") as f:
-                            text = f.read()
-                        
-                        # Check if R5-2013-0122 or handwritten (YARDS keyword)
-                        if needs_handwritten_analysis(text):
-                            # Find original PDF
-                            original_path = os.path.join(template_path, "original", f"{pdf_folder}.pdf")
-                            if not os.path.exists(original_path):
-                                original_path = os.path.join(template_path, "original", f"{pdf_folder}.PDF")
-                            if os.path.exists(original_path):
-                                files_to_reprocess.append(original_path)
-
-    files_to_reprocess = sorted(set(files_to_reprocess))
-    print(f"Found {len(files_to_reprocess)} tesseract files needing handwriting analysis")
-    
-    if test_mode and files_to_reprocess:
-        files_to_reprocess = files_to_reprocess[:2]
-        print(f"Test mode: processing {len(files_to_reprocess)} file(s)")
-    
-    for pdf_path in files_to_reprocess:
-        print(f"Reprocessing with llmwhisperer: {os.path.basename(pdf_path)}")
-
-
-        pages_to_process = find_manifest_pages(pdf_path)
-        if not pages_to_process:
-            print(f"  No manifest pages found for {os.path.basename(pdf_path)}; skipping")
-            continue
-
-        print(f"  Reprocessing manifest pages only: {pages_to_process}")
-        result = extract_text_from_pdf(pdf_path, method="llmwhisperer", pages_to_process=pages_to_process)
-        paths = get_output_paths(pdf_path, "llmwhisperer", mkdir=True)
-        with open(paths['txt'], "w", encoding="utf-8") as f:
-            f.write(result["result_text"])
-        page_count = result["result_text"].count("=== Page ")
-        with open(paths['json'], "w", encoding="utf-8") as f:
-            minimal = {
-                "extraction_method": "llmwhisperer",
-                "final_method": "llmwhisperer",
-                "page_count": page_count,
-            }
-            json.dump(minimal, f, indent=2, ensure_ascii=False)
-    
-    print(f"Reprocessing complete: {len(files_to_reprocess)} files")
-
 def main(test_mode=TEST_MODE, process_only_manifests=False):
     
     update_reports_available_csv()
@@ -699,8 +576,6 @@ def main(test_mode=TEST_MODE, process_only_manifests=False):
                 process_only_manifests=process_only_manifests
             )
     
-    reprocess_tesseract_needing_handwriting(years=[2024], regions=["R5"], test_mode=False)
-
     print("OCR complete")
 
 

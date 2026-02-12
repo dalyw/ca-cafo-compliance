@@ -212,7 +212,7 @@ def main():
                             parent_dir = os.path.dirname(pdf_dir)
                             pdf_name = os.path.splitext(os.path.basename(pdf_file))[0]
 
-                            for ocr_dir in ["marker_output", "tesseract_output", "fitz_output"]:
+                            for ocr_dir in ["llmwhisperer_output", "tesseract_output", "fitz_output"]:
                                 text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
                                 if os.path.exists(text_file):
                                     with open(text_file, "r") as f:

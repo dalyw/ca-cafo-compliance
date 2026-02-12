@@ -1,6 +1,7 @@
 county,template,filename,manifest_count
 fresno_madera,cas,2024AR_Silveira Dairy_11277 Ave 21.5_Madera.pdf,5
 fresno_madera,cas,2024AR_Thommen Dairy_53955 W Nees Ave_Fresno.pdf,2
+fresno_madera,cas,2024AR_Jose D Soares Dairy_19045 Road 1_Madera.pdf,0
 fresno_madera,cas,2024AR_Silveira Heifers (merged w Silveira Dairy)_10221 Ave 21.5_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_J&D Wilson Dry Cows_430 W Mt. Whitney Ave_Fresno.pdf,2
 fresno_madera,generic_r5,2024AR_Mt. Whitney Dairy_2792 W Mt. Whitney Ave_Fresno.pdf,3
@@ -12,7 +13,7 @@ fresno_madera,generic_r5,2024AR_Fagundes Dairy_23548 Road 12_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Costa View Dairy North_9499 Ave 20_Madera.pdf,1
 fresno_madera,generic_r5,2024AR_South Point Ranch_13668 Ave 13_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Alfred Soares Dairy_21282 Road 6_Madera.pdf,0
-fresno_madera,generic_r5,2024AR_Open Sky Heifer Ranch (former Morning Star Dairy)_10032 W Elkhorn Ave_Fresno.pdf,4
+fresno_madera,generic_r5,2024AR_Open Sky Heifer Ranch (former Morning Star Dairy)_10032 W Elkhorn Ave_Fresno.pdf,5
 fresno_madera,generic_r5,2024AR_Black Diamond Dairy_10467 W Kamm Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_Shady Acres Dairy #2_15391 W Elkhorn Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera.pdf,3
@@ -49,7 +50,6 @@ fresno_madera,generic_r5,2024AR_Vitoria Farms Dairy_12433 Ave 24_Madera.pdf,8
 fresno_madera,generic_r5,2024AR_Costa View Farms Dairy #2_16800 Road 15_Madera.pdf,1
 fresno_madera,generic_r5,2024AR_AJF Dairy_23435 Road 12_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Joe Mama_s Heifer Ranch_13644 Ave 18.5_Madera.pdf,0
-fresno_madera,generic_r5,2024AR_Jose D Soares Dairy_19045 Road 1_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_G & A Dairy #2_6043 S Madera Ave_Fresno.pdf,7
 fresno_madera,generic_r5,2024AR_Sozinho Dairy #2_8489 E Elkhorn Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_MR Dairy_18899 Road 16_Madera.pdf,0
@@ -77,7 +77,7 @@ fresno_madera,innovative_ag,2024AR_Open Sky Dairy_12103 W Elkhorn Ave_Fresno.PDF
 fresno_madera,innovative_ag,2024AR_River Oaks Dairy_3621 E Mt. Whitney Ave_Fresno.PDF,1
 fresno_madera,innovative_ag,2024AR_Fontes Dairy Farms-Dairy 2_20334 S Polk Ave_Fresno.PDF,0
 fresno_madera,innovative_ag,2024AR_Maple Dairy_19860 Maple St_Fresno.PDF,1
-fresno_madera,provost_pritchard,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno.PDF,6
+fresno_madera,provost_pritchard,2024AR_Pacheco Dairy_1108 N Plumas Ave_Fresno.PDF,12
 fresno_madera,livingston,2024AR_A & M Farms Dairy_10350 W Manning Ave_Fresno.PDF,0
 fresno_madera,dellaville,"2024AR_Bar 20 Dairy, LLC_24387 W Whitesbridge Rd_Fresno.pdf",0
 kern,generic_r5,2024AR_Mc Moo Farms Dairy.pdf,1
@@ -103,7 +103,6 @@ kern,generic_r5,2024AR_Western Sky Dairy.pdf,1
 kern,generic_r5,2024AR_T&W Farms #2 Dairy.pdf,1
 kern,generic_r5,2024AR_Avalon Dairy Farms_27125 Pond Rd_Kern.pdf,1
 kern,generic_r5,2024AR_Maya Dairy_18451 Wildwood Rd_Kern.pdf,2
-kern,generic_r5,2024AR_Solo Dairy_11495 Jumper Ave_Kern.pdf,1
 kern,generic_r5,2024AR_B.V. Dairy_18904 Bear Moutain Blvd_Kern.pdf,0
 kern,generic_r5,2024AR_VP Legacy Farms_28349 Los Angeles St_Kern.pdf,3
 kern,generic_r5,2024AR Faial Farms Dairy.pdf,1
@@ -114,18 +113,18 @@ kern,generic_r5,2024AR_Peterson Dairy_30999 Peterson Rd_Kern.pdf,1
 kern,generic_r5,2024AR_Affentranger & Sons Dairy.pdf,0
 kern,generic_r5,2024AR_Bellanave Dairy.pdf,0
 kern,generic_r5,2024AR_Desert View Dairy #2_24794 Sherwood Ave_Kern.pdf,0
-kern,generic_r5,2024AR_Skyview Dairy_28989 Riverside St_Kern.pdf,0
 kern,generic_r5,2024AR_T&W Farms.pdf,1
 kern,generic_r5,2024AR_Richmar Farms Dairy.pdf,0
 kern,innovative_ag,2024AR_David Vander Schaaf_7524 South Fairfax Rd_Kern.pdf,2
 kern,livingston,2024AR_Oasis Holsteins Dairy_18041 Palm Ave_Kern.pdf,0
 kern,livingston,2024AR_Goyenetche Dairy LLC_6041 Brandt Rd_Kern.pdf,0
 kern,livingston,2024AR_Whiteside Dairy_16461 Scofield Ave_Kern.pdf,0
+kern,livingston,2024AR_Solo Dairy_11495 Jumper Ave_Kern.pdf,1
 kern,livingston,2024AR_Tjaarda Dairy_19211 Magnolia Ave_Kern.pdf,1
+kern,livingston,2024AR_Skyview Dairy_28989 Riverside St_Kern.pdf,0
 kings,generic_r5,2024 AR_White River Dairy.pdf,0
 kings,generic_r5,2024AR_Richard Simas Dairy_17571 Flint Ave_Kings.pdf,0
 kings,generic_r5,2024AR_LU AR Dairy_6121 15th Ave_Kings.pdf,0
-kings,generic_r5,2024AR_Jackson Dairy LLC_8637 Jackson Ave_Kings.PDF,0
 kings,generic_r5,2024AR_Mattos Dairy #4.pdf,0
 kings,generic_r5,2024AR_Sozinho Dairy #5.pdf,0
 kings,generic_r5,2024AR_Jaques & Silva Dairy_10536 6th Ave_Kings.pdf,1
@@ -142,7 +141,6 @@ kings,generic_r5,2024AR_Golde Star Dairy #2.pdf,0
 kings,generic_r5,2024AR_Contente & Co Dairy_7900 15th Ave_Kings.pdf,2
 kings,generic_r5,2024AR_Fagundes Agribusiness Dairy_7546 8.5 Ave_Kings.pdf,0
 kings,generic_r5,2024AR_Sozinho Dairy #5_4615 Excelsior Ave_Kings.pdf,0
-kings,generic_r5,2024AR_S&A Dairy_13243 Houston Ave_Kings.pdf,1
 kings,generic_r5,2024AR_Mattos Brother Dairy.pdf,0
 kings,generic_r5,2024AR_Sozinho Jerseys.pdf,0
 kings,generic_r5,2024AR_Lone Oak Farms Dairy #1_13866 4th Ave_Kings.pdf,0
@@ -151,7 +149,6 @@ kings,generic_r5,2024AR_Bar E Dairy.pdf,0
 kings,generic_r5,2024AR_Dream Dairy #1.pdf,0
 kings,generic_r5,2024AR_Georgenson Dairy_8519 24th Ave_Kings.pdf,1
 kings,generic_r5,2024AR_Neves Dairy.pdf,0
-kings,generic_r5,2024AR_C&R Dairy_15336 10th Ave_Kings.PDF,1
 kings,generic_r5,2024AR_Four Star Dairy.pdf,0
 kings,generic_r5,2024AR_Dixie Creek Dairy_3601 Lancy Blvd_Kings.pdf,0
 kings,generic_r5,2024AR_Silva & Son Dairy.pdf,0
@@ -171,8 +168,10 @@ kings,generic_r5,2024AR_Dover Dairy_4265 Dover Ave_Kings.pdf,1
 kings,generic_r5,2024AR_Joaquim Mattos & Family Dairy.pdf,0
 kings,generic_r5,2024AR_Sozinho Dairy #1 & #3_11447 8.5 Ave_Kings.pdf,0
 kings,generic_r5,2024AR_Parreira & Gaspar Dairy_17800 4th Avenue_Kings.pdf,0
+kings,full_coverage,2024AR_Contente & Co Ranch_5730 20th Ave_Kings.pdf,1
 kings,innovative_ag,2024AR_Poplar Lane Dairy_5387 Kent Avenue_Kings.PDF,0
 kings,innovative_ag,2024AR_Cowlifornia Dairy LLC_3742 Lacey Blvd_Kings.PDF,0
+kings,innovative_ag,2024AR_Jackson Dairy LLC_8637 Jackson Ave_Kings.PDF,0
 kings,innovative_ag,2024AR_Valadao Dairy_17293 9.5 Ave_Kings.PDF,0
 kings,innovative_ag,2024AR_Parreira Dairy_18081 17th Ave_Kings.PDF,1
 kings,innovative_ag,2024AR_Cactus Ranch_8800 Lansing Ave_Kings.PDF,0
@@ -186,17 +185,18 @@ kings,innovative_ag,2024AR_DeGroot Dairies-North_2446 Grangeville Blvd_Kings.PDF
 kings,innovative_ag,2024AR_High Roller Dairy_14782 8th Ave_Kings.PDF,0
 kings,innovative_ag,2024AR_River Ranch Dairy_6155 Jackson Ave_Kings.PDF,2
 kings,innovative_ag,2024AR_The Dairy Inc_6240 21st Ave_Kings.PDF,2
-kings,other,2024AR_Contente & Co Ranch_5730 20th Ave_Kings.pdf,1
 kings,provost_pritchard,2024AR_Diamond D LLC Dairy_9423 Idaho Ave_Kings.PDF,4
 kings,provost_pritchard,2024AR_Hakker Dairy_12499 Idaho Ave_Kings.PDF,0
 kings,livingston,2024AR_Vitor Borba Heifers.PDF,0
 kings,livingston,2024AR_Moonstone Dairy_1305 Iona Avenue_Kings.PDF,1
-kings,livingston,2024AR_West Creek Dairy_8409 5th Ave_Kings.PDF,3
+kings,livingston,2024AR_West Creek Dairy_8409 5th Ave_Kings.PDF,4
 kings,livingston,2024AR_Manuel & Alda Lawrence Dairy_12871 Kent Ave_Kings.PDF,0
 kings,livingston,2024AR_Vitor Borba Dairy_7721 Flint Ave_Kings.PDF,0
+kings,livingston,2024AR_S&A Dairy_13243 Houston Ave_Kings.pdf,1
 kings,livingston,2024AR_Bill Idsinga Dairy_4595 Houston Ave_Kings.PDF,1
 kings,livingston,2024AR_Vitor Borba Dairy #2_16452 11th Ave_Kings.PDF,1
 kings,livingston,2024AR_Cunha Dairy #1_6680 16th Ave_Kings.PDF,0
+kings,livingston,2024AR_C&R Dairy_15336 10th Ave_Kings.PDF,1
 kings,livingston,2024AR_MF Rosa Dairy_10090 2nd Ave_Kings.PDF,0
 tulare_west,generic_r5,"2024AR_Channel Islands Dairy Farms, LLC_13406 Road 24_W Tulare.pdf",1
 tulare_west,generic_r5,2024AR_L K Ranches Dairy_29007 Road 56_W Tulare.pdf,0
@@ -228,8 +228,7 @@ tulare_west,generic_r5,Annual Report copy 3.pdf,0
 tulare_west,generic_r5,Annual Report.pdf,0
 tulare_west,innovative_ag,2024AR_Decade Dairy_3313 Avenue 256_W Tulare.PDF,1
 tulare_west,innovative_ag,2024AR_Meadowlake Dairy_6802 Avenue 120_W Tulare.PDF,4
-tulare_west,innovative_ag,2024AR_Brian James Jongsma Dairy_16026 Road 64_W Tulare.PDF,1
-tulare_west,innovative_ag,2024AR_DJ Dairy_4390 Avenue 352_W Tulare.PDF,1
+tulare_west,innovative_ag,2024AR_Brian James Jongsma Dairy_16026 Road 64_W Tulare.PDF,2
 tulare_west,innovative_ag,2024AR_K & M Visser Dairy_9279 Avenue 96_W Tulare.PDF,0
 tulare_west,innovative_ag,2024AR_South Creek Dairy_11450 Avenue 64_W Tulare.PDF,1
 tulare_west,innovative_ag,2024AR_Blue Moon Farms_13213 Road 80_W Tulare.PDF,0
@@ -242,6 +241,7 @@ tulare_west,innovative_ag,2024AR_Back Road Dairy_22000 Road 28_W Tulare.PDF,0
 tulare_west,provost_pritchard,2024AR_MS Monteiro & Sons Dairy_3515 Avenue 228_W Tulare.PDF,0
 tulare_west,livingston,2024AR_F & L Barcellos #2_7585 Avenue 152_W Tulare.PDF,1
 tulare_west,livingston,2024AR_Valov Brothers Farms LP_2865 West Prosperity Avenue_W Tulare.PDF,0
+tulare_west,livingston,2024AR_DJ Dairy_4390 Avenue 352_W Tulare.PDF,1
 tulare_west,livingston,2024AR_LegenDairy South_8360 Avenue 144_W Tulare.PDF,0
 tulare_west,livingston,2024AR_LegenDairy Farms Dairy_14685 Road 96_W Tulare.PDF,0
 tulare_west,livingston,2024AR_Jer-Z Boys Dairy #1_11001 Avenue 112_W Tulare.PDF,0
@@ -290,16 +290,16 @@ tulare_east,generic_r5,2024AR_Rocky Road Dairy_8715 Ave 368_Tulare.pdf,2
 tulare_east,generic_r5,2024AR_Fernjo Dairy #3_14213 Ave 232_Tulare.pdf,0
 tulare_east,generic_r5,2024AR_Milky Way Dairy_34800 Rd 80_Tulare.pdf,0
 tulare_east,generic_r5,2024AR_Tristar Dairy_12212 Ave 176_Tulare.pdf,0
-tulare_east,innovative_ag,2024AR_Oakbend South Dairy_15651 Ave 192_Tulare.PDF,3
+tulare_east,innovative_ag,2024AR_Oakbend South Dairy_15651 Ave 192_Tulare.PDF,4
 tulare_east,innovative_ag,2024AR_Homestead Dairy_10178 Ave 352_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Top O_ The Morn Farms_17324 Rd 136_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Elbow Creek Dairy_34537 Rd 124_Tulare.PDF,5
 tulare_east,innovative_ag,2024AR_K A Vanderham Dairy_12565 Ave 152_Tulare.PDF,2
-tulare_east,innovative_ag,2024AR_D & V Dairy_15625 Ave 144_Tulare.PDF,5
+tulare_east,innovative_ag,2024AR_D & V Dairy_15625 Ave 144_Tulare.PDF,7
 tulare_east,innovative_ag,2024AR_Highstreet Dairy_15503 Ave 240_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Vander Tuig Dairy_20127 Rd 164_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_East View Dairy_10485 Ave 352_Tulare.PDF,0
-tulare_east,innovative_ag,2024AR_Vintage Dairy_12608 Rd 144_Tulare.PDF,2
+tulare_east,innovative_ag,2024AR_Vintage Dairy_12608 Rd 144_Tulare.PDF,3
 tulare_east,innovative_ag,2024AR_DG Farms_15419 Ave 96_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Jesse and James Jongsma Dairy_9229 Rd 164_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Gerben Leyendekker Dairy #1_8517 Ave 360_Tulare.PDF,2
@@ -307,15 +307,15 @@ tulare_east,innovative_ag,2024AR_Jacobus De Groot Dairy #2_10438 Ave 320_Tulare.
 tulare_east,innovative_ag,2024AR_Rob Van Grouw Dairy_32843 Rd 76_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Will De Groot Dairy_15471 Ave 104_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Outlaw Dairy_12735 Ave 192_Tulare.PDF,0
-tulare_east,innovative_ag,2024AR_Riverbend Dairy_20799 Rd 132_Tulare.PDF,2
+tulare_east,innovative_ag,2024AR_Riverbend Dairy_20799 Rd 132_Tulare.PDF,4
 tulare_east,innovative_ag,2024AR_Oakbend Dairy_23561 Rd 168_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Louie De Groot Dairy_15081 Ave 104_Tulare.PDF,3
-tulare_east,innovative_ag,2024AR_John Jongsma Dairy_15434 Ave 192_Tulare.PDF,2
+tulare_east,innovative_ag,2024AR_John Jongsma Dairy_15434 Ave 192_Tulare.PDF,3
 tulare_east,innovative_ag,2024AR_William & John Jongsma Dairy_11598 Rd 152_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Boertje Farms_37190 Rd 132_Tulare.pdf,0
-tulare_east,innovative_ag,2024AR_Skyline Dairy_15992 Ave 192_Tulare.PDF,3
-tulare_east,innovative_ag,2024AR_East Ridge Farms_14153 Rd 168_Tulare.PDF,3
-tulare_east,innovative_ag,2024AR_Sierra View Dairy+13376 Ave 224_Tulare.PDF,1
+tulare_east,innovative_ag,2024AR_Skyline Dairy_15992 Ave 192_Tulare.PDF,5
+tulare_east,innovative_ag,2024AR_East Ridge Farms_14153 Rd 168_Tulare.PDF,4
+tulare_east,innovative_ag,2024AR_Sierra View Dairy+13376 Ave 224_Tulare.PDF,2
 tulare_east,innovative_ag,2024AR_Rijlaarsdam Dairy_12031 Ave 352_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_4 Corners Dairy_14976 Ave 168_Tulare.pdf,2
 tulare_east,innovative_ag,2024AR_COS Dairy_12764 Ave 224_Tulare.PDF,0
@@ -325,7 +325,7 @@ tulare_east,innovative_ag,2024AR_Rancho Sierra Vista Dairy_32866 Rd 108_Tulare.P
 tulare_east,innovative_ag,2024AR_Chris & John Jongsma Dairy_15759 Ave 128_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Chris De Jong Dairy_14763 Rd168_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Henry A Garcia & Son Dairy_12521 Ave 200_Tulare.PDF,0
-tulare_east,innovative_ag,2024AR_South Corner Dairy_8150 Ave 360_Tulare.PDF,3
+tulare_east,innovative_ag,2024AR_South Corner Dairy_8150 Ave 360_Tulare.PDF,4
 tulare_east,innovative_ag,2024AR_Sunset Ranch_19493 Rd 140_Tulare.PDF,3
 tulare_east,innovative_ag,2024AR_Parreira Gasper Dairy_16087 Ave 188_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Cross Creek Dairy_10167 Ave 352_Tulare.PDF,0
@@ -337,7 +337,7 @@ tulare_east,innovative_ag,2024AR_West Wing Dairy_20997 Rd 180_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Double J Dairy_6656 Ave 328_Tulare.PDF,6
 tulare_east,innovative_ag,2024AR_Riverbend East Dairy_20303 Rd 140_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Red Rose Dairy_8950 Ave 360_Tulare.PDF,0
-tulare_east,provost_pritchard,2024AR_Cream Top Dairy_13075 Ave 200_Tulare.PDF,1
+tulare_east,provost_pritchard,2024AR_Cream Top Dairy_13075 Ave 200_Tulare.PDF,0
 tulare_east,provost_pritchard,2024AR_Triple H Dairy #1_13255 Ave 212_Tulare.PDF,2
 tulare_east,livingston,2024AR_Double M Jerseys_11595 Ave 164_Tulare.PDF,0
 tulare_east,livingston,2024AR_Hoffman Dairy_Riverbend Dairy_21346 Rd 140_Tulare.pdf,0
@@ -379,6 +379,7 @@ rancho_cordova,cas,11132 Shultz Rd El Nido 2024 Dairy AR.PDF,0
 rancho_cordova,cas,1319 S Quinley Ave Merced 2024 Dairy AR.pdf,0
 rancho_cordova,cas,"9558 Columbus Ave, Hilmar 2024 Dairy AR.PDF",27
 rancho_cordova,cas,9201 Hilmar Rd Turlock 2024 Dairy AR.pdf,2
+rancho_cordova,cas,3105 Trindade Rd Atwater 2024 Dairy AR.pdf,0
 rancho_cordova,cas,12710 S Wilson Rd Los Banos 2024 Dairy AR.PDF,0
 rancho_cordova,cas,22495 W China Camp Rd Los Banos 2024 Dairy AR.PDF,0
 rancho_cordova,cas,27890 W Brazo Rd Newman 2024 Dairy AR.PDF,3
@@ -426,11 +427,12 @@ rancho_cordova,cas,5615 Ave 24 Chowchilla 2024 Dairy AR.PDF,0
 rancho_cordova,cas,29191 W Husman Rd Gustine 2024 Dairy AR.pdf,2
 rancho_cordova,cas,7581 N Merced Ave 2024 Dairy AR.PDF,1
 rancho_cordova,cas,4235 Oak Ave Merced 2024 Dairy AR.PDF,0
+rancho_cordova,cas,2226 Hull Rd Atwater 2024 Dairy AR.pdf,0
 rancho_cordova,cas,4390 N Fox Rd Merced 2024 Dairy AR.PDF,2
 rancho_cordova,generic_r5,2331 E Roosevelt Rd El Nido 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,17399 E Avena Rd Escalon 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,19405 E Mariposa Rd Stockton 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,1218 W Keyes Rd Modesto 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,1218 W Keyes Rd Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,2618 E Reilly Rd Merced 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,12121 McKenzie Rd Galt 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,836 W Linwood Ave Crows Landing 2024 Dairy AR.pdf,0
@@ -457,7 +459,6 @@ rancho_cordova,generic_r5,8988 W Meadow Dr Winton 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"5837 Hultberg RD, Turlock 2024 Dairy AR.pdf",3
 rancho_cordova,generic_r5,2655 W Monte Vista Ave Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,5254 Blue Gum Ave Modesto 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,3105 Trindade Rd Atwater 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"3303 S. Washington Rd, Turlock 2024 Dairy AR.pdf",13
 rancho_cordova,generic_r5,11100 E Liberty Rd Galt 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,1912 Franklin Rd Merced 2024 Dairy AR.pdf,0
@@ -842,7 +843,6 @@ rancho_cordova,generic_r5,11910 Bruceville Rd Elk Grove 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,20250 E Avena Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,1015 W 5th Ave Orland 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,"201 Dairy Rd, Davis 2024 Dairy AR.pdf",1
-rancho_cordova,generic_r5,2226 Hull Rd Atwater 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,31503 County Rd 26 Woodland 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,6624 Crane Rd Oakdale 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,5601 Escalon-Bellota Rd Farmington 2024 Dairy AR.pdf,0
