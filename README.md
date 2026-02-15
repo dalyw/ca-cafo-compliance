@@ -9,13 +9,13 @@ ca-cafo-compliance/
 ├── ca_cafo_compliance/
 │   ├── __init__.py
 │   ├── app.py                 # Streamlit web application for data visualization
-│   ├── extract_pdf_text.py    # PDF text extraction using OCR
-│   ├── read_reports.py        # PDF processing and data extraction
-│   ├── helper_functions/      # Utility functions for data processing
+│   ├── step1_pdf_ocr.py        # PDF text extraction using OCR
+|   ├── step2a_full_text_manifest_parameters.py    # PDF processing and data extraction
+|   ├── step2b_extract_manifest_parameters.py    # PDF processing and data extraction
 │   ├── data/                  # Data storage and configuration
 │   │   ├── parameter_locations.csv # OCR parameter locations for each template
 │   │   └── parameters.csv     # Parameter definitions and validation rules
-│   ├── images/               # Static images for the web application
+│   │   └──images/             # for streamlit app
 │   ├── outputs/              # Processed data and analysis results
 ├── data/                      # Raw PDF reports
 │   └── 2023/                  # Reports by year
@@ -35,7 +35,6 @@ ca-cafo-compliance/
 │   └── consolidated/          # Consolidated data files
 │       ├── 2023_Region_5_master.csv
 │       └── geocoding_cache.json
-└── README.md
 ```
 
 ## Setup

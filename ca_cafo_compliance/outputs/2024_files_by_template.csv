@@ -13,7 +13,7 @@ fresno_madera,generic_r5,2024AR_Fagundes Dairy_23548 Road 12_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Costa View Dairy North_9499 Ave 20_Madera.pdf,1
 fresno_madera,generic_r5,2024AR_South Point Ranch_13668 Ave 13_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Alfred Soares Dairy_21282 Road 6_Madera.pdf,0
-fresno_madera,generic_r5,2024AR_Open Sky Heifer Ranch (former Morning Star Dairy)_10032 W Elkhorn Ave_Fresno.pdf,5
+fresno_madera,generic_r5,2024AR_Open Sky Heifer Ranch (former Morning Star Dairy)_10032 W Elkhorn Ave_Fresno.pdf,4
 fresno_madera,generic_r5,2024AR_Black Diamond Dairy_10467 W Kamm Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_Shady Acres Dairy #2_15391 W Elkhorn Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_South Iest Dairy (former Milk Time Dairy)_12519 Road 16_Madera.pdf,3
@@ -34,7 +34,7 @@ fresno_madera,generic_r5,2024AR_VIP Cattle_19436 S East Ave_Fresno.pdf,0
 fresno_madera,generic_r5,2024AR_McRee East Dairy_11812 Ave 18_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Bar None Van Der Hoek Dairy_15886 S Lassen Ave_Fresno.pdf,0
 fresno_madera,generic_r5,"2024AR_RuAnn Dairy, LLC_7285 W Davis Ave_Fresno.pdf",0
-fresno_madera,generic_r5,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno.pdf,9
+fresno_madera,generic_r5,2024AR_Fred Rau Dairy_10255 W Manning Ave_Fresno.pdf,10
 fresno_madera,generic_r5,2024AR_Micheal McRee South Dairy_11304 Ave 18_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Capstone Dairy_14303 Ave 14_Madera.pdf,0
 fresno_madera,generic_r5,2024AR_Medeiros Dairy_608 E Riverdale Ave_Fresno.pdf,0
@@ -70,7 +70,7 @@ fresno_madera,innovative_ag,2024AR_G & A Dairy_2200 S Marks Ave_Fresno.PDF,10
 fresno_madera,innovative_ag,2024AR_Zonneveld Dairies Complex_1560 Cerini Ave_Fresno.PDF,1
 fresno_madera,innovative_ag,"2024AR_Kiss Cattle, LLC_2585 S Chateau Fresno Ave_Fresno.PDF",3
 fresno_madera,innovative_ag,2024AR_Fontes Dairy Farms-Dairy #1_5512 W Davis Ave_Fresno.PDF,0
-fresno_madera,innovative_ag,2024AR_L & J Vanderham Feedlot_7500 Ave 14_Madera.pdf,1
+fresno_madera,innovative_ag,2024AR_L & J Vanderham Feedlot_7500 Ave 14_Madera.pdf,0
 fresno_madera,innovative_ag,2024AR_L & J Vanderham Dairy_10772 W Mt. Whitney Ave_Fresno.PDF,1
 fresno_madera,innovative_ag,2024AR_Pimentel Dairy_18177 Road 10.5_Madera.PDF,0
 fresno_madera,innovative_ag,2024AR_Open Sky Dairy_12103 W Elkhorn Ave_Fresno.PDF,0
@@ -337,7 +337,7 @@ tulare_east,innovative_ag,2024AR_West Wing Dairy_20997 Rd 180_Tulare.PDF,0
 tulare_east,innovative_ag,2024AR_Double J Dairy_6656 Ave 328_Tulare.PDF,6
 tulare_east,innovative_ag,2024AR_Riverbend East Dairy_20303 Rd 140_Tulare.PDF,1
 tulare_east,innovative_ag,2024AR_Red Rose Dairy_8950 Ave 360_Tulare.PDF,0
-tulare_east,provost_pritchard,2024AR_Cream Top Dairy_13075 Ave 200_Tulare.PDF,0
+tulare_east,provost_pritchard,2024AR_Cream Top Dairy_13075 Ave 200_Tulare.PDF,1
 tulare_east,provost_pritchard,2024AR_Triple H Dairy #1_13255 Ave 212_Tulare.PDF,2
 tulare_east,livingston,2024AR_Double M Jerseys_11595 Ave 164_Tulare.PDF,0
 tulare_east,livingston,2024AR_Hoffman Dairy_Riverbend Dairy_21346 Rd 140_Tulare.pdf,0
@@ -432,7 +432,7 @@ rancho_cordova,cas,4390 N Fox Rd Merced 2024 Dairy AR.PDF,2
 rancho_cordova,generic_r5,2331 E Roosevelt Rd El Nido 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,17399 E Avena Rd Escalon 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,19405 E Mariposa Rd Stockton 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,1218 W Keyes Rd Modesto 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,1218 W Keyes Rd Modesto 2024 Dairy AR.pdf,5
 rancho_cordova,generic_r5,2618 E Reilly Rd Merced 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,12121 McKenzie Rd Galt 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,836 W Linwood Ave Crows Landing 2024 Dairy AR.pdf,0
@@ -444,7 +444,7 @@ rancho_cordova,generic_r5,5000 W Keyes Rd Modesto 2024 Dairy AR.pdf,13
 rancho_cordova,generic_r5,6052 Trahern Rd Manteca 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,9950 Arno Rd Galt 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,5213 W Grayson Rd Modesto 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,3449 Paradise Rd Modesto 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,3449 Paradise Rd Modesto 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,"20326 Johnson Ave, Hilmar 2024 Dairy AR.pdf",14
 rancho_cordova,generic_r5,2852 W Turlock Rd Snelling 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,2306 W Fulkerth Rd Crows Landing 2025 Dairy AR.pdf,5
@@ -458,7 +458,7 @@ rancho_cordova,generic_r5,4848 Jackson Rd Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,8988 W Meadow Dr Winton 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"5837 Hultberg RD, Turlock 2024 Dairy AR.pdf",3
 rancho_cordova,generic_r5,2655 W Monte Vista Ave Modesto 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,5254 Blue Gum Ave Modesto 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,5254 Blue Gum Ave Modesto 2024 Dairy AR.pdf,15
 rancho_cordova,generic_r5,"3303 S. Washington Rd, Turlock 2024 Dairy AR.pdf",13
 rancho_cordova,generic_r5,11100 E Liberty Rd Galt 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,1912 Franklin Rd Merced 2024 Dairy AR.pdf,0
@@ -492,10 +492,10 @@ rancho_cordova,generic_r5,1616 Cornelius Ave Nicolaus 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,28470 W Cottonwood Rd Gustine 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,"20271 Johnson Ave, Hilmar 2024 Dairy AR.pdf",0
 rancho_cordova,generic_r5,17273 W Cotton Gin Rd Los Banos 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,18948 N Thornton Rd Lodi 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,18948 N Thornton Rd Lodi 2024 Dairy AR.pdf,5
 rancho_cordova,generic_r5,20002 N Thornton Rd Lodi 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,9701 Atwater Jordan Road Atwater 2024 Dairy AR.pdf,2
-rancho_cordova,generic_r5,18037 S Center Ave Los Banos 2024 Dairy AR.pdf,2
+rancho_cordova,generic_r5,18037 S Center Ave Los Banos 2024 Dairy AR.pdf,3
 rancho_cordova,generic_r5,"7706 Tegner Rd, Hilmar 2024 Dairy AR.pdf",5
 rancho_cordova,generic_r5,14478 Cox Ferry Rd Snelling 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,25723 N Elliott Rd Galt 2024 Dairy AR.pdf,0
@@ -522,7 +522,7 @@ rancho_cordova,generic_r5,3645 W Bradshaw Rd Atwater 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,3493 BVD Ave Merced 2024 Dairy AR.pdf,3
 rancho_cordova,generic_r5,17265 Swanson Rd Delhi 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,11098 Boessow Rd Galt 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,8178 Paradise Rd Modesto 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,8178 Paradise Rd Modesto 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,"1008 N. Verduga Rd, Turlock 2024 Dairy AR.pdf",0
 rancho_cordova,generic_r5,7260 Carpenter Rd Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,4900 E Dodds Rd Oakdale 2024 Dairy AR.pdf,2
@@ -554,7 +554,7 @@ rancho_cordova,generic_r5,17263 Brennan Ave Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,937 El Katrina Ln Ceres 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,22116 W Hwy 152 Los Banos 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,15635 S Steingul Rd Esaclon 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,6600 S Hwy 59 Merced 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,6600 S Hwy 59 Merced 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,6942 S Central Ave Ceres 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,5020 S Hwy 59 Merced 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,4400 Point Pleasant Rd Elk Grove 2024 Dairy AR.pdf,0
@@ -625,7 +625,7 @@ rancho_cordova,generic_r5,21768 E Lone Tree Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,13436 N Thornton Rd Lodi 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,10213 W Main St Turlock 2024 Dairy AR.pdf,9
 rancho_cordova,generic_r5,2222 S Healy Rd Merced 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,10043 Milnes Rd Modesto 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,10043 Milnes Rd Modesto 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,21268 E Avena Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,4125 Bentley Rd Oakdale 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,5496 W Ripon Rd Manteca 2024 Dairy AR.pdf,0
@@ -640,7 +640,7 @@ rancho_cordova,generic_r5,7018 Vivian Rd Modesto 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,26250 Carter Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,11737 Bluegum Rd Hickman 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,6610 E Collier Rd Acampo 2024 Dairy AR.pdf,1
-rancho_cordova,generic_r5,"6041 Central Ave, Hilmar 2024 Dairy AR.pdf",1
+rancho_cordova,generic_r5,"6041 Central Ave, Hilmar 2024 Dairy AR.pdf",2
 rancho_cordova,generic_r5,20749 S Lammers Rd Tracy 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,20723 Geer Ave Hilmar 2024 Dairy AR.pdf,9
 rancho_cordova,generic_r5,27181 E Carter Rd Escalon 2024 Dairy AR.pdf,1
@@ -672,8 +672,8 @@ rancho_cordova,generic_r5,"1730 S. Healy Rd, Merced 2024 Dairy AR.pdf",2
 rancho_cordova,generic_r5,3230 Vivian Rd Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,505 E Washington Rd El Nido 2024 Dairy AR.pdf,9
 rancho_cordova,generic_r5,5217 Oak Ave Merced 2024 Dairy AR.pdf,3
-rancho_cordova,generic_r5,4820 E Perrin Rd Manteca 2024 Dairy AR.pdf,1
-rancho_cordova,generic_r5,1369 S Hunt Rd Gustine 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,4820 E Perrin Rd Manteca 2024 Dairy AR.pdf,2
+rancho_cordova,generic_r5,1369 S Hunt Rd Gustine 2024 Dairy AR.pdf,7
 rancho_cordova,generic_r5,238 S Buhach Rd Merced 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,27527 S Airport Way Manteca 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"9579 Hultberg Rd, Hilmar 2024 Dairy AR.pdf",0
@@ -720,7 +720,7 @@ rancho_cordova,generic_r5,"24507 W. First St, Stevinson 2024 Dairy AR.pdf",0
 rancho_cordova,generic_r5,9161 Warnerville Rd Oakdale 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,8331 Central Ave Ceres 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,5943 County Rd 17 Orland 2024 Dairy AR.PDF,0
-rancho_cordova,generic_r5,26298 Groves Rd Farmington 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,26298 Groves Rd Farmington 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,14691 S Brennan Rd Escalon 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,10511 Ingomar Grade Road Gustine 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,10218 Fulkerth Rd Ceres 2024 Dairy AR.pdf,2
@@ -760,12 +760,12 @@ rancho_cordova,generic_r5,26972 N Dustin Rd Acampo 2024 Dairy AR.pdf,3
 rancho_cordova,generic_r5,16126 W Sunset Dr Livingston 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,27398 Dodds Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,27815 E Dodds Rd Escalon 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,4740 County Rd QQ Orland 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,4740 County Rd QQ Orland 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,11823 Carroll Rd Elk Grove 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,311 Nicholas C Schouten Ln Chico 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,7831 Capay Ave Orland 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,730 W Monte Vista Ave Ceres 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,"7965 Washington Rd, Hilmar 2024 Dairy AR.PDF",0
+rancho_cordova,generic_r5,"7965 Washington Rd, Hilmar 2024 Dairy AR.PDF",1
 rancho_cordova,generic_r5,"19104 Crane Ave, Hilmar 2024 Dairy AR.pdf",1
 rancho_cordova,generic_r5,"20717 Bloss Ave, Hilmar 2024 Dairy AR.pdf",0
 rancho_cordova,generic_r5,"23204 Bloss Ave, Hilmar 2024 Dairy AR.pdf",0
@@ -776,7 +776,7 @@ rancho_cordova,generic_r5,600 Roberts Ferry Rd Waterford 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,6335 W Oakdale Rd Winton 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,11443 Crows Landing Rd Crows Landing 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,3754 Virginia Rd Wheatland 2024 Dairy AR.PDF,0
-rancho_cordova,generic_r5,8600 Dos Rios Ln Modesto 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,8600 Dos Rios Ln Modesto 2024 Dairy AR.pdf,4
 rancho_cordova,generic_r5,15420 E Hwy 4 Stockton 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,508 W Roosevelt Rd El Nido 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,3250 Santa Fe Ave Modesto 2024 Dairy AR.pdf,1
@@ -805,12 +805,12 @@ rancho_cordova,generic_r5,4501 Virginia Rd Marysville 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,825 Ruble Rd Crows Landing 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,26805 Dodds Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,15355 S Van Allen Rd Escalon 2024 Dairy AR.pdf,1
-rancho_cordova,generic_r5,19325 E Lone Tree Rd Escalon 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,19325 E Lone Tree Rd Escalon 2024 Dairy AR.pdf,3
 rancho_cordova,generic_r5,14877 Cox Ferry Rd Snelling 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,1713 W Fulkerth Rd Crows Landing 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"21189 American Ave, Hilmar 2024 Dairy AR.pdf",0
 rancho_cordova,generic_r5,25719 Hale Rd Newman 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,22176 Skiff Rd Escalon 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,22176 Skiff Rd Escalon 2024 Dairy AR.pdf,4
 rancho_cordova,generic_r5,401 W Armstrong Rd Lodi 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,5001 Shiloh Rd Modesto 2024 Dairy AR.pdf,1
 rancho_cordova,generic_r5,"21480 August Ave, Hilmar 2024 Dairy AR.pdf",4
@@ -831,7 +831,7 @@ rancho_cordova,generic_r5,16996 Sexton Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,10235 W El Capitan Way Ballico 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,724 Ruble Rd Crows Landing 2024 Dairy AR.pdf,26
 rancho_cordova,generic_r5,348 E Monte Vista Rd Ceres 2024 Dairy AR.pdf,3
-rancho_cordova,generic_r5,1980 County Rd QQ Willows 2024 Dairy AR.pdf,0
+rancho_cordova,generic_r5,1980 County Rd QQ Willows 2024 Dairy AR.pdf,3
 rancho_cordova,generic_r5,4628 County Rd P Orland 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,9848 Milnes Rd Modesto 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,"1511 Van Clief Rd, Stevinson 2024 Dairy AR.pdf",0
@@ -844,7 +844,7 @@ rancho_cordova,generic_r5,20250 E Avena Rd Escalon 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,1015 W 5th Ave Orland 2024 Dairy AR.PDF,0
 rancho_cordova,generic_r5,"201 Dairy Rd, Davis 2024 Dairy AR.pdf",1
 rancho_cordova,generic_r5,31503 County Rd 26 Woodland 2024 Dairy AR.pdf,0
-rancho_cordova,generic_r5,6624 Crane Rd Oakdale 2024 Dairy AR.pdf,1
+rancho_cordova,generic_r5,6624 Crane Rd Oakdale 2024 Dairy AR.pdf,2
 rancho_cordova,generic_r5,5601 Escalon-Bellota Rd Farmington 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,8413 Faith Home Rd Ceres 2024 Dairy AR.pdf,0
 rancho_cordova,generic_r5,11391 Franklin Blvd Elk Grove 2024 Dairy AR.pdf,0
@@ -856,4 +856,4 @@ rancho_cordova,ghd,24916 S Manteca Rd Manteca 2024 Dairy AR.pdf,0
 rancho_cordova,ghd,4715 County Rd N Rd Orland 2024 Dairy AR.PDF,1
 rancho_cordova,dellaville,11159 West Peach Street Livingston 2024 Dairy AR.pdf,2
 rancho_cordova,vestra,7755 Midway Rd Dixon 2024 Dairy AR.pdf,4
-rancho_cordova,vestra,3355 Virginia Rd Wheatland 2024 Dairy AR.PDF,11
+rancho_cordova,vestra,3355 Virginia Rd Wheatland 2024 Dairy AR.PDF,12

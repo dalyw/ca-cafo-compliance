@@ -102,11 +102,14 @@ hauler_name,Hauler Name,text,NA,Name of hauling company/person,both,pdf
 hauler_address,Hauler Address,text,NA,Address of hauling company/person,both,pdf
 destination_name,Destination Name,text,NA,Name of destination facility/person,both,pdf
 destination_address,Destination Address,text,NA,Address of destination,both,pdf
+destination_nearest_cross_street,Destination Nearest Cross Street,text,NA,,both,pdf
 destination_type,Destination Type,text,NA,Composting Facility / Broker / Farmer / Digester / Other,both,pdf
 destination_type_std,Destination Type (Standardized),text,NA,Composting Facility / Broker / Farmer / Digester / Other,both,pdf
 destination_parcel_number,Destination Assessor Parcel Number,text,NA,APN of destination,both,calculation
 destination_address_geocoded,Destination Address (Geocoded),text,NA,Address of destination,both,calculation
-haul_date,Haul Date,text,NA,Last date hauled,both,pdf
+haul_date,Haul Date,text,NA,Reported date hauled,both,pdf
+haul_date_first,First Haul Date,text,NA,First date hauled,both,calculation
+haul_date_last,Last Haul Date,text,NA,Last date hauled,both,calculation
 is_pipeline,Is Pipeline,boolean,NA,"True if ""Pipeline"" appears in the",both,calculation
 wastewater_gallon_per_haul,Wastewater Volume per Haul (Gallons),numeric,NA,Volume of wastewater hauled per haul,wastewater,calculation
 wastewater_number_hauls,Wastewater Number of Hauls,text,NA,Number of hauls,wastewater,calculation
@@ -118,6 +121,7 @@ manure_yard_per_haul,Manure Volume per Haul (Cubic Yards),numeric,NA,Volume of m
 manure_number_hauls,Manure Number of Hauls,text,NA,Number of hauls,manure,calculation
 manure_amount,Total Manure Amount (tons),numeric,NA,Total manure hauled in tons,manure,pdf
 manure_solids_percent,Manure Solids (%),numeric,NA,Fraction of manure solids,manure,pdf
+manure_moisture_percent,Manure Moisture (%),numeric,NA,Fraction of manure moisture,manure,pdf
 manure_density,Manure Density,numeric,NA,Density of manure if reported in volume,manure,pdf
 manure_method,Method Used to Determine Volume of Manure,text,NA,Method used to calculate manure amount,manure,pdf
 wastewater_method,Method Used to Determine Volume of Wastewater,text,NA,Method used to calculate manure amount,wastewater,pdf

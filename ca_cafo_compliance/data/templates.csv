@@ -6,10 +6,14 @@ innovative_ag,2,NA,Innovative Ag,,
 livingston,3,NA,Livingston,,
 generic_r7,1,NA,Self-completed (R7),,
 generic_r8,1,NA,Self-completed (R8),,
+provost_pritchard_manifest,NA,NA,Provost Pritchard Manifest,provost|pritchard,2
+ucanr,NA,NA,UCANR Manifest,CDQAP,2
+CAG018001,NA,NA,CAG018001,CAG018001,1
 R5-2017-0000_general_order,NA,NA,R5 Manifest from general order R5-2013-0122,2017-,2
 R5-2013-0122_general_order,NA,NA,R5 Manifest from general order R5-2013-0122,2013-|Attachment G,2
 R5-2010-XXXX_general_order,NA,NA,R5 Manifest from general order R5-2007-0035,2010-|Attachment G,2
 R5-2007-0035_software,NA,NA,R5 Manifest from software referencing R5-2007-0035,2007-0035&&MANURE AMOUNT HAULED|WASTEWATER AMOUNT HAULED,2
 R5-2007-0035_general_order,NA,NA,R5 Manifest from general order R5-2007-0035,2007-0035,2
+R5-2007-0035_one_page_2,NA,NA,One Page R5 Manifest for R5-2007-0035,waste generator,1
 R5-2007-0035_one_page_1,NA,NA,One Page R5 Manifest for R5-2007-0035,certification,1
-R5-2007-0035_one_page_2,NA,NA,One Page R5 Manifest for R5-2007-0035,certification&&waste generator,1
+

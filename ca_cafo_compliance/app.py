@@ -10,33 +10,19 @@ import glob
 import requests
 from io import StringIO
 import sys
+from helpers_pdf_metrics import YEARS, REGIONS, cf
 
 # Add the current directory to Python path for imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
 if current_dir not in sys.path:
     sys.path.append(current_dir)
 
-# Import helper functions
-from helper_functions.read_report_helpers import YEARS, REGIONS, cf
-from helper_functions.plotting_helpers import (
-    NITROGEN_COLOR,
-    NITROGEN_EST_COLOR,
-    WASTEWATER_COLOR,
-    WASTEWATER_EST_COLOR,
-    MANURE_COLOR,
-    MANURE_EST_COLOR,
-    REGION_COLORS,
-    CHART_COLORS,
-)
-
 # Load template mapping at the top level so it's available for lookups
 TEMPLATE_KEY_TO_NAME = None
-try:
-    templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
-    TEMPLATE_KEY_TO_NAME = dict(zip(templates_df["template_key"], templates_df["template_name"]))
-except Exception as e:
-    TEMPLATE_KEY_TO_NAME = {}
-    print(f"WARNING: Could not load template mapping: {e}")
+templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
+TEMPLATE_KEY_TO_NAME = dict(
+    zip(templates_df["template_key"], templates_df["template_name"])
+)
 
 st.set_page_config(
     page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration",
@@ -44,23 +30,69 @@ st.set_page_config(
 )
 
 with open(
-    "ca_cafo_compliance/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg",
+    "ca_cafo_compliance/data/images/vecteezy_steaming-pile-of-manure-on-farm-field-in-dutch-countryside_8336504.jpg",
     "rb",
 ) as img_file:
     img_base64 = base64.b64encode(img_file.read()).decode()
+
+
+# Colorblind-friendly palette
+# from ColorBrewer
+PALETTE = {
+    "blue": "#1f77b4",
+    "orange": "#ff7f0e",
+    "green": "#2ca02c",
+    "red": "#d62728",
+    "purple": "#9467bd",
+    "brown": "#8c564b",
+    "pink": "#e377c2",
+    "gray": "#7f7f7f",
+    "yellow": "#bcbd22",
+    "teal": "#17becf",
+}
+
+# Nitrogen-related colors
+NITROGEN_COLOR = PALETTE["blue"]
+NITROGEN_EST_COLOR = "rgba(31, 119, 180, 0.5)"  # blue 0.5 opacity
+
+# Wastewater-related colors
+WASTEWATER_COLOR = PALETTE["teal"]
+WASTEWATER_EST_COLOR = "rgba(23, 190, 207, 0.5)"  # tea 0.5 opacity
+
+# Manure-related colors
+MANURE_COLOR = PALETTE["orange"]
+MANURE_EST_COLOR = "rgba(255, 127, 14, 0.5)"  # orange 0.5 opacity
+
+# Region colors
+REGION_COLORS = {
+    "Region 1": PALETTE["blue"],
+    "Region 2": PALETTE["orange"],
+    "Region 5": PALETTE["green"],
+    "Region 7": PALETTE["red"],
+    "Region 8": PALETTE["purple"],
+}
+
+# Chart-specific colors
+CHART_COLORS = {
+    "acquired": PALETTE["blue"],
+    "not_acquired": PALETTE["yellow"],
+    "perfect_match": PALETTE["gray"],
+    "herd_breakdown": PALETTE["gray"],
+    "under_reporting": PALETTE["red"],
+}
 
 # watermark background
 st.markdown(
     f"""
     <div style="position: relative; width: 100%; height: 240px; margin-bottom: -250px;">
-        <img src="data:image/jpeg;base64,{img_base64}" 
-             style="position: absolute; top: 0; left: 0; width: 100%; height: 190px; 
+        <img src="data:image/jpeg;base64,{img_base64}"
+             style="position: absolute; top: 0; left: 0; width: 100%; height: 190px;
                     object-fit: cover; opacity: 0.4; z-index: 0;" />
-        <div style="position: absolute; top: 20px; left: 0; width: 100%; 
+        <div style="position: absolute; top: 20px; left: 0; width: 100%;
                     text-align: right; z-index: 1;">
-            <span style="background: rgba(255,255,255,0.7); padding: 0.2em 1em; 
+            <span style="background: rgba(255,255,255,0.7); padding: 0.2em 1em;
                         border-radius: 8px; font-size: 1em; color: #444;">
-                Image: <a href='https://www.vecteezy.com/photo/8336504-steaming-pile-of-manure-on-farm-field-in-dutch-countryside' 
+                Image: <a href='https://www.vecteezy.com/photo/8336504-steaming-pile-of-manure-on-farm-field-in-dutch-countryside'
                           target='_blank'>Vecteezy</a>
             </span>
         </div>
@@ -74,12 +106,12 @@ st.markdown(
 def load_data_from_source(local_path, github_url, encoding="utf-8"):
     """
     Helper function to load data from either local file or GitHub.
-    
+
     Args:
         local_path (str): Path to the local file
         github_url (str): URL to the GitHub raw file
         encoding (str): File encoding (default: 'utf-8')
-    
+
     Returns:
         pd.DataFrame: Loaded dataframe or empty dataframe if loading fails
     """
@@ -97,7 +129,7 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
 
 
 def load_data():
-    """Load data from CSV files in the outputs/consolidated directory, 
+    """Load data from CSV files in the outputs/consolidated directory,
     or from GitHub."""
     # Try local files first
     csv_files = glob.glob("ca_cafo_compliance/outputs/consolidated/*.csv")
@@ -149,7 +181,7 @@ def add_histogram_trace(
 ):
     """
     Helper function to add a histogram trace to a figure.
-    
+
     Args:
         fig: The figure to add the trace to
         data: The data series to plot
@@ -219,12 +251,16 @@ def create_comparison_plots(df):
     # Add vertical line at 0% deviation if we have any data
     if not usda_nitrogen_data.empty or not ucce_nitrogen_data.empty:
         max_count = max(
-            usda_nitrogen_data.value_counts().max()
-            if not usda_nitrogen_data.empty
-            else 0,
-            ucce_nitrogen_data.value_counts().max()
-            if not ucce_nitrogen_data.empty
-            else 0,
+            (
+                usda_nitrogen_data.value_counts().max()
+                if not usda_nitrogen_data.empty
+                else 0
+            ),
+            (
+                ucce_nitrogen_data.value_counts().max()
+                if not ucce_nitrogen_data.empty
+                else 0
+            ),
         )
 
         nitrogen_fig.add_trace(
@@ -318,7 +354,7 @@ def add_bar_trace(
 ):
     """
     Helper function to add a bar trace to a figure.
-    
+
     Args:
         fig: The figure to add the trace to
         x: x-axis values
@@ -452,7 +488,7 @@ def create_consultant_comparison_plots():
             showlegend=False,
         ),
         row=1,
-        col=3, 
+        col=3,
     )
 
     fig.update_layout(showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40))
@@ -473,16 +509,12 @@ def filter_tab2(df, selected_year):
 
     # Use startswith to include subregions like R5,F, R5,S, etc.
     region_mask = df["Region"].astype(str).str.startswith(tuple(selected_regions))
-    available_counties = sorted(
-        df[region_mask]["County"].dropna().unique()
-    )
+    available_counties = sorted(df[region_mask]["County"].dropna().unique())
     selected_counties = st.multiselect(
         "Select Counties", available_counties, default=available_counties
     )
 
-    available_consultants = sorted(
-        df[region_mask]["Template"].dropna().unique()
-    )
+    available_consultants = sorted(df[region_mask]["Template"].dropna().unique())
     selected_consultants = st.multiselect(
         "Select Consultants", available_consultants, default=available_consultants
     )
@@ -556,773 +588,703 @@ def manure_scatter_from_df(xlim=20000):
 
 def main():
     st.title("Heaping Piles of Fraud")
-    st.markdown(
-        """
+    st.markdown("""
     ### Revealing Dairy CAFO Compliance and Data Discrepancies
-    
     This dashboard presents the first public analysis of annual reports from Dairy CAFOs (Concentrated Animal Feeding Operations) and reveals concerns about manure and wastewater-related reporting.
     This data shows what local community members have long known: that CAFO dairies are lying and not prioritizing public health.
-    """
+    """)
+
+    df = load_data()
+
+    # Create tabs
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(
+        [
+            "Herd Size",
+            "Manure Manifests",
+            "Nutrients and Wastewater",
+            "Enforcement",
+            "Data Availability & Sources",
+        ]
     )
 
-    try:
-        df = load_data()
+    with tab1:
+        st.write("""
+        This section includes maps showing the geographic distribution
+        of CAFO facilities and their herd sizes.
+        """)
 
-        # Create tabs
-        tab1, tab2, tab3, tab4, tab5 = st.tabs(
-            [
-                "Herd Size",
-                "Manure Manifests",
-                "Nutrients and Wastewater",
-                "Enforcement",
-                "Data Availability & Sources",
-            ]
+        # Years filter (single select)
+        years = sorted(df["Year"].unique())
+        default_year_index = years.index("2023") if "2023" in years else len(years) - 1
+        selected_year = st.selectbox(
+            "Select Year", years, index=default_year_index, key="map_year"
         )
 
-        with tab1:
-            st.write(
-                """
-            This section includes maps showing the geographic distribution of CAFO facilities and their herd sizes. 
-            """
+        # Filter data for map (only by year)
+        map_df = df[df["Year"] == selected_year].copy()
+
+        # Display map
+        st.subheader("Facility Locations")
+        if not map_df.empty and "Latitude" in map_df.columns:
+            st.metric("Total Animals", f"{map_df['Total Herd Size'].sum():,.0f}")
+            # Filter for year and valid coordinates and herd size
+            year_df = df[df["Year"].astype(str) == str(selected_year)].copy()
+            map_df = year_df[
+                year_df["Latitude"].notna()
+                & year_df["Longitude"].notna()
+                & year_df["Total Herd Size"].notna()
+            ].copy()
+
+            map_fig = px.scatter_map(
+                map_df,
+                lat="Latitude",
+                lon="Longitude",
+                size="Total Herd Size",
+                color="Region",
+                color_discrete_map=REGION_COLORS,
+                hover_name="Dairy Name",
+                hover_data={"Total Herd Size": True},
+                title=f"CAFO Facilities in California ({selected_year})",
+                size_max=20,
+                zoom=4.0,
+                center={"lat": 37.2719, "lon": -119.2702},
             )
 
-            # Years filter (single select)
-            years = sorted(df["Year"].unique())
-            default_year_index = (
-                years.index("2023") if "2023" in years else len(years) - 1
-            )
-            selected_year = st.selectbox(
-                "Select Year", years, index=default_year_index, key="map_year"
-            )
+            st.plotly_chart(map_fig, use_container_width=True, height=1000)
+        else:
+            st.warning("No location data available for the selected year.")
 
-            # Filter data for map (only by year)
-            map_df = df[df["Year"] == selected_year].copy()
+        st.markdown("---")
+        st.markdown("<br>", unsafe_allow_html=True)
 
-            # Display map
-            st.subheader("Facility Locations")
-            if not map_df.empty and "Latitude" in map_df.columns:
-                st.metric("Total Animals", f"{map_df['Total Herd Size'].sum():,.0f}")
-                # Filter for year and valid coordinates and herd size
-                year_df = df[df["Year"].astype(str) == str(selected_year)].copy()
-                map_df = year_df[
-                    year_df["Latitude"].notna()
-                    & year_df["Longitude"].notna()
-                    & year_df["Total Herd Size"].notna()
-                ].copy()
+        # Facility search and comparison
+        st.subheader("Facility Search")
+        st.write("""
+        Search for specific facilities to examine their reporting patterns in detail.
+        This tool helps identify individual cases of potential noncompliance.
+        """)
 
-                map_fig = px.scatter_map(
-                    map_df,
-                    lat="Latitude",
-                    lon="Longitude",
-                    size="Total Herd Size",
-                    color="Region",
-                    color_discrete_map=REGION_COLORS,
-                    hover_name="Dairy Name",
-                    hover_data={"Total Herd Size": True},
-                    title=f"CAFO Facilities in California ({selected_year})",
-                    size_max=20,
-                    zoom=4.0,
-                    center={"lat": 37.2719, "lon": -119.2702},
-                )
+        # county filter for facility search
+        facility_counties = sorted(map_df["County"].dropna().unique())
+        selected_facility_county = st.selectbox(
+            "Filter by County",
+            ["All Counties"] + list(facility_counties),
+            key="facility_county_tab1",
+        )
+        # Filter facilities by selected county
+        if selected_facility_county != "All Counties":
+            facility_df = map_df[map_df["County"] == selected_facility_county].copy()
+        else:
+            facility_df = map_df.copy()
 
-                st.plotly_chart(map_fig, use_container_width=True, height=1000)
-            else:
-                st.warning("No location data available for the selected year.")
-
-            st.markdown("---")
-            st.markdown("<br>", unsafe_allow_html=True)
-
-            # Facility search and comparison
-            st.subheader("Facility Search")
-            st.write(
-                """
-            Search for specific facilities to examine their reporting patterns in detail. 
-            This tool helps identify individual cases of potential noncompliance.
-            """
-            )
-
-            # county filter for facility search
-            facility_counties = sorted(map_df["County"].dropna().unique())
-            selected_facility_county = st.selectbox(
-                "Filter by County",
-                ["All Counties"] + list(facility_counties),
-                key="facility_county_tab1",
-            )
-            # Filter facilities by selected county
-            if selected_facility_county != "All Counties":
-                facility_df = map_df[
-                    map_df["County"] == selected_facility_county
-                ].copy()
-            else:
-                facility_df = map_df.copy()
-
-            # Convert Dairy Name to string and handle NaN values
-            facility_df.loc[:, "Dairy Name"] = (
-                facility_df["Dairy Name"].fillna("Unknown").astype(str)
-            )
-            facility_names = sorted(facility_df["Dairy Name"].unique())
-            selected_facility = st.selectbox(
-                "Select a Facility",
-                facility_names,
-                index=facility_names.index("AJ Slenders Dairy")
+        # Convert Dairy Name to string and handle NaN values
+        facility_df.loc[:, "Dairy Name"] = (
+            facility_df["Dairy Name"].fillna("Unknown").astype(str)
+        )
+        facility_names = sorted(facility_df["Dairy Name"].unique())
+        selected_facility = st.selectbox(
+            "Select a Facility",
+            facility_names,
+            index=(
+                facility_names.index("AJ Slenders Dairy")
                 if "AJ Slenders Dairy" in facility_names
-                else 0,
-                key="facility_name_tab1",
-            )
-            if selected_facility:  # Get facility details
-                facility_data = facility_df[
-                    facility_df["Dairy Name"] == selected_facility
-                ].iloc[0]
-                col1, col2 = st.columns(2)
-                with col1:
-                    st.write(
-                        f"Address: {facility_data['Dairy Address']} {facility_data['City']}, CA {facility_data['Zip']}"
-                    )
-                with col2:
-                    template_key = facility_data['Template']
-                    template_name = TEMPLATE_KEY_TO_NAME.get(template_key, template_key)
-                    st.write(f"Report prepared by: {template_name}")
-
-                herd_cols = [
-                    "Average Milk Cows",
-                    "Average Dry Cows",
-                    "Average Bred Heifers",
-                    "Average Heifers",
-                    "Average Calves (4-6 mo.)",
-                    "Average Calves (0-3 mo.)",
-                    "Average Other",
-                ]
-
-                facility_data = facility_df[
-                    facility_df["Dairy Name"] == selected_facility
-                ].iloc[0]
-                facility_comparison_fig = make_subplots(
-                    rows=2,
-                    cols=2,
-                    subplot_titles=(
-                        "Herd Breakdown",
-                        "Nitrogen Generation",
-                        "Wastewater Generation",
-                        "Manure Generation",
-                    ),
-                )
-
-                # 1. Herd Breakdown
-                herd_data = []
-                for col in herd_cols:
-                    if col in facility_data and pd.notna(facility_data[col]):
-                        herd_data.append({"name": col, "value": facility_data[col]})
-                if herd_data:
-                    facility_comparison_fig.add_trace(
-                        go.Bar(
-                            x=[d["name"].replace("Average ", "") for d in herd_data],
-                            y=[d["value"] for d in herd_data],
-                            name="Herd Breakdown",
-                            marker_color="gray",
-                            text=[f"{d['value']:,.0f}" for d in herd_data],
-                            textposition="auto",
-                            showlegend=False,
-                        ),
-                        row=1,
-                        col=1,
-                    )
-
-                # 2. Nitrogen Generation
-                n_reported = "Total Reported N (lbs)"
-                n_usda = "USDA N Estimate (lbs)"
-                n_ucce = "UCCE N Estimate (lbs)"
-                n_reported_val = (
-                    facility_data[n_reported]
-                    if n_reported in facility_data
-                    and pd.notna(facility_data[n_reported])
-                    else None
-                )
-                n_usda_val = (
-                    facility_data[n_usda]
-                    if n_usda in facility_data and pd.notna(facility_data[n_usda])
-                    else None
-                )
-                n_ucce_val = (
-                    facility_data[n_ucce]
-                    if n_ucce in facility_data and pd.notna(facility_data[n_ucce])
-                    else None
-                )
-
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Reported",
-                    n_reported_val,
-                    "Reported",
-                    NITROGEN_COLOR,
-                    text=f"{n_reported_val:,.0f} lbs" if n_reported_val else None,
-                    row=1,
-                    col=2,
-                    legendgroup="reported",
-                    showlegend=False,
-                )
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Estimated (USDA)",
-                    n_usda_val,
-                    "Estimated (USDA)",
-                    NITROGEN_EST_COLOR,
-                    pattern_shape="/",
-                    text=f"{n_usda_val:,.0f} lbs" if n_usda_val else None,
-                    row=1,
-                    col=2,
-                    legendgroup="estimated",
-                    showlegend=False,
-                )
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Estimated (UCCE)",
-                    n_ucce_val,
-                    "Estimated (UCCE)",
-                    NITROGEN_EST_COLOR,
-                    pattern_shape="/",
-                    text=f"{n_ucce_val:,.0f} lbs" if n_ucce_val else None,
-                    row=1,
-                    col=2,
-                    legendgroup="estimated",
-                    showlegend=False,
-                )
-
-                # 3. Wastewater Generation
-                ww_reported = "Total Wastewater Generated (L)"
-                ww_reported_val = (
-                    facility_data[ww_reported]
-                    if ww_reported in facility_data
-                    and pd.notna(facility_data[ww_reported])
-                    else None
-                )
-                ww_estimated_val = facility_data[
-                    "Estimated Total Wastewater Generated (L)"
-                ]
-
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Reported",
-                    ww_reported_val,
-                    "Reported",
-                    WASTEWATER_COLOR,
-                    text=f"{ww_reported_val:,.0f} L" if ww_reported_val else None,
-                    row=2,
-                    col=1,
-                    legendgroup="reported",
-                    showlegend=False,
-                )
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Estimated",
-                    ww_estimated_val,
-                    "Estimated",
-                    WASTEWATER_EST_COLOR,
-                    pattern_shape="/",
-                    text=f"{ww_estimated_val:,.0f} L" if ww_estimated_val else None,
-                    row=2,
-                    col=1,
-                    legendgroup="estimated",
-                    showlegend=False,
-                )
-
-                # 4. Manure Generation
-                manure_reported = "Total Manure Excreted (tons)"
-                herd_size_col = "Total Herd Size"
-                manure_reported_val = (
-                    facility_data[manure_reported]
-                    if manure_reported in facility_data
-                    and pd.notna(facility_data[manure_reported])
-                    else None
-                )
-                manure_estimated_val = (
-                    cf["MANURE_FACTOR_AVERAGE"] * facility_data[herd_size_col]
-                    if herd_size_col in facility_data
-                    and pd.notna(facility_data[herd_size_col])
-                    else None
-                )
-
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Reported",
-                    manure_reported_val,
-                    "Reported",
-                    MANURE_COLOR,
-                    text=f"{manure_reported_val:,.0f} tons"
-                    if manure_reported_val
-                    else None,
-                    row=2,
-                    col=2,
-                    legendgroup="reported",
-                    showlegend=False,
-                )
-                add_bar_trace(
-                    facility_comparison_fig,
-                    "Estimated",
-                    manure_estimated_val,
-                    "Estimated",
-                    MANURE_EST_COLOR,
-                    pattern_shape="/",
-                    text=f"{manure_estimated_val:,.0f} tons"
-                    if manure_estimated_val
-                    else None,
-                    row=2,
-                    col=2,
-                    legendgroup="estimated",
-                    showlegend=False,
-                )
-
-                facility_comparison_fig.update_layout(
-                    height=700, font=dict(size=22),
-                )
-                facility_comparison_fig.update_xaxes(
-                    title_font=dict(size=22), tickfont=dict(size=20)
-                )
-                facility_comparison_fig.update_yaxes(
-                    title_font=dict(size=22), tickfont=dict(size=20)
-                )
-                facility_comparison_fig.update_xaxes(tickangle=30, row=1, col=1)
-
-                if facility_comparison_fig is not None:
-                    st.plotly_chart(facility_comparison_fig, use_container_width=True)
-                else:
-                    st.warning(f"No data available for {selected_facility}")
-
-            st.markdown("---")
-            st.markdown("<br>", unsafe_allow_html=True)
-
-        with tab2:
-            st.write(
-                """
-            This section visualizes the movement of manure exports throughout the Central Valley region, 
-            revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
-            """
-            )
-
-            st.image(
-                "ca_cafo_compliance/images/manifest_placeholder.png",
-                caption="Manure manifest showing export destinations and volumes (from Sophia)",
-            )
-
-            st.subheader("CAFO Density around Elementary Schools - example embed")
-            st.components.v1.iframe(
-                "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
-                height=600,
-                scrolling=True,
-            )
-
-            st.markdown("---")
-            st.markdown("<br>", unsafe_allow_html=True)
-
-        with tab3:
-            st.write(
-                """
-            This section focuses on the reported manure, nitrogen and wastewater production in Regions 5 and 7, where we've identified significant variations between reported and estimated values.
-            """
-            )
-
-            # Years filter
-            years = sorted(df["Year"].unique())
-            default_year_index = (
-                years.index("2023") if "2023" in years else len(years) - 1
-            )
-            selected_year_tab3 = st.selectbox(
-                "Select Year", years, index=default_year_index, key="plot_year"
-            )
-
-            # Filter data for plots
-            (
-                filtered_df,
-                selected_regions,
-                selected_counties,
-                selected_consultants,
-            ) = filter_tab2(df, selected_year_tab3)
-
-            if filtered_df.empty:
-                st.warning(
-                    "Please select at least one region (R5 or R7) to view comparison plots."
-                )
-                return
-
-            # Comparison plots with explanations
-            st.subheader("Estimated vs Actual Comparisons")
-
-            # Nitrogen Generation Plot
-            st.markdown(
-                """
-            ### Nitrogen Generation Comparison
-            Values above 0% indicate facilities reporting less nitrogen than estimated
-            We compare reported nitrogen generation to two estimated metris. The USDA estimate is based on nitrogen per unit of manure generation. The UCCE estimate is based on nitrogen per animal unit.
-            """
-            )
-            nitrogen_fig, wastewater_fig = create_comparison_plots(filtered_df)
-            st.plotly_chart(nitrogen_fig, use_container_width=True)
-
-            # Wastewater to Milk Ratio Plot
-            st.markdown(
-                """
-            ### Wastewater to Milk Ratio
-            Unusually low ratios may indicate under-reporting of wastewater usage.
-            The ratio is calculated as: Total Process Wastewater (L) / Annual Milk Production (L). Milk production is either reported or estimated (using 68 lb/cow/day default)
-            """
-            )
-            st.plotly_chart(wastewater_fig, use_container_width=True)
-
-            # Manure Factor Plot
-            st.markdown(
-                """
-            ### Manure Generation"""
-            )
-            manure_fig_consolidated = manure_scatter_from_df()
-            st.plotly_chart(manure_fig_consolidated, use_container_width=True)
-
-            # Add consultant comparison plots
-            st.markdown("<br><br>", unsafe_allow_html=True)
-            st.markdown("---")
-            st.subheader("Consultant Comparison")
-            st.write(
-                """
-            Many facilities in region 5 use consultatns to prepare their reports. This section assesses reporting patterns across different consultants and self-reported facilities, to understand if there are any systematic issues with certain consultants.
-            Each bar represents a consultant's average value, with error bars showing the standard deviation.
-            """
-            )
-
-            consultant_comparison_fig = create_consultant_comparison_plots()
-            if consultant_comparison_fig is not None:
-                st.plotly_chart(consultant_comparison_fig, use_container_width=True)
-
-            # Raw data
-            st.subheader("Raw Data")
-            st.write(
-                """
-            View and downloada the complete dataset for detailed analysis.
-            Questions on the data can be directed to (insert email)
-            """
-            )
-
-            # Rename columns for display
-            display_df = filtered_df.copy()
-            display_df = display_df.rename(
-                columns={"Template": "Template (Raw)", "Template": "Template"}
-            )
-            # Ensure Zip is always a string for display and export
-            if "Zip" in display_df.columns:
-                display_df["Zip"] = display_df["Zip"].astype(str)
-            st.dataframe(display_df)
-
-            # Download button
-            csv = display_df.to_csv(index=False)
-            st.download_button(
-                label="Download Filtered Data",
-                data=csv,
-                file_name="filtered_cafo_data.csv",
-                mime="text/csv",
-            )
-
-        with tab4:
-            # --- Violation Summary ---
-            st.markdown(
-                """
-            **Summary of Violations by Region and Type**
-            
-            Most violations issued by the Water Boards are for paperwork and reporting issues 
-            (such as late or missing reports), not for actual non-compliance with nutrient 
-            management or environmental protection. This is despite the fact that many submitted 
-            reports show clear evidence of over-application of manure and nitrogen, which can 
-            lead to water quality violations and environmental harm.
-            
-            The table and chart below summarize the types of violations recorded in the enforcement data.
-            """
-            )
-
-            # Load and summarize violation data
-            try:
-                violations_path = (
-                    "ca_cafo_compliance/data/Detailed_Violation_Report.csv"
-                )
-                github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
-                vdf = load_data_from_source(
-                    violations_path, github_url, encoding="latin1"
-                )
-
-                if not vdf.empty:
-                    # Clean up region and type columns, and map RB for display
-                    vdf["RB"] = vdf["RB"].astype(str)
-                    vdf["Violation Type"] = vdf["Violation Type"].astype(str)
-                    rb_map = {
-                        "5F": "R5-F",
-                        "5S": "R5-S",
-                        "5R": "R5-R",
-                        "1": "R1",
-                        "2": "R2",
-                        "3": "R3",
-                        "6V": "R6V",
-                        "7": "R7",
-                        "8": "R8",
-                        "9": "R9",
-                        "6B": "R6B",
-                    }
-                    vdf["Region"] = vdf["RB"].map(rb_map).fillna(vdf["RB"])
-                    summary = (
-                        vdf.groupby(["Region", "Violation Type"])
-                        .size()
-                        .reset_index(name="Count")
-                    )
-                    summary_pivot = (
-                        summary.pivot(
-                            index="Region", columns="Violation Type", values="Count"
-                        )
-                        .fillna(0)
-                        .astype(int)
-                    )
-                    summary_pivot = summary_pivot.reindex(
-                        sorted(
-                            summary_pivot.index,
-                            key=lambda x: (x not in ["R5-F", "R5-S", "R5-R"], x),
-                        )
-                    )
-                    st.dataframe(summary_pivot)
-
-                    # Bar chart of violation types by region (show R5-F, R5-S, R5-R as separate bars)
-                    bar_df = summary.copy()
-                    bar_df["Region"] = pd.Categorical(
-                        bar_df["Region"],
-                        categories=[
-                            "R5-F",
-                            "R5-S",
-                            "R5-R",
-                            "R1",
-                            "R2",
-                            "R3",
-                            "R6V",
-                            "R6B",
-                            "R7",
-                            "R8",
-                            "R9",
-                        ],
-                        ordered=True,
-                    )
-                    fig = px.bar(
-                        bar_df,
-                        x="Region",
-                        y="Count",
-                        color="Violation Type",
-                        barmode="stack",
-                        title="Violations by Region and Type",
-                        labels={"Region": "Region", "Count": "Number of Violations"},
-                    )
-                    st.plotly_chart(fig, use_container_width=True)
-                else:
-                    st.info("No violation data available.")
-            except Exception as e:
-                st.warning(f"Error loading or processing violation data: {e}")
-
-        with tab5:
-            st.write(
-                """
-            This section provides information about the data availability and types for each region, 
-            based on the provided text. This analysis is inherently limited by the accessibility 
-            and consistency of the source data, including issues like inconsistent regional 
-            reporting formats and levels of detail, the requirement to visit in-person to get 
-            data in some regions, and different data collection periods
-            """
-            )
-
-            # Reporting Requirements Table
-            def reporting_requirements_table():
-                data = [
-                    ["1", "❌", "❌", "❌", "❌", "❌", "❌", "❌"],
-                    ["2", "❌", "❌", "❌", "✅", "❌", "❌", "❌"],
-                    ["5", "✅", "✅", "✅", "❌", "❌", "✅", "❌"],
-                    ["7", "✅", "✅", "❌", "❌", "🟡", "❌", "❌"],
-                    ["8", "❌", "✅", "❌", "❌", "🟡", "✅", "✅"],
-                ]
-                columns = [
-                    "Region",
-                    "Wastewater Production Reporting",
-                    "Manure Production Reporting",
-                    "Nutrient Content Reporting",
-                    "Groundwater Sampling Required",
-                    "Public access to NMPs?",
-                    "Require Manure Tracking Manifests?",
-                    "Provides Tabular Data?",
-                ]
-                df = pd.DataFrame(data, columns=columns)
-
-                def style_cell(val):
-                    if val == "✅":
-                        return (
-                            '<span style="color:green;font-size:1.5em;">&#x2705;</span>'
-                        )
-                    elif val == "❌":
-                        return (
-                            '<span style="color:red;font-size:1.5em;">&#10060;</span>'
-                        )
-                    elif val == "🟡":
-                        return "<b>Limited</b>"
-                    else:
-                        return val
-
-                styled_df = df.style.format(style_cell, escape="html")
-                st.markdown("### CAFO Reporting Requirements by Region")
+                else 0
+            ),
+            key="facility_name_tab1",
+        )
+        if selected_facility:  # Get facility details
+            facility_data = facility_df[
+                facility_df["Dairy Name"] == selected_facility
+            ].iloc[0]
+            col1, col2 = st.columns(2)
+            with col1:
                 st.write(
-                    "The table below summarizes reporting and public access requirements for each region."
+                    f"Address: {facility_data['Dairy Address']} {facility_data['City']}, CA {facility_data['Zip']}"
                 )
-                st.write(styled_df.to_html(escape=False), unsafe_allow_html=True)
+            with col2:
+                template_key = facility_data["Template"]
+                template_name = TEMPLATE_KEY_TO_NAME.get(template_key, template_key)
+                st.write(f"Report prepared by: {template_name}")
 
-            # Show the table instead of the image
-            reporting_requirements_table()
+            herd_cols = [
+                "Average Milk Cows",
+                "Average Dry Cows",
+                "Average Bred Heifers",
+                "Average Heifers",
+                "Average Calves (4-6 mo.)",
+                "Average Calves (0-3 mo.)",
+                "Average Other",
+            ]
 
-            csv_path = "ca_cafo_compliance/data/reports_available.csv"
-            github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
-            reports_df = load_data_from_source(csv_path, github_url)
+            facility_data = facility_df[
+                facility_df["Dairy Name"] == selected_facility
+            ].iloc[0]
+            facility_comparison_fig = make_subplots(
+                rows=2,
+                cols=2,
+                subplot_titles=(
+                    "Herd Breakdown",
+                    "Nitrogen Generation",
+                    "Wastewater Generation",
+                    "Manure Generation",
+                ),
+            )
 
-            # Region/county mapping for labels, accounting for sub-regions of R5
-            def get_region_label(row):
-                region = str(row.get("region", ""))
-                county = str(row.get("county", "")).lower() if "county" in row else ""
-                if region == "5":
-                    if county == "kern":
-                        return "R5-F"
-                    elif county in ["fresno_madera", "kings", "tulare_west"]:
-                        return "R5-S"
-                    else:
-                        return "R5-R"
+            # 1. Herd Breakdown
+            herd_data = []
+            for col in herd_cols:
+                if col in facility_data and pd.notna(facility_data[col]):
+                    herd_data.append({"name": col, "value": facility_data[col]})
+            if herd_data:
+                facility_comparison_fig.add_trace(
+                    go.Bar(
+                        x=[d["name"].replace("Average ", "") for d in herd_data],
+                        y=[d["value"] for d in herd_data],
+                        name="Herd Breakdown",
+                        marker_color="gray",
+                        text=[f"{d['value']:,.0f}" for d in herd_data],
+                        textposition="auto",
+                        showlegend=False,
+                    ),
+                    row=1,
+                    col=1,
+                )
+
+            # 2. Nitrogen Generation
+            n_reported = "Total Reported N (lbs)"
+            n_usda = "USDA N Estimate (lbs)"
+            n_ucce = "UCCE N Estimate (lbs)"
+            n_reported_val = (
+                facility_data[n_reported]
+                if n_reported in facility_data and pd.notna(facility_data[n_reported])
+                else None
+            )
+            n_usda_val = (
+                facility_data[n_usda]
+                if n_usda in facility_data and pd.notna(facility_data[n_usda])
+                else None
+            )
+            n_ucce_val = (
+                facility_data[n_ucce]
+                if n_ucce in facility_data and pd.notna(facility_data[n_ucce])
+                else None
+            )
+
+            add_bar_trace(
+                facility_comparison_fig,
+                "Reported",
+                n_reported_val,
+                "Reported",
+                NITROGEN_COLOR,
+                text=f"{n_reported_val:,.0f} lbs" if n_reported_val else None,
+                row=1,
+                col=2,
+                legendgroup="reported",
+                showlegend=False,
+            )
+            add_bar_trace(
+                facility_comparison_fig,
+                "Estimated (USDA)",
+                n_usda_val,
+                "Estimated (USDA)",
+                NITROGEN_EST_COLOR,
+                pattern_shape="/",
+                text=f"{n_usda_val:,.0f} lbs" if n_usda_val else None,
+                row=1,
+                col=2,
+                legendgroup="estimated",
+                showlegend=False,
+            )
+            add_bar_trace(
+                facility_comparison_fig,
+                "Estimated (UCCE)",
+                n_ucce_val,
+                "Estimated (UCCE)",
+                NITROGEN_EST_COLOR,
+                pattern_shape="/",
+                text=f"{n_ucce_val:,.0f} lbs" if n_ucce_val else None,
+                row=1,
+                col=2,
+                legendgroup="estimated",
+                showlegend=False,
+            )
+
+            # 3. Wastewater Generation
+            ww_reported = "Total Wastewater Generated (L)"
+            ww_reported_val = (
+                facility_data[ww_reported]
+                if ww_reported in facility_data and pd.notna(facility_data[ww_reported])
+                else None
+            )
+            ww_estimated_val = facility_data["Estimated Total Wastewater Generated (L)"]
+
+            add_bar_trace(
+                facility_comparison_fig,
+                "Reported",
+                ww_reported_val,
+                "Reported",
+                WASTEWATER_COLOR,
+                text=f"{ww_reported_val:,.0f} L" if ww_reported_val else None,
+                row=2,
+                col=1,
+                legendgroup="reported",
+                showlegend=False,
+            )
+            add_bar_trace(
+                facility_comparison_fig,
+                "Estimated",
+                ww_estimated_val,
+                "Estimated",
+                WASTEWATER_EST_COLOR,
+                pattern_shape="/",
+                text=f"{ww_estimated_val:,.0f} L" if ww_estimated_val else None,
+                row=2,
+                col=1,
+                legendgroup="estimated",
+                showlegend=False,
+            )
+
+            # 4. Manure Generation
+            manure_reported = "Total Manure Excreted (tons)"
+            herd_size_col = "Total Herd Size"
+            manure_reported_val = (
+                facility_data[manure_reported]
+                if manure_reported in facility_data
+                and pd.notna(facility_data[manure_reported])
+                else None
+            )
+            manure_estimated_val = (
+                cf["MANURE_FACTOR_AVERAGE"] * facility_data[herd_size_col]
+                if herd_size_col in facility_data
+                and pd.notna(facility_data[herd_size_col])
+                else None
+            )
+
+            add_bar_trace(
+                facility_comparison_fig,
+                "Reported",
+                manure_reported_val,
+                "Reported",
+                MANURE_COLOR,
+                text=(
+                    f"{manure_reported_val:,.0f} tons" if manure_reported_val else None
+                ),
+                row=2,
+                col=2,
+                legendgroup="reported",
+                showlegend=False,
+            )
+            add_bar_trace(
+                facility_comparison_fig,
+                "Estimated",
+                manure_estimated_val,
+                "Estimated",
+                MANURE_EST_COLOR,
+                pattern_shape="/",
+                text=(
+                    f"{manure_estimated_val:,.0f} tons"
+                    if manure_estimated_val
+                    else None
+                ),
+                row=2,
+                col=2,
+                legendgroup="estimated",
+                showlegend=False,
+            )
+
+            facility_comparison_fig.update_layout(
+                height=700,
+                font=dict(size=22),
+            )
+            facility_comparison_fig.update_xaxes(
+                title_font=dict(size=22), tickfont=dict(size=20)
+            )
+            facility_comparison_fig.update_yaxes(
+                title_font=dict(size=22), tickfont=dict(size=20)
+            )
+            facility_comparison_fig.update_xaxes(tickangle=30, row=1, col=1)
+
+            if facility_comparison_fig is not None:
+                st.plotly_chart(facility_comparison_fig, use_container_width=True)
+            else:
+                st.warning(f"No data available for {selected_facility}")
+
+        st.markdown("---")
+        st.markdown("<br>", unsafe_allow_html=True)
+
+    with tab2:
+        st.write("""
+        This section visualizes the movement of manure exports throughout the Central Valley region,
+        revealing the flow of nutrients and potential environmental impacts beyond facility boundaries.
+        """)
+
+        st.image(
+            "ca_cafo_compliance/data/images/manifest_placeholder.png",
+            caption="Manure manifest showing export destinations and volumes (from Sophia)",
+        )
+
+        st.subheader("CAFO Density around Elementary Schools - example embed")
+        st.components.v1.iframe(
+            "https://www.arcgis.com/apps/webappviewer/index.html?id=a247a569c9854bb89689bebb01f5eee4",
+            height=600,
+            scrolling=True,
+        )
+
+        st.markdown("---")
+        st.markdown("<br>", unsafe_allow_html=True)
+
+    with tab3:
+        st.write("""
+        This section focuses on the reported manure, nitrogen and wastewater production in Regions 5 and 7, where we've identified significant variations between reported and estimated values.
+        """)
+
+        # Years filter
+        years = sorted(df["Year"].unique())
+        default_year_index = years.index("2023") if "2023" in years else len(years) - 1
+        selected_year_tab3 = st.selectbox(
+            "Select Year", years, index=default_year_index, key="plot_year"
+        )
+
+        # Filter data for plots
+        (
+            filtered_df,
+            selected_regions,
+            selected_counties,
+            selected_consultants,
+        ) = filter_tab2(df, selected_year_tab3)
+
+        if filtered_df.empty:
+            st.warning(
+                "Please select at least one region (R5 or R7) to view comparison plots."
+            )
+            return
+
+        # Comparison plots with explanations
+        st.subheader("Estimated vs Actual Comparisons")
+
+        # Nitrogen Generation Plot
+        st.markdown("""
+        ### Nitrogen Generation Comparison
+        Values above 0% indicate facilities reporting less nitrogen than estimated
+        We compare reported nitrogen generation to two estimated metris. The USDA estimate is based on nitrogen per unit of manure generation. The UCCE estimate is based on nitrogen per animal unit.
+        """)
+        nitrogen_fig, wastewater_fig = create_comparison_plots(filtered_df)
+        st.plotly_chart(nitrogen_fig, use_container_width=True)
+
+        # Wastewater to Milk Ratio Plot
+        st.markdown("""
+        ### Wastewater to Milk Ratio
+        Unusually low ratios may indicate under-reporting of wastewater usage.
+        The ratio is calculated as: Total Process Wastewater (L) / Annual Milk Production (L). Milk production is either reported or estimated (using 68 lb/cow/day default)
+        """)
+        st.plotly_chart(wastewater_fig, use_container_width=True)
+
+        # Manure Factor Plot
+        st.markdown("""
+        ### Manure Generation""")
+        manure_fig_consolidated = manure_scatter_from_df()
+        st.plotly_chart(manure_fig_consolidated, use_container_width=True)
+
+        # Add consultant comparison plots
+        st.markdown("<br><br>", unsafe_allow_html=True)
+        st.markdown("---")
+        st.subheader("Consultant Comparison")
+        st.write("""
+        Many facilities in region 5 use consultatns to prepare their reports. This section assesses reporting patterns across different consultants and self-reported facilities, to understand if there are any systematic issues with certain consultants.
+        Each bar represents a consultant's average value, with error bars showing the standard deviation.
+        """)
+
+        consultant_comparison_fig = create_consultant_comparison_plots()
+        if consultant_comparison_fig is not None:
+            st.plotly_chart(consultant_comparison_fig, use_container_width=True)
+
+        # Raw data
+        st.subheader("Raw Data")
+        st.write("""
+        View and downloada the complete dataset for detailed analysis.
+        Questions on the data can be directed to (insert email)
+        """)
+
+        display_df = filtered_df.copy()
+        # Ensure Zip is always a string for display and export
+        if "Zip" in display_df.columns:
+            display_df["Zip"] = display_df["Zip"].astype(str)
+        st.dataframe(display_df)
+
+        # Download button
+        csv = display_df.to_csv(index=False)
+        st.download_button(
+            label="Download Filtered Data",
+            data=csv,
+            file_name="filtered_cafo_data.csv",
+            mime="text/csv",
+        )
+
+    with tab4:  # Violation Summary
+        st.markdown("""
+        **Summary of Violations by Region and Type**
+        Most violations issued by the Water Boards are for paperwork and reporting issues
+        (such as late or missing reports), not for actual non-compliance with nutrient
+        management or environmental protection. This is despite the fact that many submitted
+        reports show clear evidence of over-application of manure and nitrogen, which can
+        lead to water quality violations and environmental harm.
+        The table and chart below summarize the types of violations recorded in the enforcement data.
+        """)
+
+        # Load and summarize violation data
+        violations_path = "ca_cafo_compliance/data/Detailed_Violation_Report.csv"
+        github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/Detailed_Violation_Report.csv"
+        vdf = load_data_from_source(violations_path, github_url, encoding="latin1")
+
+        # Clean up region and type columns, and map RB for display
+        vdf["RB"] = vdf["RB"].astype(str)
+        vdf["Violation Type"] = vdf["Violation Type"].astype(str)
+        rb_map = {
+            "5F": "R5-F",
+            "5S": "R5-S",
+            "5R": "R5-R",
+            "1": "R1",
+            "2": "R2",
+            "3": "R3",
+            "6V": "R6V",
+            "7": "R7",
+            "8": "R8",
+            "9": "R9",
+            "6B": "R6B",
+        }
+        vdf["Region"] = vdf["RB"].map(rb_map).fillna(vdf["RB"])
+        summary = (
+            vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
+        )
+        summary_pivot = (
+            summary.pivot(index="Region", columns="Violation Type", values="Count")
+            .fillna(0)
+            .astype(int)
+        )
+        summary_pivot = summary_pivot.reindex(
+            sorted(
+                summary_pivot.index,
+                key=lambda x: (x not in ["R5-F", "R5-S", "R5-R"], x),
+            )
+        )
+        st.dataframe(summary_pivot)
+
+        # Bar chart of violation types by region (show R5-F, R5-S, R5-R as separate bars)
+        bar_df = summary.copy()
+        bar_df["Region"] = pd.Categorical(
+            bar_df["Region"],
+            categories=[
+                "R5-F",
+                "R5-S",
+                "R5-R",
+                "R1",
+                "R2",
+                "R3",
+                "R6V",
+                "R6B",
+                "R7",
+                "R8",
+                "R9",
+            ],
+            ordered=True,
+        )
+        fig = px.bar(
+            bar_df,
+            x="Region",
+            y="Count",
+            color="Violation Type",
+            barmode="stack",
+            title="Violations by Region and Type",
+            labels={"Region": "Region", "Count": "Number of Violations"},
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+    with tab5:
+        st.write("""
+        This section provides information about the data availability and types for each region,
+        based on the provided text. This analysis is inherently limited by the accessibility
+        and consistency of the source data, including issues like inconsistent regional
+        reporting formats and levels of detail, the requirement to visit in-person to get
+        data in some regions, and different data collection periods
+        """)
+
+        # Reporting Requirements Table
+        def reporting_requirements_table():
+            data = [
+                ["1", "❌", "❌", "❌", "❌", "❌", "❌", "❌"],
+                ["2", "❌", "❌", "❌", "✅", "❌", "❌", "❌"],
+                ["5", "✅", "✅", "✅", "❌", "❌", "✅", "❌"],
+                ["7", "✅", "✅", "❌", "❌", "🟡", "❌", "❌"],
+                ["8", "❌", "✅", "❌", "❌", "🟡", "✅", "✅"],
+            ]
+            columns = [
+                "Region",
+                "Wastewater Production Reporting",
+                "Manure Production Reporting",
+                "Nutrient Content Reporting",
+                "Groundwater Sampling Required",
+                "Public access to NMPs?",
+                "Require Manure Tracking Manifests?",
+                "Provides Tabular Data?",
+            ]
+            df = pd.DataFrame(data, columns=columns)
+
+            def style_cell(val):
+                if val == "✅":
+                    return '<span style="color:green;font-size:1.5em;">&#x2705;</span>'
+                elif val == "❌":
+                    return '<span style="color:red;font-size:1.5em;">&#10060;</span>'
+                elif val == "🟡":
+                    return "<b>Limited</b>"
+                else:
+                    return val
+
+            styled_df = df.style.format(style_cell, escape="html")
+            st.markdown("### CAFO Reporting Requirements by Region")
+            st.write(
+                "The table below summarizes reporting and public access requirements for each region."
+            )
+            st.write(styled_df.to_html(escape=False), unsafe_allow_html=True)
+
+        # Show the table instead of the image
+        reporting_requirements_table()
+
+        csv_path = "ca_cafo_compliance/data/reports_available.csv"
+        github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
+        reports_df = load_data_from_source(csv_path, github_url)
+
+        # Region/county mapping for labels, accounting for sub-regions of R5
+        def get_region_label(row):
+            region = str(row.get("region", ""))
+            county = str(row.get("county", "")).lower() if "county" in row else ""
+            if region == "5":
+                if county == "kern":
+                    return "R5-F"
+                elif county in ["fresno_madera", "kings", "tulare_west"]:
+                    return "R5-S"
+                else:
+                    return "R5-R"
+            region_map = {
+                "R1": "R1",
+                "R2": "R2",
+                "R3": "R3",
+                "R6V": "R6V",
+                "R7": "R7",
+                "R8": "R8",
+                "R9": "R9",
+            }
+            return region_map.get(region, region)
+
+        # If county column is not present, infer from region key (for legacy CSVs)
+        if "county" not in reports_df.columns:
+            # For legacy, use region key directly for 5F, 5S, 5R
+            def legacy_label(region):
+                if region == "5F":
+                    return "R5-F"
+                elif region == "5S":
+                    return "R5-S"
+                elif region == "5R":
+                    return "R5-R"
                 region_map = {
-                    "R1": "R1",
-                    "R2": "R2",
-                    "R3": "R3",
-                    "R6V": "R6V",
-                    "R7": "R7",
-                    "R8": "R8",
-                    "R9": "R9",
+                    "1": "R1",
+                    "2": "R2",
+                    "3": "R3",
+                    "6V": "R6V",
+                    "7": "R7",
+                    "8": "R8",
+                    "9": "R9",
                 }
                 return region_map.get(region, region)
 
-            # If county column is not present, infer from region key (for legacy CSVs)
-            if "county" not in reports_df.columns:
-                # For legacy, use region key directly for 5F, 5S, 5R
-                def legacy_label(region):
-                    if region == "5F":
-                        return "R5-F"
-                    elif region == "5S":
-                        return "R5-S"
-                    elif region == "5R":
-                        return "R5-R"
-                    region_map = {
-                        "1": "R1",
-                        "2": "R2",
-                        "3": "R3",
-                        "6V": "R6V",
-                        "7": "R7",
-                        "8": "R8",
-                        "9": "R9",
-                    }
-                    return region_map.get(region, region)
+            reports_df["region_label"] = reports_df["region"].apply(legacy_label)
+        else:
+            reports_df["region_label"] = reports_df.apply(get_region_label, axis=1)
 
-                reports_df["region_label"] = reports_df["region"].apply(legacy_label)
-            else:
-                reports_df["region_label"] = reports_df.apply(get_region_label, axis=1)
+        available_regions = reports_df["region_label"].unique().tolist()
+        selected_regions = st.multiselect(
+            "Select Regions to Display",
+            available_regions,
+            default=available_regions,
+        )
+        filtered_df = reports_df[reports_df["region_label"].isin(selected_regions)]
 
-            available_regions = reports_df["region_label"].unique().tolist()
-            selected_regions = st.multiselect(
-                "Select Regions to Display",
-                available_regions,
-                default=available_regions,
-            )
-            filtered_df = reports_df[reports_df["region_label"].isin(selected_regions)]
+        # Calculate totals for pie chart
+        acquired = (
+            pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
+        )
+        total = pd.to_numeric(filtered_df["total"], errors="coerce").fillna(0).sum()
+        not_acquired = total - acquired
 
-            # Calculate totals for pie chart
-            acquired = (
-                pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
-            )
-            total = pd.to_numeric(filtered_df["total"], errors="coerce").fillna(0).sum()
-            not_acquired = total - acquired
+        # Pie chart
+        pie_fig = go.Figure(
+            data=[
+                go.Pie(
+                    labels=["Acquired", "Not Acquired"],
+                    values=[acquired, not_acquired],
+                    marker=dict(
+                        colors=[
+                            CHART_COLORS["acquired"],
+                            CHART_COLORS["not_acquired"],
+                        ]
+                    ),
+                    textinfo="label+percent",
+                    hole=0.2,
+                )
+            ]
+        )
+        pie_fig.update_traces(textfont_size=16)
+        pie_fig.update_layout(title="Annual Reports Acquired Across Selected Regions")
+        st.plotly_chart(pie_fig, use_container_width=True)
 
-            # Pie chart
-            pie_fig = go.Figure(
-                data=[
-                    go.Pie(
-                        labels=["Acquired", "Not Acquired"],
-                        values=[acquired, not_acquired],
-                        marker=dict(
-                            colors=[
-                                CHART_COLORS["acquired"],
-                                CHART_COLORS["not_acquired"],
-                            ]
-                        ),
-                        textinfo="label+percent",
-                        hole=0.2,
-                    )
-                ]
-            )
-            pie_fig.update_traces(textfont_size=16)
-            pie_fig.update_layout(
-                title="Annual Reports Acquired Across Selected Regions"
-            )
-            st.plotly_chart(pie_fig, use_container_width=True)
+        st.subheader("R-1 North Coast")
+        st.markdown("""
+        Annual reports under Order No. R1-2019-0001 requested by emailing the R2 Water Board and transferred via email.
+        - Waste discharge requirements documentation
+        """)
 
-            st.subheader("R-1 North Coast")
-            st.markdown(
-                """
-            Annual reports under Order No. R1-2019-0001 requested by emailing the R2 Water Board and transferred via email.
-            - Waste discharge requirements documentation
-            """
-            )
+        st.subheader("R-2 San Francisco Bay")
+        st.markdown("""
+        Annual reports under Order R2-2016-0031 requested by emailing the R2 Water Board and transferred via email.
+        - Facility information and animal counts
+        - Certification of facility monitoring programs, waste management plans, grazing management plans, and nutrient management plans
+        - Pre-rainy season pollution prevention inspection documentation
+        - Groundwater sampling data (when provided) or indication of group monitoring program participation
+        """)
 
-            st.subheader("R-2 San Francisco Bay")
-            st.markdown(
-                """
-            Annual reports under Order R2-2016-0031 requested by emailing the R2 Water Board and transferred via email.
-            - Facility information and animal counts
-            - Certification of facility monitoring programs, waste management plans, grazing management plans, and nutrient management plans
-            - Pre-rainy season pollution prevention inspection documentation
-            - Groundwater sampling data (when provided) or indication of group monitoring program participation
-            """
-            )
+        st.subheader("R-5 Central Valley")
+        st.markdown("""
+        Annual reports under General Order No. R5-2007-0035 requested by emailing the Central Valley Water Board and transferred through their Transfer Portal.
+        - Animal counts
+        - Manure production with nutrient breakdown
+        - Wastewater production
+        - Groundwater reporting
+        - Stormwater reporting
+        - Manure tracking manifests
+        - Laboratory analyses of discharges
+        """)
 
-            st.subheader("R-5 Central Valley")
-            st.markdown(
-                """
-            Annual reports under General Order No. R5-2007-0035 requested by emailing the Central Valley Water Board and transferred through their Transfer Portal.
-            - Animal counts
-            - Manure production with nutrient breakdown
-            - Wastewater production
-            - Groundwater reporting
-            - Stormwater reporting
-            - Manure tracking manifests
-            - Laboratory analyses of discharges
-            """
-            )
+        st.subheader("R-7 Colorado River Basin")
+        st.markdown("""
+        Annual reports under Order R7-2021-0029 requested by emailing the R7 Water Board and transferred through their Transfer Portal.
+        - Animal counts
+        - Composting inventory
+        - Land application of manure, litter, and process wastewater report
+        - Groundwater monitoring report
+        - Certification
+        """)
 
-            st.subheader("R-7 Colorado River Basin")
-            st.markdown(
-                """
-            Annual reports under Order R7-2021-0029 requested by emailing the R7 Water Board and transferred through their Transfer Portal.
-            - Animal counts
-            - Composting inventory
-            - Land application of manure, litter, and process wastewater report
-            - Groundwater monitoring report
-            - Certification
-            """
-            )
-
-            st.subheader("R-8 Santa Ana")
-            st.markdown(
-                """
-            Annual reports under Order No. R8-2018-0001 requested by emailing the R8 Water Board and transferred through their Transfer Portal.
-            The reports are still available for download as of May 2025.
-            https://ftp.waterboards.ca.gov/WebInterface/login.html?path=/CAFO%202023%20Annual%20Reports/
-            Username: rb8download
-            Password: Region8_public
-            - Summary Report of Weekly Storm Water Management Structure Inspections (Form 2)
-            - Annual Report Form (Form 3) with facility information and animal population data
-            - Manure Tracking Manifests (Form 4)
-            - CSV files with farm population and total manure hauled data
-            """
-            )
-
-    except Exception as e:
-        st.error(f"An error occurred: {str(e)}")
+        st.subheader("R-8 Santa Ana")
+        st.markdown("""
+        Annual reports under Order No. R8-2018-0001 requested by emailing the R8 Water Board and transferred through their Transfer Portal.
+        The reports are still available for download as of May 2025.
+        https://ftp.waterboards.ca.gov/WebInterface/login.html?path=/CAFO%202023%20Annual%20Reports/
+        Username: rb8download
+        Password: Region8_public
+        - Summary Report of Weekly Storm Water Management Structure Inspections (Form 2)
+        - Annual Report Form (Form 3) with facility information and animal population data
+        - Manure Tracking Manifests (Form 4)
+        - CSV files with farm population and total manure hauled data
+        """)
 
 
 if __name__ == "__main__":
