@@ -1,5 +1,5 @@
 """
-Update manifests_manual.csv with values from extracted_manifests.csv.
+Update 2024_manifests_manual.csv with values from 2024_manifests_raw.csv.
 Rows marked "x" in DONE column are left unchanged.
 """
 
@@ -8,8 +8,8 @@ import os
 
 # Paths
 OUTPUTS_DIR = os.path.join(os.path.dirname(__file__), "outputs")
-MANUAL_PATH = os.path.join(OUTPUTS_DIR, "manifests_manual.csv")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "extracted_manifests.csv")
+MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_raw.csv")
 
 
 def main():
@@ -29,10 +29,7 @@ def main():
     overlapping_cols = list(manual_cols & extracted_cols - set(key_cols) - {"DONE"})
 
     # Always include Parameter Template for updates
-    if (
-        "Parameter Template" not in overlapping_cols
-        and "Parameter Template" in extracted_cols
-    ):
+    if "Parameter Template" not in overlapping_cols and "Parameter Template" in extracted_cols:
         overlapping_cols.append("Parameter Template")
 
     print(f"Key columns: {key_cols}")
@@ -42,19 +39,16 @@ def main():
 
     # Create lookup from extracted_manifests
     extracted_df["_key"] = (
-        extracted_df["Source PDF"].astype(str)
-        + "_"
-        + extracted_df["Manifest Number"].astype(str)
+        extracted_df["Source PDF"].astype(str) + "_" + extracted_df["Manifest Number"].astype(str)
     )
     extracted_lookup = extracted_df.set_index("_key")
 
     # Track updates
     updated_count = 0
 
-    # Update rows not marked as done
+    # Update rows
     for idx, row in manual_df.iterrows():
-        if row.get("DONE") == "x":
-            continue  # Skip completed rows
+        is_done = row.get("DONE") == "x"
 
         # Build key
         key = f"{row['Source PDF']}_{row['Manifest Number']}"
@@ -64,6 +58,9 @@ def main():
             # Handle duplicate keys (take first if multiple)
             if isinstance(extracted_row, pd.DataFrame):
                 extracted_row = extracted_row.iloc[0]
+
+            if is_done:
+                continue  # Skip updates for completed rows
 
             # Update overlapping columns
             for col in overlapping_cols:

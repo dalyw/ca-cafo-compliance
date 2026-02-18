@@ -58,9 +58,7 @@ def find_fuzzy_match(row, cadd_facilities):
 def main():
     """Main function to process all PDF files and extract data."""
 
-    snake_to_pretty = dict(
-        zip(parameters["parameter_key"], parameters["parameter_name"])
-    )
+    snake_to_pretty = dict(zip(parameters["parameter_key"], parameters["parameter_name"]))
     params = {
         "snake_to_pretty": snake_to_pretty,
         "data_types": dict(zip(parameters["parameter_key"], parameters["data_type"])),
@@ -177,32 +175,21 @@ def main():
                         # Process PDF files
                         ocr_dir = os.path.join(folder, "ocr_output")
                         ai_ocr_dir = os.path.join(folder, "ai_ocr_output")
-                        if not os.path.exists(ocr_dir) and not os.path.exists(
-                            ai_ocr_dir
-                        ):
+                        if not os.path.exists(ocr_dir) and not os.path.exists(ai_ocr_dir):
                             continue
 
                         pdf_files = []
                         for text_file in glob.glob(os.path.join(ocr_dir, "*.txt")):
-                            pdf_name = os.path.basename(text_file).replace(
-                                ".txt", ".pdf"
-                            )
+                            pdf_name = os.path.basename(text_file).replace(".txt", ".pdf")
                             pdf_path = os.path.join(folder, "original", pdf_name)
                             if os.path.exists(pdf_path):
                                 pdf_files.append(pdf_path)
 
                         if os.path.exists(ai_ocr_dir):
-                            for text_file in glob.glob(
-                                os.path.join(ai_ocr_dir, "*.txt")
-                            ):
-                                pdf_name = os.path.basename(text_file).replace(
-                                    ".txt", ".pdf"
-                                )
+                            for text_file in glob.glob(os.path.join(ai_ocr_dir, "*.txt")):
+                                pdf_name = os.path.basename(text_file).replace(".txt", ".pdf")
                                 pdf_path = os.path.join(folder, "original", pdf_name)
-                                if (
-                                    os.path.exists(pdf_path)
-                                    and pdf_path not in pdf_files
-                                ):
+                                if os.path.exists(pdf_path) and pdf_path not in pdf_files:
                                     pdf_files.append(pdf_path)
 
                         if not pdf_files:
@@ -220,9 +207,7 @@ def main():
                             pdf_name = os.path.splitext(os.path.basename(pdf_file))[0]
 
                             for ocr_dir in ["llmwhisperer_output", "tesseract_output"]:
-                                text_file = os.path.join(
-                                    parent_dir, ocr_dir, f"{pdf_name}.txt"
-                                )
+                                text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_name}.txt")
                                 if os.path.exists(text_file):
                                     with open(text_file, "r") as f:
                                         text = f.read()
@@ -286,9 +271,7 @@ def main():
                             df.at[idx, "latitude"] = lat
                             df.at[idx, "longitude"] = lng
                             # Get the formatted address from cache
-                            cached_addr = find_cached_address(
-                                row["dairy_address"], cache
-                            )
+                            cached_addr = find_cached_address(row["dairy_address"], cache)
                             if cached_addr and "address" in cache[cached_addr]:
                                 formatted_address = cache[cached_addr]["address"]
                                 df.at[idx, "address"] = (
@@ -303,13 +286,9 @@ def main():
                                 df.at[idx, "zip"] = zip_code
                                 # Look up county from zip code
                                 if zip_code:
-                                    county_match = zipcode_df[
-                                        zipcode_df["zip"] == zip_code
-                                    ]
+                                    county_match = zipcode_df[zipcode_df["zip"] == zip_code]
                                     if not county_match.empty:
-                                        df.at[idx, "county"] = county_match.iloc[0][
-                                            "county_name"
-                                        ]
+                                        df.at[idx, "county"] = county_match.iloc[0]["county_name"]
 
                     # Save results
                     os.makedirs(output_dir, exist_ok=True)
@@ -322,8 +301,7 @@ def main():
     if consolidate_data:
         # Load CADD data
         cadd_facilities = pd.read_csv(
-            "ca_cafo_compliance/data/CADD/"
-            "CADD_Facility General Information_v1.0.0.csv"
+            "ca_cafo_compliance/data/CADD/" "CADD_Facility General Information_v1.0.0.csv"
         )
         cadd_herd_size = pd.read_csv(
             "ca_cafo_compliance/data/CADD/" "CADD_Facility Herd Size_v1.0.0.csv"
@@ -343,9 +321,7 @@ def main():
                     continue
 
                 # Collect and process CSV files
-                csv_files = glob.glob(
-                    os.path.join(region_path, "**/*.csv"), recursive=True
-                )
+                csv_files = glob.glob(os.path.join(region_path, "**/*.csv"), recursive=True)
                 if not csv_files:
                     continue
 
@@ -383,9 +359,7 @@ def main():
 
                 # Merge with CADD herd size data
                 if "CADDID" in final_df.columns:
-                    current_year_herd = cadd_herd_size[
-                        cadd_herd_size["Year"] == int(year)
-                    ].copy()
+                    current_year_herd = cadd_herd_size[cadd_herd_size["Year"] == int(year)].copy()
                     if not current_year_herd.empty:
                         final_df = pd.merge(
                             final_df,
@@ -410,8 +384,7 @@ def main():
                 # Convert to pretty names and save individual region files
                 final_df_pretty = final_df.rename(columns=params["snake_to_pretty"])
                 output_file = (
-                    f"ca_cafo_compliance/outputs/consolidated/"
-                    f"{year}_{region}_master.csv"
+                    f"ca_cafo_compliance/outputs/consolidated/" f"{year}_{region}_master.csv"
                 )
                 final_df_pretty.to_csv(output_file, index=False)
                 print(f"Saved consolidated data to {output_file}")
@@ -427,9 +400,7 @@ def main():
             # Now rename columns after concatenation
             all_master_df = all_master_df.rename(columns=params["snake_to_pretty"])
 
-            all_master_output_file = (
-                "ca_cafo_compliance/outputs/consolidated/all_master.csv"
-            )
+            all_master_output_file = "ca_cafo_compliance/outputs/consolidated/all_master.csv"
             all_master_df.to_csv(all_master_output_file, index=False)
             print(f"Saved all_master data to {all_master_output_file}")
             print(f"Total records in all_master: {len(all_master_df)}")

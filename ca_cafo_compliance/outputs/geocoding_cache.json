@@ -22174,5 +22174,1676 @@
     "successful_format": "5829 E. Panama Lane Bakersfield Ca 93311, California",
     "geocoder": "ArcGIS",
     "address": "5829 E Panama Ln, Bakersfield, California, 93307"
+  },
+  "7525 S. Fairfax Rd Bakersfield CA 93307": {
+    "lat": 35.286715519088,
+    "lng": -118.931944300472,
+    "timestamp": "2026-02-14T23:46:11.754453",
+    "successful_format": "7525 S. Fairfax Rd Bakersfield CA 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "7525 S Fairfax Rd, Bakersfield, California, 93307"
+  },
+  "4322 Saco Rd Facility": {
+    "timestamp": "2026-02-14T23:46:12.138580",
+    "address": "Saco, California",
+    "geocoder": "ArcGIS"
+  },
+  "5021 E Bear Mountain Blvd Bakersfield CA 93307": {
+    "lat": 35.204407109508,
+    "lng": -118.938547409577,
+    "timestamp": "2026-02-14T23:46:12.737480",
+    "successful_format": "5021 E Bear Mountain Blvd Bakersfield CA 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "5021 E Bear Mountain Blvd, Bakersfield, California, 93307"
+  },
+  "13214 Eberle Rd Bakersfield CA": {
+    "lat": 35.234954159351,
+    "lng": -119.082822426726,
+    "timestamp": "2026-02-14T23:46:13.096540",
+    "successful_format": "13214 Eberle Rd Bakersfield CA, California",
+    "geocoder": "ArcGIS",
+    "address": "13214 Eberle Rd, Bakersfield, California, 93313"
+  },
+  "4403 Bear Mountain Blvd Bakersfield CA 93313": {
+    "lat": 35.208699253837,
+    "lng": -119.050715607855,
+    "timestamp": "2026-02-14T23:46:14.194746",
+    "successful_format": "4403 Bear Mountain Blvd Bakersfield CA 93313, California",
+    "geocoder": "ArcGIS",
+    "address": "4403 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "9442 Bear Mountain Blvd. ~ Bakersfield Ca93311...S\u2122\u201d Tot Ttt": {
+    "lat": 35.210777230193,
+    "lng": -119.105872241364,
+    "timestamp": "2026-02-14T23:46:14.666789",
+    "successful_format": "9442 Bear Mountain Blvd. ~ Bakersfield Ca93311...S\u2122\u201d Tot Ttt, California",
+    "geocoder": "ArcGIS",
+    "address": "9442 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "Po Box 20370 Facility": {
+    "lat": 33.986363145062,
+    "lng": -117.653209482063,
+    "timestamp": "2026-02-14T23:46:15.731585",
+    "successful_format": "Po Box 20370 Facility, California",
+    "geocoder": "ArcGIS",
+    "address": "E Facility Dr, Chino, California, 91710"
+  },
+  "Po Box 27 Facility": {
+    "lat": 33.986363145062,
+    "lng": -117.653209482063,
+    "timestamp": "2026-02-14T23:46:16.569298",
+    "successful_format": "Po Box 27 Facility, California",
+    "geocoder": "ArcGIS",
+    "address": "E Facility Dr, Chino, California, 91710"
+  },
+  "17702 Bear Mountain Blvd Bakersfield CA 93311": {
+    "lat": 35.212722544192,
+    "lng": -119.203877560424,
+    "timestamp": "2026-02-14T23:46:17.106850",
+    "successful_format": "17702 Bear Mountain Blvd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "17702 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "Po Box 81498 Ee \u2014\u2014 F/I & Ab": {
+    "timestamp": "2026-02-14T23:46:18.162956",
+    "address": "California, Aguada",
+    "geocoder": "ArcGIS"
+  },
+  "15857 Bear Mountain Blvd Bakersfield CA 93311": {
+    "lat": 35.202664805205,
+    "lng": -119.175975881133,
+    "timestamp": "2026-02-14T23:46:18.669909",
+    "successful_format": "15857 Bear Mountain Blvd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "15857 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "2312 Alpine Meadows Ct. Wasco CA 93280": {
+    "lat": 35.598053804412,
+    "lng": -119.352663131129,
+    "timestamp": "2026-02-14T23:46:19.061449",
+    "successful_format": "2312 Alpine Meadows Ct. Wasco CA 93280, California",
+    "geocoder": "ArcGIS",
+    "address": "2312 Alpine Meadow Ct, Wasco, California, 93280"
+  },
+  "Po Box 81498 Facility": {
+    "lat": 33.986363145062,
+    "lng": -117.653209482063,
+    "timestamp": "2026-02-14T23:46:19.339756",
+    "successful_format": "Po Box 81498 Facility, California",
+    "geocoder": "ArcGIS",
+    "address": "E Facility Dr, Chino, California, 91710"
+  },
+  "2312 Alpine Meadows Ct. \"Wasco Ca93280......~\u2014~\u2014~\u2014~Csns Ttt": {
+    "lat": 35.598053804412,
+    "lng": -119.352663131129,
+    "timestamp": "2026-02-14T23:46:20.333981",
+    "successful_format": "2312 Alpine Meadows Ct. \"Wasco Ca93280......~\u2014~\u2014~\u2014~Csns Ttt, California",
+    "geocoder": "ArcGIS",
+    "address": "2312 Alpine Meadow Ct, Wasco, California, 93280"
+  },
+  "2312 Alpine Meadows Ct Facility": {
+    "timestamp": "2026-02-14T23:46:21.019409",
+    "address": "Alpine Meadows, California",
+    "geocoder": "ArcGIS"
+  },
+  "11663 Buena Vistard Bakersfield CA 93311": {
+    "lat": 35.248998865725,
+    "lng": -119.128467748038,
+    "timestamp": "2026-02-14T23:46:21.440314",
+    "successful_format": "11663 Buena Vistard Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "11663 Buena Vista Rd, Bakersfield, California, 93311"
+  },
+  "13214 Eberle Rd Bakerafield CA 93311": {
+    "lat": 35.234954159351,
+    "lng": -119.082822426726,
+    "timestamp": "2026-02-14T23:46:21.847558",
+    "successful_format": "13214 Eberle Rd Bakerafield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "13214 Eberle Rd, Bakersfield, California, 93313"
+  },
+  "13214 Eberle Rd Facility": {
+    "timestamp": "2026-02-14T23:46:22.488263",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "16130 Bear Mountain Blvd Bakersfield CA 93311": {
+    "lat": 35.209237977072,
+    "lng": -119.192341164401,
+    "timestamp": "2026-02-14T23:46:23.046553",
+    "successful_format": "16130 Bear Mountain Blvd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "16130 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "13214 Eberle Rd. Bakersfield CA 93": {
+    "lat": 35.234954159351,
+    "lng": -119.082822426726,
+    "timestamp": "2026-02-14T23:46:23.505807",
+    "successful_format": "13214 Eberle Rd. Bakersfield CA 93, California",
+    "geocoder": "ArcGIS",
+    "address": "13214 Eberle Rd, Bakersfield, California, 93313"
+  },
+  "B 009 Glen Cloe Facility": {
+    "timestamp": "2026-02-14T23:46:24.099326",
+    "address": "California, Ubay, Bohol, Central Visayas",
+    "geocoder": "ArcGIS"
+  },
+  "4714 E Bear Mountain Blvd Bakersfield CA 93307": {
+    "lat": 35.21110994984,
+    "lng": -118.951654526848,
+    "timestamp": "2026-02-14T23:46:24.513755",
+    "successful_format": "4714 E Bear Mountain Blvd Bakersfield CA 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "4714 E Bear Mountain Blvd, Bakersfield, California, 93307"
+  },
+  "17661 Bear Mountain Blvd Bakersfield CA 93311": {
+    "lat": 35.205403005334,
+    "lng": -119.196386988832,
+    "timestamp": "2026-02-14T23:46:25.324547",
+    "successful_format": "17661 Bear Mountain Blvd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "17661 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "South Lake Road Facility": {
+    "timestamp": "2026-02-14T23:46:25.914551",
+    "address": "South Lake, California",
+    "geocoder": "ArcGIS"
+  },
+  "parcel:059-220-003": {
+    "lat": 37.919116,
+    "lng": -120.413686,
+    "address": "059-220-003",
+    "timestamp": "2026-02-14T23:46:27.989903",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:059-220-015": {
+    "lat": 38.50455,
+    "lng": -122.780763,
+    "address": "059-220-015, 4100 BISORDI LN, FULTON, CA, 95439",
+    "timestamp": "2026-02-14T23:46:29.887304",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "Grimmway Farms": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:12.024731"
+  },
+  "American Ag Inc.": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:13.077730"
+  },
+  "Kirschenman Enterprises": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:13.493810"
+  },
+  "parcel:016-270-010": {
+    "lat": 39.672295,
+    "lng": -120.242033,
+    "address": "016-270-010",
+    "timestamp": "2026-02-15T02:04:14.689179",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:016-270-033": {
+    "lat": 39.761567,
+    "lng": -121.810008,
+    "address": "016-270-033, 25 KOBE LOOP, CHICO, CA, 95973",
+    "timestamp": "2026-02-15T02:04:16.301181",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:028-090-001": {
+    "lat": 39.364051,
+    "lng": -121.403652,
+    "address": "028-090-001",
+    "timestamp": "2026-02-15T02:04:18.110953",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:028-090-022": {
+    "lat": 38.030269,
+    "lng": -121.666438,
+    "address": "028-090-022",
+    "timestamp": "2026-02-15T02:04:19.516238",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "Salazar Farms (559) 777-0037": {
+    "lat": 35.29796454335,
+    "lng": -118.998061928128,
+    "timestamp": "2026-02-15T02:04:19.938310",
+    "successful_format": "Salazar Farms (559) 777-0037, California",
+    "geocoder": "ArcGIS",
+    "address": "559 Salazar Ave, Bakersfield, California, 93307"
+  },
+  "Gomes Farms LLC": {
+    "timestamp": "2026-02-15T02:04:20.539317",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "Lewis Farms (209) 769-5221": {
+    "lat": 33.885416283219,
+    "lng": -117.586665618041,
+    "timestamp": "2026-02-15T02:04:20.970885",
+    "successful_format": "Lewis Farms (209) 769-5221, California",
+    "geocoder": "ArcGIS",
+    "address": "209 Lewis Ct, Corona, California, 92882"
+  },
+  "Wendel Trinkler Jr. Po Box 10 Ceres 95307 209-537-9883": {
+    "lat": 37.587899,
+    "lng": -120.949811,
+    "timestamp": "2026-02-15T02:04:21.955463",
+    "successful_format": "Wendel Trinkler Jr. Po Box 10 Ceres 95307 209-537-9883, California",
+    "geocoder": "ArcGIS",
+    "address": "95307, Ceres, California"
+  },
+  "Morris Jersey Girls (209) 678-2300": {
+    "lat": 35.10273556841,
+    "lng": -117.939520581466,
+    "timestamp": "2026-02-15T02:04:23.008490",
+    "successful_format": "Morris Jersey Girls (209) 678-2300, California",
+    "geocoder": "ArcGIS",
+    "address": "Morris St, California City, California, 93505"
+  },
+  "Ln \u2014": {
+    "lat": 38.889712688121,
+    "lng": -84.242213354453,
+    "timestamp": "2026-02-15T02:04:23.526666",
+    "successful_format": "Ln \u2014, California",
+    "geocoder": "ArcGIS",
+    "address": "Lanes End, California, Kentucky, 41007"
+  },
+  "Turning Leaf Organics": {
+    "timestamp": "2026-02-15T02:04:23.926539",
+    "address": "Leaf, California",
+    "geocoder": "ArcGIS"
+  },
+  "Almonds": {
+    "timestamp": "2026-02-15T02:04:24.543085",
+    "address": "California Almonds",
+    "geocoder": "ArcGIS"
+  },
+  "Walnuts": {
+    "timestamp": "2026-02-15T02:04:25.493121",
+    "address": "California Walnuts",
+    "geocoder": "ArcGIS"
+  },
+  "Turning Leaf Organics Compost Yard": {
+    "timestamp": "2026-02-15T02:04:26.606289",
+    "address": "Leaf, California",
+    "geocoder": "ArcGIS"
+  },
+  "John Sousa P.O Box 725 Stratford 93266 559-469-7017": {
+    "timestamp": "2026-02-15T02:04:27.608919",
+    "address": "Stratford, California",
+    "geocoder": "ArcGIS"
+  },
+  "23530 E. Kings Canyon Rd Reedley CA": {
+    "lat": 36.726904384199,
+    "lng": -119.364200485574,
+    "timestamp": "2026-02-15T02:04:28.575718",
+    "successful_format": "23530 E. Kings Canyon Rd Reedley CA, California",
+    "geocoder": "ArcGIS",
+    "address": "23530 E Kings Canyon Rd, Reedley, California, 93654"
+  },
+  "11/18/24-11/22/24": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:28.915988"
+  },
+  "Turning Leaf Organics Tipton": {
+    "timestamp": "2026-02-15T02:04:29.614159",
+    "address": "Tipton, California",
+    "geocoder": "ArcGIS"
+  },
+  "John Scheenstra Po Box 1077 Tipton 93272 559-684-9983": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:30.526212"
+  },
+  "Thomas Bros 5810 23Rd Lave Riverdale 93656 906-1404": {
+    "lat": 36.390592337768,
+    "lng": -119.869776097997,
+    "timestamp": "2026-02-15T02:04:31.119675",
+    "successful_format": "Thomas Bros 5810 23Rd Lave Riverdale 93656 906-1404, California",
+    "geocoder": "ArcGIS",
+    "address": "5810 23rd Ave, Riverdale, California, 93656"
+  },
+  "Manuel Thomas 5810 23Rd Ave Riverdale 93656 906-1406": {
+    "lat": 36.390592337768,
+    "lng": -119.869776097997,
+    "timestamp": "2026-02-15T02:04:31.914364",
+    "successful_format": "Manuel Thomas 5810 23Rd Ave Riverdale 93656 906-1406, California",
+    "geocoder": "ArcGIS",
+    "address": "5810 23rd Ave, Riverdale, California, 93656"
+  },
+  "Manuel Thomas 5810 23Rd Av. Riverdale 93656 906-1406": {
+    "lat": 36.390592337768,
+    "lng": -119.869776097997,
+    "timestamp": "2026-02-15T02:04:32.902626",
+    "successful_format": "Manuel Thomas 5810 23Rd Av. Riverdale 93656 906-1406, California",
+    "geocoder": "ArcGIS",
+    "address": "5810 23rd Ave, Riverdale, California, 93656"
+  },
+  "Manuel Thomas 5810 23Rd Ave 93656 906-1406": {
+    "lat": 36.390592337768,
+    "lng": -119.869776097997,
+    "timestamp": "2026-02-15T02:04:34.031527",
+    "successful_format": "Manuel Thomas 5810 23Rd Ave 93656 906-1406, California",
+    "geocoder": "ArcGIS",
+    "address": "5810 23rd Ave, Riverdale, California, 93656"
+  },
+  "Address City State Zip Code Street Hughes And Ave Fresno": {
+    "timestamp": "2026-02-15T02:04:35.021526",
+    "address": "Fresno, California",
+    "geocoder": "ArcGIS"
+  },
+  "Address City State Zip Code": {
+    "timestamp": "2026-02-15T02:04:35.466209",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "Address C\u1ea5y State Zip Code Valentine American Fresno": {
+    "timestamp": "2026-02-15T02:04:36.609784",
+    "address": "Fresno, California",
+    "geocoder": "ArcGIS"
+  },
+  "Address City State Zip Code West & American Fresno": {
+    "lat": 36.6631730025,
+    "lng": -119.826818006033,
+    "timestamp": "2026-02-15T02:04:37.435773",
+    "successful_format": "Address City State Zip Code West & American Fresno, California",
+    "geocoder": "ArcGIS",
+    "address": "S West Ave & W American Ave, Fresno, California, 93706"
+  },
+  "Address City State Zip Code Marks Ave Fresno": {
+    "timestamp": "2026-02-15T02:04:38.481572",
+    "address": "Fresno, California",
+    "geocoder": "ArcGIS"
+  },
+  "Address C\u1ea5y State Zip Code": {
+    "timestamp": "2026-02-15T02:04:40.107805",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "Ryan Machado 559 474-2377": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:40.641210"
+  },
+  "Satragni Bros. Ranch 2200W. Shields Kerman 9330 559.846.7045": {
+    "timestamp": "2026-02-15T02:04:41.731792",
+    "address": "Kerman, California",
+    "geocoder": "ArcGIS"
+  },
+  "Satragni Bris Ranch W. Shields Kerman 93630 589-846.7045": {
+    "lat": 36.7294263,
+    "lng": -120.0658064,
+    "timestamp": "2026-02-15T02:04:42.688196",
+    "successful_format": "Satragni Bris Ranch W. Shields Kerman 93630 589-846.7045, California",
+    "geocoder": "ArcGIS",
+    "address": "93630, Kerman, California"
+  },
+  "4322 Saco Rd. Bakersfield CA 93308": {
+    "lat": 35.446720009412,
+    "lng": -119.092199010352,
+    "timestamp": "2026-02-15T02:04:43.347006",
+    "successful_format": "4322 Saco Rd. Bakersfield CA 93308, California",
+    "geocoder": "ArcGIS",
+    "address": "4322 Saco Rd, Bakersfield, California, 93308"
+  },
+  "2312 Alpine Meadows Ct Wasco CA A": {
+    "lat": 35.598053804412,
+    "lng": -119.352663131129,
+    "timestamp": "2026-02-15T02:04:43.881709",
+    "successful_format": "2312 Alpine Meadows Ct Wasco CA A, California",
+    "geocoder": "ArcGIS",
+    "address": "2312 Alpine Meadow Ct, Wasco, California, 93280"
+  },
+  "18451 Wildwood Rd Buttonwillow 93206": {
+    "lat": 35.484146003371,
+    "lng": -119.439481040202,
+    "timestamp": "2026-02-15T02:04:44.789808",
+    "successful_format": "18451 Wildwood Rd Buttonwillow 93206, California",
+    "geocoder": "ArcGIS",
+    "address": "18451 Wildwood Rd, Buttonwillow, California, 93206"
+  },
+  "9442 Bear Mtn Bakersfield 93311": {
+    "lat": 35.210777230193,
+    "lng": -119.105872241364,
+    "timestamp": "2026-02-15T02:04:45.151277",
+    "successful_format": "9442 Bear Mtn Bakersfield 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "9442 Bear Mountain Blvd, Bakersfield, California, 93311"
+  },
+  "But": {
+    "timestamp": "2026-02-15T02:04:45.594204",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "PO Box 20895 Bakersfield 93390": {
+    "lat": 35.344291,
+    "lng": -119.113131,
+    "timestamp": "2026-02-15T02:04:45.935917",
+    "successful_format": "PO Box 20895 Bakersfield 93390, California",
+    "geocoder": "ArcGIS",
+    "address": "93390, Bakersfield, California"
+  },
+  "D-Paula Emmi Corn Camp B-Whlow": {
+    "timestamp": "2026-02-15T02:04:47.106099",
+    "address": "California, Candelaria, Campeche",
+    "geocoder": "ArcGIS"
+  },
+  "11663 Buena Vista Rd Bakersfield CA 93311": {
+    "lat": 35.248998865725,
+    "lng": -119.128467748038,
+    "timestamp": "2026-02-15T02:04:47.893611",
+    "successful_format": "11663 Buena Vista Rd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "11663 Buena Vista Rd, Bakersfield, California, 93311"
+  },
+  "13214 Eberle Rd Bakersfield CA 93311": {
+    "lat": 35.234954159351,
+    "lng": -119.082822426726,
+    "timestamp": "2026-02-15T02:04:48.280569",
+    "successful_format": "13214 Eberle Rd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "13214 Eberle Rd, Bakersfield, California, 93313"
+  },
+  "6219 E Panama Lane Buttonwillow, CA 93307": {
+    "lat": 35.295475816957,
+    "lng": -118.933707028131,
+    "timestamp": "2026-02-15T02:04:49.397676",
+    "successful_format": "6219 E Panama Lane Buttonwillow, CA 93307, California",
+    "geocoder": "ArcGIS",
+    "address": "6219 E Panama Ln, Bakersfield, California, 93307"
+  },
+  "10909 Glen Cloe Place Lamont CA 93241": {
+    "lat": 35.25563352986,
+    "lng": -118.910578339785,
+    "timestamp": "2026-02-15T02:04:50.762810",
+    "successful_format": "10909 Glen Cloe Place Lamont CA 93241, California",
+    "geocoder": "ArcGIS",
+    "address": "10909 Glencoe Pl, Lamont, California, 93241"
+  },
+  "10909 Glen Cloe Place Lamont CA": {
+    "lat": 35.25563352986,
+    "lng": -118.910578339785,
+    "timestamp": "2026-02-15T02:04:51.181809",
+    "successful_format": "10909 Glen Cloe Place Lamont CA, California",
+    "geocoder": "ArcGIS",
+    "address": "10909 Glencoe Pl, Lamont, California, 93241"
+  },
+  "PO Box 82553 Bakersfield, CA 93380": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:04:51.685357"
+  },
+  "7200 E. Brondage Lane Bakersfield 93307 \"Bolthorse Farm\"": {
+    "lat": 35.35606796637,
+    "lng": -118.925666016958,
+    "timestamp": "2026-02-15T02:04:52.535267",
+    "successful_format": "7200 E. Brondage Lane Bakersfield 93307 \"Bolthorse Farm\", California",
+    "geocoder": "ArcGIS",
+    "address": "7200 E Brundage Ln, Bakersfield, California, 93307"
+  },
+  "11495 Jumper Ave Wasco 93280": {
+    "lat": 35.730303011709,
+    "lng": -119.419379979102,
+    "timestamp": "2026-02-15T02:04:53.207138",
+    "successful_format": "11495 Jumper Ave Wasco 93280, California",
+    "geocoder": "ArcGIS",
+    "address": "11495 Jumper Ave, Wasco, California, 93280"
+  },
+  "Manure/Process Wastewater Hauler Information": {
+    "timestamp": "2026-02-15T02:04:53.849292",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "18346 Old River Rd Bakersfield CA 93311": {
+    "lat": 35.189889988485,
+    "lng": -119.105627992705,
+    "timestamp": "2026-02-15T02:04:54.228666",
+    "successful_format": "18346 Old River Rd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "18346 Old River Rd, Bakersfield, California, 93311"
+  },
+  "5959 Houghton Rd Bakersfield CA 93311": {
+    "lat": 35.237865774652,
+    "lng": -119.068497275952,
+    "timestamp": "2026-02-15T02:04:54.677084",
+    "successful_format": "5959 Houghton Rd Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "5959 Houghton Rd, Bakersfield, California, 93313"
+  },
+  "34378 7th Standard Bakersfield 93314": {
+    "lat": 35.442226052025,
+    "lng": -119.1025864515,
+    "timestamp": "2026-02-15T02:04:57.600580",
+    "successful_format": "34378 7th Standard Bakersfield 93314, California",
+    "geocoder": "ArcGIS",
+    "address": "34378 7th Standard Rd, Bakersfield, California, 93314"
+  },
+  "Edison/Arvin": {
+    "lat": 35.114544451099,
+    "lng": -118.89596077982,
+    "timestamp": "2026-02-15T02:04:58.259739",
+    "successful_format": "Edison/Arvin, California",
+    "geocoder": "ArcGIS",
+    "address": "Edison Rd, Arvin, California, 93203"
+  },
+  "Tulare St/Fresno St. Shafter 93263": {
+    "lat": 35.514542734064,
+    "lng": -119.33648066678,
+    "timestamp": "2026-02-15T02:04:58.573585",
+    "successful_format": "Tulare St/Fresno St. Shafter 93263, California",
+    "geocoder": "ArcGIS",
+    "address": "Fresno Ave, Shafter, California, 93263"
+  },
+  "18501 Old River Road Bakersfield CA 93311": {
+    "lat": 35.186640974298,
+    "lng": -119.110154042898,
+    "timestamp": "2026-02-15T02:04:59.269724",
+    "successful_format": "18501 Old River Road Bakersfield CA 93311, California",
+    "geocoder": "ArcGIS",
+    "address": "18501 Old River Rd, Bakersfield, California, 93311"
+  },
+  "South Lake Road Bakersfield CA": {
+    "lat": 35.12567407127,
+    "lng": -119.262154516393,
+    "timestamp": "2026-02-15T02:04:59.707700",
+    "successful_format": "South Lake Road Bakersfield CA, California",
+    "geocoder": "ArcGIS",
+    "address": "S Lake Rd, Bakersfield, California, 93311"
+  },
+  "6221 Bear Mountain Blvd Bakersfield CA 93313": {
+    "lat": 35.208697244624,
+    "lng": -119.067740433664,
+    "timestamp": "2026-02-15T02:05:00.625352",
+    "successful_format": "6221 Bear Mountain Blvd Bakersfield CA 93313, California",
+    "geocoder": "ArcGIS",
+    "address": "6221 Bear Mountain Blvd, Bakersfield, California, 93313"
+  },
+  "Contact Person I": {
+    "lat": 37.222284660692,
+    "lng": -119.727519356974,
+    "timestamp": "2026-02-15T02:05:01.354035",
+    "successful_format": "Contact Person I, California",
+    "geocoder": "ArcGIS",
+    "address": "Person Ct, Coarsegold, California, 93614"
+  },
+  "19721 Excesisior Riverdale 93656 Stockpile Fresno": {
+    "lat": 36.40155859124,
+    "lng": -119.810950979502,
+    "timestamp": "2026-02-15T02:05:02.725913",
+    "successful_format": "19721 Excesisior Riverdale 93656 Stockpile Fresno, California",
+    "geocoder": "ArcGIS",
+    "address": "19721 Excelsior Ave, Riverdale, California, 93656"
+  },
+  "8431 15th Ave Hanford 93230": {
+    "lat": 36.350695065386,
+    "lng": -119.726593410469,
+    "timestamp": "2026-02-15T02:05:04.218470",
+    "successful_format": "8431 15th Ave Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "8431 15th Ave, Hanford, California, 93230"
+  },
+  "5835 13th Ave Hanford 93230": {
+    "lat": 36.388416018518,
+    "lng": -119.68953181975,
+    "timestamp": "2026-02-15T02:05:04.552747",
+    "successful_format": "5835 13th Ave Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "5835 13th Ave, Hanford, California, 93230"
+  },
+  "Salazar Farms (559) 777-0037 Fresno": {
+    "timestamp": "2026-02-15T02:05:04.946773",
+    "address": "Fresno, California",
+    "geocoder": "ArcGIS"
+  },
+  "Elkhorn Farms": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:05:05.603002"
+  },
+  "#5 Isalia 93277": {
+    "lat": 36.291614715428,
+    "lng": -119.291647121105,
+    "timestamp": "2026-02-15T02:05:06.061381",
+    "successful_format": "#5 Isalia 93277, California",
+    "geocoder": "ArcGIS",
+    "address": "5 E Visalia Pkwy, Visalia, California, 93277"
+  },
+  "Sandridge Company 960 N San Antonio Rd Los Altos CA 94022 (408) 738-4444": {
+    "lat": 37.399236996378,
+    "lng": -122.114846986772,
+    "timestamp": "2026-02-15T02:05:06.512590",
+    "successful_format": "Sandridge Company 960 N San Antonio Rd Los Altos CA 94022 (408) 738-4444, California",
+    "geocoder": "ArcGIS",
+    "address": "960 N San Antonio Rd, Los Altos, California, 94022"
+  },
+  "Luma Ag 1654 Oriole St. Hanford 93230": {
+    "lat": 36.311632840108,
+    "lng": -119.672058820572,
+    "timestamp": "2026-02-15T02:05:07.479762",
+    "successful_format": "Luma Ag 1654 Oriole St. Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "1654 Oriole St, Hanford, California, 93230"
+  },
+  "13243 Houston Ave. Hanford 93230": {
+    "lat": 36.29456921308,
+    "lng": -119.695972893246,
+    "timestamp": "2026-02-15T02:05:07.856978",
+    "successful_format": "13243 Houston Ave. Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "13243 Houston Ave, Hanford, California, 93230"
+  },
+  "Manuel Costa 13243 Houston Ave. Hanford 93230": {
+    "lat": 36.29456921308,
+    "lng": -119.695972893246,
+    "timestamp": "2026-02-15T02:05:08.532361",
+    "successful_format": "Manuel Costa 13243 Houston Ave. Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "13243 Houston Ave, Hanford, California, 93230"
+  },
+  "Thomas Composting 2011 Excelsior Ave Riverdale 93656": {
+    "lat": 36.402057179181,
+    "lng": -119.798518268017,
+    "timestamp": "2026-02-15T02:05:09.544718",
+    "successful_format": "Thomas Composting 2011 Excelsior Ave Riverdale 93656, California",
+    "geocoder": "ArcGIS",
+    "address": "Excelsior Ave, Riverdale, California, 93656"
+  },
+  "Fagundes East Hanford 93230": {
+    "lat": 36.332851,
+    "lng": -119.647705,
+    "timestamp": "2026-02-15T02:05:10.854416",
+    "successful_format": "Fagundes East Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "93230, Hanford, California"
+  },
+  "Westcoast 7715 Ave. 296 Visalia CA 93291": {
+    "lat": 36.323201920056,
+    "lng": -119.405499044529,
+    "timestamp": "2026-02-15T02:05:11.898008",
+    "successful_format": "Westcoast 7715 Ave. 296 Visalia CA 93291, California",
+    "geocoder": "ArcGIS",
+    "address": "7715 Avenue 296, Visalia, California, 93291"
+  },
+  "West Coast and Gravel 9917 Ave 296 Visalia CA 93291": {
+    "lat": 36.327708320165,
+    "lng": -119.44861998483,
+    "timestamp": "2026-02-15T02:05:12.434914",
+    "successful_format": "West Coast and Gravel 9917 Ave 296 Visalia CA 93291, California",
+    "geocoder": "ArcGIS",
+    "address": "Avenue 296, Visalia, California, 93291"
+  },
+  "337 Gates Rd Modesto CA 95358": {
+    "lat": 37.641822475773,
+    "lng": -121.159411948714,
+    "timestamp": "2026-02-15T02:05:12.857680",
+    "successful_format": "337 Gates Rd Modesto CA 95358, California",
+    "geocoder": "ArcGIS",
+    "address": "337 N Gates Rd, Modesto, California, 95358"
+  },
+  "1751 Chandler Dr Turlock CA 95382": {
+    "lat": 37.5266016496,
+    "lng": -120.828523412733,
+    "timestamp": "2026-02-15T02:05:13.274506",
+    "successful_format": "1751 Chandler Dr Turlock CA 95382, California",
+    "geocoder": "ArcGIS",
+    "address": "1751 Chandler Dr, Turlock, California, 95382"
+  },
+  "10581 S Carpentar Rd Crows Landing CA 95313": {
+    "lat": 37.484569775505,
+    "lng": -121.030974259595,
+    "timestamp": "2026-02-15T02:05:14.329646",
+    "successful_format": "10581 S Carpentar Rd Crows Landing CA 95313, California",
+    "geocoder": "ArcGIS",
+    "address": "10581 S Carpenter Rd, Crows Landing, California, 95313"
+  },
+  "Gioletti INC 10007 Fulkerth Rd. Ceres 95307 209-664-0749": {
+    "lat": 37.508553232769,
+    "lng": -120.964174876439,
+    "timestamp": "2026-02-15T02:05:15.307277",
+    "successful_format": "Gioletti INC 10007 Fulkerth Rd. Ceres 95307 209-664-0749, California",
+    "geocoder": "ArcGIS",
+    "address": "10007 Fulkerth Rd, Ceres, California, 95307"
+  },
+  "Ja Machado Farming 8842 Moffett Rd. Ceres 95307 (209) 678-6720": {
+    "lat": 37.509038419234,
+    "lng": -120.949774347688,
+    "timestamp": "2026-02-15T02:05:15.872914",
+    "successful_format": "Ja Machado Farming 8842 Moffett Rd. Ceres 95307 (209) 678-6720, California",
+    "geocoder": "ArcGIS",
+    "address": "8842 Moffett Rd, Ceres, California, 95307"
+  },
+  "2941 S State Hwy 59 Merced CA 95341": {
+    "lat": 37.244303341603,
+    "lng": -120.488570686657,
+    "timestamp": "2026-02-15T02:05:16.453280",
+    "successful_format": "2941 S State Hwy 59 Merced CA 95341, California",
+    "geocoder": "ArcGIS",
+    "address": "2941 S Highway 59, Merced, California, 95341"
+  },
+  "10310 Reese Rd Planada CA 95365": {
+    "lat": 37.2907798,
+    "lng": -120.3184974,
+    "timestamp": "2026-02-15T02:05:17.403050",
+    "successful_format": "10310 Reese Rd Planada CA 95365, California",
+    "geocoder": "ArcGIS",
+    "address": "95365, Planada, California"
+  },
+  "Melvin Wheeler & Sons 5301 Woodland Ave Modesto 95358 (209) 321-3007": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:05:17.842615"
+  },
+  "16510 Bacon Island Rd Stockton CA 95234": {
+    "lat": 37.914123520215,
+    "lng": -121.503601140111,
+    "timestamp": "2026-02-15T02:05:18.507802",
+    "successful_format": "16510 Bacon Island Rd Stockton CA 95234, California",
+    "geocoder": "ArcGIS",
+    "address": "16510 Bacon Island Rd, Stockton, California, 95206"
+  },
+  "3639 W Mcmaster Rd Merced CA 95340": {
+    "lat": 37.316516,
+    "lng": -120.457633,
+    "timestamp": "2026-02-15T02:05:20.287865",
+    "successful_format": "3639 W Mcmaster Rd Merced CA 95340, California",
+    "geocoder": "ArcGIS",
+    "address": "95340, Merced, California"
+  },
+  "Caton": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:05:22.395983"
+  },
+  "Raul 209-887-3845": {
+    "lat": 33.840751452892,
+    "lng": -118.289175291469,
+    "timestamp": "2026-02-15T02:05:22.758578",
+    "successful_format": "Raul 209-887-3845, California",
+    "geocoder": "ArcGIS",
+    "address": "887 W 209th St, Torrance, California, 90502"
+  },
+  "Lynette Rocha 21451 Riverside Rd. Hilmar 95324 209-634-2467": {
+    "lat": 37.363083417231,
+    "lng": -120.877208691499,
+    "timestamp": "2026-02-15T02:05:24.046106",
+    "successful_format": "Lynette Rocha 21451 Riverside Rd. Hilmar 95324 209-634-2467, California",
+    "geocoder": "ArcGIS",
+    "address": "21451 Riverside Ave, Hilmar, California, 95324"
+  },
+  "Virgil Kronberg 20931 Riverside Rd. Hilmar 95324 209-632-6805": {
+    "lat": 37.364149762953,
+    "lng": -120.867764465915,
+    "timestamp": "2026-02-15T02:05:24.468164",
+    "successful_format": "Virgil Kronberg 20931 Riverside Rd. Hilmar 95324 209-632-6805, California",
+    "geocoder": "ArcGIS",
+    "address": "20931 Riverside Ave, Hilmar, California, 95324"
+  },
+  "Brinderio & Danbom 5831 Tegner Rd. Hilmar 95324 209-652-2896": {
+    "lat": 37.373477115242,
+    "lng": -120.887020427378,
+    "timestamp": "2026-02-15T02:05:24.837439",
+    "successful_format": "Brinderio & Danbom 5831 Tegner Rd. Hilmar 95324 209-652-2896, California",
+    "geocoder": "ArcGIS",
+    "address": "5831 Tegner Rd, Hilmar, California, 95324"
+  },
+  "Sam Pierce 5240 Hultberg Rd Hilmar 95324 209-632-5748": {
+    "lat": 37.364372428211,
+    "lng": -120.895852558732,
+    "timestamp": "2026-02-15T02:05:26.527022",
+    "successful_format": "Sam Pierce 5240 Hultberg Rd Hilmar 95324 209-632-5748, California",
+    "geocoder": "ArcGIS",
+    "address": "5240 Hultberg Rd, Hilmar, California, 95324"
+  },
+  "Boyd's 8126 Faith Home Rd Ceres 95307": {
+    "lat": 37.519567933641,
+    "lng": -120.920919478368,
+    "timestamp": "2026-02-15T02:05:28.050254",
+    "successful_format": "Boyd's 8126 Faith Home Rd Ceres 95307, California",
+    "geocoder": "ArcGIS",
+    "address": "8126 Faith Home Rd, Ceres, California, 95307"
+  },
+  "Bill Jackson 8048 Faith Home Rd Ceres 95307": {
+    "lat": 37.520454068445,
+    "lng": -120.920258230027,
+    "timestamp": "2026-02-15T02:05:29.080087",
+    "successful_format": "Bill Jackson 8048 Faith Home Rd Ceres 95307, California",
+    "geocoder": "ArcGIS",
+    "address": "8048 Faith Home Rd, Ceres, California, 95307"
+  },
+  "Bill Jackson 8048 Faith Homme Rd. Ceres 95307": {
+    "lat": 37.520454068445,
+    "lng": -120.920258230027,
+    "timestamp": "2026-02-15T02:05:29.599423",
+    "successful_format": "Bill Jackson 8048 Faith Homme Rd. Ceres 95307, California",
+    "geocoder": "ArcGIS",
+    "address": "8048 Faith Home Rd, Ceres, California, 95307"
+  },
+  "Duarte-Acres 8413 Faith Home Rd Ceres 95307": {
+    "lat": 37.515606813839,
+    "lng": -120.921948189345,
+    "timestamp": "2026-02-15T02:05:30.552250",
+    "successful_format": "Duarte-Acres 8413 Faith Home Rd Ceres 95307, California",
+    "geocoder": "ArcGIS",
+    "address": "8413 Faith Home Rd, Ceres, California, 95307"
+  },
+  "Double Cross #4 6006 S. Central Ave Turlock CA 95380 (209) 667-0667": {
+    "lat": 37.437451685517,
+    "lng": -120.95817469105,
+    "timestamp": "2026-02-15T02:05:31.491660",
+    "successful_format": "Double Cross #4 6006 S. Central Ave Turlock CA 95380 (209) 667-0667, California",
+    "geocoder": "ArcGIS",
+    "address": "6006 S Central Ave, Turlock, California, 95380"
+  },
+  "Johnny Machado 7413 S. Mitchell Rd. Turlock 95350 209-652-6924": {
+    "lat": 37.424464597099,
+    "lng": -120.941026742077,
+    "timestamp": "2026-02-15T02:05:32.074673",
+    "successful_format": "Johnny Machado 7413 S. Mitchell Rd. Turlock 95350 209-652-6924, California",
+    "geocoder": "ArcGIS",
+    "address": "7413 S Mitchell Rd, Turlock, California, 95380"
+  },
+  "22339 Crane Ave Hilmar CA 95324": {
+    "lat": 37.382436980206,
+    "lng": -120.892988881512,
+    "timestamp": "2026-02-15T02:05:32.687940",
+    "successful_format": "22339 Crane Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "22339 Crane Ave, Hilmar, California, 95324"
+  },
+  "Vierra Dairy Farms 23160 Williams Ave Hilmar 95324 209-668-0843": {
+    "lat": 37.391026000209,
+    "lng": -120.905985022386,
+    "timestamp": "2026-02-15T02:05:34.203152",
+    "successful_format": "Vierra Dairy Farms 23160 Williams Ave Hilmar 95324 209-668-0843, California",
+    "geocoder": "ArcGIS",
+    "address": "23160 Williams Ave, Hilmar, California, 95324"
+  },
+  "Vierra Dairy Farms 23160 Williams Ave Hilmar 95324 209-668-0343": {
+    "lat": 37.391026000209,
+    "lng": -120.905985022386,
+    "timestamp": "2026-02-15T02:05:34.753806",
+    "successful_format": "Vierra Dairy Farms 23160 Williams Ave Hilmar 95324 209-668-0343, California",
+    "geocoder": "ArcGIS",
+    "address": "23160 Williams Ave, Hilmar, California, 95324"
+  },
+  "22245 August Ave Hilmar CA 95324": {
+    "lat": 37.418895241534,
+    "lng": -120.890837330786,
+    "timestamp": "2026-02-15T02:05:35.726303",
+    "successful_format": "22245 August Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "22245 August Ave, Hilmar, California, 95324"
+  },
+  "6612 Prarie Flower Rd Turlock CA 95380": {
+    "lat": 37.431858692985,
+    "lng": -120.930187767805,
+    "timestamp": "2026-02-15T02:05:36.734359",
+    "successful_format": "6612 Prarie Flower Rd Turlock CA 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "6612 S Prairie Flower Rd, Turlock, California, 95380"
+  },
+  "21536 August Ave Hilmar CA 95324": {
+    "lat": 37.423285305231,
+    "lng": -120.877858121357,
+    "timestamp": "2026-02-15T02:05:37.775740",
+    "successful_format": "21536 August Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "21536 August Ave, Hilmar, California, 95324"
+  },
+  "2406 S Walnut Rd Turlock CA 95380": {
+    "lat": 37.470496374867,
+    "lng": -120.866836756871,
+    "timestamp": "2026-02-15T02:05:38.716596",
+    "successful_format": "2406 S Walnut Rd Turlock CA 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "2406 S Walnut Rd, Turlock, California, 95380"
+  },
+  "19664 Crane Ave Hilmar CA 95324": {
+    "lat": 37.382821500014,
+    "lng": -120.844814144468,
+    "timestamp": "2026-02-15T02:05:40.078956",
+    "successful_format": "19664 Crane Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "19664 Crane Ave, Hilmar, California, 95324"
+  },
+  "Same As Hauler": {
+    "timestamp": "2026-02-15T02:05:41.206092",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "Deniz Brothers 5230 Patterson Rd Oakdale CA 95361 209-869-1083": {
+    "lat": 37.72886338538,
+    "lng": -120.900895614596,
+    "timestamp": "2026-02-15T02:05:41.606391",
+    "successful_format": "Deniz Brothers 5230 Patterson Rd Oakdale CA 95361 209-869-1083, California",
+    "geocoder": "ArcGIS",
+    "address": "5230 Patterson Rd, Oakdale, California, 95361"
+  },
+  "11923 E Childs Ave Legrand CA 95333": {
+    "lat": 37.284062857406,
+    "lng": -120.271520130463,
+    "timestamp": "2026-02-15T02:05:42.607086",
+    "successful_format": "11923 E Childs Ave Legrand CA 95333, California",
+    "geocoder": "ArcGIS",
+    "address": "11923 E Childs Ave, Le Grand, California, 95333"
+  },
+  "Jerry Holsapple Manure Spreading 19085 W.Bradbury Turlock 95380 (209)668-2400": {
+    "lat": 37.448650536802,
+    "lng": -120.832092259467,
+    "timestamp": "2026-02-15T02:05:43.304582",
+    "successful_format": "Jerry Holsapple Manure Spreading 19085 W.Bradbury Turlock 95380 (209)668-2400, California",
+    "geocoder": "ArcGIS",
+    "address": "19085 W Bradbury Rd, Turlock, California, 95380"
+  },
+  "1234 Mcnamara Rd Chowchilla CA 95341": {
+    "lat": 37.228819855302,
+    "lng": -120.450224140813,
+    "timestamp": "2026-02-15T02:05:43.677623",
+    "successful_format": "1234 Mcnamara Rd Chowchilla CA 95341, California",
+    "geocoder": "ArcGIS",
+    "address": "1234 McNamara Rd, Merced, California, 95341"
+  },
+  "Frank Bellino Riverrd Escalon 95320 (209) 647-3216": {
+    "lat": 37.754088366566,
+    "lng": -121.064607984838,
+    "timestamp": "2026-02-15T02:05:44.510740",
+    "successful_format": "Frank Bellino Riverrd Escalon 95320 (209) 647-3216, California",
+    "geocoder": "ArcGIS",
+    "address": "River Rd, Escalon, California, 95320"
+  },
+  "Thomas Pettitt 13019 E. Mariposa Rd. Stockton 95215 209-678-3227": {
+    "lat": 37.90676743626,
+    "lng": -121.150349937915,
+    "timestamp": "2026-02-15T02:05:44.838011",
+    "successful_format": "Thomas Pettitt 13019 E. Mariposa Rd. Stockton 95215 209-678-3227, California",
+    "geocoder": "ArcGIS",
+    "address": "13019 E Mariposa Rd, Stockton, California, 95215"
+  },
+  "Francia 6465 W Dorfals 93620 205-981-4290": {
+    "lat": 36.993888,
+    "lng": -120.626578,
+    "timestamp": "2026-02-15T02:05:45.916076",
+    "successful_format": "Francia 6465 W Dorfals 93620 205-981-4290, California",
+    "geocoder": "ArcGIS",
+    "address": "93620, Dos Palos, California"
+  },
+  "Azevedo Goy65W 152 9760 204-3824290": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:05:46.896424"
+  },
+  "1 Johnson Ave Hilmar CA 95324": {
+    "lat": 37.433157196495,
+    "lng": -120.84051611118,
+    "timestamp": "2026-02-15T02:05:47.898794",
+    "successful_format": "1 Johnson Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "Johnson Ave, Hilmar, California, 95324"
+  },
+  "20334 W Oslo Rd Hilmar CA 95324": {
+    "lat": 37.427635890165,
+    "lng": -120.856645619896,
+    "timestamp": "2026-02-15T02:05:48.263602",
+    "successful_format": "20334 W Oslo Rd Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "20334 Oslo Rd, Hilmar, California, 95324"
+  },
+  "21089 Williams Ave Hilmar CA 95324": {
+    "lat": 37.389434318705,
+    "lng": -120.86962265003,
+    "timestamp": "2026-02-15T02:05:48.850484",
+    "successful_format": "21089 Williams Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "21089 Williams Ave, Hilmar, California, 95324"
+  },
+  "Forney 21522 Geer Avenue Hilmar 95324 (209) 595-3948": {
+    "lat": 37.399792339373,
+    "lng": -120.878986493162,
+    "timestamp": "2026-02-15T02:05:49.411742",
+    "successful_format": "Forney 21522 Geer Avenue Hilmar 95324 (209) 595-3948, California",
+    "geocoder": "ArcGIS",
+    "address": "21522 Geer Ave, Hilmar, California, 95324"
+  },
+  "Bob Livak 4605 Crane Rd. Hilmar CA 95324 209-652-3540": {
+    "lat": 37.397197,
+    "lng": -120.874568,
+    "timestamp": "2026-02-15T02:05:50.856077",
+    "successful_format": "Bob Livak 4605 Crane Rd. Hilmar CA 95324 209-652-3540, California",
+    "geocoder": "ArcGIS",
+    "address": "95324, Hilmar, California"
+  },
+  "S.S Takhar \"Tokay\" 6822 Tegner Rd. Hilmar CA 95324 209-652-3540": {
+    "lat": 37.388132190047,
+    "lng": -120.885725710953,
+    "timestamp": "2026-02-15T02:05:51.941372",
+    "successful_format": "S.S Takhar \"Tokay\" 6822 Tegner Rd. Hilmar CA 95324 209-652-3540, California",
+    "geocoder": "ArcGIS",
+    "address": "6822 Tegner Rd, Hilmar, California, 95324"
+  },
+  "Bob Livak 22339 Crane Avenue Hilmar 95324 (209) 668-8319": {
+    "lat": 37.382436980206,
+    "lng": -120.892988881512,
+    "timestamp": "2026-02-15T02:05:52.833283",
+    "successful_format": "Bob Livak 22339 Crane Avenue Hilmar 95324 (209) 668-8319, California",
+    "geocoder": "ArcGIS",
+    "address": "22339 Crane Ave, Hilmar, California, 95324"
+  },
+  "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324 209-668-1602": {
+    "lat": 37.404879148772,
+    "lng": -120.88069204282,
+    "timestamp": "2026-02-15T02:05:53.989797",
+    "successful_format": "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324 209-668-1602, California",
+    "geocoder": "ArcGIS",
+    "address": "21670 Bloss Ave, Hilmar, California, 95324"
+  },
+  "Matt Seward 22837 Bloss Ave Hilmar 95324 209-668-1602": {
+    "lat": 37.404272927625,
+    "lng": -120.901718382212,
+    "timestamp": "2026-02-15T02:05:54.641897",
+    "successful_format": "Matt Seward 22837 Bloss Ave Hilmar 95324 209-668-1602, California",
+    "geocoder": "ArcGIS",
+    "address": "22837 Bloss Ave, Hilmar, California, 95324"
+  },
+  "Andy Danbom 22778 Turner Rd Hilmar 95324 209-632-9393": {
+    "lat": 37.372045944036,
+    "lng": -120.900294001774,
+    "timestamp": "2026-02-15T02:05:55.434562",
+    "successful_format": "Andy Danbom 22778 Turner Rd Hilmar 95324 209-632-9393, California",
+    "geocoder": "ArcGIS",
+    "address": "22778 Turner Ave, Hilmar, California, 95324"
+  },
+  "Jim Babelle 9374 Columbus Ave Hilmar 95324 209-667-2763": {
+    "lat": 37.424681353115,
+    "lng": -120.867681317435,
+    "timestamp": "2026-02-15T02:05:55.848032",
+    "successful_format": "Jim Babelle 9374 Columbus Ave Hilmar 95324 209-667-2763, California",
+    "geocoder": "ArcGIS",
+    "address": "9374 Columbus Ave, Hilmar, California, 95324"
+  },
+  "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324 209-668-": {
+    "lat": 37.404879148772,
+    "lng": -120.88069204282,
+    "timestamp": "2026-02-15T02:05:56.324789",
+    "successful_format": "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324 209-668-, California",
+    "geocoder": "ArcGIS",
+    "address": "21670 Bloss Ave, Hilmar, California, 95324"
+  },
+  "Skiff Ranch 24323 6 Skir Rol Escala 95320 838-180": {
+    "lat": 37.872707698435,
+    "lng": -121.014637705411,
+    "timestamp": "2026-02-15T02:05:56.981346",
+    "successful_format": "Skiff Ranch 24323 6 Skir Rol Escala 95320 838-180, California",
+    "geocoder": "ArcGIS",
+    "address": "24323 Skiff Rd, Escalon, California, 95320"
+  },
+  "Merrit Farms": {
+    "lat": 37.290381312167,
+    "lng": -121.831318904942,
+    "timestamp": "2026-02-15T02:05:57.905574",
+    "successful_format": "Merrit Farms, California",
+    "geocoder": "ArcGIS",
+    "address": "Merrit Ln, San Jose, California, 95111"
+  },
+  "Ave Zip Code 93230 Phone Number": {
+    "lat": 36.332851,
+    "lng": -119.647705,
+    "timestamp": "2026-02-15T02:05:58.366170",
+    "successful_format": "Ave Zip Code 93230 Phone Number, California",
+    "geocoder": "ArcGIS",
+    "address": "93230, Hanford, California"
+  },
+  "Merritt Yard 11188 Road 192 Porterville CA 93257 (559) 784-8916": {
+    "lat": 35.992965915237,
+    "lng": -119.140424374091,
+    "timestamp": "2026-02-15T02:05:59.305424",
+    "successful_format": "Merritt Yard 11188 Road 192 Porterville CA 93257 (559) 784-8916, California",
+    "geocoder": "ArcGIS",
+    "address": "11188 Road 192, Porterville, California, 93257"
+  },
+  "Merritt Yard": {
+    "lat": 37.643799012361,
+    "lng": -122.096854519144,
+    "timestamp": "2026-02-15T02:05:59.785590",
+    "successful_format": "Merritt Yard, California",
+    "geocoder": "ArcGIS",
+    "address": "Merritt Ln, Hayward, California, 94545"
+  },
+  "Turning Leaf Organics Compost Yard 14982 Road 152 Tipton CA 93272 (559) 467-8456": {
+    "lat": 36.060455909958,
+    "lng": -119.2279057108,
+    "timestamp": "2026-02-15T02:06:00.237623",
+    "successful_format": "Turning Leaf Organics Compost Yard 14982 Road 152 Tipton CA 93272 (559) 467-8456, California",
+    "geocoder": "ArcGIS",
+    "address": "14982 Road 152, Tipton, California, 93272"
+  },
+  "Jace Vdh": {
+    "timestamp": "2026-02-15T02:06:00.702881",
+    "address": "California",
+    "geocoder": "ArcGIS"
+  },
+  "Jay Te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704": {
+    "lat": 36.389174287389,
+    "lng": -119.425782998756,
+    "timestamp": "2026-02-15T02:06:01.250102",
+    "successful_format": "Jay Te Velde 6656 Avenue 328 Visalia CA 93291 (559) 730-1704, California",
+    "geocoder": "ArcGIS",
+    "address": "6656 Avenue 328, Visalia, California, 93291"
+  },
+  "Can Rey Farms": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:06:02.405319"
+  },
+  "Turning Leaf Organics 14982 Road 152 Tipton CA 93272 (559) 467-8456": {
+    "lat": 36.060455909958,
+    "lng": -119.2279057108,
+    "timestamp": "2026-02-15T02:06:04.168030",
+    "successful_format": "Turning Leaf Organics 14982 Road 152 Tipton CA 93272 (559) 467-8456, California",
+    "geocoder": "ArcGIS",
+    "address": "14982 Road 152, Tipton, California, 93272"
+  },
+  "Merritt Farms 19745 Ave 128 Porterville CA 93257 (559) 625-5020": {
+    "lat": 36.021664042967,
+    "lng": -119.131190869553,
+    "timestamp": "2026-02-15T02:06:04.506199",
+    "successful_format": "Merritt Farms 19745 Ave 128 Porterville CA 93257 (559) 625-5020, California",
+    "geocoder": "ArcGIS",
+    "address": "19745 Avenue 128, Porterville, California, 93257"
+  },
+  "Turning Leaf Organics 14982 Road 152 Tipton CA 93272": {
+    "lat": 36.060455909958,
+    "lng": -119.2279057108,
+    "timestamp": "2026-02-15T02:06:05.117391",
+    "successful_format": "Turning Leaf Organics 14982 Road 152 Tipton CA 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "14982 Road 152, Tipton, California, 93272"
+  },
+  "Des Farms 1443 Windsong Dr Tulone 93274": {
+    "lat": 36.192535677083,
+    "lng": -119.301829319122,
+    "timestamp": "2026-02-15T02:06:05.515532",
+    "successful_format": "Des Farms 1443 Windsong Dr Tulone 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "1443 Windsong Dr, Tulare, California, 93274"
+  },
+  "Jay Te Velde 6656 Ave 328 Visalia CA 93291 (559) 651-0464": {
+    "lat": 36.389174287389,
+    "lng": -119.425782998756,
+    "timestamp": "2026-02-15T02:06:05.807145",
+    "successful_format": "Jay Te Velde 6656 Ave 328 Visalia CA 93291 (559) 651-0464, California",
+    "geocoder": "ArcGIS",
+    "address": "6656 Avenue 328, Visalia, California, 93291"
+  },
+  "Gerben Leyendekker Dairy 8517 Avenue 360 Visalia CA 93291 (559) 805-0010": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:06:06.259133"
+  },
+  "Mark Heuer": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-15T02:06:06.828438"
+  },
+  "Helia Van Beek 14982 Road 152 Tipton CA 93272": {
+    "lat": 36.060455909958,
+    "lng": -119.2279057108,
+    "timestamp": "2026-02-15T02:06:07.827844",
+    "successful_format": "Helia Van Beek 14982 Road 152 Tipton CA 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "14982 Road 152, Tipton, California, 93272"
+  },
+  "Little Ranch 13167 Road 144 Tipton CA 93272 (559) 731-6728": {
+    "lat": 36.029793249531,
+    "lng": -119.25052811144,
+    "timestamp": "2026-02-15T02:06:08.768536",
+    "successful_format": "Little Ranch 13167 Road 144 Tipton CA 93272 (559) 731-6728, California",
+    "geocoder": "ArcGIS",
+    "address": "13167 Road 144, Tipton, California, 93272"
+  },
+  "Merritt Farms": {
+    "lat": 37.643799012361,
+    "lng": -122.096854519144,
+    "timestamp": "2026-02-15T02:06:09.368094",
+    "successful_format": "Merritt Farms, California",
+    "geocoder": "ArcGIS",
+    "address": "Merritt Ln, Hayward, California, 94545"
+  },
+  "Tri Palm Dairy 2429 Idaho Avenude Hanford CA 93230": {
+    "lat": 36.268825999586,
+    "lng": -119.499869970372,
+    "timestamp": "2026-02-15T02:06:09.784810",
+    "successful_format": "Tri Palm Dairy 2429 Idaho Avenude Hanford CA 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "2429 Idaho Ave, Hanford, California, 93230"
+  },
+  "Harvest 24487 Rd 140 Tulaves 93274 (59)": {
+    "lat": 36.235273995546,
+    "lng": -119.265448338941,
+    "timestamp": "2026-02-15T02:06:10.344991",
+    "successful_format": "Harvest 24487 Rd 140 Tulaves 93274 (59), California",
+    "geocoder": "ArcGIS",
+    "address": "24487 Road 140, Tulare, California, 93274"
+  },
+  "Etchegaray Farms 32324 Famoso Rd Mc Farland CA 93250 (661) 393-0236": {
+    "lat": 35.602981734836,
+    "lng": -119.194382289049,
+    "timestamp": "2026-02-15T02:06:10.781563",
+    "successful_format": "Etchegaray Farms 32324 Famoso Rd Mc Farland CA 93250 (661) 393-0236, California",
+    "geocoder": "ArcGIS",
+    "address": "32324 Famoso Rd, Mc Farland, California, 93250"
+  },
+  "parcel:0022-0021-0005-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:26:50.017591"
+  },
+  "parcel:0022-0022-0011-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:26:50.581877"
+  },
+  "parcel:0022-0021-0006": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:26:50.887623"
+  },
+  "parcel:0022-0021-0007": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:26:51.143532"
+  },
+  "Gioletii INC. 10007 Fulkerth Rd. Ceres 95307": {
+    "lat": 37.508553232769,
+    "lng": -120.964174876439,
+    "timestamp": "2026-02-15T02:26:53.328999",
+    "successful_format": "Gioletii INC. 10007 Fulkerth Rd. Ceres 95307, California",
+    "geocoder": "ArcGIS",
+    "address": "10007 Fulkerth Rd, Ceres, California, 95307"
+  },
+  "parcel:022-035-012": {
+    "lat": 37.50229,
+    "lng": -121.008182,
+    "address": "022-035-012-000",
+    "timestamp": "2026-02-15T02:59:31.977713",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-035-006": {
+    "lat": 37.505742,
+    "lng": -121.002511,
+    "address": "022-035-006-000",
+    "timestamp": "2026-02-15T02:59:34.101066",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-036-018": {
+    "lat": 37.497648,
+    "lng": -121.010494,
+    "address": "022-036-018-000",
+    "timestamp": "2026-02-15T02:59:35.134792",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-036-019": {
+    "lat": 37.49762,
+    "lng": -121.007104,
+    "address": "022-036-019-000",
+    "timestamp": "2026-02-15T02:59:35.677183",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-036-016": {
+    "lat": 37.494737,
+    "lng": -121.01015,
+    "address": "022-036-016-000",
+    "timestamp": "2026-02-15T02:59:36.393016",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-033-006": {
+    "lat": 36.424597,
+    "lng": -121.324179,
+    "address": "022-033-006-000",
+    "timestamp": "2026-02-15T02:59:37.320302",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-033-007": {
+    "lat": 35.129338,
+    "lng": -120.575799,
+    "address": "007-022-033",
+    "timestamp": "2026-02-15T02:59:38.358869",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-033-008": {
+    "lat": 36.424184,
+    "lng": -121.324396,
+    "address": "022-033-008-000",
+    "timestamp": "2026-02-15T02:59:42.831928",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-034-011": {
+    "lat": 37.498245,
+    "lng": -121.018411,
+    "address": "022-034-011-000",
+    "timestamp": "2026-02-15T02:59:44.232680",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-034-013": {
+    "lat": 35.570424,
+    "lng": -121.105635,
+    "address": "022-034-013, 451 CROYDEN LN, CAMBRIA, CA, 93428",
+    "timestamp": "2026-02-15T02:59:44.815279",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-034-014": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:59:45.432687"
+  },
+  "parcel:022-034-015": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:59:46.196751"
+  },
+  "parcel:022-034-016": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:59:46.787211"
+  },
+  "parcel:022-034-017": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:59:47.421761"
+  },
+  "parcel:022-036-023": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T02:59:48.742028"
+  },
+  "parcel:022-033-002": {
+    "lat": 39.001756,
+    "lng": -122.008666,
+    "address": "022-033-002-000",
+    "timestamp": "2026-02-15T02:59:49.462741",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-034-004": {
+    "lat": 35.570619,
+    "lng": -121.10562,
+    "address": "022-034-004, 448 WELLINGTON ST, CAMBRIA, CA, 93428",
+    "timestamp": "2026-02-15T02:59:50.082212",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:058-001-015": {
+    "lat": 37.491439,
+    "lng": -121.041676,
+    "address": "058-001-015-000",
+    "timestamp": "2026-02-15T02:59:51.374309",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-037-004": {
+    "lat": 34.412745,
+    "lng": -119.707401,
+    "address": "037-022-004",
+    "timestamp": "2026-02-15T02:59:53.478905",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:058-002-003": {
+    "lat": 38.084283,
+    "lng": -120.587172,
+    "address": "058-002-003-000",
+    "timestamp": "2026-02-15T02:59:53.781537",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "1500 W. Fulkerth Rd Crows Landing 95313": {
+    "lat": 37.505571622171,
+    "lng": -121.013470944489,
+    "timestamp": "2026-02-15T02:59:56.519151",
+    "successful_format": "1500 W. Fulkerth Rd Crows Landing 95313, California",
+    "geocoder": "ArcGIS",
+    "address": "1500 W Fulkerth Rd, Crows Landing, California, 95313"
+  },
+  "2930 Geek Rd. Tuklock 95380": {
+    "lat": 37.493719,
+    "lng": -120.852279,
+    "timestamp": "2026-02-15T02:59:57.542189",
+    "successful_format": "2930 Geek Rd. Tuklock 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "95380, Turlock, California"
+  },
+  "parcel:022-001-002": {
+    "lat": 35.290559,
+    "lng": -120.669299,
+    "address": "001-022-002",
+    "timestamp": "2026-02-15T03:32:03.689962",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-001-004": {
+    "lat": 35.29056,
+    "lng": -120.668959,
+    "address": "001-022-004",
+    "timestamp": "2026-02-15T03:32:05.347843",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-001-005": {
+    "lat": 35.146532,
+    "lng": -120.63873,
+    "address": "005-022-001",
+    "timestamp": "2026-02-15T03:32:06.146344",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-003-002": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T03:32:07.440722"
+  },
+  "parcel:022-004-001": {
+    "lat": 35.29056,
+    "lng": -120.668959,
+    "address": "001-022-004",
+    "timestamp": "2026-02-15T03:32:07.706598",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-004-002": {
+    "lat": 34.412807,
+    "lng": -119.527742,
+    "address": "004-002-022",
+    "timestamp": "2026-02-15T03:32:09.490769",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:0012-0047-0005-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T03:32:11.289916"
+  },
+  "parcel:0017-0021-0026-000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T03:32:13.155744"
+  },
+  "parcel:0012-0048-0003-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T03:32:13.599169"
+  },
+  "parcel:0012-0048-0004-000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-15T03:32:14.062400"
+  },
+  "parcel:017-054-026": {
+    "lat": 37.607159,
+    "lng": -121.077789,
+    "address": "017-054-026-000",
+    "timestamp": "2026-02-15T03:45:33.956381",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "3324 S. Carpenter Rd Modesto 95358": {
+    "lat": 37.586562725523,
+    "lng": -121.029070755946,
+    "timestamp": "2026-02-15T03:45:36.863948",
+    "successful_format": "3324 S. Carpenter Rd Modesto 95358, California",
+    "geocoder": "ArcGIS",
+    "address": "3324 S Carpenter Rd, Modesto, California, 95358"
+  },
+  "parcel:012-030-050": {
+    "lat": 37.927171,
+    "lng": -121.715711,
+    "address": "012-030-050",
+    "timestamp": "2026-02-15T03:53:41.948189",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "Hills Ferry Ranch P.O. Box 922 Hilmar 95324 (209) 634-4930": {
+    "timestamp": "2026-02-15T03:53:42.578529",
+    "address": "Hills Ferry, California",
+    "geocoder": "ArcGIS"
+  },
+  "parcel:017-061-020": {
+    "lat": 37.636789,
+    "lng": -122.462718,
+    "address": "017-061-020",
+    "timestamp": "2026-02-17T20:05:28.954422",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-061-009": {
+    "lat": 33.271834,
+    "lng": -115.946745,
+    "address": "017-061-009, 1983 DESERT KING AVE, THERMAL, CA, 92274",
+    "timestamp": "2026-02-17T20:05:29.824384",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-062-029": {
+    "lat": 35.496916,
+    "lng": -120.668435,
+    "address": "029-062-017",
+    "timestamp": "2026-02-17T20:05:30.671765",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-061-021": {
+    "lat": 34.441258,
+    "lng": -119.785469,
+    "address": "061-021-017",
+    "timestamp": "2026-02-17T20:05:31.161527",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-061-004": {
+    "lat": 35.75666,
+    "lng": -120.341371,
+    "address": "017-061-004",
+    "timestamp": "2026-02-17T20:05:32.478583",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-061-007": {
+    "lat": 33.272225,
+    "lng": -115.947025,
+    "address": "017-061-007, 1991 DESERT KING AVE, THERMAL, CA, 92274",
+    "timestamp": "2026-02-17T20:05:32.909754",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-002-050": {
+    "lat": 37.707363,
+    "lng": -122.482716,
+    "address": "002-022-050",
+    "timestamp": "2026-02-17T20:05:34.302139",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:017-062-047": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:38.529375"
+  },
+  "parcel:017-062-048": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:41.914375"
+  },
+  "parcel:022-003-009": {
+    "lat": 35.628204,
+    "lng": -120.700605,
+    "address": "009-022-003",
+    "timestamp": "2026-02-17T20:05:42.735959",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:058-001-013": {
+    "lat": 38.094102,
+    "lng": -120.590429,
+    "address": "058-001-013-000",
+    "timestamp": "2026-02-17T20:05:43.444727",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:058-001-014": {
+    "lat": 37.487886,
+    "lng": -121.041661,
+    "address": "058-001-014-000",
+    "timestamp": "2026-02-17T20:05:43.880495",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:058-001-003": {
+    "lat": 38.095717,
+    "lng": -120.588738,
+    "address": "058-001-003-000",
+    "timestamp": "2026-02-17T20:05:44.353315",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:0045-0360-0022-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:45.076991"
+  },
+  "parcel:0045-0360-0014-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:45.986689"
+  },
+  "parcel:045-0262-0001-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:46.608737"
+  },
+  "parcel:0045-0025-0065-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T20:05:48.374907"
+  },
+  "4820 Perrin Rd Manteca CA 95337": {
+    "lat": 37.722278478426,
+    "lng": -121.247551181003,
+    "timestamp": "2026-02-17T20:05:51.459568",
+    "successful_format": "4820 Perrin Rd Manteca CA 95337, California",
+    "geocoder": "ArcGIS",
+    "address": "4820 Perrin Rd, Manteca, California, 95337"
   }
 }

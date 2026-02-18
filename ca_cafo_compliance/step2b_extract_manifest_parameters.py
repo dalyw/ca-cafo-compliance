@@ -8,15 +8,9 @@ from dateutil import parser as date_parser
 from datetime import datetime
 from collections import defaultdict
 
-from ca_cafo_compliance.helpers_pdf_metrics import (
-    clean_common_errors,
-    extract_parameters_from_text,
-)
-from ca_cafo_compliance.helpers_geocoding import (
-    parse_destination_address_and_parcel,
-)
-
-from ca_cafo_compliance.helpers_pdf_metrics import GDRIVE_BASE
+from helpers_pdf_metrics import clean_common_errors, extract_parameters_from_text
+from helpers_geocoding import parse_destination_address_and_parcel
+from helpers_pdf_metrics import GDRIVE_BASE
 
 
 def to_numeric(s):
@@ -37,15 +31,11 @@ OCR_PRIORITY_FOLDERS = ["llmwhisperer_output", "tesseract_output"]
 PARAMS_DF = pd.read_csv(os.path.join(DATA_DIR, "parameters.csv"))
 LOCATIONS_DF = pd.read_csv(os.path.join(DATA_DIR, "parameter_locations.csv"))
 TEMPLATES_DF = pd.read_csv(os.path.join(DATA_DIR, "templates.csv"))
-manifest_params = PARAMS_DF[
-    PARAMS_DF["manifest_type"].isin(["manure", "wastewater", "both"])
-]
-manifest_param_cols = manifest_params.set_index("parameter_key")[
+manifest_params = PARAMS_DF[PARAMS_DF["manifest_type"].isin(["manure", "wastewater", "both"])]
+manifest_param_cols = manifest_params.set_index("parameter_key")["parameter_name"].tolist()
+manure_param_cols = manifest_params[manifest_params["manifest_type"].isin(["manure", "both"])][
     "parameter_name"
 ].tolist()
-manure_param_cols = manifest_params[
-    manifest_params["manifest_type"].isin(["manure", "both"])
-]["parameter_name"].tolist()
 wastewater_param_cols = manifest_params[
     manifest_params["manifest_type"].isin(["wastewater", "both"])
 ]["parameter_name"].tolist()
@@ -66,11 +56,76 @@ MANIFEST_COLUMNS = BASE_MANIFEST_COLUMNS + ["Parameter Template"]
 PARAM_TYPES = dict(zip(PARAMS_DF["parameter_key"], PARAMS_DF["data_type"]))
 PARAM_DEFAULTS = dict(zip(PARAMS_DF["parameter_key"], PARAMS_DF["default"]))
 
-# Parse "X Loads @ Y Tons Per Load" / "X Loads @ Y Gallons Per Load" from method text
-_NUMBER_HAULS_RE = re.compile(
-    r"(\d+(?:\.\d+)?)\s*(?:Loads?|Hauls?|Truckloads?)\b",
-    re.IGNORECASE,
-)
+# Load / haul pattern parsing
+# Shared fragments
+_NUM = r"(\d+(?:\.\d+)?)"  # capture a number (int or float)
+_LOAD_WORDS = r"(?:Loads?|Loaps?|Hauls?|Truckloads?|Dump\s*T(?:k|ruck)s?|Tanker\s*Loads?)"
+_UNIT_WORDS = r"(Tons?|Gallons?|Gals?|Yards?)"
+_SEP = r"\s*(?:[Xx×@\-]|At)\s*"  # multiplication / separator
+
+# Each pattern returns groups mapped to (n_loads, per_load_amount, unit_text).
+# The _groups_map tuples give (loads_group_idx, amount_group_idx, unit_group_idx).
+_LOAD_PATTERNS = [
+    # "100 Loads @ 10 Ton Per Load" / "55 Loads @ 9500 Gallons Per Load"
+    (
+        re.compile(
+            _NUM
+            + r"\s*"
+            + _LOAD_WORDS
+            + r"(?:\s+\w+)*?"
+            + _SEP
+            + r"(?:Approx\.?\s*)?"
+            + _NUM
+            + r"\s*"
+            + _UNIT_WORDS
+            + r".*\bPer\b",
+            re.IGNORECASE,
+        ),
+        (0, 1, 2),  # groups: (loads, amount, unit)
+    ),
+    # "418.5 Loads X 24 Tons" / "552 Dump Tks @ Approx. 6.25 Ton Ave"
+    # "150 Loads At 9500 Gals/Load" / "366 Loaps × 12 Tons"
+    (
+        re.compile(
+            _NUM
+            + r"\s*"
+            + _LOAD_WORDS
+            + r"(?:\s+\w+)*?"
+            + _SEP
+            + r"(?:Approx\.?\s*)?"
+            + _NUM
+            + r"\s*"
+            + _UNIT_WORDS,
+            re.IGNORECASE,
+        ),
+        (0, 1, 2),
+    ),
+    # "24 Tons X 56 Loads" (units before loads)
+    (
+        re.compile(
+            _NUM + r"\s*" + _UNIT_WORDS + _SEP + _NUM + r"\s*" + _LOAD_WORDS,
+            re.IGNORECASE,
+        ),
+        (2, 0, 1),  # groups: (amount, unit, loads) — note swapped order
+    ),
+    # "130 Loads 12 Tons Each 1560 Total" (no separator sign)
+    (
+        re.compile(
+            _NUM + r"\s*" + _LOAD_WORDS + r"\s+" + _NUM + r"\s*" + _UNIT_WORDS + r"\s+Each\b",
+            re.IGNORECASE,
+        ),
+        (0, 1, 2),
+    ),
+]
+
+
+def _parse_load_method(text):
+    """Try each load pattern against *text*; return (n_loads, per_load_amount, unit_text) or None."""
+    for regex, (li, ai, ui) in _LOAD_PATTERNS:
+        if m := regex.search(text):
+            groups = m.groups()
+            return _parse_number(groups[li]), _parse_number(groups[ai]), groups[ui].lower()
+    return None
 
 
 def _parse_number(s):
@@ -116,9 +171,7 @@ def identify_manifest_pages(result_text):
     # Extract pages
     pages = {
         int(m.group(1)): result_text[
-            m.end() : (
-                matches[i + 1].start() if i + 1 < len(matches) else len(result_text)
-            )
+            m.end() : (matches[i + 1].start() if i + 1 < len(matches) else len(result_text))
         ].strip()
         for i, m in enumerate(matches)
     }
@@ -170,11 +223,7 @@ def identify_manifest_pages(result_text):
                 end_page = cand
 
         # Add page 3 if "Page 2 of 3"
-        if (
-            "PAGE 2 OF 3" in combined.upper()
-            and (p3 := end_page + 1) in pages
-            and p3 not in used
-        ):
+        if "PAGE 2 OF 3" in combined.upper() and (p3 := end_page + 1) in pages and p3 not in used:
             used.add(p3)
             combined += "\n" + pages[p3]
             end_page = p3
@@ -204,8 +253,20 @@ def identify_manifest_pages(result_text):
     return nums, blocks, ranges, templates
 
 
-def _parse_hauling_table(manifest_text):
-    """Extract hauling event rows from table for R5-2007-0035_one_page_2 template."""
+def _get_table_column_map(template):
+    """Build {item_order: column_name} from LOCATIONS_DF for a table template."""
+    tpl_rows = LOCATIONS_DF[LOCATIONS_DF["template"] == template]
+    col_map = {}  # item_order -> column_name
+    for _, row in tpl_rows.iterrows():
+        io = row.get("item_order")
+        pk = row.get("parameter_key")
+        if pd.notna(io) and pk in PARAM_TO_COL:
+            col_map[int(io)] = PARAM_TO_COL[pk]
+    return col_map
+
+
+def _parse_hauling_table(manifest_text, template="R5-2007-0035_one_page_2"):
+    """Extract hauling event rows from table for templates with hauling tables."""
     lines = manifest_text.split("\n")
 
     # Find start of table (look for "Dates Hauled" header)
@@ -218,42 +279,91 @@ def _parse_hauling_table(manifest_text):
     if start_idx is None:
         return []
 
+    # Column mapping from parameter_locations.csv item_order
+    # Regex groups: (1) date range, (2) amount, (3) units, (4) moisture%
+    col_map = _get_table_column_map(template)
+
+    # Regex to extract: date range, amount, unit, moisture%
+    # Handles trailing junk like "%-Total 15689 ae" or "% ."
+    _ROW_RE = re.compile(
+        r"^(.+?)\s+"                          # group 1: date range
+        r"([\d,]+)\s+"                         # group 2: amount
+        r"(tons?|gallons?|gals?|yards?)\s+"    # group 3: units
+        r"(\d+)\s*%",                          # group 4: moisture %
+        re.IGNORECASE,
+    )
+
     rows = []
     for line in lines[start_idx:]:
-        # Stop at Total row
-        if "total" in line.lower():
+        stripped = line.strip()
+        if not stripped:
+            continue
+
+        # Stop at a standalone "Total" line (starts with Total)
+        if re.match(r"^total\b", stripped, re.IGNORECASE):
             break
 
-        # Skip empty lines
-        if not line.strip():
+        # Try to match a data row anywhere in the line
+        m = _ROW_RE.match(stripped)
+        if not m:
             continue
 
-        # Parse the line - split by whitespace and work backwards
-        # Structure: [date range...] [amount] [units] [moisture%] [%]
-        tokens = line.split()
-        if len(tokens) < 4:
-            continue
+        groups = m.groups()  # (date_range, amount, units, moisture_pct)
+        row_data = {}
 
-        # Remove trailing % symbol if present
-        if tokens[-1] == "%":
-            tokens = tokens[:-1]
+        # Map regex groups to columns using item_order from parameter_locations.csv
+        # Group 3 (units) determines whether amount goes to manure or wastewater
+        units = groups[2].lower()
+        for item_order, col_name in col_map.items():
+            idx = item_order - 1  # item_order is 1-based, groups are 0-based
+            if 0 <= idx < len(groups):
+                value = groups[idx]
+                # For the amount column (group 2), route to manure or wastewater by units
+                if idx == 1:
+                    if "ton" in units or "yard" in units:
+                        row_data[PARAM_TO_COL["manure_amount"]] = value.replace(",", "")
+                    else:
+                        row_data[PARAM_TO_COL["wastewater_amount"]] = value.replace(",", "")
+                else:
+                    row_data[col_name] = value.strip() if isinstance(value, str) else value
 
-        # From right to left: moisture_pct, units, amount, date_range (rest)
-        moisture_pct = tokens[-1] if len(tokens) >= 4 else None
-        units = tokens[-2] if len(tokens) >= 3 else None
-        amount = tokens[-3].replace(",", "") if len(tokens) >= 2 else None
-        date_range = " ".join(tokens[:-3]) if len(tokens) > 3 else None
-
-        rows.append(
-            {
-                "haul_date": date_range,
-                "amount": amount,
-                "units": units,
-                "moisture_pct": moisture_pct,
-            }
-        )
+        rows.append(row_data)
 
     return rows
+
+
+def _split_haul_dates(data):
+    """Parse haul_date into haul_date_first and haul_date_last in-place."""
+    haul_date = data.get(PARAM_TO_COL.get("haul_date"))
+    if not haul_date or not isinstance(haul_date, str):
+        return
+    # Split on dash, "to", ",", ";"
+    date_parts = re.split(r"[-–—]|\bto\b|,|;", haul_date)
+    date_parts = [p.strip() for p in date_parts if p.strip()]
+
+    parsed_dates = []
+    for part in date_parts:
+        try:
+            dt = date_parser.parse(part, fuzzy=True)
+            # dateutil defaults to the current year when no year is present.
+            # If the original text has no 4-digit year, use 2024 for this dataset.
+            if not re.search(r"\b(19|20)\d{2}\b", part):
+                dt = dt.replace(year=2024)
+            parsed_dates.append(dt)
+        except (ValueError, TypeError):
+            continue
+
+    if not parsed_dates:
+        return
+    parsed_dates.sort()
+    first_date = (
+        f"{parsed_dates[0].month}/{parsed_dates[0].day}/{parsed_dates[0].year}"
+        if len(parsed_dates) > 1
+        else None
+    )
+    last_date = f"{parsed_dates[-1].month}/{parsed_dates[-1].day}/{parsed_dates[-1].year}"
+    data[PARAM_TO_COL["haul_date_first"]] = first_date
+    data[PARAM_TO_COL["haul_date_last"]] = last_date
 
 
 def extract_manifest_fields(manifest_text, template):
@@ -275,9 +385,7 @@ def extract_manifest_fields(manifest_text, template):
         # Save cleaned version to param_key_std when that column exists (e.g. destination_type_std)
         std_key = param_key + "_std"
         if std_key in PARAM_TO_COL:
-            data[PARAM_TO_COL[std_key]] = apply_parameter_standardization(
-                value, param_key
-            )
+            data[PARAM_TO_COL[std_key]] = apply_parameter_standardization(value, param_key)
 
         # Parse destination into address and/or parcel; store both when present
         if param_key == "destination_address":
@@ -285,47 +393,10 @@ def extract_manifest_fields(manifest_text, template):
             # Only set parcel from address parsing if not already explicitly extracted
             if parcel_part and not data.get(PARAM_TO_COL["destination_parcel_number"]):
                 data[PARAM_TO_COL["destination_parcel_number"]] = parcel_part
-            value = (
-                address_part if address_part else (value if not parcel_part else None)
-            )
+            value = address_part if address_part else (value if not parcel_part else None)
             data[column_name] = value
 
-    # Extract first and last haul dates from haul_date field
-    haul_date = data.get(PARAM_TO_COL.get("haul_date"))
-    if haul_date and isinstance(haul_date, str):
-        # Split on dash, "to", ",", ";"
-        date_parts = re.split(r"[-–—]|\bto\b|,|;", haul_date)
-        date_parts = [p.strip() for p in date_parts if p.strip()]
-
-        parsed_dates = []
-        if date_parts:
-            for part in date_parts:
-                try:  # using dateutil.parser
-                    dt = date_parser.parse(part, fuzzy=True)
-                    parsed_dates.append(dt)
-                except (ValueError, TypeError):
-                    continue
-
-        if parsed_dates:
-            parsed_dates.sort()
-            # Format as m/d/Y (only set first if multiple dates)
-            first_date = (
-                f"{parsed_dates[0].month}/{parsed_dates[0].day}/{parsed_dates[0].year}"
-                if len(parsed_dates) > 1
-                else None
-            )
-            last_date = f"{parsed_dates[-1].month}/{parsed_dates[-1].day}/{parsed_dates[-1].year}"
-            # Default to 2024 if year is missing
-            if parsed_dates and all(dt.year < 1900 for dt in parsed_dates):
-                parsed_dates = [dt.replace(year=2024) for dt in parsed_dates]
-                first_date = (
-                    f"{parsed_dates[0].month}/{parsed_dates[0].day}/{parsed_dates[0].year}"
-                    if len(parsed_dates) > 1
-                    else None
-                )
-                last_date = f"{parsed_dates[-1].month}/{parsed_dates[-1].day}/{parsed_dates[-1].year}"
-            data[PARAM_TO_COL["haul_date_first"]] = first_date
-            data[PARAM_TO_COL["haul_date_last"]] = last_date
+    _split_haul_dates(data)
 
     for waste_type, units in [
         ("Manure", ["ton", "yard"]),
@@ -334,21 +405,19 @@ def extract_manifest_fields(manifest_text, template):
         if not (txt := data.get(f"Method Used to Determine Volume of {waste_type}")):
             continue
         txt_str = str(txt)
-        txt_lower = txt_str.lower()
 
-        # Extract loads/hauls and per-load amounts (pattern: "X loads @ Y tons per load")
-        if "per" in txt_lower:
-            if (m := _NUMBER_HAULS_RE.search(txt_lower)) and (
-                n := _parse_number(m.group(1))
-            ) is not None:
-                data[PARAM_TO_COL[f"{waste_type.lower()}_number_hauls"]] = str(
-                    int(n) if n == int(n) else n
+        # Extract loads/hauls and per-load amounts from method text
+        wt = waste_type.lower()
+        if result := _parse_load_method(txt_str):
+            n_loads, per_load, unit_text = result
+            if n_loads is not None:
+                data[PARAM_TO_COL[f"{wt}_number_hauls"]] = str(
+                    int(n_loads) if n_loads == int(n_loads) else n_loads
                 )
-            for unit_key in units:
-                if (m := re.search(rf"(\d+(?:,\d+)?)\s*{unit_key}", txt_lower)) and (
-                    v := _parse_number(m.group(1))
-                ) is not None:
-                    data[PARAM_TO_COL[f"{waste_type.lower()}_{unit_key}_per_haul"]] = v
+            if per_load is not None:
+                for unit_key in units:
+                    if unit_key in unit_text:
+                        data[PARAM_TO_COL[f"{wt}_{unit_key}_per_haul"]] = per_load
 
         # Extract hours and GPM for wastewater (pattern: "X hours @ Y GPM")
         if waste_type == "Wastewater":
@@ -407,15 +476,13 @@ def extract_manifests_from_txt(txt_path, *, backup_txt_path=None):
     manifests: list[dict] = []
     all_manifests_doc = fitz.open()
 
-    for i, (block_text, (start_page, end_page)) in enumerate(
-        zip(blocks, ranges), start=1
-    ):
+    for i, (block_text, (start_page, end_page)) in enumerate(zip(blocks, ranges), start=1):
         manifest_text = clean_common_errors(block_text)
         manifest_template = templates[i - 1]
 
         # Handle multi-row table template (R5-2007-0035_one_page_2)
         if manifest_template == "R5-2007-0035_one_page_2":
-            table_rows = _parse_hauling_table(manifest_text)
+            table_rows = _parse_hauling_table(manifest_text, manifest_template)
 
             if table_rows:
                 # Extract base data once (all header/metadata fields)
@@ -425,21 +492,10 @@ def extract_manifests_from_txt(txt_path, *, backup_txt_path=None):
                 # Create one manifest entry per table row
                 for j, row in enumerate(table_rows):
                     row_data = base_data.copy()
+                    row_data.update(row)
 
-                    # Override hauling-specific fields from table
-                    row_data[PARAM_TO_COL["haul_date"]] = row["haul_date"]
-
-                    # Determine waste type based on units
-                    if row["units"] and (
-                        "ton" in row["units"].lower() or "yard" in row["units"].lower()
-                    ):
-                        row_data[PARAM_TO_COL["manure_amount"]] = row["amount"]
-                        if "manure_solids_percent" in PARAM_TO_COL:
-                            row_data[PARAM_TO_COL["manure_solids_percent"]] = row[
-                                "moisture_pct"
-                            ]
-                    else:
-                        row_data[PARAM_TO_COL["wastewater_amount"]] = row["amount"]
+                    # Split haul_date into first/last for this row
+                    _split_haul_dates(row_data)
 
                     # Use letter suffix for manifest number (1a, 1b, 1c, etc.)
                     row_data["County"] = county
@@ -460,9 +516,7 @@ def extract_manifests_from_txt(txt_path, *, backup_txt_path=None):
                         if 0 <= p < len(doc):
                             new_doc.insert_pdf(doc, from_page=p, to_page=p)
                             if all_manifests_doc is not None:
-                                all_manifests_doc.insert_pdf(
-                                    doc, from_page=p, to_page=p
-                                )
+                                all_manifests_doc.insert_pdf(doc, from_page=p, to_page=p)
                     new_doc.save(os.path.join(output_dir, f"manifest_{i}.pdf"))
 
             continue  # Skip normal processing
@@ -478,9 +532,7 @@ def extract_manifests_from_txt(txt_path, *, backup_txt_path=None):
         manifests.append(data)
 
         # Save individual manifest txt
-        with open(
-            os.path.join(output_dir, f"manifest_{i}.txt"), "w", encoding="utf-8"
-        ) as f:
+        with open(os.path.join(output_dir, f"manifest_{i}.txt"), "w", encoding="utf-8") as f:
             f.write(manifest_text)
 
         # Save manifest pdf (2-page slice)
@@ -565,14 +617,12 @@ def main():
             and "tesseract" not in chosen
             else None
         )
-        all_manifests.extend(
-            extract_manifests_from_txt(chosen, backup_txt_path=backup_txt)
-        )
+        all_manifests.extend(extract_manifests_from_txt(chosen, backup_txt_path=backup_txt))
 
     print(f"\nExtracted {len(all_manifests)} total manifests")
 
     df = pd.DataFrame(all_manifests)
-    out_csv = "ca_cafo_compliance/outputs/extracted_manifests.csv"
+    out_csv = "ca_cafo_compliance/outputs/2024_manifests_raw.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
 
     for col in MANIFEST_COLUMNS:
@@ -596,9 +646,7 @@ def main():
             }
         ]
     )
-    summary_df.to_csv(
-        "ca_cafo_compliance/outputs/manifest_extraction_summary.csv", index=False
-    )
+    summary_df.to_csv("ca_cafo_compliance/outputs/2024_manifest_summary.csv", index=False)
 
     manure_cols = [manure_col]
     wastewater_cols = [wastewater_col]
@@ -622,11 +670,7 @@ def main():
 
     dest_type_col = PARAM_TO_COL["destination_type_std"]
     print("\nManure-only summary by destination type:")
-    print(
-        df[has_manure]
-        .groupby(dest_type_col)[manure_col]
-        .apply(lambda x: to_numeric(x).sum())
-    )
+    print(df[has_manure].groupby(dest_type_col)[manure_col].apply(lambda x: to_numeric(x).sum()))
     print("\nWastewater-only summary by destination type:")
     print(
         df[has_wastewater]
@@ -687,11 +731,7 @@ def identify_files_to_delete():
         if not os.path.basename(p).startswith("manifest_")
     ]
     ocr_before_cutoff = sorted(
-        [
-            p
-            for p in ocr_files
-            if datetime.fromtimestamp(os.path.getmtime(p)) < CUTOFF_TIME
-        ]
+        [p for p in ocr_files if datetime.fromtimestamp(os.path.getmtime(p)) < CUTOFF_TIME]
     )
 
     # All manifests for each OCR approach
@@ -701,8 +741,7 @@ def identify_files_to_delete():
         "llmwhisperer": "**/llmwhisperer_output/**/manifest_*",
     }
     engine_delete_lists = {
-        k: sorted([p for p in g(pat) if os.path.isfile(p)])
-        for k, pat in engine_patterns.items()
+        k: sorted([p for p in g(pat) if os.path.isfile(p)]) for k, pat in engine_patterns.items()
     }
 
     # Empty subdirectories under an output_type folder (fitz/tesseract)
@@ -712,10 +751,7 @@ def identify_files_to_delete():
         return [d for d in dirs if os.path.isdir(d) and len(os.listdir(d)) == 0]
 
     empty_subfolders = sum(
-        [
-            empty_subdirs(f)
-            for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]
-        ],
+        [empty_subdirs(f) for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]],
         [],
     )
 
@@ -740,7 +776,7 @@ def identify_files_to_delete():
 
     # Write delete lists
     delete_lists = {
-        "delete_list_1_page.txt": one_page,
+        "one_page.txt": one_page,
         "delete_list_ocr_before_cutoff.txt": ocr_before_cutoff,
         "delete_list_all_fitz.txt": engine_delete_lists["fitz"],
         "delete_list_all_tesseract.txt": engine_delete_lists["tesseract"],
@@ -761,4 +797,4 @@ def identify_files_to_delete():
 
 if __name__ == "__main__":
     main()
-    identify_files_to_delete()
+    # identify_files_to_delete()

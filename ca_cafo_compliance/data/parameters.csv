@@ -101,6 +101,7 @@ origin_dairy_address_geocoded,Origin Dairy Address (Geocoded),text,NA,Address of
 hauler_name,Hauler Name,text,NA,Name of hauling company/person,both,pdf
 hauler_address,Hauler Address,text,NA,Address of hauling company/person,both,pdf
 destination_name,Destination Name,text,NA,Name of destination facility/person,both,pdf
+destination_contact_address,Destination Contact Address,text,NA,Address of destination,both,pdf
 destination_address,Destination Address,text,NA,Address of destination,both,pdf
 destination_nearest_cross_street,Destination Nearest Cross Street,text,NA,,both,pdf
 destination_type,Destination Type,text,NA,Composting Facility / Broker / Farmer / Digester / Other,both,pdf
@@ -122,6 +123,5 @@ manure_number_hauls,Manure Number of Hauls,text,NA,Number of hauls,manure,calcul
 manure_amount,Total Manure Amount (tons),numeric,NA,Total manure hauled in tons,manure,pdf
 manure_solids_percent,Manure Solids (%),numeric,NA,Fraction of manure solids,manure,pdf
 manure_moisture_percent,Manure Moisture (%),numeric,NA,Fraction of manure moisture,manure,pdf
-manure_density,Manure Density,numeric,NA,Density of manure if reported in volume,manure,pdf
 manure_method,Method Used to Determine Volume of Manure,text,NA,Method used to calculate manure amount,manure,pdf
 wastewater_method,Method Used to Determine Volume of Wastewater,text,NA,Method used to calculate manure amount,wastewater,pdf

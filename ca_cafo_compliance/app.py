@@ -10,19 +10,12 @@ import glob
 import requests
 from io import StringIO
 import sys
-from helpers_pdf_metrics import YEARS, REGIONS, cf
+from helpers_pdf_metrics import YEARS, REGIONS, cf, TEMPLATE_KEY_TO_NAME
 
 # Add the current directory to Python path for imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
 if current_dir not in sys.path:
     sys.path.append(current_dir)
-
-# Load template mapping at the top level so it's available for lookups
-TEMPLATE_KEY_TO_NAME = None
-templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
-TEMPLATE_KEY_TO_NAME = dict(
-    zip(templates_df["template_key"], templates_df["template_name"])
-)
 
 st.set_page_config(
     page_title="Heaping Piles of Fraud: CA CAFO Annual Report Data Exploration",
@@ -122,9 +115,7 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
         if response.status_code == 200:
             return pd.read_csv(StringIO(response.text), encoding=encoding)
         else:
-            st.warning(
-                f"Could not load {os.path.basename(local_path)} from local or GitHub."
-            )
+            st.warning(f"Could not load {os.path.basename(local_path)} from local or GitHub.")
             return pd.DataFrame()
 
 
@@ -145,9 +136,7 @@ def load_data():
             "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/"
             "main/outputs/consolidated"
         )
-        files_to_load = [
-            f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS
-        ]
+        files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
         for file in files_to_load:
             local_path = f"ca_cafo_compliance/outputs/consolidated/{file}"
             github_url = f"{base_url}/{file}"
@@ -176,29 +165,11 @@ def load_data():
     return combined_df
 
 
-def add_histogram_trace(
-    fig, data, name, color, opacity=0.7, nbinsx=50, clip_range=None
-):
-    """
-    Helper function to add a histogram trace to a figure.
-
-    Args:
-        fig: The figure to add the trace to
-        data: The data series to plot
-        name: The name of the trace
-        color: The color of the trace
-        opacity: The opacity of the trace (default: 0.7)
-        nbinsx: Number of bins for the histogram (default: 50)
-        clip_range: Tuple of (min, max) to clip the data (default: None)
-    """
-    if not data.empty:
-        if clip_range:
-            data = data.clip(clip_range[0], clip_range[1])
-        fig.add_trace(
-            go.Histogram(
-                x=data, nbinsx=nbinsx, name=name, marker_color=color, opacity=opacity
-            )
-        )
+def add_histogram_trace(fig, data, name, color, nbinsx=50, clip_range=None):
+    """Helper function to add a histogram trace to a figure."""
+    if clip_range:
+        data = data.clip(clip_range[0], clip_range[1])
+    fig.add_trace(go.Histogram(x=data, nbinsx=nbinsx, name=name, marker_color=color, opacity=0.7))
 
 
 def create_comparison_plots(df):
@@ -225,9 +196,7 @@ def create_comparison_plots(df):
     nitrogen_fig = go.Figure()
 
     # Filter data for USDA nitrogen deviations
-    usda_nitrogen_data = (
-        df[usda_col].dropna() if usda_col in df.columns else pd.Series()
-    )
+    usda_nitrogen_data = df[usda_col].dropna() if usda_col in df.columns else pd.Series()
     add_histogram_trace(
         nitrogen_fig,
         usda_nitrogen_data,
@@ -237,9 +206,7 @@ def create_comparison_plots(df):
     )
 
     # Filter data for UCCE nitrogen deviations
-    ucce_nitrogen_data = (
-        df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
-    )
+    ucce_nitrogen_data = df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
     add_histogram_trace(
         nitrogen_fig,
         ucce_nitrogen_data,
@@ -251,16 +218,8 @@ def create_comparison_plots(df):
     # Add vertical line at 0% deviation if we have any data
     if not usda_nitrogen_data.empty or not ucce_nitrogen_data.empty:
         max_count = max(
-            (
-                usda_nitrogen_data.value_counts().max()
-                if not usda_nitrogen_data.empty
-                else 0
-            ),
-            (
-                ucce_nitrogen_data.value_counts().max()
-                if not ucce_nitrogen_data.empty
-                else 0
-            ),
+            (usda_nitrogen_data.value_counts().max() if not usda_nitrogen_data.empty else 0),
+            (ucce_nitrogen_data.value_counts().max() if not ucce_nitrogen_data.empty else 0),
         )
 
         nitrogen_fig.add_trace(
@@ -336,166 +295,6 @@ def create_comparison_plots(df):
     )
 
     return nitrogen_fig, wastewater_fig
-
-
-def add_bar_trace(
-    fig,
-    x,
-    y,
-    name,
-    color,
-    pattern_shape="",
-    text=None,
-    textposition="auto",
-    showlegend=True,
-    row=None,
-    col=None,
-    legendgroup=None,
-):
-    """
-    Helper function to add a bar trace to a figure.
-
-    Args:
-        fig: The figure to add the trace to
-        x: x-axis values
-        y: y-axis values
-        name: The name of the trace
-        color: The color of the trace
-        pattern_shape: Pattern shape for the bars (default: "")
-        text: Text to display on bars (default: None)
-        textposition: Position of the text (default: 'auto')
-        showlegend: Whether to show in legend (default: True)
-        row: Subplot row number (default: None)
-        col: Subplot column number (default: None)
-        legendgroup: Legend group name (default: None)
-    """
-    if y is not None:
-        fig.add_trace(
-            go.Bar(
-                x=[x],
-                y=[y],
-                name=name,
-                marker_color=color,
-                marker_pattern_shape=pattern_shape,
-                text=[text] if text else None,
-                textposition=textposition,
-                legendgroup=legendgroup,
-                showlegend=showlegend,
-            ),
-            row=row,
-            col=col,
-        )
-
-
-def create_consultant_comparison_plots():
-    # Load pre-calculated consultant metrics
-    metrics_path = (
-        "ca_cafo_compliance/outputs/consolidated/2023_R5_consultant_metrics.csv"
-    )
-    df = pd.read_csv(metrics_path)
-    consultants = df["Template"]
-
-    fig = make_subplots(
-        rows=1,
-        cols=3,
-        subplot_titles=("Nitrogen Deviation", "Wastewater to Milk", "Manure Factor"),
-        horizontal_spacing=0.15,  # whitespace between subplots
-    )
-
-    # 1. Nitrogen Generation
-    y1 = df["USDA Nitrogen % Deviation Average"]
-    y1_std = df["USDA Nitrogen % Deviation Standard Deviation"]
-    y2 = df["UCCE Nitrogen % Deviation Average"]
-    y2_std = df["UCCE Nitrogen % Deviation Standard Deviation"]
-
-    # Error bars if std is not null
-    for y, y_std, name, color, col in [
-        (y1, y1_std, "Reported Nitrogen Deviation from USDA Estimate", "blue", 1),
-        (y2, y2_std, "Reported Nitrogen Deviation from UCCE Estimate", "lightblue", 1),
-    ]:
-        error_y = (
-            dict(
-                type="data",
-                array=[v if not np.isnan(v) else 0 for v in y_std],
-                visible=True,
-            )
-            if not y_std.isnull().all()
-            else None
-        )
-        fig.add_trace(
-            go.Bar(
-                x=consultants,
-                y=y,
-                name=name,
-                marker_color=color,
-                error_y=error_y if error_y and not all(np.isnan(y_std)) else None,
-                text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y],
-                textposition="auto",
-                showlegend=False,
-            ),
-            row=1,
-            col=1,
-        )
-
-    # 2. Wastewater Generation
-    y3 = df["Wastewater Ratio Average"]
-    y3_std = df["Wastewater Ratio Standard Deviation"]
-    error_y = (
-        dict(
-            type="data",
-            array=[v if not np.isnan(v) else 0 for v in y3_std],
-            visible=True,
-        )
-        if not y3_std.isnull().all()
-        else None
-    )
-    fig.add_trace(
-        go.Bar(
-            x=consultants,
-            y=y3,
-            name="Based on Reported Milk",
-            marker_color="red",
-            error_y=error_y if error_y and not all(np.isnan(y3_std)) else None,
-            text=[f"{v:.2f}" if not np.isnan(v) else "" for v in y3],
-            textposition="auto",
-            showlegend=False,
-        ),
-        row=1,
-        col=2,
-    )
-
-    # 3. Milk Production
-    y4 = df["Manure Factor Average"]
-    y4_std = df["Manure Factor Standard Deviation"]
-    error_y = (
-        dict(
-            type="data",
-            array=[v if not np.isnan(v) else 0 for v in y4_std],
-            visible=True,
-        )
-        if not y4_std.isnull().all()
-        else None
-    )
-    fig.add_trace(
-        go.Bar(
-            x=consultants,
-            y=y4,
-            name="Annual Production",
-            marker_color="green",
-            error_y=error_y if error_y and not all(np.isnan(y4_std)) else None,
-            text=[f"{v:.0f}" if not np.isnan(v) else "" for v in y4],
-            textposition="auto",
-            showlegend=False,
-        ),
-        row=1,
-        col=3,
-    )
-
-    fig.update_layout(showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40))
-    fig.update_yaxes(title_text="%", row=1, col=1)
-    fig.update_yaxes(title_text="Liters per Liter Milk", row=1, col=2)
-    fig.update_yaxes(title_text="Manure per Cow", row=1, col=3)
-    return fig
 
 
 def filter_tab2(df, selected_year):
@@ -678,9 +477,7 @@ def main():
             facility_df = map_df.copy()
 
         # Convert Dairy Name to string and handle NaN values
-        facility_df.loc[:, "Dairy Name"] = (
-            facility_df["Dairy Name"].fillna("Unknown").astype(str)
-        )
+        facility_df.loc[:, "Dairy Name"] = facility_df["Dairy Name"].fillna("Unknown").astype(str)
         facility_names = sorted(facility_df["Dairy Name"].unique())
         selected_facility = st.selectbox(
             "Select a Facility",
@@ -693,9 +490,7 @@ def main():
             key="facility_name_tab1",
         )
         if selected_facility:  # Get facility details
-            facility_data = facility_df[
-                facility_df["Dairy Name"] == selected_facility
-            ].iloc[0]
+            facility_data = facility_df[facility_df["Dairy Name"] == selected_facility].iloc[0]
             col1, col2 = st.columns(2)
             with col1:
                 st.write(
@@ -716,10 +511,8 @@ def main():
                 "Average Other",
             ]
 
-            facility_data = facility_df[
-                facility_df["Dairy Name"] == selected_facility
-            ].iloc[0]
-            facility_comparison_fig = make_subplots(
+            facility_data = facility_df[facility_df["Dairy Name"] == selected_facility].iloc[0]
+            facility_fig = make_subplots(
                 rows=2,
                 cols=2,
                 subplot_titles=(
@@ -736,7 +529,7 @@ def main():
                 if col in facility_data and pd.notna(facility_data[col]):
                     herd_data.append({"name": col, "value": facility_data[col]})
             if herd_data:
-                facility_comparison_fig.add_trace(
+                facility_fig.add_trace(
                     go.Bar(
                         x=[d["name"].replace("Average ", "") for d in herd_data],
                         y=[d["value"] for d in herd_data],
@@ -770,43 +563,49 @@ def main():
                 else None
             )
 
-            add_bar_trace(
-                facility_comparison_fig,
+            def _add_bar_trace(x, y, color, shape="", text=None, row=None, col=None):
+                """Helper function to add a bar trace to a figure."""
+                legendgroup = "Reported" if "report" in x.lower() else "Estimated"
+                facility_fig.add_trace(
+                    go.Bar(
+                        x=[x],
+                        y=[y],
+                        name=x,
+                        marker_color=color,
+                        marker_pattern_shape=shape,
+                        text=[text] if text else None,
+                        legendgroup=legendgroup,
+                        showlegend=False,
+                    ),
+                    row=row,
+                    col=col,
+                )
+
+            _add_bar_trace(
                 "Reported",
                 n_reported_val,
-                "Reported",
                 NITROGEN_COLOR,
                 text=f"{n_reported_val:,.0f} lbs" if n_reported_val else None,
                 row=1,
                 col=2,
-                legendgroup="reported",
-                showlegend=False,
             )
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Estimated (USDA)",
                 n_usda_val,
-                "Estimated (USDA)",
                 NITROGEN_EST_COLOR,
-                pattern_shape="/",
+                shape="/",
                 text=f"{n_usda_val:,.0f} lbs" if n_usda_val else None,
                 row=1,
                 col=2,
-                legendgroup="estimated",
-                showlegend=False,
             )
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Estimated (UCCE)",
                 n_ucce_val,
-                "Estimated (UCCE)",
                 NITROGEN_EST_COLOR,
-                pattern_shape="/",
+                shape="/",
                 text=f"{n_ucce_val:,.0f} lbs" if n_ucce_val else None,
                 row=1,
                 col=2,
-                legendgroup="estimated",
-                showlegend=False,
             )
 
             # 3. Wastewater Generation
@@ -818,30 +617,22 @@ def main():
             )
             ww_estimated_val = facility_data["Estimated Total Wastewater Generated (L)"]
 
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Reported",
                 ww_reported_val,
-                "Reported",
                 WASTEWATER_COLOR,
                 text=f"{ww_reported_val:,.0f} L" if ww_reported_val else None,
                 row=2,
                 col=1,
-                legendgroup="reported",
-                showlegend=False,
             )
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Estimated",
                 ww_estimated_val,
-                "Estimated",
                 WASTEWATER_EST_COLOR,
-                pattern_shape="/",
+                shape="/",
                 text=f"{ww_estimated_val:,.0f} L" if ww_estimated_val else None,
                 row=2,
                 col=1,
-                legendgroup="estimated",
-                showlegend=False,
             )
 
             # 4. Manure Generation
@@ -849,63 +640,43 @@ def main():
             herd_size_col = "Total Herd Size"
             manure_reported_val = (
                 facility_data[manure_reported]
-                if manure_reported in facility_data
-                and pd.notna(facility_data[manure_reported])
+                if manure_reported in facility_data and pd.notna(facility_data[manure_reported])
                 else None
             )
             manure_estimated_val = (
                 cf["MANURE_FACTOR_AVERAGE"] * facility_data[herd_size_col]
-                if herd_size_col in facility_data
-                and pd.notna(facility_data[herd_size_col])
+                if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col])
                 else None
             )
 
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Reported",
                 manure_reported_val,
-                "Reported",
                 MANURE_COLOR,
-                text=(
-                    f"{manure_reported_val:,.0f} tons" if manure_reported_val else None
-                ),
+                text=(f"{manure_reported_val:,.0f} tons" if manure_reported_val else None),
                 row=2,
                 col=2,
-                legendgroup="reported",
-                showlegend=False,
             )
-            add_bar_trace(
-                facility_comparison_fig,
+            _add_bar_trace(
                 "Estimated",
                 manure_estimated_val,
-                "Estimated",
                 MANURE_EST_COLOR,
-                pattern_shape="/",
-                text=(
-                    f"{manure_estimated_val:,.0f} tons"
-                    if manure_estimated_val
-                    else None
-                ),
+                shape="/",
+                text=(f"{manure_estimated_val:,.0f} tons" if manure_estimated_val else None),
                 row=2,
                 col=2,
-                legendgroup="estimated",
-                showlegend=False,
             )
 
-            facility_comparison_fig.update_layout(
+            facility_fig.update_layout(
                 height=700,
                 font=dict(size=22),
             )
-            facility_comparison_fig.update_xaxes(
-                title_font=dict(size=22), tickfont=dict(size=20)
-            )
-            facility_comparison_fig.update_yaxes(
-                title_font=dict(size=22), tickfont=dict(size=20)
-            )
-            facility_comparison_fig.update_xaxes(tickangle=30, row=1, col=1)
+            facility_fig.update_xaxes(title_font=dict(size=22), tickfont=dict(size=20))
+            facility_fig.update_yaxes(title_font=dict(size=22), tickfont=dict(size=20))
+            facility_fig.update_xaxes(tickangle=30, row=1, col=1)
 
-            if facility_comparison_fig is not None:
-                st.plotly_chart(facility_comparison_fig, use_container_width=True)
+            if facility_fig is not None:
+                st.plotly_chart(facility_fig, use_container_width=True)
             else:
                 st.warning(f"No data available for {selected_facility}")
 
@@ -954,9 +725,7 @@ def main():
         ) = filter_tab2(df, selected_year_tab3)
 
         if filtered_df.empty:
-            st.warning(
-                "Please select at least one region (R5 or R7) to view comparison plots."
-            )
+            st.warning("Please select at least one region (R5 or R7) to view comparison plots.")
             return
 
         # Comparison plots with explanations
@@ -994,9 +763,65 @@ def main():
         Each bar represents a consultant's average value, with error bars showing the standard deviation.
         """)
 
-        consultant_comparison_fig = create_consultant_comparison_plots()
-        if consultant_comparison_fig is not None:
-            st.plotly_chart(consultant_comparison_fig, use_container_width=True)
+        metrics_path = "ca_cafo_compliance/outputs/consolidated/2023_R5_consultant_metrics.csv"
+        df = pd.read_csv(metrics_path)
+        consultants = df["Template"]
+
+        # Each entry: (metric_prefix, legend_name, color, subplot_col, fmt, y_axis_title)
+        panels = [
+            ("USDA Nitrogen % Deviation", "USDA Estimate", "blue", 1, ".0f", "%"),
+            ("UCCE Nitrogen % Deviation", "UCCE Estimate", "lightblue", 1, ".0f", None),
+            (
+                "Wastewater Ratio",
+                "Based on Reported Milk",
+                "red",
+                2,
+                ".2f",
+                "Liters per Liter Milk",
+            ),
+            ("Manure Factor", "Annual Production", "green", 3, ".0f", "Manure per Cow"),
+        ]
+
+        consultant_fig = make_subplots(
+            rows=1,
+            cols=3,
+            subplot_titles=(
+                "Nitrogen Deviation",
+                "Wastewater to Milk",
+                "Manure Factor",
+            ),
+            horizontal_spacing=0.15,
+        )
+
+        for metric, name, color, col, fmt, y_title in panels:
+            y = df[f"{metric} Average"]
+            y_std = df[f"{metric} Standard Deviation"]
+            error_y = (
+                None
+                if y_std.isnull().all()
+                else dict(type="data", array=np.nan_to_num(y_std).tolist(), visible=True)
+            )
+            consultant_fig.add_trace(
+                go.Bar(
+                    x=consultants,
+                    y=y,
+                    name=name,
+                    marker_color=color,
+                    error_y=error_y,
+                    text=[format(v, fmt) if not np.isnan(v) else "" for v in y],
+                    textposition="auto",
+                    showlegend=False,
+                ),
+                row=1,
+                col=col,
+            )
+            if y_title:
+                consultant_fig.update_yaxes(title_text=y_title, row=1, col=col)
+
+        consultant_fig.update_layout(
+            showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40)
+        )
+        st.plotly_chart(consultant_fig, use_container_width=True)
 
         # Raw data
         st.subheader("Raw Data")
@@ -1053,9 +878,7 @@ def main():
             "6B": "R6B",
         }
         vdf["Region"] = vdf["RB"].map(rb_map).fillna(vdf["RB"])
-        summary = (
-            vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
-        )
+        summary = vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
         summary_pivot = (
             summary.pivot(index="Region", columns="Violation Type", values="Count")
             .fillna(0)
@@ -1209,9 +1032,7 @@ def main():
         filtered_df = reports_df[reports_df["region_label"].isin(selected_regions)]
 
         # Calculate totals for pie chart
-        acquired = (
-            pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
-        )
+        acquired = pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
         total = pd.to_numeric(filtered_df["total"], errors="coerce").fillna(0).sum()
         not_acquired = total - acquired
 

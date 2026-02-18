@@ -14,18 +14,33 @@ REGIONS = sorted(county_region_df["region"].unique().tolist())
 
 # Create consultant mapping from templates.csv
 templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
-consultant_mapping = dict(
-    zip(templates_df["template_key"], templates_df["template_name"])
-)
+TEMPLATE_KEY_TO_NAME = dict(zip(templates_df["template_key"], templates_df["template_name"]))
 
 GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
 
 OCR_METHODS = ["llmwhisperer", "tesseract"]
 
+_KEEP_UPPER = {"LLC", "GPM", "INC", "CA", "DBA", "NA", "N/A"}
 
-def extract_value_from_line(
-    line, item_order=None, ignore_before=None, ignore_after=None
-):
+
+def _smart_title(s):
+    """Title-case that preserves apostrophe contractions (Hauler's) and common abbreviations (LLC, GPM)."""
+    result = []
+    for word in s.split():
+        upper = word.upper().strip(".,;:()")
+        if upper in _KEEP_UPPER:
+            result.append(word.upper())
+        else:
+            # Use .title() then fix apostrophe/quote mid-word caps: "Hauler'S" -> "Hauler's"
+            titled = word.title()
+            titled = re.sub(
+                r"(['\u2019])([A-Z])", lambda m: m.group(1) + m.group(2).lower(), titled
+            )
+            result.append(titled)
+    return " ".join(result)
+
+
+def extract_value_from_line(line, item_order=None, ignore_before=None, ignore_after=None):
     """Extract value from a line using item_order, ignore_before, and ignore_after."""
     if not isinstance(line, str):
         line = str(line)
@@ -148,6 +163,7 @@ def clean_common_errors(text):
         " Doing": " Dairy",
         "Daing": "Dairy",
         "Dainy": "Dairy",
+        "Daire": "Dairy",
         "Cubie": "Cubic",
         "Havler": "Hauler",
         "[]": "",  # for false checkmarks in llmwhisperer
@@ -209,9 +225,7 @@ def get_default_value(param_key, data_types, defaults):
     return default
 
 
-def extract_parameters_from_text(
-    text, template, param_locations_df, data_types, defaults
-):
+def extract_parameters_from_text(text, template, param_locations_df, data_types, defaults):
     """Extract all parameters for a template. Returns dict with parameter_key as keys."""
     result = {}
     template_params = param_locations_df[param_locations_df["template"] == template]
@@ -265,9 +279,7 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
 
     # Helper: find index of first line containing search text
     def find_line_idx(line_list):
-        return next(
-            (i for i, ln in enumerate(line_list) if search_lower in ln.lower()), None
-        )
+        return next((i for i, ln in enumerate(line_list) if search_lower in ln.lower()), None)
 
     # Helper: get next non-empty line after index
     def next_non_empty(start_idx):
@@ -291,9 +303,7 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
         idx = line.lower().find(str(row_search_text).lower())
         if idx != -1:
             line = line[idx + len(str(row_search_text)) :].strip()
-        extracted_text = extract_value_from_line(
-            line, item_order, ignore_before, ignore_after
-        )
+        extracted_text = extract_value_from_line(line, item_order, ignore_before, ignore_after)
 
     elif direction == "above":
         if phrase_idx > 0:
@@ -336,9 +346,7 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
             # Check for spillover to next line
             if actual_idx is not None:
                 _, next_line = next_non_empty(actual_idx)
-                if next_line and not any(
-                    next_line.lower().startswith(s) for s in section_starts
-                ):
+                if next_line and not any(next_line.lower().startswith(s) for s in section_starts):
                     next_line_text = extract_value_from_line(
                         next_line, item_order, ignore_before, ignore_after
                     )
@@ -378,4 +386,4 @@ def find_parameter_value(ocr_text, row, data_types, defaults):
     if value == "N/A" or value == "NA" or value == ".":
         return default()
 
-    return value.title() if isinstance(value, str) else value
+    return _smart_title(value) if isinstance(value, str) else value

@@ -1,93 +1,93 @@
 region,template,parameter_key,page_search_text,search_direction,row_search_text,column_search_text,item_order,ignore_before,ignore_after
-5,generic_r5,dairy_name,NA,right,THE DAIRY,NA,NA,NA,NA
+5,generic_r5,dairy_name,NA,right,the dairy,NA,NA,NA,NA
 5,generic_r5,dairy_address,NA,below,address of dairy,NA,NA,NA,NA
-5,generic_r5,avg_milk_cows,NA,right,Average number,NA,0,NA,NA
-5,generic_r5,avg_dry_cows,NA,right,Average number,NA,1,NA,NA
-5,generic_r5,avg_bred_heifers,NA,right,Average number,NA,2,NA,NA
-5,generic_r5,avg_heifers,NA,right,Average number,NA,3,NA,NA
-5,generic_r5,avg_calves_4_6_mo,NA,right,Average number,NA,4,NA,NA
-5,generic_r5,avg_calves_0_3_mo,NA,right,Average number,NA,5,NA,NA
+5,generic_r5,avg_milk_cows,NA,right,average number,NA,0,NA,NA
+5,generic_r5,avg_dry_cows,NA,right,average number,NA,1,NA,NA
+5,generic_r5,avg_bred_heifers,NA,right,average number,NA,2,NA,NA
+5,generic_r5,avg_heifers,NA,right,average number,NA,3,NA,NA
+5,generic_r5,avg_calves_4_6_mo,NA,right,average number,NA,4,NA,NA
+5,generic_r5,avg_calves_0_3_mo,NA,right,average number,NA,5,NA,NA
 5,generic_r5,avg_other,NA,NA,NA,NA,NA,NA,NA
 5,generic_r5,total_manure_gen_tons,NA,right,excreted by the herd,NA,NA,NA,str
-5,generic_r5,avg_milk_lb_per_cow_day,NA,right,Average milk production,NA,NA,NA,str
+5,generic_r5,avg_milk_lb_per_cow_day,NA,right,average milk production,NA,NA,NA,str
 5,generic_r5,total_manure_gen_n_after_nh3_losses_lbs,NA,right,loss applied),NA,NA,NA,lbs
-5,generic_r5,total_manure_gen_n_lbs,NA,right,Total nitrogen from manure,NA,NA,NA,lbs
-5,generic_r5,total_manure_gen_p_lbs,NA,right,Total phosphorus from manure,NA,NA,NA,lbs
-5,generic_r5,total_manure_gen_k_lbs,NA,right,Total potassium from manure,NA,NA,NA,lbs
-5,generic_r5,total_manure_gen_salt_lbs,NA,right,Total salt from manure,NA,NA,NA,lbs
-5,generic_r5,total_ww_gen_gals,PROCESS WASTEWATER GENERATED,right,water generated,NA,NA,NA,str
-5,generic_r5,total_ww_gen_n_lbs,PROCESS WASTEWATER GENERATED,right,nitrogen generated,NA,NA,NA,str
-5,generic_r5,total_ww_gen_p_lbs,PROCESS WASTEWATER GENERATED,right,phosphorus generated,NA,NA,NA,str
-5,generic_r5,total_ww_gen_k_lbs,PROCESS WASTEWATER GENERATED,right,potassium generated,NA,NA,NA,str
-5,generic_r5,total_ww_gen_salt_lbs,NA,right,Total salt generated,NA,NA,NA,lbs
-5,generic_r5,applied_n_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,0,NA,NA
-5,generic_r5,applied_p_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,1,NA,NA
-5,generic_r5,applied_k_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,2,NA,NA
-5,generic_r5,applied_salt_dry_manure_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Dry manure,NA,3,NA,NA
-5,generic_r5,applied_ww_gals,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,0,NA,NA
-5,generic_r5,applied_ww_n_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,0,NA,NA
-5,generic_r5,applied_ww_p_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,1,NA,NA
-5,generic_r5,applied_ww_k_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,2,NA,NA
-5,generic_r5,applied_ww_salt_lbs,SUMMARY OF NUTRIENT APPLICATIONS,right,Process wastewater,NA,3,NA,NA
-5,generic_r5,applied_to_removed_ratio_n,SUMMARY OF NUTRIENT APPLICATIONS,right,to removed ratio,NA,0,NA,NA
-5,generic_r5,applied_to_removed_ratio_p,SUMMARY OF NUTRIENT APPLICATIONS,right,to removed ratio,NA,1,NA,NA
-5,generic_r5,applied_to_removed_ratio_k,SUMMARY OF NUTRIENT APPLICATIONS,right,to removed ratio,NA,2,NA,NA
-5,generic_r5,applied_to_removed_ratio_salt,SUMMARY OF NUTRIENT APPLICATIONS,right,to removed ratio,NA,3,NA,NA
+5,generic_r5,total_manure_gen_n_lbs,NA,right,total nitrogen from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_p_lbs,NA,right,total phosphorus from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_k_lbs,NA,right,total potassium from manure,NA,NA,NA,lbs
+5,generic_r5,total_manure_gen_salt_lbs,NA,right,total salt from manure,NA,NA,NA,lbs
+5,generic_r5,total_ww_gen_gals,process wastewater generated,right,water generated,NA,NA,NA,str
+5,generic_r5,total_ww_gen_n_lbs,process wastewater generated,right,nitrogen generated,NA,NA,NA,str
+5,generic_r5,total_ww_gen_p_lbs,process wastewater generated,right,phosphorus generated,NA,NA,NA,str
+5,generic_r5,total_ww_gen_k_lbs,process wastewater generated,right,potassium generated,NA,NA,NA,str
+5,generic_r5,total_ww_gen_salt_lbs,NA,right,total salt generated,NA,NA,NA,lbs
+5,generic_r5,applied_n_dry_manure_lbs,summary of nutrient applications,right,dry manure,NA,0,NA,NA
+5,generic_r5,applied_p_dry_manure_lbs,summary of nutrient applications,right,dry manure,NA,1,NA,NA
+5,generic_r5,applied_k_dry_manure_lbs,summary of nutrient applications,right,dry manure,NA,2,NA,NA
+5,generic_r5,applied_salt_dry_manure_lbs,summary of nutrient applications,right,dry manure,NA,3,NA,NA
+5,generic_r5,applied_ww_gals,summary of nutrient applications,right,process wastewater,NA,0,NA,NA
+5,generic_r5,applied_ww_n_lbs,summary of nutrient applications,right,process wastewater,NA,0,NA,NA
+5,generic_r5,applied_ww_p_lbs,summary of nutrient applications,right,process wastewater,NA,1,NA,NA
+5,generic_r5,applied_ww_k_lbs,summary of nutrient applications,right,process wastewater,NA,2,NA,NA
+5,generic_r5,applied_ww_salt_lbs,summary of nutrient applications,right,process wastewater,NA,3,NA,NA
+5,generic_r5,applied_to_removed_ratio_n,summary of nutrient applications,right,to removed ratio,NA,0,NA,NA
+5,generic_r5,applied_to_removed_ratio_p,summary of nutrient applications,right,to removed ratio,NA,1,NA,NA
+5,generic_r5,applied_to_removed_ratio_k,summary of nutrient applications,right,to removed ratio,NA,2,NA,NA
+5,generic_r5,applied_to_removed_ratio_salt,summary of nutrient applications,right,to removed ratio,NA,3,NA,NA
 5,innovative_ag,dairy_name,NA,right,name of dairy,NA,NA,NA,NA
 5,innovative_ag,dairy_address,NA,right,facility address,NA,NA,NA,NA
-5,innovative_ag,avg_milk_cows,Estimated Manure and Nutrients Generated,right,Milk Cows,NA,1,),NA
-5,innovative_ag,avg_dry_cows,Estimated Manure and Nutrients Generated,right,Dry Cows,NA,1,),NA
-5,innovative_ag,avg_bred_heifers,Estimated Manure and Nutrients Generated,right,Bred Heifers,NA,1,),NA
-5,innovative_ag,avg_heifers,Estimated Manure and Nutrients Generated,right,Heifers,NA,1,),NA
-5,innovative_ag,avg_calves_4_6_mo,Estimated Manure and Nutrients Generated,right,Calves (4-12),NA,1,),NA
-5,innovative_ag,avg_calves_0_3_mo,Estimated Manure and Nutrients Generated,right,Calves (0-3),NA,1,),NA
+5,innovative_ag,avg_milk_cows,estimated manure and nutrients generated,right,milk cows,NA,1,),NA
+5,innovative_ag,avg_dry_cows,estimated manure and nutrients generated,right,dry cows,NA,1,),NA
+5,innovative_ag,avg_bred_heifers,estimated manure and nutrients generated,right,bred heifers,NA,1,),NA
+5,innovative_ag,avg_heifers,estimated manure and nutrients generated,right,heifers,NA,1,),NA
+5,innovative_ag,avg_calves_4_6_mo,estimated manure and nutrients generated,right,calves (4-12),NA,1,),NA
+5,innovative_ag,avg_calves_0_3_mo,estimated manure and nutrients generated,right,calves (0-3),NA,1,),NA
 5,innovative_ag,avg_other,NA,NA,NA,NA,NA,NA,NA
-5,innovative_ag,total_manure_gen_tons,Estimated Manure and Nutrients Generated,above,Average No. of Head,,2,NA,NA
-5,innovative_ag,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,,Milk Production,NA,-1,NA,NA
-5,innovative_ag,total_manure_gen_n_after_nh3_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA
-5,innovative_ag,total_manure_gen_n_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,3,NA,NA
-5,innovative_ag,total_manure_gen_p_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,4,NA,NA
-5,innovative_ag,total_manure_gen_k_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,5,NA,NA
-5,innovative_ag,total_manure_gen_salt_lbs,Estimated Manure and Nutrients Generated,above,Average No. of Head,,6,NA,NA
-5,innovative_ag,total_ww_gen_gals,Total Kjeldahl Nitrogen,above,,NA,5,NA,NA
-5,innovative_ag,total_ww_gen_n_lbs,Total Kjeldahl Nitrogen,above,,NA,6,NA,NA
-5,innovative_ag,total_ww_gen_p_lbs,Total Kjeldahl Nitrogen,above,,NA,7,NA,NA
-5,innovative_ag,total_ww_gen_k_lbs,Total Kjeldahl Nitrogen,above,,NA,8,NA,NA
-5,innovative_ag,total_ww_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,Total Salt,NA,NA,NA,NA
-5,innovative_ag,applied_n_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
-5,innovative_ag,applied_p_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
-5,innovative_ag,applied_k_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
-5,innovative_ag,applied_salt_dry_manure_lbs,summary of nutrient applications,,Solid Manure,NA,NA,NA,NA
-5,innovative_ag,applied_ww_n_lbs,summary of nutrient applications,,Process Wastewater,Total N (Lbs),NA,NA,NA
-5,innovative_ag,applied_ww_p_lbs,summary of nutrient applications,,Process Wastewater,Total P (Lbs),NA,NA,NA
-5,innovative_ag,applied_ww_k_lbs,summary of nutrient applications,,Process Wastewater,Total K (Lbs),NA,NA,NA
-5,innovative_ag,applied_ww_salt_lbs,summary of nutrient applications,,Process Wastewater,Total Salts (Lbs),NA,NA,NA
-5,innovative_ag,applied_to_removed_ratio_n,summary of nutrient applications,,Nitrogen Ratio,Total N (Lbs),NA,NA,NA
+5,innovative_ag,total_manure_gen_tons,estimated manure and nutrients generated,above,average No. of Head,,2,NA,NA
+5,innovative_ag,avg_milk_lb_per_cow_day,estimated manure and nutrients generated,,milk production,NA,-1,NA,NA
+5,innovative_ag,total_manure_gen_n_after_nh3_losses_lbs,estimated manure and nutrients generated,below,total N after ammonia losses,NA,-1,NA,NA
+5,innovative_ag,total_manure_gen_n_lbs,estimated manure and nutrients generated,above,average No. of Head,,3,NA,NA
+5,innovative_ag,total_manure_gen_p_lbs,estimated manure and nutrients generated,above,average No. of Head,,4,NA,NA
+5,innovative_ag,total_manure_gen_k_lbs,estimated manure and nutrients generated,above,average No. of Head,,5,NA,NA
+5,innovative_ag,total_manure_gen_salt_lbs,estimated manure and nutrients generated,above,average No. of Head,,6,NA,NA
+5,innovative_ag,total_ww_gen_gals,total kjeldahl nitrogen,above,,NA,5,NA,NA
+5,innovative_ag,total_ww_gen_n_lbs,total kjeldahl nitrogen,above,,NA,6,NA,NA
+5,innovative_ag,total_ww_gen_p_lbs,total kjeldahl nitrogen,above,,NA,7,NA,NA
+5,innovative_ag,total_ww_gen_k_lbs,total kjeldahl nitrogen,above,,NA,8,NA,NA
+5,innovative_ag,total_ww_gen_salt_lbs,estimated manure and nutrients generated,below,total salt,NA,NA,NA,NA
+5,innovative_ag,applied_n_dry_manure_lbs,summary of nutrient applications,,solid manure,NA,NA,NA,NA
+5,innovative_ag,applied_p_dry_manure_lbs,summary of nutrient applications,,solid manure,NA,NA,NA,NA
+5,innovative_ag,applied_k_dry_manure_lbs,summary of nutrient applications,,solid manure,NA,NA,NA,NA
+5,innovative_ag,applied_salt_dry_manure_lbs,summary of nutrient applications,,solid manure,NA,NA,NA,NA
+5,innovative_ag,applied_ww_n_lbs,summary of nutrient applications,,process wastewater,total n (lbs),NA,NA,NA
+5,innovative_ag,applied_ww_p_lbs,summary of nutrient applications,,process wastewater,total p (lbs),NA,NA,NA
+5,innovative_ag,applied_ww_k_lbs,summary of nutrient applications,,process wastewater,total k (lbs),NA,NA,NA
+5,innovative_ag,applied_ww_salt_lbs,summary of nutrient applications,,process wastewater,total salts (lbs),NA,NA,NA
+5,innovative_ag,applied_to_removed_ratio_n,summary of nutrient applications,,nitrogen ratio,total n (lbs),NA,NA,NA
 5,innovative_ag,applied_to_removed_ratio_p,NA,NA,NA,NA,NA,NA,NA
 5,innovative_ag,applied_to_removed_ratio_k,NA,NA,NA,NA,NA,NA,NA
 5,innovative_ag,applied_to_removed_ratio_salt,NA,NA,NA,NA,NA,NA,NA
 5,livingston,dairy_name,NA,right,dairy name,NA,NA,NA,wdid
 5,livingston,dairy_address,NA,right,facility address,NA,NA,NA,NA
-5,livingston,avg_milk_cows,Herd Information,right,average number,NA,0,NA,NA
-5,livingston,avg_dry_cows,Herd Information,right,average number,NA,1,NA,NA
-5,livingston,avg_bred_heifers,Herd Information,right,average number,NA,2,NA,NA
-5,livingston,avg_heifers,Herd Information,right,average number,NA,3,NA,NA
-5,livingston,avg_calves_4_6_mo,Herd Information,right,average number,NA,4,NA,NA
-5,livingston,avg_calves_0_3_mo,Herd Information,right,average number,NA,5,NA,NA
+5,livingston,avg_milk_cows,herd information,right,average number,NA,0,NA,NA
+5,livingston,avg_dry_cows,herd information,right,average number,NA,1,NA,NA
+5,livingston,avg_bred_heifers,herd information,right,average number,NA,2,NA,NA
+5,livingston,avg_heifers,herd information,right,average number,NA,3,NA,NA
+5,livingston,avg_calves_4_6_mo,herd information,right,average number,NA,4,NA,NA
+5,livingston,avg_calves_0_3_mo,herd information,right,average number,NA,5,NA,NA
 5,livingston,avg_other,NA,NA,NA,NA,NA,NA,NA
-5,livingston,total_manure_gen_tons,Manure Generated,below,excreted by the herd,NA,-1,NA,NA
-5,livingston,total_manure_gen_n_lbs,Manure Generated,below,Total nitrogen from manure,NA,-1,NA,NA
-5,livingston,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA
-5,livingston,total_manure_gen_n_after_nh3_losses_lbs,Herd Information,right,excreted by the herd,NA,NA,NA,NA
-5,livingston,total_manure_gen_n_lbs,Herd Information,right,nitrogen from manure,NA,NA,NA,NA
+5,livingston,total_manure_gen_tons,manure generated,below,excreted by the herd,NA,-1,NA,NA
+5,livingston,total_manure_gen_n_lbs,manure generated,below,total nitrogen from manure,NA,-1,NA,NA
+5,livingston,avg_milk_lb_per_cow_day,estimated manure and nutrients generated,below,milk production,NA,-1,NA,NA
+5,livingston,total_manure_gen_n_after_nh3_losses_lbs,herd information,right,excreted by the herd,NA,NA,NA,NA
+5,livingston,total_manure_gen_n_lbs,herd information,right,nitrogen from manure,NA,NA,NA,NA
 5,livingston,total_manure_gen_p_lbs,NA,NA,NA,NA,NA,NA,NA
 5,livingston,total_manure_gen_k_lbs,NA,NA,NA,NA,NA,NA,NA
-5,livingston,total_manure_gen_salt_lbs,Herd Information,below,After Ammonia,NA,NA,NA,NA
+5,livingston,total_manure_gen_salt_lbs,herd information,below,after ammonia,NA,NA,NA,NA
 5,livingston,total_ww_gen_gals,process wastewater generated,right,process wastewater gen,NA,-1,NA,NA
-5,livingston,total_ww_gen_n_lbs,Herd Information,right,nitrogen gen,NA,NA,NA,NA
+5,livingston,total_ww_gen_n_lbs,herd information,right,nitrogen gen,NA,NA,NA,NA
 5,livingston,total_ww_gen_p_lbs,,,NA,NA,NA,NA,NA
 5,livingston,total_ww_gen_k_lbs,,,NA,NA,NA,NA,NA
-5,livingston,total_ww_gen_salt_lbs,Estimated Manure and Nutrients Generated,below,(TDS) gen,NA,NA,NA,NA
+5,livingston,total_ww_gen_salt_lbs,estimated manure and nutrients generated,below,(TDS) gen,NA,NA,NA,NA
 2,generic_r2,dairy_name,NA,right,facility name,NA,NA,NA,facility address
 2,generic_r2,dairy_address,NA,right,facility address,NA,NA,NA,NA
 2,generic_r2,avg_milk_cows,NA,right,dry),NA,0,NA,str
@@ -109,49 +109,49 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 7,generic_r7,avg_other,number in open,right,cattle,NA,NA,NA,str
 7,generic_r7,avg_steer,number in open,right,steer,NA,NA,NA,str
 7,generic_r7,total_manure_gen_tons,,right,manure generated during the reporting period,NA,NA,NA,str
-7,generic_r7,avg_milk_lb_per_cow_day,Estimated Manure and Nutrients Generated,below,Milk Production,NA,-1,NA,NA
-7,generic_r7,total_manure_gen_n_after_nh3_losses_lbs,Estimated Manure and Nutrients Generated,below,Total N After Ammonia Losses,NA,-1,NA,NA
-7,generic_r7,total_manure_gen_n_lbs,Estimated Manure and Nutrients Generated,below,NITROGEN,NA,-1,NA,NA
-7,generic_r7,total_manure_gen_p_lbs,Estimated Manure and Nutrients Generated,below,PHOSPHORUS,NA,-1,NA,NA
-7,generic_r7,total_manure_gen_k_lbs,Estimated Manure and Nutrients Generated,below,POTASSIUM,NA,-1,NA,NA
-7,generic_r7,total_manure_gen_salt_lbs,Estimated Manure and Nutrients Generated,right,SALTS,NA,-1,NA,NA
-7,generic_r7,applied_n_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,0,NA,NA
-7,generic_r7,applied_p_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,1,NA,NA
-7,generic_r7,applied_k_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,2,NA,NA
-7,generic_r7,applied_salt_dry_manure_lbs,LAND APPLICATION OF MANURE,right,Solid Manure,NA,3,NA,NA
-7,generic_r7,applied_ww_n_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,0,NA,NA
-7,generic_r7,applied_ww_p_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,1,NA,NA
-7,generic_r7,applied_ww_k_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,2,NA,NA
-7,generic_r7,applied_ww_salt_lbs,LAND APPLICATION OF MANURE,right,Process wastewater,NA,3,NA,NA
-5,provost_pritchard,dairy_name,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA
-5,provost_pritchard,dairy_address,2023 ANNUAL REPORT,below,Prepared for,NA,NA,NA,NA
-5,provost_pritchard,avg_milk_cows,confimenent under,right,Milk Cows,,1,NA,NA
-5,provost_pritchard,avg_dry_cows,confimenent under,right,Dry Cows,,1,NA,NA
-5,provost_pritchard,avg_bred_heifers,confimenent under,right,Bred Heifers,,1,NA,NA
-5,provost_pritchard,avg_heifers,confimenent under,right,Heifers,,1,NA,NA
-5,provost_pritchard,avg_calves_4_6_mo,confimenent under,right,Calves 4-6 Months,,1,NA,NA
-5,provost_pritchard,avg_calves_0_3_mo,confimenent under,right,Calves 0-3 Months,,1,NA,NA
-5,provost_pritchard,avg_other,confimenent under,right,Other,Average,NA,NA,NA
-5,provost_pritchard,total_manure_gen_tons,confimenent under,right,Total Manure Generated (tons),NA,NA,NA,NA
-5,provost_pritchard,avg_milk_lb_per_cow_day,confimenent under,right,Average Milk Production,NA,NA,NA,NA
-5,provost_pritchard,total_manure_gen_n_after_nh3_losses_lbs,confimenent under,right,Total Nitrogen After Ammonia Losses,NA,NA,NA,NA
-5,provost_pritchard,total_manure_gen_n_lbs,,right,Total Nitrogen,NA,NA,NA,NA
-5,provost_pritchard,total_manure_gen_p_lbs,confimenent under,right,Total Phosphorus,NA,NA,NA,NA
-5,provost_pritchard,total_manure_gen_k_lbs,confimenent under,right,Total Potassium,NA,NA,NA,NA
-5,provost_pritchard,total_manure_gen_salt_lbs,confimenent under,right,Total Salts,NA,NA,NA,NA
+7,generic_r7,avg_milk_lb_per_cow_day,estimated manure and nutrients generated,below,milk production,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_n_after_nh3_losses_lbs,estimated manure and nutrients generated,below,total N after ammonia losses,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_n_lbs,estimated manure and nutrients generated,below,nitrogen,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_p_lbs,estimated manure and nutrients generated,below,phosphorus,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_k_lbs,estimated manure and nutrients generated,below,potassium,NA,-1,NA,NA
+7,generic_r7,total_manure_gen_salt_lbs,estimated manure and nutrients generated,right,salts,NA,-1,NA,NA
+7,generic_r7,applied_n_dry_manure_lbs,LAND APPLICATION OF MANURE,right,solid manure,NA,0,NA,NA
+7,generic_r7,applied_p_dry_manure_lbs,LAND APPLICATION OF MANURE,right,solid manure,NA,1,NA,NA
+7,generic_r7,applied_k_dry_manure_lbs,LAND APPLICATION OF MANURE,right,solid manure,NA,2,NA,NA
+7,generic_r7,applied_salt_dry_manure_lbs,LAND APPLICATION OF MANURE,right,solid manure,NA,3,NA,NA
+7,generic_r7,applied_ww_n_lbs,LAND APPLICATION OF MANURE,right,process wastewater,NA,0,NA,NA
+7,generic_r7,applied_ww_p_lbs,LAND APPLICATION OF MANURE,right,process wastewater,NA,1,NA,NA
+7,generic_r7,applied_ww_k_lbs,LAND APPLICATION OF MANURE,right,process wastewater,NA,2,NA,NA
+7,generic_r7,applied_ww_salt_lbs,LAND APPLICATION OF MANURE,right,process wastewater,NA,3,NA,NA
+5,provost_pritchard,dairy_name,2023 ANNUAL REPORT,below,prepared for,NA,NA,NA,NA
+5,provost_pritchard,dairy_address,2023 ANNUAL REPORT,below,prepared for,NA,NA,NA,NA
+5,provost_pritchard,avg_milk_cows,confimenent under,right,milk cows,,1,NA,NA
+5,provost_pritchard,avg_dry_cows,confimenent under,right,dry cows,,1,NA,NA
+5,provost_pritchard,avg_bred_heifers,confimenent under,right,bred heifers,,1,NA,NA
+5,provost_pritchard,avg_heifers,confimenent under,right,heifers,,1,NA,NA
+5,provost_pritchard,avg_calves_4_6_mo,confimenent under,right,calves 4-6 Months,,1,NA,NA
+5,provost_pritchard,avg_calves_0_3_mo,confimenent under,right,calves 0-3 Months,,1,NA,NA
+5,provost_pritchard,avg_other,confimenent under,right,Other,average,NA,NA,NA
+5,provost_pritchard,total_manure_gen_tons,confimenent under,right,total manure generated (tons),NA,NA,NA,NA
+5,provost_pritchard,avg_milk_lb_per_cow_day,confimenent under,right,average milk production,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_n_after_nh3_losses_lbs,confimenent under,right,total nitrogen after ammonia losses,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_n_lbs,,right,total nitrogen,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_p_lbs,confimenent under,right,total phosphorus,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_k_lbs,confimenent under,right,total potassium,NA,NA,NA,NA
+5,provost_pritchard,total_manure_gen_salt_lbs,confimenent under,right,total salts,NA,NA,NA,NA
 5,provost_pritchard,total_ww_gen_gals,NA,below,000 gals,NA,0,NA,NA
 5,provost_pritchard,total_ww_gen_n_lbs,NA,below,000 gals,NA,1,NA,NA
 5,provost_pritchard,total_ww_gen_p_lbs,NA,below,000 gals,NA,2,NA,NA
 5,provost_pritchard,total_ww_gen_k_lbs,NA,below,000 gals,NA,3,NA,NA
 5,provost_pritchard,total_ww_gen_salt_lbs,NA,below,000 gals,NA,4,NA,NA
-8,r8_csv,dairy_name,NA,right,Facility Name,NA,NA,NA,NA
-8,r8_csv,dairy_address,NA,right,Facility Address,NA,NA,NA,NA
-8,r8_csv,avg_milk_cows,NA,right,Milking Cows,NA,0,NA,NA
-8,r8_csv,avg_dry_cows,NA,right,Dry Cows,NA,0,NA,NA
+8,r8_csv,dairy_name,NA,right,facility name,NA,NA,NA,NA
+8,r8_csv,dairy_address,NA,right,facility address,NA,NA,NA,NA
+8,r8_csv,avg_milk_cows,NA,right,milking cows,NA,0,NA,NA
+8,r8_csv,avg_dry_cows,NA,right,dry cows,NA,0,NA,NA
 8,r8_csv,avg_bred_heifers,NA,NA,NA,NA,0,NA,NA
-8,r8_csv,avg_heifers,NA,right,Heifers,NA,0,NA,NA
+8,r8_csv,avg_heifers,NA,right,heifers,NA,0,NA,NA
 8,r8_csv,avg_calves_4_6_mo,NA,NA,NA,NA,0,NA,NA
-8,r8_csv,avg_calves_0_3_mo,NA,right,Calves,NA,0,NA,NA
+8,r8_csv,avg_calves_0_3_mo,NA,right,calves,NA,0,NA,NA
 8,r8_csv,avg_other,NA,right,Other,NA,0,NA,NA
 1,generic_r1,dairy_name,facility information,right,facility,NA,NA,NA,address
 1,generic_r1,dairy_address,NA,right,address,NA,NA,NA,NA
@@ -163,115 +163,118 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 1,generic_r1,avg_calves_0_3_mo,NA,NA,NA,NA,0,NA,NA
 1,generic_r1,avg_other,NA,NA,NA,NA,NA,NA,NA
 1,generic_r1,total_manure_gen_tons,NA,NA,manure produced,NA,0,NA,NA
-5,R5-2007-0035_software,origin_dairy_name,Operator,right,Dairy Facility,NA,NA,Facility,NA
-5,R5-2007-0035_software,origin_dairy_address,Operator,below,Facility Address,NA,NA,Address,Number
-5,R5-2007-0035_software,hauler_name,Hauler,right,Company/Person,NA,NA,/Person,NA
-5,R5-2007-0035_software,hauler_address,Hauler,below,Address of Hauling Company/Person,NA,NA,/Person,Number
+5,R5-2007-0035_software,origin_dairy_name,Operator,right,dairy facility,NA,NA,facility,NA
+5,R5-2007-0035_software,origin_dairy_address,Operator,below,facility address,NA,NA,address,number
+5,R5-2007-0035_software,hauler_name,hauler,right,company/person,NA,NA,/person,NA
+5,R5-2007-0035_software,hauler_address,hauler,below,address of hauling company/person,NA,NA,/person,number
 5,R5-2007-0035_software,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_software,destination_name,NA,below,information of Composting,NA,NA,NA,NA
-5,R5-2007-0035_software,destination_address,DESTINATION,below,Destination Address,NA,NA,NA,Address
-5,R5-2007-0035_software,destination_nearest_cross_street,DESTINATION,above,cross street,NA,NA,NA,Assessor|Address
-5,R5-2007-0035_software,destination_parcel_number,DESTINATION,below,cross street,NA,NA,NA,Last|Assessor
+5,R5-2007-0035_software,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2007-0035_software,destination_contact_address,information of composting,below,phone number,NA,NA,NA,name
+5,R5-2007-0035_software,destination_address,destination,below,destination address,NA,NA,NA,address
+5,R5-2007-0035_software,destination_nearest_cross_street,destination,above,cross street,NA,NA,NA,assessor|address
+5,R5-2007-0035_software,destination_parcel_number,destination,below,cross street,NA,NA,NA,last|assessor
 5,R5-2007-0035_software,haul_date,NA,right,date hauled,NA,NA,hauled,NA
-5,R5-2007-0035_software,wastewater_amount,process wastewater hauled,right,Wastewater,NA,NA,NA,Gallons|(If Amount Reported
-5,R5-2007-0035_software,manure_amount,calculate,right,Manure,NA,NA,NA,Tons|(If Amount Reported
-5,R5-2007-0035_software,manure_solids_percent,calculate,right,Solids Content,NA,NA,NA,(If Amount Reported|%
+5,R5-2007-0035_software,wastewater_amount,process wastewater hauled,right,wastewater,NA,NA,NA,gallons|(if amount reported
+5,R5-2007-0035_software,manure_amount,calculate,right,manure,NA,NA,NA,tons|(if amount reported
+5,R5-2007-0035_software,manure_solids_percent,calculate,right,solids content,NA,NA,NA,(if amount reported|%
 5,R5-2007-0035_software,manure_method,calculate,below,determine amount,NA,NA,determine,NA
-5,R5-2007-0035_software,wastewater_method,NA,below,determine volume,NA,NA,determine,Written Agreement
-5,R5-2007-0035_general_order,origin_dairy_name,Operator,right,Dairy Facility,NA,NA,Facility,NA
-5,R5-2007-0035_general_order,origin_dairy_address,Operator,right,Facility Address,NA,NA,Address,Number
-5,R5-2007-0035_general_order,hauler_name,Hauler,right,Company/Person,NA,NA,/Person,NA|Name
-5,R5-2007-0035_general_order,hauler_address,Hauler,right,Address of Hauling Company/Person,NA,NA,/Person,Number|Name
+5,R5-2007-0035_software,wastewater_method,NA,below,determine volume,NA,NA,determine,written
+5,R5-2007-0035_general_order,origin_dairy_name,Operator,right,dairy facility,NA,NA,facility,NA
+5,R5-2007-0035_general_order,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
+5,R5-2007-0035_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA|name
+5,R5-2007-0035_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number|name
 5,R5-2007-0035_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_general_order,destination_name,NA,below,information of Composting,NA,NA,NA,Name
-5,R5-2007-0035_general_order,destination_address,DESTINATION,below,Destination Address,NA,NA,NA,Number|Name
-5,R5-2007-0035_general_order,haul_date,NA,right,Dates Hauled,NA,NA,NA,NA
-5,R5-2007-0035_general_order,wastewater_amount,determine the,right,Wastewater,NA,NA,Wastewater,Gallons|(If Amount Reported
-5,R5-2007-0035_general_order,manure_amount,calculate,right,Manure,NA,NA,Manure,Tons|(If Amount Reported
-5,R5-2007-0035_general_order,manure_solids_percent,calculate,right,Solids Content,NA,NA,Tons),%
-5,R5-2007-0035_general_order,manure_method,calculate,right_below,amount of manure,NA,NA,NA,Enter|the amount
-5,R5-2007-0035_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,Process Wastewater,Written Agreement|Enter
-5,R5-2007-0035_one_page_1,origin_dairy_name,Operator,right,Dairy Facility,NA,NA,Facility,NA
-5,R5-2007-0035_one_page_1,origin_dairy_address,Operator,right,Facility Address,NA,NA,Address,NA
-5,R5-2007-0035_one_page_1,hauler_name,Hauler,right,Company/Person,NA,NA,/Person,NA
-5,R5-2007-0035_one_page_1,hauler_address,Hauler,right,Address of Hauling Company/Person,NA,NA,/Person,Number
+5,R5-2007-0035_general_order,destination_name,NA,below,information of composting,NA,NA,NA,name
+5,R5-2007-0035_general_order,destination_contact_address,NA,below,information of composting,NA,NA,NA,name
+5,R5-2007-0035_general_order,destination_address,destination,below,destination address,NA,NA,NA,number|name
+5,R5-2007-0035_general_order,haul_date,NA,right,dates hauled,NA,NA,NA,NA
+5,R5-2007-0035_general_order,wastewater_amount,determine the,right,wastewater,NA,NA,wastewater,gallons|(if amount reported
+5,R5-2007-0035_general_order,manure_amount,calculate,right,manure,NA,NA,manure,tons|(if amount reported
+5,R5-2007-0035_general_order,manure_solids_percent,calculate,right,solids content,NA,NA,tons),%
+5,R5-2007-0035_general_order,manure_method,calculate,right_below,amount of manure,NA,NA,NA,enter|the amount
+5,R5-2007-0035_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,process wastewater,written|enter
+5,R5-2007-0035_one_page_1,origin_dairy_name,Operator,right,dairy facility,NA,NA,facility,NA
+5,R5-2007-0035_one_page_1,origin_dairy_address,Operator,right,facility address,NA,NA,address,NA
+5,R5-2007-0035_one_page_1,hauler_name,hauler,right,company/person,NA,NA,/person,NA
+5,R5-2007-0035_one_page_1,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2007-0035_one_page_1,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_one_page_1,destination_name,NA,below,information of Composting,NA,NA,NA,NA
-5,R5-2007-0035_one_page_1,destination_address,DESTINATION,below,Destination Address,NA,NA,NA,NA
-5,R5-2007-0035_one_page_1,haul_date,NA,right,Dates Hauled,NA,NA,Hauled,NA
-5,R5-2007-0035_one_page_1,wastewater_amount,determine the,right,Process Wastewater,NA,NA,Wastewater,Gallons
-5,R5-2007-0035_one_page_1,manure_amount,Amount Hauled,right,Manure,NA,0,Manure,Tons
-5,R5-2007-0035_one_page_1,manure_moisture_percent,Moisture,right,Moisture,NA,NA,%,NA
-5,R5-2007-0035_one_page_1,manure_method,calculate,below,determine amount,NA,NA,determine,Enter
-5,R5-2007-0035_one_page_1,wastewater_method,calculate,below,determine volume,NA,NA,determine,Written Agreement|Enter
-5,R5-2007-0035_one_page_2,origin_dairy_name,Waste Generator,right,Facility Name,NA,NA,Facility,Number
-5,R5-2007-0035_one_page_2,origin_dairy_address,Waste Generator,right_below,Facility Address,NA,NA,City/State,Number|Agreement|Declare
-5,R5-2007-0035_one_page_2,hauler_name,Hauler,right,Name,NA,NA,/Person,NA
-5,R5-2007-0035_one_page_2,hauler_address,Hauler,right_below,Facility Address,NA,NA,City/State,Number
-5,R5-2007-0035_one_page_2,destination_type,NA,right,Manure Destination,NA,NA,NA,Signature|of a
-5,R5-2007-0035_one_page_2,destination_name,Destination Information,right,Name,NA,NA,NA,NA
-5,R5-2007-0035_one_page_2,destination_address,DESTINATION Information,right_below,Facility Address,NA,NA,NA,NA
-5,R5-2007-0035_one_page_2,haul_date,NA,below,Dates Hauled,NA,1,Hauled,NA
-5,R5-2007-0035_one_page_2,wastewater_amount,NA,below,Dates Hauled,NA,2,NA,NA
-5,R5-2007-0035_one_page_2,manure_amount,NA,below,Dates Hauled,NA,2,NA,NA
-5,R5-2007-0035_one_page_2,manure_solids_percent,NA,below,Dates Hauled,NA,4,NA,%
-5,R5-2013-0122_general_order,origin_dairy_name,Operator,right,Dairy Facility,NA,NA,Facility,NA
-5,R5-2013-0122_general_order,origin_dairy_address,Operator,right,Facility Address,NA,NA,Address,NA
-5,R5-2013-0122_general_order,hauler_name,Hauler,right,Company/Person,NA,NA,/Person,NA
-5,R5-2013-0122_general_order,hauler_address,Hauler,right,Address of Hauling Company/Person,NA,NA,/Person,Number
+5,R5-2007-0035_one_page_1,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2007-0035_one_page_1,destination_contact_address,destination,below,phone number,NA,NA,NA,address|destination
+5,R5-2007-0035_one_page_1,destination_address,destination,below,destination address,NA,NA,NA,number
+5,R5-2007-0035_one_page_1,haul_date,NA,right,dates hauled,NA,NA,hauled,NA
+5,R5-2007-0035_one_page_1,manure_amount,calculate,right,manure,NA,0,NA,tons
+5,R5-2007-0035_one_page_1,manure_solids_percent,calculate,right,Moisture,NA,NA,%,%
+5,R5-2007-0035_one_page_1,manure_method,calculate,below,determine amount,NA,NA,NA,enter
+5,R5-2007-0035_one_page_1,wastewater_amount,hauled in gallons,right,process wastewater,NA,NA,wastewater,gallons
+5,R5-2007-0035_one_page_1,wastewater_method,calculate,below,determine volume,NA,NA,determine,written agreement
+5,R5-2007-0035_one_page_2,origin_dairy_name,waste generator,right,facility name,NA,NA,facility,number|does
+5,R5-2007-0035_one_page_2,origin_dairy_address,waste generator,right_below,facility address,NA,NA,city/State,number|Agreement|Declare|RWQCD|wastewater
+5,R5-2007-0035_one_page_2,hauler_name,hauler,right,name,NA,NA,/person,NA|name
+5,R5-2007-0035_one_page_2,hauler_address,hauler,right_below,facility address,NA,NA,city/State,number|information|Violations
+5,R5-2007-0035_one_page_2,destination_type,NA,right,manure destination,NA,NA,NA,Signature|of a
+5,R5-2007-0035_one_page_2,destination_name,destination information,right,name,NA,NA,NA,name|Signatures
+5,R5-2007-0035_one_page_2,destination_address,destination information,right_below,facility address,NA,NA,city/State,number
+5,R5-2007-0035_one_page_2,haul_date,NA,below,dates hauled,NA,1,hauled,NA
+5,R5-2007-0035_one_page_2,wastewater_amount,NA,below,dates hauled,NA,2,NA,NA
+5,R5-2007-0035_one_page_2,manure_amount,NA,below,dates hauled,NA,2,NA,NA
+5,R5-2007-0035_one_page_2,manure_moisture_percent,NA,below,dates hauled,NA,4,NA,%
+5,R5-2013-0122_general_order,origin_dairy_name,Operator,right,dairy facility,NA,NA,facility,NA
+5,R5-2013-0122_general_order,origin_dairy_address,Operator,right,facility address,NA,NA,address,NA
+5,R5-2013-0122_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA
+5,R5-2013-0122_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2013-0122_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2013-0122_general_order,destination_name,NA,below,information of Composting,NA,NA,NA,NA
-5,R5-2013-0122_general_order,destination_address,DESTINATION,below,Destination Address,NA,NA,NA,Number
+5,R5-2013-0122_general_order,destination_name,NA,below,information of composting,NA,NA,NA,name
+5,R5-2013-0122_general_order,destination_contact_address,NA,below,information of composting,NA,NA,NA,name
+5,R5-2013-0122_general_order,destination_address,destination,below,destination address,NA,NA,NA,number
 5,R5-2013-0122_general_order,haul_date,NA,right,dates hauled,NA,NA,hauled,NA
-5,R5-2013-0122_general_order,wastewater_amount,determine the,right,Wastewater,NA,NA,NA,Gallons|(If Amount Reported
-5,R5-2013-0122_general_order,manure_amount,calculate,right,Manure,NA,NA,NA,Tons|Amount Reported
-5,R5-2013-0122_general_order,manure_solids_percent,calculate,right,amount reported in tons,NA,NA,NA,Amount Reported|%
-5,R5-2013-0122_general_order,manure_density,calculate,right,Manure Density,NA,NA,Density,NA
-5,R5-2013-0122_general_order,manure_method,calculate,right_below,amount of manure,NA,NA,NA,Enter
-5,R5-2013-0122_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,determine,Written Agreement|Enter
-5,R5-2017-0000_general_order,origin_dairy_name,Operator,below,Name of Facility,NA,NA,NA,Facility Address
-5,R5-2017-0000_general_order,origin_dairy_address,Operator,right,Facility Address,NA,NA,Address,Number
-5,R5-2017-0000_general_order,hauler_name,Hauler,right,Company/Person,NA,NA,/Person,NA
-5,R5-2017-0000_general_order,hauler_address,Hauler,right,Address of Hauling Company/Person,NA,NA,/Person,Number
+5,R5-2013-0122_general_order,wastewater_amount,determine the,right,wastewater,NA,NA,NA,gallons
+5,R5-2013-0122_general_order,manure_amount,calculate,right,manure,NA,NA,NA,tons
+5,R5-2013-0122_general_order,manure_solids_percent,calculate,right,amount reported in tons,NA,NA,),%
+5,R5-2013-0122_general_order,manure_method,calculate,right_below,amount of manure,NA,NA,NA,enter
+5,R5-2013-0122_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,determine,process wastewater|written
+5,R5-2017-0000_general_order,origin_dairy_name,Operator,below,name of facility,NA,NA,NA,facility address
+5,R5-2017-0000_general_order,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
+5,R5-2017-0000_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA
+5,R5-2017-0000_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2017-0000_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2017-0000_general_order,destination_name,NA,below,information of Composting,NA,NA,NA,NA
-5,R5-2017-0000_general_order,destination_address,Destination,below,Destination Address,NA,NA,NA,NA
-5,R5-2017-0000_general_order,haul_date,NA,right,Dates Hauled,NA,NA,NA,NA
-5,R5-2017-0000_general_order,wastewater_amount,hauled in gallons,right,Wastewater,NA,NA,NA,Gallons
-5,R5-2017-0000_general_order,manure_amount,amount,right,Manure,NA,NA,NA,Tons
-5,R5-2017-0000_general_order,manure_solids_percent,amount,right,Solids Content,NA,NA,NA,Method used|%
+5,R5-2017-0000_general_order,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2017-0000_general_order,destination_contact_address,destination,below,phone number,NA,NA,NA,address|destination
+5,R5-2017-0000_general_order,destination_address,destination,below,destination address,NA,NA,NA,NA
+5,R5-2017-0000_general_order,haul_date,NA,right,dates hauled,NA,NA,NA,NA
+5,R5-2017-0000_general_order,wastewater_amount,hauled in gallons,right,wastewater,NA,NA,NA,gallons
+5,R5-2017-0000_general_order,manure_amount,amount,right,manure,NA,NA,NA,tons
+5,R5-2017-0000_general_order,manure_moisture_percent,amount,right,solids content,NA,NA,NA,method used|%
 5,R5-2017-0000_general_order,manure_method,amount,right_below,amount of manure,NA,NA,NA,NA
-5,R5-2017-0000_general_order,wastewater_method,amount,below,determine volume of wastewater,NA,NA,determine,Written Agreement
-5,provost_pritchard_manifest,origin_dairy_name,Dairy Information,above,Name of Dairy,NA,NA,NA,NA
-5,provost_pritchard_manifest,origin_dairy_address,Dairy Information,above,Address City Zip,NA,NA,NA,NA
-5,provost_pritchard_manifest,hauler_name,Hauler Information,above,Name of Hauling Company,NA,NA,NA,NA
-5,provost_pritchard_manifest,hauler_address,Hauler Information,above,Address City Zip,NA,NA,NA,NA
-5,provost_pritchard_manifest,destination_type,Destination Information,above,Name of Composting Facility,NA,NA,NA,NA
-5,provost_pritchard_manifest,destination_name,Destination Information,above,Name of Composting Facility,NA,NA,NA,NA
-5,provost_pritchard_manifest,destination_address,Destination Information,above,Address City Zip,NA,NA,NA,NA
-5,provost_pritchard_manifest,destination_parcel_number,Destination Information,above,APN,NA,NA,NA,NA
-5,provost_pritchard_manifest,haul_date,Solid Manure,right,Start Date,NA,NA,Date,End
-5,provost_pritchard_manifest,wastewater_amount,Process Wastewater,above,Gallons,NA,NA,NA,NA
-5,provost_pritchard_manifest,manure_amount,Solid Manure,above,Tons @,NA,NA,NA,NA
-5,provost_pritchard_manifest,manure_moisture_percent,Solid Manure,right,Moisture,NA,NA,NA,%
-5,provost_pritchard_manifest,manure_method,Solid Manure,right,Method used to determine amount,NA,NA,amount,NA
-5,provost_pritchard_manifest,wastewater_method,Process Wastewater,right,Method used to determine amount,NA,NA,amount,NA
-5,ucanr,origin_dairy_name,Operator,right,Name of Dairy Facility,NA,NA,Facility,NA
-5,ucanr,origin_dairy_address,Operator,right,Facility Address,NA,NA,Address,Number
-5,ucanr,hauler_name,Hauler,right,Name of Hauling Company/Person,NA,NA,/Person,NA
-5,ucanr,hauler_address,Hauler,right,Address of Hauling Company/Person,NA,NA,/Person,Number
-5,ucanr,destination_name,Destination,right,final destination,NA,NA,destination,NA
-5,ucanr,destination_address,Destination,right,Address of destination,NA,NA,destination,NA
-5,ucanr,manure_amount,Amount Hauled,right,Manure,NA,NA,NA,Tons
-5,ucanr,wastewater_amount,Amount Hauled,right,Process Wastewater,NA,NA,NA,Gallons
-5,ucanr,manure_method,Amount Hauled,right,Method used to,NA,NA,to,NA
-5,ucanr,wastewater_method,Amount Hauled,right,Method used to determine volume,NA,NA,volume,NA
-5,CAG018001,origin_dairy_name,NA,right,CAFO Facility Name,NA,NA,Facility,NA
-5,CAG018001,origin_dairy_address,NA,right,Mailing Address,NA,NA,Address,Number
-5,CAG018001,hauler_name,NA,right,Name and Address of Hauling Company,NA,NA,/Person,NA
-5,CAG018001,hauler_address,NA,right,Name and Address of Hauling Company,NA,NA,/Person,Number
-5,CAG018001,destination_name,NA,right,Destination of Haul,NA,NA,destination,NA
-5,CAG018001,latitude,NA,right,Latitude,NA,NA,NA,NA
-5,CAG018001,longitude,NA,right,Latitude,NA,NA,NA,NA
+5,R5-2017-0000_general_order,wastewater_method,amount,right_below,determine volume of wastewater,NA,NA,determine,written
+5,provost_pritchard_manifest,origin_dairy_name,dairy information,above,name of dairy,NA,NA,NA,NA
+5,provost_pritchard_manifest,origin_dairy_address,dairy information,above,address city Zip,NA,NA,NA,NA
+5,provost_pritchard_manifest,hauler_name,NA,below,hauler information,NA,NA,NA,name
+5,provost_pritchard_manifest,hauler_address,NA,below,name of hauling,NA,NA,NA,address
+5,provost_pritchard_manifest,destination_name,NA,below,destination information,NA,NA,NA,name
+5,provost_pritchard_manifest,destination_address,NA,below,name of composting,NA,NA,NA,address
+5,provost_pritchard_manifest,destination_parcel_number,destination information,below,contact person,NA,NA,NA,APN
+5,provost_pritchard_manifest,haul_date,NA,above,amount pumped,NA,NA,date,end
+5,provost_pritchard_manifest,wastewater_amount,NA,below,amount pumped,NA,NA,NA,gallons
+5,provost_pritchard_manifest,manure_amount,NA,below,amount hauled,NA,NA,NA,tons
+5,provost_pritchard_manifest,manure_moisture_percent,NA,below,amount hauled,NA,NA,@,%
+5,provost_pritchard_manifest,manure_method,amount hauled,right_below,method used to determine amount,NA,NA,NA,process
+5,provost_pritchard_manifest,wastewater_method,amount pumped,right_below,method used to determine amount,NA,NA,NA,certification
+5,ucanr,origin_dairy_name,Operator,right,name of dairy facility,NA,NA,facility,NA
+5,ucanr,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
+5,ucanr,hauler_name,hauler,right,name of hauling company/person,NA,NA,/person,NA
+5,ucanr,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
+5,ucanr,destination_name,destination,right,final destination,NA,NA,destination,NA
+5,ucanr,destination_address,destination,right,address of destination,NA,NA,destination,NA
+5,ucanr,manure_amount,amount hauled,right,manure,NA,NA,NA,tons
+5,ucanr,wastewater_amount,amount hauled,right,process wastewater,NA,NA,NA,gallons
+5,ucanr,manure_method,amount hauled,right,method used to,NA,NA,to,NA
+5,ucanr,wastewater_method,amount hauled,right,method used to determine volume,NA,NA,volume,NA
+5,CAG018001,origin_dairy_name,NA,right,CAFO facility name,NA,NA,facility,NA
+5,CAG018001,origin_dairy_address,NA,right,Mailing address,NA,NA,address,number
+5,CAG018001,hauler_name,NA,right,name and address of hauling company,NA,NA,/person,NA
+5,CAG018001,hauler_address,NA,right,name and address of hauling company,NA,NA,/person,number
+5,CAG018001,destination_name,NA,right,destination of haul,NA,NA,destination,NA
+5,CAG018001,latitude,NA,right,latitude,NA,NA,NA,NA
+5,CAG018001,longitude,NA,right,longitude,NA,NA,NA,NA
 5,CAG018001,manure_amount,NA,below,appropriate units,NA,NA,NA,NA
 5,CAG018001,haul_date,NA,right,(please check),NA,NA,to,NA
