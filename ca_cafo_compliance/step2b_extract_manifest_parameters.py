@@ -337,18 +337,42 @@ def _split_haul_dates(data):
     haul_date = data.get(PARAM_TO_COL.get("haul_date"))
     if not haul_date or not isinstance(haul_date, str):
         return
-    # Split on dash, "to", ",", ";"
-    date_parts = re.split(r"[-–—]|\bto\b|,|;", haul_date)
-    date_parts = [p.strip() for p in date_parts if p.strip()]
+    # Extract individual date-like tokens (e.g. "7/20/2024", "1/8/24", "January 5 2024")
+    # This handles any delimiter: spaces, "&", commas, "to", dashes, etc.
+    _DATE_PATTERN = re.compile(
+        r"\d{1,2}/\d{1,2}/\d{2,4}"       # M/D/YY or M/D/YYYY
+        r"|(?:january|february|march|april|may|june|july|august|september"
+        r"|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec)"
+        r"(?:\s+\d{1,2})?(?:\s*,?\s*\d{2,4})?"  # month [day] [year]
+        , re.IGNORECASE
+    )
+    date_parts = _DATE_PATTERN.findall(haul_date)
+    # Fall back to the original split approach if no date tokens found
+    if not date_parts:
+        date_parts = re.split(r"[-–—]|\bto\b|,|;|&", haul_date, flags=re.IGNORECASE)
+        date_parts = [p.strip() for p in date_parts if p.strip()]
 
     parsed_dates = []
     for part in date_parts:
         try:
-            dt = date_parser.parse(part, fuzzy=True)
+            # Check if the part is only a month name (e.g. "December", "Jan")
+            month_only = re.fullmatch(
+                r"\s*(january|february|march|april|may|june|july|august|september"
+                r"|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec)\s*",
+                part,
+                re.IGNORECASE,
+            )
+            dt = date_parser.parse(part, fuzzy=True, dayfirst=False)
             # dateutil defaults to the current year when no year is present.
             # If the original text has no 4-digit year, use 2024 for this dataset.
             if not re.search(r"\b(19|20)\d{2}\b", part):
                 dt = dt.replace(year=2024)
+            # If only a month was specified, assume the 1st — except December, assume the 31st
+            if month_only:
+                if dt.month == 12:
+                    dt = dt.replace(day=31)
+                else:
+                    dt = dt.replace(day=1)
             parsed_dates.append(dt)
         except (ValueError, TypeError):
             continue

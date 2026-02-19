@@ -131,6 +131,8 @@ def clean_common_errors(text):
         " pek ": " per ",
         "jons": "tons",
         "waste water": "Wastewater",
+        "havler": "Hauler",
+        "hayler": "Hauler",
         "haulers calcs": "Hauler's Calculations",
         "haulers calculations": "Hauler's Calculations",
         "hauler's calculations": "Hauler's Calculations",
@@ -165,7 +167,6 @@ def clean_common_errors(text):
         "Dainy": "Dairy",
         "Daire": "Dairy",
         "Cubie": "Cubic",
-        "Havler": "Hauler",
         "[]": "",  # for false checkmarks in llmwhisperer
         "[X]": "",  # for false checkmarks in llmwhisperer
         "> ": "",  # OCR artifact at beginning of lines

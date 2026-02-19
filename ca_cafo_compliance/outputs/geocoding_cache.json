@@ -23845,5 +23845,1149 @@
     "successful_format": "4820 Perrin Rd Manteca CA 95337, California",
     "geocoder": "ArcGIS",
     "address": "4820 Perrin Rd, Manteca, California, 95337"
+  },
+  "parcel:0045-0230-0032-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T22:18:15.075897"
+  },
+  "parcel:0045-0230-0061-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-17T22:18:15.583757"
+  },
+  "parcel:0057-0008-0001": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T09:42:57.321317"
+  },
+  "parcel:0057-0008-00002": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T09:42:57.588757"
+  },
+  "parcel:0057-0009-0006": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T09:42:57.773483"
+  },
+  "parcel:022-008-017": {
+    "lat": 37.527623,
+    "lng": -121.005747,
+    "address": "022-008-017-000",
+    "timestamp": "2026-02-18T09:42:58.353658",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-008-016": {
+    "lat": 37.524118,
+    "lng": -121.006033,
+    "address": "022-008-016-000",
+    "timestamp": "2026-02-18T09:42:58.801262",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-008-022": {
+    "lat": 37.527494,
+    "lng": -121.000142,
+    "address": "022-008-022-000",
+    "timestamp": "2026-02-18T09:42:59.134739",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:022-008-013": {
+    "lat": 37.523552,
+    "lng": -121.004728,
+    "address": "022-008-013-000",
+    "timestamp": "2026-02-18T09:42:59.580109",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-013": {
+    "lat": 32.842014,
+    "lng": -115.378116,
+    "address": "045-040-013, 2604 HOLT RD, HOLTVILLE, CA, 92250",
+    "timestamp": "2026-02-18T09:43:00.105578",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-021": {
+    "lat": 36.43891,
+    "lng": -119.464648,
+    "address": "045-040-021, 5842 AVE 360, TRAVER, CA, 93673",
+    "timestamp": "2026-02-18T09:43:00.533769",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-036": {
+    "lat": 32.825675,
+    "lng": -115.375899,
+    "address": "045-040-036",
+    "timestamp": "2026-02-18T09:43:00.917044",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-042": {
+    "lat": 36.443826,
+    "lng": -119.462394,
+    "address": "045-040-042, 5107 AVENUE 360, KINGSBURG, CA, 93631",
+    "timestamp": "2026-02-18T09:43:01.581317",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-043": {
+    "lat": 36.44382,
+    "lng": -119.461889,
+    "address": "045-040-043",
+    "timestamp": "2026-02-18T09:43:01.981846",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-004": {
+    "lat": 36.442745,
+    "lng": -119.483052,
+    "address": "045-040-004, 35909 HIGHWAY 99, KINGSBURG, CA, 93631",
+    "timestamp": "2026-02-18T09:43:02.478571",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-040-019": {
+    "lat": 37.392257,
+    "lng": -120.93628,
+    "address": "045-040-019-000",
+    "timestamp": "2026-02-18T09:43:02.764709",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "66460 Smith Road Oakdale, CA 95361": {
+    "lat": 37.718368329128,
+    "lng": -120.811995979259,
+    "timestamp": "2026-02-18T09:43:06.783279",
+    "successful_format": "66460 Smith Road Oakdale, CA 95361, California",
+    "geocoder": "ArcGIS",
+    "address": "Smith Rd, Oakdale, California, 95361"
+  },
+  "5320 Patterson Road Oakdale CA 95361": {
+    "lat": 37.732691876318,
+    "lng": -120.898404441423,
+    "timestamp": "2026-02-18T09:43:07.729440",
+    "successful_format": "5320 Patterson Road Oakdale CA 95361, California",
+    "geocoder": "ArcGIS",
+    "address": "5320 Patterson Rd, Oakdale, California, 95361"
+  },
+  "7025 S Central Ave Hilmar, CA 95324": {
+    "lat": 37.385991151089,
+    "lng": -120.959429974035,
+    "timestamp": "2026-02-18T09:43:08.220966",
+    "successful_format": "7025 S Central Ave Hilmar, CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "7025 Central Ave, Hilmar, California, 95324"
+  },
+  "Johnny Machado 7413 S. Mitchell Rd. Turlock 95350": {
+    "lat": 37.424464597099,
+    "lng": -120.941026742077,
+    "timestamp": "2026-02-18T09:43:08.720930",
+    "successful_format": "Johnny Machado 7413 S. Mitchell Rd. Turlock 95350, California",
+    "geocoder": "ArcGIS",
+    "address": "7413 S Mitchell Rd, Turlock, California, 95380"
+  },
+  "6540 Louis Rd Vacaville CA 95687": {
+    "lat": 38.375272824604,
+    "lng": -121.8923459304,
+    "timestamp": "2026-02-18T09:43:09.716264",
+    "successful_format": "6540 Louis Rd Vacaville CA 95687, California",
+    "geocoder": "ArcGIS",
+    "address": "6540 Lewis Rd, Vacaville, California, 95687"
+  },
+  "parcel:0134-0280-0086-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:58.068291"
+  },
+  "parcel:0134-0280-0044-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:58.248009"
+  },
+  "parcel:0134-0280-0043-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:58.590594"
+  },
+  "parcel:0134-0280-0067-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:58.786364"
+  },
+  "parcel:0134-0280-0034-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:59.114876"
+  },
+  "parcel:0134-0280-0072-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:59.478472"
+  },
+  "parcel:0134-0250-0001-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:56:59.983983"
+  },
+  "parcel:0134-0230-0009-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:00.236773"
+  },
+  "parcel:0132-0240-0047-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:00.890844"
+  },
+  "parcel:007-013-021": {
+    "lat": 35.133769,
+    "lng": -120.581629,
+    "address": "007-013-021, 414 SPANISH MOSS LN, ARROYO GRANDE, CA, 93420",
+    "timestamp": "2026-02-18T11:57:01.402836",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:007-280-29": {
+    "lat": 39.389087,
+    "lng": -123.341958,
+    "address": "007-280-29-01",
+    "timestamp": "2026-02-18T11:57:02.322804",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:0020-0006-0027-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:02.798344"
+  },
+  "parcel:185-080-51": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:05.979183"
+  },
+  "parcel:185-080-10": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:06.453852"
+  },
+  "parcel:185-020-03": {
+    "lat": 37.982547,
+    "lng": -122.476982,
+    "address": "185-020-03",
+    "timestamp": "2026-02-18T11:57:06.826756",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:185-020-04": {
+    "lat": 37.982068,
+    "lng": -122.476781,
+    "address": "185-020-04",
+    "timestamp": "2026-02-18T11:57:07.264525",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:185-020-05": {
+    "lat": 36.740145,
+    "lng": -119.371591,
+    "address": "185-020-05",
+    "timestamp": "2026-02-18T11:57:07.645561",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:185-020-06": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:10.922290"
+  },
+  "parcel:185-020-07": {
+    "lat": 37.895832,
+    "lng": -122.092809,
+    "address": "185-020-007",
+    "timestamp": "2026-02-18T11:57:12.225740",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:185-020-08": {
+    "lat": 33.250416,
+    "lng": -117.136375,
+    "address": "185-020-08-00",
+    "timestamp": "2026-02-18T11:57:12.765631",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:0041-0050-0034-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:13.072680"
+  },
+  "parcel:0041-0050-0035-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:14.026627"
+  },
+  "parcel:0045-0170-0003-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:14.376780"
+  },
+  "parcel:207-020-02": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:15.534680"
+  },
+  "parcel:207-030-14": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:16.555540"
+  },
+  "parcel:0245-0250-0009-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:16.940389"
+  },
+  "parcel:0247-0150-0650-0000": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T11:57:17.573138"
+  },
+  "12771 E Stockton Blvd. Galt 95632": {
+    "lat": 38.292280332321,
+    "lng": -121.311574755847,
+    "timestamp": "2026-02-18T11:57:22.184473",
+    "successful_format": "12771 E Stockton Blvd. Galt 95632, California",
+    "geocoder": "ArcGIS",
+    "address": "12771 E Stockton Blvd, Galt, California, 95632"
+  },
+  "Russ Fields 9416 New Hope Rd. Galt 95632": {
+    "lat": 38.246997770968,
+    "lng": -121.347853979723,
+    "timestamp": "2026-02-18T11:57:22.447380",
+    "successful_format": "Russ Fields 9416 New Hope Rd. Galt 95632, California",
+    "geocoder": "ArcGIS",
+    "address": "9416 New Hope Rd, Galt, California, 95632"
+  },
+  "Mancebo Ranch 700 Village Dr. Galt 95632 209-479-6360": {
+    "lat": 38.288692919672,
+    "lng": -121.307067555053,
+    "timestamp": "2026-02-18T11:57:23.518098",
+    "successful_format": "Mancebo Ranch 700 Village Dr. Galt 95632 209-479-6360, California",
+    "geocoder": "ArcGIS",
+    "address": "700 Village Dr, Galt, California, 95632"
+  },
+  "B & J Farms 10490 Arno Rd. Galt 95632 209-346-6173": {
+    "lat": 38.325277119095,
+    "lng": -121.301921988512,
+    "timestamp": "2026-02-18T11:57:23.860568",
+    "successful_format": "B & J Farms 10490 Arno Rd. Galt 95632 209-346-6173, California",
+    "geocoder": "ArcGIS",
+    "address": "10490 Arno Rd, Galt, California, 95632"
+  },
+  "10408 S Van Allen Rd Stockton, CA 95215": {
+    "lat": 37.872145775646,
+    "lng": -121.05302724105,
+    "timestamp": "2026-02-18T11:57:24.154868",
+    "successful_format": "10408 S Van Allen Rd Stockton, CA 95215, California",
+    "geocoder": "ArcGIS",
+    "address": "10408 Van Allen Rd, Stockton, California, 95215"
+  },
+  "Salas Ranch 10630 Salas Rd. Wilton 95639 (209)610-2855": {
+    "lat": 38.362956665625,
+    "lng": -121.291320808833,
+    "timestamp": "2026-02-18T11:57:24.571614",
+    "successful_format": "Salas Ranch 10630 Salas Rd. Wilton 95639 (209)610-2855, California",
+    "geocoder": "ArcGIS",
+    "address": "10630 Salas Rd, Wilton, California, 95693"
+  },
+  "10834 Hwy 120 Oakdale 95361": {
+    "lat": 37.776402862644,
+    "lng": -120.795684445086,
+    "timestamp": "2026-02-18T11:57:25.124198",
+    "successful_format": "10834 Hwy 120 Oakdale 95361, California",
+    "geocoder": "ArcGIS",
+    "address": "10834 State Highway 120, Oakdale, California, 95361"
+  },
+  "3642 Finnery Rd Modesto 95358": {
+    "lat": 37.691516265129,
+    "lng": -121.086104745551,
+    "timestamp": "2026-02-18T11:57:25.441428",
+    "successful_format": "3642 Finnery Rd Modesto 95358, California",
+    "geocoder": "ArcGIS",
+    "address": "3642 Finney Rd, Modesto, California, 95358"
+  },
+  "11151 Liberty Rd. Galt 95632": {
+    "lat": 38.235402790939,
+    "lng": -121.181908222466,
+    "timestamp": "2026-02-18T11:57:26.488143",
+    "successful_format": "11151 Liberty Rd. Galt 95632, California",
+    "geocoder": "ArcGIS",
+    "address": "11151 Liberty Rd, Galt, California, 95632"
+  },
+  "1159 Peach Ave Livingston Merced 95334": {
+    "lat": 37.375081862963,
+    "lng": -120.726172967921,
+    "timestamp": "2026-02-18T11:57:26.717308",
+    "successful_format": "1159 Peach Ave Livingston Merced 95334, California",
+    "geocoder": "ArcGIS",
+    "address": "1159 Peach Ave, Livingston, California, 95334"
+  },
+  "11594 Ingomar Gustin CA 95322": {
+    "lat": 37.121236802601,
+    "lng": -120.945119793036,
+    "timestamp": "2026-02-18T11:57:27.721065",
+    "successful_format": "11594 Ingomar Gustin CA 95322, California",
+    "geocoder": "ArcGIS",
+    "address": "11594 Ingomar Grade, Gustine, California, 95322"
+  },
+  "Deniz Brothers 5230 Patterson Rd Oakdale CA 95361": {
+    "lat": 37.72886338538,
+    "lng": -120.900895614596,
+    "timestamp": "2026-02-18T11:57:28.102280",
+    "successful_format": "Deniz Brothers 5230 Patterson Rd Oakdale CA 95361, California",
+    "geocoder": "ArcGIS",
+    "address": "5230 Patterson Rd, Oakdale, California, 95361"
+  },
+  "D&W Farms 1000 Hidden Lake Road Lodi 95240": {
+    "lat": 38.1243105,
+    "lng": -121.260412,
+    "timestamp": "2026-02-18T11:57:29.139250",
+    "successful_format": "D&W Farms 1000 Hidden Lake Road Lodi 95240, California",
+    "geocoder": "ArcGIS",
+    "address": "95240, Lodi, California"
+  },
+  "Chaves Dairy #2 12021 E. Harney Lanelodi 95240": {
+    "lat": 38.103376500357,
+    "lng": -121.168506984212,
+    "timestamp": "2026-02-18T11:57:29.676428",
+    "successful_format": "Chaves Dairy #2 12021 E. Harney Lanelodi 95240, California",
+    "geocoder": "ArcGIS",
+    "address": "12021 E Harney Ln, Lodi, California, 95240"
+  },
+  "Umid Babjanov 9500 Robson Rd. Galt 95632 209-747-8297": {
+    "lat": 38.27231958428,
+    "lng": -121.347161550702,
+    "timestamp": "2026-02-18T11:57:30.090445",
+    "successful_format": "Umid Babjanov 9500 Robson Rd. Galt 95632 209-747-8297, California",
+    "geocoder": "ArcGIS",
+    "address": "9500 Robson Rd, Galt, California, 95632"
+  },
+  "Jerry Holsapple Manure Spreading 19085 W.Bradbury Turlock 95380": {
+    "lat": 37.493719,
+    "lng": -120.852279,
+    "timestamp": "2026-02-18T11:57:30.677429",
+    "successful_format": "Jerry Holsapple Manure Spreading 19085 W.Bradbury Turlock 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "95380, Turlock, California"
+  },
+  "14691 Brennan Rd Escalon, CA": {
+    "lat": 37.830066693868,
+    "lng": -121.016622623902,
+    "timestamp": "2026-02-18T11:57:31.095220",
+    "successful_format": "14691 Brennan Rd Escalon, CA, California",
+    "geocoder": "ArcGIS",
+    "address": "14691 Brennan Rd, Escalon, California, 95320"
+  },
+  "Peterson Farms 2902 Tim Bell Rd Waterford 95386": {
+    "lat": 37.68050474938,
+    "lng": -120.697014034119,
+    "timestamp": "2026-02-18T11:57:32.229129",
+    "successful_format": "Peterson Farms 2902 Tim Bell Rd Waterford 95386, California",
+    "geocoder": "ArcGIS",
+    "address": "2902 Tim Bell Rd, Waterford, California, 95386"
+  },
+  "1831 Hazeldean Rd Waterford 95386": {
+    "lat": 37.670577684264,
+    "lng": -120.701765902667,
+    "timestamp": "2026-02-18T11:57:32.483786",
+    "successful_format": "1831 Hazeldean Rd Waterford 95386, California",
+    "geocoder": "ArcGIS",
+    "address": "1831 Hazeldean Rd, Waterford, California, 95386"
+  },
+  "26000 Edwards Rd-Escala 95320": {
+    "lat": 37.838569841272,
+    "lng": -120.987524008838,
+    "timestamp": "2026-02-18T11:57:32.797399",
+    "successful_format": "26000 Edwards Rd-Escala 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "26000 Edwards Ave, Escalon, California, 95320"
+  },
+  "2402 Vine Ave Escalon CA 95320": {
+    "lat": 37.789564750991,
+    "lng": -120.981037756885,
+    "timestamp": "2026-02-18T11:57:33.466965",
+    "successful_format": "2402 Vine Ave Escalon CA 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "2402 Vine Ave, Escalon, California, 95320"
+  },
+  "Frank Bellino River Rd Escalon 95320": {
+    "lat": 37.754088366566,
+    "lng": -121.064607984838,
+    "timestamp": "2026-02-18T11:57:34.506724",
+    "successful_format": "Frank Bellino River Rd Escalon 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "River Rd, Escalon, California, 95320"
+  },
+  "Oakwood Rd. Stockton 95215": {
+    "lat": 37.904473062422,
+    "lng": -121.069380930912,
+    "timestamp": "2026-02-18T11:57:34.847156",
+    "successful_format": "Oakwood Rd. Stockton 95215, California",
+    "geocoder": "ArcGIS",
+    "address": "E Oakwood Rd, Stockton, California, 95215"
+  },
+  "6465 W Hwy Dos Palos 93620": {
+    "lat": 36.993888,
+    "lng": -120.626578,
+    "timestamp": "2026-02-18T11:57:35.109373",
+    "successful_format": "6465 W Hwy Dos Palos 93620, California",
+    "geocoder": "ArcGIS",
+    "address": "93620, Dos Palos, California"
+  },
+  "6465 State Hwy 152 Dos Pols 93620": {
+    "lat": 37.047125774923,
+    "lng": -120.607794877425,
+    "timestamp": "2026-02-18T11:57:35.864895",
+    "successful_format": "6465 State Hwy 152 Dos Pols 93620, California",
+    "geocoder": "ArcGIS",
+    "address": "6465 State Highway 152, Dos Palos, California, 93620"
+  },
+  "27282 Lone Tree Road Escalon CA": {
+    "lat": 37.82419454205,
+    "lng": -120.974236261553,
+    "timestamp": "2026-02-18T11:57:36.510035",
+    "successful_format": "27282 Lone Tree Road Escalon CA, California",
+    "geocoder": "ArcGIS",
+    "address": "27282 Lone Tree Rd, Escalon, California, 95320"
+  },
+  "0000 Brennan Road Escalon CA": {
+    "lat": 37.780706537512,
+    "lng": -121.014536624289,
+    "timestamp": "2026-02-18T11:57:36.862689",
+    "successful_format": "0000 Brennan Road Escalon CA, California",
+    "geocoder": "ArcGIS",
+    "address": "Brennan Rd, Escalon, California, 95320"
+  },
+  "P.O. Box 4034 Manteca 95337": {
+    "lat": 37.773701,
+    "lng": -121.2326305,
+    "timestamp": "2026-02-18T11:57:37.295300",
+    "successful_format": "P.O. Box 4034 Manteca 95337, California",
+    "geocoder": "ArcGIS",
+    "address": "95337, Manteca, California"
+  },
+  "15803 S. Wing Levee Rd. Tracy 95330": {
+    "lat": 37.814911611029,
+    "lng": -121.408041578492,
+    "timestamp": "2026-02-18T11:57:37.612941",
+    "successful_format": "15803 S. Wing Levee Rd. Tracy 95330, California",
+    "geocoder": "ArcGIS",
+    "address": "15803 S Wing Levee Rd, Stockton, California, 95206"
+  },
+  "5493 Mahoney Rd. Hilmar 95324": {
+    "lat": 37.36820484389,
+    "lng": -120.920868767854,
+    "timestamp": "2026-02-18T11:57:38.299405",
+    "successful_format": "5493 Mahoney Rd. Hilmar 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "5493 Mahoney Rd, Hilmar, California, 95324"
+  },
+  "20717 Bloss Ave. Hilmar 95324": {
+    "lat": 37.404010951241,
+    "lng": -120.863039587095,
+    "timestamp": "2026-02-18T11:57:38.659192",
+    "successful_format": "20717 Bloss Ave. Hilmar 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "20717 Bloss Ave, Hilmar, California, 95324"
+  },
+  "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324": {
+    "lat": 37.404879148772,
+    "lng": -120.88069204282,
+    "timestamp": "2026-02-18T11:57:39.123270",
+    "successful_format": "Clauss Dairy Farms 21670 Bloss Ave Hilmar 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "21670 Bloss Ave, Hilmar, California, 95324"
+  },
+  "23160 Williams Ave Hilmar 95324": {
+    "lat": 37.391026000209,
+    "lng": -120.905985022386,
+    "timestamp": "2026-02-18T11:57:39.666918",
+    "successful_format": "23160 Williams Ave Hilmar 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "23160 Williams Ave, Hilmar, California, 95324"
+  },
+  "20633 W. Crane Ave Hilmar 95324": {
+    "lat": 37.382417450371,
+    "lng": -120.862007355719,
+    "timestamp": "2026-02-18T11:57:39.905417",
+    "successful_format": "20633 W. Crane Ave Hilmar 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "20633 Crane Ave, Hilmar, California, 95324"
+  },
+  "Skiff Ranch 24323 E Skiff Rd Escalon 95320": {
+    "lat": 37.871298674839,
+    "lng": -121.012228358808,
+    "timestamp": "2026-02-18T11:57:40.680889",
+    "successful_format": "Skiff Ranch 24323 E Skiff Rd Escalon 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "24323 E Skiff Rd, Escalon, California, 95320"
+  },
+  "6006 Central Ave Turlock 95380": {
+    "lat": 37.437451685517,
+    "lng": -120.95817469105,
+    "timestamp": "2026-02-18T11:57:40.917842",
+    "successful_format": "6006 Central Ave Turlock 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "6006 S Central Ave, Turlock, California, 95380"
+  },
+  "23204 Bloss Ave Hilmar CA 95324": {
+    "lat": 37.404939372747,
+    "lng": -120.908510573631,
+    "timestamp": "2026-02-18T11:57:41.184233",
+    "successful_format": "23204 Bloss Ave Hilmar CA 95324, California",
+    "geocoder": "ArcGIS",
+    "address": "23204 Bloss Ave, Hilmar, California, 95324"
+  },
+  "4101 N. Berkely Ave Turlock 95380": {
+    "lat": 37.530577682606,
+    "lng": -120.830588218833,
+    "timestamp": "2026-02-18T11:57:42.260933",
+    "successful_format": "4101 N. Berkely Ave Turlock 95380, California",
+    "geocoder": "ArcGIS",
+    "address": "4101 N Berkeley Ave, Turlock, California, 95382"
+  },
+  "22339 River Rd Escalon 95320": {
+    "lat": 37.757052144854,
+    "lng": -121.034235852321,
+    "timestamp": "2026-02-18T11:57:42.533760",
+    "successful_format": "22339 River Rd Escalon 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "22339 E River Rd, Escalon, California, 95320"
+  },
+  "22339 River Rd Escalon": {
+    "lat": 37.757052144854,
+    "lng": -121.034235852321,
+    "timestamp": "2026-02-18T11:57:42.776762",
+    "successful_format": "22339 River Rd Escalon, California",
+    "geocoder": "ArcGIS",
+    "address": "22339 E River Rd, Escalon, California, 95320"
+  },
+  "Edwards/Campbell Escala 95320": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-18T11:57:43.796128"
+  },
+  "21768 Lone Tree Rd Escalon 95320": {
+    "lat": 37.827175356367,
+    "lng": -121.043171128744,
+    "timestamp": "2026-02-18T11:57:44.047853",
+    "successful_format": "21768 Lone Tree Rd Escalon 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "21768 Lone Tree Rd, Escalon, California, 95320"
+  },
+  "12383 S Schultz Rd Chowchilla CA 93510": {
+    "lat": 37.106716915549,
+    "lng": -120.448097996622,
+    "timestamp": "2026-02-18T11:57:44.349497",
+    "successful_format": "12383 S Schultz Rd Chowchilla CA 93510, California",
+    "geocoder": "ArcGIS",
+    "address": "12383 S Schultz Rd, Chowchilla, California, 93610"
+  },
+  "12383 S Schultz Rd Chowchilla 93610": {
+    "lat": 37.106716915549,
+    "lng": -120.448097996622,
+    "timestamp": "2026-02-18T11:57:45.040520",
+    "successful_format": "12383 S Schultz Rd Chowchilla 93610, California",
+    "geocoder": "ArcGIS",
+    "address": "12383 S Schultz Rd, Chowchilla, California, 93610"
+  },
+  "4343 S. Mckinley Ave. Stockton 95206": {
+    "lat": 37.900923363818,
+    "lng": -121.272643749263,
+    "timestamp": "2026-02-18T11:57:45.378273",
+    "successful_format": "4343 S. Mckinley Ave. Stockton 95206, California",
+    "geocoder": "ArcGIS",
+    "address": "4343 McKinley Ave, Stockton, California, 95206"
+  },
+  "12686 Locke Rd. Lockeford 95237": {
+    "lat": 38.154103443098,
+    "lng": -121.161336517502,
+    "timestamp": "2026-02-18T11:57:45.633656",
+    "successful_format": "12686 Locke Rd. Lockeford 95237, California",
+    "geocoder": "ArcGIS",
+    "address": "12686 Locke Rd, Lockeford, California, 95237"
+  },
+  "parcel:207-170-02": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T18:47:13.468782"
+  },
+  "53955 W Nees Ave Firebaugh 93622": {
+    "lat": 36.83810252549,
+    "lng": -120.761112878454,
+    "timestamp": "2026-02-18T18:47:14.254961",
+    "successful_format": "53955 W Nees Ave Firebaugh 93622, California",
+    "geocoder": "ArcGIS",
+    "address": "53955 W Nees Ave, Firebaugh, California, 93622"
+  },
+  "23844 Dodds Road Escalon CA 95320": {
+    "lat": 37.855305777795,
+    "lng": -121.019677743791,
+    "timestamp": "2026-02-18T18:47:20.616720",
+    "successful_format": "23844 Dodds Road Escalon CA 95320, California",
+    "geocoder": "ArcGIS",
+    "address": "23844 Dodds Rd, Escalon, California, 95320"
+  },
+  "parcel:300-1501": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T20:41:29.840656"
+  },
+  "parcel:0300-15019": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T20:41:31.484264"
+  },
+  "parcel:048-010-006": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T20:41:34.892749"
+  },
+  "parcel:048-130-002": {
+    "lat": 36.863029,
+    "lng": -120.041981,
+    "address": "048-130-002, 7782 ROAD 28, MADERA, CA, 93637",
+    "timestamp": "2026-02-18T20:41:37.009222",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:045-070-010": {
+    "lat": 36.422902,
+    "lng": -119.408561,
+    "address": "045-070-010, W LANO CT, VISALIA, CA, 93631",
+    "timestamp": "2026-02-18T20:41:39.553706",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:048-140-007": {
+    "lat": 36.411126,
+    "lng": -119.399326,
+    "address": "048-140-007",
+    "timestamp": "2026-02-18T20:41:42.139579",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:048-140-008": {
+    "lat": 36.411389,
+    "lng": -119.407956,
+    "address": "048-140-008",
+    "timestamp": "2026-02-18T20:41:44.041029",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-030-013": {
+    "lat": 36.380235,
+    "lng": -119.429733,
+    "address": "072-030-013, GOSHEN, CA, 93227",
+    "timestamp": "2026-02-18T20:41:46.799236",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-030-007": {
+    "lat": 36.376636,
+    "lng": -119.431408,
+    "address": "072-030-007, GOSHEN, CA, 93227",
+    "timestamp": "2026-02-18T20:41:47.769839",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-030-009": {
+    "lat": 36.38428,
+    "lng": -119.429007,
+    "address": "072-030-009, 6329 AVE 328, GOSHEN, CA, 93227",
+    "timestamp": "2026-02-18T20:41:48.974959",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "Cottonwood Farms 13076 Ave 368 Visalia 93292": {
+    "lat": 36.454830028329,
+    "lng": -119.284627977426,
+    "timestamp": "2026-02-18T20:41:49.619476",
+    "successful_format": "Cottonwood Farms 13076 Ave 368 Visalia 93292, California",
+    "geocoder": "ArcGIS",
+    "address": "13076 Avenue 368, Visalia, California, 93292"
+  },
+  "parcel:300-310-012": {
+    "lat": 36.047952,
+    "lng": -119.15748,
+    "address": "300-310-012",
+    "timestamp": "2026-02-18T20:41:51.867579",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:048-080-030": {
+    "lat": 38.261209,
+    "lng": -122.648231,
+    "address": "048-080-030, 1301 SOUTHPOINT BLVD, PETALUMA, CA, 94954",
+    "timestamp": "2026-02-18T20:41:53.913690",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:048-080-038": {
+    "lat": 36.408974,
+    "lng": -119.306699,
+    "address": "048-080-038",
+    "timestamp": "2026-02-18T20:41:55.530695",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-030-012": {
+    "lat": 39.510558,
+    "lng": -121.453486,
+    "address": "072-030-012, 101 MEDLEY LN, OROVILLE, CA, 95966",
+    "timestamp": "2026-02-18T20:41:56.575823",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-060-011": {
+    "lat": 38.104612,
+    "lng": -122.211748,
+    "address": "0072-011-060",
+    "timestamp": "2026-02-18T20:41:58.817932",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:072-030-012-000": {
+    "lat": 39.510558,
+    "lng": -121.453486,
+    "address": "072-030-012-000",
+    "timestamp": "2026-02-18T20:42:01.595361",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "7901 Ave 368 Dinuba CA 93618": {
+    "lat": 36.458210491789,
+    "lng": -119.397341273444,
+    "timestamp": "2026-02-18T20:42:08.318867",
+    "successful_format": "7901 Ave 368 Dinuba CA 93618, California",
+    "geocoder": "ArcGIS",
+    "address": "7901 Avenue 368, Dinuba, California, 93618"
+  },
+  "Hettinga Farms Ave 120 CA": {
+    "lat": null,
+    "lng": null,
+    "error": "Geocoding failed",
+    "timestamp": "2026-02-18T20:42:09.425780"
+  },
+  "parcel:048-070-038": {
+    "lat": 36.416214,
+    "lng": -119.318427,
+    "address": "048-070-038",
+    "timestamp": "2026-02-18T21:38:38.589151",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:048-100-005": {
+    "lat": 36.412627,
+    "lng": -119.31851,
+    "address": "048-100-005, 34224 ROAD 112, VISALIA, CA, 93291",
+    "timestamp": "2026-02-18T21:38:40.678453",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "John Sousa P.O Box 725 Stratford 93266": {
+    "lat": 36.189587,
+    "lng": -119.823274,
+    "timestamp": "2026-02-18T21:38:41.278896",
+    "successful_format": "John Sousa P.O Box 725 Stratford 93266, California",
+    "geocoder": "ArcGIS",
+    "address": "93266, Stratford, California"
+  },
+  "parcel:191-140-008": {
+    "lat": 36.172146,
+    "lng": -119.283695,
+    "address": "191-140-008",
+    "timestamp": "2026-02-18T21:38:42.536532",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:191-140-009": {
+    "lat": 36.170064,
+    "lng": -119.280918,
+    "address": "191-140-009",
+    "timestamp": "2026-02-18T21:38:42.950067",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:232-160-003": {
+    "lat": 36.060365,
+    "lng": -119.236847,
+    "address": "232-160-003",
+    "timestamp": "2026-02-18T21:38:45.347845",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:318-1300": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T21:38:47.552919"
+  },
+  "parcel:5300-22009": {
+    "lat": null,
+    "lng": null,
+    "error": "No parcel candidates",
+    "timestamp": "2026-02-18T21:38:48.680821"
+  },
+  "parcel:228-260-016": {
+    "lat": 36.052974,
+    "lng": -119.397877,
+    "address": "228-260-016, 14581 ROAD 80, TIPTON, CA, 93272",
+    "timestamp": "2026-02-18T21:38:50.922939",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:228-090-004": {
+    "lat": 36.107228,
+    "lng": -119.344429,
+    "address": "228-090-004",
+    "timestamp": "2026-02-18T21:38:52.335423",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:228-090-013": {
+    "lat": 36.101719,
+    "lng": -119.348783,
+    "address": "228-090-013, 17550 ROAD 96, TULARE, CA, 93274",
+    "timestamp": "2026-02-18T21:38:53.176908",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:333-230-008": {
+    "lat": 35.870055,
+    "lng": -119.32746,
+    "address": "333-230-008, S LANE RD, EARLIMART, CA, 93219",
+    "timestamp": "2026-02-18T21:38:55.251012",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:333-230-009": {
+    "lat": 35.865195,
+    "lng": -119.326501,
+    "address": "333-230-009, S LANE RD, EARLIMART, CA, 93219",
+    "timestamp": "2026-02-18T21:38:55.547679",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:333-180-014": {
+    "lat": 35.86994,
+    "lng": -119.362263,
+    "address": "333-180-014",
+    "timestamp": "2026-02-18T21:38:57.267017",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "parcel:313-030-014": {
+    "lat": 35.879043,
+    "lng": -119.36231,
+    "address": "313-030-014",
+    "timestamp": "2026-02-18T21:38:58.192250",
+    "geocoder": "DWR_Parcels_APN"
+  },
+  "Merritt Yard 11188 Road 192 Porterville CA 93257": {
+    "lat": 35.992965915237,
+    "lng": -119.140424374091,
+    "timestamp": "2026-02-18T21:39:05.137517",
+    "successful_format": "Merritt Yard 11188 Road 192 Porterville CA 93257, California",
+    "geocoder": "ArcGIS",
+    "address": "11188 Road 192, Porterville, California, 93257"
+  },
+  "2909 Bell Port Tulare 93274": {
+    "lat": 36.203880331574,
+    "lng": -119.304917882804,
+    "timestamp": "2026-02-18T21:39:06.106845",
+    "successful_format": "2909 Bell Port Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "2909 Bell Port Ave, Tulare, California, 93274"
+  },
+  "Turning Leaf Organics Compost Yard 14982 Road 152 Tipton CA 93272": {
+    "lat": 36.060455909958,
+    "lng": -119.2279057108,
+    "timestamp": "2026-02-18T21:39:06.650381",
+    "successful_format": "Turning Leaf Organics Compost Yard 14982 Road 152 Tipton CA 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "14982 Road 152, Tipton, California, 93272"
+  },
+  "Road 80 And Avenue 336 Visalia CA": {
+    "lat": 36.399764780141,
+    "lng": -119.394745733307,
+    "timestamp": "2026-02-18T21:39:07.167653",
+    "successful_format": "Road 80 And Avenue 336 Visalia CA, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 80 & Avenue 336, Visalia, California, 93291"
+  },
+  "Road 68 And Avenue 320 Visalia CA": {
+    "lat": 36.370749984109,
+    "lng": -119.421317036926,
+    "timestamp": "2026-02-18T21:39:07.896558",
+    "successful_format": "Road 68 And Avenue 320 Visalia CA, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 68 & Avenue 320, Visalia, California, 93291"
+  },
+  "7Th Avenue And Dover Ave Visalia CA": {
+    "lat": 36.415878988996,
+    "lng": -119.582849973618,
+    "timestamp": "2026-02-18T21:39:08.492325",
+    "successful_format": "7Th Avenue And Dover Ave Visalia CA, California",
+    "geocoder": "ArcGIS",
+    "address": "7th Ave & Dover Ave, Hanford, California, 93230"
+  },
+  "Can Rey Farms Tulare": {
+    "timestamp": "2026-02-18T21:39:09.004540",
+    "address": "Tulare, California",
+    "geocoder": "ArcGIS"
+  },
+  "Ave 384 & Rd 88 Hanford CA": {
+    "lat": 36.487667014118,
+    "lng": -119.376669991471,
+    "timestamp": "2026-02-18T21:39:09.462486",
+    "successful_format": "Ave 384 & Rd 88 Hanford CA, California",
+    "geocoder": "ArcGIS",
+    "address": "Avenue 384 & Road 88, Dinuba, California, 93618"
+  },
+  "Spread On Fields On Ave 328 And Rd 92 Visalia CA": {
+    "lat": 36.385445304394,
+    "lng": -119.367999164093,
+    "timestamp": "2026-02-18T21:39:10.414072",
+    "successful_format": "Spread On Fields On Ave 328 And Rd 92 Visalia CA, California",
+    "geocoder": "ArcGIS",
+    "address": "Avenue 328 & Road 92, Visalia, California, 93291"
+  },
+  "West Coast And Gravel 7715 Ave 296 Visalia CA 93291": {
+    "lat": 36.323201920056,
+    "lng": -119.405499044529,
+    "timestamp": "2026-02-18T21:39:10.734198",
+    "successful_format": "West Coast And Gravel 7715 Ave 296 Visalia CA 93291, California",
+    "geocoder": "ArcGIS",
+    "address": "7715 Avenue 296, Visalia, California, 93291"
+  },
+  "1973 Poppyview Tulare 93274": {
+    "lat": 36.220106857931,
+    "lng": -119.375249342702,
+    "timestamp": "2026-02-18T21:39:12.807177",
+    "successful_format": "1973 Poppyview Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "1973 Poppyview Ave, Tulare, California, 93274"
+  },
+  "Rd 80 & Ave 184 Tulare 93274": {
+    "lat": 36.123383006138,
+    "lng": -119.393874015377,
+    "timestamp": "2026-02-18T21:39:14.269059",
+    "successful_format": "Rd 80 & Ave 184 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 80 & Avenue 184, Tulare, California, 93274"
+  },
+  "Rd. 148 & Y Ave. 248 Tulare 93274": {
+    "lat": 36.240050003976,
+    "lng": -119.242467004453,
+    "timestamp": "2026-02-18T21:39:16.116067",
+    "successful_format": "Rd. 148 & Y Ave. 248 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 148 & Avenue 248, Tulare, California, 93274"
+  },
+  "14870 Ave 152 Tipton 93272": {
+    "lat": 36.066023505324,
+    "lng": -119.23970399389,
+    "timestamp": "2026-02-18T21:39:17.929220",
+    "successful_format": "14870 Ave 152 Tipton 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "14870 Avenue 152, Tipton, California, 93272"
+  },
+  "14891 Ave 232 Tulare 93274": {
+    "lat": 36.210636313171,
+    "lng": -119.23924868891,
+    "timestamp": "2026-02-18T21:39:18.937001",
+    "successful_format": "14891 Ave 232 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "14891 Avenue 232, Tulare, California, 93274"
+  },
+  "Rd. 148 & Ave. 248 Tulare 93274": {
+    "lat": 36.240050003976,
+    "lng": -119.242467004453,
+    "timestamp": "2026-02-18T21:39:19.415133",
+    "successful_format": "Rd. 148 & Ave. 248 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 148 & Avenue 248, Tulare, California, 93274"
+  },
+  "Des Farms 1443 Windsong Dr Tulare 93274": {
+    "lat": 36.192535677083,
+    "lng": -119.301829319122,
+    "timestamp": "2026-02-18T21:39:20.350619",
+    "successful_format": "Des Farms 1443 Windsong Dr Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "1443 Windsong Dr, Tulare, California, 93274"
+  },
+  "Rd.148 & Ave. 248 Tulare 93274": {
+    "lat": 36.240050003976,
+    "lng": -119.242467004453,
+    "timestamp": "2026-02-18T21:39:21.363616",
+    "successful_format": "Rd.148 & Ave. 248 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "Road 148 & Avenue 248, Tulare, California, 93274"
+  },
+  "7559 Ave. 152 Tipton 93274": {
+    "lat": 36.065441914174,
+    "lng": -119.409163271208,
+    "timestamp": "2026-02-18T21:39:22.199414",
+    "successful_format": "7559 Ave. 152 Tipton 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "7559 Avenue 152, Tipton, California, 93272"
+  },
+  "Ave. 248 &  Rd 148 Tulare 93274": {
+    "lat": 36.240050003976,
+    "lng": -119.242467004453,
+    "timestamp": "2026-02-18T21:39:23.185814",
+    "successful_format": "Ave. 248 &  Rd 148 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "Avenue 248 & Road 148, Tulare, California, 93274"
+  },
+  "Little Ranch 13167 Road 144 Tipton CA 93272": {
+    "lat": 36.029793249531,
+    "lng": -119.25052811144,
+    "timestamp": "2026-02-18T21:39:24.195519",
+    "successful_format": "Little Ranch 13167 Road 144 Tipton CA 93272, California",
+    "geocoder": "ArcGIS",
+    "address": "13167 Road 144, Tipton, California, 93272"
+  },
+  "960 N San Antonio Rd Ste 114 Los Altos 94022": {
+    "lat": 37.399236996378,
+    "lng": -122.114846986772,
+    "timestamp": "2026-02-18T21:39:25.203623",
+    "successful_format": "960 N San Antonio Rd Ste 114 Los Altos 94022, California",
+    "geocoder": "ArcGIS",
+    "address": "960 N San Antonio Rd, Unit 114, Los Altos, California, 94022"
+  },
+  "9295 Ave 88 Pixley 93256": {
+    "lat": 35.946079350983,
+    "lng": -119.36237079993,
+    "timestamp": "2026-02-18T21:39:25.599600",
+    "successful_format": "9295 Ave 88 Pixley 93256, California",
+    "geocoder": "ArcGIS",
+    "address": "9295 Avenue 88, Pixley, California, 93256"
+  },
+  "Harvest 24487 Rd 140 Tulare 93274": {
+    "lat": 36.235273995546,
+    "lng": -119.265448338941,
+    "timestamp": "2026-02-18T21:39:26.334332",
+    "successful_format": "Harvest 24487 Rd 140 Tulare 93274, California",
+    "geocoder": "ArcGIS",
+    "address": "24487 Road 140, Tulare, California, 93274"
+  },
+  "13551 1st Ave Hanford 93230": {
+    "lat": 36.273598587224,
+    "lng": -119.474453021237,
+    "timestamp": "2026-02-18T21:39:26.672565",
+    "successful_format": "13551 1st Ave Hanford 93230, California",
+    "geocoder": "ArcGIS",
+    "address": "13551 1st Ave, Hanford, California, 93230"
+  },
+  "Etchegaray Farms 32324 Famoso Rd McFarland CA 93250": {
+    "lat": 35.602981734836,
+    "lng": -119.194382289049,
+    "timestamp": "2026-02-18T21:39:27.033150",
+    "successful_format": "Etchegaray Farms 32324 Famoso Rd McFarland CA 93250, California",
+    "geocoder": "ArcGIS",
+    "address": "32324 Famoso Rd, Mc Farland, California, 93250"
   }
 }

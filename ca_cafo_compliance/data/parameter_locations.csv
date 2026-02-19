@@ -231,7 +231,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2013-0122_general_order,manure_amount,calculate,right,manure,NA,NA,NA,tons
 5,R5-2013-0122_general_order,manure_solids_percent,calculate,right,amount reported in tons,NA,NA,),%
 5,R5-2013-0122_general_order,manure_method,calculate,right_below,amount of manure,NA,NA,NA,enter
-5,R5-2013-0122_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,determine,process wastewater|written
+5,R5-2013-0122_general_order,wastewater_method,determine the,right_below,determine volume,NA,NA,determine,of process wastewater|written
 5,R5-2017-0000_general_order,origin_dairy_name,Operator,below,name of facility,NA,NA,NA,facility address
 5,R5-2017-0000_general_order,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
 5,R5-2017-0000_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA
