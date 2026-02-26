@@ -123,7 +123,9 @@ def parse_destination_address_and_parcel(value):
 def get_region_counties(region):
     """Get list of counties for a given region from county_region.csv."""
     county_region_df = pd.read_csv("ca_cafo_compliance/data/county_region.csv")
-    return county_region_df[county_region_df["region"] == region]["county_name"].tolist()
+    return county_region_df[county_region_df["region"] == region][
+        "county_name"
+    ].tolist()
 
 
 def is_state_or_county_only_geocode(geocoded_address):
@@ -162,7 +164,9 @@ def geocode_address(address, cache, county=None, try_again=False):
         else:
             # Treat state/county-only matches as no geocode (fill as NULL)
             cached_addr_str = cached_result.get("address")
-            if cached_addr_str is not None and is_state_or_county_only_geocode(cached_addr_str):
+            if cached_addr_str is not None and is_state_or_county_only_geocode(
+                cached_addr_str
+            ):
                 return None, None
             return cached_result["lat"], cached_result["lng"]
 
@@ -194,7 +198,10 @@ def geocode_address(address, cache, county=None, try_again=False):
             if (
                 not location
                 or not location.address
-                or ("California" not in location.address and "CA" not in location.address)
+                or (
+                    "California" not in location.address
+                    and "CA" not in location.address
+                )
             ):
                 formatted_address = f"{clean_address}, California"
                 location = geolocator.geocode(formatted_address)

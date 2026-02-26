@@ -44,7 +44,9 @@ def calculate_metrics(df):
         # Total Applied
         dry_key = f"applied_{nutrient}_dry_manure_lbs"
         ww_key = f"applied_ww_{nutrient}_lbs"
-        df[f"total_applied_{nutrient}_lbs"] = df[dry_key].fillna(0) + df[ww_key].fillna(0)
+        df[f"total_applied_{nutrient}_lbs"] = df[dry_key].fillna(0) + df[ww_key].fillna(
+            0
+        )
 
         # Total Reported
         dry_key_reported = (
@@ -74,7 +76,8 @@ def calculate_metrics(df):
 
     # Check if we have milk production data
     has_milk_data = (
-        "avg_milk_lb_per_cow_day" in df.columns and df["avg_milk_lb_per_cow_day"].notna().any()
+        "avg_milk_lb_per_cow_day" in df.columns
+        and df["avg_milk_lb_per_cow_day"].notna().any()
     )
 
     if has_milk_data:
@@ -123,13 +126,16 @@ def calculate_metrics(df):
     denom = (
         df["avg_milk_cows"].fillna(0)
         + df["avg_dry_cows"].fillna(0)
-        + (df["avg_bred_heifers"].fillna(0) + df["avg_heifers"].fillna(0)) * cf["HEIFER_FACTOR"]
+        + (df["avg_bred_heifers"].fillna(0) + df["avg_heifers"].fillna(0))
+        * cf["HEIFER_FACTOR"]
         + (df["avg_calves_4_6_mo"].fillna(0) + df["avg_calves_0_3_mo"].fillna(0))
         * cf["CALF_FACTOR"]
     )
     df["calculated_manure_factor"] = df["total_manure_gen_tons"] / denom
     df.loc[denom <= 0, "calculated_manure_factor"] = np.nan
-    df["manure_factor_discrepancy"] = df["calculated_manure_factor"] - cf["MANURE_FACTOR_AVERAGE"]
+    df["manure_factor_discrepancy"] = (
+        df["calculated_manure_factor"] - cf["MANURE_FACTOR_AVERAGE"]
+    )
 
     # Calculate nitrogen metrics
     df["usda_nitrogen_estimate_lbs"] = (
@@ -188,9 +194,13 @@ def calculate_consultant_metrics(df):
                 "manure_factor_std": group["calculated_manure_factor"].std(),
                 "wastewater_ratio_avg": group["wastewater_to_reported"].mean(),
                 "wastewater_ratio_std": group["wastewater_to_reported"].std(),
-                "usda_nitrogen_pct_dev_avg": group["usda_nitrogen_pct_deviation"].mean(),
+                "usda_nitrogen_pct_dev_avg": group[
+                    "usda_nitrogen_pct_deviation"
+                ].mean(),
                 "usda_nitrogen_pct_dev_std": group["usda_nitrogen_pct_deviation"].std(),
-                "ucce_nitrogen_pct_dev_avg": group["ucce_nitrogen_pct_deviation"].mean(),
+                "ucce_nitrogen_pct_dev_avg": group[
+                    "ucce_nitrogen_pct_deviation"
+                ].mean(),
                 "ucce_nitrogen_pct_dev_std": group["ucce_nitrogen_pct_deviation"].std(),
                 "facility_count": len(group),
             }

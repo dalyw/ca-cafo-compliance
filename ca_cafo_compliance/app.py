@@ -115,7 +115,9 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
         if response.status_code == 200:
             return pd.read_csv(StringIO(response.text), encoding=encoding)
         else:
-            st.warning(f"Could not load {os.path.basename(local_path)} from local or GitHub.")
+            st.warning(
+                f"Could not load {os.path.basename(local_path)} from local or GitHub."
+            )
             return pd.DataFrame()
 
 
@@ -136,7 +138,9 @@ def load_data():
             "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/"
             "main/outputs/consolidated"
         )
-        files_to_load = [f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS]
+        files_to_load = [
+            f"{year}_{region}_master.csv" for year in YEARS for region in REGIONS
+        ]
         for file in files_to_load:
             local_path = f"ca_cafo_compliance/outputs/consolidated/{file}"
             github_url = f"{base_url}/{file}"
@@ -169,7 +173,9 @@ def add_histogram_trace(fig, data, name, color, nbinsx=50, clip_range=None):
     """Helper function to add a histogram trace to a figure."""
     if clip_range:
         data = data.clip(clip_range[0], clip_range[1])
-    fig.add_trace(go.Histogram(x=data, nbinsx=nbinsx, name=name, marker_color=color, opacity=0.7))
+    fig.add_trace(
+        go.Histogram(x=data, nbinsx=nbinsx, name=name, marker_color=color, opacity=0.7)
+    )
 
 
 def create_comparison_plots(df):
@@ -196,7 +202,9 @@ def create_comparison_plots(df):
     nitrogen_fig = go.Figure()
 
     # Filter data for USDA nitrogen deviations
-    usda_nitrogen_data = df[usda_col].dropna() if usda_col in df.columns else pd.Series()
+    usda_nitrogen_data = (
+        df[usda_col].dropna() if usda_col in df.columns else pd.Series()
+    )
     add_histogram_trace(
         nitrogen_fig,
         usda_nitrogen_data,
@@ -206,7 +214,9 @@ def create_comparison_plots(df):
     )
 
     # Filter data for UCCE nitrogen deviations
-    ucce_nitrogen_data = df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
+    ucce_nitrogen_data = (
+        df[ucce_col].dropna() if ucce_col in df.columns else pd.Series()
+    )
     add_histogram_trace(
         nitrogen_fig,
         ucce_nitrogen_data,
@@ -218,8 +228,16 @@ def create_comparison_plots(df):
     # Add vertical line at 0% deviation if we have any data
     if not usda_nitrogen_data.empty or not ucce_nitrogen_data.empty:
         max_count = max(
-            (usda_nitrogen_data.value_counts().max() if not usda_nitrogen_data.empty else 0),
-            (ucce_nitrogen_data.value_counts().max() if not ucce_nitrogen_data.empty else 0),
+            (
+                usda_nitrogen_data.value_counts().max()
+                if not usda_nitrogen_data.empty
+                else 0
+            ),
+            (
+                ucce_nitrogen_data.value_counts().max()
+                if not ucce_nitrogen_data.empty
+                else 0
+            ),
         )
 
         nitrogen_fig.add_trace(
@@ -477,7 +495,9 @@ def main():
             facility_df = map_df.copy()
 
         # Convert Dairy Name to string and handle NaN values
-        facility_df.loc[:, "Dairy Name"] = facility_df["Dairy Name"].fillna("Unknown").astype(str)
+        facility_df.loc[:, "Dairy Name"] = (
+            facility_df["Dairy Name"].fillna("Unknown").astype(str)
+        )
         facility_names = sorted(facility_df["Dairy Name"].unique())
         selected_facility = st.selectbox(
             "Select a Facility",
@@ -490,7 +510,9 @@ def main():
             key="facility_name_tab1",
         )
         if selected_facility:  # Get facility details
-            facility_data = facility_df[facility_df["Dairy Name"] == selected_facility].iloc[0]
+            facility_data = facility_df[
+                facility_df["Dairy Name"] == selected_facility
+            ].iloc[0]
             col1, col2 = st.columns(2)
             with col1:
                 st.write(
@@ -511,7 +533,9 @@ def main():
                 "Average Other",
             ]
 
-            facility_data = facility_df[facility_df["Dairy Name"] == selected_facility].iloc[0]
+            facility_data = facility_df[
+                facility_df["Dairy Name"] == selected_facility
+            ].iloc[0]
             facility_fig = make_subplots(
                 rows=2,
                 cols=2,
@@ -640,12 +664,14 @@ def main():
             herd_size_col = "Total Herd Size"
             manure_reported_val = (
                 facility_data[manure_reported]
-                if manure_reported in facility_data and pd.notna(facility_data[manure_reported])
+                if manure_reported in facility_data
+                and pd.notna(facility_data[manure_reported])
                 else None
             )
             manure_estimated_val = (
                 cf["MANURE_FACTOR_AVERAGE"] * facility_data[herd_size_col]
-                if herd_size_col in facility_data and pd.notna(facility_data[herd_size_col])
+                if herd_size_col in facility_data
+                and pd.notna(facility_data[herd_size_col])
                 else None
             )
 
@@ -653,7 +679,9 @@ def main():
                 "Reported",
                 manure_reported_val,
                 MANURE_COLOR,
-                text=(f"{manure_reported_val:,.0f} tons" if manure_reported_val else None),
+                text=(
+                    f"{manure_reported_val:,.0f} tons" if manure_reported_val else None
+                ),
                 row=2,
                 col=2,
             )
@@ -662,7 +690,11 @@ def main():
                 manure_estimated_val,
                 MANURE_EST_COLOR,
                 shape="/",
-                text=(f"{manure_estimated_val:,.0f} tons" if manure_estimated_val else None),
+                text=(
+                    f"{manure_estimated_val:,.0f} tons"
+                    if manure_estimated_val
+                    else None
+                ),
                 row=2,
                 col=2,
             )
@@ -725,7 +757,9 @@ def main():
         ) = filter_tab2(df, selected_year_tab3)
 
         if filtered_df.empty:
-            st.warning("Please select at least one region (R5 or R7) to view comparison plots.")
+            st.warning(
+                "Please select at least one region (R5 or R7) to view comparison plots."
+            )
             return
 
         # Comparison plots with explanations
@@ -763,7 +797,9 @@ def main():
         Each bar represents a consultant's average value, with error bars showing the standard deviation.
         """)
 
-        metrics_path = "ca_cafo_compliance/outputs/consolidated/2023_R5_consultant_metrics.csv"
+        metrics_path = (
+            "ca_cafo_compliance/outputs/consolidated/2023_R5_consultant_metrics.csv"
+        )
         df = pd.read_csv(metrics_path)
         consultants = df["Template"]
 
@@ -799,7 +835,9 @@ def main():
             error_y = (
                 None
                 if y_std.isnull().all()
-                else dict(type="data", array=np.nan_to_num(y_std).tolist(), visible=True)
+                else dict(
+                    type="data", array=np.nan_to_num(y_std).tolist(), visible=True
+                )
             )
             consultant_fig.add_trace(
                 go.Bar(
@@ -878,7 +916,9 @@ def main():
             "6B": "R6B",
         }
         vdf["Region"] = vdf["RB"].map(rb_map).fillna(vdf["RB"])
-        summary = vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
+        summary = (
+            vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
+        )
         summary_pivot = (
             summary.pivot(index="Region", columns="Violation Type", values="Count")
             .fillna(0)
@@ -1032,7 +1072,9 @@ def main():
         filtered_df = reports_df[reports_df["region_label"].isin(selected_regions)]
 
         # Calculate totals for pie chart
-        acquired = pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
+        acquired = (
+            pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()
+        )
         total = pd.to_numeric(filtered_df["total"], errors="coerce").fillna(0).sum()
         not_acquired = total - acquired
 

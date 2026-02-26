@@ -24,7 +24,9 @@ def get_files_by_template(year, output_path, gdrive_output_path):
     # data is structured under ca_cafo_manifests/year/region/county/template
     for county in COUNTIES:
         county_dir = year_dir / county
-        if county_dir.exists():  # Each subdirectory in county (except . files) is a template
+        if (
+            county_dir.exists()
+        ):  # Each subdirectory in county (except . files) is a template
             for template_dir in county_dir.iterdir():
                 if template_dir.name.startswith(".") or not template_dir.is_dir():
                     continue
@@ -56,13 +58,17 @@ def get_files_by_template(year, output_path, gdrive_output_path):
 
     # Save files to csv
     with open(output_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["county", "template", "filename", "manifest_count"])
+        writer = csv.DictWriter(
+            f, fieldnames=["county", "template", "filename", "manifest_count"]
+        )
         writer.writeheader()
         writer.writerows(files_list)
 
     # save to gdrive BASE_DIR
     with open(gdrive_output_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["county", "template", "filename", "manifest_count"])
+        writer = csv.DictWriter(
+            f, fieldnames=["county", "template", "filename", "manifest_count"]
+        )
         writer.writeheader()
         writer.writerows(files_list)
 
@@ -89,20 +95,26 @@ files_2024_df = pd.DataFrame(files_2024)
 
 # load "2024_files_by_template_manual_counts.csv"
 # update the manifest_count to match the CURRENT counts
-gdrive_manual_counts_path = os.path.join(GDRIVE_BASE, "2024_files_by_template_manual_counts.csv")
+gdrive_manual_counts_path = os.path.join(
+    GDRIVE_BASE, "2024_files_by_template_manual_counts.csv"
+)
 manual_counts = pd.read_csv(gdrive_manual_counts_path)
 for index, row in manual_counts.iterrows():
     # update manifest_count in manual_counts to match files_2024 for that manifest
     matching_rows = files_2024_df[files_2024_df["filename"] == row["filename"]]
     if len(matching_rows) > 0:
-        manual_counts.at[index, "manifest_count"] = matching_rows["manifest_count"].values[0]
+        manual_counts.at[index, "manifest_count"] = matching_rows[
+            "manifest_count"
+        ].values[0]
 manual_counts.to_csv(gdrive_manual_counts_path, index=False)
 
 # Print rows of manual_counts where manifest_count ~= manual_count
 print(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
 # save this as a separate csv for what needs to be manually adjusted
 manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]].to_csv(
-    LOCAL_BASE_DIR / "outputs" / "2024_files_by_template_manual_counts_discrepancies.csv",
+    LOCAL_BASE_DIR
+    / "outputs"
+    / "2024_files_by_template_manual_counts_discrepancies.csv",
     index=False,
 )
 
@@ -125,9 +137,13 @@ auto_count = manual_counts["manifest_count"].sum()
 manual_count_total = manual_counts["manual_count"].sum()
 
 # missing manifests
-missing_rows = manual_counts[manual_counts["manual_count"] > manual_counts["manifest_count"]]
+missing_rows = manual_counts[
+    manual_counts["manual_count"] > manual_counts["manifest_count"]
+]
 missing_count = (missing_rows["manual_count"] - missing_rows["manifest_count"]).sum()
-percent_missing = (missing_count / manual_count_total * 100) if manual_count_total > 0 else 0
+percent_missing = (
+    (missing_count / manual_count_total * 100) if manual_count_total > 0 else 0
+)
 
 # false positives
 false_positive_rows = manual_counts[
