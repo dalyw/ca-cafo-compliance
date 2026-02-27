@@ -93,10 +93,10 @@ print(
 # Convert files_2024 list to DataFrame for easier lookup
 files_2024_df = pd.DataFrame(files_2024)
 
-# load "2024_files_by_template_manual_counts.csv"
+# load "2024_files_by_template_manual.csv"
 # update the manifest_count to match the CURRENT counts
 gdrive_manual_counts_path = os.path.join(
-    GDRIVE_BASE, "2024_files_by_template_manual_counts.csv"
+    GDRIVE_BASE, "2024_files_by_template_manual.csv"
 )
 manual_counts = pd.read_csv(gdrive_manual_counts_path)
 for index, row in manual_counts.iterrows():
@@ -112,9 +112,7 @@ manual_counts.to_csv(gdrive_manual_counts_path, index=False)
 print(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
 # save this as a separate csv for what needs to be manually adjusted
 manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]].to_csv(
-    LOCAL_BASE_DIR
-    / "outputs"
-    / "2024_files_by_template_manual_counts_discrepancies.csv",
+    LOCAL_BASE_DIR / "outputs" / "2024_files_by_template_manual_discrepancies.csv",
     index=False,
 )
 

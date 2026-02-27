@@ -598,7 +598,7 @@ def main(
             os.path.join(
                 repo_base_dir,
                 "outputs",
-                "2024_files_by_template_manual_counts_discrepancies.csv",
+                "2024_files_by_template_manual_discrepancies.csv",
             )
         )
 

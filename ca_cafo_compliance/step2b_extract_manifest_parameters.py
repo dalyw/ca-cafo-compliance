@@ -1,18 +1,22 @@
 #!/usr/bin/env python3
+import calendar
 import os
 import re
 import glob
 import pandas as pd
 import pymupdf as fitz
 from dateutil import parser as date_parser
-from datetime import (
-    datetime,
-)  # TODO: make use of datetime in date parsing instead of re
+
 from collections import defaultdict
 
-from helpers_pdf_metrics import clean_common_errors, extract_parameters_from_text
+from helpers_pdf_metrics import (
+    GDRIVE_BASE,
+    build_parameter_dicts,
+    clean_common_errors,
+    coerce_numeric_columns,
+    extract_parameters_from_text,
+)
 from helpers_geocoding import parse_destination_address_and_parcel
-from helpers_pdf_metrics import GDRIVE_BASE
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
@@ -20,15 +24,12 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 YEAR = "2024"
 REGION = "R5"
 
-PARAMS_DF = pd.read_csv(os.path.join(DATA_DIR, "parameters.csv"))
 LOCATIONS_DF = pd.read_csv(os.path.join(DATA_DIR, "parameter_locations.csv"))
 TEMPLATES_DF = pd.read_csv(os.path.join(DATA_DIR, "templates.csv"))
-manifest_params = PARAMS_DF[
-    PARAMS_DF["manifest_type"].isin(["manure", "wastewater", "both"])
-]
-PARAM_TO_COL = manifest_params.set_index("parameter_key")["parameter_name"].to_dict()
-PARAM_TYPES = dict(zip(manifest_params["parameter_key"], manifest_params["data_type"]))
-PARAM_DEFAULTS = dict(zip(manifest_params["parameter_key"], manifest_params["default"]))
+_manifest_dicts = build_parameter_dicts(manifest_only=True)
+PARAM_TO_COL = _manifest_dicts["key_to_name"]
+PARAM_TYPES = _manifest_dicts["key_to_type"]
+PARAM_DEFAULTS = _manifest_dicts["key_to_default"]
 
 # Load / haul pattern parsing
 _NUM = r"(\d+(?:\.\d+)?)"  # capture a number
@@ -228,10 +229,10 @@ def _parse_hauling_table(manifest_text):
     return rows
 
 
-_MONTHS = (
-    r"january|february|march|april|may|june|july|august|september"
-    r"|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec"
-)
+_MONTH_NAMES = [m.lower() for m in calendar.month_name[1:]] + [
+    m.lower() for m in calendar.month_abbr[1:]
+]
+_MONTHS = "|".join(_MONTH_NAMES)
 _DATE_TOKEN_RE = re.compile(
     r"\d{1,2}/\d{1,2}/\d{2,4}"
     rf"|(?:{_MONTHS})(?:\s+\d{{1,2}})?(?:\s*,?\s*\d{{2,4}})?",
@@ -306,9 +307,9 @@ def extract_manifest_fields(manifest_text, template):
                     std_val = None
                 elif "compost" in vl:
                     std_val = "Composting Facility"
-                elif "Farmer" in value:
-                    std_val = value[value.find("Farmer") :]
-                    std_val = re.sub(r"^Farmer[\s.—-]+$", "Farmer", std_val)
+                elif "farmer" in vl:
+                    std_val = value[value.lower().find("farmer") :]
+                    std_val = std_val.rstrip(" .—-")
             data[PARAM_TO_COL[std_key]] = std_val
 
         # Parse destination into address and/or parcel; store both when present
@@ -464,13 +465,11 @@ def main():
     print(all_manifests[:2])  # print first 2 for sanity check
     df = pd.DataFrame(all_manifests)
     print(df.head())
-    out_csv = "ca_cafo_compliance/outputs/2024_manifests_raw.csv"
+    out_csv = "ca_cafo_compliance/outputs/2024_manifests_automatic.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
 
     # Coerce all numeric columns
-    numeric_cols = [PARAM_TO_COL[k] for k, t in PARAM_TYPES.items() if t == "numeric"]
-    print(df.columns)
-    df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors="coerce")
+    coerce_numeric_columns(df)
 
     n_total = len(df)
     manure_col = PARAM_TO_COL["manure_amount"]

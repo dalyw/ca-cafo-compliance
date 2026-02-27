@@ -6,7 +6,7 @@ from step2b_extract_manifest_parameters import manifest_params
 # Paths
 OUTPUTS_DIR = os.path.join(os.path.dirname(__file__), "outputs")
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_raw.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
 
 
 def main():
@@ -97,13 +97,15 @@ def main():
                 suffixes=("_manual", "_extracted"),
             )
             merged["match"] = merged.apply(
-                lambda x: (pd.isna(x[f"{col}_manual"]) and pd.isna(x[f"{col}_extracted"]))
+                lambda x: (
+                    pd.isna(x[f"{col}_manual"]) and pd.isna(x[f"{col}_extracted"])
+                )
                 or (x[f"{col}_manual"] == x[f"{col}_extracted"]),
                 axis=1,
             )
             accuracy = merged["match"].mean() * 100 if len(merged) > 0 else 0
             plt_values.append((col, manual_count, extracted_count, accuracy))
-    
+
     # Sort by manual_count descending
     plt_values.sort(key=lambda x: x[1], reverse=True)
     bar_width = 0.25
@@ -146,7 +148,9 @@ def main():
     ax2.set_ylabel("Accuracy (%)")
     ax1.set_xticks(indices)
     ax1.set_xticklabels(labels, rotation=45, ha="right")
-    ax1.legend([bars1, bars2, bars3], ["Manual", "Extracted", "Accuracy (%)"], loc="upper left")
+    ax1.legend(
+        [bars1, bars2, bars3], ["Manual", "Extracted", "Accuracy (%)"], loc="upper left"
+    )
     ax2.set_ylim(0, 100)
     plt.title("Manual vs Extracted Counts and Accuracy per Parameter")
     plt.tight_layout()
@@ -154,7 +158,10 @@ def main():
 
     # Print stats
     for i, (col, manual_count, extracted_count, accuracy) in enumerate(plt_values):
-        print(f"  {col}: {manual_count}/{len(manual_df)} manual, {extracted_count}/{len(extracted_df)} extracted, {accuracy:.2f}% accuracy")
-    
+        print(
+            f"  {col}: {manual_count}/{len(manual_df)} manual, {extracted_count}/{len(extracted_df)} extracted, {accuracy:.2f}% accuracy"
+        )
+
+
 if __name__ == "__main__":
     main()

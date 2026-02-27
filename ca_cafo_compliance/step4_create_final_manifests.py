@@ -2,21 +2,22 @@ import os
 import re
 import pandas as pd
 import plotly.express as px
-from ast import literal_eval
 
 from helpers_geocoding import (
+    enrich_address_columns,
     geocode_address,
     geocode_parcel,
-    load_geocoding_cache,
-    save_geocoding_cache,
+    looks_like_parcel_number,
+    parse_destination_address_and_parcel,
 )
+from helpers_pdf_metrics import coerce_numeric_columns
 
 GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_raw.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
 PARAMETERS_PATH = os.path.join(BASE_DIR, "data", "parameters.csv")
 
 # Columns to EXCLUDE from each output: wastewater-only cols excluded from manure, vice versa.
@@ -28,15 +29,15 @@ specific_cols = {
 
 
 cols_to_geocode = ["Origin Dairy Address", "Destination Address"]
-_geo = lambda col: f"{col} (Geocoded)"
-_GEOCODING_COLS = {_geo(c) for c in cols_to_geocode}
 cols_to_drop = [
-    "Unnamed: 22",
     "DONE",
     "Is Duplicate",
     "Street no",
     "Rest of PDF",
     "County",
+    "Destination Longitude",
+    "Destination Latitude",
+    "Destination Type",
 ]
 
 # California bounding box
@@ -50,12 +51,26 @@ CA_MAP_LAYOUT = dict(
     width=1000,
 )
 
+# def _geocode_if_valid(addr, geocode_fn, **kwargs):
+#     if not isinstance(addr, str) or not addr.strip():
+#         return None
+#     res = geocode_fn(addr, **kwargs)
+#     lat, lng = (res[:2] if isinstance(res, (tuple, list)) and len(res) >= 2 else (None, None))
+#     return (lat, lng) if (lat is not None and lng is not None) else None
 
-def _geocode_if_valid(addr, geocode_fn, cache):
-    if not addr or pd.isna(addr):
+
+def _geocode_if_valid(addr, geocode_fn, **kwargs):
+    if not isinstance(addr, str) or not addr.strip() or pd.isna(addr):
         return None
-    result = geocode_fn(addr, cache)
-    return result if result and all(v is not None for v in result) else None
+
+    res = geocode_fn(addr, **kwargs)
+
+    # geocode_address returns (lat, lng, meta); parcel geocoder often (lat, lng)
+    if not isinstance(res, (tuple, list)) or len(res) < 2:
+        return None
+
+    lat, lng = res[0], res[1]
+    return (lat, lng) if (lat is not None and lng is not None) else None
 
 
 DEST_FINAL_COL = "Destination Address Final"
@@ -72,12 +87,12 @@ def _save_fig(fig, name):
 
 _COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
 
-
-cache = load_geocoding_cache()
-
 # Load both files
-manual_df = pd.read_csv(MANUAL_PATH)
+manual_df = pd.read_csv(MANUAL_PATH, engine="python", on_bad_lines="warn")
 extracted_df = pd.read_csv(EXTRACTED_PATH)
+
+# Coerce numeric columns (may have become strings after manual edits in step3)
+coerce_numeric_columns(manual_df)
 
 # Print DONE statistics
 done_count = (manual_df["DONE"] == "x").sum()
@@ -94,10 +109,8 @@ if n_dupes > 0:
 # Key columns for matching
 key_cols = ["Source PDF", "Manifest Number"]
 
-# Find columns in extracted that are NOT in manual (excluding geocoding)
-cols_to_add = (
-    set(extracted_df.columns) - set(manual_df.columns) - _GEOCODING_COLS - set(key_cols)
-)
+# Find columns in extracted that are NOT in manual
+cols_to_add = set(extracted_df.columns) - set(manual_df.columns) - set(key_cols)
 
 print(f"\nColumns to add from extracted_manifests: {sorted(cols_to_add)}")
 
@@ -118,9 +131,8 @@ for col in cols_to_add:
 
 print("\nResolving Destination Address Final + Geocoding")
 manual_df[[DEST_FINAL_COL, DEST_FINAL_SOURCE_COL]] = None
-manual_df[list(_GEOCODING_COLS)] = None
 source_counts = {}
-geo_counts = {col: 0 for col in _GEOCODING_COLS}
+geo_counts = {col: 0 for col in cols_to_geocode}
 
 # Loop exits on first satisfied source
 priority = [
@@ -133,11 +145,17 @@ priority = [
 ]
 
 origin_address_col = "Origin Dairy Address"
+origin_lat_col, origin_lng_col = "Origin Latitude", "Origin Longitude"
+dest_lat_col, dest_lng_col = "Destination Latitude", "Destination Longitude"
+manual_df[[origin_lat_col, origin_lng_col, dest_lat_col, dest_lng_col]] = None
+
 for idx, row in manual_df.iterrows():
     addr = row[origin_address_col]
-    if addr and (r := _geocode_if_valid(addr, geocode_address, cache)):
-        manual_df.at[idx, _geo(origin_address_col)] = str(r)
-        geo_counts[_geo(origin_address_col)] += 1
+    county = row.get("County")
+    if addr and (r := _geocode_if_valid(addr, geocode_address, county=county)):
+        manual_df.at[idx, origin_lat_col] = r[0]
+        manual_df.at[idx, origin_lng_col] = r[1]
+        geo_counts[origin_address_col] += 1
 
     # Resolve destination address and geocode
     val = src = dest_geocoded = None
@@ -151,35 +169,33 @@ for idx, row in manual_df.iterrows():
 
         if col == "Destination Assessor Parcel Number":
             parts = [x.strip() for x in raw_str.split(",") if x.strip()]
-            hits = [
-                r for p in parts if (r := _geocode_if_valid(p, geocode_parcel, cache))
-            ]
+            hits = [r for p in parts if (r := _geocode_if_valid(p, geocode_parcel))]
             if hits:
                 val, src = raw_str, col
-                dest_geocoded = hits if len(hits) > 1 else hits[0]
+                dest_geocoded = hits[0]  # use first parcel coords
                 break
         elif col == "Destination Nearest Cross Street":
             m = _COORD_RE.match(raw_str)
             if m:
-                c = (float(m.group(1)), float(m.group(2)))
-                val, src, dest_geocoded = str(c), col, c
+                dest_geocoded = (float(m.group(1)), float(m.group(2)))
+                val, src = raw_str, col
                 break
         elif col == "Destination Address":
             x = row.get("Destination Nearest Cross Street")
             if x and pd.notna(x) and str(x).strip() and not _COORD_RE.match(str(x)):
                 raw_str = f"{raw_str} {str(x).strip()}"
             val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, cache)
+            dest_geocoded = _geocode_if_valid(raw_str, geocode_address)
             break
         elif col == "Destination Name":
             if len(re.sub(r"[^a-zA-Z0-9]", "", raw_str)) >= 5:
-                g = _geocode_if_valid(raw_str, geocode_address, cache)
+                g = _geocode_if_valid(raw_str, geocode_address)
                 if g:
-                    val, src, dest_geocoded = str(g), col, g
+                    val, src, dest_geocoded = raw_str, col, g
                     break
         else:
             val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, cache)
+            dest_geocoded = _geocode_if_valid(raw_str, geocode_address)
             break
 
     if val:
@@ -187,23 +203,150 @@ for idx, row in manual_df.iterrows():
         manual_df.at[idx, DEST_FINAL_SOURCE_COL] = src
         source_counts[src] = source_counts.get(src, 0) + 1
     if dest_geocoded:
-        manual_df.at[idx, _geo("Destination Address")] = str(dest_geocoded)
-        geo_counts[_geo("Destination Address")] += 1
+        manual_df.at[idx, dest_lat_col] = dest_geocoded[0]
+        manual_df.at[idx, dest_lng_col] = dest_geocoded[1]
+        geo_counts["Destination Address"] += 1
 
 resolved = manual_df[DEST_FINAL_COL].notna().sum()
 print(f"  Resolved {resolved}/{len(manual_df)} destination addresses:")
 for source, count in sorted(source_counts.items(), key=lambda x: -x[1]):
     print(f"    {source}: {count}")
 for col in cols_to_geocode:
-    print(f"{geo_counts[_geo(col)]}/{len(manual_df)} {col}")
-save_geocoding_cache(cache)
+    print(f"{geo_counts[col]}/{len(manual_df)} {col}")
+
+# Enrich with city/zip/county from geocoded addresses
+enrich_address_columns(manual_df, "Origin Dairy Address", prefix="Origin ", county_col_in="County")
+enrich_address_columns(manual_df, "Destination Address", prefix="Destination ")
+
+# Backfill missing mass columns: mass = volume * density
+backfill_rules = [
+    ("Total Manure Amount (tons)", "Total Manure Amount (cubic yards)"),
+    ("Manure Mass per Haul (tons)", "Manure Volume per Haul (cubic yards)"),
+]
+for mass_col, vol_col in backfill_rules:
+    backfill = manual_df[mass_col].isna() & manual_df[vol_col].notna()
+    manual_df.loc[backfill, mass_col] = (
+        manual_df.loc[backfill, vol_col] * manual_df.loc[backfill, "Manure Density"]
+    )
+    print(f"  Backfilled {backfill.sum()} mass values for {mass_col}")
+
+# Backfill missing solids: solids = 1 - moisture
+backfill_solids = (
+    manual_df["Manure Solids (%)"].isna() & manual_df["Manure Moisture (%)"].notna()
+)
+manual_df.loc[backfill_solids, "Manure Solids (%)"] = (
+    1 - manual_df.loc[backfill_solids, "Manure Moisture (%)"]
+)
+print(f"  Backfilled {backfill_solids.sum()} values for Manure Solids (%)")
+
+# Drop columns now consolidated into tons/solids
+early_drop = [
+    "Total Manure Amount (cubic yards)",
+    "Manure Volume per Haul (cubic yards)",
+    "Manure Density",
+    "Manure Moisture (%)",
+]
+manual_df = manual_df.drop(columns=[c for c in early_drop if c in manual_df.columns])
+
+# Expand multi-parcel destinations into separate rows
+amount_cols_to_split = [
+    "Total Manure Amount (tons)",
+    "Total Process Wastewater Exports (Gallons)",
+    "Manure Mass per Haul (tons)",
+    "Wastewater Volume per Haul (Gallons)",
+]
+
+new_rows = []
+drop_idxs = []
+for idx, row in manual_df.iterrows():
+    apn_raw = row.get("Destination Assessor Parcel Number")
+    if not apn_raw or pd.isna(apn_raw):
+        continue
+    # Validate each comma-separated part as a parcel number
+    parcels = []
+    for p in (x.strip() for x in str(apn_raw).split(",") if x.strip()):
+        _, parcel = parse_destination_address_and_parcel(p)
+        if parcel and looks_like_parcel_number(parcel):
+            parcels.append(parcel)
+    if len(parcels) <= 1:
+        continue
+
+    n = len(parcels)
+    base_manifest = str(row["Manifest Number"])
+    for j, parcel in enumerate(parcels):
+        new_row = row.copy()
+        new_row["Manifest Number"] = f"{base_manifest}p{j+1}"
+        new_row["Destination Assessor Parcel Number"] = parcel
+        for col in amount_cols_to_split:
+            val = pd.to_numeric(new_row.get(col), errors="coerce")
+            if pd.notna(val):
+                new_row[col] = val / n
+        # Geocode individual parcel
+        r = _geocode_if_valid(parcel, geocode_parcel)
+        if r:
+            new_row[dest_lat_col] = r[0]
+            new_row[dest_lng_col] = r[1]
+        new_rows.append(new_row)
+    drop_idxs.append(idx)
+
+if new_rows:
+    manual_df = manual_df.drop(drop_idxs)
+    manual_df = pd.concat([manual_df, pd.DataFrame(new_rows)], ignore_index=True)
+    print(f"  Expanded {len(drop_idxs)} multi-parcel rows into {len(new_rows)} rows")
 
 # Aggregate destination types into broader categories
 dest_type_col = "Destination Type (Standardized)"
-merge_with_composting = ["Kelloggs", "Hyponex", "Fertilizer Company"]
-manual_df[dest_type_col] = manual_df[dest_type_col].replace(
-    {k: "Composting Facility" for k in merge_with_composting}
+merge_map = {
+    "Composting Facility": ["Kelloggs", "Hyponex", "Fertilizer Company"],
+    "Farmer": ["Spreader"],
+    "Other": ["Garden"],
+}
+for new_type, old_types in merge_map.items():
+    manual_df[dest_type_col] = manual_df[dest_type_col].replace(
+        {k: new_type for k in old_types}
+    )
+
+# for rows with missing or non-geocoded Origin Dairy Address, backfill from main report outputs csv
+# from LOCAL ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary
+needs_backfill = (
+    manual_df["Origin Dairy Address"].isna() | manual_df["Origin Latitude"].isna()
 )
+print(f"{needs_backfill.sum()} need origin dairy address backfill")
+dairy_summary_df = pd.read_csv(
+    "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/Dairy_Report_Summary_Region_5_2024_pdf_merged.csv"
+)
+dairy_summary_df = dairy_summary_df.rename(
+    columns={"Dairy Address": "Origin Dairy Address"}
+)
+dairy_summary_df["Source PDF"] = dairy_summary_df["Source PDF"].str.replace(
+    r"\.pdf$", "", regex=True
+)
+lookup = dairy_summary_df.drop_duplicates(subset="Source PDF").set_index("Source PDF")[
+    "Origin Dairy Address"
+]
+manual_df.loc[needs_backfill, "Origin Dairy Address"] = manual_df.loc[
+    needs_backfill, "Source PDF"
+].map(lookup)
+num_backfilled = (
+    needs_backfill.sum()
+    - manual_df.loc[needs_backfill, "Origin Dairy Address"].isna().sum()
+)
+print(f"Backfilled {num_backfilled} rows")
+
+# print the name of remaining rows with missing origin dairy address
+# print unique FACILITIES< not manifests
+remaining_missing = (
+    manual_df[manual_df["Origin Dairy Address"].isna()]
+    .get("Source PDF", pd.Series())
+    .loc[manual_df[manual_df["Origin Dairy Address"].isna()].index]
+    .tolist()
+)
+remaining_missing = list(set(remaining_missing))
+print(f"Remaining rows with missing origin dairy address: {len(remaining_missing)}")
+if remaining_missing:
+    print("Source PDFs with missing origin dairy address:")
+    for pdf in remaining_missing:
+        print(f"  {pdf}")
 
 # Split by manifest type and drop irrelevant columns
 manifest_type_col = "Manifest Type"
@@ -218,26 +361,6 @@ df_ww = manual_df.loc[wastewater_mask, wastewater_cols].copy()
 print(f"  Manure + both: {len(df_manure)} rows")
 print(f"  Wastewater + both: {len(df_ww)} rows")
 
-# Coerce numeric columns and backfill tons from cubic yards * density where missing
-# for col in [
-#     "Manure Mass per Haul (tons)",
-#     "Total Manure Amount (tons)",
-#     "Total Manure Amount (cubic yards)",
-#     "Manure Density",
-# ]:
-#     df_manure[col] = pd.to_numeric(df_manure[col], errors="coerce")
-
-missing_tons = df_manure["Total Manure Amount (tons)"].isna()
-has_cy = (
-    df_manure["Total Manure Amount (cubic yards)"].notna()
-    & df_manure["Manure Density"].notna()
-)
-backfill = missing_tons & has_cy
-df_manure.loc[backfill, "Total Manure Amount (tons)"] = (
-    df_manure.loc[backfill, "Total Manure Amount (cubic yards)"]
-    * df_manure.loc[backfill, "Manure Density"]
-)
-print(f"  Backfilled {backfill.sum()} manure tons from cubic yards * density")
 
 tons_per_haul = df_manure["Manure Mass per Haul (tons)"].dropna()
 # Average per facility (PDF) so high-manifest facilities don't dominate
@@ -289,28 +412,22 @@ for label, df, amount_col, unit in _type_configs:
     df.to_csv(os.path.join(GDRIVE_BASE, fname), index=False)
 
 # Interactive maps (HTML only — carto-positron basemap shows state/county boundaries)
-for col in cols_to_geocode:
-    geo_col = _geo(col)
-    has_geo = manual_df[geo_col].notna()
+_map_configs = [
+    ("Origin Dairy Address", "Origin Latitude", "Origin Longitude"),
+    ("Destination Address", "Destination Latitude", "Destination Longitude"),
+]
+for col, lat_c, lng_c in _map_configs:
+    has_geo = manual_df[lat_c].notna() & manual_df[lng_c].notna()
     if not has_geo.any():
         continue
     subset = manual_df.loc[has_geo].copy()
-    # Parse geocoded strings into coord lists, explode multi-parcel rows
-    subset["_coords"] = (
-        subset[geo_col]
-        .apply(lambda s: literal_eval(str(s).strip()))
-        .apply(lambda p: p if isinstance(p, list) else [p])
-    )
-    subset = subset.explode("_coords")
-    subset["Latitude"] = subset["_coords"].apply(lambda c: float(c[0]))
-    subset["Longitude"] = subset["_coords"].apply(lambda c: float(c[1]))
     subset["Dairy Name"] = subset.get("Origin Dairy Name", "Unknown")
     subset["Address"] = subset[col]
 
     fig = px.scatter_map(
         subset,
-        lat="Latitude",
-        lon="Longitude",
+        lat=lat_c,
+        lon=lng_c,
         color="Manifest Type",
         hover_name="Dairy Name",
         hover_data={"Address": True, "Manifest Type": True},
@@ -349,7 +466,7 @@ for label, df, amount_col, unit in _type_configs:
         if pd.isna(first):
             first = last
 
-        # Skip full-year reports (Jan–Dec) — not specific enough
+        # Skip full-year reports (Jan–Dec)
         if first.month == 1 and last.month == 12:
             continue
 

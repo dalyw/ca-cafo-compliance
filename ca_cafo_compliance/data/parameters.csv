@@ -123,6 +123,8 @@ manure_ton_per_haul,Manure Mass per Haul (tons),numeric,NA,,manure,calculation
 manure_yard_per_haul,Manure Volume per Haul (cubic yards),numeric,NA,,manure,calculation
 manure_number_hauls,Manure Number of Hauls,numeric,NA,,manure,calculation
 manure_amount,Total Manure Amount (tons),numeric,NA,,manure,pdf
+manure_amount_yards,Total Manure Amount (cubic yards),numeric,NA,,manure,pdf
+manure_density,Manure Density,numeric,NA,,manure,pdf
 manure_solids_percent,Manure Solids (%),numeric,NA,,manure,pdf
 manure_moisture_percent,Manure Moisture (%),numeric,NA,,manure,pdf
 manure_method,Method Used to Determine Volume of Manure,text,NA,Method used to calculate manure amount,manure,pdf

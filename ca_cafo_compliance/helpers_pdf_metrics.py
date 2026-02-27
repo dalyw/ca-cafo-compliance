@@ -1,3 +1,5 @@
+import glob
+import os
 import pandas as pd
 import numpy as np
 import re
@@ -20,7 +22,73 @@ TEMPLATE_KEY_TO_NAME = dict(
 
 GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
 
-OCR_METHODS = ["llmwhisperer", "tesseract"]
+OCR_METHODS = ["llmwhisperer", "tesseract", "fitz"]
+OCR_DIRS = [f"{m}_output" for m in OCR_METHODS]
+
+
+def find_pdf_files(folder):
+    """Find all PDFs that have at least one OCR text output in sibling OCR directories."""
+    original_dir = os.path.join(folder, "original")
+    seen = set()
+    pdf_files = []
+    for ocr_dir in OCR_DIRS:
+        ocr_path = os.path.join(folder, ocr_dir)
+        if not os.path.exists(ocr_path):
+            continue
+        for text_file in glob.glob(os.path.join(ocr_path, "*.txt")):
+            pdf_name = os.path.basename(text_file).replace(".txt", ".pdf")
+            pdf_path = os.path.join(original_dir, pdf_name)
+            if pdf_path not in seen and os.path.exists(pdf_path):
+                seen.add(pdf_path)
+                pdf_files.append(pdf_path)
+    return pdf_files
+
+
+def load_ocr_text(pdf_path):
+    """Load and clean OCR text for a PDF by checking sibling OCR output directories.
+
+    Tries each OCR directory in priority order and returns the cleaned text
+    from the first one found, or empty string if none exist.
+    """
+    parent_dir = os.path.dirname(os.path.dirname(pdf_path))
+    pdf_stem = os.path.splitext(os.path.basename(pdf_path))[0]
+    for ocr_dir in OCR_DIRS:
+        text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_stem}.txt")
+        if os.path.exists(text_file):
+            with open(text_file, "r") as f:
+                return clean_common_errors(f.read())
+    return ""
+
+
+# Parameters metadata
+_PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
+
+
+def build_parameter_dicts(manifest_only=False):
+    """Build parameter mapping dicts from parameters.csv.
+
+    Returns dict with keys: 'key_to_name', 'key_to_type', 'key_to_default'.
+    If manifest_only=True, filters to manure/wastewater/both parameters.
+    """
+    df = _PARAMETERS_DF
+    if manifest_only:
+        df = df[df["manifest_type"].isin(["manure", "wastewater", "both"])]
+    return {
+        "key_to_name": dict(zip(df["parameter_key"], df["parameter_name"])),
+        "key_to_type": dict(zip(df["parameter_key"], df["data_type"])),
+        "key_to_default": dict(zip(df["parameter_key"], df["default"])),
+    }
+
+
+def coerce_numeric_columns(df):
+    """Coerce columns marked as 'numeric' in parameters.csv to numeric dtype (in-place)."""
+    numeric_param_names = set(
+        _PARAMETERS_DF.loc[_PARAMETERS_DF["data_type"] == "numeric", "parameter_name"]
+    )
+    numeric_cols = [c for c in df.columns if c in numeric_param_names]
+    df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors="coerce")
+    return df
+
 
 _KEEP_UPPER = {"LLC", "GPM", "INC", "CA", "DBA", "NA", "N/A"}
 

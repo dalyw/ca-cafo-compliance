@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import glob
-import gc
-import sys
 
 from helpers_calculated_metrics import (
     calculate_consultant_metrics,
@@ -11,17 +9,16 @@ from helpers_calculated_metrics import (
     calculate_metrics,
 )
 from helpers_pdf_metrics import (
+    GDRIVE_BASE,
     YEARS,
     REGIONS,
-    clean_common_errors,
+    build_parameter_dicts,
+    coerce_numeric_columns,
     extract_parameters_from_text,
+    find_pdf_files,
+    load_ocr_text,
 )
-from ca_cafo_compliance.helpers_geocoding import (
-    geocode_address,
-    find_cached_address,
-    extract_address_components,
-    load_geocoding_cache,
-)
+from ca_cafo_compliance.helpers_geocoding import enrich_address_columns
 
 # TODO:
 # use https://github.com/reglab/cal-ff/tree/main/cacafo
@@ -58,43 +55,17 @@ def find_fuzzy_match(row, cadd_facilities):
 def main():
     """Main function to process all PDF files and extract data."""
 
-    snake_to_pretty = dict(
-        zip(parameters["parameter_key"], parameters["parameter_name"])
-    )
-    params = {
-        "snake_to_pretty": snake_to_pretty,
-        "data_types": dict(zip(parameters["parameter_key"], parameters["data_type"])),
-        "defaults": dict(zip(parameters["parameter_key"], parameters["default"])),
-    }
+    param_dicts = build_parameter_dicts()
 
-    dtype_dict = {
-        col: str
-        for col in [
-            "region",
-            "template",
-            "parameter_key",
-            "page_search_text",
-            "search_direction",
-            "row_search_text",
-            "column_search_text",
-            "ignore_before",
-            "value_pattern",
-        ]
-    }
-    dtype_dict["item_order"] = "Int64"
     parameter_locations = pd.read_csv(
-        "ca_cafo_compliance/data/parameter_locations.csv", dtype=dtype_dict
+        "ca_cafo_compliance/data/parameter_locations.csv", dtype=str,
+    )
+    parameter_locations["item_order"] = parameter_locations["item_order"].astype(
+        "Int64"
     )
 
     all_params = parameters["parameter_key"].unique().tolist()
     available_templates = parameter_locations["template"].unique()
-
-    cache = load_geocoding_cache()
-
-    # Load zipcode to county mapping
-    zipcode_df = pd.read_csv("ca_cafo_compliance/data/zipcode_to_county.csv")
-    zipcode_df = zipcode_df[["zip", "county_name"]].drop_duplicates()
-    zipcode_df["zip"] = zipcode_df["zip"].astype(str)
 
     # Load county to region mapping
     county_region_df = pd.read_csv("ca_cafo_compliance/data/county_region.csv")
@@ -105,218 +76,105 @@ def main():
         )
     )
 
-    # Process reports
-    for year in YEARS:
-        base_data_path = f"ca_cafo_compliance/data/{year}"
-        base_output_path = f"ca_cafo_compliance/outputs/{year}"
+    # Discover all year/region/county/template folders from gdrive
+    folders = sorted(glob.glob(os.path.join(GDRIVE_BASE, "*", "*", "*", "*", "")))
+    for folder in folders:
+        parts = folder.rstrip(os.sep).split(os.sep)
+        # .../{year}/{region}/{county}/{template}
+        year, region, county, template = parts[-4], parts[-3], parts[-2], parts[-1]
+        if template not in available_templates:
+            continue
+        print(f"processing {template} in {county}")
+        output_dir = f"ca_cafo_compliance/outputs/{year}/{region}/{county}/{template}"
+        name = f"{county.capitalize()}_{year}_{template}"
 
-        for region in REGIONS:
-            region_data_path = os.path.join(base_data_path, region)
-            region_output_path = os.path.join(base_output_path, region)
-            if not os.path.exists(region_data_path):
+        # Process files based on template type
+        if template == "r8_csv" and region == "R8":
+            # Process R8 CSV files
+            animals_path = os.path.join(folder, "R8_animals.csv")
+            animals_df = pd.read_csv(animals_path)
+
+            # Create mapping from R8 column names to parameter names
+            r8_template_params = parameter_locations[
+                parameter_locations["template"] == "r8_csv"
+            ]
+
+            # Initialize all parameters as NA
+            df = pd.DataFrame()
+            for param in all_params:
+                df[param] = np.nan
+
+            # Map columns based on parameter_locations
+            for _, row in r8_template_params.iterrows():
+                if pd.notna(
+                    row["row_search_text"]
+                ):  # Only map if row_search_text exists
+                    param_key = row["parameter_key"]
+                    source_col = row["row_search_text"]
+                    if source_col in animals_df.columns:
+                        df[param_key] = animals_df[source_col]
+
+            # Add region and template info
+            df["region"] = region
+            df["template"] = template
+            df["year"] = year
+        else:
+            # Process PDF files
+            pdf_files = find_pdf_files(folder)
+            if not pdf_files:
                 continue
 
-            for county in [
-                d
-                for d in os.listdir(region_data_path)
-                if os.path.isdir(os.path.join(region_data_path, d))
-            ]:
-                county_data_path = os.path.join(region_data_path, county)
-                county_output_path = os.path.join(region_output_path, county)
+            # Process PDFs sequentially
+            results = []
+            for pdf_file in pdf_files:
+                result = {col: None for col in all_params}
+                result["filename"] = os.path.basename(pdf_file)
+                ocr_text = load_ocr_text(pdf_file)
 
-                for template in [
-                    d
-                    for d in os.listdir(county_data_path)
-                    if os.path.isdir(os.path.join(county_data_path, d))
-                ]:
-                    print(f"processing {template} in {county}")
-                    if template not in available_templates:
-                        continue
+                result.update(
+                    extract_parameters_from_text(
+                        ocr_text,
+                        template,
+                        parameter_locations,
+                        param_dicts["key_to_type"],
+                        param_dicts["key_to_default"],
+                    )
+                )
 
-                    folder = os.path.join(county_data_path, template)
-                    output_dir = os.path.join(county_output_path, template)
-                    name = f"{county.capitalize()}_{year}_{template}"
+                if result is not None:
+                    results.append(result)
 
-                    # Process files based on template type
-                    if template == "r8_csv" and region == "R8":
-                        # Process R8 CSV files
-                        animals_path = os.path.join(
-                            base_data_path, "R8", "all_r8", "r8_csv", "R8_animals.csv"
-                        )
-                        # manure_path = os.path.join(
-                        #     base_data_path, "R8", "all_r8", "r8_csv", "R8_manure.csv"
-                        # )
-                        animals_df = pd.read_csv(animals_path)
-                        # manure_df = pd.read_csv(manure_path)
+            # Create DataFrame and initialize all parameters as NA
+            df = pd.DataFrame(results)
+            for param in all_params:
+                if param not in df.columns:
+                    df[param] = np.nan
 
-                        # Create mapping from R8 column names to parameter names
-                        r8_template_params = parameter_locations[
-                            parameter_locations["template"] == "r8_csv"
-                        ]
+        # Convert numeric columns and calculate metrics
+        coerce_numeric_columns(df)
+        df = calculate_metrics(df)
 
-                        # Initialize all parameters as NA
-                        df = pd.DataFrame()
-                        for param in all_params:
-                            df[param] = np.nan
+        # Add region and sub_region information
+        df["region"] = region
+        df["template"] = template
+        df["year"] = year
+        # Get sub_region from county mapping
+        county_key = county.capitalize()
+        if county_key in county_region_map:
+            _, sub_region = county_region_map[county_key]
+            df["sub_region"] = sub_region
+        else:
+            df["sub_region"] = None
 
-                        # Map columns based on parameter_locations
-                        for _, row in r8_template_params.iterrows():
-                            if pd.notna(
-                                row["row_search_text"]
-                            ):  # Only map if row_search_text exists
-                                param_key = row["parameter_key"]
-                                source_col = row["row_search_text"]
-                                if source_col in animals_df.columns:
-                                    df[param_key] = animals_df[source_col]
+        # Geocode addresses and extract location data
+        enrich_address_columns(df, "dairy_address", cache)
 
-                        # Add region and template info
-                        df["region"] = region
-                        df["template"] = template
-                        df["year"] = year
-                    else:
-                        # Process PDF files
-                        ocr_dir = os.path.join(folder, "ocr_output")
-                        ai_ocr_dir = os.path.join(folder, "ai_ocr_output")
-                        if not os.path.exists(ocr_dir) and not os.path.exists(
-                            ai_ocr_dir
-                        ):
-                            continue
-
-                        pdf_files = []
-                        for text_file in glob.glob(os.path.join(ocr_dir, "*.txt")):
-                            pdf_name = os.path.basename(text_file).replace(
-                                ".txt", ".pdf"
-                            )
-                            pdf_path = os.path.join(folder, "original", pdf_name)
-                            if os.path.exists(pdf_path):
-                                pdf_files.append(pdf_path)
-
-                        if os.path.exists(ai_ocr_dir):
-                            for text_file in glob.glob(
-                                os.path.join(ai_ocr_dir, "*.txt")
-                            ):
-                                pdf_name = os.path.basename(text_file).replace(
-                                    ".txt", ".pdf"
-                                )
-                                pdf_path = os.path.join(folder, "original", pdf_name)
-                                if (
-                                    os.path.exists(pdf_path)
-                                    and pdf_path not in pdf_files
-                                ):
-                                    pdf_files.append(pdf_path)
-
-                        if not pdf_files:
-                            continue
-
-                        # Process PDFs sequentially
-                        results = []
-                        for pdf_file in pdf_files:
-                            result = {col: None for col in all_params}
-                            result["filename"] = os.path.basename(pdf_file)
-                            ocr_text = None
-
-                            pdf_dir = os.path.dirname(pdf_file)
-                            parent_dir = os.path.dirname(pdf_dir)
-                            pdf_name = os.path.splitext(os.path.basename(pdf_file))[0]
-
-                            for ocr_dir in ["llmwhisperer_output", "tesseract_output"]:
-                                text_file = os.path.join(
-                                    parent_dir, ocr_dir, f"{pdf_name}.txt"
-                                )
-                                if os.path.exists(text_file):
-                                    with open(text_file, "r") as f:
-                                        text = f.read()
-                                        ocr_text = clean_common_errors(text)
-
-                            if not ocr_text:
-                                ocr_text = ""  # Set to empty string
-
-                            result.update(
-                                extract_parameters_from_text(
-                                    ocr_text,
-                                    template,
-                                    parameter_locations,
-                                    params["data_types"],
-                                    params["defaults"],
-                                )
-                            )
-
-                            if result is not None:
-                                results.append(result)
-
-                        # Create DataFrame and initialize all parameters as NA
-                        df = pd.DataFrame(results)
-                        for param in all_params:
-                            if param not in df.columns:
-                                df[param] = np.nan
-
-                    # Convert numeric columns and calculate metrics
-                    for col in df.columns:
-                        if params["data_types"].get(col) == "numeric":
-                            df[col] = pd.to_numeric(df[col], errors="coerce")
-                    df = calculate_metrics(df)
-
-                    # Add region and sub_region information
-                    df["region"] = region
-                    df["template"] = template
-                    df["year"] = year
-                    # Get sub_region from county mapping
-                    county_key = county.capitalize()
-                    if county_key in county_region_map:
-                        _, sub_region = county_region_map[county_key]
-                        df["sub_region"] = sub_region
-                    else:
-                        df["sub_region"] = None
-
-                    # Geocode addresses and extract location data
-                    (
-                        df["latitude"],
-                        df["longitude"],
-                        df["city"],
-                        df["state"],
-                        df["zip"],
-                        df["county"],
-                    ) = (None, None, None, None, None, None)
-
-                    for idx, row in df.iterrows():
-                        if pd.isna(row["dairy_address"]):
-                            continue
-                        lat, lng = geocode_address(row["dairy_address"], cache)
-                        if lat is not None and lng is not None:
-                            df.at[idx, "latitude"] = lat
-                            df.at[idx, "longitude"] = lng
-                            # Get the formatted address from cache
-                            cached_addr = find_cached_address(
-                                row["dairy_address"], cache
-                            )
-                            if cached_addr and "address" in cache[cached_addr]:
-                                formatted_address = cache[cached_addr]["address"]
-                                df.at[idx, "address"] = (
-                                    formatted_address  # REPLACING machine-read with formatted address
-                                )
-                                # Extract city, state, and zip from formatted address
-                                city, state, zip_code = extract_address_components(
-                                    formatted_address
-                                )
-                                df.at[idx, "city"] = city
-                                df.at[idx, "state"] = state
-                                df.at[idx, "zip"] = zip_code
-                                # Look up county from zip code
-                                if zip_code:
-                                    county_match = zipcode_df[
-                                        zipcode_df["zip"] == zip_code
-                                    ]
-                                    if not county_match.empty:
-                                        df.at[idx, "county"] = county_match.iloc[0][
-                                            "county_name"
-                                        ]
-
-                    # Save results
-                    os.makedirs(output_dir, exist_ok=True)
-                    for f in os.listdir(output_dir):
-                        if f.endswith(".csv"):
-                            os.remove(os.path.join(output_dir, f))
-                    df.to_csv(os.path.join(output_dir, f"{name}.csv"), index=False)
+        # Save results
+        os.makedirs(output_dir, exist_ok=True)
+        for f in os.listdir(output_dir):
+            if f.endswith(".csv"):
+                os.remove(os.path.join(output_dir, f))
+        df.to_csv(os.path.join(output_dir, f"{name}.csv"), index=False)
 
     # Consolidate data
     if consolidate_data:
@@ -334,9 +192,6 @@ def main():
 
         for year in YEARS:
             base_path = f"ca_cafo_compliance/outputs/{year}"
-            if not os.path.exists(base_path):
-                continue
-
             for region in REGIONS:
                 region_path = os.path.join(base_path, region)
                 if not os.path.exists(region_path):
@@ -399,7 +254,7 @@ def main():
                 if year == 2023 and region == "R5":
                     consultant_metrics = calculate_consultant_metrics(final_df)
                     consultant_metrics = consultant_metrics.rename(
-                        columns=params["snake_to_pretty"]
+                        columns=param_dicts["key_to_name"]
                     )
                     metrics_file = (
                         f"ca_cafo_compliance/outputs/consolidated/"
@@ -408,7 +263,7 @@ def main():
                     consultant_metrics.to_csv(metrics_file, index=False)
 
                 # Convert to pretty names and save individual region files
-                final_df_pretty = final_df.rename(columns=params["snake_to_pretty"])
+                final_df_pretty = final_df.rename(columns=param_dicts["key_to_name"])
                 output_file = (
                     f"ca_cafo_compliance/outputs/consolidated/"
                     f"{year}_{region}_master.csv"
@@ -425,7 +280,7 @@ def main():
             all_master_df = pd.concat(all_dataframes, ignore_index=True)
 
             # Now rename columns after concatenation
-            all_master_df = all_master_df.rename(columns=params["snake_to_pretty"])
+            all_master_df = all_master_df.rename(columns=param_dicts["key_to_name"])
 
             all_master_output_file = (
                 "ca_cafo_compliance/outputs/consolidated/all_master.csv"
@@ -435,17 +290,6 @@ def main():
             print(f"Total records in all_master: {len(all_master_df)}")
         else:
             print("No data found to create all_master file")
-
-    # Cleanup and clear any large variables
-    gc.collect()
-    for name in list(sys.modules.keys()):
-        if name.startswith("ca_cafo_compliance"):
-            try:
-                del sys.modules[name]
-            except (KeyError, AttributeError):
-                pass
-
-    print("Script completed")
 
 
 if __name__ == "__main__":
