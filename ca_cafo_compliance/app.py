@@ -11,6 +11,7 @@ import requests
 from io import StringIO
 import sys
 from helpers_pdf_metrics import YEARS, REGIONS, cf, TEMPLATE_KEY_TO_NAME
+from helpers_plotting import PALETTE
 
 # Add the current directory to Python path for imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -29,21 +30,6 @@ with open(
     img_base64 = base64.b64encode(img_file.read()).decode()
 
 
-# Colorblind-friendly palette
-# from ColorBrewer
-PALETTE = {
-    "blue": "#1f77b4",
-    "orange": "#ff7f0e",
-    "green": "#2ca02c",
-    "red": "#d62728",
-    "purple": "#9467bd",
-    "brown": "#8c564b",
-    "pink": "#e377c2",
-    "gray": "#7f7f7f",
-    "yellow": "#bcbd22",
-    "teal": "#17becf",
-}
-
 # Nitrogen-related colors
 NITROGEN_COLOR = PALETTE["blue"]
 NITROGEN_EST_COLOR = "rgba(31, 119, 180, 0.5)"  # blue 0.5 opacity
@@ -61,7 +47,7 @@ REGION_COLORS = {
     "Region 1": PALETTE["blue"],
     "Region 2": PALETTE["orange"],
     "Region 5": PALETTE["green"],
-    "Region 7": PALETTE["red"],
+    "Region 7": PALETTE["pink"],
     "Region 8": PALETTE["purple"],
 }
 
@@ -71,7 +57,7 @@ CHART_COLORS = {
     "not_acquired": PALETTE["yellow"],
     "perfect_match": PALETTE["gray"],
     "herd_breakdown": PALETTE["gray"],
-    "under_reporting": PALETTE["red"],
+    "under_reporting": PALETTE["pink"],
 }
 
 # watermark background
@@ -827,7 +813,7 @@ def main():
             (
                 "Wastewater Ratio",
                 "Based on Reported Milk",
-                "red",
+                "pink",
                 2,
                 ".2f",
                 "Liters per Liter Milk",

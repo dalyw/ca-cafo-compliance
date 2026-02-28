@@ -671,13 +671,6 @@
       "source": "arcgis"
     }
   ],
-  "0001-0001-0001-0001": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel"
-    }
-  ],
   "113 walnut saint madera california 93637": [
     36.949421617645,
     -120.056857997578,
@@ -1856,27 +1849,11 @@
       "source": "arcgis"
     }
   ],
-  "elkhorn farms": [
-    null,
-    null,
-    {
-      "address": "Elkhorn, CA, USA",
-      "source": "google"
-    }
-  ],
   "4974 avenue 272 visalia california 93277|kings": [
     36.285200424625,
     -119.452160009859,
     {
       "address": "4974 Avenue 272, Visalia, California, 93277",
-      "source": "arcgis"
-    }
-  ],
-  "number 5 isalia 93277": [
-    36.291614715428,
-    -119.291647121105,
-    {
-      "address": "5 E Visalia Pkwy, Visalia, California, 93277",
       "source": "arcgis"
     }
   ],
@@ -1888,27 +1865,11 @@
       "source": "arcgis"
     }
   ],
-  "sandridge company 960 north san antonio road los altos california 94022 (408) 738-4444": [
-    37.399236996378,
-    -122.114846986772,
-    {
-      "address": "960 N San Antonio Rd, Los Altos, California, 94022",
-      "source": "arcgis"
-    }
-  ],
   "6155 jackson avenue hanford 93230|kings": [
     36.254596126384,
     -119.566076192803,
     {
       "address": "6155 Jackson Ave, Hanford, California, 93230",
-      "source": "arcgis"
-    }
-  ],
-  "luma ag 1654 oriole saint hanford 93230": [
-    36.311632840108,
-    -119.672058820572,
-    {
-      "address": "1654 Oriole St, Hanford, California, 93230",
       "source": "arcgis"
     }
   ],
@@ -1928,27 +1889,11 @@
       "source": "arcgis"
     }
   ],
-  "manuel costa 13243 houston avenue hanford 93230": [
-    36.29456921308,
-    -119.695972893246,
-    {
-      "address": "13243 Houston Ave, Hanford, California, 93230",
-      "source": "arcgis"
-    }
-  ],
   "6240 21st avenue lemoore california 93245|kings": [
     36.384142924279,
     -119.834396336151,
     {
       "address": "6240 21st Ave, Lemoore, California, 93245",
-      "source": "arcgis"
-    }
-  ],
-  "thomas composting 2011 excelsior avenue riverdale 93656": [
-    36.402057179181,
-    -119.798518268017,
-    {
-      "address": "Excelsior Ave, Riverdale, California, 93656",
       "source": "arcgis"
     }
   ],
@@ -2052,14 +1997,6 @@
     {
       "address": "227 W El Nido Rd, El Nido, California, 95317",
       "source": "arcgis"
-    }
-  ],
-  "gomes farms limited liability company": [
-    37.5590444,
-    -121.9416226,
-    {
-      "address": "Kimber - Gomes, Fremont, CA, USA",
-      "source": "google"
     }
   ],
   "337 gates road modesto stanislaus 95358|rancho_cordova": [
@@ -2225,14 +2162,6 @@
     -120.501311598579,
     {
       "address": "508 W Roosevelt Rd, El Nido, California, 95317",
-      "source": "arcgis"
-    }
-  ],
-  "lewis farms (209) 769-5221": [
-    33.885416283219,
-    -117.586665618041,
-    {
-      "address": "209 Lewis Ct, Corona, California, 92882",
       "source": "arcgis"
     }
   ],
@@ -5809,14 +5738,6 @@
       "source": "arcgis"
     }
   ],
-  "11594 ingomar gustin coahuila 95322": [
-    37.121236802601,
-    -120.945119793036,
-    {
-      "address": "11594 Ingomar Grade, Gustine, California, 95322",
-      "source": "arcgis"
-    }
-  ],
   "11204 fulkerth road turlock california 95380|rancho_cordova": [
     37.50720010023,
     -120.977489110538,
@@ -5901,14 +5822,6 @@
     {
       "address": "11910 Bruceville Rd, Elk Grove, California, 95757",
       "source": "arcgis"
-    }
-  ],
-  "d&west farms 1000 hidden lake road lodi 95240": [
-    38.1568193,
-    -121.2761753,
-    {
-      "address": "Hidden Lakes Rd, California 95220, USA",
-      "source": "google"
     }
   ],
   "11923 east childs avenue le grand merced 95333|rancho_cordova": [
@@ -6082,14 +5995,6 @@
       "source": "dwr_parcel"
     }
   ],
-  "chaves dairy number 2 12021 east harney lanelodi 95240": [
-    38.103376500357,
-    -121.168506984212,
-    {
-      "address": "12021 E Harney Ln, Lodi, California, 95240",
-      "source": "arcgis"
-    }
-  ],
   "13293 louise avenue manteca 95336|rancho_cordova": [
     37.814114465292,
     -121.145831756827,
@@ -6118,14 +6023,6 @@
     -121.326711299516,
     {
       "address": "13340 Sargent Ave, Galt, California, 95632",
-      "source": "arcgis"
-    }
-  ],
-  "umid babjanov 9500 robson road galt 95632 209-747-8297": [
-    38.27231958428,
-    -121.347161550702,
-    {
-      "address": "9500 Robson Rd, Galt, California, 95632",
       "source": "arcgis"
     }
   ],
@@ -6229,14 +6126,6 @@
     -120.71171840686,
     {
       "address": "15343 Tim Bell Rd, Waterford, California, 95386",
-      "source": "arcgis"
-    }
-  ],
-  "peterson farms 2902 tim bell road waterford 95386": [
-    37.68050474938,
-    -120.697014034119,
-    {
-      "address": "2902 Tim Bell Rd, Waterford, California, 95386",
       "source": "arcgis"
     }
   ],
@@ -7041,14 +6930,6 @@
       "source": "google"
     }
   ],
-  "crane road": [
-    40.142545558056,
-    -120.157588181386,
-    {
-      "address": "Crane Rd, Herlong, California, 96113",
-      "source": "arcgis"
-    }
-  ],
   "0045-0024-0020-0000": [
     null,
     null,
@@ -7069,14 +6950,6 @@
     null,
     {
       "source": "dwr_parcel"
-    }
-  ],
-  "san san takhar  tokay 6822 tegner road hilmar california 95324 209-652-3540": [
-    37.388132190047,
-    -120.885725710953,
-    {
-      "address": "6822 Tegner Rd, Hilmar, California, 95324",
-      "source": "arcgis"
     }
   ],
   "22014 turner road hilmar california 95324|rancho_cordova": [
@@ -7139,14 +7012,6 @@
       "source": "dwr_parcel"
     }
   ],
-  "clauss dairy farms 21670 bloss avenue hilmar 95324": [
-    37.404879148772,
-    -120.88069204282,
-    {
-      "address": "21670 Bloss Ave, Hilmar, California, 95324",
-      "source": "arcgis"
-    }
-  ],
   "058-019-008": [
     37.469217,
     -120.974062,
@@ -7161,14 +7026,6 @@
       "source": "dwr_parcel"
     }
   ],
-  "matt seward 22837 bloss avenue hilmar 95324 209-668-1602": [
-    37.404272927625,
-    -120.901718382212,
-    {
-      "address": "22837 Bloss Ave, Hilmar, California, 95324",
-      "source": "arcgis"
-    }
-  ],
   "0045-0019-0054-0000": [
     null,
     null,
@@ -7176,35 +7033,11 @@
       "source": "dwr_parcel"
     }
   ],
-  "andy danbom 22778 turner road hilmar 95324 209-632-9393": [
-    37.372045944036,
-    -120.900294001774,
-    {
-      "address": "22778 Turner Ave, Hilmar, California, 95324",
-      "source": "arcgis"
-    }
-  ],
   "0045-0019-0018-0000": [
     null,
     null,
     {
       "source": "dwr_parcel"
-    }
-  ],
-  "jim babelle 9374 columbus avenue hilmar 95324 209-667-2763": [
-    37.424681353115,
-    -120.867681317435,
-    {
-      "address": "9374 Columbus Ave, Hilmar, California, 95324",
-      "source": "arcgis"
-    }
-  ],
-  "clauss dairy farms 21670 bloss avenue hilmar 95324 209-668": [
-    37.404879148772,
-    -120.88069204282,
-    {
-      "address": "21670 Bloss Ave, Hilmar, California, 95324",
-      "source": "arcgis"
     }
   ],
   "22338 short road hilmar california 95324|rancho_cordova": [
@@ -7863,14 +7696,6 @@
       "source": "dwr_parcel"
     }
   ],
-  "merrit farms": [
-    37.290381312167,
-    -121.831318904942,
-    {
-      "address": "Merrit Ln, San Jose, California, 95111",
-      "source": "arcgis"
-    }
-  ],
   "fields 1 2 3 4": [
     33.70298466352,
     -117.765293865355,
@@ -7885,14 +7710,6 @@
     {
       "address": "7901 Avenue 368, Dinuba, California, 93618",
       "source": "arcgis"
-    }
-  ],
-  "hettinga farms avenue 120 california|tulare_east": [
-    32.7945917,
-    -116.9625816,
-    {
-      "address": "East County, San Diego, CA, USA",
-      "source": "google"
     }
   ],
   "7559 avenue 152 tipton 93272": [
@@ -7956,22 +7773,6 @@
     {
       "address": "Merritt Ln, Hayward, California, 94545",
       "source": "arcgis"
-    }
-  ],
-  "turning leaf organics compost yard 14982 road 152 tipton california 93272": [
-    36.060455909958,
-    -119.2279057108,
-    {
-      "address": "14982 Road 152, Tipton, California, 93272",
-      "source": "arcgis"
-    }
-  ],
-  "jace vdh": [
-    null,
-    null,
-    {
-      "address": "California, USA",
-      "source": "google"
     }
   ],
   "6656 avenue 328 visalia california 93291|tulare_east": [
@@ -8070,14 +7871,6 @@
       "source": "arcgis"
     }
   ],
-  "can rey farms tulare": [
-    null,
-    null,
-    {
-      "address": "Tulare, CA 93274, USA",
-      "source": "google"
-    }
-  ],
   "34537 road 124 visalia 93291|tulare_east": [
     36.41788180285,
     -119.29766820711,
@@ -8123,14 +7916,6 @@
     -119.314731441617,
     {
       "address": "10400 Avenue 368, Visalia, California, 93291",
-      "source": "arcgis"
-    }
-  ],
-  "cottonwood farms 13076 avenue 368 visalia 93292": [
-    36.454830028329,
-    -119.284627977426,
-    {
-      "address": "13076 Avenue 368, Visalia, California, 93292",
       "source": "arcgis"
     }
   ],
@@ -8807,14 +8592,6 @@
       "source": "dwr_parcel"
     }
   ],
-  "merritt farms": [
-    37.643799012361,
-    -122.096854519144,
-    {
-      "address": "Merritt Ln, Hayward, California, 94545",
-      "source": "arcgis"
-    }
-  ],
   "17297 road 96 tulare tulare 93274|tulare_west": [
     36.104061232448,
     -119.357825584886,
@@ -9168,14 +8945,6 @@
       "source": "arcgis"
     }
   ],
-  "riverdasle 93656": [
-    null,
-    null,
-    {
-      "address": "Riverdale, CA 93656, USA",
-      "source": "google"
-    }
-  ],
   "kerman 93656": [
     null,
     null,
@@ -9392,14 +9161,6 @@
       "source": "google"
     }
   ],
-  "paseo box 27 edison coahuila": [
-    null,
-    null,
-    {
-      "address": "Edison, CA, USA",
-      "source": "google"
-    }
-  ],
   "15336 10th avenue hanford 93230": [
     36.249779381906,
     -119.637257912959,
@@ -9534,14 +9295,6 @@
     {
       "address": "2232 Bailey Ave, Merced, California, 95341",
       "source": "arcgis"
-    }
-  ],
-  "paseo box 149 el nido coahuila 95317": [
-    null,
-    null,
-    {
-      "address": "El Nido, CA 95317, USA",
-      "source": "google"
     }
   ],
   "505 east washington road el nido 95317": [
@@ -10549,6 +10302,817 @@
     -119.407661636086,
     {
       "address": "7370 Avenue 228, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "10044 flint avenue hanford california 93230": [
+    36.372274819935,
+    -119.638092415239,
+    {
+      "address": "10044 Flint Ave, Hanford, California, 93230",
+      "source": "arcgis"
+    }
+  ],
+  "2011 excelsior avenue riverdale 93656": [
+    36.402057179181,
+    -119.798518268017,
+    {
+      "address": "Excelsior Ave, Riverdale, California, 93656",
+      "source": "arcgis"
+    }
+  ],
+  "2312 alpine meadows ct wasco california 93280": [
+    35.598053804412,
+    -119.352663131129,
+    {
+      "address": "2312 Alpine Meadow Ct, Wasco, California, 93280",
+      "source": "arcgis"
+    }
+  ],
+  "9442 bear mountain boulevard bakersfield california 93311": [
+    35.210777230193,
+    -119.105872241364,
+    {
+      "address": "9442 Bear Mountain Blvd, Bakersfield, California, 93311",
+      "source": "arcgis"
+    }
+  ],
+  "3612 avenue 236 tulare 93274": [
+    36.218867383999,
+    -119.49209550372,
+    {
+      "address": "3612 Avenue 236, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "5771 7th avenue hanford california 93230": [
+    36.390093698348,
+    -119.582450827389,
+    {
+      "address": "5771 7th Ave, Hanford, California, 93230",
+      "source": "arcgis"
+    }
+  ],
+  "5175 shaw avenue winton california 95388": [
+    37.425366280333,
+    -120.579112088577,
+    {
+      "address": "5175 Shaw Ave, Winton, California, 95388",
+      "source": "arcgis"
+    }
+  ],
+  "5831 tegner road hilmar 95324": [
+    37.373477115242,
+    -120.887020427378,
+    {
+      "address": "5831 Tegner Rd, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "5240 hultberg road hilmar 95324": [
+    37.364372428211,
+    -120.895852558732,
+    {
+      "address": "5240 Hultberg Rd, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "6540 lewis road vacaville california 95687": [
+    38.375272824604,
+    -121.8923459304,
+    {
+      "address": "6540 Lewis Rd, Vacaville, California, 95687",
+      "source": "arcgis"
+    }
+  ],
+  "5230 patterson road oakdale california 95361": [
+    37.72886338538,
+    -120.900895614596,
+    {
+      "address": "5230 Patterson Rd, Oakdale, California, 95361",
+      "source": "arcgis"
+    }
+  ],
+  "d&west farms 1000 hidden lake road lodi 95240": [
+    38.1568193,
+    -121.2761753,
+    {
+      "address": "Hidden Lakes Rd, California 95220, USA",
+      "source": "google"
+    }
+  ],
+  "18119 east avena road escalon california 95320": [
+    37.842561806479,
+    -121.088797012851,
+    {
+      "address": "18119 Avena Rd, Escalon, California, 95320",
+      "source": "arcgis"
+    }
+  ],
+  "19085 west bradbury turlock 95380": [
+    37.448650536802,
+    -120.832092259467,
+    {
+      "address": "19085 W Bradbury Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "22063 american avenue hilmar 95324": [
+    37.411230032989,
+    -120.887216851528,
+    {
+      "address": "22063 American Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "4605 crane road hilmar california 95324": [
+    37.382700004327,
+    -120.877638585553,
+    {
+      "address": "Crane Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "22339 crane avenue hilmar 95324": [
+    37.382436980206,
+    -120.892988881512,
+    {
+      "address": "22339 Crane Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "21670 bloss avenue hilmar 95324": [
+    37.404879148772,
+    -120.88069204282,
+    {
+      "address": "21670 Bloss Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "22837 bloss avenue hilmar 95324": [
+    37.404272927625,
+    -120.901718382212,
+    {
+      "address": "22837 Bloss Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "22778 turner road hilmar 95324": [
+    37.372045944036,
+    -120.900294001774,
+    {
+      "address": "22778 Turner Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "22323 east monte vista denair 95316": [
+    37.52043803265,
+    -120.630416256986,
+    {
+      "address": "22323 E Monte Vista Ave, Denair, California, 95316",
+      "source": "arcgis"
+    }
+  ],
+  "hettinga farms avenue 120 california|tulare_east": [
+    36.0097427,
+    -119.2728729,
+    {
+      "address": "13400 Ave 120, Pixley, CA 93256, USA",
+      "source": "google"
+    }
+  ],
+  "24487 road 140 tulare 93274": [
+    36.235273995546,
+    -119.265448338941,
+    {
+      "address": "24487 Road 140, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "32324 famoso road mcfarland california 93250": [
+    35.602981734836,
+    -119.194382289049,
+    {
+      "address": "32324 Famoso Rd, Mc Farland, California, 93250",
+      "source": "arcgis"
+    }
+  ],
+  "0000 carter road farmington california 95230 stanislaus county": [
+    37.886498988553,
+    -120.880372021757,
+    {
+      "address": "E Carter Rd, Farmington, California, 95230",
+      "source": "arcgis"
+    }
+  ],
+  "9442 bear mountain bakersfield 93311": [
+    35.210777230193,
+    -119.105872241364,
+    {
+      "address": "9442 Bear Mountain Blvd, Bakersfield, California, 93311",
+      "source": "arcgis"
+    }
+  ],
+  "21670 bloss avenue hilmar 95324 209-668": [
+    37.404879148772,
+    -120.88069204282,
+    {
+      "address": "21670 Bloss Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "12021 east harney lanelodi 95240": [
+    38.103376500357,
+    -121.168506984212,
+    {
+      "address": "12021 E Harney Ln, Lodi, California, 95240",
+      "source": "arcgis"
+    }
+  ],
+  "2902 tim bell road waterford 95386": [
+    37.68050474938,
+    -120.697014034119,
+    {
+      "address": "2902 Tim Bell Rd, Waterford, California, 95386",
+      "source": "arcgis"
+    }
+  ],
+  "12021 east harney lane lodi 95240": [
+    38.103376500357,
+    -121.168506984212,
+    {
+      "address": "12021 E Harney Ln, Lodi, California, 95240",
+      "source": "arcgis"
+    }
+  ],
+  "18948 north thornton road lodi california 95242|rancho_cordova": [
+    38.154967868773,
+    -121.397953537012,
+    {
+      "address": "18948 N Thornton Rd, Lodi, California, 95242",
+      "source": "arcgis"
+    }
+  ],
+  "011-140-23": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "number 5 visalia 93277": [
+    36.2953941,
+    -119.3129134,
+    {
+      "address": "3918 S Mooney Blvd, Visalia, CA 93277, USA",
+      "source": "google"
+    }
+  ],
+  "1654 oriole saint hanford 93230": [
+    36.311632840108,
+    -119.672058820572,
+    {
+      "address": "1654 Oriole St, Hanford, California, 93230",
+      "source": "arcgis"
+    }
+  ],
+  "13243 houston avenue hanford 93230": [
+    36.29456921308,
+    -119.695972893246,
+    {
+      "address": "13243 Houston Ave, Hanford, California, 93230",
+      "source": "arcgis"
+    }
+  ],
+  "960 north san antonio road los altos california 94022": [
+    37.399236996378,
+    -122.114846986772,
+    {
+      "address": "960 N San Antonio Rd, Los Altos, California, 94022",
+      "source": "arcgis"
+    }
+  ],
+  "11594 ingomar gustin california 95322": [
+    37.121236802601,
+    -120.945119793036,
+    {
+      "address": "11594 Ingomar Grade, Gustine, California, 95322",
+      "source": "arcgis"
+    }
+  ],
+  "41198 west valeria avenue dos palos fresno 93620|fresno_madera": [
+    36.981815987186,
+    -120.53036288397,
+    {
+      "address": "41198 Valeria Ave, Dos Palos, California, 93620",
+      "source": "arcgis"
+    }
+  ],
+  "dos palos 93620": [
+    null,
+    null,
+    {
+      "address": "Dos Palos, CA 93620, USA",
+      "source": "google"
+    }
+  ],
+  "9500 robson road galt 95632": [
+    38.27231958428,
+    -121.347161550702,
+    {
+      "address": "9500 Robson Rd, Galt, California, 95632",
+      "source": "arcgis"
+    }
+  ],
+  "0001-0001-0001-0001": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "19721 excelsior avenue riverdale 93656 fresno fresno|fresno": [
+    36.40155859124,
+    -119.810950979502,
+    {
+      "address": "19721 Excelsior Ave, Riverdale, California, 93656",
+      "source": "arcgis"
+    }
+  ],
+  "10241 west elkhorn avenue burrel 93607 fresno fresno|fresno": [
+    36.487514253933,
+    -119.977400489141,
+    {
+      "address": "10241 W Elkhorn Ave, Riverdale, California, 93656",
+      "source": "arcgis"
+    }
+  ],
+  "18919 avenue 23 chowchilla 93610 madera madera|madera": [
+    37.084985532372,
+    -120.20391429784,
+    {
+      "address": "18919 Avenue 23, Chowchilla, California, 93610",
+      "source": "arcgis"
+    }
+  ],
+  "5301 woodland avenue modesto california 95358|stanislaus": [
+    37.652874811391,
+    -121.091509815814,
+    {
+      "address": "5301 Woodland Ave, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "337 gates road modesto california 95358|stanislaus": [
+    37.641822475773,
+    -121.159411948714,
+    {
+      "address": "337 N Gates Rd, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "505 east washington road el nido 95317 merced merced|merced": [
+    37.111988713551,
+    -120.483451271655,
+    {
+      "address": "505 E Washington Rd, El Nido, California, 95317",
+      "source": "arcgis"
+    }
+  ],
+  "0074-0110-0007-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "5175 shaw avenue winton california 95388|merced": [
+    37.425366280333,
+    -120.579112088577,
+    {
+      "address": "5175 Shaw Ave, Winton, California, 95388",
+      "source": "arcgis"
+    }
+  ],
+  "1751 chandler doctor turlock california 95382|stanislaus": [
+    37.5266016496,
+    -120.828523412733,
+    {
+      "address": "1751 Chandler Dr, Turlock, California, 95382",
+      "source": "arcgis"
+    }
+  ],
+  "0058-0001-0010-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "10581 san carpentar road crows landing california 95313|stanislaus": [
+    37.484569775505,
+    -121.030974259595,
+    {
+      "address": "10581 S Carpenter Rd, Crows Landing, California, 95313",
+      "source": "arcgis"
+    }
+  ],
+  "0058-0001-0011-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "0075-0030-0030-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "2941 san state highway 59 merced california 95341|merced": [
+    37.244303341603,
+    -120.488570686657,
+    {
+      "address": "2941 S Highway 59, Merced, California, 95341",
+      "source": "arcgis"
+    }
+  ],
+  "0053-0080-0012-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "10310 reese road planada california 95365|merced": [
+    37.337744923931,
+    -120.300686638942,
+    {
+      "address": "10310 Reese Rd, Merced, California, 95340",
+      "source": "arcgis"
+    }
+  ],
+  "0053-0080-0028-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "1980 county road qq willows 95988 county road qq glenn glenn|glenn": [
+    39.536479394667,
+    -122.121338519324,
+    {
+      "address": "1980 County Road QQ, Willows, California, 95988",
+      "source": "arcgis"
+    }
+  ],
+  "0019-0184-0002-0001": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "0129-0200-0150-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "16510 bacon island road stockton california 95234|san joaquin": [
+    37.914123520215,
+    -121.503601140111,
+    {
+      "address": "16510 Bacon Island Rd, Stockton, California, 95206",
+      "source": "arcgis"
+    }
+  ],
+  "1010 river avenue orland 95963 tehama tehama|tehama": [
+    39.827115307482,
+    -122.07049322411,
+    {
+      "address": "1010 River Ave, Orland, California, 95963",
+      "source": "arcgis"
+    }
+  ],
+  "0001-0001-0001-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "7500 cutting avenue orland 95963 glenn glenn|glenn": [
+    39.796980012442,
+    -122.085164348236,
+    {
+      "address": "7500 Cutting Ave, Orland, California, 95963",
+      "source": "arcgis"
+    }
+  ],
+  "0066-0180-0002-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "4890 healy road merced california 95341|merced": [
+    37.215628599383,
+    -120.432373043351,
+    {
+      "address": "4890 Healy Rd, Merced, California, 95341",
+      "source": "arcgis"
+    }
+  ],
+  "0066-0140-0018-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "3639 west mcmaster road merced california 95340|merced": [
+    37.2317549,
+    -120.4221861,
+    {
+      "address": "3639 McMaster Rd, Merced, CA 95341, USA",
+      "source": "google"
+    }
+  ],
+  "0017-0043-0023-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "82 west liberty road gridle 95948 county butte|butte": [
+    39.349006898398,
+    -121.691559283851,
+    {
+      "address": "82 W Liberty Rd, Gridley, California, 95948",
+      "source": "arcgis"
+    }
+  ],
+  "24790 clark avenue orland 95948 clark avenue tehama tehama|tehama": [
+    39.828605819414,
+    -122.112338534609,
+    {
+      "address": "24790 Clark Ave, Orland, California, 95963",
+      "source": "arcgis"
+    }
+  ],
+  "24790 clark avenue orland 95963 clark avenue tehama tehama|tehama": [
+    39.828605819414,
+    -122.112338534609,
+    {
+      "address": "24790 Clark Ave, Orland, California, 95963",
+      "source": "arcgis"
+    }
+  ],
+  "county road 45 willows 95963 glenn glenn|glenn": [
+    39.553294622402,
+    -122.133593753883,
+    {
+      "address": "County Road 45, Willows, California, 95988",
+      "source": "arcgis"
+    }
+  ],
+  "00045-0200-0015-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "22339 crane avenue hilmar california 95324|merced": [
+    37.382436980206,
+    -120.892988881512,
+    {
+      "address": "22339 Crane Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0180-0021-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "22245 august avenue hilmar california 95324|merced": [
+    37.418895241534,
+    -120.890837330786,
+    {
+      "address": "22245 August Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0140-0006-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "6612 prarie flower road turlock california 95380|stanislaus": [
+    37.431858692985,
+    -120.930187767805,
+    {
+      "address": "6612 S Prairie Flower Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0180-0023-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "0045-0140-0054-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "21536 august avenue hilmar california 95324|merced": [
+    37.423285305231,
+    -120.877858121357,
+    {
+      "address": "21536 August Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0330-0020-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "2406 san walnut road turlock california 95380|merced": [
+    37.470496374867,
+    -120.866836756871,
+    {
+      "address": "2406 S Walnut Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0140-0002-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "19664 crane avenue hilmar california 95324|merced": [
+    37.382821500014,
+    -120.844814144468,
+    {
+      "address": "19664 Crane Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0330-0021-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "0044-0016-0003-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "2406 san walnut road turlock california 95380|stanislaus": [
+    37.470496374867,
+    -120.866836756871,
+    {
+      "address": "2406 S Walnut Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "6612 prarie flower road turlock california 95380|sacramento": [
+    37.4317667,
+    -120.9303454,
+    {
+      "address": "6612 S Prairie Flower Rd, Turlock, CA 95380, USA",
+      "source": "google"
+    }
+  ],
+  "0053-0150-0010-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "11923 east childs avenue legrand california 95333|merced": [
+    37.284062857406,
+    -120.271520130463,
+    {
+      "address": "11923 E Childs Ave, Le Grand, California, 95333",
+      "source": "arcgis"
+    }
+  ],
+  "0132-0240-0049-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "11823 carroll road elk grove 95757 sacramento sacramento|sacramento": [
+    38.327329302359,
+    -121.392547377102,
+    {
+      "address": "11823 Carroll Rd, Elk Grove, California, 95757",
+      "source": "arcgis"
+    }
+  ],
+  "0066-0150-0001-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "1234 mcnamara road chowchilla california 95341|merced": [
+    37.228819855302,
+    -120.450224140813,
+    {
+      "address": "1234 McNamara Rd, Merced, California, 95341",
+      "source": "arcgis"
+    }
+  ],
+  "1 johnson avenue hilmar california 95324|merced": [
+    37.433437605158,
+    -120.878900158198,
+    {
+      "address": "Johnson Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0150-0002-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "0045-0014-0022-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "20334 west oslo road hilmar california 95324|stanislaus": [
+    37.4268497,
+    -120.8590182,
+    {
+      "address": "20334 Oslo Rd, Hilmar, CA 95324, USA",
+      "source": "google"
+    }
+  ],
+  "21185 williams avenue hilmar california 95324|merced": [
+    37.389511683672,
+    -120.871685352582,
+    {
+      "address": "21185 Williams Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "0045-0230-0062-0000": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "21089 williams avenue hilmar california 95324|merced": [
+    37.389434318705,
+    -120.86962265003,
+    {
+      "address": "21089 Williams Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "6822 tegner road hilmar california 95324": [
+    37.388132190047,
+    -120.885725710953,
+    {
+      "address": "6822 Tegner Rd, Hilmar, California, 95324",
       "source": "arcgis"
     }
   ]

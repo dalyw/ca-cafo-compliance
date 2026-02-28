@@ -13,7 +13,7 @@ from helpers_pdf_metrics import (
     YEARS,
     REGIONS,
     build_parameter_dicts,
-    coerce_numeric_columns,
+    coerce_columns,
     extract_parameters_from_text,
     find_pdf_files,
     load_ocr_text,
@@ -151,7 +151,7 @@ def main():
                     df[param] = np.nan
 
         # Convert numeric columns and calculate metrics
-        coerce_numeric_columns(df)
+        coerce_columns(df)
         df = calculate_metrics(df)
 
         # Add region and sub_region information

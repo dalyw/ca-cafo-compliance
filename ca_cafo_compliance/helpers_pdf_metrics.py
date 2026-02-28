@@ -61,7 +61,7 @@ def load_ocr_text(pdf_path):
 
 
 # Parameters metadata
-_PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
+PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
 
 
 def build_parameter_dicts(manifest_only=False):
@@ -70,7 +70,7 @@ def build_parameter_dicts(manifest_only=False):
     Returns dict with keys: 'key_to_name', 'key_to_type', 'key_to_default'.
     If manifest_only=True, filters to manure/wastewater/both parameters.
     """
-    df = _PARAMETERS_DF
+    df = PARAMETERS_DF
     if manifest_only:
         df = df[df["manifest_type"].isin(["manure", "wastewater", "both"])]
     return {
@@ -80,13 +80,21 @@ def build_parameter_dicts(manifest_only=False):
     }
 
 
-def coerce_numeric_columns(df):
-    """Coerce columns marked as 'numeric' in parameters.csv to numeric dtype (in-place)."""
-    numeric_param_names = set(
-        _PARAMETERS_DF.loc[_PARAMETERS_DF["data_type"] == "numeric", "parameter_name"]
-    )
-    numeric_cols = [c for c in df.columns if c in numeric_param_names]
-    df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors="coerce")
+def coerce_columns(df):
+    """Coerce columns to their data_type from parameters.csv (in-place)."""
+    _type_to_names = PARAMETERS_DF.groupby("data_type")["parameter_name"].apply(set)
+    for dtype, names in _type_to_names.items():
+        cols = [c for c in df.columns if c in names]
+        if not cols:
+            continue
+        if dtype == "numeric":
+            df[cols] = df[cols].apply(pd.to_numeric, errors="coerce")
+        elif dtype == "date":
+            for c in cols:
+                df[c] = pd.to_datetime(df[c], format="mixed", dayfirst=False, errors="coerce")
+        elif dtype == "boolean":
+            for c in cols:
+                df[c] = df[c].astype(str).str.strip().str.upper().map({"TRUE": True, "FALSE": False, "NAN": None})
     return df
 
 
@@ -153,9 +161,15 @@ def extract_value_from_line(
             for m in markers:
                 if not m:
                     continue
-                i = line_lower.find(str(m).lower())
-                if i != -1 and i < idx:
-                    idx = i
+                if m == "first_number":
+                    # Truncate at the first token containing 2+ consecutive digits
+                    num_match = re.search(r"\(?\d{2,}", line)
+                    if num_match and num_match.start() < idx:
+                        idx = num_match.start()
+                else:
+                    i = line_lower.find(str(m).lower())
+                    if i != -1 and i < idx:
+                        idx = i
             if idx < len(line):
                 # trim line at the earliest ignore_after marker
                 line = line[:idx].strip()

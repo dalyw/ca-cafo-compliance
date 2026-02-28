@@ -168,7 +168,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_software,hauler_name,hauler,right,company/person,NA,NA,/person,NA
 5,R5-2007-0035_software,hauler_address,hauler,below,address of hauling company/person,NA,NA,/person,number
 5,R5-2007-0035_software,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_software,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2007-0035_software,destination_name,NA,below,information of composting,NA,NA,NA,first_number
 5,R5-2007-0035_software,destination_contact_address,information of composting,below,phone number,NA,NA,NA,name
 5,R5-2007-0035_software,destination_address,destination,below,destination address,NA,NA,NA,address
 5,R5-2007-0035_software,destination_nearest_cross_street,destination,above,cross street,NA,NA,NA,assessor|address
@@ -184,7 +184,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA|name
 5,R5-2007-0035_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number|name
 5,R5-2007-0035_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_general_order,destination_name,NA,below,information of composting,NA,NA,NA,name
+5,R5-2007-0035_general_order,destination_name,NA,below,information of composting,NA,NA,NA,first_number|name
 5,R5-2007-0035_general_order,destination_contact_address,NA,below,information of composting,NA,NA,NA,name
 5,R5-2007-0035_general_order,destination_address,destination,below,destination address,NA,NA,NA,number|name
 5,R5-2007-0035_general_order,haul_date,NA,right,dates hauled,NA,NA,NA,NA
@@ -198,7 +198,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_one_page_1,hauler_name,hauler,right,company/person,NA,NA,/person,NA
 5,R5-2007-0035_one_page_1,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2007-0035_one_page_1,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2007-0035_one_page_1,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2007-0035_one_page_1,destination_name,NA,below,information of composting,NA,NA,NA,first_number
 5,R5-2007-0035_one_page_1,destination_contact_address,destination,below,phone number,NA,NA,NA,address|destination
 5,R5-2007-0035_one_page_1,destination_address,destination,below,destination address,NA,NA,NA,number
 5,R5-2007-0035_one_page_1,haul_date,NA,right,dates hauled,NA,NA,hauled,NA
@@ -212,7 +212,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_one_page_2,hauler_name,hauler,right,name,NA,NA,/person,NA|name
 5,R5-2007-0035_one_page_2,hauler_address,hauler,right_below,facility address,NA,NA,city/State,number|information|Violations
 5,R5-2007-0035_one_page_2,destination_type,NA,right,manure destination,NA,NA,NA,Signature|of a
-5,R5-2007-0035_one_page_2,destination_name,destination information,right,name,NA,NA,NA,name|Signatures
+5,R5-2007-0035_one_page_2,destination_name,destination information,right,name,NA,NA,NA,first_number|name|Signatures
 5,R5-2007-0035_one_page_2,destination_address,destination information,right_below,facility address,NA,NA,city/State,number
 5,R5-2007-0035_one_page_2,haul_date,NA,below,dates hauled,NA,1,hauled,NA
 5,R5-2007-0035_one_page_2,wastewater_amount,NA,below,dates hauled,NA,2,NA,NA
@@ -223,7 +223,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2013-0122_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA
 5,R5-2013-0122_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2013-0122_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2013-0122_general_order,destination_name,NA,below,information of composting,NA,NA,NA,name
+5,R5-2013-0122_general_order,destination_name,NA,below,information of composting,NA,NA,NA,first_number|name
 5,R5-2013-0122_general_order,destination_contact_address,NA,below,information of composting,NA,NA,NA,name
 5,R5-2013-0122_general_order,destination_address,destination,below,destination address,NA,NA,NA,number
 5,R5-2013-0122_general_order,haul_date,NA,right,dates hauled,NA,NA,hauled,NA
@@ -237,7 +237,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2017-0000_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA
 5,R5-2017-0000_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
 5,R5-2017-0000_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
-5,R5-2017-0000_general_order,destination_name,NA,below,information of composting,NA,NA,NA,NA
+5,R5-2017-0000_general_order,destination_name,NA,below,information of composting,NA,NA,NA,first_number
 5,R5-2017-0000_general_order,destination_contact_address,destination,below,phone number,NA,NA,NA,address|destination
 5,R5-2017-0000_general_order,destination_address,destination,below,destination address,NA,NA,NA,NA
 5,R5-2017-0000_general_order,haul_date,NA,right,dates hauled,NA,NA,NA,NA
@@ -250,7 +250,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,provost_pritchard_manifest,origin_dairy_address,dairy information,above,address city Zip,NA,NA,NA,NA
 5,provost_pritchard_manifest,hauler_name,NA,below,hauler information,NA,NA,NA,name
 5,provost_pritchard_manifest,hauler_address,NA,below,name of hauling,NA,NA,NA,address
-5,provost_pritchard_manifest,destination_name,NA,below,destination information,NA,NA,NA,name
+5,provost_pritchard_manifest,destination_name,NA,below,destination information,NA,NA,NA,first_number|name
 5,provost_pritchard_manifest,destination_address,NA,below,name of composting,NA,NA,NA,address
 5,provost_pritchard_manifest,destination_parcel_number,destination information,below,contact person,NA,NA,NA,APN
 5,provost_pritchard_manifest,haul_date,NA,above,amount pumped,NA,NA,date,end
@@ -263,7 +263,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,ucanr,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
 5,ucanr,hauler_name,hauler,right,name of hauling company/person,NA,NA,/person,NA
 5,ucanr,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number
-5,ucanr,destination_name,destination,right,final destination,NA,NA,destination,NA
+5,ucanr,destination_name,destination,right,final destination,NA,NA,destination,first_number
 5,ucanr,destination_address,destination,right,address of destination,NA,NA,destination,NA
 5,ucanr,manure_amount,amount hauled,right,manure,NA,NA,NA,tons
 5,ucanr,wastewater_amount,amount hauled,right,process wastewater,NA,NA,NA,gallons
@@ -273,7 +273,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,CAG018001,origin_dairy_address,NA,right,Mailing address,NA,NA,address,number
 5,CAG018001,hauler_name,NA,right,name and address of hauling company,NA,NA,/person,NA
 5,CAG018001,hauler_address,NA,right,name and address of hauling company,NA,NA,/person,number
-5,CAG018001,destination_name,NA,right,destination of haul,NA,NA,destination,NA
+5,CAG018001,destination_name,NA,right,destination of haul,NA,NA,destination,first_number
 5,CAG018001,latitude,NA,right,latitude,NA,NA,NA,NA
 5,CAG018001,longitude,NA,right,longitude,NA,NA,NA,NA
 5,CAG018001,manure_amount,NA,below,appropriate units,NA,NA,NA,NA

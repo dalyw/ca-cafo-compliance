@@ -1,7 +1,11 @@
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
-from step2b_extract_manifest_parameters import manifest_params
+from helpers_plotting import PALETTE
+from helpers_geocoding import norm_addr, normalize_apn
+from helpers_pdf_metrics import PARAMETERS_DF, coerce_columns
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Paths
 OUTPUTS_DIR = os.path.join(os.path.dirname(__file__), "outputs")
@@ -10,9 +14,9 @@ EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
 
 
 def main():
-    # Load both files
-    manual_df = pd.read_csv(MANUAL_PATH)
-    extracted_df = pd.read_csv(EXTRACTED_PATH)
+    # Load both files and coerce types
+    manual_df = coerce_columns(pd.read_csv(MANUAL_PATH))
+    extracted_df = coerce_columns(pd.read_csv(EXTRACTED_PATH))
 
     # Store original column order
     original_columns = manual_df.columns.tolist()
@@ -80,15 +84,36 @@ def main():
     manual_df.to_csv(MANUAL_PATH, index=False)
     print(f"Saved to {MANUAL_PATH}")
 
+    params_to_compare = [
+        "origin_dairy_address",
+        "hauler_address",
+        "destination_contact_address",
+        "destination_address",
+        "destination_nearest_cross_street",
+        "destination_type_std",
+        "destination_parcel_number",
+        "haul_date_first",
+        "haul_date_last",
+        "is_pipeline",
+        "manure_ton_per_haul",
+        "manure_yard_per_haul",
+        "manure_number_hauls",
+        "manure_amount",
+        "manure_density",
+        "manure_solids_percent",
+        "manure_moisture_percent"
+    ]
+
+
+
     # Bar chart comparison of # extracted from automatic vs manual, plus accuracy as third bar (dual y-axis)
     plt.figure(figsize=(12, 7))
     plt_values = []
-    accuracy_values = []
-    for col in manifest_params.set_index("parameter_key")["parameter_name"].tolist():
+    key_to_name = PARAMETERS_DF.set_index("parameter_key")["parameter_name"]
+    for col in [key_to_name[k] for k in params_to_compare if k in key_to_name]:
         if col in manual_df.columns and col in extracted_df.columns:
             manual_count = manual_df[col].notna().sum()
             extracted_count = extracted_df[col].notna().sum()
-            # Calculate accuracy
             merged = pd.merge(
                 manual_df[["Source PDF", "Manifest Number", col]],
                 extracted_df[["Source PDF", "Manifest Number", col]],
@@ -96,18 +121,31 @@ def main():
                 how="inner",
                 suffixes=("_manual", "_extracted"),
             )
-            merged["match"] = merged.apply(
-                lambda x: (
-                    pd.isna(x[f"{col}_manual"]) and pd.isna(x[f"{col}_extracted"])
-                )
-                or (x[f"{col}_manual"] == x[f"{col}_extracted"]),
-                axis=1,
-            )
-            accuracy = merged["match"].mean() * 100 if len(merged) > 0 else 0
+            has_value = merged[f"{col}_manual"].notna() | merged[f"{col}_extracted"].notna()
+            comparable = merged[has_value]
+            if len(comparable) > 0:
+                m_col, e_col = f"{col}_manual", f"{col}_extracted"
+                if "address" in col.lower():
+                    m_norm = comparable[m_col].apply(lambda x: norm_addr(x) if isinstance(x, str) else x)
+                    e_norm = comparable[e_col].apply(lambda x: norm_addr(x) if isinstance(x, str) else x)
+                    matches = (m_norm == e_norm).fillna(False)
+                elif "parcel" in col.lower():
+                    def _norm_apns(x):
+                        if not isinstance(x, str): return x
+                        parts = [normalize_apn(p.strip()) for p in x.replace(",", " ").split() if p.strip()]
+                        return ",".join(sorted(p for p in parts if p)) or None
+                    m_norm = comparable[m_col].apply(_norm_apns)
+                    e_norm = comparable[e_col].apply(_norm_apns)
+                    matches = (m_norm == e_norm).fillna(False)
+                else:
+                    matches = (comparable[m_col] == comparable[e_col]).fillna(False)
+                accuracy = matches.mean() * 100
+            else:
+                accuracy = 0
             plt_values.append((col, manual_count, extracted_count, accuracy))
 
-    # Sort by manual_count descending
-    plt_values.sort(key=lambda x: x[1], reverse=True)
+    # Sort by accuracy descending
+    plt_values.sort(key=lambda x: x[3], reverse=True)
     bar_width = 0.25
     indices = range(len(plt_values))
     manual_counts = [v[1] for v in plt_values]
@@ -118,38 +156,40 @@ def main():
     fig, ax1 = plt.subplots(figsize=(12, 7))
     ax2 = ax1.twinx()
 
+    bar_width = 0.35
     bars1 = ax1.bar(
-        [i - bar_width for i in indices],
+        [i - bar_width / 2 for i in indices],
         manual_counts,
         width=bar_width,
         label="Manual",
         alpha=0.7,
-        color="green",
+        color=PALETTE["green"],
     )
     bars2 = ax1.bar(
-        indices,
+        [i + bar_width / 2 for i in indices],
         extracted_counts,
         width=bar_width,
         label="Extracted",
         alpha=0.7,
-        color="red",
+        color=PALETTE["orange"],
     )
-    bars3 = ax2.bar(
-        [i + bar_width for i in indices],
+    dots = ax2.plot(
+        list(indices),
         accuracies,
-        width=bar_width,
+        "o",
+        color=PALETTE["blue"],
+        markersize=8,
         label="Accuracy (%)",
-        alpha=0.7,
-        color="blue",
+        zorder=5,
     )
 
     ax1.set_xlabel("Parameters")
     ax1.set_ylabel("Count of Extracted Values")
     ax2.set_ylabel("Accuracy (%)")
-    ax1.set_xticks(indices)
+    ax1.set_xticks(list(indices))
     ax1.set_xticklabels(labels, rotation=45, ha="right")
     ax1.legend(
-        [bars1, bars2, bars3], ["Manual", "Extracted", "Accuracy (%)"], loc="upper left"
+        [bars1, bars2, dots[0]], ["Manual Count", "Automatic Count", "Accuracy (%)"], loc="upper right"
     )
     ax2.set_ylim(0, 100)
     plt.title("Manual vs Extracted Counts and Accuracy per Parameter")

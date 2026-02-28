@@ -13,10 +13,10 @@ from helpers_pdf_metrics import (
     GDRIVE_BASE,
     build_parameter_dicts,
     clean_common_errors,
-    coerce_numeric_columns,
+    coerce_columns,
     extract_parameters_from_text,
 )
-from helpers_geocoding import parse_destination_address_and_parcel
+from helpers_geocoding import parse_destination_address_and_parcel, strip_phone_number, split_apn_county
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
@@ -323,6 +323,16 @@ def extract_manifest_fields(manifest_text, template):
             )
             data[column_name] = value
 
+        # Strip phone numbers and leading name from contact address
+        if param_key == "destination_contact_address":
+            value = strip_phone_number(value)
+            # Strip leading name: everything before the first 2+ digit number
+            if value:
+                num_match = re.search(r"\b\d{2,}", value)
+                if num_match:
+                    value = value[num_match.start():].strip()
+            data[column_name] = value
+
     for wt, units in [("manure", ["ton", "yard"]), ("wastewater", ["gallon"])]:
         if not (txt := data.get(f"Method Used to Determine Volume of {wt.title()}")):
             continue
@@ -354,6 +364,15 @@ def extract_manifest_fields(manifest_text, template):
                 data[PARAM_TO_COL["wastewater_hours_pumped"]] = hours
             if m := _GPM_RE.search(txt_str):
                 data[PARAM_TO_COL["wastewater_pumping_rate"]] = m.group(1)
+
+    # If manure_solids_percent was extracted but the raw text says "moisture", move to moisture column
+    solids_col = PARAM_TO_COL["manure_solids_percent"]
+    moisture_col = PARAM_TO_COL["manure_moisture_percent"]
+    if data.get(solids_col) and not data.get(moisture_col):
+        solids_val = str(data[solids_col])
+        if m := re.search(rf"{re.escape(solids_val)}\s*%\s*moisture", manifest_text, re.I):
+            data[moisture_col] = data.pop(solids_col)
+            data[solids_col] = None
 
     # add is_pipeline column depending on whether "pipeline" is in manifest text
     data[PARAM_TO_COL["is_pipeline"]] = "pipeline" in manifest_text.lower()
@@ -469,7 +488,18 @@ def main():
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
 
     # Coerce all numeric columns
-    coerce_numeric_columns(df)
+    coerce_columns(df)
+
+    # Clean contact address (strip phones) and normalize parcel numbers
+    contact_col = PARAM_TO_COL["destination_contact_address"]
+    if contact_col in df.columns:
+        df[contact_col] = df[contact_col].apply(lambda x: strip_phone_number(x) if isinstance(x, str) else x)
+    parcel_col = PARAM_TO_COL["destination_parcel_number"]
+    county_col = PARAM_TO_COL["destination_county"]
+    if parcel_col in df.columns:
+        split = df[parcel_col].apply(lambda x: split_apn_county(x) if isinstance(x, str) else (None, None))
+        df[parcel_col] = split.apply(lambda x: x[0])
+        df[county_col] = split.apply(lambda x: x[1])
 
     n_total = len(df)
     manure_col = PARAM_TO_COL["manure_amount"]

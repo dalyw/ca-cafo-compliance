@@ -10,20 +10,17 @@ from helpers_geocoding import (
     looks_like_parcel_number,
     parse_destination_address_and_parcel,
 )
-from helpers_pdf_metrics import coerce_numeric_columns
-
-GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
+from helpers_pdf_metrics import GDRIVE_BASE, PARAMETERS_DF, coerce_columns
+from helpers_plotting import MANIFEST_TYPE_COLORS, TYPE_COLOR_SEQ, manure_colors
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
 EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
-PARAMETERS_PATH = os.path.join(BASE_DIR, "data", "parameters.csv")
 
 # Columns to EXCLUDE from each output: wastewater-only cols excluded from manure, vice versa.
-_params_df = pd.read_csv(PARAMETERS_PATH)
 specific_cols = {
-    t: set(_params_df.loc[_params_df["manifest_type"] == t, "parameter_name"])
+    t: set(PARAMETERS_DF.loc[PARAMETERS_DF["manifest_type"] == t, "parameter_name"])
     for t in ["wastewater", "manure"]
 }
 
@@ -50,13 +47,6 @@ CA_MAP_LAYOUT = dict(
     height=800,
     width=1000,
 )
-
-# def _geocode_if_valid(addr, geocode_fn, **kwargs):
-#     if not isinstance(addr, str) or not addr.strip():
-#         return None
-#     res = geocode_fn(addr, **kwargs)
-#     lat, lng = (res[:2] if isinstance(res, (tuple, list)) and len(res) >= 2 else (None, None))
-#     return (lat, lng) if (lat is not None and lng is not None) else None
 
 
 def _geocode_if_valid(addr, geocode_fn, **kwargs):
@@ -92,7 +82,7 @@ manual_df = pd.read_csv(MANUAL_PATH, engine="python", on_bad_lines="warn")
 extracted_df = pd.read_csv(EXTRACTED_PATH)
 
 # Coerce numeric columns (may have become strings after manual edits in step3)
-coerce_numeric_columns(manual_df)
+coerce_columns(manual_df)
 
 # Print DONE statistics
 done_count = (manual_df["DONE"] == "x").sum()
@@ -140,7 +130,6 @@ priority = [
     "Destination Nearest Cross Street",
     "Destination Address",
     "Destination Contact Address",
-    "Destination Name",
     "Hauler Address",
 ]
 
@@ -159,12 +148,14 @@ for idx, row in manual_df.iterrows():
 
     # Resolve destination address and geocode
     val = src = dest_geocoded = None
+    parcel_county = row.get("Destination County")
+    parcel_county = str(parcel_county).strip() if parcel_county and pd.notna(parcel_county) else None
     for col in priority:
         raw = row.get(col)
         if not raw or pd.isna(raw):
             continue
         raw_str = str(raw).strip()
-        if not raw_str or re.search(r"\bP\.?O\.?\s*Box\b", raw_str, re.IGNORECASE):
+        if not raw_str:
             continue
 
         if col == "Destination Assessor Parcel Number":
@@ -184,18 +175,20 @@ for idx, row in manual_df.iterrows():
             x = row.get("Destination Nearest Cross Street")
             if x and pd.notna(x) and str(x).strip() and not _COORD_RE.match(str(x)):
                 raw_str = f"{raw_str} {str(x).strip()}"
+            if parcel_county:
+                raw_str = f"{raw_str} {parcel_county}"
             val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address)
+            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
             break
-        elif col == "Destination Name":
+        elif col == "Destination Contact Address":
             if len(re.sub(r"[^a-zA-Z0-9]", "", raw_str)) >= 5:
-                g = _geocode_if_valid(raw_str, geocode_address)
+                g = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
                 if g:
                     val, src, dest_geocoded = raw_str, col, g
                     break
         else:
             val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address)
+            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
             break
 
     if val:
@@ -306,47 +299,58 @@ for new_type, old_types in merge_map.items():
         {k: new_type for k in old_types}
     )
 
-# for rows with missing or non-geocoded Origin Dairy Address, backfill from main report outputs csv
-# from LOCAL ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary
-needs_backfill = (
-    manual_df["Origin Dairy Address"].isna() | manual_df["Origin Latitude"].isna()
-)
-print(f"{needs_backfill.sum()} need origin dairy address backfill")
+# Backfill missing/non-geocoded Origin Dairy Address (by priority)
 dairy_summary_df = pd.read_csv(
     "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/Dairy_Report_Summary_Region_5_2024_pdf_merged.csv"
 )
-dairy_summary_df = dairy_summary_df.rename(
-    columns={"Dairy Address": "Origin Dairy Address"}
+dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": "Origin Dairy Address"})
+dairy_summary_df["Source PDF"] = dairy_summary_df["Source PDF"].str.replace(r"\.pdf$", "", regex=True)
+additional_origins_df = pd.read_csv(
+    os.path.join(BASE_DIR, "outputs", "2024_manifests_additional_origins.csv")
 )
-dairy_summary_df["Source PDF"] = dairy_summary_df["Source PDF"].str.replace(
-    r"\.pdf$", "", regex=True
-)
-lookup = dairy_summary_df.drop_duplicates(subset="Source PDF").set_index("Source PDF")[
-    "Origin Dairy Address"
-]
-manual_df.loc[needs_backfill, "Origin Dairy Address"] = manual_df.loc[
-    needs_backfill, "Source PDF"
-].map(lookup)
-num_backfilled = (
-    needs_backfill.sum()
-    - manual_df.loc[needs_backfill, "Origin Dairy Address"].isna().sum()
-)
-print(f"Backfilled {num_backfilled} rows")
 
-# print the name of remaining rows with missing origin dairy address
-# print unique FACILITIES< not manifests
-remaining_missing = (
-    manual_df[manual_df["Origin Dairy Address"].isna()]
-    .get("Source PDF", pd.Series())
-    .loc[manual_df[manual_df["Origin Dairy Address"].isna()].index]
-    .tolist()
-)
-remaining_missing = list(set(remaining_missing))
+def _parse_addr_from_pdf(pdf):
+    if pd.isna(pdf):
+        return None
+    m = re.match(r"2024AR_.+?_(.+?)_(\w+)$", pdf)
+    if m:
+        return f"{m.group(1)}, {m.group(2)}"
+    m = re.match(r"(.+?)\s+2024 Dairy AR$", pdf)
+    return m.group(1) if m else None
+
+origin_backfill_priority = [
+    ("Source PDF (summary)", "Source PDF",
+     dairy_summary_df.drop_duplicates(subset="Source PDF").set_index("Source PDF")["Origin Dairy Address"]),
+    ("Origin Dairy Name (summary)", "Origin Dairy Name",
+     dairy_summary_df.drop_duplicates(subset="Dairy Name").set_index("Dairy Name")["Origin Dairy Address"]),
+    ("additional origins CSV", "Source PDF",
+     additional_origins_df.set_index("Source PDF")["Origin Dairy Address"]),
+    ("Source PDF filename", "Source PDF", _parse_addr_from_pdf),
+]
+
+needs_backfill = manual_df["Origin Dairy Address"].isna() | manual_df["Origin Latitude"].isna()
+print(f"{needs_backfill.sum()} need origin dairy address backfill")
+num_before = manual_df.loc[needs_backfill, "Origin Dairy Address"].isna().sum()
+
+for label, col, source in origin_backfill_priority:
+    still_missing = needs_backfill & manual_df["Origin Dairy Address"].isna()
+    if not still_missing.any():
+        break
+    before = still_missing.sum()
+    if callable(source):
+        manual_df.loc[still_missing, "Origin Dairy Address"] = manual_df.loc[still_missing, col].apply(source)
+    else:
+        manual_df.loc[still_missing, "Origin Dairy Address"] = manual_df.loc[still_missing, col].map(source)
+    filled = before - (needs_backfill & manual_df["Origin Dairy Address"].isna()).sum()
+    if filled:
+        print(f"  {label}: {filled}")
+
+print(f"Backfilled {num_before - manual_df.loc[needs_backfill, 'Origin Dairy Address'].isna().sum()} rows")
+
+remaining_missing = manual_df.loc[manual_df["Origin Dairy Address"].isna(), "Source PDF"].unique().tolist()
 print(f"Remaining rows with missing origin dairy address: {len(remaining_missing)}")
-if remaining_missing:
-    print("Source PDFs with missing origin dairy address:")
-    for pdf in remaining_missing:
-        print(f"  {pdf}")
+for pdf in remaining_missing:
+    print(f"  {pdf}")
 
 # Split by manifest type and drop irrelevant columns
 manifest_type_col = "Manifest Type"
@@ -387,6 +391,7 @@ fig_hist = px.histogram(
     nbins=10,
     labels={"value": "Tons per Haul", "count": "Number of Manifests"},
     title="Distribution of Manure Tons per Haul",
+    color_discrete_sequence=[manure_colors[0]],
 )
 fig_hist.update_layout(
     showlegend=False, xaxis_title="Tons per Haul", yaxis_title="Number of Manifests"
@@ -421,73 +426,90 @@ for col, lat_c, lng_c in _map_configs:
     if not has_geo.any():
         continue
     subset = manual_df.loc[has_geo].copy()
-    subset["Dairy Name"] = subset.get("Origin Dairy Name", "Unknown")
-    subset["Address"] = subset[col]
+    subset["Geocoded Text"] = subset.get(DEST_FINAL_COL if "Dest" in col else col, "")
+    subset["Address Source"] = subset.get(DEST_FINAL_SOURCE_COL, col)
 
     fig = px.scatter_map(
         subset,
         lat=lat_c,
         lon=lng_c,
         color="Manifest Type",
-        hover_name="Dairy Name",
-        hover_data={"Address": True, "Manifest Type": True},
+        color_discrete_map=MANIFEST_TYPE_COLORS,
+        hover_name="Origin Dairy Name",
+        hover_data={
+            "Source PDF": True,
+            "Destination Name": True,
+            "Manifest Number": True,
+            "Address Source": True,
+            "Geocoded Text": True,
+            "Manifest Type": False,
+            lat_c: False,
+            lng_c: False,
+        },
         title=col,
     )
     fig.update_layout(**CA_MAP_LAYOUT)
-    fig.write_html(os.path.join(OUTPUTS_DIR, f"2024 {col} map.html"))
+    filename = f"2024_{col.lower().replace(' ', '_')}_map.html"
+    fig.write_html(os.path.join(OUTPUTS_DIR, filename))
     print(f"  Saved {col} map")
 
-# Pie charts: destination type breakdown
-for label, df, amount_col, unit in _type_configs:
-    type_counts = df[dest_type_col].value_counts()
-    fig = px.pie(names=type_counts.index, values=type_counts.values)
-    _save_fig(fig, f"2024_{label.lower()}_destination_type_pie")
+# Combined 2x2 subplot: pie charts (top) + monthly bar charts (bottom)
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 
-# Monthly charts: amount per month
 first_col, last_col = "First Haul Date", "Last Haul Date"
+month_labels = [pd.Timestamp(month=m, day=1, year=2024).strftime("%b") for m in range(1, 13)]
 
-for label, df, amount_col, unit in _type_configs:
+fig_combined = make_subplots(
+    rows=2, cols=2,
+    specs=[[{"type": "pie"}, {"type": "pie"}],
+           [{"type": "bar"}, {"type": "bar"}]],
+    subplot_titles=[f"{l} Destination Types" for l, *_ in _type_configs]
+                  + [f"{l} Amount per Month" for l, *_ in _type_configs],
+)
+
+for col_idx, (label, df, amount_col, unit) in enumerate(_type_configs, start=1):
+    colors = TYPE_COLOR_SEQ[label]
+
+    # Pie chart (row 1)
+    type_counts = df[dest_type_col].value_counts()
+    fig_combined.add_trace(
+        go.Pie(labels=type_counts.index, values=type_counts.values,
+               marker_colors=colors, textposition="inside",
+               textinfo="label+percent"),
+        row=1, col=col_idx,
+    )
+
+    # Monthly bar chart (row 2)
     monthly_amount = pd.Series(0.0, index=range(1, 13))
-
     for _, row in df.iterrows():
         amt = pd.to_numeric(row.get(amount_col), errors="coerce")
         if pd.isna(amt):
             continue
-
-        first = pd.to_datetime(
-            row.get(first_col), format="mixed", dayfirst=False, errors="coerce"
-        )
-        last = pd.to_datetime(
-            row.get(last_col), format="mixed", dayfirst=False, errors="coerce"
-        )
-
+        first = pd.to_datetime(row.get(first_col), format="mixed", dayfirst=False, errors="coerce")
+        last = pd.to_datetime(row.get(last_col), format="mixed", dayfirst=False, errors="coerce")
         if pd.isna(last) and pd.isna(first):
             continue
         if pd.isna(first):
             first = last
-
-        # Skip full-year reports (Jan–Dec)
         if first.month == 1 and last.month == 12:
             continue
-
         lo, hi = min(first.month, last.month), max(first.month, last.month)
-        months = list(range(lo, hi + 1))
-        weight = 1.0 / len(months)
-        for mo in months:
+        span = list(range(lo, hi + 1))
+        weight = 1.0 / len(span)
+        for mo in span:
             monthly_amount[mo] += amt * weight
 
-    month_labels = [
-        pd.Timestamp(month=m, day=1, year=2024).strftime("%b") for m in range(1, 13)
-    ]
-
-    # Normalize to proportions
     total = monthly_amount.sum()
     if total > 0:
         monthly_amount = monthly_amount / total
 
-    fig = px.bar(
-        x=month_labels,
-        y=monthly_amount.values,
-        labels={"y": f"Total {label} ({unit})"},
+    fig_combined.add_trace(
+        go.Bar(x=month_labels, y=monthly_amount.values, marker_color=colors[0],
+               showlegend=False),
+        row=2, col=col_idx,
     )
-    _save_fig(fig, f"2024_{label.lower()}_amount_per_month")
+
+fig_combined.update_layout(height=500, width=900, showlegend=False, margin=dict(t=40, b=30, l=40, r=20),
+                          plot_bgcolor="white")
+_save_fig(fig_combined, "2024_manifest_summary")

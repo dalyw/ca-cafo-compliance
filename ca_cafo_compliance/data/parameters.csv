@@ -107,12 +107,13 @@ destination_nearest_cross_street,Destination Nearest Cross Street,text,NA,,both,
 destination_type,Destination Type,text,NA,,both,pdf
 destination_type_std,Destination Type (Standardized),text,NA,,both,pdf
 destination_parcel_number,Destination Assessor Parcel Number,text,NA,,both,calculation
+destination_county,Destination County,text,NA,,both,calculation
 destination_address_geocoded,Destination Address (Geocoded),text,NA,,both,calculation
-latitude,Destination Latitude,text,NA,,both,pdf
-longitude,Destination Longitude,text,NA,,both,pdf
+latitude,Destination Latitude,numeric,NA,,both,pdf
+longitude,Destination Longitude,numeric,NA,,both,pdf
 haul_date,Haul Date,text,NA,As-written,both,pdf
-haul_date_first,First Haul Date,text,NA,Parsed from haul_date,both,calculation
-haul_date_last,Last Haul Date,text,NA,Parsed from haul_date,both,calculation
+haul_date_first,First Haul Date,date,NA,Parsed from haul_date,both,calculation
+haul_date_last,Last Haul Date,date,NA,Parsed from haul_date,both,calculation
 is_pipeline,Is Pipeline,boolean,NA,"True if ""Pipeline"" appears in the text",both,calculation
 wastewater_gallon_per_haul,Wastewater Volume per Haul (Gallons),numeric,NA,,wastewater,calculation
 wastewater_number_hauls,Wastewater Number of Hauls,text,NA,,wastewater,calculation
