@@ -97,7 +97,8 @@ facility_count,Facility Count,numeric,NA,Number of facilities per consultant,,ca
 CADDID,CADDID,text,NA,,,
 origin_dairy_name,Origin Dairy Name,text,NA,,both,pdf
 origin_dairy_address,Origin Dairy Address,text,NA,,both,pdf
-origin_dairy_address_geocoded,Origin Dairy Address (Geocoded),text,NA,,both,pdf
+origin_geo_lat,Origin Dairy Latitude (Geocoded),numeric,NA,,both,pdf
+origin_geo_lng,Origin Dairy Longitude (Geocoded),numeric,NA,,both,pdf
 hauler_name,Hauler Name,text,NA,,both,pdf
 hauler_address,Hauler Address,text,NA,,both,pdf
 destination_name,Destination Name,text,NA,,both,pdf
@@ -108,7 +109,10 @@ destination_type,Destination Type,text,NA,,both,pdf
 destination_type_std,Destination Type (Standardized),text,NA,,both,pdf
 destination_parcel_number,Destination Assessor Parcel Number,text,NA,,both,calculation
 destination_county,Destination County,text,NA,,both,calculation
-destination_address_geocoded,Destination Address (Geocoded),text,NA,,both,calculation
+destination_address_final,Destination Address Final,text,NA,,both,calculation
+destination_address_final_source,Destination Address Final Source,text,NA,,both,calculation
+destination_geo_lat,Destination Latitude (Geocoded),numeric,NA,,both,pdf
+destination_geo_lng,Destination Longitude (Geocoded),numeric,NA,,both,pdf
 latitude,Destination Latitude,numeric,NA,,both,pdf
 longitude,Destination Longitude,numeric,NA,,both,pdf
 haul_date,Haul Date,text,NA,As-written,both,pdf

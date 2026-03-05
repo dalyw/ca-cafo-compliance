@@ -1,7 +1,11 @@
 import os
 import re
+
+import numpy as np
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 from helpers_geocoding import (
     enrich_address_columns,
@@ -10,34 +14,80 @@ from helpers_geocoding import (
     looks_like_parcel_number,
     parse_destination_address_and_parcel,
 )
-from helpers_pdf_metrics import GDRIVE_BASE, PARAMETERS_DF, coerce_columns
+from helpers_pdf_metrics import (
+    GDRIVE_BASE,
+    PARAMETERS_DF,
+    build_parameter_dicts,
+    coerce_columns,
+)
 from helpers_plotting import MANIFEST_TYPE_COLORS, TYPE_COLOR_SEQ, manure_colors
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
 EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
 
-# Columns to EXCLUDE from each output: wastewater-only cols excluded from manure, vice versa.
+# Column name mapping: parameter_key -> display name (e.g. P["origin_geo_lat"])
+P = build_parameter_dicts(manifest_only=True)["key_to_name"]
+
+# Columns exclusive to each manifest type (for splitting outputs)
 specific_cols = {
     t: set(PARAMETERS_DF.loc[PARAMETERS_DF["manifest_type"] == t, "parameter_name"])
     for t in ["wastewater", "manure"]
 }
 
+COLS_TO_GEOCODE = [P["origin_dairy_address"], P["destination_address"]]
 
-cols_to_geocode = ["Origin Dairy Address", "Destination Address"]
-cols_to_drop = [
+COLS_TO_DROP = [
     "DONE",
     "Is Duplicate",
     "Street no",
     "Rest of PDF",
     "County",
-    "Destination Longitude",
-    "Destination Latitude",
-    "Destination Type",
+    P["longitude"],
+    P["latitude"],
+    P["destination_type"],
+    "Haul Date",
+    "Unique Hauling Days Mentioned",
+    "Parameter Template",
+    "Method Used to Determine Volume of Manure",
+    "Method Used to Determine Volume of Wastewater",
 ]
 
-# California bounding box
+DEST_PRIORITY = [
+    P["destination_parcel_number"],
+    P["destination_nearest_cross_street"],
+    P["destination_address"],
+    P["destination_contact_address"],
+    P["hauler_address"],
+]
+
+AMOUNT_COLS = [
+    P["manure_amount"],
+    P["wastewater_amount"],
+    P["manure_ton_per_haul"],
+    P["wastewater_gallon_per_haul"],
+]
+
+BACKFILL_MASS_RULES = [
+    (P["manure_amount"], P["manure_amount_yards"]),
+    (P["manure_ton_per_haul"], P["manure_yard_per_haul"]),
+]
+
+EARLY_DROP_COLS = [
+    P["manure_amount_yards"],
+    P["manure_yard_per_haul"],
+    P["manure_density"],
+    P["manure_moisture_percent"],
+]
+
+DEST_TYPE_MERGE_MAP = {
+    "Composting Facility": ["Kelloggs", "Hyponex", "Fertilizer Company"],
+    "Farmer": ["Spreader"],
+    "Other": ["Garden", "Fenderup"],
+}
+
 CA_CENTER = {"lat": 37.2719, "lon": -119.2702}
 CA_MAP_LAYOUT = dict(
     map_style="carto-positron",
@@ -48,23 +98,17 @@ CA_MAP_LAYOUT = dict(
     width=1000,
 )
 
+_COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
+
 
 def _geocode_if_valid(addr, geocode_fn, **kwargs):
     if not isinstance(addr, str) or not addr.strip() or pd.isna(addr):
         return None
-
     res = geocode_fn(addr, **kwargs)
-
-    # geocode_address returns (lat, lng, meta); parcel geocoder often (lat, lng)
     if not isinstance(res, (tuple, list)) or len(res) < 2:
         return None
-
     lat, lng = res[0], res[1]
     return (lat, lng) if (lat is not None and lng is not None) else None
-
-
-DEST_FINAL_COL = "Destination Address Final"
-DEST_FINAL_SOURCE_COL = "Destination Address Final Source"
 
 
 def _save_fig(fig, name):
@@ -75,36 +119,34 @@ def _save_fig(fig, name):
     print(f"  Saved {name}")
 
 
-_COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
+def _parse_addr_from_pdf(pdf):
+    if pd.isna(pdf):
+        return None
+    m = re.match(r"2024AR_.+?_(.+?)_(\w+)$", pdf)
+    if m:
+        return f"{m.group(1)}, {m.group(2)}"
+    m = re.match(r"(.+?)\s+2024 Dairy AR$", pdf)
+    return m.group(1) if m else None
 
-# Load both files
+
+# Load and merge manual + extracted manifests
 manual_df = pd.read_csv(MANUAL_PATH, engine="python", on_bad_lines="warn")
 extracted_df = pd.read_csv(EXTRACTED_PATH)
-
-# Coerce numeric columns (may have become strings after manual edits in step3)
 coerce_columns(manual_df)
 
-# Print DONE statistics
 done_count = (manual_df["DONE"] == "x").sum()
 done_pct = 100 * done_count / len(manual_df) if len(manual_df) > 0 else 0
 print(f"Rows marked DONE: {done_count}/{len(manual_df)} ({done_pct:.1f}%)")
 
-# Drop duplicate manifests marked manually in "Is Duplicate" column
 dupe_mask = manual_df.get("Is Duplicate", pd.Series()) == "x"
 n_dupes = dupe_mask.sum()
 if n_dupes > 0:
     manual_df = manual_df[~dupe_mask].reset_index(drop=True)
-    print(f"Dropped {n_dupes} duplicate manifests, {len(manual_df)} remaining")
 
-# Key columns for matching
 key_cols = ["Source PDF", "Manifest Number"]
-
-# Find columns in extracted that are NOT in manual
 cols_to_add = set(extracted_df.columns) - set(manual_df.columns) - set(key_cols)
-
 print(f"\nColumns to add from extracted_manifests: {sorted(cols_to_add)}")
 
-# Fill missing columns from extracted via merge (take first match per key)
 extracted_deduped = extracted_df.drop_duplicates(subset=key_cols, keep="first")
 merged = manual_df.merge(
     extracted_deduped[list(cols_to_add) + key_cols],
@@ -119,143 +161,158 @@ for col in cols_to_add:
     elif col in merged.columns:
         manual_df[col] = merged[col]
 
+# Drop rows that are EXACT duplicates across all columns except Manifest Number
+dup_subset = [c for c in manual_df.columns if c not in ["Manifest Number", "Start Page", "End Page"]]
+duplicates_mask = manual_df.duplicated(subset=dup_subset, keep="first")
+duplicates_df = manual_df.loc[duplicates_mask, ["Source PDF", "Manifest Number"]]
+
+if not duplicates_df.empty:
+    print("Dropping exact-duplicate rows")
+    for _, r in duplicates_df.iterrows():
+        print(f"  Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
+
+manual_df = manual_df.drop_duplicates(subset=dup_subset)
+
+# Geocode origins and resolve destinations
 print("\nResolving Destination Address Final + Geocoding")
-manual_df[[DEST_FINAL_COL, DEST_FINAL_SOURCE_COL]] = None
+manual_df[[P["destination_address_final"], P["destination_address_final_source"]]] = None
+manual_df[[P["origin_geo_lat"], P["origin_geo_lng"],
+            P["destination_geo_lat"], P["destination_geo_lng"]]] = None
 source_counts = {}
-geo_counts = {col: 0 for col in cols_to_geocode}
-
-# Loop exits on first satisfied source
-priority = [
-    "Destination Assessor Parcel Number",
-    "Destination Nearest Cross Street",
-    "Destination Address",
-    "Destination Contact Address",
-    "Hauler Address",
-]
-
-origin_address_col = "Origin Dairy Address"
-origin_lat_col, origin_lng_col = "Origin Latitude", "Origin Longitude"
-dest_lat_col, dest_lng_col = "Destination Latitude", "Destination Longitude"
-manual_df[[origin_lat_col, origin_lng_col, dest_lat_col, dest_lng_col]] = None
+geo_counts = {col: 0 for col in COLS_TO_GEOCODE}
 
 for idx, row in manual_df.iterrows():
-    addr = row[origin_address_col]
+    addr = row[P["origin_dairy_address"]]
     county = row.get("County")
     if addr and (r := _geocode_if_valid(addr, geocode_address, county=county)):
-        manual_df.at[idx, origin_lat_col] = r[0]
-        manual_df.at[idx, origin_lng_col] = r[1]
-        geo_counts[origin_address_col] += 1
+        manual_df.at[idx, P["origin_geo_lat"]] = r[0]
+        manual_df.at[idx, P["origin_geo_lng"]] = r[1]
+        geo_counts[P["origin_dairy_address"]] += 1
 
-    # Resolve destination address and geocode
-    val = src = dest_geocoded = None
-    parcel_county = row.get("Destination County")
-    parcel_county = str(parcel_county).strip() if parcel_county and pd.notna(parcel_county) else None
-    for col in priority:
-        raw = row.get(col)
+    parcel_county = row.get(P["destination_county"])
+    parcel_county = (
+        str(parcel_county).strip()
+        if parcel_county and pd.notna(parcel_county)
+        else None
+    )
+
+    # Existing manual lat/lng (are highest-priority
+    existing_lat = pd.to_numeric(row.get(P["latitude"]), errors="coerce")
+    existing_lng = pd.to_numeric(row.get(P["longitude"]), errors="coerce")
+    has_existing_coords = pd.notna(existing_lat) and pd.notna(existing_lng)
+    existing_coords = (existing_lat, existing_lng) if has_existing_coords else None
+
+    val = src = None
+    dest_geocoded = existing_coords
+    for dest_col in DEST_PRIORITY:
+        raw = row.get(dest_col)
         if not raw or pd.isna(raw):
             continue
         raw_str = str(raw).strip()
         if not raw_str:
             continue
 
-        if col == "Destination Assessor Parcel Number":
-            parts = [x.strip() for x in raw_str.split(",") if x.strip()]
-            hits = [r for p in parts if (r := _geocode_if_valid(p, geocode_parcel))]
-            if hits:
-                val, src = raw_str, col
-                dest_geocoded = hits[0]  # use first parcel coords
+        if dest_col == P["destination_parcel_number"]:
+            if has_existing_coords:
+                val, src = raw_str, dest_col
+            else:
+                parts = [x.strip() for x in raw_str.split(",") if x.strip()]
+                hits = [r for p in parts if (r := _geocode_if_valid(p, geocode_parcel))]
+                if hits:
+                    val, src, dest_geocoded = raw_str, dest_col, hits[0]
                 break
-        elif col == "Destination Nearest Cross Street":
+
+        elif dest_col == P["destination_nearest_cross_street"]:
             m = _COORD_RE.match(raw_str)
             if m:
-                dest_geocoded = (float(m.group(1)), float(m.group(2)))
-                val, src = raw_str, col
+                val, src = raw_str, dest_col
+                if not has_existing_coords:
+                    dest_geocoded = (float(m.group(1)), float(m.group(2)))
                 break
-        elif col == "Destination Address":
-            x = row.get("Destination Nearest Cross Street")
-            if x and pd.notna(x) and str(x).strip() and not _COORD_RE.match(str(x)):
-                raw_str = f"{raw_str} {str(x).strip()}"
+
+        elif dest_col == P["destination_address"]:
+            cross = row.get(P["destination_nearest_cross_street"])
+            if cross and pd.notna(cross) and str(cross).strip() and not _COORD_RE.match(str(cross)):
+                raw_str = f"{raw_str} {str(cross).strip()}"
             if parcel_county:
                 raw_str = f"{raw_str} {parcel_county}"
-            val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
-            break
-        elif col == "Destination Contact Address":
-            if len(re.sub(r"[^a-zA-Z0-9]", "", raw_str)) >= 5:
-                g = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
-                if g:
-                    val, src, dest_geocoded = raw_str, col, g
-                    break
-        else:
-            val, src = raw_str, col
-            dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
+            val, src = raw_str, dest_col
+            if not has_existing_coords:
+                dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
             break
 
+        elif dest_col == P["destination_contact_address"]:
+            if len(re.sub(r"[^a-zA-Z0-9]", "", raw_str)) >= 5:
+                if has_existing_coords:
+                    val, src = raw_str, dest_col
+                else:
+                    g = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
+                    if g:
+                        val, src, dest_geocoded = raw_str, dest_col, g
+                    break
+
+        elif dest_col == P["hauler_address"]:
+            strings_to_check = ["farm", "compost", "fertilizer"]
+            # Only use hauler address if it looks like a farm/compost destination
+            hauler_name_val = str(row.get(P["hauler_name"], "") or "").lower()
+            combined = f"{hauler_name_val} {raw_str.lower()}"
+            if not any(s in combined for s in strings_to_check):
+                continue
+            val, src = raw_str, dest_col
+            if not has_existing_coords:
+                dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
+            break
+
+        else:
+            val, src = raw_str, dest_col
+            if not has_existing_coords:
+                dest_geocoded = _geocode_if_valid(raw_str, geocode_address, county=parcel_county)
+            break
     if val:
-        manual_df.at[idx, DEST_FINAL_COL] = val
-        manual_df.at[idx, DEST_FINAL_SOURCE_COL] = src
+        manual_df.at[idx, P["destination_address_final"]] = val
+        manual_df.at[idx, P["destination_address_final_source"]] = src
         source_counts[src] = source_counts.get(src, 0) + 1
     if dest_geocoded:
-        manual_df.at[idx, dest_lat_col] = dest_geocoded[0]
-        manual_df.at[idx, dest_lng_col] = dest_geocoded[1]
-        geo_counts["Destination Address"] += 1
+        manual_df.at[idx, P["destination_geo_lat"]] = dest_geocoded[0]
+        manual_df.at[idx, P["destination_geo_lng"]] = dest_geocoded[1]
+        geo_counts[P["destination_address"]] += 1
 
-resolved = manual_df[DEST_FINAL_COL].notna().sum()
+resolved = manual_df[P["destination_address_final"]].notna().sum()
 print(f"  Resolved {resolved}/{len(manual_df)} destination addresses:")
 for source, count in sorted(source_counts.items(), key=lambda x: -x[1]):
     print(f"    {source}: {count}")
-for col in cols_to_geocode:
+for col in COLS_TO_GEOCODE:
     print(f"{geo_counts[col]}/{len(manual_df)} {col}")
 
-# Enrich with city/zip/county from geocoded addresses
-enrich_address_columns(manual_df, "Origin Dairy Address", prefix="Origin ", county_col_in="County")
-enrich_address_columns(manual_df, "Destination Address", prefix="Destination ")
+enrich_address_columns(manual_df, P["origin_dairy_address"], prefix="Origin ", county_col_in="County")
+enrich_address_columns(manual_df, P["destination_address"], prefix="Destination ")
 
-# Backfill missing mass columns: mass = volume * density
-backfill_rules = [
-    ("Total Manure Amount (tons)", "Total Manure Amount (cubic yards)"),
-    ("Manure Mass per Haul (tons)", "Manure Volume per Haul (cubic yards)"),
-]
-for mass_col, vol_col in backfill_rules:
+# Backfill mass and solids columns
+for mass_col, vol_col in BACKFILL_MASS_RULES:
     backfill = manual_df[mass_col].isna() & manual_df[vol_col].notna()
     manual_df.loc[backfill, mass_col] = (
-        manual_df.loc[backfill, vol_col] * manual_df.loc[backfill, "Manure Density"]
+        manual_df.loc[backfill, vol_col] * manual_df.loc[backfill, P["manure_density"]]
     )
     print(f"  Backfilled {backfill.sum()} mass values for {mass_col}")
 
-# Backfill missing solids: solids = 1 - moisture
 backfill_solids = (
-    manual_df["Manure Solids (%)"].isna() & manual_df["Manure Moisture (%)"].notna()
+    manual_df[P["manure_solids_percent"]].isna()
+    & manual_df[P["manure_moisture_percent"]].notna()
 )
-manual_df.loc[backfill_solids, "Manure Solids (%)"] = (
-    1 - manual_df.loc[backfill_solids, "Manure Moisture (%)"]
+manual_df.loc[backfill_solids, P["manure_solids_percent"]] = (
+    1 - manual_df.loc[backfill_solids, P["manure_moisture_percent"]]
 )
-print(f"  Backfilled {backfill_solids.sum()} values for Manure Solids (%)")
+print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
 
-# Drop columns now consolidated into tons/solids
-early_drop = [
-    "Total Manure Amount (cubic yards)",
-    "Manure Volume per Haul (cubic yards)",
-    "Manure Density",
-    "Manure Moisture (%)",
-]
-manual_df = manual_df.drop(columns=[c for c in early_drop if c in manual_df.columns])
+manual_df = manual_df.drop(columns=[c for c in EARLY_DROP_COLS if c in manual_df.columns])
 
 # Expand multi-parcel destinations into separate rows
-amount_cols_to_split = [
-    "Total Manure Amount (tons)",
-    "Total Process Wastewater Exports (Gallons)",
-    "Manure Mass per Haul (tons)",
-    "Wastewater Volume per Haul (Gallons)",
-]
-
 new_rows = []
 drop_idxs = []
 for idx, row in manual_df.iterrows():
-    apn_raw = row.get("Destination Assessor Parcel Number")
+    apn_raw = row.get(P["destination_parcel_number"])
     if not apn_raw or pd.isna(apn_raw):
         continue
-    # Validate each comma-separated part as a parcel number
     parcels = []
     for p in (x.strip() for x in str(apn_raw).split(",") if x.strip()):
         _, parcel = parse_destination_address_and_parcel(p)
@@ -269,16 +326,15 @@ for idx, row in manual_df.iterrows():
     for j, parcel in enumerate(parcels):
         new_row = row.copy()
         new_row["Manifest Number"] = f"{base_manifest}p{j+1}"
-        new_row["Destination Assessor Parcel Number"] = parcel
-        for col in amount_cols_to_split:
+        new_row[P["destination_parcel_number"]] = parcel
+        for col in AMOUNT_COLS:
             val = pd.to_numeric(new_row.get(col), errors="coerce")
             if pd.notna(val):
                 new_row[col] = val / n
-        # Geocode individual parcel
         r = _geocode_if_valid(parcel, geocode_parcel)
         if r:
-            new_row[dest_lat_col] = r[0]
-            new_row[dest_lng_col] = r[1]
+            new_row[P["destination_geo_lat"]] = r[0]
+            new_row[P["destination_geo_lng"]] = r[1]
         new_rows.append(new_row)
     drop_idxs.append(idx)
 
@@ -287,147 +343,616 @@ if new_rows:
     manual_df = pd.concat([manual_df, pd.DataFrame(new_rows)], ignore_index=True)
     print(f"  Expanded {len(drop_idxs)} multi-parcel rows into {len(new_rows)} rows")
 
-# Aggregate destination types into broader categories
-dest_type_col = "Destination Type (Standardized)"
-merge_map = {
-    "Composting Facility": ["Kelloggs", "Hyponex", "Fertilizer Company"],
-    "Farmer": ["Spreader"],
-    "Other": ["Garden"],
-}
-for new_type, old_types in merge_map.items():
-    manual_df[dest_type_col] = manual_df[dest_type_col].replace(
+#Standardize destination types
+for new_type, old_types in DEST_TYPE_MERGE_MAP.items():
+    manual_df[P["destination_type_std"]] = manual_df[P["destination_type_std"]].replace(
         {k: new_type for k in old_types}
     )
 
-# Backfill missing/non-geocoded Origin Dairy Address (by priority)
+# Backfill missing origin dairy addresses
 dairy_summary_df = pd.read_csv(
-    "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/Dairy_Report_Summary_Region_5_2024_pdf_merged.csv"
+    "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/"
+    "Dairy_Report_Summary_Region_5_2024_pdf_merged.csv"
 )
-dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": "Origin Dairy Address"})
-dairy_summary_df["Source PDF"] = dairy_summary_df["Source PDF"].str.replace(r"\.pdf$", "", regex=True)
+origin_col = P["origin_dairy_address"]
+dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": origin_col})
+dairy_summary_df["Source PDF"] = dairy_summary_df["Source PDF"].str.replace(
+    r"\.pdf$", "", regex=True
+)
+
 additional_origins_df = pd.read_csv(
-    os.path.join(BASE_DIR, "outputs", "2024_manifests_additional_origins.csv")
+    os.path.join(OUTPUTS_DIR, "2024_manifests_additional_origins.csv")
 )
 
-def _parse_addr_from_pdf(pdf):
-    if pd.isna(pdf):
-        return None
-    m = re.match(r"2024AR_.+?_(.+?)_(\w+)$", pdf)
-    if m:
-        return f"{m.group(1)}, {m.group(2)}"
-    m = re.match(r"(.+?)\s+2024 Dairy AR$", pdf)
-    return m.group(1) if m else None
-
-origin_backfill_priority = [
-    ("Source PDF (summary)", "Source PDF",
-     dairy_summary_df.drop_duplicates(subset="Source PDF").set_index("Source PDF")["Origin Dairy Address"]),
-    ("Origin Dairy Name (summary)", "Origin Dairy Name",
-     dairy_summary_df.drop_duplicates(subset="Dairy Name").set_index("Dairy Name")["Origin Dairy Address"]),
-    ("additional origins CSV", "Source PDF",
-     additional_origins_df.set_index("Source PDF")["Origin Dairy Address"]),
+backfill_sources = [
+    (
+        "Source PDF (summary)",
+        "Source PDF",
+        dairy_summary_df.drop_duplicates(subset="Source PDF")
+        .set_index("Source PDF")[origin_col],
+    ),
+    (
+        "Origin Dairy Name (summary)",
+        P["origin_dairy_name"],
+        dairy_summary_df.drop_duplicates(subset="Dairy Name")
+        .set_index("Dairy Name")[origin_col],
+    ),
+    (
+        "additional origins CSV",
+        "Source PDF",
+        additional_origins_df.set_index("Source PDF")[origin_col],
+    ),
     ("Source PDF filename", "Source PDF", _parse_addr_from_pdf),
 ]
 
-needs_backfill = manual_df["Origin Dairy Address"].isna() | manual_df["Origin Latitude"].isna()
+needs_backfill = manual_df[origin_col].isna() | manual_df["Origin Dairy Latitude (Geocoded)"].isna()
 print(f"{needs_backfill.sum()} need origin dairy address backfill")
-num_before = manual_df.loc[needs_backfill, "Origin Dairy Address"].isna().sum()
+num_before = manual_df.loc[needs_backfill, origin_col].isna().sum()
 
-for label, col, source in origin_backfill_priority:
-    still_missing = needs_backfill & manual_df["Origin Dairy Address"].isna()
+for label, col, source in backfill_sources:
+    still_missing = needs_backfill & manual_df[origin_col].isna()
     if not still_missing.any():
         break
     before = still_missing.sum()
     if callable(source):
-        manual_df.loc[still_missing, "Origin Dairy Address"] = manual_df.loc[still_missing, col].apply(source)
+        manual_df.loc[still_missing, origin_col] = manual_df.loc[still_missing, col].apply(source)
     else:
-        manual_df.loc[still_missing, "Origin Dairy Address"] = manual_df.loc[still_missing, col].map(source)
-    filled = before - (needs_backfill & manual_df["Origin Dairy Address"].isna()).sum()
+        manual_df.loc[still_missing, origin_col] = manual_df.loc[still_missing, col].map(source)
+    filled = before - (needs_backfill & manual_df[origin_col].isna()).sum()
     if filled:
         print(f"  {label}: {filled}")
 
-print(f"Backfilled {num_before - manual_df.loc[needs_backfill, 'Origin Dairy Address'].isna().sum()} rows")
+print(f"Backfilled {num_before - manual_df.loc[needs_backfill, origin_col].isna().sum()} rows")
 
-remaining_missing = manual_df.loc[manual_df["Origin Dairy Address"].isna(), "Source PDF"].unique().tolist()
-print(f"Remaining rows with missing origin dairy address: {len(remaining_missing)}")
-for pdf in remaining_missing:
+remaining = manual_df.loc[manual_df[origin_col].isna(), "Source PDF"].unique().tolist()
+print(f"Remaining rows with missing origin dairy address: {len(remaining)}")
+for pdf in remaining:
     print(f"  {pdf}")
 
-# Split by manifest type and drop irrelevant columns
-manifest_type_col = "Manifest Type"
-manure_mask = manual_df[manifest_type_col].isin(["manure", "both"])
+#Split by manifest type, compute stats, save CSVs
+manure_mask = manual_df["Manifest Type"].isin(["manure", "both"])
 manure_cols = [c for c in manual_df.columns if c not in specific_cols["wastewater"]]
 df_manure = manual_df.loc[manure_mask, manure_cols].copy()
 
-wastewater_mask = manual_df[manifest_type_col].isin(["wastewater", "both"])
+wastewater_mask = manual_df["Manifest Type"].isin(["wastewater", "both"])
 wastewater_cols = [c for c in manual_df.columns if c not in specific_cols["manure"]]
 df_ww = manual_df.loc[wastewater_mask, wastewater_cols].copy()
 
 print(f"  Manure + both: {len(df_manure)} rows")
 print(f"  Wastewater + both: {len(df_ww)} rows")
 
-
-tons_per_haul = df_manure["Manure Mass per Haul (tons)"].dropna()
-# Average per facility (PDF) so high-manifest facilities don't dominate
-avg_tons_per_haul = (
-    df_manure.dropna(subset=["Manure Mass per Haul (tons)"])
-    .groupby("Source PDF")["Manure Mass per Haul (tons)"]
-    .mean()
-    .mean()
+# Per-facility averages and total hauls (for top-row histograms and overlays)
+manure_facility_hauls = (
+    df_manure.dropna(subset=[P["manure_ton_per_haul"], P["manure_number_hauls"]])
+    .groupby("Source PDF")
+    .agg(
+        avg_tons_per_haul=(P["manure_ton_per_haul"], "mean"),
+        total_hauls=(P["manure_number_hauls"], "sum"),
+    )
 )
 
-df_manure["Estimated Number of Hauls"] = (
-    (df_manure["Total Manure Amount (tons)"] / avg_tons_per_haul)
+ww_facility_hauls = (
+    df_ww.dropna(subset=[P["wastewater_gallon_per_haul"], P["wastewater_number_hauls"]])
+    .groupby("Source PDF")
+    .agg(
+        avg_gal_per_haul=(P["wastewater_gallon_per_haul"], "mean"),
+        total_hauls=(P["wastewater_number_hauls"], "sum"),
+    )
+)
+
+tons_per_haul_facility = manure_facility_hauls["avg_tons_per_haul"]
+ww_per_haul_facility = ww_facility_hauls["avg_gal_per_haul"]
+
+# Averages across facilities (simple mean of facility averages)
+avg_tons_per_haul_facility = tons_per_haul_facility.mean()
+avg_gal_per_haul_facility = ww_per_haul_facility.mean()
+
+# Averages across hauls (weighted by number of hauls per manifest)
+manure_valid = df_manure.dropna(
+    subset=[P["manure_ton_per_haul"], P["manure_number_hauls"]]
+).copy()
+ww_valid = df_ww.dropna(
+    subset=[P["wastewater_gallon_per_haul"], P["wastewater_number_hauls"]]
+).copy()
+
+avg_tons_per_haul_weighted = (
+    (manure_valid[P["manure_ton_per_haul"]] * manure_valid[P["manure_number_hauls"]])
+    .sum()
+    / manure_valid[P["manure_number_hauls"]].sum()
+    if len(manure_valid) > 0
+    else float("nan")
+)
+
+avg_gal_per_haul_weighted = (
+    (ww_valid[P["wastewater_gallon_per_haul"]] * ww_valid[P["wastewater_number_hauls"]])
+    .sum()
+    / ww_valid[P["wastewater_number_hauls"]].sum()
+    if len(ww_valid) > 0
+    else float("nan")
+)
+
+# Global average tons per haul (still used for estimated hauls)
+avg_tons_per_haul = avg_tons_per_haul_weighted
+
+# Simple-average based estimate (status quo)
+df_manure["Estimated Number of Hauls (Based on Average)"] = (
+    (df_manure[P["manure_amount"]] / avg_tons_per_haul)
     .round()
     .astype("Int64")
 )
 
+# Distribution-based estimates: allocate ALL manure mass into equivalent
+# 10‑ton and 20‑ton hauls so that:
+#   10 * N10 + 20 * N20 ~= total manure tons (rounded to nearest 10),
+# respecting the observed share of mass hauled in 5–15 vs 15–25 ton ranges.
+tph = df_manure[P["manure_ton_per_haul"]]
+total_mass = df_manure[P["manure_amount"]].sum(skipna=True)
+
+mask_5_15 = tph.between(5, 15, inclusive="left")
+mask_15_25 = tph.between(15, 25, inclusive="left")
+
+mass_5_15 = df_manure.loc[mask_5_15, P["manure_amount"]].sum(skipna=True)
+mass_15_25 = df_manure.loc[mask_15_25, P["manure_amount"]].sum(skipna=True)
+
+mass_in_bins = mass_5_15 + mass_15_25
+if mass_in_bins > 0:
+    p10 = mass_5_15 / mass_in_bins
+else:
+    p10 = 0.5  # fallback if distribution info is missing
+p20 = 1.0 - p10
+
+print(f"Fraction of manure mass in 5–15 ton bin: {mass_5_15 / total_mass if total_mass else 0.0:.3f}")
+print(f"Fraction of manure mass in 15–25 ton bin: {mass_15_25 / total_mass if total_mass else 0.0:.3f}")
+
+# Global target counts of 10‑ and 20‑ton hauls based on distribution
+N10_float = total_mass * p10 / 10.0
+N20_float = total_mass * p20 / 20.0
+N10_total = int(round(N10_float))
+N20_total = int(round(N20_float))
+
+total_mass_rounded = int(round(total_mass / 10.0)) * 10
+accounted_mass = 10 * N10_total + 20 * N20_total
+diff_mass = total_mass_rounded - accounted_mass
+
+# Fill any remainder with 10‑ton hauls (or reduce 10‑ton hauls if we overshoot)
+if diff_mass != 0:
+    delta_10 = diff_mass // 10
+    N10_total = max(N10_total + delta_10, 0)
+    accounted_mass = 10 * N10_total + 20 * N20_total
+
+print(f"Total manure mass (rounded to 10): {total_mass_rounded:.0f} tons")
+print(f"Mass represented by 10/20‑ton hauls: {accounted_mass:.0f} tons")
+print(f"Global 10‑ton hauls: {N10_total}, 20‑ton hauls: {N20_total}")
+
+# Distribute these global counts back to rows in proportion to their mass.
+if total_mass > 0:
+    weights = df_manure[P["manure_amount"]] / total_mass
+else:
+    weights = pd.Series(0, index=df_manure.index)
+
+est_10 = (N10_total * weights).round().astype("Int64")
+est_20 = (N20_total * weights).round().astype("Int64")
+
+# Small integer adjustments so the column sums match N10_total/N20_total exactly
+diff_10 = int(N10_total - est_10.sum())
+if diff_10 != 0 and len(est_10) > 0:
+    idx = est_10.sort_values(ascending=False).index[: abs(diff_10)]
+    est_10.loc[idx] = est_10.loc[idx] + (1 if diff_10 > 0 else -1)
+
+diff_20 = int(N20_total - est_20.sum())
+if diff_20 != 0 and len(est_20) > 0:
+    idx = est_20.sort_values(ascending=False).index[: abs(diff_20)]
+    est_20.loc[idx] = est_20.loc[idx] + (1 if diff_20 > 0 else -1)
+
+df_manure["Estimated Number of 10-ton Hauls (Based on Distribution)"] = est_10
+df_manure["Estimated Number of 20-ton Hauls (Based on Distribution)"] = est_20
+
+print(
+    "Check mass from distribution-based hauls:",
+    10 * int(est_10.sum()) + 20 * int(est_20.sum()),
+)
 print(f"Average: {avg_tons_per_haul:.2f} tons/haul")
-print(f"  Estimated hauls: {df_manure['Estimated Number of Hauls'].sum():.0f}")
-print(f"  Total tons: {df_manure['Total Manure Amount (tons)'].sum():.0f}")
+print(
+    f"  Estimated hauls (simple average): "
+    f"{df_manure['Estimated Number of Hauls (Based on Average)'].sum():.0f}"
+)
+print(f"  Total tons: {total_mass:.0f}")
 
-# Save tons-per-haul histogram (binned in 5-ton increments)
-fig_hist = px.histogram(
-    tons_per_haul,
+# Tons-per-haul & facility-level scatter subplot (manure + wastewater)
+
+# Aggregate exports by facility (Source PDF), normalizing split manifests like '1p1'
+def _facility_agg(df, amount_col):
+    tmp = df.copy()
+    tmp["_manifest_norm"] = tmp["Manifest Number"].astype(str).str.replace(
+        r"p\d+$", "", regex=True
+    )
+    per_manifest = (
+        tmp.groupby(["Source PDF", "_manifest_norm"])[amount_col]
+        .sum()
+        .reset_index()
+    )
+    summary = (
+        per_manifest.groupby("Source PDF")
+        .agg(
+            total_amount=(amount_col, "sum"),
+            manifest_count=("_manifest_norm", "nunique"),
+        )
+        .reset_index()
+    )
+    return summary
+
+manure_facility = _facility_agg(df_manure, P["manure_amount"])
+ww_facility = _facility_agg(df_ww, P["wastewater_amount"])
+
+print("\nTop 5 facilities by total manure exported (tons):")
+print(
+    manure_facility.sort_values("total_amount", ascending=False)
+    .head(5)[["Source PDF", "total_amount", "manifest_count"]]
+)
+
+print("\nTop 5 facilities by total wastewater exported (gallons):")
+print(
+    ww_facility.sort_values("total_amount", ascending=False)
+    .head(5)[["Source PDF", "total_amount", "manifest_count"]]
+)
+
+fig_hauls = make_subplots(
+    rows=2,
+    cols=2,
+    specs=[[{"secondary_y": True}, {"secondary_y": True}], [{}, {}]],
+)
+
+def _binned_totals(x_vals, totals, nbins):
+    if len(x_vals) == 0:
+        return [], [], None
+
+    # Explicit left-closed, right-open bins over a slightly expanded range
+    x_min = float(x_vals.min())
+    x_max = float(x_vals.max())
+    span = x_max - x_min if x_max > x_min else 1.0
+    margin = span * 1e-6
+    bin_edges = np.linspace(x_min, x_max + margin, nbins + 1)
+
+    counts = pd.cut(
+        x_vals,
+        bins=bin_edges,
+        labels=False,
+        include_lowest=True,
+        right=False,
+    )
+
+    bin_totals = []
+    bin_centers = []
+    for i in range(len(bin_edges) - 1):
+        mask = counts == i
+        if not mask.any():
+            continue
+        bin_totals.append(totals[mask].sum())
+        bin_centers.append((bin_edges[i] + bin_edges[i + 1]) / 2)
+    return bin_centers, bin_totals, bin_edges
+
+manure_bin_x, manure_bin_totals, manure_edges = _binned_totals(
+    manure_facility_hauls["avg_tons_per_haul"],
+    manure_facility_hauls["total_hauls"],
     nbins=10,
-    labels={"value": "Tons per Haul", "count": "Number of Manifests"},
-    title="Distribution of Manure Tons per Haul",
-    color_discrete_sequence=[manure_colors[0]],
 )
-fig_hist.update_layout(
-    showlegend=False, xaxis_title="Tons per Haul", yaxis_title="Number of Manifests"
+ww_bin_x, ww_bin_totals, ww_edges = _binned_totals(
+    ww_facility_hauls["avg_gal_per_haul"],
+    ww_facility_hauls["total_hauls"],
+    nbins=10,
 )
-_save_fig(fig_hist, "2024_manure_tons_per_haul_histogram")
 
-# Per-type config: (label, dataframe, amount column, unit)
+print("Manure bins (center, total hauls):", list(zip(manure_bin_x, manure_bin_totals)))
+print("Wastewater bins (center, total hauls):", list(zip(ww_bin_x, ww_bin_totals)))
+
+manure_max = max(manure_bin_totals) if manure_bin_totals else 0
+ww_max = max(ww_bin_totals) if ww_bin_totals else 0
+
+fig_hauls.update_yaxes(
+    range=[0, manure_max * 1.1],
+    row=1, col=1, secondary_y=True,
+)
+fig_hauls.update_yaxes(
+    range=[0, ww_max],
+    row=1, col=2, secondary_y=True,
+)
+
+# Using the same bin edges as the histograms
+manure_counts, _ = np.histogram(tons_per_haul_facility, bins=manure_edges)
+ww_counts, _ = np.histogram(ww_per_haul_facility, bins=ww_edges)
+
+# Increase y-lim for the histogram subplots (facility count)
+fig_hauls.update_yaxes(
+    range=[0, manure_counts.max() * 1.1],
+    row=1, col=1, secondary_y=False,
+)
+fig_hauls.update_yaxes(
+    range=[0, ww_counts.max() * 1.1],
+    row=1, col=2, secondary_y=False,
+)
+
+# Top row: facility-count histograms (primary y), forced to share bin edges with dots
+if manure_edges is not None:
+    manure_xbins = dict(
+        start=float(manure_edges[0]),
+        end=float(manure_edges[-1]),
+        size=float(manure_edges[1] - manure_edges[0]),
+    )
+else:
+    manure_xbins = None
+
+if ww_edges is not None:
+    ww_xbins = dict(
+        start=float(ww_edges[0]),
+        end=float(ww_edges[-1]),
+        size=float(ww_edges[1] - ww_edges[0]),
+    )
+else:
+    ww_xbins = None
+
+fig_hauls.add_trace(
+    go.Histogram(
+        x=tons_per_haul_facility,
+        xbins=manure_xbins,
+        marker_color=manure_colors[0],
+        name="Manure tons/haul (facilities)",
+        showlegend=False,
+    ),
+    row=1,
+    col=1,
+    secondary_y=False,
+)
+
+fig_hauls.add_trace(
+    go.Histogram(
+        x=ww_per_haul_facility,
+        xbins=ww_xbins,
+        marker_color=MANIFEST_TYPE_COLORS.get("wastewater", "#1f77b4"),
+        name="Wastewater gallons/haul (facilities)",
+        showlegend=False,
+    ),
+    row=1,
+    col=2,
+    secondary_y=False,
+)
+
+# Overlay one dot per bin for total hauls (secondary y)
+
+fig_hauls.add_trace(
+    go.Scatter(
+        x=manure_bin_x,
+        y=manure_bin_totals,
+        mode="markers",
+        marker=dict(color="black", size=8, opacity=0.9, symbol="circle"),
+        name="Manure total hauls (per bin)",
+        showlegend=False,
+    ),
+    row=1,
+    col=1,
+    secondary_y=True,
+)
+
+fig_hauls.add_trace(
+    go.Scatter(
+        x=ww_bin_x,
+        y=ww_bin_totals,
+        mode="markers",
+        marker=dict(
+            color="black",
+            size=8,
+            opacity=0.9,
+            symbol="circle",
+        ),
+        name="Wastewater total hauls (per bin)",
+        showlegend=False,
+    ),
+    row=1,
+    col=2,
+    secondary_y=True,
+)
+
+# Add vertical lines for facility-mean and haul-weighted-mean
+fig_hauls.add_vline(
+    x=avg_tons_per_haul_facility,
+    line_color="black",
+    line_width=2,
+    row=1,
+    col=1,
+    annotation_text=round(avg_tons_per_haul_facility, 1),
+    annotation_position="top left",
+)
+fig_hauls.add_vline(
+    x=avg_tons_per_haul_weighted,
+    line_dash="dot",
+    line_color="black",
+    line_width=2,
+    row=1,
+    col=1,
+    annotation_text=round(avg_tons_per_haul_weighted, 1),
+    annotation_position="top right",
+)
+
+fig_hauls.add_vline(
+    x=avg_gal_per_haul_facility,
+    line_color="black",
+    line_width=2,
+    row=1,
+    col=2,
+    annotation_text=int(avg_gal_per_haul_facility),
+    annotation_position="top right",
+)
+fig_hauls.add_vline(
+    x=avg_gal_per_haul_weighted,
+    line_dash="dot",
+    line_color="black",
+    line_width=2,
+    row=1,
+    col=2,
+    annotation_text=int(avg_gal_per_haul_weighted),
+    annotation_position="top left",
+)
+
+# Legend-only entries for shapes (no color encoding)
+fig_hauls.add_trace(
+    go.Scatter(
+        x=[None],
+        y=[None],
+        mode="markers",
+        marker=dict(color="black", size=10, symbol="square"),
+        name="Facility Count",
+        showlegend=True,
+    )
+)
+fig_hauls.add_trace(
+    go.Scatter(
+        x=[None],
+        y=[None],
+        mode="markers",
+        marker=dict(color="black", size=8, symbol="circle"),
+        name="Total Hauls in Bin",
+        showlegend=True,
+    )
+)
+fig_hauls.add_trace(
+    go.Scatter(
+        x=[None],
+        y=[None],
+        mode="lines",
+        line=dict(color="black", width=2),
+        name="Average by Facility",
+        showlegend=True,
+    )
+)
+fig_hauls.add_trace(
+    go.Scatter(
+        x=[None],
+        y=[None],
+        mode="lines",
+        line=dict(color="black", dash="dot", width=2),
+        name="Average by Hauls",
+        showlegend=True,
+    )
+)
+fig_hauls.add_vline(
+    x=avg_gal_per_haul_weighted,
+    line_dash="dot",
+    line_color="black",
+    line_width=2,
+    row=1,
+    col=2,
+)
+
+# Bottom row: facility-level scatter plots
+fig_hauls.add_trace(
+    go.Scatter(
+        x=manure_facility["total_amount"],
+        y=manure_facility["manifest_count"],
+        mode="markers",
+        marker=dict(color=manure_colors[0]),
+        showlegend=False,
+    ),
+    row=2,
+    col=1,
+)
+fig_hauls.add_trace(
+    go.Scatter(
+        x=ww_facility["total_amount"],
+        y=ww_facility["manifest_count"],
+        mode="markers",
+        marker=dict(color=MANIFEST_TYPE_COLORS.get("wastewater", "#1f77b4")),
+        showlegend=False,
+    ),
+    row=2,
+    col=2,
+)
+
+fig_hauls.update_layout(
+    showlegend=True,
+    plot_bgcolor="white",
+    paper_bgcolor="white",
+    width=1000,
+    height=700,
+    font=dict(size=16),
+    legend=dict(
+        x=1.1,          # push legend to the right of plotting area
+        y=1.0,           # align to top
+        xanchor="left",  # anchor left edge of legend at x
+        yanchor="top",   # anchor top of legend at y
+        bordercolor="white",
+        borderwidth=0,
+    ),
+)
+fig_hauls.update_xaxes(title_text="Tons per haul", row=1, col=1)
+fig_hauls.update_yaxes(title_text="Number of facilities", row=1, col=1, secondary_y=False)
+fig_hauls.update_yaxes(title_text="Total hauls", row=1, col=1, secondary_y=True)
+fig_hauls.update_xaxes(title_text="Gallons per haul", row=1, col=2)
+fig_hauls.update_yaxes(title_text="Number of facilities", row=1, col=2, secondary_y=False)
+fig_hauls.update_yaxes(title_text="Total hauls", row=1, col=2, secondary_y=True)
+fig_hauls.update_xaxes(title_text="Total facility Exports (tons) in 2024", row=2, col=1)
+fig_hauls.update_yaxes(title_text="Manifests per Facility", row=2, col=1)
+fig_hauls.update_xaxes(title_text="Total Facility Exports (gallons) in 2024", row=2, col=2)
+fig_hauls.update_yaxes(title_text="Manifests Per Facility", row=2, col=2)
+
+# Add a small box around each individual subplot
+fig_hauls.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
+fig_hauls.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
+
+# Column headers for manure / wastewater
+fig_hauls.add_annotation(
+    text="Manure",
+    x=0,
+    y=1.08,
+    xref="paper",
+    yref="paper",
+    showarrow=False,
+    font=dict(size=16),
+)
+fig_hauls.add_annotation(
+    text="Wastewater",
+    x=0.6,
+    y=1.08,
+    xref="paper",
+    yref="paper",
+    showarrow=False,
+    font=dict(size=16),
+)
+
+_save_fig(fig_hauls, "2024_tons_per_haul")
+
 _type_configs = [
-    ("Manure", df_manure, "Total Manure Amount (tons)", "tons"),
-    ("Wastewater", df_ww, "Total Process Wastewater Exports (Gallons)", "gallons"),
+    ("Manure", df_manure, P["manure_amount"], "tons"),
+    ("Wastewater", df_ww, P["wastewater_amount"], "gallons"),
 ]
 
-# Summary statistics, drop extra columns, save CSVs
 print("\nTemplates breakdown:")
 print(manual_df["Parameter Template"].value_counts())
 
 for label, df, amount_col, unit in _type_configs:
     print(f"\n{label} summary by destination type:")
-    print(df.groupby(dest_type_col)[amount_col].sum())
-    df = df.drop(columns=[c for c in cols_to_drop if c in df.columns])
+    print(df.groupby(P["destination_type_std"])[amount_col].sum())
+    df = df.drop(columns=[c for c in COLS_TO_DROP if c in df.columns])
+    # Re-order columns to follow parameters.csv order where applicable
+    param_order = PARAMETERS_DF["parameter_name"].tolist()
+    ordered_param_cols = [c for c in param_order if c in df.columns]
+    remaining_cols = [c for c in df.columns if c not in ordered_param_cols]
+    df = df[ordered_param_cols + remaining_cols]
     fname = f"2024_manifests_{label.lower()}.csv"
     df.to_csv(os.path.join(OUTPUTS_DIR, fname), index=False)
-    df.to_csv(os.path.join(GDRIVE_BASE, fname), index=False)
 
-# Interactive maps (HTML only — carto-positron basemap shows state/county boundaries)
+#Interactive maps
 _map_configs = [
-    ("Origin Dairy Address", "Origin Latitude", "Origin Longitude"),
-    ("Destination Address", "Destination Latitude", "Destination Longitude"),
+    (P["origin_dairy_address"], P["origin_geo_lat"], P["origin_geo_lng"]),
+    (P["destination_address"], P["destination_geo_lat"], P["destination_geo_lng"]),
 ]
 for col, lat_c, lng_c in _map_configs:
     has_geo = manual_df[lat_c].notna() & manual_df[lng_c].notna()
     if not has_geo.any():
         continue
     subset = manual_df.loc[has_geo].copy()
-    subset["Geocoded Text"] = subset.get(DEST_FINAL_COL if "Dest" in col else col, "")
-    subset["Address Source"] = subset.get(DEST_FINAL_SOURCE_COL, col)
+    subset["Geocoded Text"] = subset.get(
+        P["destination_address_final"] if "Dest" in col else col, ""
+    )
+    subset["Address Source"] = subset.get(P["destination_address_final_source"], col)
 
     fig = px.scatter_map(
         subset,
@@ -435,10 +960,10 @@ for col, lat_c, lng_c in _map_configs:
         lon=lng_c,
         color="Manifest Type",
         color_discrete_map=MANIFEST_TYPE_COLORS,
-        hover_name="Origin Dairy Name",
+        hover_name=P["origin_dairy_name"],
         hover_data={
             "Source PDF": True,
-            "Destination Name": True,
+            P["destination_name"]: True,
             "Manifest Number": True,
             "Address Source": True,
             "Geocoded Text": True,
@@ -453,41 +978,82 @@ for col, lat_c, lng_c in _map_configs:
     fig.write_html(os.path.join(OUTPUTS_DIR, filename))
     print(f"  Saved {col} map")
 
-# Combined 2x2 subplot: pie charts (top) + monthly bar charts (bottom)
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
-
-first_col, last_col = "First Haul Date", "Last Haul Date"
-month_labels = [pd.Timestamp(month=m, day=1, year=2024).strftime("%b") for m in range(1, 13)]
+#Combined 2x2 subplot: pie charts + monthly bar charts
+month_labels = [
+    pd.Timestamp(month=m, day=1, year=2024).strftime("%b") for m in range(1, 13)
+]
 
 fig_combined = make_subplots(
-    rows=2, cols=2,
-    specs=[[{"type": "pie"}, {"type": "pie"}],
-           [{"type": "bar"}, {"type": "bar"}]],
+    rows=2,
+    cols=2,
+    specs=[[{"type": "pie"}, {"type": "pie"}], [{"type": "bar"}, {"type": "bar"}]],
     subplot_titles=[f"{l} Destination Types" for l, *_ in _type_configs]
-                  + [f"{l} Amount per Month" for l, *_ in _type_configs],
+    + [f"{l} Hauls by Month" for l, *_ in _type_configs],
 )
 
 for col_idx, (label, df, amount_col, unit) in enumerate(_type_configs, start=1):
     colors = TYPE_COLOR_SEQ[label]
 
-    # Pie chart (row 1)
-    type_counts = df[dest_type_col].value_counts()
-    fig_combined.add_trace(
-        go.Pie(labels=type_counts.index, values=type_counts.values,
-               marker_colors=colors, textposition="inside",
-               textinfo="label+percent"),
-        row=1, col=col_idx,
-    )
+    # Build destination-type counts, splitting comma-separated types like
+    # "Composting Facility, Farmer" and allocating equal weight to each.
+    type_series = df[P["destination_type_std"]].dropna().astype(str)
+    type_weights = {}
+    for v in type_series:
+        parts = [p.strip() for p in v.split(",") if p.strip()]
+        if not parts:
+            continue
+        w = 1.0 / len(parts)
+        for p in parts:
+            type_weights[p] = type_weights.get(p, 0.0) + w
 
-    # Monthly bar chart (row 2)
+    if type_weights:
+        type_counts = pd.Series(type_weights).sort_values(ascending=False)
+    else:
+        type_counts = pd.Series([], dtype=float)
+
+    # Reposition labels for Wastewater pie to reduce overlap
+    if label == "Wastewater":
+        pulls = [
+            0.2 if name != "Farmer" else 0.0
+            for name in type_counts.index
+        ]
+        pie = go.Pie(
+            labels=type_counts.index,
+            values=type_counts.values,
+            marker_colors=colors,
+            textposition="outside",
+            textinfo="label+percent",
+            textfont=dict(size=12),
+            pull=pulls,
+            rotation=90,
+        )
+    else:
+        pie = go.Pie(
+            labels=type_counts.index,
+            values=type_counts.values,
+            marker_colors=colors,
+            textposition="auto",
+            textinfo="label+percent",
+            insidetextorientation="radial",
+            pull=[
+                0.05 if v / type_counts.sum() < 0.05 else 0
+                for v in type_counts.values
+            ],
+        )
+
+    fig_combined.add_trace(pie, row=1, col=col_idx)
+
     monthly_amount = pd.Series(0.0, index=range(1, 13))
     for _, row in df.iterrows():
         amt = pd.to_numeric(row.get(amount_col), errors="coerce")
         if pd.isna(amt):
             continue
-        first = pd.to_datetime(row.get(first_col), format="mixed", dayfirst=False, errors="coerce")
-        last = pd.to_datetime(row.get(last_col), format="mixed", dayfirst=False, errors="coerce")
+        first = pd.to_datetime(
+            row.get(P["haul_date_first"]), format="mixed", dayfirst=False, errors="coerce"
+        )
+        last = pd.to_datetime(
+            row.get(P["haul_date_last"]), format="mixed", dayfirst=False, errors="coerce"
+        )
         if pd.isna(last) and pd.isna(first):
             continue
         if pd.isna(first):
@@ -505,11 +1071,31 @@ for col_idx, (label, df, amount_col, unit) in enumerate(_type_configs, start=1):
         monthly_amount = monthly_amount / total
 
     fig_combined.add_trace(
-        go.Bar(x=month_labels, y=monthly_amount.values, marker_color=colors[0],
-               showlegend=False),
-        row=2, col=col_idx,
+        go.Bar(
+            x=month_labels,
+            y=monthly_amount.values,
+            marker_color=colors[0],
+            showlegend=False
+        ),
+        row=2,
+        col=col_idx,
     )
 
-fig_combined.update_layout(height=500, width=900, showlegend=False, margin=dict(t=40, b=30, l=40, r=20),
-                          plot_bgcolor="white")
+    # Add a small box around each individual subplot
+# Apply to all 4 subplots
+for col_idx in [1, 2]:
+    fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True, row=1, col=col_idx)
+    fig_combined.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True, row=1, col=col_idx)
+    fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True, row=2, col=col_idx)
+    fig_combined.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True, row=2, col=col_idx)
+
+fig_combined.update_layout(
+    height=500,
+    width=900,
+    showlegend=False,
+    margin=dict(t=40, b=30, l=40, r=20),
+    plot_bgcolor="white",
+)
+for col_idx in [1, 2]:
+    fig_combined.update_yaxes(range=[0, 0.15], dtick=0.05, row=2, col=col_idx)
 _save_fig(fig_combined, "2024_manifest_summary")

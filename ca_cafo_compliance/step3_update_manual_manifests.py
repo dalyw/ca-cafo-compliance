@@ -192,7 +192,6 @@ def main():
         [bars1, bars2, dots[0]], ["Manual Count", "Automatic Count", "Accuracy (%)"], loc="upper right"
     )
     ax2.set_ylim(0, 100)
-    plt.title("Manual vs Extracted Counts and Accuracy per Parameter")
     plt.tight_layout()
     plt.savefig(os.path.join(OUTPUTS_DIR, "manual_vs_extracted_comparison.png"))
 
