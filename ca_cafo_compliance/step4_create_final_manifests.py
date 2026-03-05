@@ -481,12 +481,9 @@ df_manure["Estimated Number of Hauls (Based on Average)"] = (
     .astype("Int64")
 )
 
-# Distribution-based estimates: allocate ALL manure mass into equivalent
-# 10‑ton and 20‑ton hauls so that:
-#   10 * N10 + 20 * N20 ~= total manure tons (rounded to nearest 10),
-# respecting the observed share of mass hauled in 5–15 vs 15–25 ton ranges.
+# Distribution-based estimates: split ALL manure into 10-ton and 20-ton
+# hauls using the observed ratio of mass in the 5-15 vs 15-25 ton/haul bins.
 tph = df_manure[P["manure_ton_per_haul"]]
-total_mass = df_manure[P["manure_amount"]].sum(skipna=True)
 
 mask_5_15 = tph.between(5, 15, inclusive="left")
 mask_15_25 = tph.between(15, 25, inclusive="left")
@@ -494,69 +491,66 @@ mask_15_25 = tph.between(15, 25, inclusive="left")
 mass_5_15 = df_manure.loc[mask_5_15, P["manure_amount"]].sum(skipna=True)
 mass_15_25 = df_manure.loc[mask_15_25, P["manure_amount"]].sum(skipna=True)
 
+# Normalize so p10 + p20 = 1.0 — all mass is allocated
 mass_in_bins = mass_5_15 + mass_15_25
-if mass_in_bins > 0:
-    p10 = mass_5_15 / mass_in_bins
-else:
-    p10 = 0.5  # fallback if distribution info is missing
+p10 = mass_5_15 / mass_in_bins if mass_in_bins > 0 else 0.5
 p20 = 1.0 - p10
 
-print(f"Fraction of manure mass in 5–15 ton bin: {mass_5_15 / total_mass if total_mass else 0.0:.3f}")
-print(f"Fraction of manure mass in 15–25 ton bin: {mass_15_25 / total_mass if total_mass else 0.0:.3f}")
+print(f"Manure distribution split: {p10:.1%} at ~10 ton, {p20:.1%} at ~20 ton")
 
-# Global target counts of 10‑ and 20‑ton hauls based on distribution
-N10_float = total_mass * p10 / 10.0
-N20_float = total_mass * p20 / 20.0
-N10_total = int(round(N10_float))
-N20_total = int(round(N20_float))
+# N10 = amount * p10 / 10,  N20 = amount * p20 / 20
+# Mass check: N10*10 + N20*20 = amount*p10 + amount*p20 = amount
+df_manure["Estimated Number of 10-ton Hauls (Based on Distribution)"] = (
+    df_manure[P["manure_amount"]] * p10 / 10.0
+).round().astype("Int64")
 
-total_mass_rounded = int(round(total_mass / 10.0)) * 10
-accounted_mass = 10 * N10_total + 20 * N20_total
-diff_mass = total_mass_rounded - accounted_mass
+df_manure["Estimated Number of 20-ton Hauls (Based on Distribution)"] = (
+    df_manure[P["manure_amount"]] * p20 / 20.0
+).round().astype("Int64")
 
-# Fill any remainder with 10‑ton hauls (or reduce 10‑ton hauls if we overshoot)
-if diff_mass != 0:
-    delta_10 = diff_mass // 10
-    N10_total = max(N10_total + delta_10, 0)
-    accounted_mass = 10 * N10_total + 20 * N20_total
-
-print(f"Total manure mass (rounded to 10): {total_mass_rounded:.0f} tons")
-print(f"Mass represented by 10/20‑ton hauls: {accounted_mass:.0f} tons")
-print(f"Global 10‑ton hauls: {N10_total}, 20‑ton hauls: {N20_total}")
-
-# Distribute these global counts back to rows in proportion to their mass.
-if total_mass > 0:
-    weights = df_manure[P["manure_amount"]] / total_mass
-else:
-    weights = pd.Series(0, index=df_manure.index)
-
-est_10 = (N10_total * weights).round().astype("Int64")
-est_20 = (N20_total * weights).round().astype("Int64")
-
-# Small integer adjustments so the column sums match N10_total/N20_total exactly
-diff_10 = int(N10_total - est_10.sum())
-if diff_10 != 0 and len(est_10) > 0:
-    idx = est_10.sort_values(ascending=False).index[: abs(diff_10)]
-    est_10.loc[idx] = est_10.loc[idx] + (1 if diff_10 > 0 else -1)
-
-diff_20 = int(N20_total - est_20.sum())
-if diff_20 != 0 and len(est_20) > 0:
-    idx = est_20.sort_values(ascending=False).index[: abs(diff_20)]
-    est_20.loc[idx] = est_20.loc[idx] + (1 if diff_20 > 0 else -1)
-
-df_manure["Estimated Number of 10-ton Hauls (Based on Distribution)"] = est_10
-df_manure["Estimated Number of 20-ton Hauls (Based on Distribution)"] = est_20
-
-print(
-    "Check mass from distribution-based hauls:",
-    10 * int(est_10.sum()) + 20 * int(est_20.sum()),
-)
 print(f"Average: {avg_tons_per_haul:.2f} tons/haul")
-print(
-    f"  Estimated hauls (simple average): "
-    f"{df_manure['Estimated Number of Hauls (Based on Average)'].sum():.0f}"
+print(f"  Estimated hauls: {df_manure['Estimated Number of Hauls (Based on Average)'].sum():.0f}")
+print(f"  Total tons: {df_manure[P['manure_amount']].sum():.0f}")
+
+# Analogous estimates for wastewater
+avg_gal_per_haul = avg_gal_per_haul_weighted
+
+df_ww["Estimated Number of Hauls (Based on Average)"] = (
+    (df_ww[P["wastewater_amount"]] / avg_gal_per_haul)
+    .round()
+    .astype("Int64")
 )
-print(f"  Total tons: {total_mass:.0f}")
+
+wph = df_ww[P["wastewater_gallon_per_haul"]]
+
+mask_5k_15k = wph.between(5_000, 15_000, inclusive="left")
+mask_15k_25k = wph.between(15_000, 25_000, inclusive="left")
+
+vol_5k_15k = df_ww.loc[mask_5k_15k, P["wastewater_amount"]].sum(skipna=True)
+vol_15k_25k = df_ww.loc[mask_15k_25k, P["wastewater_amount"]].sum(skipna=True)
+
+# Normalize so wp10 + wp20 = 1.0
+vol_in_bins = vol_5k_15k + vol_15k_25k
+wp10 = vol_5k_15k / vol_in_bins if vol_in_bins > 0 else 0.5
+wp20 = 1.0 - wp10
+
+print(f"Wastewater distribution split: {wp10:.1%} at ~10k gal, {wp20:.1%} at ~20k gal")
+
+# N10k = amount * wp10 / 10000,  N20k = amount * wp20 / 20000
+df_ww["Estimated Number of 10k-gallon Hauls (Based on Distribution)"] = (
+    df_ww[P["wastewater_amount"]] * wp10 / 10_000.0
+).round().astype("Int64")
+
+df_ww["Estimated Number of 20k-gallon Hauls (Based on Distribution)"] = (
+    df_ww[P["wastewater_amount"]] * wp20 / 20_000.0
+).round().astype("Int64")
+
+print(f"Average wastewater haul: {avg_gal_per_haul:.0f} gallons/haul")
+print(
+    f"  Estimated hauls (wastewater, simple average): "
+    f"{df_ww['Estimated Number of Hauls (Based on Average)'].sum():.0f}"
+)
+print(f"  Total gallons: {df_ww[P['wastewater_amount']].sum():.0f}")
 
 # Tons-per-haul & facility-level scatter subplot (manure + wastewater)
 

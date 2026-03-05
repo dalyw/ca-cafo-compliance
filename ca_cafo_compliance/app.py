@@ -11,7 +11,7 @@ import requests
 from io import StringIO
 import sys
 from helpers_pdf_metrics import YEARS, REGIONS, cf, TEMPLATE_KEY_TO_NAME
-from helpers_plotting import PALETTE
+from helpers_plotting import PALETTE, load_data_from_source
 
 # Add the current directory to Python path for imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -80,31 +80,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
-
-def load_data_from_source(local_path, github_url, encoding="utf-8"):
-    """
-    Helper function to load data from either local file or GitHub.
-
-    Args:
-        local_path (str): Path to the local file
-        github_url (str): URL to the GitHub raw file
-        encoding (str): File encoding (default: 'utf-8')
-
-    Returns:
-        pd.DataFrame: Loaded dataframe or empty dataframe if loading fails
-    """
-    if os.path.exists(local_path):
-        return pd.read_csv(local_path, encoding=encoding)
-    else:
-        response = requests.get(github_url)
-        if response.status_code == 200:
-            return pd.read_csv(StringIO(response.text), encoding=encoding)
-        else:
-            st.warning(
-                f"Could not load {os.path.basename(local_path)} from local or GitHub."
-            )
-            return pd.DataFrame()
 
 
 def load_data():

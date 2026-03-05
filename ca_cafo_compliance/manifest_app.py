@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from app import load_data_from_source
+from helpers_plotting import load_data_from_source
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 if current_dir not in sys.path:
