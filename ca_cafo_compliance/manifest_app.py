@@ -21,13 +21,12 @@ def load_manifests() -> pd.DataFrame:
     """Load combined manure + wastewater manifests from local CSVs or GitHub."""
     base_local = "ca_cafo_compliance/outputs"
     base_github = (
-        "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/"
-        "main/outputs"
+        "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/" "main/outputs"
     )
 
     files = [
-        ("2024_manifests_manure.csv",),
-        ("2024_manifests_wastewater.csv",),
+        ("processed_manure_manifests.csv",),
+        ("processed_wastewater_manifests.csv",),
     ]
 
     dfs = []
@@ -75,9 +74,10 @@ def make_origin_map(df: pd.DataFrame):
 
 
 def make_destination_map(df: pd.DataFrame):
-    if not {"Destination Latitude (Geocoded)", "Destination Longitude (Geocoded)"}.issubset(
-        df.columns
-    ):
+    if not {
+        "Destination Latitude (Geocoded)",
+        "Destination Longitude (Geocoded)",
+    }.issubset(df.columns):
         st.error("Destination latitude/longitude columns not found in manifest data.")
         return
 

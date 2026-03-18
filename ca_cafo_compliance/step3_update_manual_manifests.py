@@ -9,8 +9,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Paths
 OUTPUTS_DIR = os.path.join(os.path.dirname(__file__), "outputs")
-MANUAL_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_manual.csv")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "2024_manifests_automatic.csv")
+MANUAL_PATH = os.path.join(OUTPUTS_DIR, "as_written_manifests_validated.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "as_written_manifests_automatic.csv")
 
 
 def main():
@@ -30,10 +30,7 @@ def main():
     overlapping_cols = list(manual_cols & extracted_cols - set(key_cols) - {"DONE"})
 
     # Always include Parameter Template for updates
-    if (
-        "Parameter Template" not in overlapping_cols
-        and "Parameter Template" in extracted_cols
-    ):
+    if "Parameter Template" not in overlapping_cols and "Parameter Template" in extracted_cols:
         overlapping_cols.append("Parameter Template")
 
     print(f"Key columns: {key_cols}")
@@ -43,9 +40,7 @@ def main():
 
     # Create lookup from extracted_manifests
     extracted_df["_key"] = (
-        extracted_df["Source PDF"].astype(str)
-        + "_"
-        + extracted_df["Manifest Number"].astype(str)
+        extracted_df["Source PDF"].astype(str) + "_" + extracted_df["Manifest Number"].astype(str)
     )
     extracted_lookup = extracted_df.set_index("_key")
 
@@ -90,7 +85,6 @@ def main():
         "destination_contact_address",
         "destination_address",
         "destination_nearest_cross_street",
-        "destination_type_std",
         "destination_parcel_number",
         "haul_date_first",
         "haul_date_last",
@@ -101,10 +95,8 @@ def main():
         "manure_amount",
         "manure_density",
         "manure_solids_percent",
-        "manure_moisture_percent"
+        "manure_moisture_percent",
     ]
-
-
 
     # Bar chart comparison of # extracted from automatic vs manual, plus accuracy as third bar (dual y-axis)
     plt.figure(figsize=(12, 7))
@@ -126,14 +118,25 @@ def main():
             if len(comparable) > 0:
                 m_col, e_col = f"{col}_manual", f"{col}_extracted"
                 if "address" in col.lower():
-                    m_norm = comparable[m_col].apply(lambda x: norm_addr(x) if isinstance(x, str) else x)
-                    e_norm = comparable[e_col].apply(lambda x: norm_addr(x) if isinstance(x, str) else x)
+                    m_norm = comparable[m_col].apply(
+                        lambda x: norm_addr(x) if isinstance(x, str) else x
+                    )
+                    e_norm = comparable[e_col].apply(
+                        lambda x: norm_addr(x) if isinstance(x, str) else x
+                    )
                     matches = (m_norm == e_norm).fillna(False)
                 elif "parcel" in col.lower():
+
                     def _norm_apns(x):
-                        if not isinstance(x, str): return x
-                        parts = [normalize_apn(p.strip()) for p in x.replace(",", " ").split() if p.strip()]
+                        if not isinstance(x, str):
+                            return x
+                        parts = [
+                            normalize_apn(p.strip())
+                            for p in x.replace(",", " ").split()
+                            if p.strip()
+                        ]
                         return ",".join(sorted(p for p in parts if p)) or None
+
                     m_norm = comparable[m_col].apply(_norm_apns)
                     e_norm = comparable[e_col].apply(_norm_apns)
                     matches = (m_norm == e_norm).fillna(False)
@@ -189,7 +192,9 @@ def main():
     ax1.set_xticks(list(indices))
     ax1.set_xticklabels(labels, rotation=45, ha="right")
     ax1.legend(
-        [bars1, bars2, dots[0]], ["Manual Count", "Automatic Count", "Accuracy (%)"], loc="upper right"
+        [bars1, bars2, dots[0]],
+        ["Manual Count", "Automatic Count", "Accuracy (%)"],
+        loc="upper right",
     )
     ax2.set_ylim(0, 100)
     plt.tight_layout()

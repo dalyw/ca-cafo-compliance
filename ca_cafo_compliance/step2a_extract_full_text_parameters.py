@@ -58,11 +58,10 @@ def main():
     param_dicts = build_parameter_dicts()
 
     parameter_locations = pd.read_csv(
-        "ca_cafo_compliance/data/parameter_locations.csv", dtype=str,
+        "ca_cafo_compliance/data/parameter_locations.csv",
+        dtype=str,
     )
-    parameter_locations["item_order"] = parameter_locations["item_order"].astype(
-        "Int64"
-    )
+    parameter_locations["item_order"] = parameter_locations["item_order"].astype("Int64")
 
     all_params = parameters["parameter_key"].unique().tolist()
     available_templates = parameter_locations["template"].unique()
@@ -95,9 +94,7 @@ def main():
             animals_df = pd.read_csv(animals_path)
 
             # Create mapping from R8 column names to parameter names
-            r8_template_params = parameter_locations[
-                parameter_locations["template"] == "r8_csv"
-            ]
+            r8_template_params = parameter_locations[parameter_locations["template"] == "r8_csv"]
 
             # Initialize all parameters as NA
             df = pd.DataFrame()
@@ -106,9 +103,7 @@ def main():
 
             # Map columns based on parameter_locations
             for _, row in r8_template_params.iterrows():
-                if pd.notna(
-                    row["row_search_text"]
-                ):  # Only map if row_search_text exists
+                if pd.notna(row["row_search_text"]):  # Only map if row_search_text exists
                     param_key = row["parameter_key"]
                     source_col = row["row_search_text"]
                     if source_col in animals_df.columns:
@@ -180,8 +175,7 @@ def main():
     if consolidate_data:
         # Load CADD data
         cadd_facilities = pd.read_csv(
-            "ca_cafo_compliance/data/CADD/"
-            "CADD_Facility General Information_v1.0.0.csv"
+            "ca_cafo_compliance/data/CADD/" "CADD_Facility General Information_v1.0.0.csv"
         )
         cadd_herd_size = pd.read_csv(
             "ca_cafo_compliance/data/CADD/" "CADD_Facility Herd Size_v1.0.0.csv"
@@ -198,9 +192,7 @@ def main():
                     continue
 
                 # Collect and process CSV files
-                csv_files = glob.glob(
-                    os.path.join(region_path, "**/*.csv"), recursive=True
-                )
+                csv_files = glob.glob(os.path.join(region_path, "**/*.csv"), recursive=True)
                 if not csv_files:
                     continue
 
@@ -238,9 +230,7 @@ def main():
 
                 # Merge with CADD herd size data
                 if "CADDID" in final_df.columns:
-                    current_year_herd = cadd_herd_size[
-                        cadd_herd_size["Year"] == int(year)
-                    ].copy()
+                    current_year_herd = cadd_herd_size[cadd_herd_size["Year"] == int(year)].copy()
                     if not current_year_herd.empty:
                         final_df = pd.merge(
                             final_df,
@@ -265,8 +255,7 @@ def main():
                 # Convert to pretty names and save individual region files
                 final_df_pretty = final_df.rename(columns=param_dicts["key_to_name"])
                 output_file = (
-                    f"ca_cafo_compliance/outputs/consolidated/"
-                    f"{year}_{region}_master.csv"
+                    f"ca_cafo_compliance/outputs/consolidated/" f"{year}_{region}_master.csv"
                 )
                 final_df_pretty.to_csv(output_file, index=False)
                 print(f"Saved consolidated data to {output_file}")
@@ -282,9 +271,7 @@ def main():
             # Now rename columns after concatenation
             all_master_df = all_master_df.rename(columns=param_dicts["key_to_name"])
 
-            all_master_output_file = (
-                "ca_cafo_compliance/outputs/consolidated/all_master.csv"
-            )
+            all_master_output_file = "ca_cafo_compliance/outputs/consolidated/all_master.csv"
             all_master_df.to_csv(all_master_output_file, index=False)
             print(f"Saved all_master data to {all_master_output_file}")
             print(f"Total records in all_master: {len(all_master_df)}")

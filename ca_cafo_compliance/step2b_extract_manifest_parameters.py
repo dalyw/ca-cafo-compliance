@@ -16,7 +16,11 @@ from helpers_pdf_metrics import (
     coerce_columns,
     extract_parameters_from_text,
 )
-from helpers_geocoding import parse_destination_address_and_parcel, strip_phone_number, split_apn_county
+from helpers_geocoding import (
+    parse_destination_address_and_parcel,
+    strip_phone_number,
+    split_apn_county,
+)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
@@ -51,9 +55,7 @@ _LOAD_PATTERNS = [
     # "418.5 Loads X 24 Tons" / "150 Loads At 9500 Gals/Load"
     # "100 Loads @ 10 Ton Per Load" / "552 Dump Tks @ Approx. 6.25 Ton Ave"
     (
-        re.compile(
-            rf"{_NUM}\s*{_LOAD}(?:\s+\w+)*?{_SEP}{_APPROX}{_NUM}\s*{_UNIT}", re.I
-        ),
+        re.compile(rf"{_NUM}\s*{_LOAD}(?:\s+\w+)*?{_SEP}{_APPROX}{_NUM}\s*{_UNIT}", re.I),
         (0, 1, 2),
     ),
     # "24 Tons X 56 Loads" (units before loads)
@@ -92,9 +94,7 @@ def identify_manifest_pages(result_text):
     # Extract pages
     pages = {
         int(m.group(1)): result_text[
-            m.end() : (
-                matches[i + 1].start() if i + 1 < len(matches) else len(result_text)
-            )
+            m.end() : (matches[i + 1].start() if i + 1 < len(matches) else len(result_text))
         ].strip()
         for i, m in enumerate(matches)
     }
@@ -146,11 +146,7 @@ def identify_manifest_pages(result_text):
                 end_pg = cand
 
         # Add page 3 if "Page 2 of 3"
-        if (
-            "PAGE 2 OF 3" in combined.upper()
-            and (p3 := end_pg + 1) in pages
-            and p3 not in used
-        ):
+        if "PAGE 2 OF 3" in combined.upper() and (p3 := end_pg + 1) in pages and p3 not in used:
             used.add(p3)
             combined += "\n" + pages[p3]
             end_pg = p3
@@ -193,11 +189,7 @@ def _parse_hauling_table(manifest_text):
     """Extract hauling event rows from table for templates with hauling tables."""
     lines = manifest_text.split("\n")
     start_idx = next(
-        (
-            i + 1
-            for i, ln in enumerate(lines)
-            if "date" in ln.lower() and "haul" in ln.lower()
-        ),
+        (i + 1 for i, ln in enumerate(lines) if "date" in ln.lower() and "haul" in ln.lower()),
         None,
     )
     if start_idx is None:
@@ -234,8 +226,7 @@ _MONTH_NAMES = [m.lower() for m in calendar.month_name[1:]] + [
 ]
 _MONTHS = "|".join(_MONTH_NAMES)
 _DATE_TOKEN_RE = re.compile(
-    r"\d{1,2}/\d{1,2}/\d{2,4}"
-    rf"|(?:{_MONTHS})(?:\s+\d{{1,2}})?(?:\s*,?\s*\d{{2,4}})?",
+    r"\d{1,2}/\d{1,2}/\d{2,4}" rf"|(?:{_MONTHS})(?:\s+\d{{1,2}})?(?:\s*,?\s*\d{{2,4}})?",
     re.I,
 )
 _MONTH_ONLY_RE = re.compile(rf"^\s*({_MONTHS})\s*$", re.I)
@@ -251,9 +242,7 @@ def _split_haul_dates(data):
     date_parts = _DATE_TOKEN_RE.findall(haul_date)
     if not date_parts:
         date_parts = [
-            p.strip()
-            for p in re.split(r"[-–—]|\bto\b|,|;|&", haul_date, flags=re.I)
-            if p.strip()
+            p.strip() for p in re.split(r"[-–—]|\bto\b|,|;|&", haul_date, flags=re.I) if p.strip()
         ]
 
     parsed = []
@@ -297,30 +286,13 @@ def extract_manifest_fields(manifest_text, template):
         if value is None:
             continue
 
-        # Standardize destination_type -> destination_type_std
-        std_key = param_key + "_std"
-        if std_key in PARAM_TO_COL:
-            std_val = value
-            if param_key == "destination_type" and isinstance(value, str):
-                vl = value.lower()
-                if "(as identified" in vl or "above)" in vl:
-                    std_val = None
-                elif "compost" in vl:
-                    std_val = "Composting Facility"
-                elif "farmer" in vl:
-                    std_val = value[value.lower().find("farmer") :]
-                    std_val = std_val.rstrip(" .—-")
-            data[PARAM_TO_COL[std_key]] = std_val
-
         # Parse destination into address and/or parcel; store both when present
         if param_key == "destination_address":
             address_part, parcel_part = parse_destination_address_and_parcel(value)
             # Only set parcel from address parsing if not already explicitly extracted
             if parcel_part and not data.get(PARAM_TO_COL["destination_parcel_number"]):
                 data[PARAM_TO_COL["destination_parcel_number"]] = parcel_part
-            value = (
-                address_part if address_part else (value if not parcel_part else None)
-            )
+            value = address_part if address_part else (value if not parcel_part else None)
             data[column_name] = value
 
         # Strip phone numbers and leading name from contact address
@@ -330,8 +302,14 @@ def extract_manifest_fields(manifest_text, template):
             if value:
                 num_match = re.search(r"\b\d{2,}", value)
                 if num_match:
-                    value = value[num_match.start():].strip()
+                    value = value[num_match.start() :].strip()
             data[column_name] = value
+
+        # Null out PDF form-label artifacts in destination type
+        if param_key == "destination_type":
+            vl = str(value).lower()
+            if "(as identified" in vl or "above)" in vl:
+                data[column_name] = None
 
     for wt, units in [("manure", ["ton", "yard"]), ("wastewater", ["gallon"])]:
         if not (txt := data.get(f"Method Used to Determine Volume of {wt.title()}")):
@@ -433,9 +411,7 @@ def extract_manifests_from_txt(txt_path):
             manifests.append(entry)
 
         # Save manifest txt + pdf slice
-        with open(
-            os.path.join(output_dir, f"manifest_{i}.txt"), "w", encoding="utf-8"
-        ) as f:
+        with open(os.path.join(output_dir, f"manifest_{i}.txt"), "w", encoding="utf-8") as f:
             f.write(manifest_text)
         with fitz.open(original_pdf) as doc, fitz.open() as new_doc:
             for p in range(start_pg - 1, end_pg):
@@ -484,7 +460,7 @@ def main():
     print(all_manifests[:2])  # print first 2 for sanity check
     df = pd.DataFrame(all_manifests)
     print(df.head())
-    out_csv = "ca_cafo_compliance/outputs/2024_manifests_automatic.csv"
+    out_csv = "ca_cafo_compliance/outputs/as_written_manifests_automatic.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
 
     # Coerce all numeric columns
@@ -493,11 +469,15 @@ def main():
     # Clean contact address (strip phones) and normalize parcel numbers
     contact_col = PARAM_TO_COL["destination_contact_address"]
     if contact_col in df.columns:
-        df[contact_col] = df[contact_col].apply(lambda x: strip_phone_number(x) if isinstance(x, str) else x)
+        df[contact_col] = df[contact_col].apply(
+            lambda x: strip_phone_number(x) if isinstance(x, str) else x
+        )
     parcel_col = PARAM_TO_COL["destination_parcel_number"]
     county_col = PARAM_TO_COL["destination_county"]
     if parcel_col in df.columns:
-        split = df[parcel_col].apply(lambda x: split_apn_county(x) if isinstance(x, str) else (None, None))
+        split = df[parcel_col].apply(
+            lambda x: split_apn_county(x) if isinstance(x, str) else (None, None)
+        )
         df[parcel_col] = split.apply(lambda x: x[0])
         df[county_col] = split.apply(lambda x: x[1])
 
@@ -518,9 +498,7 @@ def main():
             }
         ]
     )
-    summary_df.to_csv(
-        "ca_cafo_compliance/outputs/2024_manifest_summary.csv", index=False
-    )
+    summary_df.to_csv("ca_cafo_compliance/outputs/2024_manifest_summary.csv", index=False)
 
     has_manure = df[manure_col].notna()
     has_wastewater = df[wastewater_col].notna()
@@ -571,8 +549,7 @@ def identify_files_to_delete():
         "llmwhisperer": "**/llmwhisperer_output/**/manifest_*",
     }
     engine_delete_lists = {
-        k: sorted([p for p in g(pat) if os.path.isfile(p)])
-        for k, pat in engine_patterns.items()
+        k: sorted([p for p in g(pat) if os.path.isfile(p)]) for k, pat in engine_patterns.items()
     }
 
     # Empty subdirectories under an output_type folder (fitz/tesseract)
@@ -582,10 +559,7 @@ def identify_files_to_delete():
         return [d for d in dirs if os.path.isdir(d) and len(os.listdir(d)) == 0]
 
     empty_subfolders = sum(
-        [
-            empty_subdirs(f)
-            for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]
-        ],
+        [empty_subdirs(f) for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]],
         [],
     )
 

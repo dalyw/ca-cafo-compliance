@@ -84,9 +84,7 @@ def convert_pages_safe(pdf_path, first_p, last_p, dpi_list=(350, 250, 200, 150))
     for dpi in dpi_list:
         try:
             return (
-                convert_from_path(
-                    pdf_path, dpi=dpi, first_page=first_p, last_page=last_p
-                ),
+                convert_from_path(pdf_path, dpi=dpi, first_page=first_p, last_page=last_p),
                 dpi,
             )
         except PILImage.DecompressionBombError as e:
@@ -347,9 +345,7 @@ def extract_text_llmwhisperer(
         return result
 
     else:
-        raise RuntimeError(
-            f"LLMWhisperer error {response.status_code}: {response.text[:500]}"
-        )
+        raise RuntimeError(f"LLMWhisperer error {response.status_code}: {response.text[:500]}")
 
 
 def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
@@ -431,9 +427,7 @@ def extract_pdf_text(pdf_path, process_only_manifests=False):
     if process_only_manifests:
         manifest_pages = find_manifest_pages(pdf_path, detect_orientation=True)
         if manifest_pages:
-            print(
-                f"  Found {len(manifest_pages)} likely manifest page(s): {manifest_pages}"
-            )
+            print(f"  Found {len(manifest_pages)} likely manifest page(s): {manifest_pages}")
             pages_to_process = manifest_pages
         else:  # Save empty results
             print("  No manifest pages found, skipping")
@@ -492,9 +486,7 @@ def get_output_paths(pdf_path, method, mkdir=False):
     county = parts[i + 3]
     template = parts[i + 4]
 
-    out_dir = os.path.join(
-        GDRIVE_BASE, year, region, county, template, folder, pdf_name
-    )
+    out_dir = os.path.join(GDRIVE_BASE, year, region, county, template, folder, pdf_name)
 
     if mkdir:
         os.makedirs(out_dir, exist_ok=True)
@@ -569,9 +561,7 @@ def update_reports_available_csv():
             for county in counties:
                 county_path = os.path.join(GDRIVE_BASE, str(year), region, county)
                 for _, _, files in os.walk(county_path):
-                    pdf_counts[region] += sum(
-                        1 for f in files if f.lower().endswith(".pdf")
-                    )
+                    pdf_counts[region] += sum(1 for f in files if f.lower().endswith(".pdf"))
 
     rows = []
     with open(csv_path, "r", newline="") as f:
@@ -587,9 +577,7 @@ def update_reports_available_csv():
         writer.writerows(rows)
 
 
-def main(
-    test_mode=TEST_MODE, process_only_manifests=False, process_missing_pages=False
-):
+def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_pages=False):
 
     # If processing missing pages, do that instead
     if process_missing_pages:

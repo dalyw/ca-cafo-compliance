@@ -5,8 +5,8 @@ import pandas as pd
 import streamlit as st
 
 # Color palette (from ColorBrewer)
-manure_colors = ['#8c510a', '#bf812d', '#dfc27d', '#f6e8c3']
-wastewater_colors = ['#c7eae5', '#80cdc1', '#35978f', '#01665e']
+manure_colors = ["#8c510a", "#bf812d", "#dfc27d", "#f6e8c3"]
+wastewater_colors = ["#c7eae5", "#80cdc1", "#35978f", "#01665e"]
 
 PALETTE = {
     "blue": "#1f78b4",
@@ -33,6 +33,7 @@ TYPE_COLOR_SEQ = {
     "Wastewater": wastewater_colors,
 }
 
+
 def load_data_from_source(local_path, github_url, encoding="utf-8"):
     """
     Helper function to load data from either local file or GitHub.
@@ -52,7 +53,5 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
         if response.status_code == 200:
             return pd.read_csv(StringIO(response.text), encoding=encoding)
         else:
-            st.warning(
-                f"Could not load {os.path.basename(local_path)} from local or GitHub."
-            )
+            st.warning(f"Could not load {os.path.basename(local_path)} from local or GitHub.")
             return pd.DataFrame()

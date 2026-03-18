@@ -39,8 +39,11 @@ class JsonCache:
 cache = JsonCache(_CACHE_PATH)
 
 ZIP_TO_COUNTY = (
-    pd.read_csv(os.path.join(os.path.dirname(__file__), "data", "zipcode_to_county.csv"),
-                usecols=["zip", "county_name"], dtype=str)
+    pd.read_csv(
+        os.path.join(os.path.dirname(__file__), "data", "zipcode_to_county.csv"),
+        usecols=["zip", "county_name"],
+        dtype=str,
+    )
     .drop_duplicates(subset="zip")
     .set_index("zip")["county_name"]
     .to_dict()
@@ -68,8 +71,8 @@ else:
     print("Google geocoding disabled (no GOOGLE_GEOCODING_API_KEY)")
 
 DWR_PARCEL_GEOCODE_URL = (
-"https://gis.water.ca.gov/arcgis/rest/services/Location/Geocoding_Parcels_APN_TaxAPN/"
-"GeocodeServer/findAddressCandidates"
+    "https://gis.water.ca.gov/arcgis/rest/services/Location/Geocoding_Parcels_APN_TaxAPN/"
+    "GeocodeServer/findAddressCandidates"
 )
 
 _PO_BOX_RE = re.compile(r"\bP\.?O\.?\s*Box\b", re.IGNORECASE)
@@ -146,7 +149,11 @@ def geocode_address(address: str, county: str | None = None):
     elif not street:
         cache[key] = (None, None, {"address": loc.address, "source": source})
     else:
-        cache[key] = (loc.latitude, loc.longitude, {"address": loc.address, "source": source})
+        cache[key] = (
+            loc.latitude,
+            loc.longitude,
+            {"address": loc.address, "source": source},
+        )
 
     return cache[key]
 
@@ -156,7 +163,9 @@ def county_from_zip(zip_code: str) -> str | None:
     return ZIP_TO_COUNTY.get(z)
 
 
-def enrich_address_columns(df: pd.DataFrame, address_col: str, prefix="", county_col_in: str | None = None):
+def enrich_address_columns(
+    df: pd.DataFrame, address_col: str, prefix="", county_col_in: str | None = None
+):
     lat_col, lng_col = f"{prefix}Latitude", f"{prefix}Longitude"
     city_col, zip_col, county_col = f"{prefix}City", f"{prefix}Zip", f"{prefix}County"
 
@@ -165,9 +174,7 @@ def enrich_address_columns(df: pd.DataFrame, address_col: str, prefix="", county
         county = row.get(county_col_in) if county_col_in else None
         lat, lng, meta = geocode_address(addr, county=county)
         if lat is None:
-            return pd.Series(
-                [None] * 5, index=[lat_col, lng_col, city_col, zip_col, county_col]
-            )
+            return pd.Series([None] * 5, index=[lat_col, lng_col, city_col, zip_col, county_col])
 
         formatted = (meta or {}).get("address") or ""
         parts = [p.strip() for p in formatted.split(",")]
@@ -180,9 +187,7 @@ def enrich_address_columns(df: pd.DataFrame, address_col: str, prefix="", county
             index=[lat_col, lng_col, city_col, zip_col, county_col],
         )
 
-    df[[lat_col, lng_col, city_col, zip_col, county_col]] = df.apply(
-        enrich_one, axis=1
-    )
+    df[[lat_col, lng_col, city_col, zip_col, county_col]] = df.apply(enrich_one, axis=1)
     return df
 
 
@@ -217,9 +222,7 @@ def strip_trailing_pattern(text, regex):
     if not matches:
         return text, None
     m = matches[-1]
-    before = " ".join(
-        filter(None, [text[: m.start()].strip(), text[m.end() :].strip()])
-    ).strip()
+    before = " ".join(filter(None, [text[: m.start()].strip(), text[m.end() :].strip()])).strip()
     return (before or None), m.group(0)
 
 
@@ -241,13 +244,9 @@ def parse_destination_address_and_parcel(value):
         return s, None
 
     m = matches[-1]
-    rest = " ".join(
-        filter(None, [s[: m.start()].strip(), s[m.end() :].strip()])
-    ).strip()
+    rest = " ".join(filter(None, [s[: m.start()].strip(), s[m.end() :].strip()])).strip()
     parcel = re.sub(r"\s+", "", m.group(1))
-    address = (
-        rest if (rest and len(rest) >= 5 and re.search(r"[A-Za-z]", rest)) else None
-    )
+    address = rest if (rest and len(rest) >= 5 and re.search(r"[A-Za-z]", rest)) else None
     return address, parcel
 
 
