@@ -12,8 +12,6 @@ OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv")
 EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_automatic.csv")
 
-WATER_DENSITY = 8.34 / 2_000  # tons per gallon
-
 # Column name mapping: parameter_key -> display name (e.g. P["origin_geo_lat"])
 P = build_parameter_dicts(manifest_only=True)["key_to_name"]
 
@@ -46,25 +44,11 @@ COLS_TO_KEEP = METADATA_COLS + [
     P["is_trucked"],
 ]
 
-DEST_PRIORITY = [
-    P["destination_parcel_number"],
-    P["destination_nearest_cross_street"],
-    P["destination_address"],
-    P["destination_contact_address"],
-    P["hauler_address"],
-]
-
 
 DEST_TYPE_MAP = {
     "Composting Facility": ["compost", "kellogg", "hyponex", "fertilizer", "supply"],
     "Farmer": ["farm"],
 }
-
-CA_MAP_LAYOUT = dict(
-    # map_style="carto-positron",
-    map_center={"lat": 37.2719, "lon": -119.2702},
-    map_zoom=5,
-)
 
 _COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
 
@@ -115,7 +99,7 @@ def main():
 
     # Drop rows that are EXACT duplicates across all columns except Manifest Number
     dup_subset = [c for c in manual_df.columns if c not in ["Manifest Number", "Start Page", "End Page"]]
-    dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
+    # dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
     # for _, r in dupes[["Source PDF", "Manifest Number"]].iterrows():
     #     print(f" Duplicate Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
     manual_df = manual_df.drop_duplicates(subset=dup_subset)
@@ -129,7 +113,6 @@ def main():
         manual_df[P[latlong_col]] = None
 
     source_counts = {}
-    n_origin_geo = n_dest_geo = 0
 
     for idx, row in manual_df.iterrows():
         addr = row[P["origin_dairy_address"]]
@@ -137,7 +120,6 @@ def main():
         if addr and (r := geocode_if_valid(addr, geocode_address, county=county)):
             manual_df.at[idx, P["origin_geo_lat"]] = r[0]
             manual_df.at[idx, P["origin_geo_lng"]] = r[1]
-            n_origin_geo += 1
 
         raw_pc = row.get(P["destination_county"])
         parcel_county = str(raw_pc).strip() if raw_pc and pd.notna(raw_pc) else None
@@ -228,11 +210,6 @@ def main():
         if dest_geocoded:
             manual_df.at[idx, P["destination_geo_lat"]] = dest_geocoded[0]
             manual_df.at[idx, P["destination_geo_lng"]] = dest_geocoded[1]
-            n_dest_geo += 1
-
-    # ...existing code...
-
-    resolved = manual_df[P["destination_address_final"]].notna().sum()
 
     enrich_address_columns(
         manual_df, P["origin_dairy_address"], prefix="Origin ", county_col_in="County"
@@ -258,10 +235,6 @@ def main():
         1 - manual_df.loc[backfill_solids, P["manure_moisture_percent"]]
     )
     print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
-
-    # Calculate avg manure density before dropping the column
-    manure_density = manual_df.copy()[P["manure_density"]].dropna().astype(float)
-    avg_manure_density = manure_density.mean()
 
     manual_df.drop(
         columns=[src for _, src in BACKFILL_MASS_RULES]
@@ -356,18 +329,17 @@ def main():
     ]
     # scale converts native rate units to tons/haul
     haul_cfg = [
-        ("Manure", df_manure, P["manure_ton_per_haul"], P["manure_number_hauls"], 1.0),
+        ("Manure", df_manure, P["manure_ton_per_haul"], P["manure_number_hauls"]),
         (
             "Wastewater",
             ww_np,
             P["wastewater_gallon_per_haul"],
             P["wastewater_number_hauls"],
-            WATER_DENSITY,
         ),
     ]
 
     haul_stats = {}
-    for label, df, rate_col, haul_col, scale in haul_cfg:
+    for label, df, rate_col, haul_col in haul_cfg:
         fac = (
             df.dropna(subset=[rate_col, haul_col])
             .groupby("Source PDF")
@@ -375,16 +347,14 @@ def main():
         )
         haul_stats[label] = dict(
             facility_hauls=fac,
-            per_haul_series=fac["avg_rate"] * scale,
-            avg_facility=(fac["avg_rate"] * scale).mean(),
-            avg_weighted=weighted_avg(df, rate_col, haul_col) * scale,
+            per_haul_series=fac["avg_rate"],
+            avg_facility=(fac["avg_rate"]).mean(),
+            avg_weighted=weighted_avg(df, rate_col, haul_col),
         )
-    # Haul estimates: same 10-ton / 20-ton bins for manure (wastewater partitioned at 10,000 gal)
+    # Haul estimates: 10-ton / 20-ton bins for manure. 2,000 gal / 10,000 gal (cutoff 10k) for wastewater
     lo1, hi1, lo2, hi2, b1v, b2v, b1n, b2n = (5, 15, 15, 25, 10.0, 20.0, "10-ton", "20-ton")
     ww_gal_cutoff = 10000
-    for (label, ref_df, rate_col, haul_col, scale), (_, df, amount_col, unit) in zip(
-        haul_cfg, type_configs
-    ):
+    for (label, ref_df, rate_col, haul_col), (_, df, amount_col, unit) in zip(haul_cfg, type_configs):
         if label == "Wastewater":
             # Only calculate number of hauls for rows where is_trucked is True
             is_trucked = (
@@ -420,19 +390,16 @@ def main():
             in_lo = has_raw & (rate_row < ww_gal_cutoff)
             in_hi = has_raw & (rate_row >= ww_gal_cutoff)
             zero = pd.array([0] * len(rate_gal), dtype="Int64")
-            df.loc[trucked_idx, "Number of <10,000 gal Hauls for Analysis"] = (
+            df.loc[trucked_idx, "Number of <8,000 gal Hauls for Analysis"] = (
                 est_lo.where(~in_lo, n_hauls).where(~in_hi, zero).values
             )
-            df.loc[trucked_idx, "Number of ≥10,000 gal Hauls for Analysis"] = (
+            df.loc[trucked_idx, "Number of >=8,000 gal Hauls for Analysis"] = (
                 est_hi.where(~in_hi, n_hauls).where(~in_lo, zero).values
-            )
-            print(
-                f"Average wastewater haul: {haul_stats[label]['avg_weighted'] / WATER_DENSITY:.2f} gallons/haul"
             )
         else:
             # Manure: keep as before
-            rate_tons = ref_df[rate_col] * scale
-            amount_tons = ref_df[amount_col] * scale
+            rate_tons = ref_df[rate_col]
+            amount_tons = ref_df[amount_col]
             mass_lo = amount_tons[rate_tons.between(lo1, hi1, inclusive="left")].sum()
             mass_hi = amount_tons[rate_tons.between(lo2, hi2, inclusive="left")].sum()
             total = mass_lo + mass_hi
@@ -440,7 +407,7 @@ def main():
             p_hi = 1.0 - p_lo
             print(f"Manure split: {p_lo:.1%} at ~{b1n}, {p_hi:.1%} at ~{b2n}")
 
-            tons = df[amount_col] * scale
+            tons = df[amount_col]
             has_raw = df[rate_col].notna() & df[haul_col].notna()
             est_lo = (tons * p_lo / b1v).round().astype("Int64")
             est_hi = (tons * p_hi / b2v).round().astype("Int64")
@@ -450,7 +417,7 @@ def main():
             df[f"Estimated Number of {b2n} Hauls"] = est_hi.where(~has_raw)
 
             # For analysis: actual hauls classified by bin if raw data present, else estimated
-            rate_row = df[rate_col] * scale
+            rate_row = df[rate_col]
             n_hauls = pd.to_numeric(df[haul_col], errors="coerce").round().astype("Int64")
             in_lo = has_raw & rate_row.between(lo1, hi1, inclusive="left")
             in_hi = has_raw & rate_row.between(lo2, hi2, inclusive="left")
@@ -458,30 +425,6 @@ def main():
             df[f"Number of {b1n} Hauls for Analysis"] = est_lo.where(~in_lo, n_hauls).where(~in_hi, zero)
             df[f"Number of {b2n} Hauls for Analysis"] = est_hi.where(~in_hi, n_hauls).where(~in_lo, zero)
             print(f"Average manure haul: {haul_stats[label]['avg_weighted']:.2f} tons/haul")
-
-    # --- Volume comparison analysis: 40 tons water vs 20 tons manure ---
-    print("\n=== Water vs Manure Volume Analysis ===")
-    # Use avg_manure_density calculated above
-    # Water: 1 ton = 240 gallons (8.34 lbs/gallon)
-    water_gal_per_ton = 2000 / 8.34
-    water_cuft_per_gal = 0.133681
-    water_cuft_per_ton = water_gal_per_ton * water_cuft_per_gal
-    water_yd3_per_ton = water_cuft_per_ton / 27
-
-    # Manure: use average density from data
-    manure_yd3_per_ton = 1 / avg_manure_density
-
-    print(f"Average manure density (tons/yd³): {avg_manure_density:.3f}")
-    print(f"Water: 1 ton ≈ {water_gal_per_ton:.1f} gal ≈ {water_yd3_per_ton:.2f} yd³")
-    print(f"Manure: 1 ton ≈ {manure_yd3_per_ton:.2f} yd³")
-
-    water_yd3_40t = 40 * water_yd3_per_ton
-    manure_yd3_20t = 20 * manure_yd3_per_ton
-
-    print(f"\n40 tons water ≈ {water_yd3_40t:.1f} yd³")
-    print(f"20 tons manure ≈ {manure_yd3_20t:.1f} yd³")
-    ratio = water_yd3_40t / manure_yd3_20t
-    print(f"Ratio (water/manure, for these tonnages): {ratio:.2f}")
 
     # print unique instances of "Method Used..." from the wastewater manifests
     methods = df_ww[P["wastewater_method"]].dropna().unique()
@@ -491,18 +434,16 @@ def main():
 
     param_order = PARAMETERS_DF["parameter_name"].tolist()
     for label, df, amount_col, unit in type_configs:
-        # print(f"\n{label} summary by destination type:")
-        # print(df.groupby(P["destination_type_std"])[amount_col].sum())
         type_qty_cols = [
             c
             for c in param_order
             if c in specific_cols[label.lower()] and c in df.columns and not c.startswith("Method Used")
         ]
-        estimated_cols = [
-            c for c in df.columns if c.startswith("Estimated") or c.startswith("Number of")
-        ]
-        cols = [c for c in COLS_TO_KEEP + type_qty_cols + estimated_cols if c in df.columns]
-        cols += [c for c in df.columns if c.endswith("for Analysis")]
+        estimated_cols = [c for c in df.columns if c.startswith("Number of")]
+        cols = []
+        for c in COLS_TO_KEEP + type_qty_cols + estimated_cols:
+            if c in df.columns and c not in cols:
+                cols.append(c)
         df[cols].to_csv(
             os.path.join(OUTPUTS_DIR, f"processed_{label.lower()}_manifests.csv"),
             index=False,

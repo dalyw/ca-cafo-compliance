@@ -4,62 +4,13 @@ import pandas as pd
 import numpy as np
 import re
 
-# Dictionary of conversion factors (cf)
-cf_df = pd.read_csv("ca_cafo_compliance/data/conversion_factors.csv")
-cf = {row["NAME"]: float(row["VALUE"]) for _, row in cf_df.iterrows()}
-
+GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
+PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
 YEARS = [2023, 2024]
 
 # Read unique regions from county_region.csv
 county_region_df = pd.read_csv("ca_cafo_compliance/data/county_region.csv")
 REGIONS = sorted(county_region_df["region"].unique().tolist())
-
-# Create consultant mapping from templates.csv
-templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
-TEMPLATE_KEY_TO_NAME = dict(zip(templates_df["template_key"], templates_df["template_name"]))
-
-GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
-
-OCR_METHODS = ["llmwhisperer", "tesseract", "fitz"]
-OCR_DIRS = [f"{m}_output" for m in OCR_METHODS]
-
-
-def find_pdf_files(folder):
-    """Find all PDFs that have at least one OCR text output in sibling OCR directories."""
-    original_dir = os.path.join(folder, "original")
-    seen = set()
-    pdf_files = []
-    for ocr_dir in OCR_DIRS:
-        ocr_path = os.path.join(folder, ocr_dir)
-        if not os.path.exists(ocr_path):
-            continue
-        for text_file in glob.glob(os.path.join(ocr_path, "*.txt")):
-            pdf_name = os.path.basename(text_file).replace(".txt", ".pdf")
-            pdf_path = os.path.join(original_dir, pdf_name)
-            if pdf_path not in seen and os.path.exists(pdf_path):
-                seen.add(pdf_path)
-                pdf_files.append(pdf_path)
-    return pdf_files
-
-
-def load_ocr_text(pdf_path):
-    """Load and clean OCR text for a PDF by checking sibling OCR output directories.
-
-    Tries each OCR directory in priority order and returns the cleaned text
-    from the first one found, or empty string if none exist.
-    """
-    parent_dir = os.path.dirname(os.path.dirname(pdf_path))
-    pdf_stem = os.path.splitext(os.path.basename(pdf_path))[0]
-    for ocr_dir in OCR_DIRS:
-        text_file = os.path.join(parent_dir, ocr_dir, f"{pdf_stem}.txt")
-        if os.path.exists(text_file):
-            with open(text_file, "r") as f:
-                return clean_common_errors(f.read())
-    return ""
-
-
-# Parameters metadata
-PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
 
 
 def build_parameter_dicts(manifest_only=False):
