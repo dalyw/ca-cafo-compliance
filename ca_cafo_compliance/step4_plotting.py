@@ -7,7 +7,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
-import plotly.colors
 
 from helpers_geocoding import norm_addr, normalize_apn
 from helpers_pdf_metrics import PARAMETERS_DF, build_parameter_dicts

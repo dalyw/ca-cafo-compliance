@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import os
 import glob
-import csv
 import json
 import cv2
 import requests
@@ -15,7 +14,6 @@ from PIL import Image
 from PIL import Image as PILImage
 import io
 from pdf2image import convert_from_path
-import tempfile
 from dotenv import load_dotenv
 from helpers_pdf_metrics import YEARS, REGIONS, GDRIVE_BASE
 
@@ -90,41 +88,6 @@ def convert_pages_safe(pdf_path, first_p, last_p, dpi_list=(350, 250, 200, 150))
         except PILImage.DecompressionBombError as e:
             last_err = e
     raise last_err
-
-
-def extract_specific_pages(pdf_path, pages, output_path=None):
-    """Extract specific pages from a PDF to a new manifest file."""
-
-    if not pages:
-        return None
-
-    doc = fitz.open(pdf_path)
-    new_doc = fitz.open()
-    added_pages = 0
-
-    for page_num in pages:
-        if 0 < page_num <= len(doc):
-            new_doc.insert_pdf(doc, from_page=page_num - 1, to_page=page_num - 1)
-            added_pages += 1
-
-    if output_path is None:
-        # Create a temporary file path for the extracted page(s)
-        fd, tmp_path = tempfile.mkstemp(suffix=".pdf")
-        os.close(fd)
-        output_path = tmp_path
-
-    # Avoid saving zero-page PDFs
-    if added_pages == 0:
-        new_doc.close()
-        doc.close()
-        print("zero-page pdf")
-        return None
-
-    new_doc.save(output_path)
-    new_doc.close()
-    doc.close()
-
-    return output_path
 
 
 def needs_handwritten_analysis(text):

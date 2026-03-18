@@ -44,25 +44,11 @@ COLS_TO_KEEP = METADATA_COLS + [
     P["is_trucked"],
 ]
 
-DEST_PRIORITY = [
-    P["destination_parcel_number"],
-    P["destination_nearest_cross_street"],
-    P["destination_address"],
-    P["destination_contact_address"],
-    P["hauler_address"],
-]
-
 
 DEST_TYPE_MAP = {
     "Composting Facility": ["compost", "kellogg", "hyponex", "fertilizer", "supply"],
     "Farmer": ["farm"],
 }
-
-CA_MAP_LAYOUT = dict(
-    # map_style="carto-positron",
-    map_center={"lat": 37.2719, "lon": -119.2702},
-    map_zoom=5,
-)
 
 _COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
 
@@ -113,7 +99,7 @@ def main():
 
     # Drop rows that are EXACT duplicates across all columns except Manifest Number
     dup_subset = [c for c in manual_df.columns if c not in ["Manifest Number", "Start Page", "End Page"]]
-    dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
+    # dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
     # for _, r in dupes[["Source PDF", "Manifest Number"]].iterrows():
     #     print(f" Duplicate Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
     manual_df = manual_df.drop_duplicates(subset=dup_subset)
@@ -127,7 +113,6 @@ def main():
         manual_df[P[latlong_col]] = None
 
     source_counts = {}
-    n_origin_geo = n_dest_geo = 0
 
     for idx, row in manual_df.iterrows():
         addr = row[P["origin_dairy_address"]]
@@ -135,7 +120,6 @@ def main():
         if addr and (r := geocode_if_valid(addr, geocode_address, county=county)):
             manual_df.at[idx, P["origin_geo_lat"]] = r[0]
             manual_df.at[idx, P["origin_geo_lng"]] = r[1]
-            n_origin_geo += 1
 
         raw_pc = row.get(P["destination_county"])
         parcel_county = str(raw_pc).strip() if raw_pc and pd.notna(raw_pc) else None
@@ -226,11 +210,6 @@ def main():
         if dest_geocoded:
             manual_df.at[idx, P["destination_geo_lat"]] = dest_geocoded[0]
             manual_df.at[idx, P["destination_geo_lng"]] = dest_geocoded[1]
-            n_dest_geo += 1
-
-    # ...existing code...
-
-    resolved = manual_df[P["destination_address_final"]].notna().sum()
 
     enrich_address_columns(
         manual_df, P["origin_dairy_address"], prefix="Origin ", county_col_in="County"
@@ -256,10 +235,6 @@ def main():
         1 - manual_df.loc[backfill_solids, P["manure_moisture_percent"]]
     )
     print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
-
-    # Calculate avg manure density before dropping the column
-    manure_density = manual_df.copy()[P["manure_density"]].dropna().astype(float)
-    avg_manure_density = manure_density.mean()
 
     manual_df.drop(
         columns=[src for _, src in BACKFILL_MASS_RULES]
