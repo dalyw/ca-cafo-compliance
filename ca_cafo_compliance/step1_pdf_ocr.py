@@ -187,18 +187,21 @@ def _extract_llmwhisperer_text(payload: dict) -> str:
       payload['extraction']['result_text']
     plus some safe fallbacks.
     """
+    # TODO: remove fallbacks once validated
     if not isinstance(payload, dict):
         return ""
 
     # what your original "200 response" path expected
     t = (payload.get("extraction") or {}).get("result_text")
     if isinstance(t, str) and t.strip():
+        print("using option 1")
         return t
 
     # other common possibilities (defensive)
     for k in ("result_text", "text", "extracted_text", "content"):
         v = payload.get(k)
         if isinstance(v, str) and v.strip():
+            print("using option 2")
             return v
 
     # sometimes nested differently
@@ -207,6 +210,7 @@ def _extract_llmwhisperer_text(payload: dict) -> str:
         for k in ("result_text", "text", "extracted_text"):
             v = data.get(k)
             if isinstance(v, str) and v.strip():
+                print("using option 3")
                 return v
 
     return ""
@@ -472,7 +476,7 @@ def get_output_paths(pdf_path, method, mkdir=False):
     folder = f"{method}_output"
 
     parts = os.path.normpath(pdf_path).split(os.sep)
-    i = parts.index("ca_cafo_manifests")
+    i = parts.index("Manure Trucking Network Analysis")
     year = parts[i + 1]
     region = parts[i + 2]
     county = parts[i + 3]

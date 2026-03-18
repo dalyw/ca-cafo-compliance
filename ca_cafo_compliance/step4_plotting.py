@@ -7,6 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
+import plotly.colors
 
 from helpers_geocoding import norm_addr, normalize_apn
 from helpers_pdf_metrics import PARAMETERS_DF, build_parameter_dicts
@@ -102,6 +103,8 @@ def haul_bins(x_vals, totals, nbins=10):
     return centers.tolist(), bin_totals, counts, xbins
 
 
+# ...existing code...
+
 # --- Haul stats (rates converted to tons/haul via scale) ---
 haul_stats = {}
 for label, df, rate_col, haul_col, scale in haul_cfg:
@@ -110,11 +113,20 @@ for label, df, rate_col, haul_col, scale in haul_cfg:
         .groupby("Source PDF")
         .agg(avg_rate=(rate_col, "mean"), total_hauls=(haul_col, "sum"))
     )
+    # For wastewater, do NOT convert to tons/haul; keep in gallons
+    if label == "Wastewater":
+        per_haul_series = fac["avg_rate"]  # gallons/haul
+        avg_facility = fac["avg_rate"].mean()
+        avg_weighted = weighted_avg(df, rate_col, haul_col)
+    else:
+        per_haul_series = fac["avg_rate"] * scale
+        avg_facility = (fac["avg_rate"] * scale).mean()
+        avg_weighted = weighted_avg(df, rate_col, haul_col) * scale
     haul_stats[label] = dict(
         facility_hauls=fac,
-        per_haul_series=fac["avg_rate"] * scale,
-        avg_facility=(fac["avg_rate"] * scale).mean(),
-        avg_weighted=weighted_avg(df, rate_col, haul_col) * scale,
+        per_haul_series=per_haul_series,
+        avg_facility=avg_facility,
+        avg_weighted=avg_weighted,
     )
 
 manure_facility = facility_agg(df_manure, P["manure_amount"])
@@ -157,6 +169,7 @@ col_configs = [
         avg_weighted=haul_stats["Manure"]["avg_weighted"],
         vline_fmt=lambda v: round(v, 1),
         facility_df=manure_facility,
+        unit="tons",
     ),
     dict(
         color=MANIFEST_TYPE_COLORS.get("wastewater", "#1f77b4"),
@@ -168,11 +181,12 @@ col_configs = [
         avg_weighted=haul_stats["Wastewater"]["avg_weighted"],
         vline_fmt=int,
         facility_df=ww_facility,
+        unit="gallons",
     ),
 ]
 
-for col, (cfg, (label, _, _, unit)) in enumerate(zip(col_configs, type_configs), start=1):
-    color, fmt, fac_df = cfg["color"], cfg["vline_fmt"], cfg["facility_df"]
+for col, cfg in enumerate(col_configs, start=1):
+    color, fmt, fac_df, unit = cfg["color"], cfg["vline_fmt"], cfg["facility_df"], cfg["unit"]
     avg_fac, avg_w = cfg["avg_facility"], cfg["avg_weighted"]
     pos_fac, pos_w = ("top left", "top right") if col == 1 else ("top right", "top left")
 
@@ -230,7 +244,7 @@ for col, (cfg, (label, _, _, unit)) in enumerate(zip(col_configs, type_configs),
     fig_hauls.update_xaxes(title_text=f"Total Facility Exports ({unit}) in 2024", row=2, col=col)
     fig_hauls.update_yaxes(title_text="Manifests per Facility", row=2, col=col)
     fig_hauls.add_annotation(
-        text=label,
+        text="Manure" if col == 1 else "Wastewater",
         x=0 if col == 1 else 0.6,
         y=1.08,
         xref="paper",
@@ -355,6 +369,103 @@ for col_idx in [1, 2]:
     fig_combined.update_yaxes(range=[0, 0.15], dtick=0.05, row=2, col=col_idx)
 save_fig(fig_combined, "2024_manifest_summary")
 
+# --- Normalized stacked bar chart: destination address source breakdown (% per manifest type) ---
+
+
+def get_source_counts(df):
+    src_counts = df[P["destination_address_final_source"]].value_counts(dropna=False)
+    src_counts.index = src_counts.index.fillna("N/A")
+    return src_counts
+
+
+manure_src_counts = get_source_counts(df_manure)
+ww_src_counts = get_source_counts(df_ww)
+
+# Normalize to percent
+manure_total = manure_src_counts.sum()
+ww_total = ww_src_counts.sum()
+manure_src_perc = manure_src_counts / manure_total * 100
+ww_src_perc = ww_src_counts / ww_total * 100
+
+# Use all sources present in either type, sorted by total count
+all_sources = list(
+    pd.Index(manure_src_counts.index)
+    .union(ww_src_counts.index)
+    .sort_values(key=lambda x: -(manure_src_counts.get(x, 0) + ww_src_counts.get(x, 0)))
+)
+
+# Use manure colors for manure, wastewater colors for wastewater
+pie_colors_manure = list(TYPE_COLOR_SEQ["Manure"]) + ["#cccccc"]
+pie_colors_ww = list(TYPE_COLOR_SEQ["Wastewater"]) + ["#cccccc"]
+
+color_map = {}
+for i, src in enumerate(all_sources):
+    color_map[src] = pie_colors_manure[i % len(pie_colors_manure)]
+
+color_map_ww = {}
+for i, src in enumerate(all_sources):
+    color_map_ww[src] = pie_colors_ww[i % len(pie_colors_ww)]
+
+# Build data for stacked bar (normalized to %)
+bar_data = []
+for src in all_sources:
+    bar_data.append(
+        go.Bar(
+            name=src,
+            x=["Manure", "Wastewater"],
+            y=[
+                manure_src_perc.get(src, 0),
+                ww_src_perc.get(src, 0),
+            ],
+            marker_color=[color_map[src], color_map_ww[src]],
+        )
+    )
+
+fig_src = go.Figure(data=bar_data)
+fig_src.update_layout(
+    barmode="stack",
+    xaxis_title="Manifest Type",
+    yaxis_title="Percent of Manifests",
+    plot_bgcolor="white",
+    paper_bgcolor="white",
+    width=600,
+    height=400,
+    font=dict(size=16),
+    showlegend=False,  # Remove legend
+)
+fig_src.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
+fig_src.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True, range=[0, 100])
+
+# Calculate cumulative bottoms for stacking and label with source name (not %)
+cum_manure = 0
+cum_ww = 0
+for src in all_sources:
+    manure_val = manure_src_perc.get(src, 0)
+    ww_val = ww_src_perc.get(src, 0)
+    if manure_val > 0:
+        fig_src.add_annotation(
+            x="Manure",
+            y=cum_manure + manure_val / 2,
+            text=src,
+            showarrow=False,
+            font=dict(size=13, color="black"),
+            xanchor="center",
+            yanchor="middle",
+        )
+    if ww_val > 0:
+        fig_src.add_annotation(
+            x="Wastewater",
+            y=cum_ww + ww_val / 2,
+            text=src,
+            showarrow=False,
+            font=dict(size=13, color="black"),
+            xanchor="center",
+            yanchor="middle",
+        )
+    cum_manure += manure_val
+    cum_ww += ww_val
+
+save_fig(fig_src, "2024_destination_address_source_breakdown_percent")
 
 # --- Manual vs extracted accuracy comparison ---
 params_to_compare = [

@@ -21,7 +21,7 @@ def get_files_by_template(year, output_path, gdrive_output_path):
     """Returns a list of dicts with county, template, and filename"""
     files_list = []
     year_dir = BASE_DIR / str(year) / REGION
-    # data is structured under ca_cafo_manifests/year/region/county/template
+    # data is structured under Manure Trucking Network Analysis/year/region/county/template
     for county in COUNTIES:
         county_dir = year_dir / county
         if county_dir.exists():  # Each subdirectory in county (except . files) is a template

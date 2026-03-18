@@ -1,7 +1,7 @@
 #!/bin/bash
 # for saving JUST the manifest .txt files and .pdfs into separate folder
 
-BASE_DIR="/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
+BASE_DIR="/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
 OUTPUT_BASE="$BASE_DIR/all_manifests"
 
 # Find all template directories

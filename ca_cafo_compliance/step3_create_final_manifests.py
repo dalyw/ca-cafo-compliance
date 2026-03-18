@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 from helpers_geocoding import enrich_address_columns, geocode_address, geocode_parcel, norm_addr
-from helpers_pdf_metrics import PARAMETERS_DF, build_parameter_dicts, coerce_columns
+from helpers_pdf_metrics import PARAMETERS_DF, GDRIVE_BASE, build_parameter_dicts, coerce_columns
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
@@ -43,6 +43,7 @@ COLS_TO_KEEP = METADATA_COLS + [
     P["haul_date_first"],
     P["haul_date_last"],
     P["is_pipeline"],
+    P["is_trucked"],
 ]
 
 DEST_PRIORITY = [
@@ -115,22 +116,15 @@ def main():
     # Drop rows that are EXACT duplicates across all columns except Manifest Number
     dup_subset = [c for c in manual_df.columns if c not in ["Manifest Number", "Start Page", "End Page"]]
     dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
-    # if not dupes.empty:
-    print("Dropping exact-duplicate rows")
     # for _, r in dupes[["Source PDF", "Manifest Number"]].iterrows():
-    #     print(f"  Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
+    #     print(f" Duplicate Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
     manual_df = manual_df.drop_duplicates(subset=dup_subset)
 
     # Geocode origins and resolve destinations
     print("\nResolving Destination Address Final + Geocoding")
     manual_df[[P["destination_address_final"], P["destination_address_final_source"]]] = None
 
-    latlong_col_keys = [
-        "origin_geo_lat",
-        "origin_geo_lng",
-        "destination_geo_lat",
-        "destination_geo_lng",
-    ]
+    latlong_col_keys = ["origin_geo_lat", "origin_geo_lng", "destination_geo_lat", "destination_geo_lng"]
     for latlong_col in latlong_col_keys:
         manual_df[P[latlong_col]] = None
 
@@ -155,68 +149,78 @@ def main():
 
         val = src = None
         dest_geocoded = (existing_lat, existing_lng) if has_existing_coords else None
-        for dest_col in DEST_PRIORITY:
-            raw = row.get(dest_col)
-            if not raw or pd.isna(raw):
-                continue
-            raw_str = str(raw).strip()
-            if not raw_str:
-                continue
 
-            if dest_col == P["destination_parcel_number"]:
-                if has_existing_coords:
-                    val, src = raw_str, dest_col
-                else:
-                    parts = [x.strip() for x in raw_str.split(",") if x.strip()]
-                    hits = [r for p in parts if (r := geocode_if_valid(p, geocode_parcel))]
-                    if hits:
-                        val, src, dest_geocoded = raw_str, dest_col, hits[0]
-                    break
+        # Track if any destination address field (parcel, cross street, address) was present
+        dest_address_present = False
 
-            elif dest_col == P["destination_nearest_cross_street"]:
+        # Try parcel number
+        raw_parcel = row.get(P["destination_parcel_number"])
+        if raw_parcel and not pd.isna(raw_parcel) and str(raw_parcel).strip():
+            dest_address_present = True
+            raw_str = str(raw_parcel).strip()
+            if has_existing_coords:
+                val, src = raw_str, P["destination_parcel_number"]
+                dest_geocoded = (existing_lat, existing_lng)
+            else:
+                parts = [x.strip() for x in raw_str.split(",") if x.strip()]
+                hits = [r for p in parts if (r := geocode_if_valid(p, geocode_parcel))]
+                if hits:
+                    val, src, dest_geocoded = raw_str, P["destination_parcel_number"], hits[0]
+
+        # If parcel failed, try cross street (if it looks like coordinates)
+        if not val:
+            raw_cross = row.get(P["destination_nearest_cross_street"])
+            if raw_cross and not pd.isna(raw_cross) and str(raw_cross).strip():
+                dest_address_present = True
+                raw_str = str(raw_cross).strip()
                 m = _COORD_RE.match(raw_str)
                 if m:
-                    val, src = raw_str, dest_col
+                    val, src = raw_str, P["destination_nearest_cross_street"]
                     if not has_existing_coords:
                         dest_geocoded = (float(m.group(1)), float(m.group(2)))
-                    break
 
-            elif dest_col == P["destination_address"]:
+        # If still not found, try destination address (+cross street/county)
+        if not val:
+            raw_addr = row.get(P["destination_address"])
+            if raw_addr and not pd.isna(raw_addr) and str(raw_addr).strip():
+                dest_address_present = True
+                raw_str = str(raw_addr).strip()
                 cross = row.get(P["destination_nearest_cross_street"])
                 if cross and pd.notna(cross) and str(cross).strip() and not _COORD_RE.match(str(cross)):
                     raw_str = f"{raw_str} {str(cross).strip()}"
                 if parcel_county:
                     raw_str = f"{raw_str} {parcel_county}"
-                val, src = raw_str, dest_col
+                val, src = raw_str, P["destination_address"]
                 if not has_existing_coords:
                     dest_geocoded = geocode_if_valid(raw_str, geocode_address, county=parcel_county)
-                break
 
-            elif dest_col == P["destination_contact_address"]:
+        # Only if ALL destination address fields were empty, try contact address
+        if not val and not dest_address_present:
+            raw_contact = row.get(P["destination_contact_address"])
+            if raw_contact and not pd.isna(raw_contact) and str(raw_contact).strip():
+                raw_str = str(raw_contact).strip()
                 if len(re.sub(r"[^a-zA-Z0-9]", "", raw_str)) >= 5:
                     if has_existing_coords:
-                        val, src = raw_str, dest_col
+                        val, src = raw_str, P["destination_contact_address"]
+                        dest_geocoded = (existing_lat, existing_lng)
                     else:
                         g = geocode_if_valid(raw_str, geocode_address, county=parcel_county)
                         if g:
-                            val, src, dest_geocoded = raw_str, dest_col, g
-                        break
+                            val, src, dest_geocoded = raw_str, P["destination_contact_address"], g
 
-            elif dest_col == P["hauler_address"]:
-                # Only use hauler address if it looks like a farm/compost destination
-                hauler_combined = f"{str(row.get(P['hauler_name'], '') or '').lower()} {raw_str.lower()}"
-                if not any(s in hauler_combined for s in ("farm", "compost", "fertilizer")):
-                    continue
-                val, src = raw_str, dest_col
-                if not has_existing_coords:
-                    dest_geocoded = geocode_if_valid(raw_str, geocode_address, county=parcel_county)
-                break
+        # Only if ALL above are empty, try hauler address (must look like farm/compost/fertilizer)
+        if not val and not dest_address_present:
+            raw_hauler = row.get(P["hauler_address"])
+            if raw_hauler and not pd.isna(raw_hauler) and str(raw_hauler).strip():
+                hauler_combined = (
+                    f"{str(row.get(P['hauler_name'], '') or '').lower()} {str(raw_hauler).lower()}"
+                )
+                if any(s in hauler_combined for s in ("farm", "compost", "fertilizer")):
+                    raw_str = str(raw_hauler).strip()
+                    val, src = raw_str, P["hauler_address"]
+                    if not has_existing_coords:
+                        dest_geocoded = geocode_if_valid(raw_str, geocode_address, county=parcel_county)
 
-            else:
-                val, src = raw_str, dest_col
-                if not has_existing_coords:
-                    dest_geocoded = geocode_if_valid(raw_str, geocode_address, county=parcel_county)
-                break
         if val:
             manual_df.at[idx, P["destination_address_final"]] = val
             manual_df.at[idx, P["destination_address_final_source"]] = src
@@ -225,6 +229,8 @@ def main():
             manual_df.at[idx, P["destination_geo_lat"]] = dest_geocoded[0]
             manual_df.at[idx, P["destination_geo_lng"]] = dest_geocoded[1]
             n_dest_geo += 1
+
+    # ...existing code...
 
     resolved = manual_df[P["destination_address_final"]].notna().sum()
 
@@ -253,6 +259,10 @@ def main():
     )
     print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
 
+    # Calculate avg manure density before dropping the column
+    manure_density = manual_df.copy()[P["manure_density"]].dropna().astype(float)
+    avg_manure_density = manure_density.mean()
+
     manual_df.drop(
         columns=[src for _, src in BACKFILL_MASS_RULES]
         + [P["manure_density"], P["manure_moisture_percent"]],
@@ -271,9 +281,9 @@ def main():
     manual_df[P["destination_type_std"]] = manual_df[P["destination_type"]].apply(std_dest_type)
 
     # Backfill missing origin dairy addresses from main report
+
     dairy_summary_df = pd.read_csv(
-        "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/"
-        "Dairy_Report_Summary_Region_5_2024_with_source_pdf.csv"
+        os.path.join(GDRIVE_BASE, "Dairy_Report_Summary_Region_5_2024_with_source_pdf.csv")
     )
     origin_col = P["origin_dairy_address"]
     dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": origin_col})
@@ -369,43 +379,115 @@ def main():
             avg_facility=(fac["avg_rate"] * scale).mean(),
             avg_weighted=weighted_avg(df, rate_col, haul_col) * scale,
         )
-
-    # Haul estimates: same 10-ton / 20-ton bins for both (wastewater converted via density)
+    # Haul estimates: same 10-ton / 20-ton bins for manure (wastewater partitioned at 10,000 gal)
     lo1, hi1, lo2, hi2, b1v, b2v, b1n, b2n = (5, 15, 15, 25, 10.0, 20.0, "10-ton", "20-ton")
-    for (label, ref_df, rate_col, haul_col, scale), (_, df, amount_col, _) in zip(
+    ww_gal_cutoff = 10000
+    for (label, ref_df, rate_col, haul_col, scale), (_, df, amount_col, unit) in zip(
         haul_cfg, type_configs
     ):
-        rate_tons = ref_df[rate_col] * scale
-        amount_tons = ref_df[amount_col] * scale
-        mass_lo = amount_tons[rate_tons.between(lo1, hi1, inclusive="left")].sum()
-        mass_hi = amount_tons[rate_tons.between(lo2, hi2, inclusive="left")].sum()
-        total = mass_lo + mass_hi
-        p_lo = mass_lo / total if total > 0 else 0.5
-        p_hi = 1.0 - p_lo
-        print(f"{label} split: {p_lo:.1%} at ~{b1n}, {p_hi:.1%} at ~{b2n}")
+        if label == "Wastewater":
+            # Only calculate number of hauls for rows where is_trucked is True
+            is_trucked = (
+                ref_df[P["is_trucked"]] == True
+                if P["is_trucked"] in ref_df.columns
+                else pd.Series([True] * len(ref_df), index=ref_df.index)
+            )
+            rate_gal = ref_df.loc[is_trucked, P["wastewater_gallon_per_haul"]]
+            amount_gal = ref_df.loc[is_trucked, P["wastewater_amount"]]
+            haul_col_trucked = ref_df.loc[is_trucked, haul_col]
 
-        tons = df[amount_col] * scale
-        has_raw = df[rate_col].notna() & df[haul_col].notna()
-        est_lo = (tons * p_lo / b1v).round().astype("Int64")
-        est_hi = (tons * p_hi / b2v).round().astype("Int64")
+            mass_lo = amount_gal[rate_gal < ww_gal_cutoff].sum()
+            mass_hi = amount_gal[rate_gal >= ww_gal_cutoff].sum()
+            total = mass_lo + mass_hi
+            p_lo = mass_lo / total if total > 0 else 0.5
+            p_hi = 1.0 - p_lo
+            print(f"Wastewater split: {p_lo:.1%} at <10,000 gal, {p_hi:.1%} at ≥10,000 gal")
 
-        # Estimated: only rows without real rate/haul data
-        df[f"Estimated Number of {b1n} Hauls"] = est_lo.where(~has_raw)
-        df[f"Estimated Number of {b2n} Hauls"] = est_hi.where(~has_raw)
+            tons = amount_gal  # keep in gallons
+            has_raw = rate_gal.notna() & haul_col_trucked.notna()
+            est_lo = (tons * p_lo / ww_gal_cutoff).round().astype("Int64")
+            est_hi = (tons * p_hi / ww_gal_cutoff).round().astype("Int64")
 
-        # For analysis: actual hauls classified by bin if raw data present, else estimated
-        rate_row = df[rate_col] * scale
-        n_hauls = pd.to_numeric(df[haul_col], errors="coerce").round().astype("Int64")
-        in_lo = has_raw & rate_row.between(lo1, hi1, inclusive="left")
-        in_hi = has_raw & rate_row.between(lo2, hi2, inclusive="left")
-        zero = pd.array([0] * len(df), dtype="Int64")
-        df[f"Number of {b1n} Hauls for Analysis"] = (
-            est_lo.where(~in_lo, n_hauls).where(~in_hi, zero)
-        )
-        df[f"Number of {b2n} Hauls for Analysis"] = (
-            est_hi.where(~in_hi, n_hauls).where(~in_lo, zero)
-        )
-        print(f"Average {label.lower()} haul: {haul_stats[label]['avg_weighted']:.2f} tons/haul")
+            # Get the indices in df that correspond to is_trucked True in ref_df
+            trucked_idx = ref_df.index[is_trucked]
+
+            df.loc[trucked_idx, "Estimated Number of <10,000 gal Hauls"] = est_lo.where(~has_raw).values
+            df.loc[trucked_idx, "Estimated Number of ≥10,000 gal Hauls"] = est_hi.where(~has_raw).values
+
+            # For analysis: actual hauls classified by bin if raw data present, else estimated
+            rate_row = rate_gal
+            n_hauls = pd.to_numeric(haul_col_trucked, errors="coerce").round().astype("Int64")
+            in_lo = has_raw & (rate_row < ww_gal_cutoff)
+            in_hi = has_raw & (rate_row >= ww_gal_cutoff)
+            zero = pd.array([0] * len(rate_gal), dtype="Int64")
+            df.loc[trucked_idx, "Number of <10,000 gal Hauls for Analysis"] = (
+                est_lo.where(~in_lo, n_hauls).where(~in_hi, zero).values
+            )
+            df.loc[trucked_idx, "Number of ≥10,000 gal Hauls for Analysis"] = (
+                est_hi.where(~in_hi, n_hauls).where(~in_lo, zero).values
+            )
+            print(
+                f"Average wastewater haul: {haul_stats[label]['avg_weighted'] / WATER_DENSITY:.2f} gallons/haul"
+            )
+        else:
+            # Manure: keep as before
+            rate_tons = ref_df[rate_col] * scale
+            amount_tons = ref_df[amount_col] * scale
+            mass_lo = amount_tons[rate_tons.between(lo1, hi1, inclusive="left")].sum()
+            mass_hi = amount_tons[rate_tons.between(lo2, hi2, inclusive="left")].sum()
+            total = mass_lo + mass_hi
+            p_lo = mass_lo / total if total > 0 else 0.5
+            p_hi = 1.0 - p_lo
+            print(f"Manure split: {p_lo:.1%} at ~{b1n}, {p_hi:.1%} at ~{b2n}")
+
+            tons = df[amount_col] * scale
+            has_raw = df[rate_col].notna() & df[haul_col].notna()
+            est_lo = (tons * p_lo / b1v).round().astype("Int64")
+            est_hi = (tons * p_hi / b2v).round().astype("Int64")
+
+            # Estimated: only rows without real rate/haul data
+            df[f"Estimated Number of {b1n} Hauls"] = est_lo.where(~has_raw)
+            df[f"Estimated Number of {b2n} Hauls"] = est_hi.where(~has_raw)
+
+            # For analysis: actual hauls classified by bin if raw data present, else estimated
+            rate_row = df[rate_col] * scale
+            n_hauls = pd.to_numeric(df[haul_col], errors="coerce").round().astype("Int64")
+            in_lo = has_raw & rate_row.between(lo1, hi1, inclusive="left")
+            in_hi = has_raw & rate_row.between(lo2, hi2, inclusive="left")
+            zero = pd.array([0] * len(df), dtype="Int64")
+            df[f"Number of {b1n} Hauls for Analysis"] = est_lo.where(~in_lo, n_hauls).where(~in_hi, zero)
+            df[f"Number of {b2n} Hauls for Analysis"] = est_hi.where(~in_hi, n_hauls).where(~in_lo, zero)
+            print(f"Average manure haul: {haul_stats[label]['avg_weighted']:.2f} tons/haul")
+
+    # --- Volume comparison analysis: 40 tons water vs 20 tons manure ---
+    print("\n=== Water vs Manure Volume Analysis ===")
+    # Use avg_manure_density calculated above
+    # Water: 1 ton = 240 gallons (8.34 lbs/gallon)
+    water_gal_per_ton = 2000 / 8.34
+    water_cuft_per_gal = 0.133681
+    water_cuft_per_ton = water_gal_per_ton * water_cuft_per_gal
+    water_yd3_per_ton = water_cuft_per_ton / 27
+
+    # Manure: use average density from data
+    manure_yd3_per_ton = 1 / avg_manure_density
+
+    print(f"Average manure density (tons/yd³): {avg_manure_density:.3f}")
+    print(f"Water: 1 ton ≈ {water_gal_per_ton:.1f} gal ≈ {water_yd3_per_ton:.2f} yd³")
+    print(f"Manure: 1 ton ≈ {manure_yd3_per_ton:.2f} yd³")
+
+    water_yd3_40t = 40 * water_yd3_per_ton
+    manure_yd3_20t = 20 * manure_yd3_per_ton
+
+    print(f"\n40 tons water ≈ {water_yd3_40t:.1f} yd³")
+    print(f"20 tons manure ≈ {manure_yd3_20t:.1f} yd³")
+    ratio = water_yd3_40t / manure_yd3_20t
+    print(f"Ratio (water/manure, for these tonnages): {ratio:.2f}")
+
+    # print unique instances of "Method Used..." from the wastewater manifests
+    methods = df_ww[P["wastewater_method"]].dropna().unique()
+    print(f"\nUnique 'Method Used for Analysis' values in wastewater manifests ({len(methods)}):")
+    for m in methods:
+        print(f"  {m}")
 
     param_order = PARAMETERS_DF["parameter_name"].tolist()
     for label, df, amount_col, unit in type_configs:
@@ -416,7 +498,9 @@ def main():
             for c in param_order
             if c in specific_cols[label.lower()] and c in df.columns and not c.startswith("Method Used")
         ]
-        estimated_cols = [c for c in df.columns if c.startswith("Estimated") or c.startswith("Number of")]
+        estimated_cols = [
+            c for c in df.columns if c.startswith("Estimated") or c.startswith("Number of")
+        ]
         cols = [c for c in COLS_TO_KEEP + type_qty_cols + estimated_cols if c in df.columns]
         cols += [c for c in df.columns if c.endswith("for Analysis")]
         df[cols].to_csv(

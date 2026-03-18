@@ -119,6 +119,7 @@ haul_date,Haul Date,text,NA,As-written,both,pdf
 haul_date_first,First Haul Date,date,NA,Parsed from haul_date,both,calculation
 haul_date_last,Last Haul Date,date,NA,Parsed from haul_date,both,calculation
 is_pipeline,Is Pipeline,boolean,NA,"True if ""Pipeline"" appears in the text",both,calculation
+is_trucked,Is Trucked,text,,"True" "False" or "Unsure",both,calculation
 wastewater_gallon_per_haul,Wastewater Volume per Haul (Gallons),numeric,NA,,wastewater,calculation
 wastewater_number_hauls,Wastewater Number of Hauls,text,NA,,wastewater,calculation
 wastewater_hours_pumped,Wastewater Hours Pumped (Hours),numeric,NA,,wastewater,calculation

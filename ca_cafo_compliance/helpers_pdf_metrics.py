@@ -18,7 +18,7 @@ REGIONS = sorted(county_region_df["region"].unique().tolist())
 templates_df = pd.read_csv("ca_cafo_compliance/data/templates.csv")
 TEMPLATE_KEY_TO_NAME = dict(zip(templates_df["template_key"], templates_df["template_name"]))
 
-GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/ca_cafo_manifests"
+GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
 
 OCR_METHODS = ["llmwhisperer", "tesseract", "fitz"]
 OCR_DIRS = [f"{m}_output" for m in OCR_METHODS]

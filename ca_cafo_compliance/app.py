@@ -923,10 +923,6 @@ def main():
         # Show the table instead of the image
         reporting_requirements_table()
 
-        csv_path = "ca_cafo_compliance/data/reports_available.csv"
-        github_url = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/main/data/reports_available.csv"
-        reports_df = load_data_from_source(csv_path, github_url)
-
         # Region/county mapping for labels, accounting for sub-regions of R5
         def get_region_label(row):
             region = str(row.get("region", ""))
@@ -948,39 +944,6 @@ def main():
                 "R9": "R9",
             }
             return region_map.get(region, region)
-
-        # If county column is not present, infer from region key (for legacy CSVs)
-        if "county" not in reports_df.columns:
-            # For legacy, use region key directly for 5F, 5S, 5R
-            def legacy_label(region):
-                if region == "5F":
-                    return "R5-F"
-                elif region == "5S":
-                    return "R5-S"
-                elif region == "5R":
-                    return "R5-R"
-                region_map = {
-                    "1": "R1",
-                    "2": "R2",
-                    "3": "R3",
-                    "6V": "R6V",
-                    "7": "R7",
-                    "8": "R8",
-                    "9": "R9",
-                }
-                return region_map.get(region, region)
-
-            reports_df["region_label"] = reports_df["region"].apply(legacy_label)
-        else:
-            reports_df["region_label"] = reports_df.apply(get_region_label, axis=1)
-
-        available_regions = reports_df["region_label"].unique().tolist()
-        selected_regions = st.multiselect(
-            "Select Regions to Display",
-            available_regions,
-            default=available_regions,
-        )
-        filtered_df = reports_df[reports_df["region_label"].isin(selected_regions)]
 
         # Calculate totals for pie chart
         acquired = pd.to_numeric(filtered_df["acquired"], errors="coerce").fillna(0).sum()

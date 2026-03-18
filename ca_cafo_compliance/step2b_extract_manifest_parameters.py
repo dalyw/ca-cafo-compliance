@@ -352,6 +352,19 @@ def extract_manifest_fields(manifest_text, template):
 
     # add is_pipeline column depending on whether "pipeline" is in manifest text
     data[PARAM_TO_COL["is_pipeline"]] = "pipeline" in manifest_text.lower()
+
+    # add is_trucked column depending on whether "loads", "hauls", "tank" or "hauler" is in method text
+    # if is_pipeline, is_trucked is FALSE
+    # otherwise, is_trucked is UNSURE
+    method_text = data.get(f"Method Used to Determine Volume of {wt.title()}", "")
+    if method_text:
+        method_text_lower = method_text.lower()
+        if "pipeline" in method_text_lower:
+            data[PARAM_TO_COL["is_trucked"]] = False
+        elif any(t in method_text_lower for t in ["load", "haul", "tank", "hauler"]):
+            data[PARAM_TO_COL["is_trucked"]] = True
+        else:
+            data[PARAM_TO_COL["is_trucked"]] = None
     return data
 
 
@@ -369,7 +382,7 @@ def extract_manifests_from_txt(txt_path):
     output_dir = os.path.dirname(txt_path)
 
     parts = os.path.normpath(txt_path).split(os.sep)
-    idx = parts.index("ca_cafo_manifests")
+    idx = parts.index("Manure Trucking Network Analysis")
     year, region, county, template = parts[idx + 1 : idx + 5]
     pdf_stem = parts[-2]
     original_pdf = os.path.join(
