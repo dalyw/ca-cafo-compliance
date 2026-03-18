@@ -207,9 +207,7 @@ def _parse_hauling_table(manifest_text):
 
         date_range, amount, units, moisture = m.groups()
         amount_key = (
-            "manure_amount"
-            if "ton" in units.lower() or "yard" in units.lower()
-            else "wastewater_amount"
+            "manure_amount" if "ton" in units.lower() or "yard" in units.lower() else "wastewater_amount"
         )
         rows.append(
             {

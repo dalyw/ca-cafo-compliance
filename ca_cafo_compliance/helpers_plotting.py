@@ -4,6 +4,9 @@ from io import StringIO
 import pandas as pd
 import streamlit as st
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
+
 # Color palette (from ColorBrewer)
 manure_colors = ["#8c510a", "#bf812d", "#dfc27d", "#f6e8c3"]
 wastewater_colors = ["#c7eae5", "#80cdc1", "#35978f", "#01665e"]
@@ -55,3 +58,11 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
         else:
             st.warning(f"Could not load {os.path.basename(local_path)} from local or GitHub.")
             return pd.DataFrame()
+
+
+def save_fig(fig, name):
+    """Save a figure as PNG to outputs."""
+    png_bytes = fig.to_image(format="png", width=1200, height=700, scale=2)
+    with open(os.path.join(OUTPUTS_DIR, f"{name}.png"), "wb") as f:
+        f.write(png_bytes)
+    print(f"  Saved {name}")

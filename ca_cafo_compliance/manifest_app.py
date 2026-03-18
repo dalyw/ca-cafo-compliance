@@ -20,9 +20,7 @@ st.set_page_config(
 def load_manifests() -> pd.DataFrame:
     """Load combined manure + wastewater manifests from local CSVs or GitHub."""
     base_local = "ca_cafo_compliance/outputs"
-    base_github = (
-        "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/" "main/outputs"
-    )
+    base_github = "https://raw.githubusercontent.com/dalywettermark/ca-cafo-compliance/" "main/outputs"
 
     files = [
         ("processed_manure_manifests.csv",),

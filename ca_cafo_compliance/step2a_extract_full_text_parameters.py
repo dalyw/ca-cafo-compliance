@@ -243,9 +243,7 @@ def main():
                 # Calculate consultant metrics for R5 and 2023
                 if year == 2023 and region == "R5":
                     consultant_metrics = calculate_consultant_metrics(final_df)
-                    consultant_metrics = consultant_metrics.rename(
-                        columns=param_dicts["key_to_name"]
-                    )
+                    consultant_metrics = consultant_metrics.rename(columns=param_dicts["key_to_name"])
                     metrics_file = (
                         f"ca_cafo_compliance/outputs/consolidated/"
                         f"{year}_{region}_consultant_metrics.csv"
@@ -254,9 +252,7 @@ def main():
 
                 # Convert to pretty names and save individual region files
                 final_df_pretty = final_df.rename(columns=param_dicts["key_to_name"])
-                output_file = (
-                    f"ca_cafo_compliance/outputs/consolidated/" f"{year}_{region}_master.csv"
-                )
+                output_file = f"ca_cafo_compliance/outputs/consolidated/" f"{year}_{region}_master.csv"
                 final_df_pretty.to_csv(output_file, index=False)
                 print(f"Saved consolidated data to {output_file}")
                 print(f"Total records: {len(final_df)}")

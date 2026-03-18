@@ -115,9 +115,7 @@ def _smart_title(s):
         else:
             # Use .title() then fix apostrophe/quote mid-word caps: "Hauler'S" -> "Hauler's"
             titled = word.title()
-            titled = re.sub(
-                r"(['\u2019])([A-Z])", lambda m: m.group(1) + m.group(2).lower(), titled
-            )
+            titled = re.sub(r"(['\u2019])([A-Z])", lambda m: m.group(1) + m.group(2).lower(), titled)
             result.append(titled)
     return " ".join(result)
 

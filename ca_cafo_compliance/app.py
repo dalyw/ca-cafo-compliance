@@ -262,9 +262,7 @@ def create_comparison_plots(df):
 
 def filter_tab2(df, selected_year):
     available_regions = ["R5", "R7"]
-    selected_regions = st.multiselect(
-        "Select Regions", available_regions, default=available_regions
-    )
+    selected_regions = st.multiselect("Select Regions", available_regions, default=available_regions)
 
     if not selected_regions:
         return pd.DataFrame(), [], [], []
@@ -272,9 +270,7 @@ def filter_tab2(df, selected_year):
     # Use startswith to include subregions like R5,F, R5,S, etc.
     region_mask = df["Region"].astype(str).str.startswith(tuple(selected_regions))
     available_counties = sorted(df[region_mask]["County"].dropna().unique())
-    selected_counties = st.multiselect(
-        "Select Counties", available_counties, default=available_counties
-    )
+    selected_counties = st.multiselect("Select Counties", available_counties, default=available_counties)
 
     available_consultants = sorted(df[region_mask]["Template"].dropna().unique())
     selected_consultants = st.multiselect(
@@ -444,9 +440,7 @@ def main():
             "Select a Facility",
             facility_names,
             index=(
-                facility_names.index("AJ Slenders Dairy")
-                if "AJ Slenders Dairy" in facility_names
-                else 0
+                facility_names.index("AJ Slenders Dairy") if "AJ Slenders Dairy" in facility_names else 0
             ),
             key="facility_name_tab1",
         )
@@ -779,9 +773,7 @@ def main():
             if y_title:
                 consultant_fig.update_yaxes(title_text=y_title, row=1, col=col)
 
-        consultant_fig.update_layout(
-            showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40)
-        )
+        consultant_fig.update_layout(showlegend=False, height=500, margin=dict(l=40, r=40, t=80, b=40))
         st.plotly_chart(consultant_fig, use_container_width=True)
 
         # Raw data
@@ -841,9 +833,7 @@ def main():
         vdf["Region"] = vdf["RB"].map(rb_map).fillna(vdf["RB"])
         summary = vdf.groupby(["Region", "Violation Type"]).size().reset_index(name="Count")
         summary_pivot = (
-            summary.pivot(index="Region", columns="Violation Type", values="Count")
-            .fillna(0)
-            .astype(int)
+            summary.pivot(index="Region", columns="Violation Type", values="Count").fillna(0).astype(int)
         )
         summary_pivot = summary_pivot.reindex(
             sorted(

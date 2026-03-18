@@ -159,9 +159,7 @@ def find_manifest_pages(pdf_path, *, detect_orientation=False):
         if any(term in text for term in manifest_specific_terms):
             manifest_pages.append(page_num + 1)
             if page_num + 1 < len(doc):
-                manifest_pages.append(
-                    page_num + 2
-                )  # include following page for later processing too
+                manifest_pages.append(page_num + 2)  # include following page for later processing too
 
     doc.close()
     return sorted(set(manifest_pages))  # remove duplicates
@@ -214,9 +212,7 @@ def _extract_llmwhisperer_text(payload: dict) -> str:
     return ""
 
 
-def extract_text_llmwhisperer(
-    pdf_path: str, pages_to_process=None, max_pages=999, *, keep_raw=False
-):
+def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=999, *, keep_raw=False):
     if not LLMWHISPERER_API_KEY:
         raise ValueError("LLMWHISPERER_API_KEY not set in environment variables")
 
@@ -389,18 +385,14 @@ def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
         return {"result_text": full_text, "extraction_method": "tesseract"}
 
     elif method == "llmwhisperer":
-        return extract_text_llmwhisperer(
-            pdf_path, pages_to_process=pages_to_process, keep_raw=False
-        )
+        return extract_text_llmwhisperer(pdf_path, pages_to_process=pages_to_process, keep_raw=False)
 
 
 def extract_text_auto(pdf_path, pages_to_process=None):
     results = {}
 
     # 1) try text layer
-    results["fitz"] = extract_text_from_pdf(
-        pdf_path, method="fitz", pages_to_process=pages_to_process
-    )
+    results["fitz"] = extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=pages_to_process)
 
     # 2) tesseract first for scans
     results["tesseract"] = extract_text_from_pdf(

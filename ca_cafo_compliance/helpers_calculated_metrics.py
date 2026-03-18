@@ -16,9 +16,7 @@ def calculate_metrics(df):
 
     # Calculate annual milk production
     df["avg_milk_prod_kg_per_cow"] = df["avg_milk_lb_per_cow_day"] * cf["LBS_TO_KG"]
-    df["avg_milk_prod_l_per_cow"] = (
-        df["avg_milk_lb_per_cow_day"] * cf["LBS_TO_KG"] * cf["KG_PER_L_MILK"]
-    )
+    df["avg_milk_prod_l_per_cow"] = df["avg_milk_lb_per_cow_day"] * cf["LBS_TO_KG"] * cf["KG_PER_L_MILK"]
     df["reported_annual_milk_production_l"] = (
         df["avg_milk_lb_per_cow_day"]
         * cf["LBS_TO_KG"]
@@ -103,8 +101,7 @@ def calculate_metrics(df):
 
     # Calculate ratios - use NA for division by zero/missing
     df["wastewater_to_reported"] = np.where(
-        df["reported_annual_milk_production_l"].notna()
-        & (df["reported_annual_milk_production_l"] > 0),
+        df["reported_annual_milk_production_l"].notna() & (df["reported_annual_milk_production_l"] > 0),
         df["total_ww_gen_liters"] / df["reported_annual_milk_production_l"],
         np.nan,
     )
@@ -115,17 +112,14 @@ def calculate_metrics(df):
         np.nan,
     )
 
-    df["wastewater_ratio_discrepancy"] = (
-        df["wastewater_to_estimated"] - df["wastewater_to_reported"]
-    )
+    df["wastewater_ratio_discrepancy"] = df["wastewater_to_estimated"] - df["wastewater_to_reported"]
 
     # Calculate manure metrics - fill NA herd size values as 0
     denom = (
         df["avg_milk_cows"].fillna(0)
         + df["avg_dry_cows"].fillna(0)
         + (df["avg_bred_heifers"].fillna(0) + df["avg_heifers"].fillna(0)) * cf["HEIFER_FACTOR"]
-        + (df["avg_calves_4_6_mo"].fillna(0) + df["avg_calves_0_3_mo"].fillna(0))
-        * cf["CALF_FACTOR"]
+        + (df["avg_calves_4_6_mo"].fillna(0) + df["avg_calves_0_3_mo"].fillna(0)) * cf["CALF_FACTOR"]
     )
     df["calculated_manure_factor"] = df["total_manure_gen_tons"] / denom
     df.loc[denom <= 0, "calculated_manure_factor"] = np.nan
