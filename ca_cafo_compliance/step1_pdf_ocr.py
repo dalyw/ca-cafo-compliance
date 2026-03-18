@@ -182,36 +182,16 @@ def pages_to_extract_str(pages: list[int]) -> str:
 
 
 def _extract_llmwhisperer_text(payload: dict) -> str:
-    """
-    Incorporates your working-code expectation:
-      payload['extraction']['result_text']
-    plus some safe fallbacks.
-    """
-    # TODO: remove fallbacks once validated
+    # TODO: remove fallback text options once validated
     if not isinstance(payload, dict):
         return ""
-
-    # what your original "200 response" path expected
-    t = (payload.get("extraction") or {}).get("result_text")
-    if isinstance(t, str) and t.strip():
-        print("using option 1")
-        return t
 
     # other common possibilities (defensive)
     for k in ("result_text", "text", "extracted_text", "content"):
         v = payload.get(k)
         if isinstance(v, str) and v.strip():
-            print("using option 2")
+            print(k)
             return v
-
-    # sometimes nested differently
-    data = payload.get("data") or {}
-    if isinstance(data, dict):
-        for k in ("result_text", "text", "extracted_text"):
-            v = data.get(k)
-            if isinstance(v, str) and v.strip():
-                print("using option 3")
-                return v
 
     return ""
 
@@ -259,6 +239,7 @@ def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=99
 
     # Two possible workflows (based on your working code)
     if response.status_code == 202:
+        print("status 202: processing started, polling for results...")
         job = response.json()
         whisper_hash = job.get("whisper_hash")
         if not whisper_hash:
@@ -318,6 +299,7 @@ def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=99
         raise TimeoutError("Timeout waiting for LLMWhisperer results")
 
     elif response.status_code == 200:
+        print("status 200: processing complete, extracting text...")
         payload = response.json()
         raw_text = _extract_llmwhisperer_text(payload)
         chunks = [c.strip() for c in raw_text.split(sep)] if raw_text else []
@@ -541,38 +523,6 @@ def collect_pdf_files(years=None, regions=REGIONS):
     return pdf_files
 
 
-def update_reports_available_csv():
-    """Update reports_available.csv with PDF counts."""
-    region_county_map = {
-        "5F": ["kern"],
-        "5S": ["fresno_madera", "kings", "tulare_west"],
-        "5R": [],
-    }
-
-    csv_path = "ca_cafo_compliance/data/reports_available.csv"
-    pdf_counts = {region: 0 for region in region_county_map}
-
-    for year in YEARS:
-        for region, counties in region_county_map.items():
-            for county in counties:
-                county_path = os.path.join(GDRIVE_BASE, str(year), region, county)
-                for _, _, files in os.walk(county_path):
-                    pdf_counts[region] += sum(1 for f in files if f.lower().endswith(".pdf"))
-
-    rows = []
-    with open(csv_path, "r", newline="") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if row["region"] in pdf_counts:
-                row["acquired"] = str(pdf_counts[row["region"]])
-            rows.append(row)
-
-    with open(csv_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["region", "acquired", "total"])
-        writer.writeheader()
-        writer.writerows(rows)
-
-
 def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_pages=False):
 
     # If processing missing pages, do that instead
@@ -643,8 +593,6 @@ def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_page
 
         print("Missing pages processing complete")
         return
-
-    update_reports_available_csv()
 
     # Collect and sort PDF files
     pdf_files = collect_pdf_files([2024], ["R5"])

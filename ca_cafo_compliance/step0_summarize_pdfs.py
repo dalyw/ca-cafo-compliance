@@ -7,14 +7,7 @@ from ca_cafo_compliance.helpers_pdf_metrics import GDRIVE_BASE
 BASE_DIR = Path(GDRIVE_BASE)
 LOCAL_BASE_DIR = Path(__file__).resolve().parent
 REGION = "R5"
-COUNTIES = [
-    "fresno_madera",
-    "kern",
-    "kings",
-    "tulare_west",
-    "tulare_east",
-    "rancho_cordova",
-]
+COUNTIES = ["fresno_madera", "kern", "kings", "tulare_west", "tulare_east", "rancho_cordova"]
 
 
 def get_files_by_template(year, output_path, gdrive_output_path):
