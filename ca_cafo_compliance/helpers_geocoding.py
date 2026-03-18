@@ -65,7 +65,6 @@ if GOOGLE_API_KEY:
         error_wait_seconds=1.0,
         swallow_exceptions=True,
     )
-    print(f"Google geocoding enabled")
 else:
     _google = None
     print("Google geocoding disabled (no GOOGLE_GEOCODING_API_KEY)")

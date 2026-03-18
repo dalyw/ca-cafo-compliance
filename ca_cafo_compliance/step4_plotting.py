@@ -14,7 +14,7 @@ from helpers_plotting import MANIFEST_TYPE_COLORS, PALETTE, TYPE_COLOR_SEQ, manu
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "as_written_manifests_automatic.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_automatic.csv")
 P = build_parameter_dicts(manifest_only=True)["key_to_name"]
 
 
@@ -23,7 +23,9 @@ df_manure = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_manure_manifests.cs
 df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests.csv"))
 extracted_df = pd.read_csv(EXTRACTED_PATH)
 manual_src = pd.read_csv(
-    os.path.join(OUTPUTS_DIR, "as_written_manifests_validated.csv"), engine="python", on_bad_lines="warn"
+    os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv"),
+    engine="python",
+    on_bad_lines="warn",
 )
 
 
@@ -275,21 +277,24 @@ for col, lat_c, lng_c in map_configs:
         )
         subset["Address Source"] = subset.get(P["destination_address_final_source"], col)
         sub_fig = px.scatter_map(
-            subset, lat=lat_c, lon=lng_c,
+            subset,
+            lat=lat_c,
+            lon=lng_c,
             color_discrete_sequence=[MANIFEST_TYPE_COLORS.get(label.lower(), "#888")],
             hover_name=P["origin_dairy_name"],
             hover_data={
-                "Source PDF": True, "Manifest Number": True,
-                "Address Source": True, "Geocoded Text": True,
-                lat_c: False, lng_c: False,
+                "Source PDF": True,
+                "Manifest Number": True,
+                "Address Source": True,
+                "Geocoded Text": True,
+                lat_c: False,
+                lng_c: False,
             },
         )
         for trace in sub_fig.data:
             trace.name = label
             fig.add_trace(trace)
-    fig.update_layout(
-        map_center={"lat": 37.2719, "lon": -119.2702},
-        title=col)
+    fig.update_layout(map_center={"lat": 37.2719, "lon": -119.2702}, title=col)
     filename = f"2024_{col.lower().replace(' ', '_')}_map.html"
     fig.write_html(os.path.join(OUTPUTS_DIR, filename))
     print(f"  Saved {col} map")

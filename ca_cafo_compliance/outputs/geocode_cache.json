@@ -11043,5 +11043,117 @@
       "address": "6822 Tegner Rd, Hilmar, California, 95324",
       "source": "arcgis"
     }
+  ],
+  "10032 west elkhorn avenue fresno|fresno_madera": [
+    36.495805758282,
+    -119.980192333451,
+    {
+      "address": "10032 W Elkhorn Ave, Riverdale, California, 93656",
+      "source": "arcgis"
+    }
+  ],
+  "13075 avenue 200 tulare|tulare_east": [
+    36.152535558749,
+    -119.280965588652,
+    {
+      "address": "13075 Avenue 200, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "16197 avenue 172 tulare|tulare_east": [
+    36.099678564863,
+    -119.210393316676,
+    {
+      "address": "16197 Avenue 172, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "13400 avenue 120 tulare|tulare_east": [
+    36.01137089823,
+    -119.273074026812,
+    {
+      "address": "13400 Avenue 120, Pixley, California, 93256",
+      "source": "arcgis"
+    }
+  ],
+  "15804 avenue 248 tulare|tulare_east": [
+    36.243224985079,
+    -119.219110663617,
+    {
+      "address": "15804 Avenue 248, Visalia, California, 93292",
+      "source": "arcgis"
+    }
+  ],
+  "13464 avenue 152 tulare|tulare_east": [
+    36.065778758238,
+    -119.271989076938,
+    {
+      "address": "13464 Avenue 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "13255 avenue 212 tulare|tulare_east": [
+    36.17211367291,
+    -119.275409895589,
+    {
+      "address": "13255 Avenue 212, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "1007 san hart road modesto|rancho_cordova": [
+    37.62778144685,
+    -121.124126567097,
+    {
+      "address": "1007 S Hart Rd, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "8600 dos rios lane modesto|rancho_cordova": [
+    37.573375938262,
+    -121.151133059129,
+    {
+      "address": "8600 Dos Rios Ln, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "11159 west peach street livingston|rancho_cordova": [
+    37.373625253036,
+    -120.689172931336,
+    {
+      "address": "11159 Peach Ave, Livingston, California, 95334",
+      "source": "arcgis"
+    }
+  ],
+  "12739 murphy road escalon|rancho_cordova": [
+    37.850984571432,
+    -121.110897660773,
+    {
+      "address": "12739 Murphy Rd, Escalon, California, 95320",
+      "source": "arcgis"
+    }
+  ],
+  "13775 murphy road escalon|rancho_cordova": [
+    37.83798918493,
+    -121.110653579752,
+    {
+      "address": "13775 Murphy Rd, Escalon, California, 95320",
+      "source": "arcgis"
+    }
+  ],
+  "15355 san van allen road escalon|rancho_cordova": [
+    37.82381710495,
+    -121.05776418981,
+    {
+      "address": "15355 S Van Allen Rd, Escalon, California, 95320",
+      "source": "arcgis"
+    }
+  ],
+  "18037 san center avenue los banos|rancho_cordova": [
+    37.027120267519,
+    -120.855084825705,
+    {
+      "address": "18037 Center Ave, Los Banos, California, 93635",
+      "source": "arcgis"
+    }
   ]
 }

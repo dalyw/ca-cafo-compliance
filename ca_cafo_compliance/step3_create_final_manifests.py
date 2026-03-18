@@ -1,23 +1,18 @@
 import os
 import re
-
+import numpy as np
 import pandas as pd
 
-
-from helpers_geocoding import (
-    enrich_address_columns,
-    geocode_address,
-    geocode_parcel,
-    norm_addr,
-    normalize_apn,
-)
+from helpers_geocoding import enrich_address_columns, geocode_address, geocode_parcel, norm_addr
 from helpers_pdf_metrics import PARAMETERS_DF, build_parameter_dicts, coerce_columns
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
-MANUAL_PATH = os.path.join(OUTPUTS_DIR, "as_written_manifests_validated.csv")
-EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "as_written_manifests_automatic.csv")
+MANUAL_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv")
+EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_automatic.csv")
+
+WATER_DENSITY = 8.34 / 2_000  # tons per gallon
 
 # Column name mapping: parameter_key -> display name (e.g. P["origin_geo_lat"])
 P = build_parameter_dicts(manifest_only=True)["key_to_name"]
@@ -122,8 +117,8 @@ def main():
     dupes = manual_df[manual_df.duplicated(subset=dup_subset, keep="first")]
     # if not dupes.empty:
     print("Dropping exact-duplicate rows")
-    for _, r in dupes[["Source PDF", "Manifest Number"]].iterrows():
-        print(f"  Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
+    # for _, r in dupes[["Source PDF", "Manifest Number"]].iterrows():
+    #     print(f"  Source PDF={r['Source PDF']}, Manifest {r['Manifest Number']}")
     manual_df = manual_df.drop_duplicates(subset=dup_subset)
 
     # Geocode origins and resolve destinations
@@ -275,10 +270,10 @@ def main():
 
     manual_df[P["destination_type_std"]] = manual_df[P["destination_type"]].apply(std_dest_type)
 
-    # Backfill missing origin dairy addresses
+    # Backfill missing origin dairy addresses from main report
     dairy_summary_df = pd.read_csv(
         "ca_cafo_compliance/local/Dairy_Data_and_Analysis/Data/Summary/"
-        "Dairy_Report_Summary_Region_5_2024_pdf_merged.csv"
+        "Dairy_Report_Summary_Region_5_2024_with_source_pdf.csv"
     )
     origin_col = P["origin_dairy_address"]
     dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": origin_col})
@@ -299,12 +294,37 @@ def main():
         dairy_name_to_addr
     )
     filled = num_before - manual_df.loc[needs_backfill, origin_col].isna().sum()
-    print(f"Backfilled {filled} rows")
+    print(f"Backfilled {filled} addresses")
 
     remaining = manual_df.loc[manual_df[origin_col].isna(), "Source PDF"].unique().tolist()
     print(f"Remaining rows with missing origin dairy address: {len(remaining)}")
-    for pdf in remaining:
-        print(f"  {pdf}")
+    # for pdf in remaining:
+    #     print(f"  {pdf}")
+
+    # Extract address from Source PDF filename and geocode
+    def addr_from_pdf_name(name):
+        if re.match(r"^\d{4}[A-Z]", name):
+            # "2024AR_Cream Top Dairy_13075 Ave 200_Tulare" → "13075 Ave 200 Tulare"
+            m = re.search(r"Dairy[^_]*_(.+)", name)
+            return m.group(1).replace("_", " ").strip() if m else None
+        else:
+            # "1007 S Hart Rd Modesto 2024 Dairy AR" → "1007 S Hart Rd Modesto"
+            m = re.match(r"(.+?)\s+\d{4}", name)
+            return m.group(1).strip() if m else None
+
+    still_missing = manual_df[origin_col].isna()
+    manual_df.loc[still_missing, origin_col] = manual_df.loc[still_missing, "Source PDF"].map(
+        addr_from_pdf_name
+    )
+    newly_filled = still_missing & manual_df[origin_col].notna()
+    lat_col, lng_col = P["origin_geo_lat"], P["origin_geo_lng"]
+    for idx in manual_df.index[newly_filled]:
+        addr = manual_df.at[idx, origin_col]
+        county = manual_df.at[idx, "County"] if "County" in manual_df.columns else None
+        if r := geocode_if_valid(addr, geocode_address, county=county):
+            manual_df.at[idx, lat_col] = r[0]
+            manual_df.at[idx, lng_col] = r[1]
+    print(f"Geocoded {newly_filled.sum()} addresses from PDF filename")
 
     # Split by manifest type, compute stats, save CSVs
     manure_mask = manual_df["Manifest Type"].isin(["manure", "both"])
@@ -318,7 +338,6 @@ def main():
     print(f"  Manure + both: {len(df_manure)} rows")
     print(f"  Wastewater + both: {len(df_ww)} rows")
 
-    WATER_DENSITY = 8.34 / 2_000  # tons per gallon
     ww_np = df_ww[df_ww[P["is_pipeline"]].ne(True)]  # non-pipeline only
 
     type_configs = [
@@ -353,7 +372,9 @@ def main():
 
     # Haul estimates: same 10-ton / 20-ton bins for both (wastewater converted via density)
     lo1, hi1, lo2, hi2, b1v, b2v, b1n, b2n = (5, 15, 15, 25, 10.0, 20.0, "10-ton", "20-ton")
-    for (label, ref_df, rate_col, _, scale), (_, df, amount_col, _) in zip(haul_cfg, type_configs):
+    for (label, ref_df, rate_col, haul_col, scale), (_, df, amount_col, _) in zip(
+        haul_cfg, type_configs
+    ):
         rate_tons = ref_df[rate_col] * scale
         amount_tons = ref_df[amount_col] * scale
         mass_lo = amount_tons[rate_tons.between(lo1, hi1, inclusive="left")].sum()
@@ -362,22 +383,42 @@ def main():
         p_lo = mass_lo / total if total > 0 else 0.5
         p_hi = 1.0 - p_lo
         print(f"{label} split: {p_lo:.1%} at ~{b1n}, {p_hi:.1%} at ~{b2n}")
+
         tons = df[amount_col] * scale
-        df[f"Estimated Number of {b1n} Hauls"] = (tons * p_lo / b1v).round().astype("Int64")
-        df[f"Estimated Number of {b2n} Hauls"] = (tons * p_hi / b2v).round().astype("Int64")
+        has_raw = df[rate_col].notna() & df[haul_col].notna()
+        est_lo = (tons * p_lo / b1v).round().astype("Int64")
+        est_hi = (tons * p_hi / b2v).round().astype("Int64")
+
+        # Estimated: only rows without real rate/haul data
+        df[f"Estimated Number of {b1n} Hauls"] = est_lo.where(~has_raw)
+        df[f"Estimated Number of {b2n} Hauls"] = est_hi.where(~has_raw)
+
+        # For analysis: actual hauls classified by bin if raw data present, else estimated
+        rate_row = df[rate_col] * scale
+        n_hauls = pd.to_numeric(df[haul_col], errors="coerce").round().astype("Int64")
+        in_lo = has_raw & rate_row.between(lo1, hi1, inclusive="left")
+        in_hi = has_raw & rate_row.between(lo2, hi2, inclusive="left")
+        zero = pd.array([0] * len(df), dtype="Int64")
+        df[f"Number of {b1n} Hauls for Analysis"] = (
+            est_lo.where(~in_lo, n_hauls).where(~in_hi, zero)
+        )
+        df[f"Number of {b2n} Hauls for Analysis"] = (
+            est_hi.where(~in_hi, n_hauls).where(~in_lo, zero)
+        )
         print(f"Average {label.lower()} haul: {haul_stats[label]['avg_weighted']:.2f} tons/haul")
 
     param_order = PARAMETERS_DF["parameter_name"].tolist()
     for label, df, amount_col, unit in type_configs:
-        print(f"\n{label} summary by destination type:")
-        print(df.groupby(P["destination_type_std"])[amount_col].sum())
+        # print(f"\n{label} summary by destination type:")
+        # print(df.groupby(P["destination_type_std"])[amount_col].sum())
         type_qty_cols = [
             c
             for c in param_order
             if c in specific_cols[label.lower()] and c in df.columns and not c.startswith("Method Used")
         ]
-        estimated_cols = [c for c in df.columns if c.startswith("Estimated")]
+        estimated_cols = [c for c in df.columns if c.startswith("Estimated") or c.startswith("Number of")]
         cols = [c for c in COLS_TO_KEEP + type_qty_cols + estimated_cols if c in df.columns]
+        cols += [c for c in df.columns if c.endswith("for Analysis")]
         df[cols].to_csv(
             os.path.join(OUTPUTS_DIR, f"processed_{label.lower()}_manifests.csv"),
             index=False,

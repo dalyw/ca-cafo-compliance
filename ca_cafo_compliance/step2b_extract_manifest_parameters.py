@@ -458,7 +458,7 @@ def main():
     print(all_manifests[:2])  # print first 2 for sanity check
     df = pd.DataFrame(all_manifests)
     print(df.head())
-    out_csv = "ca_cafo_compliance/outputs/as_written_manifests_automatic.csv"
+    out_csv = "ca_cafo_compliance/outputs/all_manifests_as_written_automatic.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
 
     # Coerce all numeric columns
