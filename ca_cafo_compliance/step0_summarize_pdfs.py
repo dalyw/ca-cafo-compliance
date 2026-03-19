@@ -63,8 +63,8 @@ def get_files_by_template(year, output_path, gdrive_output_path):
 
 
 # Get all 2023 files by template and save to CSV
-output_path_2023 = LOCAL_BASE_DIR / "outputs" / "2023_files_by_template.csv"
-output_path_2024 = LOCAL_BASE_DIR / "outputs" / "2024_files_by_template.csv"
+output_path_2023 = LOCAL_BASE_DIR / "compiled_data" / "2023_files_by_template.csv"
+output_path_2024 = LOCAL_BASE_DIR / "compiled_data" / "2024_files_by_template.csv"
 gdrive_output_path_2023 = os.path.join(GDRIVE_BASE, "2023_files_by_template.csv")
 gdrive_output_path_2024 = os.path.join(GDRIVE_BASE, "2024_files_by_template.csv")
 
@@ -95,7 +95,7 @@ manual_counts.to_csv(gdrive_manual_counts_path, index=False)
 print(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
 # save this as a separate csv for what needs to be manually adjusted
 manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]].to_csv(
-    LOCAL_BASE_DIR / "outputs" / "2024_files_by_template_manual_discrepancies.csv",
+    LOCAL_BASE_DIR / "compiled_data" / "2024_files_by_template_manual_discrepancies.csv",
     index=False,
 )
 

@@ -13,14 +13,18 @@ from helpers_pdf_metrics import PARAMETERS_DF, build_parameter_dicts
 from helpers_plotting import MANIFEST_TYPE_COLORS, PALETTE, TYPE_COLOR_SEQ, manure_colors, save_fig
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "compiled_data")
 EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_automatic.csv")
+FIGURES_DIR = os.path.join(BASE_DIR, "figures")
 P = build_parameter_dicts(manifest_only=True)["key_to_name"]
+
+# Ensure figures directory exists
+os.makedirs(FIGURES_DIR, exist_ok=True)
 
 
 # --- Load data ---
 df_manure = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_manure_manifests.csv"))
-df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests.csv"))
+df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests_greater_than_1mile.csv"))
 extracted_df = pd.read_csv(EXTRACTED_PATH)
 manual_src = pd.read_csv(
     os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv"),
@@ -309,7 +313,7 @@ for col, lat_c, lng_c in map_configs:
             fig.add_trace(trace)
     fig.update_layout(map_center={"lat": 37.2719, "lon": -119.2702}, title=col)
     filename = f"2024_{col.lower().replace(' ', '_')}_map.html"
-    fig.write_html(os.path.join(OUTPUTS_DIR, filename))
+    fig.write_html(os.path.join(FIGURES_DIR, filename))
     print(f"  Saved {col} map")
 
 
@@ -329,11 +333,6 @@ for col_idx, (label, df, amount_col, unit) in enumerate(type_configs, start=1):
     type_counts = build_type_weights(df[P["destination_type_std"]])
     type_counts["N/A"] = df[P["destination_type_std"]].isna().sum()
     pie_colors = (list(colors) + ["#cccccc"])[: len(type_counts)]
-    pulls = (
-        [0.2 if n not in ("Farmer", "N/A") else 0.0 for n in type_counts.index]
-        if label == "Wastewater"
-        else [0.0] * len(type_counts)
-    )
     fig_combined.add_trace(
         go.Pie(
             labels=type_counts.index,
@@ -342,7 +341,6 @@ for col_idx, (label, df, amount_col, unit) in enumerate(type_configs, start=1):
             textposition="outside",
             textinfo="label+percent",
             textfont=dict(size=12),
-            pull=pulls,
             rotation=330,
         ),
         row=1,
@@ -358,8 +356,8 @@ for col_idx, (label, df, amount_col, unit) in enumerate(type_configs, start=1):
 fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
 fig_combined.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
 fig_combined.update_layout(
-    height=500,
-    width=900,
+    height=300,
+    width=500,
     showlegend=False,
     margin=dict(t=40, b=30, l=40, r=20),
     plot_bgcolor="white",
@@ -372,6 +370,26 @@ save_fig(fig_combined, "2024_manifest_summary")
 
 
 def get_source_counts(df):
+    # Use the full manual manifest file to fill in N/A values for non-geocoded rows
+    manual_path = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv")
+    if os.path.exists(manual_path):
+        manual_df = pd.read_csv(manual_path, engine="python", on_bad_lines="warn")
+        # Use the destination address source column if present, else fill with N/A
+        src_col = P["destination_address_final_source"] if P["destination_address_final_source"] in manual_df.columns else None
+        if src_col:
+            manual_src_counts = manual_df[src_col].value_counts(dropna=False)
+            manual_src_counts.index = manual_src_counts.index.fillna("N/A")
+            # Add counts for N/A to the geocoded df's counts
+            src_counts = df[P["destination_address_final_source"]].value_counts(dropna=False)
+            src_counts.index = src_counts.index.fillna("N/A")
+            # Add N/A from manual if not present in geocoded
+            for idx, val in manual_src_counts.items():
+                if idx not in src_counts:
+                    src_counts[idx] = val
+                elif idx == "N/A":
+                    src_counts[idx] += val
+            return src_counts
+    # Fallback: just use the geocoded df
     src_counts = df[P["destination_address_final_source"]].value_counts(dropna=False)
     src_counts.index = src_counts.index.fillna("N/A")
     return src_counts
@@ -423,7 +441,7 @@ for src in all_sources:
 fig_src = go.Figure(data=bar_data)
 fig_src.update_layout(
     barmode="stack",
-    xaxis_title="Manifest Type",
+    # xaxis_title="Manifest Type",
     yaxis_title="Percent of Manifests",
     plot_bgcolor="white",
     paper_bgcolor="white",
@@ -431,9 +449,11 @@ fig_src.update_layout(
     height=400,
     font=dict(size=16),
     showlegend=False,  # Remove legend
+    margin=dict(t=120, b=40, l=40, r=20),
 )
 fig_src.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
 fig_src.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True, range=[0, 100])
+
 
 # Calculate cumulative bottoms for stacking and label with source name (not %)
 cum_manure = 0
@@ -441,25 +461,25 @@ cum_ww = 0
 for src in all_sources:
     manure_val = manure_src_perc.get(src, 0)
     ww_val = ww_src_perc.get(src, 0)
+    # Shared annotation kwargs
+    ann_font = dict(size=13, color="black")
+    label_kwargs = dict(
+        showarrow=False,
+        font=ann_font,
+        xanchor="center",
+        yanchor="middle",
+    )
+    # Manure bar
     if manure_val > 0:
+        y_pos = cum_manure + manure_val / 2
         fig_src.add_annotation(
-            x="Manure",
-            y=cum_manure + manure_val / 2,
-            text=src,
-            showarrow=False,
-            font=dict(size=13, color="black"),
-            xanchor="center",
-            yanchor="middle",
+            x=0, y=y_pos, text=src, **label_kwargs
         )
+    # Wastewater bar
     if ww_val > 0:
+        y_pos = cum_ww + ww_val / 2
         fig_src.add_annotation(
-            x="Wastewater",
-            y=cum_ww + ww_val / 2,
-            text=src,
-            showarrow=False,
-            font=dict(size=13, color="black"),
-            xanchor="center",
-            yanchor="middle",
+            x=1, y=y_pos, text=src, **label_kwargs
         )
     cum_manure += manure_val
     cum_ww += ww_val
@@ -568,7 +588,7 @@ ax1.legend(
 )
 ax2.set_ylim(0, 100)
 plt.tight_layout()
-fig_acc.savefig(os.path.join(OUTPUTS_DIR, "manual_vs_extracted_comparison.png"))
+fig_acc.savefig(os.path.join(FIGURES_DIR, "manual_vs_extracted_comparison.png"))
 for col, manual_count, extracted_count, accuracy in plt_values:
     print(
         f"  {col}: {manual_count}/{len(manual_src)} manual, "

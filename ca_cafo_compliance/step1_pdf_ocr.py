@@ -11,97 +11,71 @@ import pytesseract
 from pytesseract import Output
 import numpy as np
 from PIL import Image
-from PIL import Image as PILImage
 import io
 from pdf2image import convert_from_path
 from dotenv import load_dotenv
 from helpers_pdf_metrics import YEARS, REGIONS, GDRIVE_BASE
 
-load_dotenv()  # to load LLMWhisperer API key
+load_dotenv()
 
 # Configuration
-TEST_MODE = False  # Process only test files
-# LLMWhisperer API settings
+TEST_MODE = False
 LLMWHISPERER_API_KEY = os.getenv("LLMWHISPERER_API_KEY", "")
 LLMWHISPERER_BASE_URL = "https://llmwhisperer-api.us-central.unstract.com/api/v2"
 
-repo_base_dir = os.path.dirname(os.path.abspath(__file__))
-
-manifest_specific_terms = [
-    "hauler info",
-    "destination",
-    "method used",
-    "operator shall",
-    "d-2",
-    "solids content",
-    "hauler signature",
-    "hauling event",
-    "complete one",
+REPO_BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MANIFEST_TERMS = [
+    "hauler info", "destination", "method used", "operator shall",
+    "d-2", "solids content", "hauler signature", "hauling event", "complete one"
 ]
 
 
-def _rotate_bound(image: np.ndarray, angle: float) -> np.ndarray:
-    """
-    Rotate an image while keeping the full image in view (no corner cropping).
 
-    Note: matches the behavior of imutils.rotate_bound by rotating *clockwise*
-    for positive angles (OpenCV uses counter-clockwise angles by default).
-    """
+def rotate_image_keep_full_view(image: np.ndarray, angle: float) -> np.ndarray:
+    """Rotate image clockwise while keeping full image in view."""
     h, w = image.shape[:2]
-    cX, cY = (w / 2.0, h / 2.0)
-
-    # rotate clockwise for positive angles (imutils compatibility)
+    cX, cY = w / 2.0, h / 2.0
     M = cv2.getRotationMatrix2D((cX, cY), -angle, 1.0)
-    cos = abs(M[0, 0])
-    sin = abs(M[0, 1])
-
-    nW = int((h * sin) + (w * cos))
-    nH = int((h * cos) + (w * sin))
-
-    M[0, 2] += (nW / 2.0) - cX
-    M[1, 2] += (nH / 2.0) - cY
-
+    cos, sin = abs(M[0, 0]), abs(M[0, 1])
+    nW, nH = int(h * sin + w * cos), int(h * cos + w * sin)
+    M[0, 2] += nW / 2.0 - cX
+    M[1, 2] += nH / 2.0 - cY
     return cv2.warpAffine(image, M, (nW, nH))
 
 
-def _correct_orientation_osd(image_bgr: np.ndarray) -> np.ndarray:
-    """Use Tesseract OSD to deskew/rotate a page image into reading orientation."""
-    rgb = cv2.cvtColor(image_bgr, cv2.COLOR_BGR2RGB)
+
+def deskew_image_with_tesseract_osd(image_bgr: np.ndarray) -> np.ndarray:
+    """Use Tesseract OSD to deskew/rotate page image."""
     try:
-        results = pytesseract.image_to_osd(rgb, output_type=Output.DICT)
+        results = pytesseract.image_to_osd(cv2.cvtColor(image_bgr, cv2.COLOR_BGR2RGB), output_type=Output.DICT)
+        rotate = float(results.get("rotate", 0))
+        return rotate_image_keep_full_view(image_bgr, rotate) if rotate else image_bgr
     except pytesseract.TesseractError:
         return image_bgr
-    rotate = float(results.get("rotate", 0))
-    if rotate:
-        return _rotate_bound(image_bgr, angle=rotate)
-    return image_bgr
 
 
-def convert_pages_safe(pdf_path, first_p, last_p, dpi_list=(350, 250, 200, 150)):
+
+def convert_pdf_pages_with_fallback_dpi(pdf_path, first_p, last_p, dpi_list=(350, 250, 200, 150)):
+    """Try converting PDF pages at progressively lower DPI to avoid decompression bomb."""
     last_err = None
     for dpi in dpi_list:
         try:
-            return (
-                convert_from_path(pdf_path, dpi=dpi, first_page=first_p, last_page=last_p),
-                dpi,
-            )
-        except PILImage.DecompressionBombError as e:
+            return convert_from_path(pdf_path, dpi=dpi, first_page=first_p, last_page=last_p), dpi
+        except Image.DecompressionBombError as e:
             last_err = e
     raise last_err
 
 
-def needs_handwritten_analysis(text):
-    """Detect if manifest needs handwritten OCR analysis (R5-2013-0122 or handwritten forms)."""
+
+def requires_handwritten_ocr(text):
+    """Detect if manifest needs handwritten OCR (R5-2013-0122 or CUBIC YARDS)."""
     text_upper = text.upper()
-
-    # R5-2013-0122 template: identified by "R5-2013-0122" or "CUBIC YARDS"
-    if "R5-2013-0122" in text_upper or "CUBIC YARDS" in text_upper:
-        return True
-
-    return False
+    return "R5-2013-0122" in text_upper or "CUBIC YARDS" in text_upper
 
 
-def find_manifest_pages(pdf_path, *, detect_orientation=False):
+
+def detect_manifest_pages_in_pdf(pdf_path, *, detect_orientation=False):
+    """Find pages containing manifest-specific terms."""
     manifest_pages = []
     doc = fitz.open(pdf_path)
 
@@ -109,63 +83,57 @@ def find_manifest_pages(pdf_path, *, detect_orientation=False):
         page = doc[page_num]
         text = page.get_text().lower()
 
-        # If no embedded text, use OCR at low resolution to identify manifest pages
+        # OCR if insufficient embedded text
         if len(text.strip()) < 50:
-            pix = page.get_pixmap(dpi=300)  # can use 144 for testing or faster results
+            pix = page.get_pixmap(dpi=300)
             pil_img = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
             img_bgr = cv2.cvtColor(np.array(pil_img), cv2.COLOR_RGB2BGR)
             if detect_orientation:
-                img_bgr = _correct_orientation_osd(img_bgr)
-            img_rgb = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
-            text = pytesseract.image_to_string(img_rgb, config="--psm 3").lower()
+                img_bgr = deskew_image_with_tesseract_osd(img_bgr)
+            text = pytesseract.image_to_string(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB), config="--psm 3").lower()
 
-        if any(term in text for term in manifest_specific_terms):
-            manifest_pages.append(page_num + 1)
-            if page_num + 1 < len(doc):
-                manifest_pages.append(page_num + 2)  # include following page for later processing too
+        if any(term in text for term in MANIFEST_TERMS):
+            manifest_pages.extend([page_num + 1, page_num + 2])  # include next page
 
     doc.close()
-    return sorted(set(manifest_pages))  # remove duplicates
+    return sorted(set(p for p in manifest_pages if p <= len(doc)))
 
 
-def pages_to_extract_str(pages: list[int]) -> str:
+
+def pages_list_to_range_string(pages: list[int]) -> str:
+    """Convert page list to range string (e.g., [1,2,3,5,6] -> '1-3,5-6')."""
     pages = sorted(set(int(p) for p in pages))
     if not pages:
         return ""
-    ranges = []
-    start = prev = pages[0]
-    for p in pages[1:]:
-        if p == prev + 1:
-            prev = p
-        else:
-            ranges.append((start, prev))
-            start = prev = p
-    ranges.append((start, prev))
-    return ",".join(f"{a}-{b}" if a != b else f"{a}" for a, b in ranges)
+    ranges, start = [], pages[0]
+    prev = start
+    for p in pages[1:] + [None]:
+        if p != prev + 1:
+            ranges.append(f"{start}-{prev}" if start != prev else f"{start}")
+            start = p
+        prev = p
+    return ",".join(ranges)
 
 
-def _extract_llmwhisperer_text(payload: dict) -> str:
-    # TODO: remove fallback text options once validated
+
+def extract_text_from_llmwhisperer_payload(payload: dict) -> str:
+    """Extract text from LLMWhisperer response payload."""
     if not isinstance(payload, dict):
         return ""
-
-    # other common possibilities (defensive)
-    for k in ("result_text", "text", "extracted_text", "content"):
-        v = payload.get(k)
-        if isinstance(v, str) and v.strip():
-            print(k)
-            return v
-
+    for key in ("result_text", "text", "extracted_text", "content"):
+        val = payload.get(key)
+        if isinstance(val, str) and val.strip():
+            return val
     return ""
 
 
-def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=999, *, keep_raw=False):
+
+def extract_pdf_text_llmwhisperer_api(pdf_path: str, pages_to_process=None, max_pages=999, *, keep_raw=False):
+    """Extract text using LLMWhisperer API."""
     if not LLMWHISPERER_API_KEY:
-        raise ValueError("LLMWHISPERER_API_KEY not set in environment variables")
+        raise ValueError("LLMWHISPERER_API_KEY not set")
 
-    # Use a unique separator so we can reliably split pages
     sep = "<<<PAGE_BREAK>>>"
-
     params = {
         "mode": "form",
         "timeout": 300,
@@ -175,7 +143,7 @@ def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=99
     }
 
     if pages_to_process:
-        params["pages_to_extract"] = pages_to_extract_str(pages_to_process)
+        params["pages_to_extract"] = pages_list_to_range_string(pages_to_process)
         page_nums = sorted(set(pages_to_process))
     elif max_pages < 999:
         params["pages_to_extract"] = f"1-{max_pages}"
@@ -184,121 +152,72 @@ def extract_text_llmwhisperer(pdf_path: str, pages_to_process=None, max_pages=99
         page_nums = None
 
     with open(pdf_path, "rb") as f:
-        pdf_bytes = f.read()
+        response = requests.post(
+            f"{LLMWHISPERER_BASE_URL}/whisper",
+            headers={"unstract-key": LLMWHISPERER_API_KEY, "Content-Type": "application/pdf"},
+            params=params,
+            data=f.read(),
+            timeout=600,
+        )
 
-    post_headers = {
-        "unstract-key": LLMWHISPERER_API_KEY,
-        "Content-Type": "application/pdf",
-    }
-    get_headers = {"unstract-key": LLMWHISPERER_API_KEY}
-
-    response = requests.post(
-        f"{LLMWHISPERER_BASE_URL}/whisper",
-        headers=post_headers,
-        params=params,
-        data=pdf_bytes,
-        timeout=600,
-    )
-
-    # Two possible workflows (based on your working code)
-    if response.status_code == 202:
-        print("status 202: processing started, polling for results...")
-        job = response.json()
-        whisper_hash = job.get("whisper_hash")
-        if not whisper_hash:
-            raise RuntimeError(f"No whisper_hash in 202 response: {job}")
-
-        for _ in range(300):
-            time.sleep(2)
-            status_response = requests.get(
-                f"{LLMWHISPERER_BASE_URL}/whisper-status",
-                headers=get_headers,
-                params={"whisper_hash": whisper_hash},
-                timeout=30,
-            )
-            status_response.raise_for_status()
-            status_result = status_response.json()
-            status = status_result.get("status")
-
-            if status == "processed":
-                retrieve_response = requests.get(
-                    f"{LLMWHISPERER_BASE_URL}/whisper-retrieve",
-                    headers=get_headers,
-                    params={"whisper_hash": whisper_hash},
-                    timeout=60,
-                )
-                retrieve_response.raise_for_status()
-                payload = retrieve_response.json()
-
-                raw_text = _extract_llmwhisperer_text(payload)
-                chunks = [c.strip() for c in raw_text.split(sep)] if raw_text else []
-                if len(chunks) <= 1 and raw_text and "<<<" in raw_text:
-                    print("LLMWhisperer returned only one chunk, splitting on <<<")
-                    chunks = [c.strip() for c in raw_text.split("<<<")]
-
-                # If we didn't know pages beforehand, assume sequential numbering
-                if page_nums is None:
-                    page_nums = list(range(1, len(chunks) + 1))
-
-                out = []
-                for i, chunk in enumerate(chunks):
-                    if i >= len(page_nums):
-                        break
-                    if chunk:
-                        out.append(f"=== Page {page_nums[i]} ===\n{chunk}")
-
-                result = {
-                    "result_text": "\n\n".join(out),
-                    "extraction_method": "llmwhisperer",
-                    "page_count": len(out),
-                }
-                if keep_raw:
-                    result["raw_response"] = payload
-                return result
-
-            if status not in ("processing", "accepted"):
-                raise RuntimeError(f"LLMWhisperer error status: {status_result}")
-
-        raise TimeoutError("Timeout waiting for LLMWhisperer results")
-
-    elif response.status_code == 200:
-        print("status 200: processing complete, extracting text...")
-        payload = response.json()
-        raw_text = _extract_llmwhisperer_text(payload)
+    def build_result(payload):
+        """Build formatted result from LLMWhisperer payload."""
+        raw_text = extract_text_from_llmwhisperer_payload(payload)
         chunks = [c.strip() for c in raw_text.split(sep)] if raw_text else []
-        if len(chunks) <= 1 and raw_text and "<<<" in raw_text:
-            print("LLMWhisperer returned only one chunk, splitting on <<<")
+        if len(chunks) <= 1 and "<<<" in raw_text:
             chunks = [c.strip() for c in raw_text.split("<<<")]
 
-        if page_nums is None:
-            page_nums = list(range(1, len(chunks) + 1))
+        nums = page_nums or list(range(1, len(chunks) + 1))
+        out = [f"=== Page {nums[i]} ===\n{chunk}" for i, chunk in enumerate(chunks) if i < len(nums) and chunk]
 
-        out = []
-        for i, chunk in enumerate(chunks):
-            if i >= len(page_nums):
-                break
-            if chunk:
-                out.append(f"=== Page {page_nums[i]} ===\n{chunk}")
-
-        result = {
-            "result_text": "\n\n".join(out),
-            "extraction_method": "llmwhisperer",
-            "page_count": len(out),
-        }
+        result = {"result_text": "\n\n".join(out), "extraction_method": "llmwhisperer", "page_count": len(out)}
         if keep_raw:
             result["raw_response"] = payload
         return result
 
-    else:
-        raise RuntimeError(f"LLMWhisperer error {response.status_code}: {response.text[:500]}")
+    if response.status_code == 200:
+        return build_result(response.json())
+
+    if response.status_code == 202:
+        whisper_hash = response.json().get("whisper_hash")
+        if not whisper_hash:
+            raise RuntimeError(f"No whisper_hash in 202 response")
+
+        for _ in range(300):
+            time.sleep(2)
+            status_resp = requests.get(
+                f"{LLMWHISPERER_BASE_URL}/whisper-status",
+                headers={"unstract-key": LLMWHISPERER_API_KEY},
+                params={"whisper_hash": whisper_hash},
+                timeout=30,
+            )
+            status_resp.raise_for_status()
+            status = status_resp.json().get("status")
+
+            if status == "processed":
+                retrieve_resp = requests.get(
+                    f"{LLMWHISPERER_BASE_URL}/whisper-retrieve",
+                    headers={"unstract-key": LLMWHISPERER_API_KEY},
+                    params={"whisper_hash": whisper_hash},
+                    timeout=60,
+                )
+                retrieve_resp.raise_for_status()
+                return build_result(retrieve_resp.json())
+
+            if status not in ("processing", "accepted"):
+                raise RuntimeError(f"LLMWhisperer error status: {status}")
+
+        raise TimeoutError("Timeout waiting for LLMWhisperer results")
+
+    raise RuntimeError(f"LLMWhisperer error {response.status_code}: {response.text[:500]}")
 
 
-def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
+
+def extract_pdf_text_by_method(pdf_path, method="fitz", pages_to_process=None):
+    """Extract text from PDF using specified method."""
     if pages_to_process is None:
-        # Process all pages if none specified
-        doc = fitz.open(pdf_path)
-        pages_to_process = list(range(1, len(doc) + 1))
-        doc.close()
+        with fitz.open(pdf_path) as doc:
+            pages_to_process = list(range(1, len(doc) + 1))
 
     if method == "fitz":
         all_text = []
@@ -307,128 +226,49 @@ def extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=None):
                 text = doc[p - 1].get_text()
                 if text.strip():
                     all_text.append(f"=== Page {p} ===\n{text}")
+        return {"result_text": "\n\n".join(all_text), "extraction_method": "fitz"}
 
-            full_text = "\n\n".join(all_text)
-
-            return {"result_text": full_text, "extraction_method": "fitz"}
-
-    elif method == "tesseract":
+    if method == "tesseract":
         all_text = []
-
         for page_num in pages_to_process:
-            images, used_dpi = convert_pages_safe(pdf_path, page_num, page_num)
-            image = images[0]
-
-            img = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
-            img = _correct_orientation_osd(img)
+            images, _ = convert_pdf_pages_with_fallback_dpi(pdf_path, page_num, page_num)
+            img = cv2.cvtColor(np.array(images[0]), cv2.COLOR_RGB2BGR)
+            img = deskew_image_with_tesseract_osd(img)
             gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
             gray = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8)).apply(gray)
             _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-
-            text = pytesseract.image_to_string(
-                thresh, config="--oem 1 --psm 4 -c preserve_interword_spaces=1"
-            )
+            text = pytesseract.image_to_string(thresh, config="--oem 1 --psm 4 -c preserve_interword_spaces=1")
             all_text.append(f"=== Page {page_num} ===\n{text}")
+        return {"result_text": "\n\n".join(all_text), "extraction_method": "tesseract"}
 
-        full_text = "\n\n".join(all_text)
-        return {"result_text": full_text, "extraction_method": "tesseract"}
-
-    elif method == "llmwhisperer":
-        return extract_text_llmwhisperer(pdf_path, pages_to_process=pages_to_process, keep_raw=False)
+    if method == "llmwhisperer":
+        return extract_pdf_text_llmwhisperer_api(pdf_path, pages_to_process=pages_to_process)
 
 
-def extract_text_auto(pdf_path, pages_to_process=None):
-    results = {}
 
-    # 1) try text layer
-    results["fitz"] = extract_text_from_pdf(pdf_path, method="fitz", pages_to_process=pages_to_process)
+def auto_select_pdf_text_extraction(pdf_path, pages_to_process=None):
+    """Auto-select best extraction method."""
+    results = {
+        "fitz": extract_pdf_text_by_method(pdf_path, "fitz", pages_to_process),
+        "tesseract": extract_pdf_text_by_method(pdf_path, "tesseract", pages_to_process),
+    }
 
-    # 2) tesseract first for scans
-    results["tesseract"] = extract_text_from_pdf(
-        pdf_path, method="tesseract", pages_to_process=pages_to_process
-    )
-    tesseract_text = results["tesseract"].get("result_text", "")
-
-    # 3) LLMWhisperer for better analysis
-    if needs_handwritten_analysis(tesseract_text):
-        results["llmwhisperer"] = extract_text_from_pdf(
-            pdf_path, method="llmwhisperer", pages_to_process=pages_to_process
-        )
+    if requires_handwritten_ocr(results["tesseract"].get("result_text", "")):
+        results["llmwhisperer"] = extract_pdf_text_by_method(pdf_path, "llmwhisperer", pages_to_process)
         return results, "llmwhisperer"
 
     return results, "tesseract"
 
 
-def extract_pdf_text(pdf_path, process_only_manifests=False):
-    """Process a single PDF file and extract text."""
 
-    print(f"Processing {pdf_path}")
-
-    pages_to_process = None
-    if process_only_manifests:
-        manifest_pages = find_manifest_pages(pdf_path, detect_orientation=True)
-        if manifest_pages:
-            print(f"  Found {len(manifest_pages)} likely manifest page(s): {manifest_pages}")
-            pages_to_process = manifest_pages
-        else:  # Save empty results
-            print("  No manifest pages found, skipping")
-            paths = get_output_paths(pdf_path, "fitz", mkdir=True)
-            os.makedirs(paths["dir"], exist_ok=True)
-            with open(paths["txt"], "w", encoding="utf-8") as f:
-                f.write("no_manifests_found")
-            with open(paths["json"], "w", encoding="utf-8") as f:
-                json.dump(
-                    {
-                        "extraction_method": "fitz",
-                        "final_method": "fitz",
-                        "page_count": 0,
-                    },
-                    f,
-                    indent=2,
-                )
-            return
-
-    results, final_method = extract_text_auto(pdf_path, pages_to_process)
-
-    # Always save fitz and tesseract; only save llmwhisperer if it's the final method
-    methods_to_save = ["fitz", "tesseract"]
-
-    if final_method == "llmwhisperer":
-        methods_to_save.append("llmwhisperer")
-
-    for method in methods_to_save:
-        if method in results:
-            result = results[method]
-            result["final_method"] = final_method
-            print(f"  Saving {method} output")
-            paths = get_output_paths(pdf_path, method, mkdir=True)
-            with open(paths["txt"], "w", encoding="utf-8") as f:
-                f.write(result["result_text"])
-            page_count = result["result_text"].count("=== Page ")
-            with open(paths["json"], "w", encoding="utf-8") as f:
-                minimal = {
-                    "extraction_method": method,
-                    "final_method": result.get("final_method"),
-                    "page_count": page_count,
-                }
-                json.dump(minimal, f, indent=2, ensure_ascii=False)
-
-    print(f"  Extraction complete via {final_method}")
-
-
-def get_output_paths(pdf_path, method, mkdir=False):
+def get_extraction_output_paths(pdf_path, method, mkdir=False):
+    """Get output paths for extraction results."""
     pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
-    folder = f"{method}_output"
-
     parts = os.path.normpath(pdf_path).split(os.sep)
-    i = parts.index("Manure Trucking Network Analysis")
-    year = parts[i + 1]
-    region = parts[i + 2]
-    county = parts[i + 3]
-    template = parts[i + 4]
+    idx = parts.index("Manure Trucking Network Analysis")
+    year, region, county, template = parts[idx+1:idx+5]
 
-    out_dir = os.path.join(GDRIVE_BASE, year, region, county, template, folder, pdf_name)
-
+    out_dir = os.path.join(GDRIVE_BASE, year, region, county, template, f"{method}_output", pdf_name)
     if mkdir:
         os.makedirs(out_dir, exist_ok=True)
 
@@ -439,45 +279,91 @@ def get_output_paths(pdf_path, method, mkdir=False):
     }
 
 
-def is_processed(pdf_path):
-    """Check if PDF has already been processed with non-empty output."""
-    # check if either fitz or tesseract output exists
-    for method in ["fitz", "tesseract"]:
-        paths = get_output_paths(pdf_path, method, mkdir=False)
-        if os.path.exists(paths["txt"]) and os.path.getsize(paths["txt"]) > 0:
-            return True
-    return False
+
+def pdf_already_processed(pdf_path):
+    """Check if PDF already processed."""
+    return any(
+        os.path.exists(paths["txt"]) and os.path.getsize(paths["txt"]) > 0
+        for paths in [get_extraction_output_paths(pdf_path, m) for m in ["fitz", "tesseract"]]
+    )
 
 
-def collect_pdf_files(years=None, regions=REGIONS):
-    """Collect all PDF files from the data directory."""
+
+
+def process_and_save_pdf_text(pdf_path, process_only_manifests=False, override_method=None, override_pages=None):
+    """
+    Process single PDF and extract text.
+    If override_method is set, only that method is used for extraction (for special cases like missing pages).
+    If override_pages is set, only those pages are processed.
+    """
+    print(f"Processing {pdf_path}")
+
+    pages_to_process = override_pages
+    if pages_to_process is None and process_only_manifests:
+        manifest_pages = detect_manifest_pages_in_pdf(pdf_path, detect_orientation=True)
+        if not manifest_pages:
+            print("  No manifest pages found, skipping")
+            paths = get_extraction_output_paths(pdf_path, "fitz", mkdir=True)
+            with open(paths["txt"], "w") as f:
+                f.write("no_manifests_found")
+            with open(paths["json"], "w") as f:
+                json.dump({"extraction_method": "fitz", "final_method": "fitz", "page_count": 0}, f, indent=2)
+            return
+        print(f"  Found {len(manifest_pages)} manifest page(s): {manifest_pages}")
+        pages_to_process = manifest_pages
+
+    if override_method:
+        # Only extract using the override method
+        result = extract_pdf_text_by_method(pdf_path, method=override_method, pages_to_process=pages_to_process)
+        result["final_method"] = override_method
+        print(f"  Saving {override_method} output (override)")
+        paths = get_extraction_output_paths(pdf_path, override_method, mkdir=True)
+        with open(paths["txt"], "w", encoding="utf-8") as f:
+            f.write(result["result_text"])
+        with open(paths["json"], "w", encoding="utf-8") as f:
+            json.dump(result, f, indent=2, ensure_ascii=False)
+        print(f"  Extraction complete via {override_method}")
+        return
+
+    results, final_method = auto_select_pdf_text_extraction(pdf_path, pages_to_process)
+    methods_to_save = ["fitz", "tesseract"] + (["llmwhisperer"] if final_method == "llmwhisperer" else [])
+
+    for method in methods_to_save:
+        if method in results:
+            result = results[method]
+            result["final_method"] = final_method
+            print(f"  Saving {method} output")
+            paths = get_extraction_output_paths(pdf_path, method, mkdir=True)
+            with open(paths["txt"], "w", encoding="utf-8") as f:
+                f.write(result["result_text"])
+            with open(paths["json"], "w", encoding="utf-8") as f:
+                json.dump({
+                    "extraction_method": method,
+                    "final_method": final_method,
+                    "page_count": result["result_text"].count("=== Page "),
+                }, f, indent=2)
+
+    print(f"  Extraction complete via {final_method}")
+
+
+
+def gather_all_pdf_files(years=None, regions=REGIONS):
+    """Collect all PDF files from data directory."""
     pdf_files = []
-    if not years:
-        years = YEARS
-    if not regions:
-        regions = REGIONS
-    for year in years:
-        base_path = GDRIVE_BASE + f"/{year}"
-        print(base_path)
+    for year in (years or YEARS):
         for region in regions:
-            region_path = os.path.join(base_path, region)
+            region_path = os.path.join(GDRIVE_BASE, str(year), region)
             if not os.path.exists(region_path):
-                print(f"no {region} path")
                 continue
 
             for county in os.listdir(region_path):
-                print(f" Collecting PDFs for {county}")
                 county_path = os.path.join(region_path, county)
                 if not os.path.isdir(county_path):
-                    print(f"no {county} path")
                     continue
 
+                print(f" Collecting PDFs for {county}")
                 for template in os.listdir(county_path):
-                    template_path = os.path.join(county_path, template)
-                    if not os.path.isdir(template_path):
-                        continue
-
-                    folder_path = os.path.join(template_path, "original")
+                    folder_path = os.path.join(county_path, template, "original")
                     if os.path.exists(folder_path):
                         pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
                         pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
@@ -486,85 +372,40 @@ def collect_pdf_files(years=None, regions=REGIONS):
     return pdf_files
 
 
-def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_pages=False):
 
-    # If processing missing pages, do that instead
-    if process_missing_pages:
+def recover_missing_manifest_pages():
+    """Process missing pages identified in manual discrepancy file."""
+    df = pd.read_csv(os.path.join(REPO_BASE_DIR, "compiled_data", "2024_files_by_template_manual_discrepancies.csv"))
 
-        df = pd.read_csv(
-            os.path.join(
-                repo_base_dir,
-                "outputs",
-                "2024_files_by_template_manual_discrepancies.csv",
-            )
-        )
+    missing_rows = df[
+        (df["notes"].str.contains("missing", case=False, na=False))
+        & df["missing_page_start"].notna()
+        & df["missing_page_end"].notna()
+    ]
 
-        # Filter for rows with 'missing' in notes and non-null page ranges
-        missing_rows = df[
-            (df["notes"].str.contains("missing", case=False, na=False))
-            & (df["missing_page_start"].notna())
-            & (df["missing_page_end"].notna())
-        ]
+    print(f"{len(missing_rows)} files with missing pages to process")
 
-        print(f"{len(missing_rows)} files with missing pages to process")
 
-        for idx, row in missing_rows.iterrows():
-            page_start = int(row["missing_page_start"])
-            page_end = int(row["missing_page_end"])
-            pdf_path = os.path.join(
-                GDRIVE_BASE,
-                "2024",
-                "R5",
-                row["county"],
-                row["template"],
-                "original",
-                row["filename"],
-            )
+    for _, row in missing_rows.iterrows():
+        page_start, page_end = int(row["missing_page_start"]), int(row["missing_page_end"])
+        pdf_path = os.path.join(GDRIVE_BASE, "2024", "R5", row["county"], row["template"], "original", row["filename"])
 
-            print(f"\nProcessing: {row['filename']} pages {page_start}-{page_end}")
-            pages_to_process = list(range(page_start, page_end + 1))
-            result = extract_text_from_pdf(
-                pdf_path, method="llmwhisperer", pages_to_process=pages_to_process
-            )
-            result["final_method"] = "llmwhisperer"
-            result["source"] = "missing_pages_recovery"
+        print(f"\nProcessing: {row['filename']} pages {page_start}-{page_end}")
+        pages_to_process = list(range(page_start, page_end + 1))
+        # Use process_and_save_pdf_text with explicit override arguments for missing pages
+        process_and_save_pdf_text(pdf_path, override_method="llmwhisperer", override_pages=pages_to_process)
 
-            # Append to existing file or create new one
-            paths = get_output_paths(pdf_path, "llmwhisperer", mkdir=True)
-            mode = "a" if os.path.exists(paths["txt"]) else "w"
-            with open(paths["txt"], mode, encoding="utf-8") as f:
-                if mode == "a":
-                    f.write("\n\n=== RECOVERED MISSING PAGES ===\n\n")
-                f.write(result["result_text"])
+    print("Missing pages processing complete")
 
-            # Update JSON metadata
-            existing_meta = {}
-            if os.path.exists(paths["json"]):
-                with open(paths["json"], "r", encoding="utf-8") as f:
-                    existing_meta = json.load(f)
 
-            existing_meta.update(
-                {
-                    "recovered_pages": pages_to_process,
-                    "recovery_method": "llmwhisperer",
-                    "recovery_page_count": len(pages_to_process),
-                }
-            )
-
-            with open(paths["json"], "w", encoding="utf-8") as f:
-                json.dump(existing_meta, f, indent=2, ensure_ascii=False)
-
-        print("Missing pages processing complete")
+def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_pages_flag=False):
+    """Main processing function."""
+    if process_missing_pages_flag:
+        recover_missing_manifest_pages()
         return
 
-    # Collect and sort PDF files
-    pdf_files = collect_pdf_files([2024], ["R5"])
-
-    # Filter out already processed files
-    files_to_process = []
-    for pdf_path in pdf_files:
-        if not is_processed(pdf_path):
-            files_to_process.append(pdf_path)
+    pdf_files = gather_all_pdf_files([2024], ["R5"])
+    files_to_process = [f for f in pdf_files if not pdf_already_processed(f)]
     print(f"{len(files_to_process)} of {len(pdf_files)} remaining")
 
     if test_mode:
@@ -574,12 +415,13 @@ def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_page
 
     if not files_to_process:
         print("No files to process")
-    else:  # Process files
-        for pdf_path in files_to_process:
-            extract_pdf_text(pdf_path, process_only_manifests=process_only_manifests)
+        return
+
+    for pdf_path in files_to_process:
+        process_and_save_pdf_text(pdf_path, process_only_manifests=process_only_manifests)
 
 
 if __name__ == "__main__":
     main(test_mode=False, process_only_manifests=False)
-    main(test_mode=False, process_only_manifests=False, process_missing_pages=True)
+    main(test_mode=False, process_only_manifests=False, process_missing_pages_flag=True)
     print("OCR complete")
