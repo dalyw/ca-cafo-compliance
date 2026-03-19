@@ -273,7 +273,7 @@ def backfill_columns(df):
 
     # Backfill origin addresses from dairy summary
     dairy_summary_df = pd.read_csv(
-        os.path.join(GDRIVE_BASE, "Dairy_Report_Summary_Region_5_2024_with_source_pdf.csv")
+        os.path.join(GDRIVE_BASE, "data/Dairy_Report_Summary_Region_5_2024_with_source_pdf.csv")
     )
     origin_col = P["origin_dairy_address"]
     dairy_summary_df = dairy_summary_df.rename(columns={"Dairy Address": origin_col})
@@ -408,6 +408,8 @@ def main():
     
     # Standardize destination type
     def std_dest_type(val):
+        if pd.isna(val) or not str(val).strip():
+            return "Blank"       
         vl = str(val).lower()
         matched = []
         for canonical, keywords in DEST_TYPE_MAP.items():

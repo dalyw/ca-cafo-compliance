@@ -22,7 +22,7 @@ P = build_parameter_dicts(manifest_only=True)["key_to_name"]
 os.makedirs(FIGURES_DIR, exist_ok=True)
 
 
-# --- Load data ---
+# Load data
 df_manure = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_manure_manifests.csv"))
 df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests_greater_than_1mile.csv"))
 extracted_df = pd.read_csv(EXTRACTED_PATH)
@@ -46,7 +46,7 @@ haul_cfg = [
 ]
 
 
-# --- Helpers ---
+# Helpers
 def weighted_avg(df, val_col, weight_col):
     valid = df.dropna(subset=[val_col, weight_col])
     return (valid[val_col] * valid[weight_col]).sum() / valid[weight_col].sum()
@@ -106,9 +106,7 @@ def haul_bins(x_vals, totals, nbins=10):
     return centers.tolist(), bin_totals, counts, xbins
 
 
-# ...existing code...
-
-# --- Haul stats (rates converted to tons/haul via scale) ---
+# Haul stats (rates converted to tons/haul via scale)
 haul_stats = {}
 for label, df, rate_col, haul_col, scale in haul_cfg:
     fac = (
@@ -135,11 +133,17 @@ for label, df, rate_col, haul_col, scale in haul_cfg:
 manure_facility = facility_agg(df_manure, P["manure_amount"])
 ww_facility = facility_agg(df_ww, P["wastewater_amount"])
 
-# --- Hauls subplot ---
+# Hauls subplot
 fig_hauls = make_subplots(
     rows=2,
     cols=2,
     specs=[[{"secondary_y": True}, {"secondary_y": True}], [{}, {}]],
+    subplot_titles=[
+        "Manure Haul Size Distribution",
+        "Wastewater Haul Size Distribution",
+        "Manure Facility Exports",
+        "Wastewater Facility Exports",
+    ],
 )
 
 for col_idx, (label, *_) in enumerate(type_configs, start=1):
@@ -246,15 +250,6 @@ for col, cfg in enumerate(col_configs, start=1):
     fig_hauls.update_yaxes(title_text="Total hauls", row=1, col=col, secondary_y=True)
     fig_hauls.update_xaxes(title_text=f"Total Facility Exports ({unit}) in 2024", row=2, col=col)
     fig_hauls.update_yaxes(title_text="Manifests per Facility", row=2, col=col)
-    fig_hauls.add_annotation(
-        text="Manure" if col == 1 else "Wastewater",
-        x=0 if col == 1 else 0.6,
-        y=1.08,
-        xref="paper",
-        yref="paper",
-        showarrow=False,
-        font=dict(size=16),
-    )
 
 for mode, props, name in [
     ("markers", dict(color="black", size=10, symbol="square"), "Facility Count"),
@@ -272,13 +267,20 @@ fig_hauls.update_layout(
     height=700,
     font=dict(size=16),
     legend=dict(x=1.1, y=1.0, xanchor="left", yanchor="top"),
+    margin=dict(t=80, b=80, l=60, r=20),
+    title_font=dict(size=24),
 )
+fig_hauls.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True, title_standoff=8)
 fig_hauls.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
+fig_hauls.update_layout(
+    font=dict(size=16),
+    title_font=dict(size=28),
+)
 fig_hauls.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
 save_fig(fig_hauls, "2024_tons_per_haul")
 
 
-# --- Interactive maps ---
+# Interactive maps
 map_configs = [
     (P["origin_dairy_address"], P["origin_geo_lat"], P["origin_geo_lng"]),
     (P["destination_address"], P["destination_geo_lat"], P["destination_geo_lng"]),
@@ -317,21 +319,24 @@ for col, lat_c, lng_c in map_configs:
     print(f"  Saved {col} map")
 
 
-# --- Combined pie + monthly bar chart ---
+# Combined pie + monthly bar chart
 month_labels = [pd.Timestamp(month=m, day=1, year=2024).strftime("%b") for m in range(1, 13)]
 
 fig_combined = make_subplots(
     rows=2,
     cols=2,
     specs=[[{"type": "pie"}, {"type": "pie"}], [{"type": "bar"}, {"type": "bar"}]],
-    subplot_titles=[f"{l} Destination Types" for l, *_ in type_configs]
-    + [f"{l} Hauls by Month" for l, *_ in type_configs],
+    subplot_titles=[
+        "Manure Destination Types",
+        "Wastewater Destination Types",
+        "Manure Haul Distribution by Month",
+        "Wastewater Haul Distribution by Month",
+    ],
 )
 
 for col_idx, (label, df, amount_col, unit) in enumerate(type_configs, start=1):
     colors = TYPE_COLOR_SEQ[label]
     type_counts = build_type_weights(df[P["destination_type_std"]])
-    type_counts["N/A"] = df[P["destination_type_std"]].isna().sum()
     pie_colors = (list(colors) + ["#cccccc"])[: len(type_counts)]
     fig_combined.add_trace(
         go.Pie(
@@ -340,58 +345,70 @@ for col_idx, (label, df, amount_col, unit) in enumerate(type_configs, start=1):
             marker_colors=pie_colors,
             textposition="outside",
             textinfo="label+percent",
-            textfont=dict(size=12),
+            textfont=dict(size=18),
             rotation=330,
+            insidetextfont=dict(size=16),
+            outsidetextfont=dict(size=18),
+            automargin=True,
         ),
         row=1,
         col=col_idx,
     )
     monthly_amount = monthly_allocation(df, amount_col, P["haul_date_first"], P["haul_date_last"])
+    # Apply color for each type
+    bar_color = colors[0]
     fig_combined.add_trace(
-        go.Bar(x=month_labels, y=monthly_amount.values, marker_color=colors[0], showlegend=False),
+        go.Bar(
+            x=month_labels,
+            y=monthly_amount.values,
+            marker_color=bar_color,
+            showlegend=False,
+            textposition="outside",
+            textfont=dict(size=16),
+        ),
         row=2,
         col=col_idx,
     )
 
-fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
+fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True, title_standoff=10, tickmode="array", tickvals=list(range(12)), ticktext=month_labels, row=2, col=1)
+fig_combined.update_xaxes(showline=True, linewidth=2, linecolor="black", mirror=True, title_standoff=10, tickmode="array", tickvals=list(range(12)), ticktext=month_labels, row=2, col=2)
 fig_combined.update_yaxes(showline=True, linewidth=2, linecolor="black", mirror=True)
 fig_combined.update_layout(
-    height=300,
-    width=500,
+    height=400,
+    width=800,
     showlegend=False,
-    margin=dict(t=40, b=30, l=40, r=20),
+    margin=dict(t=80, b=50, l=60, r=40),
     plot_bgcolor="white",
+    font=dict(size=18),
+    title=dict(y=0.96),
+    # Style only subplot titles (auto-generated by make_subplots)
+    annotations=[
+        dict(
+            **{k: v for k, v in ann.to_plotly_json().items() if k != "font"},
+            font=dict(size=18),
+        ) if getattr(ann, "text", None) in [
+            "Manure Destination Types",
+            "Wastewater Destination Types",
+            "Manure Haul Distribution by Month",
+            "Wastewater Haul Distribution by Month",
+        ] else ann
+        for ann in fig_combined.layout.annotations
+    ],
 )
 for col_idx in [1, 2]:
     fig_combined.update_yaxes(range=[0, 0.15], dtick=0.05, row=2, col=col_idx)
+fig_combined.update_xaxes(range=[-0.5, 11.5], row=2, col=1)
 save_fig(fig_combined, "2024_manifest_summary")
 
-# --- Normalized stacked bar chart: destination address source breakdown (% per manifest type) ---
-
+# Normalized stacked bar chart: destination address source breakdown (% per manifest type)
 
 def get_source_counts(df):
     # Use the full manual manifest file to fill in N/A values for non-geocoded rows
-    manual_path = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv")
-    if os.path.exists(manual_path):
-        manual_df = pd.read_csv(manual_path, engine="python", on_bad_lines="warn")
-        # Use the destination address source column if present, else fill with N/A
-        src_col = P["destination_address_final_source"] if P["destination_address_final_source"] in manual_df.columns else None
-        if src_col:
-            manual_src_counts = manual_df[src_col].value_counts(dropna=False)
-            manual_src_counts.index = manual_src_counts.index.fillna("N/A")
-            # Add counts for N/A to the geocoded df's counts
-            src_counts = df[P["destination_address_final_source"]].value_counts(dropna=False)
-            src_counts.index = src_counts.index.fillna("N/A")
-            # Add N/A from manual if not present in geocoded
-            for idx, val in manual_src_counts.items():
-                if idx not in src_counts:
-                    src_counts[idx] = val
-                elif idx == "N/A":
-                    src_counts[idx] += val
-            return src_counts
-    # Fallback: just use the geocoded df
     src_counts = df[P["destination_address_final_source"]].value_counts(dropna=False)
     src_counts.index = src_counts.index.fillna("N/A")
+    # After getting source counts
+    # if "N/A" in src_counts.index and "Other" in src_counts.index:
+    #     assert "N/A" != "Other", "N/A and Other are being conflated!"
     return src_counts
 
 
@@ -486,7 +503,7 @@ for src in all_sources:
 
 save_fig(fig_src, "2024_destination_address_source_breakdown_percent")
 
-# --- Manual vs extracted accuracy comparison ---
+# Manual vs extracted accuracy comparison
 params_to_compare = [
     "origin_dairy_address",
     "hauler_address",

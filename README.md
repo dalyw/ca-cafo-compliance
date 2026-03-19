@@ -3,6 +3,8 @@
 
 This repository processes and analyzes California CAFO (Concentrated Animal Feeding Operation) manure and wastewater manifests. It includes tools for PDF OCR, parameter extraction, geocoding, and visualization.
 
+Code drafted in part based on psuedo-code prompts to Claude Sonnet and GPT 4.1 via GitHub CoPilot. AI generated code is always manually reviewed for accuracy.
+
 ## Folder Structure
 
 ```
