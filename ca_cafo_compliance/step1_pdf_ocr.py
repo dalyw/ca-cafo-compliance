@@ -70,6 +70,13 @@ def convert_pdf_pages_with_fallback_dpi(pdf_path, first_p, last_p, dpi_list=(350
 def requires_handwritten_ocr(text):
     """Detect if manifest needs handwritten OCR (R5-2013-0122 or CUBIC YARDS)."""
     text_upper = text.upper()
+    # Check for short text
+    if len(text.strip()) < 200:
+        return True
+    # Check for gibberish (non-alphanumeric ratio)
+    gibberish_ratio = sum(1 for c in text if not c.isalnum() and not c.isspace()) / max(1, len(text))
+    if gibberish_ratio > 0.15:
+        return True
     return "R5-2013-0122" in text_upper or "CUBIC YARDS" in text_upper
 
 
