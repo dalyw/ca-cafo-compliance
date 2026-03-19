@@ -6,27 +6,19 @@ import glob
 import pandas as pd
 import pymupdf as fitz
 from dateutil import parser as date_parser
-
 from collections import defaultdict
 
 from helpers_pdf_metrics import (
-    GDRIVE_BASE,
-    build_parameter_dicts,
-    clean_common_errors,
-    coerce_columns,
+    GDRIVE_BASE, build_parameter_dicts, clean_common_errors, coerce_columns,
     extract_parameters_from_text,
 )
 from helpers_geocoding import (
-    parse_destination_address_and_parcel,
-    strip_phone_number,
-    split_apn_county,
+    parse_destination_address_and_parcel, strip_phone_number, split_apn_county,
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
-
-YEAR = "2024"
-REGION = "R5"
+YEAR, REGION = "2024", "R5"
 
 LOCATIONS_DF = pd.read_csv(os.path.join(DATA_DIR, "parameter_locations.csv"))
 TEMPLATES_DF = pd.read_csv(os.path.join(DATA_DIR, "templates.csv"))
@@ -35,67 +27,45 @@ PARAM_TO_COL = _manifest_dicts["key_to_name"]
 PARAM_TYPES = _manifest_dicts["key_to_type"]
 PARAM_DEFAULTS = _manifest_dicts["key_to_default"]
 
-# Load / haul pattern parsing
-_NUM = r"(\d+(?:\.\d+)?)"  # capture a number
-_LOAD_TERMS = [
-    "load",
-    "loap",
-    "haul",
-    "truckload",
-    "dump\s*t(?:k|ruck)",
-    "tanker\s*load",
-]
-_UNIT_TERMS = ["ton", "gallon", "gal", "yard"]
-_LOAD = "(?:" + "|".join(t + "s?" for t in _LOAD_TERMS) + ")"
-_UNIT = "(" + "|".join(t + "s?" for t in _UNIT_TERMS) + ")"  # capturing
+# Regex patterns
+_NUM = r"(\d+(?:\.\d+)?)"
+_LOAD = "(?:" + "|".join(f"{t}s?" for t in ["load", "loap", "haul", "truckload", "dump\\s*t(?:k|ruck)", "tanker\\s*load"]) + ")"
+_UNIT = "(" + "|".join(f"{t}s?" for t in ["ton", "gallon", "gal", "yard"]) + ")"
 _SEP = r"\s*(?:[x×@\-]|at)\s*"
 _APPROX = r"(?:approx\.?\s*)?"
 
 _LOAD_PATTERNS = [
-    # "418.5 Loads X 24 Tons" / "150 Loads At 9500 Gals/Load"
-    # "100 Loads @ 10 Ton Per Load" / "552 Dump Tks @ Approx. 6.25 Ton Ave"
-    (
-        re.compile(rf"{_NUM}\s*{_LOAD}(?:\s+\w+)*?{_SEP}{_APPROX}{_NUM}\s*{_UNIT}", re.I),
-        (0, 1, 2),
-    ),
-    # "24 Tons X 56 Loads" (units before loads)
+    (re.compile(rf"{_NUM}\s*{_LOAD}(?:\s+\w+)*?{_SEP}{_APPROX}{_NUM}\s*{_UNIT}", re.I), (0, 1, 2)),
     (re.compile(rf"{_NUM}\s*{_UNIT}{_SEP}{_NUM}\s*{_LOAD}", re.I), (2, 0, 1)),
-    # "130 Loads 12 Tons Each" (no separator sign)
     (re.compile(rf"{_NUM}\s*{_LOAD}\s+{_NUM}\s*{_UNIT}\s+each\b", re.I), (0, 1, 2)),
 ]
 
-# Wastewater-specific patterns
 _HOURS_RE = re.compile(r"(\d+(?:\s*\d+/\d+)?(?:\.\d+)?)\s*(?:hours?|hrs?)\b", re.I)
 _GPM_RE = re.compile(r"(\d+(?:,\d+)?(?:\.\d+)?)\s*(?:gpm|gallons per min)\b", re.I)
-_FRAC_RE = re.compile(r"(\d+)(\d)/(\d+)")  # "111/2" -> whole=11, num=1, denom=2
+_FRAC_RE = re.compile(r"(\d+)(\d)/(\d+)")
+_TABLE_ROW_RE = re.compile(r"^(.+?)\s+([\d,]+)\s+(tons?|gallons?|gals?|yards?)\s+(\d+)\s*%", re.I)
+
+_MONTHS = "|".join(calendar.month_name[1:] + calendar.month_abbr[1:]).lower()
+_DATE_TOKEN_RE = re.compile(rf"\d{{1,2}}/\d{{1,2}}/\d{{2,4}}|(?:{_MONTHS})(?:\s+\d{{1,2}})?(?:\s*,?\s*\d{{2,4}})?", re.I)
+_MONTH_ONLY_RE = re.compile(rf"^\s*({_MONTHS})\s*$", re.I)
+_YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
 
 
 def pdf_stem_from_txt_path(txt_path):
     parts = os.path.normpath(txt_path).split(os.sep)
-    for ocr_folder in ("llmwhisperer_output", "tesseract_output"):
-        if ocr_folder in parts:
-            i = parts.index(ocr_folder)
-            # /<ocr_folder>/<pdf_stem>/<pdf_stem>.txt
-            if i + 1 < len(parts):
-                return parts[i + 1]
+    for folder in ("llmwhisperer_output", "tesseract_output"):
+        if folder in parts:
+            return parts[parts.index(folder) + 1]
 
 
 def identify_manifest_pages(result_text):
-    """
-    - P1 has instructions/info
-    - if "certification" or "signature of hauler" is on page 1, then don't include page 2
-    - if page 2 has "Page 2 of 3", then also include page 3
-    """
+    """Identify manifest page ranges and templates from OCR text."""
     matches = list(re.compile(r"=== Page (\d+) ===").finditer(result_text))
     if not matches:
-        print("No page markers found")
         return [], [], [], []
 
-    # Extract pages
     pages = {
-        int(m.group(1)): result_text[
-            m.end() : (matches[i + 1].start() if i + 1 < len(matches) else len(result_text))
-        ].strip()
+        int(m.group(1)): result_text[m.end():matches[i+1].start() if i+1 < len(matches) else len(result_text)].strip()
         for i, m in enumerate(matches)
     }
 
@@ -104,43 +74,22 @@ def identify_manifest_pages(result_text):
 
     for idx, p1 in enumerate(sorted_pages):
         t1_upper = pages[p1].upper()
-        # Skip if used, attachment, or not manifest start (has header + instructions)
-        if (
-            p1 in used
-            or "REQUIRED ATTACHMENTS" in t1_upper
-            or not (
-                "MANIFEST" in t1_upper
-                and any(k in t1_upper for k in ["TRACKING", "ATTACHMENT"])
-                and any(
-                    t in t1_upper
-                    for t in [
-                        "INSTRUCTIONS",
-                        "COMPLETE ONE",
-                        "WASTE GENERATOR INFORMATION",
-                        "ADDRESS OF HAULING",
-                    ]
-                )
-            )
-        ):
+        if (p1 in used or "REQUIRED ATTACHMENTS" in t1_upper or 
+            not ("MANIFEST" in t1_upper and 
+                 any(k in t1_upper for k in ["TRACKING", "ATTACHMENT"]) and
+                 any(t in t1_upper for t in ["INSTRUCTIONS", "COMPLETE ONE", "WASTE GENERATOR INFORMATION", "ADDRESS OF HAULING"]))):
             continue
 
         manifest_num += 1
         used.add(p1)
         combined, end_pg = pages[p1], p1
 
-        # Add page 2 if: exists, unused, not manifest start, and p1 has no certification
-        if (
-            idx + 1 < len(sorted_pages)
-            and "CERTIFICATION" not in t1_upper
-            and "SIGNATURE OF HAULER" not in t1_upper
-        ):
+        # Add page 2 if applicable
+        if (idx + 1 < len(sorted_pages) and "CERTIFICATION" not in t1_upper and "SIGNATURE OF HAULER" not in t1_upper):
             cand = sorted_pages[idx + 1]
             t2_upper = pages[cand].upper()
-            if cand not in used and not (
-                "REQUIRED ATTACHMENTS" not in t2_upper
-                and "MANIFEST" in t2_upper
-                and any(t in t2_upper for t in ["INSTRUCTIONS", "COMPLETE ONE"])
-            ):
+            if (cand not in used and not ("REQUIRED ATTACHMENTS" not in t2_upper and "MANIFEST" in t2_upper and 
+                any(t in t2_upper for t in ["INSTRUCTIONS", "COMPLETE ONE"]))):
                 used.add(cand)
                 combined += "\n\n" + pages[cand]
                 end_pg = cand
@@ -151,22 +100,15 @@ def identify_manifest_pages(result_text):
             combined += "\n" + pages[p3]
             end_pg = p3
 
-        # Template matching
+        # Match template
         text_upper = clean_common_errors(combined).upper()
         template = next(
-            (
-                row["template_key"]
-                for _, row in TEMPLATES_DF.iterrows()
-                if (kw := row["keywords"])
-                and not pd.isna(kw)
-                and all(
-                    any(t.strip() in text_upper for t in c.split("|"))
-                    for c in str(kw).upper().split("&&")
-                )
-                and row["page_count"] == (end_pg - p1 + 1)
-            ),
-            "R5-2007-0035_general_order",
-        )  # backup to R5-2007
+            (row["template_key"] for _, row in TEMPLATES_DF.iterrows()
+             if pd.notna(kw := row["keywords"]) and
+             all(any(t.strip() in text_upper for t in c.split("|")) for c in str(kw).upper().split("&&")) and
+             row["page_count"] == (end_pg - p1 + 1)),
+            "R5-2007-0035_general_order"
+        )
 
         nums.append(manifest_num)
         blocks.append(combined)
@@ -176,72 +118,40 @@ def identify_manifest_pages(result_text):
     return nums, blocks, ranges, templates
 
 
-_TABLE_ROW_RE = re.compile(
-    r"^(.+?)\s+"  # group 1: date range
-    r"([\d,]+)\s+"  # group 2: amount
-    r"(tons?|gallons?|gals?|yards?)\s+"  # group 3: units
-    r"(\d+)\s*%",  # group 4: moisture %
-    re.I,
-)
-
-
 def _parse_hauling_table(manifest_text):
-    """Extract hauling event rows from table for templates with hauling tables."""
+    """Extract hauling event rows from table."""
     lines = manifest_text.split("\n")
-    start_idx = next(
-        (i + 1 for i, ln in enumerate(lines) if "date" in ln.lower() and "haul" in ln.lower()),
-        None,
-    )
+    start_idx = next((i + 1 for i, ln in enumerate(lines) if "date" in ln.lower() and "haul" in ln.lower()), None)
     if start_idx is None:
         return []
 
     rows = []
     for line in lines[start_idx:]:
         stripped = line.strip()
-        if not stripped:
-            continue
-        if stripped.lower().startswith("total"):
+        if not stripped or stripped.lower().startswith("total"):
             break
         if not (m := _TABLE_ROW_RE.match(stripped)):
             continue
 
         date_range, amount, units, moisture = m.groups()
-        amount_key = (
-            "manure_amount" if "ton" in units.lower() or "yard" in units.lower() else "wastewater_amount"
-        )
-        rows.append(
-            {
-                PARAM_TO_COL["haul_date"]: date_range.strip(),
-                PARAM_TO_COL[amount_key]: amount.replace(",", ""),
-                PARAM_TO_COL["manure_moisture_percent"]: moisture,
-            }
-        )
+        amount_key = "manure_amount" if "ton" in units.lower() or "yard" in units.lower() else "wastewater_amount"
+        rows.append({
+            PARAM_TO_COL["haul_date"]: date_range.strip(),
+            PARAM_TO_COL[amount_key]: amount.replace(",", ""),
+            PARAM_TO_COL["manure_moisture_percent"]: moisture,
+        })
     return rows
 
 
-_MONTH_NAMES = [m.lower() for m in calendar.month_name[1:]] + [
-    m.lower() for m in calendar.month_abbr[1:]
-]
-_MONTHS = "|".join(_MONTH_NAMES)
-_DATE_TOKEN_RE = re.compile(
-    r"\d{1,2}/\d{1,2}/\d{2,4}" rf"|(?:{_MONTHS})(?:\s+\d{{1,2}})?(?:\s*,?\s*\d{{2,4}})?",
-    re.I,
-)
-_MONTH_ONLY_RE = re.compile(rf"^\s*({_MONTHS})\s*$", re.I)
-_YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
-
-
 def _split_haul_dates(data):
-    """Parse haul_date into haul_date_first and haul_date_last in-place."""
+    """Parse haul_date into first and last dates."""
     haul_date = data.get(PARAM_TO_COL["haul_date"])
     if not haul_date or not isinstance(haul_date, str):
         return
 
-    date_parts = _DATE_TOKEN_RE.findall(haul_date)
-    if not date_parts:
-        date_parts = [
-            p.strip() for p in re.split(r"[-–—]|\bto\b|,|;|&", haul_date, flags=re.I) if p.strip()
-        ]
+    date_parts = _DATE_TOKEN_RE.findall(haul_date) or [
+        p.strip() for p in re.split(r"[-–—]|\bto\b|,|;|&", haul_date, flags=re.I) if p.strip()
+    ]
 
     parsed = []
     for part in date_parts:
@@ -255,66 +165,51 @@ def _split_haul_dates(data):
         except (ValueError, TypeError):
             continue
 
-    if not parsed:
-        return
-    parsed.sort()
-    fmt = lambda d: f"{d.month}/{d.day}/{d.year}"
-    data[PARAM_TO_COL["haul_date_first"]] = fmt(parsed[0]) if len(parsed) > 1 else None
-    data[PARAM_TO_COL["haul_date_last"]] = fmt(parsed[-1])
+    if parsed:
+        parsed.sort()
+        fmt = lambda d: f"{d.month}/{d.day}/{d.year}"
+        data[PARAM_TO_COL["haul_date_first"]] = fmt(parsed[0]) if len(parsed) > 1 else None
+        data[PARAM_TO_COL["haul_date_last"]] = fmt(parsed[-1])
 
 
 def extract_manifest_fields(manifest_text, template):
-    # Extract all parameters using shared function (returns param_key -> value)
-    extracted = extract_parameters_from_text(
-        manifest_text, template, LOCATIONS_DF, PARAM_TYPES, PARAM_DEFAULTS
-    )
-
-    # Map to column names and initialize result. Initialize blank column if no values extracted
+    """Extract all manifest fields from text."""
+    extracted = extract_parameters_from_text(manifest_text, template, LOCATIONS_DF, PARAM_TYPES, PARAM_DEFAULTS)
     data = {PARAM_TO_COL[k]: v for k, v in extracted.items()}
-    # initialize any missing columns to None
     for k in PARAM_TO_COL:
-        col = PARAM_TO_COL[k]
-        if col not in data:
-            data[col] = None
+        if PARAM_TO_COL[k] not in data:
+            data[PARAM_TO_COL[k]] = None
     data["Parameter Template"] = template
 
-    # Post-process specific parameters with special handling
+    # Post-process specific fields
     for param_key, column_name in PARAM_TO_COL.items():
         value = data.get(column_name)
         if value is None:
             continue
 
-        # Parse destination into address and/or parcel; store both when present
         if param_key == "destination_address":
             address_part, parcel_part = parse_destination_address_and_parcel(value)
-            # Only set parcel from address parsing if not already explicitly extracted
             if parcel_part and not data.get(PARAM_TO_COL["destination_parcel_number"]):
                 data[PARAM_TO_COL["destination_parcel_number"]] = parcel_part
-            value = address_part if address_part else (value if not parcel_part else None)
-            data[column_name] = value
+            data[column_name] = address_part or (value if not parcel_part else None)
 
-        # Strip phone numbers and leading name from contact address
-        if param_key == "destination_contact_address":
+        elif param_key == "destination_contact_address":
             value = strip_phone_number(value)
-            # Strip leading name: everything before the first 2+ digit number
-            if value:
-                num_match = re.search(r"\b\d{2,}", value)
-                if num_match:
-                    value = value[num_match.start() :].strip()
+            if value and (m := re.search(r"\b\d{2,}", value)):
+                value = value[m.start():].strip()
             data[column_name] = value
 
-        # Null out PDF form-label artifacts in destination type
-        if param_key == "destination_type":
+        elif param_key == "destination_type":
             vl = str(value).lower()
             if "(as identified" in vl or "above)" in vl:
                 data[column_name] = None
 
+    # Extract loads/hauls from method text
     for wt, units in [("manure", ["ton", "yard"]), ("wastewater", ["gallon"])]:
         if not (txt := data.get(f"Method Used to Determine Volume of {wt.title()}")):
             continue
         txt_str = str(txt)
 
-        # Extract loads/hauls and per-load amounts from method text
         for regex, (li, ai, ui) in _LOAD_PATTERNS:
             if m := regex.search(txt_str):
                 g = m.groups()
@@ -325,12 +220,10 @@ def extract_manifest_fields(manifest_text, template):
                         data[PARAM_TO_COL[f"{wt}_{u}_per_haul"]] = g[ai]
                 break
 
-        # Wastewater-only: hours pumped and GPM
+        # Wastewater hours and GPM
         if wt == "wastewater":
             if m := _HOURS_RE.search(txt_str):
-                # Parse hour text like '11', '11.5', or '11 1/2'
-                s = m.group(1)
-                hours = s.strip().replace(" ", "")
+                s = m.group(1).strip().replace(" ", "")
                 if "/" not in s:
                     hours = s
                 elif m := _FRAC_RE.match(s):
@@ -341,79 +234,58 @@ def extract_manifest_fields(manifest_text, template):
             if m := _GPM_RE.search(txt_str):
                 data[PARAM_TO_COL["wastewater_pumping_rate"]] = m.group(1)
 
-    # If manure_solids_percent was extracted but the raw text says "moisture", move to moisture column
-    solids_col = PARAM_TO_COL["manure_solids_percent"]
-    moisture_col = PARAM_TO_COL["manure_moisture_percent"]
+    # Move solids to moisture if text says "moisture"
+    solids_col, moisture_col = PARAM_TO_COL["manure_solids_percent"], PARAM_TO_COL["manure_moisture_percent"]
     if data.get(solids_col) and not data.get(moisture_col):
-        solids_val = str(data[solids_col])
-        if m := re.search(rf"{re.escape(solids_val)}\s*%\s*moisture", manifest_text, re.I):
+        if re.search(rf"{re.escape(str(data[solids_col]))}\s*%\s*moisture", manifest_text, re.I):
             data[moisture_col] = data.pop(solids_col)
             data[solids_col] = None
 
-    # add is_pipeline column depending on whether "pipeline" is in manifest text
+    # Pipeline and trucked flags
     data[PARAM_TO_COL["is_pipeline"]] = "pipeline" in manifest_text.lower()
-
-    # add is_trucked column depending on whether "loads", "hauls", "tank" or "hauler" is in method text
-    # if is_pipeline, is_trucked is FALSE
-    # otherwise, is_trucked is UNSURE
-    method_text = data.get(f"Method Used to Determine Volume of {wt.title()}", "")
+    method_text = data.get(f"Method Used to Determine Volume of Wastewater", "") or ""
     if method_text:
-        method_text_lower = method_text.lower()
-        if "pipeline" in method_text_lower:
+        ml = method_text.lower()
+        if "pipeline" in ml:
             data[PARAM_TO_COL["is_trucked"]] = False
-        elif any(t in method_text_lower for t in ["load", "haul", "tank", "hauler"]):
+        elif any(t in ml for t in ["load", "haul", "tank", "hauler"]) and not any(t in ml for t in ["apply", "applied"]):
             data[PARAM_TO_COL["is_trucked"]] = True
         else:
             data[PARAM_TO_COL["is_trucked"]] = None
+
     return data
 
 
 def extract_manifests_from_txt(txt_path):
+    """Extract all manifests from a single OCR text file."""
     pdf_stem = pdf_stem_from_txt_path(txt_path)
-
+    
     with open(txt_path, "r", encoding="utf-8") as f:
         result_text = f.read()
 
     nums, blocks, ranges, templates = identify_manifest_pages(result_text)
     if not nums:
-        # print(f"No manifests found in {txt_path}")
         return []
 
     output_dir = os.path.dirname(txt_path)
-
     parts = os.path.normpath(txt_path).split(os.sep)
     idx = parts.index("Manure Trucking Network Analysis")
-    year, region, county, template = parts[idx + 1 : idx + 5]
+    year, region, county, template = parts[idx+1:idx+5]
     pdf_stem = parts[-2]
-    original_pdf = os.path.join(
-        GDRIVE_BASE, year, region, county, template, "original", f"{pdf_stem}.pdf"
-    )
+    original_pdf = os.path.join(GDRIVE_BASE, year, region, county, template, "original", f"{pdf_stem}.pdf")
 
-    manifests: list[dict] = []
-    all_manifests_doc = fitz.open()
+    manifests, all_manifests_doc = [], fitz.open()
 
     for i, (block_text, (start_pg, end_pg)) in enumerate(zip(blocks, ranges), start=1):
         manifest_text = clean_common_errors(block_text)
         manifest_template = templates[i - 1]
-
         data = extract_manifest_fields(manifest_text, manifest_template)
-        metadata = {
-            "Source PDF": pdf_stem,
-            "Start Page": start_pg,
-            "End Page": end_pg,
-        }
+        metadata = {"Source PDF": pdf_stem, "Start Page": start_pg, "End Page": end_pg}
 
-        # Multi-row table template: one manifest entry per hauling row
-        table_rows = (
-            _parse_hauling_table(manifest_text)
-            if manifest_template == "R5-2007-0035_one_page_2"
-            else None
-        )
+        # Multi-row table or single manifest
+        table_rows = _parse_hauling_table(manifest_text) if manifest_template == "R5-2007-0035_one_page_2" else None
         if table_rows:
-            entries = [
-                {**data, **row, **metadata, "Manifest Number": f"{i}{chr(97 + j)}"}
-                for j, row in enumerate(table_rows)
-            ]
+            entries = [{**data, **row, **metadata, "Manifest Number": f"{i}{chr(97 + j)}"} for j, row in enumerate(table_rows)]
         else:
             entries = [{**data, **metadata, "Manifest Number": i}]
 
@@ -421,7 +293,7 @@ def extract_manifests_from_txt(txt_path):
             _split_haul_dates(entry)
             manifests.append(entry)
 
-        # Save manifest txt + pdf slice
+        # Save individual manifest files
         with open(os.path.join(output_dir, f"manifest_{i}.txt"), "w", encoding="utf-8") as f:
             f.write(manifest_text)
         with fitz.open(original_pdf) as doc, fitz.open() as new_doc:
@@ -431,9 +303,8 @@ def extract_manifests_from_txt(txt_path):
                     all_manifests_doc.insert_pdf(doc, from_page=p, to_page=p)
             new_doc.save(os.path.join(output_dir, f"manifest_{i}.pdf"))
 
-    if all_manifests_doc is not None and len(all_manifests_doc) > 0:
-        all_manifests_path = os.path.join(output_dir, "all_manifests.pdf")
-        all_manifests_doc.save(all_manifests_path)
+    if len(all_manifests_doc) > 0:
+        all_manifests_doc.save(os.path.join(output_dir, "all_manifests.pdf"))
         all_manifests_doc.close()
 
     print(f"{len(nums)} manifests of {template} in {pdf_stem}")
@@ -441,79 +312,44 @@ def extract_manifests_from_txt(txt_path):
 
 
 def main():
-    all_manifests: list[dict] = []
+    """Extract all manifests and save to CSV."""
     stems = {}
     for ocr_method in ["llmwhisperer", "tesseract"]:
-        folder_name = f"{ocr_method}_output"
-        files = [
-            p
-            for p in glob.glob(
-                f"{GDRIVE_BASE}/{YEAR}/{REGION}/**/{folder_name}/**/*.txt",
-                recursive=True,
-            )
-            if not os.path.basename(p).startswith("manifest_")
-        ]
+        files = [p for p in glob.glob(f"{GDRIVE_BASE}/{YEAR}/{REGION}/**/{ocr_method}_output/**/*.txt", recursive=True)
+                 if not os.path.basename(p).startswith("manifest_")]
         out = {}
         for p in sorted(files):
             if (stem := pdf_stem_from_txt_path(p)) in out:
-                raise ValueError(
-                    f"Duplicate txt for pdf_stem={stem} in {folder_name}: {out[stem]} and {p}"
-                )
+                raise ValueError(f"Duplicate txt for {stem} in {ocr_method}_output: {out[stem]} and {p}")
             out[stem] = p
         stems[ocr_method] = out
 
-    all_stems = sorted(set(stems["tesseract"]) | set(stems["llmwhisperer"]))
-    for stem in all_stems:  # all PDFs
-        # prioritize llmwhisperer if it was run, then tesseract for simpler PDFs
+    all_manifests = []
+    for stem in sorted(set(stems["tesseract"]) | set(stems["llmwhisperer"])):
         chosen = stems["llmwhisperer"].get(stem) or stems["tesseract"].get(stem)
         all_manifests.extend(extract_manifests_from_txt(chosen))
 
-    print(all_manifests[:2])  # print first 2 for sanity check
     df = pd.DataFrame(all_manifests)
     print(df.head())
-    out_csv = "ca_cafo_compliance/outputs/all_manifests_as_written_automatic.csv"
+    
+    out_csv = "ca_cafo_compliance/compiled_data/all_manifests_as_written_automatic.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
-
-    # Coerce all numeric columns
     coerce_columns(df)
 
-    # Clean contact address (strip phones) and normalize parcel numbers
+    # Clean contact addresses and parcel numbers
     contact_col = PARAM_TO_COL["destination_contact_address"]
     if contact_col in df.columns:
-        df[contact_col] = df[contact_col].apply(
-            lambda x: strip_phone_number(x) if isinstance(x, str) else x
-        )
-    parcel_col = PARAM_TO_COL["destination_parcel_number"]
-    county_col = PARAM_TO_COL["destination_county"]
+        df[contact_col] = df[contact_col].apply(lambda x: strip_phone_number(x) if isinstance(x, str) else x)
+    
+    parcel_col, county_col = PARAM_TO_COL["destination_parcel_number"], PARAM_TO_COL["destination_county"]
     if parcel_col in df.columns:
-        split = df[parcel_col].apply(
-            lambda x: split_apn_county(x) if isinstance(x, str) else (None, None)
-        )
+        split = df[parcel_col].apply(lambda x: split_apn_county(x) if isinstance(x, str) else (None, None))
         df[parcel_col] = split.apply(lambda x: x[0])
         df[county_col] = split.apply(lambda x: x[1])
 
-    n_total = len(df)
-    manure_col = PARAM_TO_COL["manure_amount"]
-    wastewater_col = PARAM_TO_COL["wastewater_amount"]
-    n_manure = df[manure_col].notnull().sum()
-    n_wastewater = df[wastewater_col].notnull().sum()
-
-    summary_df = pd.DataFrame(
-        [
-            {
-                "n_total": n_total,
-                "n_manure": n_manure,
-                "frac_manure": n_manure / n_total if n_total else 0,
-                "n_wastewater": n_wastewater,
-                "frac_wastewater": n_wastewater / n_total if n_total else 0,
-            }
-        ]
-    )
-    summary_df.to_csv("ca_cafo_compliance/outputs/2024_manifest_summary.csv", index=False)
-
-    has_manure = df[manure_col].notna()
-    has_wastewater = df[wastewater_col].notna()
-
+    # Categorize manifest type
+    manure_col, wastewater_col = PARAM_TO_COL["manure_amount"], PARAM_TO_COL["wastewater_amount"]
+    has_manure, has_wastewater = df[manure_col].notna(), df[wastewater_col].notna()
     df["Manifest Type"] = "unknown"
     df.loc[has_manure & has_wastewater, "Manifest Type"] = "both"
     df.loc[has_manure & ~has_wastewater, "Manifest Type"] = "manure"
@@ -524,74 +360,44 @@ def main():
 
 
 def identify_files_to_delete():
-    OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs")
+    """Generate delete lists for cleanup."""
+    OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "compiled_data")
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    # Helpers
-    def g(pattern):
-        return [
-            p
-            for p in glob.glob(os.path.join(GDRIVE_BASE, pattern), recursive=True)
-            if "all_manifests" not in p
-        ]
+    g = lambda pat: [p for p in glob.glob(os.path.join(GDRIVE_BASE, pat), recursive=True) if "all_manifests" not in p]
 
     # One-page manifests
-    manifest_pdfs = g("**/manifest_*.pdf")
     by_pages = defaultdict(list)
-    for p in manifest_pdfs:
+    for p in g("**/manifest_*.pdf"):
         with fitz.open(p) as doc:
-            n = len(doc)
-            by_pages[n].append(p)
+            by_pages[len(doc)].append(p)
 
-    folders_1pg = {os.path.dirname(p) for p in by_pages[1]}
-    one_page = sorted(
-        {
-            f
-            for folder in folders_1pg
-            for ext in ("txt", "pdf")
-            for f in glob.glob(os.path.join(folder, f"manifest_*.{ext}"))
-        }
-    )
+    one_page = sorted({f for folder in {os.path.dirname(p) for p in by_pages[1]}
+                       for ext in ("txt", "pdf") for f in glob.glob(os.path.join(folder, f"manifest_*.{ext}"))})
 
-    # All manifests for each OCR approach
-    engine_patterns = {
-        "fitz": "**/fitz_output/**/manifest_*",
-        "tesseract": "**/tesseract_output/**/manifest_*",
-        "llmwhisperer": "**/llmwhisperer_output/**/manifest_*",
-    }
+    # Engine-specific manifests
     engine_delete_lists = {
-        k: sorted([p for p in g(pat) if os.path.isfile(p)]) for k, pat in engine_patterns.items()
+        engine: sorted([p for p in g(f"**/{engine}_output/**/manifest_*") if os.path.isfile(p)])
+        for engine in ["fitz", "tesseract", "llmwhisperer"]
     }
 
-    # Empty subdirectories under an output_type folder (fitz/tesseract)
-    def empty_subdirs(output_folder):
-        dirs = [d for d in g(f"**/{output_folder}/**/") if os.path.isdir(d)]
-        dirs = sorted(set(dirs), key=lambda p: p.count(os.sep), reverse=True)
+    # Empty subdirectories
+    def empty_subdirs(folder):
+        dirs = sorted({d for d in g(f"**/{folder}/**/") if os.path.isdir(d)}, key=lambda p: p.count(os.sep), reverse=True)
         return [d for d in dirs if os.path.isdir(d) and len(os.listdir(d)) == 0]
 
-    empty_subfolders = sum(
-        [empty_subdirs(f) for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]],
-        [],
-    )
+    empty_subfolders = sum([empty_subdirs(f) for f in ["llmwhisperer_output", "fitz_output", "tesseract_output"]], [])
 
     # Write delete lists
     delete_lists = {
         "one_page.txt": one_page,
-        "delete_list_all_fitz.txt": engine_delete_lists["fitz"],
-        "delete_list_all_tesseract.txt": engine_delete_lists["tesseract"],
-        "delete_list_all_llmwhisperer.txt": engine_delete_lists["llmwhisperer"],
+        **{f"delete_list_all_{k}.txt": v for k, v in engine_delete_lists.items()},
         "delete_list_empty_subfolders.txt": empty_subfolders,
     }
 
     for fname, items in delete_lists.items():
         with open(os.path.join(OUT_DIR, fname), "w", encoding="utf-8") as f:
             f.write("\n".join(items) + "\n")
-
-    # Deletion commands (keeping for reference)
-    #   while IFS= read -r f; do rm -f "$f"; done < ca_cafo_compliance/outputs/delete_list_all_fitz.txt
-    #   while IFS= read -r f; do rm -f "$f"; done < ca_cafo_compliance/outputs/delete_list_all_tesseract.txt
-    #   while IFS= read -r f; do rm -f "$f"; done < ca_cafo_compliance/outputs/delete_list_all_llmwhisperer.txt
-    #   while IFS= read -r d; do rmdir "$d" 2>/dev/null; done < ca_cafo_compliance/outputs/delete_list_empty_subfolders.txt
 
 
 if __name__ == "__main__":

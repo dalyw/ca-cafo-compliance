@@ -11,7 +11,7 @@ from postal.parser import parse_address
 
 load_dotenv()
 
-_CACHE_PATH = os.path.join(os.path.dirname(__file__), "outputs", "geocode_cache.json")
+_CACHE_PATH = os.path.join(os.path.dirname(__file__), "compiled_data", "geocode_cache.json")
 
 
 class JsonCache:
@@ -56,18 +56,19 @@ _arcgis = RateLimiter(
     error_wait_seconds=1.0,
     swallow_exceptions=True,
 )
+
 GOOGLE_API_KEY = os.environ.get("GOOGLE_GEOCODING_API_KEY", "")
-if GOOGLE_API_KEY:
-    _google = RateLimiter(
+_google = (
+    RateLimiter(
         GoogleV3(api_key=GOOGLE_API_KEY).geocode,
         min_delay_seconds=0.1,
         max_retries=2,
         error_wait_seconds=1.0,
         swallow_exceptions=True,
     )
-else:
-    _google = None
-    print("Google geocoding disabled (no GOOGLE_GEOCODING_API_KEY)")
+    if GOOGLE_API_KEY
+    else (print("Google geocoding disabled (no GOOGLE_GEOCODING_API_KEY)"), None)[1]
+)
 
 DWR_PARCEL_GEOCODE_URL = (
     "https://gis.water.ca.gov/arcgis/rest/services/Location/Geocoding_Parcels_APN_TaxAPN/"
@@ -75,6 +76,18 @@ DWR_PARCEL_GEOCODE_URL = (
 )
 
 _PO_BOX_RE = re.compile(r"\bP\.?O\.?\s*Box\b", re.IGNORECASE)
+_COUNTY_ALIASES = {
+    "tulare_east": "Tulare",
+    "tulare_west": "Tulare",
+    "fresno_madera": "Fresno",
+    "rancho_cordova": "Sacramento",
+}
+_LOCALITY_TAGS = {"city", "state", "postcode", "state_district", "suburb"}
+_PARCEL_RE = re.compile(
+    r"(?:\(?\d*\)?\s*[Xx]?\s*)?([\dXx]{2,}\s*[.\-]\s*[\dXx]{2,}(?:\s*[.\-]\s*[\dXx]+)*)",
+    re.IGNORECASE,
+)
+_PHONE_RE = re.compile(r"\(?\d{3}\)?[\s\-\.]?\d{3,4}[\s\-\.]?\d{4}")
 
 
 def norm_addr(s: str) -> str | None:
@@ -94,23 +107,11 @@ def has_street_level(s: str) -> bool:
     )
 
 
-# Map folder-style county names to actual county names
-_COUNTY_ALIASES = {
-    "tulare_east": "Tulare",
-    "tulare_west": "Tulare",
-    "fresno_madera": "Fresno",
-    "rancho_cordova": "Sacramento",
-}
-
-
 def _normalize_county(county: str | None) -> str | None:
     if not county:
         return None
     c = county.strip().lower()
     return _COUNTY_ALIASES.get(c, county.strip().title())
-
-
-_LOCALITY_TAGS = {"city", "state", "postcode", "state_district", "suburb"}
 
 
 def geocode_address(address: str, county: str | None = None):
@@ -122,21 +123,16 @@ def geocode_address(address: str, county: str | None = None):
     if key in cache:
         return cache[key]
 
-    # Skip addresses with no locality info (city/zip/state) and no county context
-    if not county:
-        tags = {t for _, t in parse_address(na)}
-        if not tags & _LOCALITY_TAGS:
-            return None, None, None
+    if not county and not {t for _, t in parse_address(na)} & _LOCALITY_TAGS:
+        return None, None, None
 
     county_name = _normalize_county(county)
     q = f"{address}, {county_name} County, CA" if county_name else f"{address}, CA"
 
-    # Try ArcGIS first
     loc = _arcgis(q)
     source = "arcgis"
     street = loc and loc.address and has_street_level(loc.address)
 
-    # Fall back to Google if ArcGIS missed or returned non-street-level
     if _google and not street:
         g = _google(q, components={"country": "US", "administrative_area": "CA"})
         if g and g.address:
@@ -144,17 +140,14 @@ def geocode_address(address: str, county: str | None = None):
             street = has_street_level(g.address)
 
     if not loc or not loc.address:
-        cache[key] = (None, None, {"source": "all_failed"})
+        result = (None, None, {"source": "all_failed"})
     elif not street:
-        cache[key] = (None, None, {"address": loc.address, "source": source})
+        result = (None, None, {"address": loc.address, "source": source})
     else:
-        cache[key] = (
-            loc.latitude,
-            loc.longitude,
-            {"address": loc.address, "source": source},
-        )
+        result = (loc.latitude, loc.longitude, {"address": loc.address, "source": source})
 
-    return cache[key]
+    cache[key] = result
+    return result
 
 
 def county_from_zip(zip_code: str) -> str | None:
@@ -175,9 +168,8 @@ def enrich_address_columns(
         if lat is None:
             return pd.Series([None] * 5, index=[lat_col, lng_col, city_col, zip_col, county_col])
 
-        formatted = (meta or {}).get("address") or ""
-        parts = [p.strip() for p in formatted.split(",")]
-
+        parts = [(meta or {}).get("address") or ""]
+        parts = [p.strip() for p in parts[0].split(",")]
         city = parts[-3] if len(parts) >= 3 else None
         zip_code = parts[-1].split()[-1] if parts else None
 
@@ -190,7 +182,6 @@ def enrich_address_columns(
     return df
 
 
-# APN detection/parsing (mostly unchanged)
 def looks_like_parcel_number(text):
     if not isinstance(text, str) or not (s := text.strip()) or len(s) < 3:
         return False
@@ -201,20 +192,7 @@ def looks_like_parcel_number(text):
     )
 
 
-_PARCEL_RE = re.compile(
-    r"(?:\(?\d*\)?\s*[Xx]?\s*)?([\dXx]{2,}\s*[.\-]\s*[\dXx]{2,}(?:\s*[.\-]\s*[\dXx]+)*)",
-    re.IGNORECASE,
-)
-
-_PHONE_RE = re.compile(
-    r"\(?\d{3}\)?[\s\-\.]?\d{3,4}[\s\-\.]?\d{4}",
-)
-
-
 def strip_trailing_pattern(text, regex):
-    """Find the last match of *regex* in *text* and return (before, matched).
-    Returns (text, None) when there is no match.
-    """
     if not isinstance(text, str) or not text.strip():
         return text, None
     matches = list(regex.finditer(text))
@@ -226,7 +204,6 @@ def strip_trailing_pattern(text, regex):
 
 
 def strip_phone_number(text):
-    """Remove a trailing phone number from *text*, returning the cleaned text."""
     cleaned, _ = strip_trailing_pattern(text, _PHONE_RE)
     return cleaned
 
@@ -250,44 +227,30 @@ def parse_destination_address_and_parcel(value):
 
 
 def normalize_apn(parcel_number):
-    """Normalize APN: strip trailing text, remove spaces, dots->hyphens, X->0.
-    Returns the normalized APN string or None.
-    """
     if not isinstance(parcel_number, str) or not parcel_number.strip():
         return None
-    # Strip trailing non-APN text (e.g. county name after the number)
     s = re.match(r"[\d\s.\-Xx]+", parcel_number.strip())
     if not s:
         return None
-    s = re.sub(r"\s+", "", s.group())
-    s = s.replace(".", "-")
+    s = re.sub(r"\s+", "", s.group()).replace(".", "-")
     s = re.sub(r"[Xx]", "0", s)
     return s if re.fullmatch(r"[\d\-]+", s) else None
 
 
 def split_apn_county(parcel_text):
-    """Split '0058-0001-0010-0000 Stanislaus' into (apn, county).
-    Returns (normalized_apn, county_name) or (None, None).
-    """
     if not isinstance(parcel_text, str) or not parcel_text.strip():
         return None, None
     m = re.match(r"([\d\s.\-Xx]+)\s+([A-Za-z].*)$", parcel_text.strip())
-    if m:
-        return normalize_apn(m.group(1)), m.group(2).strip()
-    return normalize_apn(parcel_text), None
+    return (normalize_apn(m.group(1)), m.group(2).strip()) if m else (normalize_apn(parcel_text), None)
 
 
 def geocode_parcel(parcel_number):
-    """Geocode a CA assessor parcel number via DWR GeocodeServer.
-    Returns (lat, lng) or (None, None).
-    """
     apn = normalize_apn(parcel_number)
     if not apn:
         return None, None
 
-    key = apn
-    if key in cache:
-        return cache[key]
+    if apn in cache:
+        return cache[apn]
 
     r = requests.get(
         DWR_PARCEL_GEOCODE_URL,
@@ -296,9 +259,10 @@ def geocode_parcel(parcel_number):
     )
     r.raise_for_status()
     candidates = r.json().get("candidates") or []
+    
     if not candidates:
-        cache[key] = (None, None, {"source": "dwr_parcel"})
-        return cache[key]
+        cache[apn] = (None, None, {"source": "dwr_parcel"})
+        return cache[apn]
 
     loc = candidates[0].get("location") or {}
     lat, lng = loc.get("y"), loc.get("x")
@@ -306,9 +270,10 @@ def geocode_parcel(parcel_number):
     if isinstance(address, dict):
         address = address.get("Match_addr") or ""
 
-    if lat is None or lng is None or not has_street_level(address or ""):
-        cache[key] = (None, None, {"source": "dwr_parcel"})
-    else:
-        cache[key] = (lat, lng, {"source": "dwr_parcel"})
-
-    return cache[key]
+    result = (
+        (lat, lng, {"source": "dwr_parcel"})
+        if lat and lng and has_street_level(address or "")
+        else (None, None, {"source": "dwr_parcel"})
+    )
+    cache[apn] = result
+    return result

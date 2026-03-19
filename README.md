@@ -24,7 +24,7 @@ ca-cafo-compliance/
 │   │   ├── parameters.csv
 │   │   ├── templates.csv
 │   │   ├── zipcode_to_county.csv
-│   ├── outputs/                     # Output CSVs, maps, and intermediate files
+│   ├── compiled_data/                     # Output CSVs, maps, and intermediate files
 │   └── local/                       # Local scripts and violation conversion tools
 ├── requirements.txt                 # Python dependencies
 ```
@@ -75,5 +75,5 @@ streamlit run ca_cafo_compliance/manifest_app.py
 
 or
 ```bash
-open ca_cafo_compliance/outputs/2024_destination_address_map.html
+open ca_cafo_compliance/compiled_data/2024_destination_address_map.html
 '''

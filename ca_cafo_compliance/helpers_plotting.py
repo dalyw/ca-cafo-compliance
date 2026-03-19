@@ -5,7 +5,11 @@ import pandas as pd
 import streamlit as st
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "compiled_data")
+FIGURES_DIR = os.path.join(BASE_DIR, "figures")
+
+# make sure figures directory exists
+os.makedirs(FIGURES_DIR, exist_ok=True)
 
 # Color palette (from ColorBrewer)
 manure_colors = ["#8c510a", "#bf812d", "#dfc27d", "#f6e8c3"]
@@ -61,8 +65,8 @@ def load_data_from_source(local_path, github_url, encoding="utf-8"):
 
 
 def save_fig(fig, name):
-    """Save a figure as PNG to outputs."""
+    """Save a figure as PNG to compiled_data."""
     png_bytes = fig.to_image(format="png", width=1200, height=700, scale=2)
-    with open(os.path.join(OUTPUTS_DIR, f"{name}.png"), "wb") as f:
+    with open(os.path.join(FIGURES_DIR, f"{name}.png"), "wb") as f:
         f.write(png_bytes)
     print(f"  Saved {name}")
