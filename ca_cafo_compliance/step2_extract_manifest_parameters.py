@@ -242,7 +242,8 @@ def extract_manifest_fields(manifest_text, template):
             data[solids_col] = None
 
     # Pipeline and trucked flags
-    data[PARAM_TO_COL["is_pipeline"]] = "pipeline" in manifest_text.lower()
+    is_pipeline = "pipeline" in manifest_text.lower()
+    data[PARAM_TO_COL["is_pipeline"]] = is_pipeline
     method_text = data.get(f"Method Used to Determine Volume of Wastewater", "") or ""
     if method_text:
         ml = method_text.lower()
@@ -254,6 +255,9 @@ def extract_manifest_fields(manifest_text, template):
             data[PARAM_TO_COL["is_trucked"]] = "UNSURE"
     else:
         data[PARAM_TO_COL["is_trucked"]] = "UNSURE"
+    # is_pipeline always takes precedence
+    if is_pipeline:
+        data[PARAM_TO_COL["is_trucked"]] = False
 
     return data
 
