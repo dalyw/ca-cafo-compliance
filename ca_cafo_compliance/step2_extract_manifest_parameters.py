@@ -251,7 +251,9 @@ def extract_manifest_fields(manifest_text, template):
         elif any(t in ml for t in ["load", "haul", "tank", "hauler"]) and not any(t in ml for t in ["apply", "applied"]):
             data[PARAM_TO_COL["is_trucked"]] = True
         else:
-            data[PARAM_TO_COL["is_trucked"]] = None
+            data[PARAM_TO_COL["is_trucked"]] = "UNSURE"
+    else:
+        data[PARAM_TO_COL["is_trucked"]] = "UNSURE"
 
     return data
 
@@ -315,7 +317,7 @@ def main():
     """Extract all manifests and save to CSV."""
     stems = {}
     for ocr_method in ["llmwhisperer", "tesseract"]:
-        files = [p for p in glob.glob(f"{GDRIVE_BASE}/{YEAR}/{REGION}/**/{ocr_method}_output/**/*.txt", recursive=True)
+        files = [p for p in glob.glob(f"{GDRIVE_BASE}/data/{REGION}/**/{ocr_method}_output/**/*.txt", recursive=True)
                  if not os.path.basename(p).startswith("manifest_")]
         out = {}
         for p in sorted(files):

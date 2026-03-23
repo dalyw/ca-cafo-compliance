@@ -265,7 +265,7 @@ def backfill_columns(df):
 
     # Backfill solids from moisture
     backfill_solids = df[P["manure_solids_percent"]].isna() & df[P["manure_moisture_percent"]].notna()
-    df.loc[backfill_solids, P["manure_solids_percent"]] = 1 - df.loc[backfill_solids, P["manure_moisture_percent"]]
+    df.loc[backfill_solids, P["manure_solids_percent"]] = 100 - df.loc[backfill_solids, P["manure_moisture_percent"]]
     print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
 
     df.drop(columns=[src for _, src in backfill_rules] + [P["manure_density"], P["manure_moisture_percent"]], 
@@ -394,6 +394,7 @@ def save_manifest_type(df, label, specific_cols, compiled_data_dir, suffix=""):
     print(f"Saved {len(df)} rows to {filename}")
 
 
+
 def main():
     # Merge and process manifests
     df = merge_manifests()
@@ -428,32 +429,26 @@ def main():
     wastewater_cols = [c for c in df.columns if c not in SPECIFIC_COLS["manure"]]
     
     df_manure = df.loc[df["Manifest Type"].isin(["manure", "both"]), manure_cols].copy()
+    df_manure[P["is_trucked"]] = True
     df_ww = df.loc[df["Manifest Type"].isin(["wastewater", "both"]), wastewater_cols].copy()
     
     print(f"\nManure + both: {len(df_manure)} rows")
     print(f"Wastewater + both: {len(df_ww)} rows")
     
-    # Calculate distance for wastewater and apply 1-mile rule
+    # Calculate distance for wastewater
     df_ww["origin_dest_miles"] = df_ww.apply(calculate_distance, axis=1)
-    
+
     is_trucked = df_ww[P["is_trucked"]] == True if P["is_trucked"] in df_ww.columns else pd.Series([False]*len(df_ww))
-    is_pipeline = df_ww[P["is_pipeline"]] == True if P["is_pipeline"] in df_ww.columns else pd.Series([False]*len(df_ww))
-    ambiguous = ~(is_trucked | is_pipeline)
-    
-    one_mile_mask = ambiguous & (df_ww["origin_dest_miles"] > 1.0)
-    trucked_or_1mile = is_trucked | one_mile_mask
-    
     df_ww_trucked = df_ww[is_trucked].copy()
-    df_ww_1mile = df_ww[trucked_or_1mile].copy()
-    
+
     # Add haul estimates
-    add_haul_estimates(df_manure, "Manure", P["manure_ton_per_haul"], 
+    add_haul_estimates(df_manure, "Manure", P["manure_ton_per_haul"],
                       P["manure_number_hauls"], P["manure_amount"])
-    add_haul_estimates(df_ww_1mile, "Wastewater", P["wastewater_gallon_per_haul"], 
+    add_haul_estimates(df_ww, "Wastewater", P["wastewater_gallon_per_haul"],
                       P["wastewater_number_hauls"], P["wastewater_amount"])
-    add_haul_estimates(df_ww_trucked, "Wastewater", P["wastewater_gallon_per_haul"], 
+    add_haul_estimates(df_ww_trucked, "Wastewater", P["wastewater_gallon_per_haul"],
                       P["wastewater_number_hauls"], P["wastewater_amount"])
-    
+
     # Print unique wastewater methods
     methods = df_ww[P["wastewater_method"]].dropna().unique()
     print(f"\nUnique 'Method Used for Analysis' values in wastewater manifests ({len(methods)}):")
@@ -462,8 +457,7 @@ def main():
 
     # Save compiled_data
     save_manifest_type(df_manure, "Manure", SPECIFIC_COLS, OUTPUTS_DIR)
-    save_manifest_type(df_ww_1mile, "Wastewater", SPECIFIC_COLS, OUTPUTS_DIR, "_greater_than_1mile")
-    save_manifest_type(df_ww_trucked, "Wastewater", SPECIFIC_COLS, OUTPUTS_DIR, "_truckedonly")
+    save_manifest_type(df_ww, "Wastewater", SPECIFIC_COLS, OUTPUTS_DIR)
 
 
 if __name__ == "__main__":

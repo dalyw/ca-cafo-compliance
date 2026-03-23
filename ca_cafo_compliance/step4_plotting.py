@@ -24,7 +24,7 @@ os.makedirs(FIGURES_DIR, exist_ok=True)
 
 # Load data
 df_manure = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_manure_manifests.csv"))
-df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests_greater_than_1mile.csv"))
+df_ww = pd.read_csv(os.path.join(OUTPUTS_DIR, "processed_wastewater_manifests.csv"))
 extracted_df = pd.read_csv(EXTRACTED_PATH)
 manual_src = pd.read_csv(
     os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv"),
