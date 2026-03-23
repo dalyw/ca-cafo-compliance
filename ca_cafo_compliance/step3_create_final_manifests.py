@@ -263,10 +263,17 @@ def backfill_columns(df):
         df.loc[backfill, mass_col] = df.loc[backfill, vol_col] * df.loc[backfill, P["manure_density"]]
         print(f"  Backfilled {backfill.sum()} mass values for {mass_col}")
 
+    # Remove invalid solids >100%
+    solids_col = P["manure_solids_percent"]
+    invalid_solids = df[solids_col] > 100
+    if invalid_solids.any():
+        print(f"  Nulling {invalid_solids.sum()} invalid {solids_col} values >100: {df.loc[invalid_solids, 'Source PDF'].tolist()}")
+        df.loc[invalid_solids, solids_col] = np.nan
+
     # Backfill solids from moisture
-    backfill_solids = df[P["manure_solids_percent"]].isna() & df[P["manure_moisture_percent"]].notna()
-    df.loc[backfill_solids, P["manure_solids_percent"]] = 100 - df.loc[backfill_solids, P["manure_moisture_percent"]]
-    print(f"  Backfilled {backfill_solids.sum()} values for {P['manure_solids_percent']}")
+    backfill_solids = df[solids_col].isna() & df[P["manure_moisture_percent"]].notna()
+    df.loc[backfill_solids, solids_col] = 100 - df.loc[backfill_solids, P["manure_moisture_percent"]]
+    print(f"  Backfilled {backfill_solids.sum()} values for {solids_col}")
 
     df.drop(columns=[src for _, src in backfill_rules] + [P["manure_density"], P["manure_moisture_percent"]], 
             errors="ignore", inplace=True)
