@@ -1,15 +1,9 @@
-import glob
-import os
 import pandas as pd
 import numpy as np
 import re
 
 GDRIVE_BASE = "/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
 PARAMETERS_DF = pd.read_csv("ca_cafo_compliance/data/parameters.csv")
-YEARS = [2023, 2024]
-REGIONS = sorted(pd.read_csv("ca_cafo_compliance/data/county_region.csv")["region"].unique())
-
-_KEEP_UPPER = {"LLC", "GPM", "INC", "CA", "DBA", "NA", "N/A"}
 
 
 def build_parameter_dicts(manifest_only=False):
@@ -42,6 +36,7 @@ def coerce_columns(df):
 def _smart_title(s):
     """Title-case preserving apostrophes and common abbreviations."""
     result = []
+    _KEEP_UPPER = {"LLC", "GPM", "INC", "CA", "DBA", "NA", "N/A"}
     for word in s.split():
         if word.upper().strip(".,;:()") in _KEEP_UPPER:
             result.append(word.upper())

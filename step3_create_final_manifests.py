@@ -1,14 +1,17 @@
 import os
 import re
+import requests
 import numpy as np
 import pandas as pd
 from geopy.distance import geodesic
+from postal.expand import expand_address
+from postal.parser import parse_address
 
-from helpers_geocoding import enrich_address_columns, geocode_address, geocode_parcel
+from helpers_geocoding import normalize_apn, has_street_level, cache, _arcgis, _google
 from helpers_pdf_metrics import PARAMETERS_DF, GDRIVE_BASE, build_parameter_dicts, coerce_columns
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUTS_DIR = os.path.join(BASE_DIR, "compiled_data")
+OUTPUTS_DIR = os.path.join(BASE_DIR, "output_data")
 
 MANUAL_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_validated.csv")
 EXTRACTED_PATH = os.path.join(OUTPUTS_DIR, "all_manifests_as_written_automatic.csv")
@@ -29,6 +32,26 @@ DEST_TYPE_MAP = {
 }
 
 _COORD_RE = re.compile(r"\s*\(?\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)\s*\)?\s*$")
+_PO_BOX_RE = re.compile(r"\bP\.?O\.?\s*Box\b", re.IGNORECASE)
+_COUNTY_ALIASES = {
+    "tulare_east": "Tulare",
+    "tulare_west": "Tulare",
+    "fresno_madera": "Fresno",
+    "rancho_cordova": "Sacramento",
+}
+_LOCALITY_TAGS = {"city", "state", "postcode", "state_district", "suburb"}
+
+
+ZIP_TO_COUNTY = (
+    pd.read_csv(
+        os.path.join(os.path.dirname(__file__), "data", "zipcode_to_county.csv"),
+        usecols=["zip", "county_name"],
+        dtype=str,
+    )
+    .drop_duplicates(subset="zip")
+    .set_index("zip")["county_name"]
+    .to_dict()
+)
 
 
 def geocode_if_valid(addr, geocode_fn, **kwargs):
@@ -39,6 +62,134 @@ def geocode_if_valid(addr, geocode_fn, **kwargs):
     if isinstance(res, (tuple, list)) and len(res) >= 2 and all(x is not None for x in res[:2]):
         return (res[0], res[1])
     return None
+
+
+def geocode_parcel(parcel_number):
+    apn = normalize_apn(parcel_number)
+    if not apn:
+        return None, None
+
+    if apn in cache:
+        return cache[apn]
+
+    r = requests.get(
+        "https://gis.water.ca.gov/arcgis/rest/services/Location/Geocoding_Parcels_APN_TaxAPN/"
+        "GeocodeServer/findAddressCandidates",
+        params={"SingleLine": apn, "f": "json", "outFields": "*"},
+        timeout=15,
+    )
+    r.raise_for_status()
+    candidates = r.json().get("candidates") or []
+    
+    if not candidates:
+        cache[apn] = (None, None, {"source": "dwr_parcel"})
+        return cache[apn]
+
+    loc = candidates[0].get("location") or {}
+    lat, lng = loc.get("y"), loc.get("x")
+    address = candidates[0].get("address")
+    if isinstance(address, dict):
+        address = address.get("Match_addr") or ""
+
+    result = (
+        (lat, lng, {"source": "dwr_parcel"})
+        if lat and lng and has_street_level(address or "")
+        else (None, None, {"source": "dwr_parcel"})
+    )
+    cache[apn] = result
+    return result
+
+
+def norm_addr(s: str) -> str | None:
+    if not isinstance(s, str) or not (s := s.replace(": ", " ").strip().lower()):
+        return None
+    if _PO_BOX_RE.search(s):
+        return None
+    exps = expand_address(s, languages=["en"])
+    return exps[0] if exps else s
+
+
+def has_street_level(s: str) -> bool:
+    return (
+        isinstance(s, str)
+        and s.strip()
+        and any(t in {"house_number", "road"} for _, t in parse_address(s))
+    )
+
+
+def _normalize_county(county: str | None) -> str | None:
+    if not county:
+        return None
+    c = county.strip().lower()
+    return _COUNTY_ALIASES.get(c, county.strip().title())
+
+
+def geocode_address(address: str, county: str | None = None):
+    na = norm_addr(address)
+    if not na:
+        return None, None, None
+
+    key = (na, (county or "").strip().lower())
+    if key in cache:
+        return cache[key]
+
+    if not county and not {t for _, t in parse_address(na)} & _LOCALITY_TAGS:
+        return None, None, None
+
+    county_name = _normalize_county(county)
+    q = f"{address}, {county_name} County, CA" if county_name else f"{address}, CA"
+
+    loc = _arcgis(q)
+    source = "arcgis"
+    street = loc and loc.address and has_street_level(loc.address)
+
+    if _google and not street:
+        g = _google(q, components={"country": "US", "administrative_area": "CA"})
+        if g and g.address:
+            loc, source = g, "google"
+            street = has_street_level(g.address)
+
+    if not loc or not loc.address:
+        result = (None, None, {"source": "all_failed"})
+    elif not street:
+        result = (None, None, {"address": loc.address, "source": source})
+    else:
+        result = (loc.latitude, loc.longitude, {"address": loc.address, "source": source})
+
+    cache[key] = result
+    return result
+
+
+def county_from_zip(zip_code: str) -> str | None:
+    z = str(zip_code).strip() if zip_code is not None else ""
+    return ZIP_TO_COUNTY.get(z)
+
+
+def enrich_address_columns(
+    df: pd.DataFrame, address_col: str, prefix="", county_col_in: str | None = None
+):
+    lat_col, lng_col = f"{prefix}Latitude", f"{prefix}Longitude"
+    city_col, zip_col, county_col = f"{prefix}City", f"{prefix}Zip", f"{prefix}County"
+
+    def enrich_one(row):
+        addr = row[address_col]
+        county = row.get(county_col_in) if county_col_in else None
+        lat, lng, meta = geocode_address(addr, county=county)
+        if lat is None:
+            return pd.Series([None] * 5, index=[lat_col, lng_col, city_col, zip_col, county_col])
+
+        parts = [(meta or {}).get("address") or ""]
+        parts = [p.strip() for p in parts[0].split(",")]
+        city = parts[-3] if len(parts) >= 3 else None
+        zip_code = parts[-1].split()[-1] if parts else None
+
+        return pd.Series(
+            [lat, lng, city, zip_code, county_from_zip(zip_code)],
+            index=[lat_col, lng_col, city_col, zip_col, county_col],
+        )
+
+    df[[lat_col, lng_col, city_col, zip_col, county_col]] = df.apply(enrich_one, axis=1)
+    return df
 
 
 def weighted_avg(df, val_col, weight_col):
@@ -376,7 +527,7 @@ def calculate_distance(row):
         return np.nan
 
 
-def save_manifest_type(df, label, specific_cols, compiled_data_dir, suffix=""):
+def save_manifest_type(df, label, specific_cols, output_data_dir, suffix=""):
     """Save processed manifest CSV with correct column ordering."""
     param_order = PARAMETERS_DF["parameter_name"].tolist()
     type_qty_cols = [
@@ -397,7 +548,7 @@ def save_manifest_type(df, label, specific_cols, compiled_data_dir, suffix=""):
             cols.append(c)
     
     filename = f"processed_{label.lower()}_manifests{suffix}.csv"
-    df[cols].to_csv(os.path.join(compiled_data_dir, filename), index=False)
+    df[cols].to_csv(os.path.join(output_data_dir, filename), index=False)
     print(f"Saved {len(df)} rows to {filename}")
 
 
@@ -462,7 +613,7 @@ def main():
     for m in methods:
         print(f"  {m}")
 
-    # Save compiled_data
+    # Save output_data
     save_manifest_type(df_manure, "Manure", SPECIFIC_COLS, OUTPUTS_DIR)
     save_manifest_type(df_ww, "Wastewater", SPECIFIC_COLS, OUTPUTS_DIR)
 

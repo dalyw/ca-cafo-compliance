@@ -13,7 +13,7 @@ from helpers_pdf_metrics import (
     extract_parameters_from_text,
 )
 from helpers_geocoding import (
-    parse_destination_address_and_parcel, strip_phone_number, split_apn_county,
+    normalize_apn
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -170,6 +170,65 @@ def _split_haul_dates(data):
         fmt = lambda d: f"{d.month}/{d.day}/{d.year}"
         data[PARAM_TO_COL["haul_date_first"]] = fmt(parsed[0]) if len(parsed) > 1 else None
         data[PARAM_TO_COL["haul_date_last"]] = fmt(parsed[-1])
+
+
+
+def strip_trailing_pattern(text, regex):
+    if not isinstance(text, str) or not text.strip():
+        return text, None
+    matches = list(regex.finditer(text))
+    if not matches:
+        return text, None
+    m = matches[-1]
+    before = " ".join(filter(None, [text[: m.start()].strip(), text[m.end() :].strip()])).strip()
+    return (before or None), m.group(0)
+
+
+
+def strip_phone_number(text):
+    _PHONE_RE = re.compile(r"\(?\d{3}\)?[\s\-\.]?\d{3,4}[\s\-\.]?\d{4}")
+    cleaned, _ = strip_trailing_pattern(text, _PHONE_RE)
+    return cleaned
+
+
+def looks_like_parcel_number(text):
+    if not isinstance(text, str) or not (s := text.strip()) or len(s) < 3:
+        return False
+    return (
+        (("-" in s) or ("." in s))
+        and bool(re.fullmatch(r"[\d\s.\-]+", s))
+        and bool(re.search(r"\d+\s*[.\-]\s*\d+", s))
+    )
+
+
+def parse_destination_address_and_parcel(value):
+    if not isinstance(value, str) or not (s := value.strip()):
+        return None, None
+
+    if looks_like_parcel_number(s):
+        return None, re.sub(r"\s+", "", s)
+
+    _PARCEL_RE = re.compile(
+        r"(?:\(?\d*\)?\s*[Xx]?\s*)?([\dXx]{2,}\s*[.\-]\s*[\dXx]{2,}(?:\s*[.\-]\s*[\dXx]+)*)",
+        re.IGNORECASE,
+    )
+
+    matches = list(_PARCEL_RE.finditer(s))
+    if not matches:
+        return s, None
+
+    m = matches[-1]
+    rest = " ".join(filter(None, [s[: m.start()].strip(), s[m.end() :].strip()])).strip()
+    parcel = re.sub(r"\s+", "", m.group(1))
+    address = rest if (rest and len(rest) >= 5 and re.search(r"[A-Za-z]", rest)) else None
+    return address, parcel
+
+
+def split_apn_county(parcel_text):
+    if not isinstance(parcel_text, str) or not parcel_text.strip():
+        return None, None
+    m = re.match(r"([\d\s.\-Xx]+)\s+([A-Za-z].*)$", parcel_text.strip())
+    return (normalize_apn(m.group(1)), m.group(2).strip()) if m else (normalize_apn(parcel_text), None)
 
 
 def extract_manifest_fields(manifest_text, template):
@@ -338,7 +397,7 @@ def main():
     df = pd.DataFrame(all_manifests)
     print(df.head())
     
-    out_csv = "ca_cafo_compliance/compiled_data/all_manifests_as_written_automatic.csv"
+    out_csv = "ca_cafo_compliance/output_data/all_manifests_as_written_automatic.csv"
     os.makedirs(os.path.dirname(out_csv), exist_ok=True)
     coerce_columns(df)
 
@@ -367,7 +426,7 @@ def main():
 
 def identify_files_to_delete():
     """Generate delete lists for cleanup."""
-    OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "compiled_data")
+    OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output_data")
     os.makedirs(OUT_DIR, exist_ok=True)
 
     g = lambda pat: [p for p in glob.glob(os.path.join(GDRIVE_BASE, pat), recursive=True) if "all_manifests" not in p]

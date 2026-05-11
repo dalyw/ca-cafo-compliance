@@ -2,7 +2,7 @@ import csv
 import os
 import pandas as pd
 from pathlib import Path
-from ca_cafo_compliance.helpers_pdf_metrics import GDRIVE_BASE
+from helpers_pdf_metrics import GDRIVE_BASE
 
 BASE_DIR = Path(GDRIVE_BASE)
 LOCAL_BASE_DIR = Path(__file__).resolve().parent
@@ -62,23 +62,15 @@ def get_files_by_template(year, output_path, gdrive_output_path):
     return files_list
 
 
-# Get all 2023 files by template and save to CSV
-output_path_2023 = LOCAL_BASE_DIR / "compiled_data" / "2023_files_by_template.csv"
-output_path_2024 = LOCAL_BASE_DIR / "compiled_data" / "2024_files_by_template.csv"
-gdrive_output_path_2023 = os.path.join(GDRIVE_BASE, "2023_files_by_template.csv")
+# Get all files by template and save to CSV
+output_path_2024 = LOCAL_BASE_DIR / "output_data" / "2024_files_by_template.csv"
 gdrive_output_path_2024 = os.path.join(GDRIVE_BASE, "2024_files_by_template.csv")
-
-files_2023 = get_files_by_template(2023, output_path_2023, gdrive_output_path_2023)
 files_2024 = get_files_by_template(2024, output_path_2024, gdrive_output_path_2024)
-print(
-    f"{sum(file['manifest_count'] for file in files_2023)} manifests from {len(files_2023)} files in 2023"
-)
+files_2024_df = pd.DataFrame(files_2024)
 print(
     f"{sum(file['manifest_count'] for file in files_2024)} manifests from {len(files_2024)} files in 2024"
 )
 
-# Convert files_2024 list to DataFrame for easier lookup
-files_2024_df = pd.DataFrame(files_2024)
 
 # load "2024_files_by_template_manual.csv"
 # update the manifest_count to match the CURRENT counts
@@ -91,27 +83,18 @@ for index, row in manual_counts.iterrows():
         manual_counts.at[index, "manifest_count"] = matching_rows["manifest_count"].values[0]
 manual_counts.to_csv(gdrive_manual_counts_path, index=False)
 
-# Print rows of manual_counts where manifest_count ~= manual_count
-print(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
-# save this as a separate csv for what needs to be manually adjusted
+# Save rows of manual_counts where manifest_count ~= manual_count
+# iterate on the manual file until issues resolve
 manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]].to_csv(
-    LOCAL_BASE_DIR / "compiled_data" / "2024_files_by_template_manual_discrepancies.csv",
+    LOCAL_BASE_DIR / "output_data" / "2024_files_by_template_manual_discrepancies.csv",
     index=False,
 )
 
 # Count total facilities with manifests in manual and auto.
 # Print of facilities with the wrong number of manifests flagged in auto
-manual_counts["manifest_count"] != manual_counts["manual_count"]
-print(
-    f"Total facilities with the wrong number of manifests flagged in auto: {len(manual_counts[manual_counts['manifest_count'] != manual_counts['manual_count']])}"
-)
-# give as %
-percent_wrong = (
-    len(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
-    / len(manual_counts)
-    * 100
-)
-print(f"Facilities wit % wrong {percent_wrong}%")
+len_wrong_count = len(manual_counts[manual_counts['manifest_count'] != manual_counts['manual_count']])
+percent_wrong = len_wrong_count / len(manual_counts) * 100
+print(f"{len_wrong_count} ({percent_wrong}%)facilities with the wrong manifest count: ")
 
 # total manifest counts for manual and auto
 auto_count = manual_counts["manifest_count"].sum()
@@ -135,7 +118,5 @@ print(f" manual count {manual_count_total}")
 print(f" auto count {auto_count}")
 print(f"Missing {missing_count} ({percent_missing:.2f}%)")
 print(f"False positives {false_positive_count} ({percent_false_positives:.2f}%)")
-
-# print min and max of manual_counts['manual_count']
 print(f"Min manual count {manual_counts['manual_count'].min()}")
 print(f"Max manual count {manual_counts['manual_count'].max()}")

@@ -14,7 +14,7 @@ from PIL import Image
 import io
 from pdf2image import convert_from_path
 from dotenv import load_dotenv
-from helpers_pdf_metrics import YEARS, REGIONS, GDRIVE_BASE
+from helpers_pdf_metrics import GDRIVE_BASE
 
 load_dotenv()
 
@@ -353,36 +353,9 @@ def process_and_save_pdf_text(pdf_path, process_only_manifests=False, override_m
     print(f"  Extraction complete via {final_method}")
 
 
-
-def gather_all_pdf_files(years=None, regions=REGIONS):
-    """Collect all PDF files from data directory."""
-    pdf_files = []
-    for year in (years or YEARS):
-        for region in regions:
-            region_path = os.path.join(GDRIVE_BASE, str(year), region)
-            if not os.path.exists(region_path):
-                continue
-
-            for county in os.listdir(region_path):
-                county_path = os.path.join(region_path, county)
-                if not os.path.isdir(county_path):
-                    continue
-
-                print(f" Collecting PDFs for {county}")
-                for template in os.listdir(county_path):
-                    folder_path = os.path.join(county_path, template, "original")
-                    if os.path.exists(folder_path):
-                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
-                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
-                print(f" Collected {len(pdf_files)} PDFs")
-
-    return pdf_files
-
-
-
 def recover_missing_manifest_pages():
     """Process missing pages identified in manual discrepancy file."""
-    df = pd.read_csv(os.path.join(REPO_BASE_DIR, "compiled_data", "2024_files_by_template_manual_discrepancies.csv"))
+    df = pd.read_csv(os.path.join(REPO_BASE_DIR, "output_data", "2024_files_by_template_manual_discrepancies.csv"))
 
     missing_rows = df[
         (df["notes"].str.contains("missing", case=False, na=False))
@@ -411,7 +384,25 @@ def main(test_mode=TEST_MODE, process_only_manifests=False, process_missing_page
         recover_missing_manifest_pages()
         return
 
-    pdf_files = gather_all_pdf_files([2024], ["R5"])
+    pdf_files = []
+    for year in [2024]:
+        for region in ["R5"]:
+            region_path = os.path.join(GDRIVE_BASE, str(year), region)
+            if not os.path.exists(region_path):
+                continue
+
+            for county in os.listdir(region_path):
+                county_path = os.path.join(region_path, county)
+                if not os.path.isdir(county_path):
+                    continue
+
+                print(f" Collecting PDFs for {county}")
+                for template in os.listdir(county_path):
+                    folder_path = os.path.join(county_path, template, "original")
+                    if os.path.exists(folder_path):
+                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.pdf")))
+                        pdf_files.extend(glob.glob(os.path.join(folder_path, "*.PDF")))
+                print(f" Collected {len(pdf_files)} PDFs")
     files_to_process = [f for f in pdf_files if not pdf_already_processed(f)]
     print(f"{len(files_to_process)} of {len(pdf_files)} remaining")
 
