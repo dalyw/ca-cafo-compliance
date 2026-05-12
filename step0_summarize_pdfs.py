@@ -2,70 +2,64 @@ import csv
 import os
 import pandas as pd
 from pathlib import Path
-from helpers_pdf_metrics import GDRIVE_BASE
+from helpers import PATH_TO_PDF_DATA
 
-BASE_DIR = Path(GDRIVE_BASE)
+BASE_DIR = Path(PATH_TO_PDF_DATA)
 LOCAL_BASE_DIR = Path(__file__).resolve().parent
 REGION = "R5"
 COUNTIES = ["fresno_madera", "kern", "kings", "tulare_west", "tulare_east", "rancho_cordova"]
 
 
-def get_files_by_template(year, output_path, gdrive_output_path):
+def get_files_by_template(output_path, gdrive_output_path):
     """Returns a list of dicts with county, template, and filename"""
     files_list = []
-    year_dir = BASE_DIR / str(year) / REGION
-    # data is structured under Manure Trucking Network Analysis/year/region/county/template
+    # data is structured under Manure Trucking Network Analysis/data/region/county/template
     for county in COUNTIES:
-        county_dir = year_dir / county
-        if county_dir.exists():  # Each subdirectory in county (except . files) is a template
-            for template_dir in county_dir.iterdir():
-                if template_dir.name.startswith(".") or not template_dir.is_dir():
+        county_dir = BASE_DIR / REGION / county
+        for template_dir in county_dir.iterdir():
+            if template_dir.name.startswith(".") or not template_dir.is_dir():
+                continue
+
+            # PDFs are in the 'original' folder
+            original_dir = template_dir / "original"
+            tesseract_dir = template_dir / "tesseract_output"
+            llmwhisperer_dir = template_dir / "llmwhisperer_output"
+            for pdf_file in original_dir.iterdir():
+                if pdf_file.suffix.lower() != ".pdf":
                     continue
+                file_data = {
+                    "county": county,
+                    "template": template_dir.name,
+                    "filename": pdf_file.name,
+                }
+                # count number of manifest_{#}.txt files by checking llmwhisperer then tesseract
+                manifest_count = 0
+                for dir_path in [llmwhisperer_dir, tesseract_dir]:
+                    facility_dir = dir_path / pdf_file.stem
+                    if facility_dir.exists():
+                        count = len(list(facility_dir.glob("manifest_*.txt")))
+                        if count > 0:
+                            manifest_count = count
+                            break
+                file_data["manifest_count"] = manifest_count
+                files_list.append(file_data)
 
-                # PDFs are in the 'original' folder
-                original_dir = template_dir / "original"
-                tesseract_dir = template_dir / "tesseract_output"
-                # fitz_dir = template_dir / "fitz_output"
-                llmwhisperer_dir = template_dir / "llmwhisperer_output"
-                if original_dir.exists():
-                    for pdf_file in original_dir.iterdir():
-                        if pdf_file.suffix.lower() == ".pdf":
-                            file_data = {
-                                "county": county,
-                                "template": template_dir.name,
-                                "filename": pdf_file.name,
-                            }
-                        # count number of manifest_{#}.txt files by checking llmwhisperer then tesseract
-                        manifest_count = 0
-                        for dir_path in [llmwhisperer_dir, tesseract_dir]:
-                            facility_dir = dir_path / pdf_file.stem
-                            if facility_dir.exists():
-                                count = len(list(facility_dir.glob("manifest_*.txt")))
-                                if count > 0:
-                                    manifest_count = count
-                                    break
-                        file_data["manifest_count"] = manifest_count
-                        files_list.append(file_data)
-
-    # Save files to csv
-    with open(output_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["county", "template", "filename", "manifest_count"])
-        writer.writeheader()
-        writer.writerows(files_list)
-
-    # save to gdrive BASE_DIR
-    with open(gdrive_output_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["county", "template", "filename", "manifest_count"])
-        writer.writeheader()
-        writer.writerows(files_list)
+    # Save files to csv (local and gdrive)
+    for path in [output_path, gdrive_output_path]:
+        with open(path, "w", newline="") as f:
+            writer = csv.DictWriter(
+                f, fieldnames=["county", "template", "filename", "manifest_count"]
+            )
+            writer.writeheader()
+            writer.writerows(files_list)
 
     return files_list
 
 
 # Get all files by template and save to CSV
 output_path_2024 = LOCAL_BASE_DIR / "output_data" / "2024_files_by_template.csv"
-gdrive_output_path_2024 = os.path.join(GDRIVE_BASE, "2024_files_by_template.csv")
-files_2024 = get_files_by_template(2024, output_path_2024, gdrive_output_path_2024)
+gdrive_output_path_2024 = os.path.join(PATH_TO_PDF_DATA, "2024_files_by_template.csv")
+files_2024 = get_files_by_template(output_path_2024, gdrive_output_path_2024)
 files_2024_df = pd.DataFrame(files_2024)
 print(
     f"{sum(file['manifest_count'] for file in files_2024)} manifests from {len(files_2024)} files in 2024"
@@ -74,7 +68,7 @@ print(
 
 # load "2024_files_by_template_manual.csv"
 # update the manifest_count to match the CURRENT counts
-gdrive_manual_counts_path = os.path.join(GDRIVE_BASE, "2024_files_by_template_manual.csv")
+gdrive_manual_counts_path = os.path.join(PATH_TO_PDF_DATA, "2024_files_by_template_manual.csv")
 manual_counts = pd.read_csv(gdrive_manual_counts_path)
 for index, row in manual_counts.iterrows():
     # update manifest_count in manual_counts to match files_2024 for that manifest
@@ -92,9 +86,9 @@ manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]].
 
 # Count total facilities with manifests in manual and auto.
 # Print of facilities with the wrong number of manifests flagged in auto
-len_wrong_count = len(manual_counts[manual_counts['manifest_count'] != manual_counts['manual_count']])
-percent_wrong = len_wrong_count / len(manual_counts) * 100
-print(f"{len_wrong_count} ({percent_wrong}%)facilities with the wrong manifest count: ")
+wrong_count = len(manual_counts[manual_counts["manifest_count"] != manual_counts["manual_count"]])
+percent_wrong = wrong_count / len(manual_counts) * 100
+print(f"{wrong_count} ({percent_wrong}%)facilities with the wrong manifest count: ")
 
 # total manifest counts for manual and auto
 auto_count = manual_counts["manifest_count"].sum()

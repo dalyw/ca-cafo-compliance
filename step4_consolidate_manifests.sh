@@ -1,7 +1,7 @@
 #!/bin/bash
 # for saving JUST the manifest .txt files and .pdfs into separate folder
 
-BASE_DIR="/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis"
+BASE_DIR="/Users/dalywettermark/Library/CloudStorage/GoogleDrive-dalyw@stanford.edu/My Drive/Manure Trucking Network Analysis/data"
 OUTPUT_BASE="$BASE_DIR/all_manifests"
 
 # Find all template directories
@@ -10,21 +10,16 @@ find "$BASE_DIR" -type d -name "original" | while read -r original_dir; do
     template_dir=$(dirname "$original_dir")
     county_dir=$(dirname "$template_dir")
     region_dir=$(dirname "$county_dir")
-    year_dir=$(dirname "$region_dir")
     
     county=$(basename "$county_dir")
     region=$(basename "$region_dir")
-    year=$(basename "$year_dir")
     template=$(basename "$template_dir")
-    
-    # Skip if year is not a number (avoid processing all_manifests itself)
-    [[ ! "$year" =~ ^[0-9]+$ ]] && continue
-    
+
     # Create output directory (no template subfolder)
-    output_dir="$OUTPUT_BASE/$year/$region/$county"
+    output_dir="$OUTPUT_BASE/$region/$county"
     mkdir -p "$output_dir"
     
-    echo "Processing: $year/$region/$county/$template"
+    echo "Processing: $region/$county/$template"
     
     # Process each PDF in original folder (case-insensitive)
     find "$original_dir" -type f \( -name "*.pdf" -o -name "*.PDF" \) | while read -r pdf_file; do
