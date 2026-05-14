@@ -1,0 +1,43 @@
+error,correct,cs
+6pm,GPM,False
+galions,Gallons,False
+galons,Gallons,False
+gailons,Gallons,False
+pek load,per load,False
+ pek , per ,False
+jons,tons,False
+ tous, tons,False
+ tong, tons,False
+waste water,wastewater,False
+havler,hauler,False
+hayler,hauler,False
+haulers calcs,Hauler's Calculations,False
+haulers calculations,Hauler's Calculations,False
+hauler's calculations,Hauler's Calculations,False
+arriount,amount,False
+|,I,True
+0O,O,True
+1I,I,True
+S5,S,True
+Ibs,lbs,True
+/bs,lbs,True
+©,,True
+; ,,True
+Maxiumu,Maximum,True
+FaciIity,Facility,True
+CattIe,Cattle,True
+KjeIdahl,Kjeldahl,True
+Sroker,Broker,True
+ I Broker,Broker,True
+ I Composting Facility ,Composting Facility,True
+HauIing,Hauling,True
+Solide,Solids,True
+ Doing, Dairy,True
+Daing,Dairy,True
+Dainy,Dairy,True
+Daire,Dairy,True
+Cubie,Cubic,True
+[], ,True
+[X], ,True
+> , ,True
+[ ] , ,True

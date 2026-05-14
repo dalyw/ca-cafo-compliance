@@ -43,13 +43,10 @@ If using the LLMWhisperer fallback in step 1, set up `LLMWHISPERER_API_KEY` in y
 
 Run the scripts from the repository root.
 
-1. [step0_summarize_pdfs.py]
+1. [step1_pdf_ocr.py](step1_pdf_ocr.py) extracts text from PDFs in `PATH_TO_PDF_DATA/R5/.../original/`. It saves OCR output under each PDF directory in `tesseract_output/` and, when needed, `llmwhisperer_output/`. It also scans the Region 5 folder, counts manifest text files for each PDF, and writes [output_data/2024_files_by_template.csv](output_data/2024_files_by_template.csv) with per-file manifest counts and start pages. It compares against the validated [output_data/2024_files_by_template_manual.csv](output_data/2024_files_by_template_manual.csv) and prints detection accuracy stats (missing manifests and false positives).
 ```bash
 python step1_pdf_ocr.py
 ```
-(step0_summarize_pdfs.py) scans the Region 5 folder, counts manifest text files for each PDF, writes [output_data/2024_files_by_template.csv](output_data/2024_files_by_template.csv), updates the Google Drive copy of `2024_files_by_template_manual.csv`, and writes [output_data/2024_files_by_template_manual_discrepancies.csv](output_data/2024_files_by_template_manual_discrepancies.csv).
-
-2. [step1_pdf_ocr.py](step1_pdf_ocr.py) extracts text from PDFs in `PATH_TO_PDF_DATA/R5/.../original/`. It saves OCR output under each PDF directory in `fitz_output/`, `tesseract_output/`, and, when needed, `llmwhisperer_output/`. It also supports a recovery mode that reprocesses missing pages listed in [output_data/2024_files_by_template_manual_discrepancies.csv](output_data/2024_files_by_template_manual_discrepancies.csv).
 
 3. [step2_extract_manifest_parameters.py](step2_extract_manifest_parameters.py) reads OCR text files, identifies manifest page ranges, extracts fields, writes per-manifest text and PDF files next to each source OCR file, and saves [output_data/all_manifests_as_written_automatic.csv](output_data/all_manifests_as_written_automatic.csv).
 

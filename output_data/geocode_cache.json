@@ -9764,5 +9764,340 @@
       "address": "13255 Avenue 212, Tulare, California, 93274",
       "source": "arcgis"
     }
+  ],
+  "232-160-003": [
+    36.06036,
+    -119.23685,
+    {
+      "source": "dwr_parcel"
+    }
+  ],
+  "fresno 93706 brawley and lincoln avenues fresno stanislaus|stanislaus": [
+    36.64855,
+    -119.86249,
+    {
+      "address": "S Brawley Ave & W Lincoln Ave, Fresno, California, 93706",
+      "source": "arcgis"
+    }
+  ],
+  "fresno 93706 san hughes fresno stanislaus|stanislaus": [
+    null,
+    null,
+    {
+      "address": "Stanislaus County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "fresno 93706 san madera and lincoln avenues fresno merced|merced": [
+    36.64745,
+    -120.06113,
+    {
+      "address": "S Madera Ave & W Lincoln Ave, Kerman, California, 93630",
+      "source": "arcgis"
+    }
+  ],
+  "riverdale 93656 stockpile fresno sacramento|sacramento": [
+    null,
+    null,
+    {
+      "address": "Fresno County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "satragni brothers ranch 2200w shields kerman 93630|merced": [
+    36.77649,
+    -120.18633,
+    {
+      "address": "22000 W Shields Ave, Kerman, CA 93630, USA",
+      "source": "google"
+    }
+  ],
+  "6465 state highway 152 dos palos 93620 state highway merced merced|merced": [
+    37.04713,
+    -120.60779,
+    {
+      "address": "6465 State Highway 152, Dos Palos, California, 93620",
+      "source": "arcgis"
+    }
+  ],
+  "6219 east panam lane bakersfield california merced|merced": [
+    35.29234,
+    -118.93435,
+    {
+      "address": "6219 E Panama Ln, Bakersfield, CA 93307, USA",
+      "source": "google"
+    }
+  ],
+  "13214 eberle road bakersfield california merced|merced": [
+    35.23498,
+    -119.08287,
+    {
+      "address": "13214 Eberle Rd, Bakersfield, CA 93313, USA",
+      "source": "google"
+    }
+  ],
+  "13214 eberle road bakersfield california glenn|glenn": [
+    35.23495,
+    -119.08282,
+    {
+      "address": "13214 Eberle Rd, Bakersfield, California, 93313",
+      "source": "arcgis"
+    }
+  ],
+  "west of lander avenue on fowler road turlock 95380 fresno|fresno": [
+    37.48435,
+    -120.84896,
+    {
+      "address": "Lander Ave, Turlock, CA, USA",
+      "source": "google"
+    }
+  ],
+  "atwater 95301 gurr road keith moss land merced madera|madera": [
+    null,
+    null,
+    {
+      "address": "Merced County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "hilmar 95324 central and williams merced merced|merced": [
+    null,
+    null,
+    {
+      "address": "Merced, CA, USA",
+      "source": "google"
+    }
+  ],
+  "19075 3rd avenue stevinson 95374 stanislaus|stanislaus": [
+    37.32573,
+    -120.83453,
+    {
+      "address": "19075 Third Ave, Stevinson, California, 95374",
+      "source": "arcgis"
+    }
+  ],
+  "5922 lander avenue hilmar 95324 stanislaus|stanislaus": [
+    37.37422,
+    -120.84883,
+    {
+      "address": "5922 Lander Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "2324 villa manucha road newman 95360 stanislaus|stanislaus": [
+    37.36526,
+    -121.02201,
+    {
+      "address": "2324 Villa Manucha Rd, Newman, California, 95360",
+      "source": "arcgis"
+    }
+  ],
+  "atwater 95301 oak avenue merced stanislaus|stanislaus": [
+    null,
+    null,
+    {
+      "address": "Stanislaus County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "3509 finney road modesto 95358 merced|merced": [
+    37.69045,
+    -121.08651,
+    {
+      "address": "3509 Finney Rd, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "3642 finney road modesto 95358 merced|merced": [
+    37.69152,
+    -121.0861,
+    {
+      "address": "3642 Finney Rd, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "5425 stoddard road modesto 95356 merced|merced": [
+    37.7176,
+    -121.06882,
+    {
+      "address": "5425 Stoddard Rd, Modesto, California, 95356",
+      "source": "arcgis"
+    }
+  ],
+  "hilmar 95324 tegner road merced stanislaus|stanislaus": [
+    null,
+    null,
+    {
+      "address": "Hilmar, CA 95324, USA",
+      "source": "google"
+    }
+  ],
+  "chowchilla 93610 road 8 and avenue 14 madera san joaquin|san joaquin": [
+    null,
+    null,
+    {
+      "address": "San Joaquin County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "750 east avenue gustine 95322 tehama|tehama": [
+    37.25281,
+    -120.99412,
+    {
+      "address": "750 East Ave, Gustine, California, 95322",
+      "source": "arcgis"
+    }
+  ],
+  "400 north central avenue turlock 95380 glenn|glenn": [
+    37.49569,
+    -120.95806,
+    {
+      "address": "400 N Central Ave, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "5230 patterson road oakdale california 95361|merced": [
+    37.72886,
+    -120.9009,
+    {
+      "address": "5230 Patterson Rd, Oakdale, California, 95361",
+      "source": "arcgis"
+    }
+  ],
+  "400 north central avenue turlock 95380 merced|merced": [
+    37.49569,
+    -120.95802,
+    {
+      "address": "400 N Central Ave, Turlock, CA 95380, USA",
+      "source": "google"
+    }
+  ],
+  "13625 coyote road el nido 95317 madera merced|merced": [
+    37.09065,
+    -120.51058,
+    {
+      "address": "13625 Coyote Rd, El Nido, California, 95317",
+      "source": "arcgis"
+    }
+  ],
+  "12686 locke road lockford california 95237 merced|merced": [
+    38.1541,
+    -121.16134,
+    {
+      "address": "12686 Locke Rd, Lockeford, California, 95237",
+      "source": "arcgis"
+    }
+  ],
+  "23204 bloss avenue hilmar california 95324 stanislaus|stanislaus": [
+    37.40494,
+    -120.90851,
+    {
+      "address": "23204 Bloss Ave, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "14982 road 152 tipton california 93272|merced": [
+    36.06046,
+    -119.22791,
+    {
+      "address": "14982 Road 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "23004 road 140 tulare 93274 merced|merced": [
+    36.20773,
+    -119.26003,
+    {
+      "address": "23004 Road 140, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "road 148 & avenue 248 tulare 93274 merced|merced": [
+    36.24005,
+    -119.24247,
+    {
+      "address": "Road 148 & Avenue 248, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "14982 road 152 tipton california 93272|stanislaus": [
+    36.06046,
+    -119.22791,
+    {
+      "address": "14982 Road 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "1443 windsong doctor tulare 93274|merced": [
+    36.19254,
+    -119.30183,
+    {
+      "address": "1443 Windsong Dr, Tulare, California, 93274",
+      "source": "arcgis"
+    }
+  ],
+  "7559 avenue 152 tipton 93272 stanislaus|stanislaus": [
+    36.0652,
+    -119.4027,
+    {
+      "address": "7559 Avenue 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "7559 avenue 152 tipton 93272 merced|merced": [
+    36.0652,
+    -119.4027,
+    {
+      "address": "7559 Avenue 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "9257 avenue 416 dinuba 93618 tulare stanislaus|stanislaus": [
+    36.54545,
+    -119.3664,
+    {
+      "address": "9257 Avenue 416, Dinuba, California, 93618",
+      "source": "arcgis"
+    }
+  ],
+  "dinuba 93618 sawtooth ranch avenue 368 & road 60 tulare merced|merced": [
+    null,
+    null,
+    {
+      "address": "Tulare County, CA, USA",
+      "source": "google"
+    }
+  ],
+  "visalia 92391 composting facility tulare merced|merced": [
+    null,
+    null,
+    {
+      "address": "Merced, CA, USA",
+      "source": "google"
+    }
+  ],
+  "7559 avenue 152 tipton 93274 merced|merced": [
+    36.06544,
+    -119.40916,
+    {
+      "address": "7559 Avenue 152, Tipton, California, 93272",
+      "source": "arcgis"
+    }
+  ],
+  "mark heuer|sacramento": [
+    38.41805,
+    -121.37561,
+    {
+      "address": "Mark St, Elk Grove, California, 95624",
+      "source": "arcgis"
+    }
+  ],
+  "23530 east kings canyon road reedley california 93654 merced|merced": [
+    36.7269,
+    -119.3642,
+    {
+      "address": "23530 E Kings Canyon Rd, Reedley, California, 93654",
+      "source": "arcgis"
+    }
   ]
 }
