@@ -1,0 +1,183 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: GJC Dairy #1
+
+Physical address of dairy:
+
+2401 Newman RD                                                                            Turlock                      Stanislaus                95380
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 11/01/1985
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X058-X014-X018-XXXX
+
+B. OPERATORS
+
+Vieira, Jim
+Operator name: Vieira, Jim                                                                                                               Telephone no.: (209) 668-2244 (209) 652-6980
+Landline              Cellular
+P.O. Box 2397                                                                                                         Turlock                           CA               95381
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Vieira, Jim
+Legal owner name: Vieira, Jim                                                                                                           Telephone no.: (209) 668-2244 (209) 652-6980
+Landline              Cellular
+P.O. Box 2397                                                                                                         Turlock                           CA               95381
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+GJC Dairy #1 | 2401 Newman RD | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+05/09/2025 08:50:32                                                                                                                                                              Page 1 of 68
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                      50                    250                       0                       0
+Number under roof                                    600                       96                         0                         0                      150                         0
+Maximum number                            600                  96                  50                250                 150                   0
+Average number                                 600                    96                    50                  250                   150                     0
+Avg live weight (Ibs)                           1,400                1,450                  900                  600
+Predominant milk cow breed: Holstein
+Average milk production:                          73 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         20,372.98 tons per reporting period
+Total nitrogen from manure:                 258,350.96 /bs per reporting period      After ammonia losses (30% loss applied):       180,845.67 /bs per reporting period
+Total phosphorus from manure:              42,362.97 Ibs per reporting period
+Total potassium from manure:              116,406.19 /bs per reporting period
+Total salt from manure:                       305,419.68 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:         5,386,000 gallons               5,386,000 gallons applied
+Total nitrogen generated:               51,527.44 lbs           +               0 gallons exported
+Total phosphorus generated:           11,414.06 /bs           .               0 gallons imported
+Total potassium generated:            56,532.35 lbs           =      5,386,000 gallons generated
+Total salt generated:                   279,509.93 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+
+TID Ceres Main                                                                                         Surface water
+TID Lateral 4                                                                                                 Surface water
+TID Lateral 5                                                                                       Surface water
+TID Lateral 6                                                                                                 Surface water
+TID Turlock Main                                                                                              Surface water
+
+GJC Dairy #1 | 2401 Newman RD | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+05/09/2025 08:50:32                                                                                                                                                                                  Page 2 of 68
+
+
+=== Page 69 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+GJC Dairy #1 | 2401 Newman RD | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+05/09/2025 08:50:32                                                                                                                                                       Page 1 of 1
+
+
+=== Page 70 ===
+SELLAVALLE
+
+LABORATORY
+
+GJIC Dairy                                                         Account# 00-0025382                                         Received: 08/22/2024 10:50
+P.O. Box 2397                                                  Account Manager: Christian Duran                           Reported: 08/30/2024 10:14
+Turlock, CA 95381                                              Submitted By:
+
+Ranch: Dairy #1
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24H1705-01         DW #1                                           Ground Water                                                                                     08/21/2024 9:10
+24H1705-02         DW #2                                           Ground Water                                                                                     08/21/2024 9:15
+24H1705-03         DW Home                                       Ground Water                                                                                     08/21/2024 9:20
+24H1705-04         DW Garet                                        Ground Water                                                                                       08/21/2024 9:25
+24H1705-05         DW Grants                                       Ground Water                                                                                       08/21/2024 9:30
+24H1705-06         DW Dads                                        Ground Water                                                                                     08/21/2024 9:50
+24H1705-07         DW Hirdes                                       Ground Water                                                                                     08/21/2024 9:55
+24H1705-08         DW Lander                                      Ground Water                                                                                     08/21/2024 10:30
+24H1705-09         DW Verduga                                     Ground Water                                                                                       08/21/2024 11:00
+Default Cooler           Temperature on Receipt °C: 3.9
+
+Containers Intact
+
+COC/Labels Agree
+
+Notes and Definitions
+
+Item            Definition
+
+H                  Hold time exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 17

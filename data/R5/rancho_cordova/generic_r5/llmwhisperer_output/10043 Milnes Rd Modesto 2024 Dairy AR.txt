@@ -1,0 +1,170 @@
+=== Page 35 ===
+Attachment D                                                                               D-2 
+ Reissued Waste Discharge Requirements General Order No. R5-2013-0122 
+ Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: 
+
+           Haulers Calculations 
+
+ Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+ amount. 
+
+      Process Wastewater:                     Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+E.3 of Reissued Waste Discharge Requirements General Order No. R5-2013-0122) with any 
+party that receives process wastewater from the Operator for its own use? (please check one) 
+
+      Yes                No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+Certification: 
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+there are significant penalties for submitting false information, including the possibility of a fine and 
+imprisonment for knowing violations. 
+
+Operator's Signature:       Dal                                       Date:    6- 15-25 
+
+Hauler's Signature:      al       Barrios                             Date:   6-15-25
+
+=== Page 36 ===
+Denele Analytical, Inc. 
+
+                                                                                                        East Street, Woodland, CA 95776 
+      ANALYTICAL, DENELE INC. 601 Phone North (209) Tully 634-9055 Road Turlock, - Fax (209) CA 95380 634-9057 40 Phone N. (530) 666-9056 - Fax (530) 666-9058 
+
+                           www.denelelabs.com 
+                                                                                                           Avant Agronomics 
+
+                                                    Compliance Analysis Report 
+
+     Customer                                           Grower                                             Consultant: 
+     Manuel Martins Dairy L.P.                                                                             F & R Ag Services 
+     3213 Oakdale-Waterford Hwy                                                                            2857 Geer Rd. Ste A 
+     Oakdale, CA 95361                                                                                     Turlock, CA 95382 
+
+     PURCHASE ORDER:                                                        Irrigation/ Ground Water (H1) 
+     RECEIVED DATE:        8/1/24 12:30 PM                                  SOURCE: Clear Water 
+     SUBMITTED BY:         Jeanette Sawyer 
+     ANALYZED DATE:        8/6/24 
+     NOTES: Temperature was above qualifying at 25.2c 
+
+       Sample ID              Lab ID            Analyte                                 Method Ref                Result            Units 
+       Milk Barn              T4214032A         Electrical Conductivity (EC)            EPA 120.1 and              0.206          mmhos/cm 
+                                                Nitrate Nitrogen (NO3-N)                EPA 353.2                   1.94             mg/L 
+                                                Ammonia Nitrogen (NH3-N)                SM 4500-NH3 D,C           < 0.500            mg/L 
+                                                Soluble Salts (SALT-SOL)                Calculation                 132              mg/L 
+
+      Laboratory Quality Control                     LCS %                      MS %                        MSD %                      RPD % 
+       Ammonia Nitrogen (NH3-N)                        91.4               97.6 (T4214032A)              96.4 (T4214032A)                 1.23 
+       Electrical Conductivity (EC)                    94.0                                                                              2.82 
+       Nitrate Nitrogen (NO3-N)                        98.5               99.8 (T4214021A)              97.4 (T4214021A)                 2.43 
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the 
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and 
+conditions submitted on customer purchase orders or other forms submitted for work. 
+
+  Denele Analytical | Page 1
+
+=== RECOVERED MISSING PAGES ===
+
+=== Page 34 ===
+ATTACHMENT D 
+
+                     Manure/Process Wastewater Tracking Manifest 
+                                             For 
+                                 Existing Milk Cow Dairies 
+
+ Instructions: 
+ 1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+     several days, as long as the manure is being hauled to the same destination. 
+ 2) If there are multiple destinations, complete a separate form for each destination. 
+ 3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+ 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+     Monitoring Report for Existing Milk Cow Dairies. 
+
+ Operator Information: 
+ Name of Operator:       David Martins 
+
+ Name of Dairy Facility: Martins Living Trust 
+
+ Facility Address:       10043 Milnes Road,              Modesto, CA             95357 
+                     Number and Street                        City                 Zip Code 
+
+ Contact Person Name and Phone Number:       David Martins                 209-581-1547 
+                                                 Name                         Phone Number 
+ Manure/Process Wastewater Hauler Information: 
+ Name of Hauling Company/Person:                   Al Bairos 
+
+ Address of Hauling Company /Person:    9503 Milnes Road,             Modesto, CA 95357 
+                                        Number and Street                City        Zip Code 
+
+ Contact Person:    Al Bairos                                      209-204-9260 
+                       Name                                          Phone Number 
+Destination Information: 
+ Composting Facility / Broker Farmer) [X] Other (identify)                 (please circle one) 
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+  Al Bairos         9503 Milnes Road                Modesto, CA 95357         209-204-9260 
+   Name                Number and Street               City       Zip Code       Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+ 9503 Milnes Road,             Modesto, CA             95357             014-024-006 
+    Number and Street                 City               Zip Code        Assessor's Parcel Number 
+
+Dates Hauled:    10/22/2024 
+
+Amount Hauled: 
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+and the method used to calculate the amount: 
+
+      Manure:   2500       [X] Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (If amount reported in tons):    52.9% moisture 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 35 ===
+Attachment D                                                                               D-2 
+ Reissued Waste Discharge Requirements General Order No. R5-2013-0122 
+ Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: 
+
+           Haulers Calculations 
+
+ Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+ amount. 
+
+      Process Wastewater:                     Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+E.3 of Reissued Waste Discharge Requirements General Order No. R5-2013-0122) with any 
+party that receives process wastewater from the Operator for its own use? (please check one) 
+
+      Yes                No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+Certification: 
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+there are significant penalties for submitting false information, including the possibility of a fine and 
+imprisonment for knowing violations. 
+
+Operator's Signature:       Dal                                       Date:    6- 15-25 
+
+Hauler's Signature:      al       Barrios                             Date:   6-15-25

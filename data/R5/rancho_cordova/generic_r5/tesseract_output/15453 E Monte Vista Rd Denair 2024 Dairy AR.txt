@@ -1,0 +1,193 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Countyline LLC
+
+Physical address of dairy:
+
+15453 Monte Vista Ave                                                                                                        Denair                                Stanislaus                       95316
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 05/15/2002
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X020-X013-X027-XXXX = X042-X010-X014-XXXX
+
+B. OPERATORS
+
+Ahlem, Vance William
+
+Operator name: Ahlem, Vance William                                                                                         Telephone no.: (209) 874-2477
+
+Landline              Cellular
+19266 E Fowler AVE                                                                                             Turlock                         CA              95380
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Ahlem, Vance William
+
+Legal owner name: Ahlem, Vance William                                                                                     Telephone no.: (209) 874-2477
+
+Landline              Cellular
+19266 E Fowler AVE                                                                                             Turlock                         CA              95380
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Countyline LLC | 15453 Monte Vista Ave | Denair, CA 95316 | Stanislaus County | San Joaquin River Basin
+
+06/18/2025 12:32:50                                                                                                                                              Page 1 of 67
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                    250                       0
+Number under roof                                  1,926                     286                      112                         0                         0                         0
+Maximum number                           1,926                286                 112                   0                250                   0
+Average number                               1,926                  286                   112                     0                  250                     0
+Avg live weight (Ibs)                             950                1,050                  650                     0
+Predominant milk cow breed: Jersey
+Average milk production:                          55 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         51,763.16 tons per reporting period
+Total nitrogen from manure:                 679,065.69 /bs per reporting period      After ammonia losses (30% loss applied):       475,345.98 lbs per reporting period
+Total phosphorus from manure:             111,098.32 /bs per reporting period
+Total potassium from manure:              350,824.58 /bs per reporting period
+Total salt from manure:                       975,287.52 Ibs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       16,968,000 gallons             16,968,000 gallons applied
+Total nitrogen generated:              127,090.48 /bs           +               0 gallons exported
+Total phosphorus generated:            5,149.54 Ibs           -               0 gallons imported
+Total potassium generated:            148,811.04 /bs           = 16,968,000 gallons generated
+Total salt generated:                   873,491.18 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+
+IW-Bledsoe PG&E                                                                                        Ground water
+IW-Bledsoe TID                                                                                                     Ground water
+IW-Dairy TID                                                                                                             Ground water
+
+Countyline LLC | 15453 Monte Vista Ave | Denair, CA 95316 | Stanislaus County | San Joaquin River Basin
+
+06/18/2025 12:32:50                                                                                                                                                                                  Page 2 of 67
+
+
+=== Page 68 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Countyline LLC | 15453 Monte Vista Ave | Denair, CA 95316 | Stanislaus County | San Joaquin River Basin
+
+06/18/2025 12:32:50                                                                                                                                                   Page 1 of 1
+
+
+=== Page 69 ===
+IEH - JL ANALYTICAL
+
+217 Primo Way «= Modesto, California 95358 » Office (209) 538-8111 = FAX (209) 538-3966
+
+F& RAg Services, Inc                                                                                                                                     Report #                                 L2.2-14R70115
+
+Report Date:                                      12/24/2024
+2857 Geer Road, Suite A                                                                                                                                          Received Date:                                 12/18/2024
+Turlock,CA 95382                                                                                                                           Work Order:                                    656044
+
+Laboratory Number:            65604401
+Description:                     Water, DW - Dairy North, Well, Routine
+Sampled By:Sean Locke, Employed By:F and R Ag Services Inc
+
+Analytical Results
+
+Method
+
+Reporting        Detection
+
+Method                        Analysis         Analysis
+
+Result                                                                                                                                                          Analyst
+
+Limit               Limit                   Reference                         Date               Time
+
+Constituent
+
+f Ammoniacal Nitrogen by Kjeldahl                                  mg/l                                       SM 4500 NH3 C        12/23/2024
+Electrical Conductivity (E.C.)                                           umho/cm                                       SM 2510B5           12/24/2024
+Nitrate Nitrogen                                        -1_ mg/l             .                     EPA 300.0         12/19/2024
+Total Kjeldahl Nitrogen (TKN)                                                                              SM 4500-Norg B       12/19/2024
+Total Nitrogen                                               .                                              Calculation         12/23/2024
+
+QC Results
+
+.                   .        Matrix         Lab
+Theoretical        Matrix       Spike
+
+QC Units              Spike  Spike    Control  Precision Accuracy Response
+
+Constituent                                                                                                     Duplicate Spike        %,         %,          %,
+f Ammoniacal Nitrogen by Kjeldahl       mg/l
+
+Electrical Conductivity (E.C.)              umho/cm
+
+Nitrate Nitrogen
+
+Total Kjeldahl Nitrogen (TKN)
+
+Total Nitrogen
+
+Notes
+5 At25°C
+
+Authorized By:                                                      12/24/2024
+Kamilia Benahmed, Chemist
+
+ELAP Accreditation Laboratory Certificate #2776. Unless otherwise noted, all samples were received in acceptable condition. The result(s) in this report
+relate only to the portion of the sample(s) tested. Results are not corrected for recovery or expanded measurment of uncertainty. This report does not
+constitute a release of product for consumption. This report shall not be reproduced except in full, without written approval of the laboratory. This
+document contains confidential commercial information pursuant to 5 U.S.C. SEC. 552(b)(4).                                                       Page 1 of 5

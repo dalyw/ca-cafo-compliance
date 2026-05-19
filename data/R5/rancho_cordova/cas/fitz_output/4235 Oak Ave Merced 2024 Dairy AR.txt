@@ -1,0 +1,290 @@
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Manuel Oliveira Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95340
+Merced
+Merced
+4235 Oak AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1970
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X215-X140-X041-XXXX
+X215-X140-X042-XXXX
+B.
+Oliveira, Manuel & Maria
+Operator name: Oliveira, Manuel & Maria
+Telephone no.:
+Landline
+Cellular
+(209) 388-0501
+4235 Oak AVE
+Merced
+CA
+95340
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Oliveira, Manuel & Maria
+Legal owner name: Oliveira, Manuel & Maria
+Telephone no.:
+Landline
+Cellular
+(209) 388-0501
+95340
+Zip Code
+State
+City
+Mailing Address Number and Street
+4235 Oak AVE
+Merced
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/30/2025 20:23:42
+Page 1 of 38
+Manuel Oliveira Dairy | 4235 Oak AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+441
+373
+128
+211
+1,138
+1,138
+1,400
+83
+83
+1,500
+0
+441
+1,100
+0
+373
+775
+0
+128
+0
+211
+Predominant milk cow breed: Holstein
+Average milk production:
+70 pounds per cow per day
+Average number
+1,138
+83
+441
+373
+128
+211
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+40,084.11
+492,727.80
+81,132.13
+218,534.59
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+344,909.46 lbs per reporting period
+Total salt from manure:
+556,433.46 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+123,919.13
+18,680.65
+146,561.94
+1,134,725.39
+29,797,200
+lbs
+lbs
+lbs
+gallons
+29,797,200
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+29,797,200
+D. FRESH WATER SOURCES
+Source Description
+Type
+Canal
+Surface water
+Domestic Well
+Ground water
+Irrigation Well
+Ground water
+06/30/2025 20:23:42
+Page 2 of 38
+Manuel Oliveira Dairy | 4235 Oak AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+
+=== Page 40 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/30/2025 20:23:42
+Page 1 of 1
+Manuel Oliveira Dairy | 4235 Oak AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+
+=== Page 41 ===
+Report of Dairy Well Water Analysis
+Lab No.: 24K0038
+Sampled By: M Pedroso
+Manuel Oliveira Dairy
+Requested By: Manuel & Maria Oliveira
+4235 Oak Ave
+Sampled Date: 10/31/24
+Merced, CA 95340
+Submitted Date: 11/01/24
+00-0021332
+14
+Reported Date: 11/06/24
+Location/Project:
+E-mail:
+Crop ID:
+Copy To: cas.labs@yahoo.com
+Date
+Time
+Field
+Total
+CO3
+HCO3
+pH
+No. Description
+Sampled Sampled
+EC
+EC
+NO3-N
+NH4-N
+NH4-N
+TDS
+Cl
+SO4
+Ca
+Mg
+Na
+at 25°C
+µmhos/cm
+mmhos/cm
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+mg/L
+unit
+01
+IW - New Field
+10/31/24
+16:00
+419
+0.42
+1.7
+ND
+245
+ND
+179
+13.7
+11.3
+16.1
+5.8
+71
+8.2
+02
+IW - Heifers
+10/31/24
+16:10
+1260
+1.26
+19.4
+ND
+780
+ND
+472
+46.7
+49.4
+135
+50.4
+78
+7.6
+ND = None Detected
+Approved By:
+Laboratory Director\Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+as CaCO3
+Dellavalle Laboratory, Inc - 1910 W McKinley  #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 - www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2

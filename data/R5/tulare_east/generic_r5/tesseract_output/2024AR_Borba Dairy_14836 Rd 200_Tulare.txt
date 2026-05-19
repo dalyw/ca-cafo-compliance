@@ -1,0 +1,190 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Borba Dairy
+
+Physical address of dairy:
+
+14836 Road 200 RD                                                                                         Porterville                       Tulare                        93257
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1941
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0236-0150-0001-0000
+
+B. OPERATORS
+
+Borba, Frank
+
+Operator name: Borba, Frank                                                                                    Telephone no.: (559) 784-1812
+
+Landline             Cellular
+14856 Road 200 RD                                                                                                 Porterville                       CA               93257
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+C. OWNERS
+Borba, Eric
+
+Legal owner name: Borba, Eric                                                                                       Telephone no.: (559) 784-1812
+
+Landline             Cellular
+14856 Road 200 RD                                                                                                 Porterville                       CA               92357
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Borba Dairy | 14836 Road 200 RD | Porterville, CA 93257 | Tulare County | Tulare Basin
+
+09/01/2025 18:16:44                                                                                                                                                Page 1 of 101
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                      1,440                    260                    500                    450                    450                    200
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                           1,440                260                500                450                450                200
+Average number                               1,400                  230                  450                  400                  400                   150
+Avg live weight (Ibs)                           1,400                1,450                  925                  550
+Predominant milk cow breed: Holstein
+Average milk production:                          70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         49 498.24 tons per reporting period
+Total nitrogen from manure:                 621,976.53 /bs per reporting period      After ammonia losses (30% loss applied):       435,383.57 Ibs per reporting period
+Total phosphorus from manure:              100,943.90 /bs per reporting period
+Total potassium from manure:              268,847.47 Ibs per reporting period
+Total salt from manure:                       714,029.40 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       31,908,000 gallons            31,908,000 gallons applied
+Total nitrogen generated:               86,111.47 lbs           +               0 gallons exported
+Total phosphorus generated:           12,486.15 /bs           -               0 gallons imported
+Total potassium generated:            47,193.80 /bs           = 31,908,000 gallons generated
+Total salt generated:                   478,365.36 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+
+Barn Well East                                                                                         Ground water
+Barn Well North                                                                                        Ground water
+Barn Well West                                                                                              Ground water
+Irr Well #1                                                                                                                 Ground water
+Irr Well #10                                                                                                                             Ground water
+
+Borba Dairy | 14836 Road 200 RD | Porterville, CA 93257 | Tulare County | Tulare Basin
+
+09/01/2025 18:16:44                                                                                                                                                                      Page 2 of 101
+
+
+=== Page 102 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Borba Dairy | 14836 Road 200 RD | Porterville, CA 93257 | Tulare County | Tulare Basin
+
+09/01/2025 18:16:44                                                                                                                                                   Page 1 of 1
+
+
+=== Page 103 ===
+ENVIRONMENTAL              AGRICULTURAL
+
+Analytical Chemists
+
+January 2, 2025                                                                Lab No.             : VI. 2449925
+
+Macedo Environmental Consulting, Inc.                         Customer No. : 4019634
+
+Attn: Alexandra Macedo
+4013 South K Street
+Tulare, CA 93274
+
+Laboratory Report
+
+Introduction: This report package contains a total of 11 pages divided into 3 sections:
+
+Case Narrative          (2 pages)     : An overview of the work performed at FGL.
+
+Sample Results         (8 pages)     : Results for each sample submitted.
+Quality Control           (1 page)      : Supporting Quality Control (QC) results.
+
+Case Narrative
+
+This Case Narrative pertains to the following samples:
+
+Sample Description             Date Sampled                Date Received                   FGL Lab No.
+
+IW 13                                      12/16/2024                     12/16/2024                     VI 2449925-001                AGW
+IW 8                                          12/16/2024                      12/16/2024                      VI 2449925-002                 AGW
+IW 20                                         12/16/2024                      12/16/2024                      VI 2449925-003                 AGW
+IW 2                                          12/16/2024                      12/16/2024                      VI 2449925-004                 AGW
+IW 16                                      12/16/2024                     12/16/2024                     VI 2449925-005                AGW
+IW 10                                      12/16/2024                     12/16/2024                     VI 2449925-006                AGW
+IW 17                                      12/16/2024                     12/16/2024                     VI 2449925-007                AGW
+IW 4                                            12/16/2024                       12/16/2024                      VI 2449925-008                 AGW
+
+Sampling and Receipt Information:
+
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition
+Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times.
+All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
+For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+
+Test Summary
+
+EPA 351.2                      Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 2540 C                     Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-H+B                 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F               Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+
+Section: Case Narrative                                                  Page | of 11                                                  Page 1 of 11
+Corporate Offices & Laboratory       Office & Laboratory                     Office & Laboratory                   Office & Laboratory                    Office & Laboratory
+853 Corporation Street                  2500 Stagecoach Road                563 E. Lindo Avenue                 3442 Empresa Drive, Suite D         9411 W. Goshen Avenue
+Santa Paula, CA 93060                  Stockton, CA 95215                    Chico, CA 95926                      San Luis Obispo, CA 93401           Visalia, CA 93291
+TEL: (805)392-2000                     TEL: (209)942-0182                   TEL: (530)343-5818                  TEL: (805)783-2940                   TEL: (559)734-9473
+
+CA ELAP Certification No. 1573          CA ELAP Certification No. 1563        CA ELAP Certification No. 2670      CA ELAP Certification No. 2775       CA ELAP Certification No. 2810

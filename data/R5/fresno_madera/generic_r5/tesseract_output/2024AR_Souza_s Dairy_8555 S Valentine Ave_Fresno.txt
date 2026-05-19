@@ -1,0 +1,749 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Souza's Dairy, Inc.
+
+Physical address of dairy:
+
+8555 S Valentine AVE                                                                                                         Fresno                                Fresno                            93706
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1965
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0035-0342-0028-0000            0035-0342-0043-0000            0035-0342-009S-0000
+
+B. OPERATORS
+
+Souza, Daniel
+
+Operator name: Souza, Daniel                                                                                                           Telephone no.: (559) 264-1989 (559) 289-1795
+Landline              Cellular
+
+8555 S Valentine Avenue                                                                                                              Fresno                                CA                 93706
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+Tavares, Sandy
+
+Operator name: Tavares, Sandy                                                                                                                Telephone no.: (559) 264-1989 (559) 352-6428
+Landline               Cellular
+
+8555 S Valentine Avenue                                                                                                              Fresno                                CA                 93706
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Souza, Daniel
+
+Legal owner name: Souza, Daniel                                                                                                      Telephone no.: (559) 264-1989 (559) 289-1795
+Landline              Cellular
+
+8555 S Valentine Avenue                                                                                                              Fresno                                CA                 93706
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
+
+06/19/2025 14:59:28                                                                                                                                              Page 1 of 81
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+
+Tavares, Sandy
+
+Legal owner name: Tavares, Sandy                                                                                                           Telephone no.: (559) 264-1989 (559) 352-6428
+Landline               Cellular
+
+8555 S Valentine Avenue                                                                                                              Fresno                                CA                 93706
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
+
+06/19/2025 14:59:28                                                                                                                                                                                  Page 2 of 81
+
+
+=== Page 82 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Souza's Dairy, Inc. | 8555 S Valentine AVE | Fresno, CA 93706 | Fresno County | Tulare Basin
+
+06/19/2025 14:59:28                                                                                                                                                   Page 1 of 1
+
+
+=== Page 83 ===
+Denele Analytical, Inc.
+
+601 North Tully Road Turlock, CA 95380                   40 N. East Street, Woodland, CA 95776
+RENELE| RENE LE      Phone (209) 634-9055 - Fax (209) 634-9057              Phone (530) 666-9056 - Fax (530) 666-9058
+
+Ay      www.denelelabs.com
+4 Avant Agronomics
+
+Compliance Analysis Report
+
+Customer                                                Grower                                                   Consultant:
+SOUZA'S DAIRY INC. #1                                                                                      Heartland Consulting
+8555 S Valentine Ave                                                                                                        P.O. Box 3679
+Fresno, CA 93706                                                                                                           Merced, CA 95344
+PURCHASE ORDER:                                                              Irrigation/ Ground Water (H1)
+
+RECEIVED DATE:    7/17/24 3:11 PM                                    SOURCE: Clear Water
+
+SUBMITTED BY:      Daniel Roos
+ANALYZED DATE: = 7/23/24
+
+NOTES: Temperature was qualifying at 21.2c
+
+Sample ID         Lab ID         Analyte                           Method Ref          Result
+
+T4199068A       Electrical Conductivity (EC)               EPA 120.1 and               .               mmhos/cm
+Nitrate Nitrogen (NO3-N)                     EPA 353.2                         .                     mg/L
+Ammonia Nitrogen (NH3-N)               SM 4500-NH3 D,C             .                  mg/L
+Soluble Salts (SALT-SOL)                 Calculation                                         mg/L
+
+Laboratory Quality Control
+
+Ammonia Nitrogen (NH3-N)                             .                    90.4 (T4204008A)              91.6 (T4204008A)
+Electrical Conductivity (EC)                            .
+
+Nitrate Nitrogen (NO3-N)                            .                 101 (T4204008A)             99.9 (T4204008A)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1
+
+
+=== Page 102 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Dan Souza
+
+Name of Dairy Facility: Souza's Dairy, Inc.
+
+Facility Address:
+
+8555 S Valentine AVE                                             Fresno                              Fresno                          93706
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Dan Souza                                                               (559) 289-1795
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Burrows Larry & Tony Trucking and Spreading
+
+Address of Hauling Company/Person:
+
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Burrows Tony                                                                                                                    (559) 846-9671
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): Broker
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Burrows Larry & Tony Trucking and Spreading                                                                                        (559) 846-9671
+Name                                                                                                                                      Phone Number
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+11751 W. Jensen Ave                                         Kerman                          93630
+Address                                                                 City                                   Zip Code
+W. Jensen                                                                                         Fresno
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 01/01/2024
+
+
+=== Page 103 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:              3,300.00 tons
+Manure Solids Content:                   62.7 %
+
+Method used to determine amount of manure:
+
+Averaged Scale Weighed trucks multiplied by the number of trucks hauled.
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and imprisonment for knowing violations.
+
+Sandy Tavares                                                                                                Jun 20, 2025
+
+Sandy Tavares (Jun 20, 2025 12:56 PDT:
+Operator Signature                                                                                                                                   Date
+
+ELLE
+Hauler Sigrature                                                                                                                                      Date
+
+
+
+=== Page 104 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Dan Souza
+
+Name of Dairy Facility: Souza's Dairy, Inc.
+
+Facility Address:
+
+8555 S Valentine AVE                                             Fresno                              Fresno                          93706
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Dan Souza                                                               (559) 289-1795
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Burrows Larry & Tony Trucking and Spreading
+
+Address of Hauling Company/Person:
+
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Burrows Tony                                                                                                                    (559) 846-9671
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): Broker
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Burrows Larry & Tony Trucking and Spreading                                                                                        (559) 846-9671
+Name                                                                                                                                      Phone Number
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+11751 W. Jensen Ave                                         Kerman                          93630
+Address                                                                 City                                   Zip Code
+W. Jensen                                                                                         Fresno
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 02/08/2024
+
+
+=== Page 105 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:                    1,100.00 tons
+Manure Solids Content:                     62.7 %
+
+Method used to determine amount of manure:
+
+{frit ineoat ot somtnteptciniss sentin enett« tesensrstcrenttrtsnettersrseni tmtrt tretttty — matcamiette ft} tnrhntent natn tt ettaotte snes puamtctnnitcrnies tat snes peiencamnrets eatetiemmnctnnttenes fe miciteti inte sanceenteriecemmatetety ool mecemniataenin oh emma Smtnmmtecmmnies ommpcimitcnitc mr Wee ta, etnaaeeteey
+
+i Averaged Scale Weighed trucks multiplied by the number of trucks hauled.
+j
+i
+
+Bana mole apaboninsen ane, GY aneBowwveirerovovetnnebtiny sermeenteseere satetante Ins(sautnmentsd Er bpbetterémsen ceeemenestwcteipronsnnvenastent « ‘wersemnanipinttogsetene ssch"itemeseceedy mgecesearteeh 4
+
+CERTIFICATION
+
+| declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and imprisonment for knowing violations.
+
+Sandy Tavares                                                                                                                Jun 20, 2025
+
+Sandy Tavares {Jun 20, 2025 12:56 PDT)
+Operator Signature                                                                                                                                                                                                                     Date
+
+Cone, Pirro                                        O6-19-2Z02Z5,
+Hauler Signafire                                                        Date
+
+'
+3
+
+need sovempatvsslgemetopennan af J nennnenn tomas “Wt enenirvenetstineeeten. fooepeecetessetiphtvtton WAL aanhwlWing apa MIO Aiea inelinene-atnie “anwbentbentyerauetintte —¢ oy oveceseethyertirn   weirs tee
+
+
+
+=== Page 106 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Dan Souza
+
+Name of Dairy Facility: Souza's Dairy, Inc.
+
+Facility Address:
+
+8555 S Valentine AVE                                             Fresno                              Fresno                          93706
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Dan Souza                                                               (559) 289-1795
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Burrows Larry & Tony Trucking and Spreading
+
+Address of Hauling Company/Person:
+
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Burrows Tony                                                                                                                    (559) 846-9671
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Gill Farms                                                                                                                     (559) 970-9922
+Name                                                                                                                                      Phone Number
+12911 S Fruit Ave.                                      Caruthers                    CA                        93609
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+Kerman                            93630
+Address                                                                 City                                   Zip Code
+Blythe and Polk Avenues                                                                      Fresno
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 03/13/2024
+
+
+=== Page 107 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:                 1,300.00 tons
+Manure Solids Content:                     62.7 %
+
+Method used to determine amount of manure:
+
+Yor tne te dP ts a Ronit # itr bee erent alte mens mn | maps nmin tin imenimrenienne meanest utearafecanenmtonnat tena intr ntes MiNtts ON RIRTITE ROTATE ee ee OA rmareareemtetited 6 meeteperoMtee ne say N totem atnaayins anemia bce         tam oe
+
+| Averaged Scale Weighed trucks multiplied by the number of trucks hauled.                                                                                   :
+i                                                                                                                                                                                              i
+
+Lime ee ate oe can rents ge st sen itt mt Re seme tn abner theese ck mst aera tae      ns   a    ~    a
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information ‘is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility ofa
+fine and imprisonment for knowing violations.
+
+Sandy Tavares                                                                                                                 Jun 20, 2025
+
+Sandy Tavares (Jun 20, 2025 12:56 PDT)                                                                                                                                                                                                                                                               .
+Operator Signature                                                                                                                                                                                             Date
+
+—
+VE  Pinned                             Ob6SM9¢-ZO.
+Hauler Sighature                                                                                                                                                                                 ’                Date
+
+
+
+=== Page 108 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Dan Souza
+
+Name of Dairy Facility: Souza's Dairy, Inc.
+
+Facility Address:
+
+8555 S Valentine AVE                                             Fresno                              Fresno                          93706
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Dan Souza                                                               (559) 289-1795
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Burrows Larry & Tony Trucking and Spreading
+
+Address of Hauling Company/Person:
+
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Burrows Tony                                                                                                                    (559) 846-9671
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): Broker
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Burrows Larry & Tony Trucking and Spreading                                                                                        (559) 846-9671
+Name                                                                                                                                      Phone Number
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+11751 W. Jensen Ave                                         Kerman                          93630
+Address                                                                 City                                   Zip Code
+W. Jensen                                                                                         Fresno
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 05/21/2024
+
+
+=== Page 109 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:              2,000.00 tons
+Manure Solids Content:                    62.7 %
+
+Method used to determine amount of manure:
+
+Averaged Scale Weighed trucks multiplied by the number of trucks hauled.
+
+CERTIFICATION
+
+| declare under penaity of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and imprisonment for knowing violations.
+
+Sandy Tavares                                                                                                       Jun 20, 2025
+
+Sandy Tavares (Jun 20, 2925 12:56 PDT}
+
+Operator Signature                                                                                                                                                           Date
+
+lO,  Purroiwe                           Ob-1¢-ZO
+Hauler Sgnature                                                       Date
+
+
+
+=== Page 110 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Dan Souza
+
+Name of Dairy Facility: Souza's Dairy, Inc.
+
+Facility Address:
+
+8555 S Valentine AVE                                             Fresno                              Fresno                          93706
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Dan Souza                                                               (559) 289-1795
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Burrows Larry & Tony Trucking and Spreading
+
+Address of Hauling Company/Person:
+
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Burrows Tony                                                                                                                    (559) 846-9671
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): Broker
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Burrows Larry & Tony Trucking and Spreading                                                                                        (559) 846-9671
+Name                                                                                                                                      Phone Number
+11751 W. Jensen                                     Kerman                     CA                       93630
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+11751 W. Jensen Ave                                         Kerman                          93630
+Address                                                                 City                                   Zip Code
+W. Jensen                                                                                         Fresno
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 10/18/2024
+
+
+=== Page 111 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:                 1,925.00 tons
+Manure Solids Content:                    60.6 %
+
+Method used to determine amount of manure:
+
+, Averaged Scale Weighed trucks multiplied by the number of trucks hauled.
+|
+
+Ma etna, Mteabiarmenn den me ARRAN MPR nth  Nepean om Meee epwenyeetgn — ptantayingBnTEDngtnteemmNyBOH GN SHIIACTE i nmnnaneanatanten ‘thin “aha OF allan me Daina    a a rr aera ied     ew     _s
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and imprisonment for knowing violations.
+
+Sandy Tavares                                                                                                                 Jun 20, 2025
+
+Sandy Tavares (Jun 20, 2025 12 56 PDT}                                                                                                                                                                                                                                                               z
+Operator Signature                                                                          Date
+
+ereeaaneemacwemnycocivegse & b1putlesadenietytatescentebotniacnactnertessteseareetismasstli { > fatenateraneans sernsarsteete HOMpénetMtbctety sbsbtecteredeivartemiverlih teebeReHh c8ectee } tee
+
+eeecpteitetieensnnin, mmatinitymrtenintfetrtictinntcten serpnenpainenitecrmaciaicnne “A abla — erbmanas tts ao icine grere NR ty t y
+
+ff
+3
+
+—
+
+7 Otte. Plunge                      O6-19-20O
+Hauler Signgture                               Date
+
+I
+
+
+
+=== Page 112 ===
+Pages from 2024 AR SOUZA'S DAIRY, INC.
+WDR100037826
+
+Final Audit Report                                                                                2025-06-20
+
+Created:                             2025-06-20
+By:                            Daniel Roos (hicdan@yahoo.com)
+Status:                                Signed
+
+Transaction ID:            CBJCHBCAABAAICKH7r3mN-xI8VpqGdLXdLm-V5FO_oR3
+
+“Pages from 2024 AR SOUZA'S DAIRY, INC. WDR100037826"
+History
+
+*) Document created by Daniel Roos (hlcdan@yahoo.com)
+2025-06-20 - 3:25:21 PM GMT- IP address: 73.41.66.229
+
+C3. Document emailed to tavares.sandy@yahoo.com for signature
+2025-06-20 - 3:26:10 PM GMT
+
+Email viewed by tavares.sandy@yahoo.com
+2025-06-20 - 4:28:30 PM GMT- IP address: 69.147.90.10
+
+Signer tavares.sandy@yahoo.com entered name at signing as Sandy Tavares
+2025-06-20 - 7:56:02 PM GMT- IP address: 98.97.26.73
+
+Document e-signed by Sandy Tavares (tavares.sandy@yahoo.com)
+Signature Date: 2025-06-20 - 7:56:04 PM GMT - Time Source: server- IP address: 98.97.26.73
+
+«2 Agreement completed.
+2025-06-20 - 7:56:04 PM GMT
+
+Be Adobe Acrobat Sign
+

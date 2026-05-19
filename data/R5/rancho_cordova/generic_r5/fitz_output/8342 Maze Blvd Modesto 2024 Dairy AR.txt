@@ -1,0 +1,285 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+De Carvalho Bros. Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95358
+Stanislaus
+Modesto
+8342 Maze BLVD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1972
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0012-0047-0003-0000
+B.
+Carvalho, Tony
+Operator name: Carvalho, Tony
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+8342 Maze BLVD
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+De Carvalho, Arturo
+Operator name: De Carvalho, Arturo
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+8342 Maze BLVD
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+De Carvalho, Joe
+Operator name: De Carvalho, Joe
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+8342 Maze BLVD
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+OPERATORS
+C. OWNERS
+05/17/2025 13:52:45
+Page 1 of 33
+De Carvalho Bros. Dairy | 8342 Maze BLVD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Carvalho, Tony
+Legal owner name: Carvalho, Tony
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+8342 Maze BLVD
+Modesto
+CA
+This owner is responsible for paying permit fees.
+De Carvalho, Arturo
+Legal owner name: De Carvalho, Arturo
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+8342 Maze BLVD
+Modesto
+CA
+De Carvalho, Joe
+Legal owner name: De Carvalho, Joe
+Telephone no.:
+Landline
+Cellular
+(209) 548-9317
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+8342 Maze BLVD
+Modesto
+CA
+05/17/2025 13:52:45
+Page 2 of 33
+De Carvalho Bros. Dairy | 8342 Maze BLVD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 34 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/17/2025 13:52:45
+Page 1 of 1
+De Carvalho Bros. Dairy | 8342 Maze BLVD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 35 ===
+De Carvalho Bros. Dairy
+8342 Maze Blvd.
+Modesto,CA  95358
+Report #
+Report Date:
+Received Date:
+Work Order:
+L2.2-14R70018
+12/13/2024
+12/06/2024
+655685
+Laboratory Number:
+Description:
+65568501
+Water, Well #1, 12/06/24 1100
+Sampled By:Tony Carvalho, Employed By:De Carvalho Bros
+Analytical Results
+Constituent
+ 
+ Result  
+Reporting
+Limit
+Method
+Detection
+Limit
+    Method
+    Reference
+Analysis
+Date
+Analysis
+Time
+ Analyst
+Ammoniacal Nitrogen by Kjeldahl
+<
+2  mg/l
+2
+0.3
+    SM 4500 NH3 C 
+12/11/2024
+12:55
+JN
+Electrical Conductivity (E.C.)
+1300  umho/cm
+1
+1
+    SM 2510B5
+12/12/2024
+13:20
+KB
+Nitrate Nitrogen
+21  mg/l
+0.1
+0.01
+    EPA 300.0 
+12/06/2024
+16:39
+JDLC
+QC Results
+Constituent
+ QC Units
+ 
+Blank  
+ Matrix
+Theoretical
+Spike
+ 
+Matrix
+Spike  
+Matrix
+Spike
+Duplicate
+ 
+Lab 
+Control 
+Spike 
+ Precision 
+% 
+ Accuracy 
+% 
+ Response  
+%
+Ammoniacal Nitrogen by Kjeldahl
+mg/l
+<
+2
+<
+2
+28
+28
+27
+27
+1.0  
+98.2  
+97.7  
+Electrical Conductivity (E.C.)
+umho/cm
+<
+1
+400
+1400
+1700
+1700
+1400
+0.4  
+93.0  
+99.8  
+Nitrate Nitrogen
+mg/l
+<
+0.1
+5.2
+0.9
+6.1
+6.1
+0.9
+0.0  
+95.4  
+97.0  
+ 
+ 
+Notes 
+ 
+5
+At 25 °C
+Authorized By:
+12/13/2024
+Britney Dundee, Chemistry Supervisor
+Result Flags: J - Results are below the laboratory reporting limit and above MDL. ND - Not Detected
+ELAP Accreditation Laboratory Certificate #2776. Unless otherwise noted, all samples were received in acceptable condition. The result(s) in this report relate only to the 
+portion of the sample(s) tested.  Results are not corrected for recovery or expanded measurment of uncertainty. This report does not constitute a release of product for 
+consumption. This report shall not be reproduced except in full, without written approval of the laboratory. This document contains confidential commercial information 
+pursuant to 5 U.S.C. SEC. 552(b)(4).
+Page 1 of 3

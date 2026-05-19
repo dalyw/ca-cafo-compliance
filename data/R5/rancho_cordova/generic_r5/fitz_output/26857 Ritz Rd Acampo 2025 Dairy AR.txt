@@ -1,0 +1,245 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Triple J Dairy #2
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95220
+San Joaquin
+Acampo
+26857 Ritz RD
+Sacramento River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1950
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X003-X130-XX26-XXXX
+B.
+Silva, Anthony
+Operator name: Silva, Anthony
+Telephone no.:
+Landline
+Cellular
+(209) 366-3062
+22600 N Pearl RD
+Acampo
+CA
+95220
+Mailing Address Number and Street
+City
+State
+Zip Code
+Silva, James
+Operator name: Silva, James
+Telephone no.:
+Landline
+Cellular
+(209) 321-1318
+22600 N Pearl RD
+Acampo
+CA
+95220
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+Silva, Kevin
+Operator name: Silva, Kevin
+Telephone no.:
+Landline
+Cellular
+(209) 810-0279
+22600 N Pearl RD
+Acampo
+CA
+95220
+Mailing Address Number and Street
+City
+State
+Zip Code
+OPERATORS
+C. OWNERS
+02/13/2025 11:40:51
+Page 1 of 35
+Triple J Dairy #2 | 26857 Ritz RD | Acampo, CA 95220 | San Joaquin County | Sacramento River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Silva, Anthony
+Legal owner name: Silva, Anthony
+Telephone no.:
+Landline
+Cellular
+(209) 366-3062
+95220
+Zip Code
+State
+City
+Mailing Address Number and Street
+22600 N Pearl RD
+Acampo
+CA
+Silva, James
+Legal owner name: Silva, James
+Telephone no.:
+Landline
+Cellular
+(209) 321-1318
+95220
+Zip Code
+State
+City
+Mailing Address Number and Street
+22600 N Pearl RD
+Acampo
+CA
+This owner is responsible for paying permit fees.
+Silva, Kevin
+Legal owner name: Silva, Kevin
+Telephone no.:
+Landline
+Cellular
+(209) 810-0279
+95220
+Zip Code
+State
+City
+Mailing Address Number and Street
+22600 N Pearl RD
+Acampo
+CA
+02/13/2025 11:40:51
+Page 2 of 35
+Triple J Dairy #2 | 26857 Ritz RD | Acampo, CA 95220 | San Joaquin County | Sacramento River Basin
+
+
+=== Page 36 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+02/13/2025 11:40:51
+Page 1 of 1
+Triple J Dairy #2 | 26857 Ritz RD | Acampo, CA 95220 | San Joaquin County | Sacramento River Basin
+
+
+=== Page 37 ===
+Customer
+Triple J Dairy
+22600 N. Pearl Rd.
+Acampo, CA 95220
+Grower
+PURCHASE ORDER: #2
+RECEIVED DATE:
+8/20/24 4:25 PM
+SUBMITTED BY:
+Jennette
+ANALYZED DATE:
+8/29/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation / Ground Water (H7)
+SOURCE: Clear Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.489
+mmhos/cm
+T4233041A
+IW 1
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+3.54
+mg/L
+Total Dissolved Solids (TDS)
+SM 2540 C-1997 and
+215
+mg/L
+Total Nitrogen (TN)
+SM 4500-NH3 D,C
+3.54
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+313
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Sample mg/L
+Dup mg/L
+Ammonia Nitrogen (NH3-N)
+94.0 (T4233029A)
+95.8 (T4233029A)
+1.89
+96.0
+Electrical Conductivity (EC)
+0.070
+91.1
+1.43 (T4240003D)
+1.43 (Dup)
+Nitrate Nitrogen (NO3-N)
+103 (T4233033R)
+99.0 (T4233033R)
+3.86
+101
+Total Dissolved Solids (TDS)
+2.67
+91.5
+190 (T4236022A)
+185 (Dup)
+Total Nitrogen (TN)
+96.9
+0.000 (T4233039B)
+0.000 (null)
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

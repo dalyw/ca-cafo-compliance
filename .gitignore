@@ -1,7 +1,6 @@
 **original**
 **workspace**
 .env
-*.txt
 
 # Python specific
 __pycache__/

@@ -1,0 +1,154 @@
+=== Page 61 ===
+Docusign Envelope ID: 7B8D82A9-6084-4A31-99BC-77979142A985 
+
+                                                ATTACHMENT D 
+
+                                 Manure/Process Wastewater Tracking Manifest 
+                                                       For 
+                                            Existing Milk Cow Dairies 
+
+                Instructions: 
+                1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+                   several days, as long as the manure is being hauled to the same destination. 
+                2) If there are multiple destinations, complete a separate form for each destination. 
+                3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+                4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+                   Monitoring Report for Existing Milk Cow Dairies. 
+
+                Operator Information: 
+                Name of Operator:    Luke Vanderham 
+
+                Name of Dairy Facility: L+J Vanderham 
+
+                Facility Address: 10772 W Mount Whitney Ave, Riverdale               93656 
+                                  Number and Street                 City               Zip Code 
+
+                Contact Person Name and Phone Number: Alfonso Zarate         (559)801-5335 
+                                                          Name                    Phone Number 
+                Manure/Process Wastewater Hauler Information: 
+                Name of Hauling Company/Person: I Murillo Trucking        Inc. 
+
+                Address of Hauling Company /Person: 7182 22nd Ave        Lemoore       93245 
+                                                  Number and Street           City      Zip Code 
+
+                Contact Person: Brian                                  (559)389-9399 
+                                    Name                                  Phone Number 
+                Destination Information:                     Farmer             (please circle one) 
+                Composting Facility / Broker (Farmer/ [X] Other (identify) 
+                Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+                  Name              Number and Street         City      Zip Code    Phone Number 
+
+               Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+                12th + Kent Ave              Hanford          93230 
+                   Number and Street            City            Zip Code     Assessor's Parcel Number 
+
+               Dates Hauled:   12/2/24 - 12/4/24 
+
+               Amount Hauled: 
+               Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+               solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+               and the method used to calculate the amount: 
+
+                    Manure: 323        Tons or Cubic Yards (indicate which units used) 
+                    Manure Solids Content (if amount reported in tons): 49.0% Corral Solids 
+                    Manure Density (if amount reported in cubic yards):
+
+=== Page 62 ===
+Docusign Envelope ID: 7B8D82A9-6084-4A31-99BC-77979142A985 
+
+                Attachment D                                                                      D-2 
+                Reissued Waste Discharge Requirements General Order No. R5-2013-0122 
+                Existing Milk Cow Dairies 
+
+                     Method used to determine amount of manure: weighed      on   scale 
+
+                      per     load 
+                Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+                amount. 
+
+                     Process Wastewater:                Gallons 
+
+                     Method used to determine volume of process wastewater: 
+
+                Written Agreement: 
+                Does the Operator have a written agreement (in compliance with Land Application Specification 
+                E.3 of Reissued Waste Discharge Requirements General Order No. R5-2013-0122) with any 
+                party that receives process wastewater from the Operator for its own use? (please check one) 
+
+                [X] Yes       [X] No 
+
+                If the answer is no, the Operator agrees to have such a written agreement with any such party 
+                for any process wastewater transferred after 31 December 2007 to such party. 
+                               (Operator shall provide initials here to acknowledge this requirement). 
+
+                Certification: 
+                I declare under the penalty of law that I personally examined and am familiar with the information 
+                submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+                obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+                there are significant penalties for submitting false information, including the possibility of a fine and 
+                imprisonment for knowing violations. 
+
+                Operator's Signature: Cocusigned by:                         Date: 2/24/25 
+
+                Hauler's Signature: Luke Vanderham                           Date: 6/12/2025 
+                                      038F1ADFA04B412 ...
+
+=== Page 63 ===
+Docusign Envelope ID: 7B8D82A9-6084-4A31-99BC-77979142A985 
+
+                                                                                                       FGL 
+                                                                     ENVIRONMENTAL                                 AGRICULTURAL 
+                                                                                               Analytical Chemists 
+
+              February 6, 2024                                                                                            Lab No.                        : VI 2440441 
+                                                                                                                           Customer No.                 : 4018573 
+              Innovative Ag Services, LLC 
+              1201 Delta View Road                                                                                         Reference                    : 42365 
+              Suite 5 
+              Hanford, CA 93230 
+
+                                                                                         Laboratory Report 
+
+        Introduction: This report package contains a total of 4 pages divided into 3 sections: 
+                                Case Narrative                      (1 page)           : An overview of the work performed at FGL. 
+                                Sample Results                      (1 page)           : Results for each sample submitted. 
+                                Quality Control                    (2 pages)           : Supporting Quality Control (QC) results. 
+
+                                                                                            Case Narrative 
+
+    This Case Narrative pertains to the following samples: 
+               Sample Description                                  Date Sampled                               Date Received                                 FGL Lab No.                           Matrix 
+     DW1                                                              01/16/2024                                 01/16/2024                                VI 2440441-001                            DW 
+
+     Sampling and Receipt Information: 
+
+      The Sample was received in acceptable condition and within temperature requirements, unless noted on the Condition 
+      Upon Receipt (CUR) form. The Sample was received, prepared and analyzed within the method specified holding times. 
+      All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs). 
+      For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form. 
+
+    Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted 
+    in the Quality Control Section of this report. 
+
+     Test Summary 
+     EPA 200.7                            Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573) 
+     EPA 300.0                            Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573) 
+     SM 2540 C                            Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573) 
+     SM 4500-H+B                          Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573) 
+
+     Certification: I certify that this data package is in compliance with ELAP standards, both technically and for 
+     completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data 
+     package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This 
+     report shall not be reproduced except in full, without the written approval of the laboratory. 
+
+     KD: JRD 
+
+                                                                                                                                                                       Digitally Title: Laboratory signed by Director Kelly A. Dunnahoo, B.S. 
+                                                                                                       Approved By Kelly A. Dunnahoo, B.S.                              Date: 2024-02-06 
+
+    Section: Case Narrative                                                                          Page 1 of 4                                                                    Page 1 of 4 
+     853 Corporate Corporation Offices Street & Laboratory      2500 Office Stagecoach & Laboratory Road 563 Office E. & Lindo Laboratory Avenue Office 3442 Empresa & Laboratory Drive, Suite D 9415 Office W. & Goshen Laboratory Avenue 
+     TEL: Santa (805)392-2000 Paula, CA 93060                   TEL: Stockton, (209)942-0182 CA 95215 TEL: Chico, (530)343-5818 CA 95926    TEL: San Luis (805)783-2940 Obispo, CA 93401 Visalia, TEL: (559)734-9473 CA 93291 
+     CA Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423                             FAX: (530)343-3807                    FAX: (805)783-2912                    FAX: (559)734-8435 
+          ELAP Certification No. 1573                           CA ELAP Certification No. 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CA ELAP Certification No. 2810

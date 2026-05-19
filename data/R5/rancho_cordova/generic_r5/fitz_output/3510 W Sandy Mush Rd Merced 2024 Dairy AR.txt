@@ -1,0 +1,477 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+3 Machados Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95340
+Merced
+Merced
+3260 W Sandy Mush RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1991
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X065-X120-X016-XXXX
+B.
+Machado, Jose
+Operator name: Machado, Jose
+Telephone no.:
+Landline
+Cellular
+(209) 383-7661
+(209) 564-0170
+3412 W Sandy Mush RD
+Merced
+CA
+95341
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Machado, Jose
+Legal owner name: Machado, Jose
+Telephone no.:
+Landline
+Cellular
+(209) 383-7661
+(209) 564-0170
+95341
+Zip Code
+State
+City
+Mailing Address Number and Street
+3412 W Sandy Mush RD
+Merced
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/22/2025 11:46:52
+Page 1 of 71
+3 Machados Dairy | 3260 W  Sandy Mush RD | Merced, CA 95340 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+375
+465
+0
+2,210
+2,400
+1,400
+275
+300
+1,400
+540
+598
+900
+0
+400
+650
+0
+500
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+75 pounds per cow per day
+Average number
+2,210
+275
+540
+375
+465
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+72,724.81
+921,445.91
+152,011.98
+431,674.68
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+645,012.14 lbs per reporting period
+Total salt from manure:
+1,106,838.90 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+200,827.04
+24,450.28
+279,758.31
+1,438,735.41
+67,824,000
+lbs
+lbs
+lbs
+gallons
+67,824,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+67,824,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+IW #1
+Ground water
+IW #2
+Ground water
+IW #3
+Ground water
+IW #5
+Ground water
+IW #6
+Ground water
+06/22/2025 11:46:52
+Page 2 of 71
+3 Machados Dairy | 3260 W  Sandy Mush RD | Merced, CA 95340 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 72 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/22/2025 11:46:52
+Page 1 of 1
+3 Machados Dairy | 3260 W  Sandy Mush RD | Merced, CA 95340 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 73 ===
+Reported: 09/03/2024  11:26
+3 Machados Dairy
+3412 W Sandy Mush Road
+Merced, CA  95341
+Account Manager: Christian Duran
+Submitted By: F & R Ag
+Received: 08/22/2024  10:54
+Account# 00-0022209
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+Mid Canal
+24H1710-01
+08/20/2024  15:58
+Ag Water
+Danny
+Canal Water
+[TOC_1]Samples in 
+Report[TOC]
+Default Cooler
+Temperature on Receipt °C: 4.8
+Containers Intact
+COC/Labels Agree
+Preservation Confirmed
+Received On Ice
+Notes and Definitions 
+Item
+Definition
+Hold time exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 9
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 131 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Joe Machado
+Joe Machado
+(209) 383-7661
+3260 W Sandy Mush RD
+95340
+Merced
+Merced
+3 Machados Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Cardoso Farm Services
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95324
+Contact Person:
+Name
+Phone Number
+(559) 678-3712
+Hilmar
+CA
+P.O. Box 60
+Arlindo Cardoso
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Erickson Farming
+3511 W Sandy Mush RD
+Address
+City
+State
+Zip Code
+Phone Number
+Merced
+CA
+95341
+(209) 652-3536
+Last date hauled: 11/20/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Merced
+95341
+3511 W Sandy Mush RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 132 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 588.00 tons
+Manure Solids Content:
+95.7 %
+Method used to determine amount of manure:
+Number of Loads Multiplied by load weight
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+6/26/2025
+6/27/2025
+
+
+=== Page 133 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Joe Machado
+Joe Machado
+(209) 383-7661
+3260 W Sandy Mush RD
+95340
+Merced
+Merced
+3 Machados Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Silva Bros Custom Chopping
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95341
+Contact Person:
+Name
+Phone Number
+(209) 678-3712
+Merced
+CA
+5900 W Dickenson Ferry
+Manuel Silva
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Fred Melo Farming
+1319 S Quinley RD
+Address
+City
+State
+Zip Code
+Phone Number
+Merced
+CA
+95341
+(209) 678-4212
+Last date hauled: 11/22/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Merced
+95341
+1319 S Quinley RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+
+
+=== Page 134 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 612.00 tons
+Manure Solids Content:
+95.2 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: 2104BAC1-BEA0-4FF2-974B-40F4BA926F89
+6/27/2025
+6/26/2025

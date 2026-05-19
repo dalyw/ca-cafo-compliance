@@ -1,0 +1,264 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Willem Postma Dairy #1
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95357
+Stanislaus
+Modesto
+3700 Claus RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1962
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X014-X013-X003-XXXX
+B.
+Postma, Willem
+Operator name: Postma, Willem
+Telephone no.:
+Landline
+Cellular
+(209) 551-2930
+3700 Claus RD
+Modesto
+CA
+95357
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Postma, Willem
+Legal owner name: Postma, Willem
+Telephone no.:
+Landline
+Cellular
+(209) 551-2930
+95357
+Zip Code
+State
+City
+Mailing Address Number and Street
+3700 Claus RD
+Modesto
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/27/2025 11:29:47
+Page 1 of 81
+Willem Postma Dairy #1 | 3700 Claus RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+600
+550
+200
+190
+990
+990
+1,400
+160
+160
+1,450
+0
+600
+950
+0
+550
+700
+0
+200
+0
+190
+Predominant milk cow breed: Holstein
+Average milk production:
+74 pounds per cow per day
+Average number
+990
+160
+600
+550
+200
+190
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+41,045.74
+497,726.67
+81,282.10
+192,722.42
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+348,408.67 lbs per reporting period
+Total salt from manure:
+504,311.40 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+124,030.84
+12,405.62
+150,211.23
+1,207,844.82
+22,712,400
+lbs
+lbs
+lbs
+gallons
+22,712,400
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+22,712,400
+D. FRESH WATER SOURCES
+Source Description
+Type
+Canal OID
+Ground water
+MID Lateral 5
+Ground water
+06/27/2025 11:29:47
+Page 2 of 81
+Willem Postma Dairy #1 | 3700 Claus RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 82 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/27/2025 11:29:47
+Page 1 of 1
+Willem Postma Dairy #1 | 3700 Claus RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 83 ===
+Customer
+Willem Postma Dairy #1
+P.O. Box 576529
+Modesto, CA 95357
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+9/5/24 2:04 PM
+SUBMITTED BY:
+Jeanette Sawyer
+ANALYZED DATE:
+9/1/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Canal Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.608
+mmhos/cm
+T4260053A
+DW#1
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+14.7
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+389
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+98.6
+Electrical Conductivity (EC)
+3.49
+90.7
+Nitrate Nitrogen (NO3-N)
+98.7 (T4260053A)
+98.5 (T4260053A)
+0.223
+103
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

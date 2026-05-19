@@ -1,0 +1,289 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Fred A Douma Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95304
+San Joaquin
+Tracy
+28524 S Kasson RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1996
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X241-X380-XX02-XXXX
+B.
+Brouwer, Neil
+Operator name: Brouwer, Neil
+Telephone no.:
+Landline
+Cellular
+(209) 904-9327
+28524 Kasson
+Tracy
+CA
+95304
+Mailing Address Number and Street
+City
+State
+Zip Code
+OPERATORS
+Douma, Fred
+Legal owner name: Douma, Fred
+Telephone no.:
+Landline
+Cellular
+(209) 839-0856
+95304
+Zip Code
+State
+City
+Mailing Address Number and Street
+28524 Kasson
+Tracy
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/04/2025 14:17:52
+Page 1 of 82
+Fred A Douma Dairy | 28524 S  Kasson RD | Tracy, CA 95304 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+220
+0
+218
+0
+2,765
+2,780
+1,400
+402
+415
+1,450
+0
+235
+1,000
+0
+0
+0
+0
+240
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+75 pounds per cow per day
+Average number
+2,765
+402
+220
+0
+218
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+81,711.20
+1,056,810.14
+175,375.66
+540,081.67
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+739,767.10 lbs per reporting period
+Total salt from manure:
+1,398,160.26 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+268,571.03
+25,338.81
+593,729.15
+2,708,968.51
+56,322,459
+lbs
+lbs
+lbs
+gallons
+56,322,459
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+56,322,459
+D. FRESH WATER SOURCES
+Source Description
+Type
+North
+Ground water
+San Joaquin River
+Surface water
+South
+Ground water
+06/04/2025 14:17:52
+Page 2 of 82
+Fred A Douma Dairy | 28524 S  Kasson RD | Tracy, CA 95304 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 83 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/04/2025 14:17:52
+Page 1 of 1
+Fred A Douma Dairy | 28524 S  Kasson RD | Tracy, CA 95304 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 84 ===
+Section: Case Narrative
+Section: Case Narrative
+This Page is to be Stamped
+January 6, 2025
+Sentry Ag Services
+Attn: Monique Baldivez
+P.O. Box 7750
+Visalia, CA 93290
+Lab No.
+: VI 2449894
+Customer No.
+: 4019696
+Reference
+: 4423
+Laboratory Report
+Introduction: This report package contains a total of 4 pages divided into 3 sections:
+Case Narrative
+(1 page)
+: An overview of the work performed at FGL.
+Sample Results
+(2 pages)
+: Results for each sample submitted.
+Quality Control
+(1 page)
+: Supporting Quality Control (QC) results.
+Case Narrative
+This Case Narrative pertains to the following samples:
+Sample Description
+Date Sampled
+Date Received
+FGL Lab No.
+Matrix
+North
+12/16/2024
+12/16/2024
+VI 2449894-001
+DW
+South
+12/16/2024
+12/16/2024
+VI 2449894-002
+DW
+Sampling and Receipt Information:
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition
+Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times.
+All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
+For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+Test Summary
+SM 4500-H+B
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for
+completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
+report shall not be reproduced except in full, without the written approval of the laboratory.
+KD: JRD 45 Digitial Signature Stamp Y = 8.424
+Page 1 of 4
+Corporate Offices & Laboratory
+853 Corporation Street
+Santa Paula, CA 93060
+TEL: (805)392-2000
+CA ELAP Certification No. 1573
+Office & Laboratory
+2500 Stagecoach Road
+Stockton, CA 95215 
+TEL: (209)942-0182 
+CA ELAP Certification No. 1563
+Office & Laboratory
+563 E. Lindo Avenue
+Chico, CA 95926
+TEL: (530)343-5818
+CA ELAP Certification No. 2670
+Office & Laboratory
+9411 W. Goshen Avenue 
+Visalia, CA 93291
+TEL: (559)734-9473
+CA ELAP Certification No. 2810
+Office & Laboratory
+3442 Empresa Drive, Suite D 
+San Luis Obispo, CA 93401 
+TEL: (805)783-2940
+CA ELAP Certification No. 2775
+ENVIRONMENTAL          AGRICULTURAL
+Analytical Chemists
+ 
+Approved By  Kelly A. Dunnahoo, B.S. 
+Digitally signed by Kelly A. Dunnahoo, B.S.
+Title: Laboratory Director
+Date: 2025-01-06
+Page 1 of 4

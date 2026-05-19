@@ -1,0 +1,173 @@
+=== Page 1 ===
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:                Faial Farms 2
+Physical address of dairy:
+
+18683 Magnolia Ave                                                                                                   Shafter                                   Kern                               93263
+Number and Street                                                                                                           City                                          County                             Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation:             02-10-2002
+
+Regional Water Quality Control Board Basin Plan designation:                 Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+
+0088-0160-0016-0000 0088-0160-0017-0000 0088-0160-0022-0000 0088-0160-0023-0000
+B. OPERATORS
+
+Manuel Rosa Jr.
+
+Operator Name:          Manuel Rosa Jr.                                                                                                  Telephone no.: (661) 667-1016
+Landline                    Cellular
+P.O. BOX 456                                                                                                                          ARVIN                        Kern                      93203
+Mailing Address Number and Street                                                                                                                       City                                 County                        Zip Code
+C. OWNERS
+
+Manuel Rosa Jr.
+
+Owner Name:            Manuel Rosa Jr.                                                                                               Telephone no.:     (661) 667-1016
+
+Landline                Cellular
+
+P.O. BOX 456                                                                                                                          ARVIN                        Kern                      93203
+Mailing Address Number and Street                                                                                                                       City                                 County                        Zip Code
+
+
+=== Page 2 ===
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Milk Cows      Dry Cows      Bred Heifers (15-24 mo.)           Heifers (7-14 mo.to breeding)            Calves (4-6 mo.)        Calves (0-3 mo.)
+
+Number open confinement             0                   367               1,384                                      882                                                386                          59
+
+Number under roof                      2,198             0                  0                                           0                                                   0                              0
+
+Maxiumu number                    2,200           372            1,388                               885                                       390                      60
+
+Average number                      2,198           367             1,384                                 882                                          386                       59
+
+Average live weight (Ibs)               1400             1450            1000                                    750
+
+Predominant milk cow breed:       Holsteins
+Average Milk Production:               70 pounds per cow per day
+
+B. MANURE GENERATED
+
+Total manure excreted by the herd:                  86,250.52 tons per reporting period
+Total nitrogen from manure:                          1,041 925.86 Ibs per reporting period           After ammonia losses (30% loss applied):                     729,348.10 /bs per reporting period
+Total phosphorus from manure:                       171,638.68 Ibs per reporting period
+Total potassium from manure:                         420,937.28 Ibs per reporting period
+Total salt from manure:                                1,119,319.95 Ibs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated:                    27,577,019.81 gallons
+;                                           TT                       27,577,019.81 gallons applied
+Total nitrogen generated:                           133,325.85 Ibs
+—_—_———                                             0 gallons exported
+Total phosphorus generated:                  89,772,620.81 Ibs                                        ;
+——_———                                            0 gallons imported
+Total potassium generated:                         159,820.59 Ibs
+———___—-                       27,577,019.81 gallons generated
+Total salt generated:                                 930,807.08 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                             Type
+
+F2 #1                                                                                                      Ground Water
+F2 #2                                                                                                      Ground Water
+F2 #3                                                                                                      Ground Water
+F2 #4                                                                                                      Ground Water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+
+No process wastewater nutrient imports entered.
+
+
+=== Page 64 ===
+REQUIRED ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 65 ===
+Solid/Liquid Manure Tracking Manifest
+
+.                                                                                                  If amount hauled / transferred is liquid, then a "Waste Water
+Waste Generator Information:                         Contact:                                                       Agreement" is required in compliance with Land Application
+
+Specification C.2 of the General Order R5-2007-0035.
+
+Name:                     Manuel Rosa Jr.                       Name:                     Manuel Rosa Jr.
+Facility Name:           Faial Farms 2                          Number:                  (661) 667-1016                         Does the operator have an agreement, and is a Waste Water
+a                                                                                                         :      :                    >
+Facility Address: 18683 Magnolia Ave                                                                                             Agreement on file with the RWQCD? NO
+Facility City/State:      Shafter, CA 93263                                                                                                       | declare under the penalty of law that | personally examined
+and am familiar with the information submitted in this document,
+;                                                                                                       and that based on my inquiry of those individuals immediately
+Manure Hauler / Processor Information:           Contact:                                                      responsible for obtaining the information, | believe that the
+;                                         information is true, accurate and complete. | am aware that
+Name:                      T/M Composting                        Name:                      Trina Payne                             there are significant penalties for submitting false information.,
+Facility Address:        4322 Saco rd.                             Number:                    800-995-8331                             including the possibility of a fine and imprisonment for knowing
+Facility City/State: Bakersfield, CA 93308                                                                                                  violations.
+Signature of Owner:
+Manure Destination            Composting Facility
+Destination Information:                           Contact:                                                       . 2
+Name:                    T/M Composting                      Name:                    Trina Payne                                           =
+Facility Address:       4322 Saco Rd,                        Number:                  800 995 8331                           Date:
+Facility City/State:      Bakersfield, CA                                                                                               12/30/2024
+Dates Hauled / Transferred               Amount Hauled / Transferred                Units        Moisture %             Signature of Hauler:
+Jun 1, 2024 - Jun, 30 2024                  5,997                                               ton           68 %
+Jul 1, 2024 - Jul, 31 2024                   6,536                                            ton          64 %                      _ ee
+Aug 1, 2024 - Aug, 31 2024               7,878                                         ton         68 %                           -                            ie
+Total                                               20,411                                                                                               $s
+
+Date:
+12/30/2024
+
+
+=== Page 66 ===

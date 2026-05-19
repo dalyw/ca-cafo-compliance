@@ -1,0 +1,188 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Valentine Dairy
+
+Physical address of dairy:
+
+20717 Bloss AVE                                                                                                                    Hilmar                                 Merced                            95324
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1932
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X045-X170-X034-XXXX
+
+B. OPERATORS
+
+Clauss-Jorristma, Kimberly
+
+Operator name: Clauss-Jorristma, Kimberly                                                                           Telephone no.: (209) 667-4582
+
+Landline              Cellular
+21670 Bloss AVE                                                                                                                        Hilmar                                CA                 95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Clauss-Jorristma, Kimberly
+
+Legal owner name: Clauss-Jorristma, Kimberly                                                                                       Telephone no.: (209) 667-4582
+
+Landline              Cellular
+21670 Bloss AVE                                                                                                                        Hilmar                                CA                 95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Valentine Dairy | 20717 Bloss AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+05/13/2025 13:12:37                                                                                                                                              Page 1 of 31
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                    208                       0                       0
+Number under roof                                       0                         0                      300                         0                         0                         0
+Maximum number                               0                   0                300                208                   0                   0
+Average number                                    0                     0                  300                  208                     0                     0
+Avg live weight (Ibs)                               0                     0                1,300                1,000
+Predominant milk cow breed: Other
+Average milk production:                            {1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:          5,621.42 tons per reporting period
+Total nitrogen from manure:                    48 341.28 Ibs per reporting period       After ammonia losses (30% loss applied):         33,838.90 /bs per reporting period
+Total phosphorus from manure:               8,180.83 /bs per reporting period
+Total potassium from manure:                       1.00 /bs per reporting period
+Total salt from manure:                                0.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       14,267,000 gallons            20,162,000 gallons applied
+Total nitrogen generated:               29,729.77 lbs           +               0 gallons exported
+Total phosphorus generated:            3,983.51 /bs           -      5,895,000 gallons imported
+Total potassium generated:            44,248.37 lbs           = 14,267,000 gallons generated
+Total salt generated:                  349,589.24 Ibs
+
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+
+T.I.D Canal                                                                                          Surface water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+Valentine Dairy | 20717 Bloss AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+05/13/2025 13:12:37                                                                                                                                                                                  Page 2 of 31
+
+
+=== Page 32 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Valentine Dairy | 20717 Bloss AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+05/13/2025 13:12:37                                                                                                                                                   Page 1 of 1
+
+
+=== Page 33 ===
+SELLAVALLE
+
+LABORATORY
+
+Clauss Dairy Farms                                                Account# 00-0022161                                          Received: 12/12/2024 12:47
+21670 Bloss Ave                                                Account Manager: Christian Duran                           Reported: 12/17/2024 08:56
+Hilmar, CA 95324                                               Submitted By: Omar Hernandez
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24L0642-01         CDF Milk Barn                                   Ground Water                  Omar                                                              12/11/2024 14:00
+24L0642-02         CDF Home                                       Ground Water                  Omar                                                              12/11/2024 14:14
+24L0642-03         CDF Clauss East                                 Ground Water                  Omar                                                               12/11/2024 14:08
+24L0642-04         CDF Hospital                                    Ground Water                  Omar                                                              12/11/2024 14:20
+24L0642-05         CDF Irrigation                                    Ground Water                  Omar                                                               12/11/2024 14:25
+24L0642-06         Valentine #1                                  Ground Water                 Omar                                                          12/11/2024 15:08
+24L0642-07         Valentine #2                                  Ground Water                 Omar                                                          12/11/2024 15:10
+Default Cooler            Temperature on Receipt °C: 4.7
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                  Hold time exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 12

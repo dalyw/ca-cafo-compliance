@@ -1,0 +1,142 @@
+=== Page 90 ===
+ATTACHMENT D 
+
+                       Manure/Process Wastewater Tracking Manifest 
+                                                    For 
+                                     Existing Milk Cow Dairies 
+
+Instructions: 
+ 1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+ 3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+ 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sabino A. Herrera D.V.M 
+
+Name of Dairy Facility: Lander Heifer Facility 
+
+ Facility Address:    10507 Lander Ave                               Turlock                 95380 
+                        Number and Street                              City                     Zip Code 
+
+ Contact Person Name and Phone Number: Sabino A. Herrera                           209-632-5822 
+                                                         Name                             Phone Number 
+ Manure/Process Wastewater Hauler Information: 
+ Name of Hauling Company/Person: Joshua Holsapple Fertilizer Spreading Inc 
+
+ Address of Hauling Company /Person: 4101 Berkely                     Ave         Turlock          95380 
+                                               Number and Street                    City          Zip Code 
+
+ Contact Person:     Joshua Holsapple                                          209-668-4727 
+                           Name                                                 Phone Number 
+ Destination Information: 
+ Composting Facility / Broker / Farmer / Other (identify)                              (please circle one) 
+
+ Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+  JHES Inc              4101 N. Berkely Ave               Turlock         95380         209-668-4727 
+    Name                   Number and Street                    City         Zip Code        Phone Number 
+
+ Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+ SAME AS ABOVE 
+     Number and Street                      City                  Zip Code          Assessor's Parcel Number 
+
+ Dates Hauled:            9/20-1214 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+       Manure Manure: Solids 7404 Content Tons [X] (if amount pr Cubic reported Yards in (indicate tons): which 8.41. units used) 
+
+       Manure Density (if amount reported in cubic yards):
+
+=== Page 91 ===
+Attachment                                                                          D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairles 
+
+     Method used to determine amount of manure:     Box-Sereacting Div 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+     Process Wastewater:      N/A         Gallons 
+
+     Method used to determine volume of process wastewater:   N/A 
+
+Written Agreement: 
+Does the Operator have a written agreement (In compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+  [X] 
+     Yes              No 
+
+'if the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+               (Operator shall provide initials here to acknowledge this requirement). 
+
+Certification: 
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals Immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. Iam aware that 
+there are significant penalties for submitting false information, including the possibility of a fine and 
+Imprisonment for knowing violations. 
+
+Operator's Signature:                                           Date: 
+
+Hauler's Signature:                                             Date:
+
+=== Page 92 ===
+TM 
+
+DELLAVALLE 
+
+LABORATORY                                                              INC 
+
+ Ahlem Farms Partnership                                                   Account# 00-0026874                                                  Received: 12/12/2024 12:55 
+ 24093 American Ave                                                        Account Manager: Christian Duran                                     Reported: 12/17/2024 15:44 
+ Hilmar, CA 95324                                                          Submitted By: F&R Ag Services 
+
+                                                                             Samples in this Report 
+
+Lab ID               Sample                                           Matrix                         Sampled By                     Crop                               Date Sampled 
+
+24L0700-01            DW A                                            Ground Water                   Sabino Herrera                                                   12/11/2024 9:00 
+24L0700-02            DW B                                            Ground Water                   Sabino Herrera                                                   12/11/2024 9:05 
+24L0700-03            DW C                                            Ground Water                   Sabino Herrera                                                   12/11/2024 9:10 
+24L0700-04            DW D                                            Ground Water                   Sabino Herrera                                                   12/11/2024 9:20 
+24L0700-05            Tile Drain                                      Ground Water                   Sabino Herrera                                                   12/11/2024 9:30 
+
+ Default Cooler                   Temperature on Receipt ℃: 7.0 
+     Containers Intact 
+     COC/Labels Agree 
+     Received On Ice 
+
+                                                                             Notes and Definitions 
+
+Item              Definition 
+
+H                 Hold time exceeded 
+MCL                Drinking Water Maximum Contaminant Level 
+ND                 Analyte NOT DETECTED at or above the reporting limit. 
+NES                Not Enough Sample 
+ *                 Not Taken 
+RPD                Relative Percent Difference 
+ %REC              Percent Recovery 
+Source             Sample that was matrix spiked or duplicated. 
+
+                            MFrichland 
+
+      Laboratory Director/Technical Manager 
+
+      ELAP Certification #1595 
+     A2LA Certification #6440.02 
+
+          The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+          All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+                                                                                       party interpretation. 
+                                                      1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com 
+                                                                                                                                                                          Page 1 of 11

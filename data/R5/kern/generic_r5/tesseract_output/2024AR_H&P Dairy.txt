@@ -1,0 +1,184 @@
+=== Page 1 ===
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:                H&P Dairy
+Physical address of dairy:
+
+5021 E Bear Mountain Blvd                                                                           Bakersfield                               Kern                  93307
+Number and Street                                                                                                                          City                                                      County                       Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation:             01-01-2000
+
+Regional Water Quality Control Board Basin Plan designation:                 Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+
+0185-0350-0003-0000 0185-0350-0009-0000 0185-0350-0012-0000 0185-0350-0013-0000 0185-0350-0014-0000 0185-0350-0023-0000 0185-0350-0024-0000
+0185-0350-0026-0000 0185-0350-0031-0000 0185-0350-0032-0000 0185-0350-0040-0000 0185-0350-0041-0000 0185-0350-0066-0000 0189-0330-0025-0000
+0189-0330-0026-0000
+
+B. OPERATORS
+
+Lisa Haagsma
+
+Operator Name:         Lisa Haagsma                                                                                              Telephone no.: (661) 845-1100
+Landline                    Cellular
+5021 E Bear Mountain Blvd                                                                              Bakersfield                             Kern                 93307
+Mailing Address Number and Street                                                                                                    City                                                 County                    Zip Code
+C. OWNERS
+
+Lisa Haagsma
+
+Owner Name:            Lisa Haagsma                                                                                              Telephone no.: (661) 845-1100
+Landline                 Cellular
+5021 E Bear Mountain Blvd                                                                              Bakersfield                             Kern                 93307
+
+Mailing Address Number and Street                                                                                                  City                                                County                    Zip Code
+
+
+=== Page 2 ===
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Milk Cows      Dry Cows      Bred Heifers (15-24 mo.)           Heifers (7-14 mo.to breeding)            Calves (4-6 mo.)        Calves (0-3 mo.)
+
+Number open confinement             2,389             381               761                                         679                                                349                          0
+
+Number under roof                       0                   0                  0                                           0                                                   0                              0
+
+Maxiumu number                    2,392           386            780                                 712                                       356                      356
+
+Average number                      2,389           381             761                                   679                                          349                       0
+
+Average live weight (Ibs)               1400             1450            1000                                    750
+
+Predominant milk cow breed:       Holsteins
+Average Milk Production:               70 pounds per cow per day
+
+B. MANURE GENERATED
+
+Total manure excreted by the herd:                  82,553.70 tons per reporting period
+Total nitrogen from manure:                          1,025 ,245.46 Ibs per reporting period           After ammonia losses (30% loss applied):                     717,671.82 ibs per reporting period
+Total phosphorus from manure:                       169,208.05 /bs per reporting period
+Total potassium from manure:                         457,515.54 Ibs per reporting period
+Total salt from manure:                                1,212,471.60 Ibs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated:                    21,647 872.62 gallons
+;                                                    ee                            21,647 ,872.62 gallons applied
+Total nitrogen generated:                             30,671.66 /bs
+Sl                                             0 gallons exported
+Total phosphorus generated:                     60,720,791.66 /bs                                              ;
+———_———                                            0 gallons imported
+Total potassium generated:                          61,202.76 Ibs
+———_——                            21,647 ,872.62 gallons generated
+Total salt generated:                                 451,029.05 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                             Type
+
+Canal - Kern Delta                                                                           Surface Water
+D1                                                                                                      Ground Water
+HP-4                                                                                                   Ground Water
+HP-5                                                                                                   Ground Water
+HP-6                                                                                                   Ground Water
+HP7                                                                                                    Ground Water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+
+F. NUTRIENT IMPORTS
+
+
+=== Page 136 ===
+REQUIRED ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 137 ===
+Solid/Liquid Manure Tracking Manifest
+
+If amount hauled / transferred is liquid, then a "Waste
+
+Waste Generator Information:                               Contact:                                                             Water Agreement" is required in compliance with
+;                                              Land Application Specification C.2 of the General
+Name:                    Lisa Haagsma                              Name:                    Lisa Haagsma                              Order R5-2007-0035.
+Facility Name:         H&P Dairy                               Number:                (661) 845-1100                           Does th         tor h                   t andi
+a            .     no © pane hana Du                                                                          oes the operator have an agreement, and is a
+Facility Address:        5021 E Bear Mountain Blvd                                                                                              Waste Water Agreement on file with the
+Facility City/State:      Bakersfield, CA 93307                                                                                               RWQCD? NO
+;                                                                                                                   | declare under the penalty of law that | personally
+Manure Hauler / Processor Information:                  Contact:                                                                 examined and am familiar with the information
+;                                                                                                                       submitted in this document, and that based on my
+Name:                          Watts Spreading                                     Name:                           Hayley Watts                                          inquiry of those individuals immediately responsible
+Facility Address:       13214 Eberle rd                          Number:                (661)979-3359                            for obtaining the information, | believe that the
+Facility City/State:     Bakersfield , CA                                                                                         information is true, accurate and complete. | am
+
+aware that there are significant penalties for
+submitting false information., including the possibility
+Manure Destination                   Compost                                                                                                                                        of a fine and imprisonment for knowing violations.
+
+Destination Information:                                         Contact:                                                                   Signature of Owner:
+
+oe
+
+Name:                     Watts manure spreading                    Name:                     Watts manure spreading                               .
+Facility Add     :                                                           :                    -742-                                                     -
+y     ress      13214 Eberle rd                      Number              661-742-888                                |          Vj 1   h
+Facility City/State:     Bakersfield, Ca “A al      Cea i
+Date:
+Dates Hauled / Transferred                    Amount Hauled / Transferred                     Units         Moisture %                12/30/2024
+Mar 1, 2024 - Mar, 31 2024                    12,443                                             ton           70 %
+-                                                                                                       0,
+
+May 1, 2024 - May, 31 2024                11,308                                     ton         68 %                  Signature of Hauler:
+Jun 1, 2024 - Jun, 30 2024               8,119                                  ton        66 %
+Jul 1, 2024 - Jul, 31 2024                      7,765                                              ton           68 %
+Aug 1, 2024 - Aug, 31 2024                     7,390                                                 ton            68 %                          or Seri deare
+Sep 1, 2024 - Sep, 30 2024                    4,245                                                 ton            70 %
+Oct 1, 2024 - Oct, 31 2024                     2,237                                                ton           68 %                      Date:
+
+Total                                                        53,507                                                                                                                  12/30/2024
+
+
+=== Page 138 ===

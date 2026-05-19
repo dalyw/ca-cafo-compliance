@@ -1,0 +1,1354 @@
+=== Page 10 ===
+Preliminary Dairy Facility Assessment Report 
+                                            General Order No. R5-2007-0035 
+
+B. MILKBARN EQUIPMENT AND PARLOR FLOOR WASH 
+   All numerical                                Fresh water 
+   values in                                 used in manure                              Vacuum pumps / air 
+   gallons per day Milkbarn/parlor floor wash    flush lanes Plate coolers               compressors / chillers 
+   Selected Type: Traditional Manual                        Well Water Cooled (Water     Mechanically/Air Cooled 
+                   Parlor Floor Wash                        Reused/Recycled) 
+   Estimated:                        24,840                                      71,512                          0 
+   User-Entered:                       800             800                       30,000 
+   Volume used in                      800             800                       30,000                          0 
+   calculations: 
+
+   Source is 
+   recycled water:    [X [X] ] Yes [ ] No 
+
+C. MISCELLANEOUS EQUIPMENT 
+
+   Equipment Description                 Source              Throughput (gallons per day) Discharge Destination 
+   Pressure Washer                       Fresh Water                                 50 Sent to pond 
+
+D. DRINKING WATER SOURCE 
+  Reused water is the source of herd drinking water:    [X [X] ] Yes [ ] No 
+   If yes, total amount of reused water consumed:                25 gallons per head per day 
+
+E. SPRINKLER PEN 
+  Number of sprinklers in the holding pen:                        0 sprinklers 
+  Length of each sprinkler cycle:                                   minutes 
+  Number of sprinkler pen cycles per string:                        cycles/string 
+  Water flow rate of each sprinkler head:                           gallons per minute 
+   Sprinkler pen wastewater volume:                               0 gallons per day 
+  Sprinklers reuse water from equipment:                [ 1 Yes [    No 
+
+F. MILKBARN WATER CALCULATIONS 
+  Water available for reuse/recycle:                         30,000 gallons per day 
+   Recycled water used again:                                93,300 gallons per day 
+   Balance:                                                       0 gallons per day 
+
+   Milkbarn water sent to pond:                               3,150 gallons per day 
+   Milkbarn water leaving system:                                 0 gallons per day 
+
+                                  RETENTION PONDS STORAGE CAPACITY ESTIMATES 
+
+A. PONDS 
+
+                               Copies of this assessment shall be maintained for 10 years. 
+
+  These calculations are preliminary and approximate only. Completion of your Waste Management Plan and Nutrient Management 
+            Plan will provide you with more detailed and precise calculations upon which to make important decisions. 
+06/20/2025                                                                                                 Page 2 of 10
+
+=== Page 11 ===
+Preliminary Dairy Facility Assessment Report 
+                                             General Order No. R5-2007-0035 
+
+                                                            numerical values in feet 
+                                        Earthen Earthen Earthen                                        Storage Volume 
+                                         Length   Width    Depth Side Slope Free Board Dead Storage Corrected for Dead 
+   Basin Name                               (EL)   (EW)     (ED)     H:V (S)      (FB)     Loss (DS) Storage Loss (ft3) 
+
+   Lagoon                                 1,393     121       42        1.0          2            2        4,073,993 
+
+   Settling pond East                       450      38       14        1.0          4            0           86,733 
+
+   Settling pond West                       450      38       14        1.0          4            0           86,733 
+
+                                                 RAINFALL ESTIMATES 
+
+A. RAINFALL AND DRAINAGE INFORMATION 
+   Rainfall station nearest the facility:                           Marysville 
+
+   Storage period:                                                          120 days 
+   25 year / 24 hour storm event (NOAA Atlas 2, 1973):                     3.90 inches 
+   Storage period rainfall (DWR climate data):                            14.03 inches 
+   Combined storage period rainfall and 25 year / 24 hour storm event:    17.93 inches 
+   Estimated rainfall onto and drained into the wastewater retention pond: 2,753,076 gallons 
+
+                                       NUTRIENT REMOVAL BY CROP ESTIMATES 
+
+A. CROPS 
+       Acres                                      Yield Moisture   Protein Phosphorus         Nitrogen   Phosphorus 
+     Planted Crop Type                       (tons/acre)     (%)      (%) (Ibs/ton yield) Removed (Ibs) Removed (lbs) 
+
+        201 Corn silage                           30.0      70.0      9.0           1.5        52,099          9,045 
+
+        225 Ryegrass hay                           6.0      10.0     10.0           4.6        38,880          6,210 
+
+                                   ANNUAL NUTRIENT IMPORT & EXPORT ESTIMATES 
+
+A. ANNUAL NUTRIENT IMPORTS 
+   Combined estimate of nutrients from commercial fertilizers and atmospheric Nitrogen applied to crops: 
+
+   Nutrient Description                   Amount Applied (Ibs) 
+
+   Nitrogen (N)                                           45 
+   Phosphorus as Orthophosphate (P205)                   121 
+   Potassium as Potash (K20)                              15 
+
+   Atmospheric Nitrogen Deposition                     3,150 
+
+   Atmospheric Nitrogen Deposition Rate (ANDR) = 14 lbs N / acre / year. 
+
+                                Copies of this assessment shall be maintained for 10 years. 
+
+  These calculations are preliminary and approximate only. Completion of your Waste Management Plan and Nutrient Management 
+             Plan will provide you with more detailed and precise calculations upon which to make important decisions. 
+06/20/2025                                                                                                  Page 3 of 10
+
+=== Page 127 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 128 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 129 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 130 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 131 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 132 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 133 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 134 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 135 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 136 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 137 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 138 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 139 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 140 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 141 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 142 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 143 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 144 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 145 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 146 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 147 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 148 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                        916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 149 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024
+
+=== Page 150 ===
+Exhibit 5 
+Irrigation Records
+
+=== Page 206 ===
+1534 Willow Pass Road, Pittsburg, CA 94565-1701 
+           McCampbell Analytical, Inc.                           Toll Free Telephone: (877) 252-9262 / Fax: (925) 252-9269 
+                       "When Quality Counts"                     http://www.mccampbell.com / E-mail: main@mccampbell.com 
+
+                                        Quality Control Report 
+
+ Client:        Pace Analytical Services LLC-Redding CA           WorkOrder:          2405339 
+
+Date Prepared: 05/13/2024                                         BatchID:            293654 
+
+Date Analyzed: 05/13/2024                                         Extraction Method: E350.1 
+Instrument:     WC_SKALAR                                         Analytical Method: E350.1 
+
+Matrix:         Water                                             Unit:               mg/L 
+
+Project:        24E0103                                           Sample ID:          MB/LCS/LCSD-293654 
+                                                                                      2405339-003AMS/MSD 
+
+                                          QC Summary Report for E350.1 
+
+ Analyte                                  MB                    MDL      RL 
+                                          Result 
+
+ Ammonia, total as N                      ND                    0.089     0.10 
+
+ Analyte                                  LCS       LCSD      SPK                LCS     LCSD    LCS/LCSD RPD       RPD 
+                                          Result    Result    Val                %REC    %REC    Limits            Limit 
+
+ Ammonia, total as N                      3.9       4.0       4                  98      100     90-110    1.64       10 
+
+ Analyte                            MS    MS        MSD        SPK     SPKRef     MS       MSD    MS/MSD RPD        RPD 
+                                    DF    Result    Result     Val     Val        %REC     %REC    Limits          Limit 
+
+ Ammonia, total as N                 1    4.0       4.0        4       ND         101      99      80-120 1.54        20 
+
+ (Cont.) 
+ CA ELAP 1644 . NELAP 4033ORELAP 
+                                                                                                                   Page 16 of 26
+
+=== Page 207 ===
+1534 Willow Pass Road, Pittsburg, CA 94565-1701 
+           McCampbell Analytical, Inc.                           Toll Free Telephone: (877) 252-9262 / Fax: (925) 252-9269 
+                       "When Quality Counts"                    http://www.mccampbell.com / E-mail: main@mccampbell.com 
+
+                                        Quality Control Report 
+
+ Client:        Pace Analytical Services LLC-Redding CA           WorkOrder:         2405339 
+
+ Date Prepared: 05/14/2024                                        BatchID:           293756 
+Date Analyzed: 05/14/2024                                         Extraction Method: E350.1 
+Instrument:     WC_SKALAR                                         Analytical Method: E350.1 
+Matrix:         Water                                             Unit:              mg/L 
+
+Project:        24E0103                                           Sample ID:         MB/LCS/LCSD-293756 
+
+                                         QC Summary Report for E350.1 
+
+ Analyte                                  MB                   MDL       RL 
+                                          Result 
+
+Ammonia, total as N                       ND                   0.089     0.10 
+
+ Analyte                                  LCS       LCSD      SPK               LCS     LCSD    LCS/LCSD RPD       RPD 
+                                          Result    Result    Val               %REC    %REC    Limits            Limit 
+
+Ammonia, total as N                       4.0       4.1       4                 100     102     90-110    1.70       10 
+
+ CA ELAP 1644 . NELAP 4033ORELAP 
+                                                                                                                  Page 17 of 26
+
+=== Page 208 ===
+McCampbell Analytical, Inc.                                                                                                                           Page 1   of 1 
+         1534 Willow Pass Rd                                                        CHAIN-OF-CUSTODY RECORD 
+         Pittsburg, CA 94565-1701                                                   WorkOrder: 2405339              ClientCode: BASIC           QuoteID: 242556 
+         (925) 252-9262                    WaterTrax      CLIP             EDF           EQuIS       Dry-Weight     Email         HardCopy       ThirdParty    J-flag 
+                                         [ ]            [ ]             [ ]           [ ]         [ ]             [X]           [ ]           [ ]            [X] 
+                                                                                      [ ] Detection Summary       [X] Excel [Element_J-flag] 
+Report to:                                                                                    Bill to:                                  Requested TAT:     5 days; 
+  Nikki Aceituno                          Email:    ReddingClientServices@Pacelabs.com          Accounts Payable 
+  Pace Analytical Services LLC-Redding    cc/3rd Party:                                         Pace Analytical Services LLC-Redding 
+  2218 Railroad Avenue                    PO:                                                   2218 Railroad Avenue                    Date Received:      05/03/2024 
+  Redding, CA 96001                       Project: 24E0103                                      Redding, CA 96001                       Date Logged:        05/06/2024 
+  530.243.7234       FAX: 530.243.7494                                                          invoices@pacelabs.coupahost.com 
+
+                                                                                                                      Requested Tests (See legend below) 
+Lab ID                           ClientSampID                       Matrix     Collection Date Hold 1       2    3     4     5     6     7     8     9    10    11    12 
+
+2405339-001                     24E0103-01 MW-1                     Water      5/1/2024 13:04   [ ]   A    A 
+2405339-002                     24E0103-02 MW-2                     Water       5/1/2024 12:19 [ ]    A    A 
+2405339-003                     24E0103-03 MW-3                     Water       5/1/2024 14:21 [ ]    A    A 
+2405339-004                     24E0103-04 MW-4                     Water       5/1/2024 11:35 [ ]    A    A 
+2405339-005                     24E0103-05 DW-1                     Water       5/1/2024 14:46 [ ]    A    A 
+
+Test Legend: 
+
+ 1            AMMONIA_W                      2           PRDisposal Fee                   3                                           4 
+
+ 5                                           6                                            7                                           8 
+
+ 9                                           10                                          11                                          12 
+
+Project Manager: Susan Thompson                                                                                                      Prepared by: Agustina Venegas 
+
+Comments:          No partial reports, per email from Nikki, 3/8/23 
+
+                                NOTE: Soil samples are discarded 60 days after receipt unless other arrangements are made (Water samples are 30 days). 
+                                                     Hazardous samples will be returned to client or disposed of at client expense. 
+
+                                                                                                                                                                    Page 18 of 26
+
+=== RECOVERED MISSING PAGES ===
+
+=== Page 126 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                           For 
+                               Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+    several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator: Sietse Tollenaar 
+
+Name of Dairy Facility: Tollcrest Dairy 
+
+Facility Address: 3355 Virginia Rd.                   Wheatland                95692 
+                    Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number: Sietse Tollenaar                    530.633.0670 
+                                               Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: Beebe Industries 
+
+Address of Hauling Company /Person: P.O. Box 665                   Lincoln       95648 
+                                       Number and Street              City       Zip Code 
+
+Contact Person: Gary Beebe                                         916-645-6073 
+                      Name                                        Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Broker         (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+
+   Name                Number and Street             City       Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+ Dates Hauled: 01-01-2024 through 01-31-2024 
+
+ Amount Hauled: 
+ Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+ solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+ and the method used to calculate the amount: 
+
+      Manure: 15200        Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 15200 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 127 ===
+Attachment D                                                                              D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: Truck count and scale weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater:                    Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+receives process wastewater from the Operator for its own use? (please check one) 
+
+  [ ] Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                 (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: Süt a. Tollenen                              Date: 01/31/2024 
+
+ Hauler's Signature:                                                Date: 01/31/2024

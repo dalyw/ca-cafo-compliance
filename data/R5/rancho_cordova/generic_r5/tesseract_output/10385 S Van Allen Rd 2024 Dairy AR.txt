@@ -1,0 +1,150 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: E.R. Prins Dairy #1
+
+Physical address of dairy:
+
+10385 Van Allen RD                                                                                                        Stockton                             San Joaquin                    95215
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1985
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X205-X160-XX07-XXXX
+
+B. OPERATORS
+
+Prins, Ed
+Operator name: Prins, Ed                                                                                            Telephone no.: (209) 838-1627
+Landline              Cellular
+10385 Van Allen RD                                                                                                             Stockton                            CA                95215
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+Prins, Ron
+Operator name: Prins, Ron                                                                                           Telephone no.: (209) 838-1627
+Landline              Cellular
+10385 Van Allen RD                                                                                                             Stockton                            CA                95215
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Prins, Ed
+Legal owner name: Prins, Ed                                                                                         Telephone no.: (209) 838-1627
+Landline              Cellular
+10385 Van Allen RD                                                                                                             Stockton                            CA                95215
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+E.R. Prins Dairy #1 | 10385 Van Allen RD | Stockton, CA 95215 | San Joaquin County | San Joaquin River Basin
+
+06/13/2025 13:25:34                                                                                                                                              Page 1 of 63
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+
+Prins, Ron
+Legal owner name: Prins, Ron                                                                                       Telephone no.: (209) 838-1627
+Landline              Cellular
+10385 Van Allen RD                                                                                                             Stockton                            CA                95215
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+E.R. Prins Dairy #1 | 10385 Van Allen RD | Stockton, CA 95215 | San Joaquin County | San Joaquin River Basin
+
+06/13/2025 13:25:34                                                                                                                                                                                  Page 2 of 63
+
+
+=== Page 64 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+E.R. Prins Dairy #1 | 10385 Van Allen RD | Stockton, CA 95215 | San Joaquin County | San Joaquin River Basin
+
+06/13/2025 13:25:34                                                                                                                                                   Page 1 of 1
+
+
+=== Page 65 ===
+DENELE ANALYTICAL, INC.
+
+865 S. KILROY                                      DAIRY COMPLIANCE
+RoE                                      TURLOCK, CA 95380
+                                 PH# 209-634-9055 FAX# 209-634-9057                             Authorized Copy Released To:
+
+Client:                 &
+
+Mailing address:
+
+(not facitity address)                                                                                                  Sampled By:
+Phone#:                                                                                         Project ID:
+ANALYSIS TO BE COMPLETED:
+
+IRRIGATION/GROUND WATER                     DISCHARGE WATER                                                                                   SOIL
+H1 EC*, NO3-N, NH4-N*                                    E1 EC*, Temp*, pH*, NO3-N, NH4-N, TKN, TP, K, TDS, Dissolved Oxygen’,                    K3 Soluble Phosphorus
+H6 EC, TN, TDS                                                   BOD 5, TSS, Total & Fecal Coliforms               K4 1ft NO3, Organic Matter
+H7 Combination of H1 & H6                               E2 EC,* Temp*, pH*, NO3-N, NH4-N*, Turbidity, TP, Dissolved Oxygen‘,                        K5 Pre-Plant (2ft NO3), Fall (1-2ft NO3), Fall (2-3ft NO3)
+H14 EC, NO3-N, NH4-N, Ca, Mg, Na, Bicarb               Total & Fecal Coliforms                                                                           K6 0-1ft EC, NO3, Soluble P, K, Organic Matter
+
+Carb, SO4, Cl, TDS                                    E3 EC*, Temp*, pH*, NO3-N, NH4-N*, TP, Total & Fecal Coliforms                                K7 Combination of K3 & K4
+PROCESS WASTE WATER                           E4 EC*, Temp’, pH", NO3-N, NH4-N‘, Turbidity, TP, Total & Fecal Coliform                                 K8 Combination of K3 & K5
+H3 EC*, NH4-N, TKN, TP, K, TDS                         MANURE
+H4 EC*, NO3-N, NH4-N, TKN, TP, K, TDS              M1 % Moisture
+H5 Ca, Mg, Na, Bicarb, Carb, SO4, Cl                M3 TN TP, K, % Moisture
+H8 Combination of H3 &H5                         M4 Ca, Mg, Na, Bicarb, Carb, SO4, Cl, Ash
+H9 Combination of H4 &H5                                  M7 Combination of M3 & M4                                                                                                                                                                              x
+TILE DRAIN                                                PLANT TISSUE                                                                                                                   2                                                         Ww
+H2 EC*, NO3-N, TP, NH4-N*, TDS                       F18 % Moisture, Ash, TN, P, K, DM and as received                                                                                                                                      5
+* Required Field Measurement                                   F18+ % Moisture, Ash, TN, P, K, DM and as received
+___._ (Check here if performed)                                           (Package also includes NIR DCAD)
+
+Date                Time                         F19+ % Moisture, TN (Package includes complete plant tissue analysis)
+Collected                           Sample ID                            Description              Temp             Well Purge
+
+CHAIN OF CUSTODY RECORDING
+Signature                   Company
+
+ist QUAND oe, | Fe)
+and oY VPS | veneteanavricainc. | F/2B(O4 05 _|
+
+6 be submitted to any agency? (YES / NO)
+
+Received Date & Time          Relinquished Date & Time                  LABORATORY USE ONLY,
+
+[___—lesenay] LABORATORY NUMBER
+ee aa We
+

@@ -1,0 +1,235 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+B & D Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95324
+Merced
+Hilmar
+9579 Hultberg RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1930
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X045-X130-X039-XXXX
+B.
+Huff, Eric
+Operator name: Huff, Eric
+Telephone no.:
+Landline
+Cellular
+(209) 652-3534
+23467 Short AVE
+Hilmar
+CA
+95324
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Huff, Eric
+Legal owner name: Huff, Eric
+Telephone no.:
+Landline
+Cellular
+(209) 652-3534
+95324
+Zip Code
+State
+City
+Mailing Address Number and Street
+23467 Short AVE
+Hilmar
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+05/16/2025 09:34:51
+Page 1 of 56
+B & D Dairy | 9579 Hultberg RD | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Huff, Finley & Barbara
+Legal owner name: Huff, Finley & Barbara
+Telephone no.:
+Landline
+Cellular
+(209) 667-1781
+(209) 632-5941
+95324
+Zip Code
+State
+City
+Mailing Address Number and Street
+9579 Hultberg RD
+Hilmar
+CA
+05/16/2025 09:34:51
+Page 2 of 56
+B & D Dairy | 9579 Hultberg RD | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 57 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/16/2025 09:34:51
+Page 1 of 1
+B & D Dairy | 9579 Hultberg RD | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 58 ===
+Ag Suitability Water Analysis
+B&D DAIRY
+PO BOX 399
+HILMAR, CA  95324
+Submitted Date:
+12/30/2024
+Report Date:
+1/6/2025
+Order Number:
+109066
+ERIC HUFF
+Submitted By:
+Lab Number:
+W109066-01
+Description: IW #1
+mg/L = milligrams/liter = part per million = ppm
+meq/L = milliequivalents/liter
+dS/m = deciSiemen/meter = mmhos/cm
+lbs/ac-ft = pounds/acre-foot
+Grower: B&D DAIRY
+Analytes
+Normal Values
+Problem Values
+pH (pH)
+pH units
+6.5 to 8.0
+7.2
+<6.5 or >8.0
+Electrical Conductivity (EC)
+dS/m
+0.5 to 3.0
+1.33
+<0.5 or >3.0
+Boron (B)
+mg/L
+<0.5
+0.21
+>0.5
+Cations
+meq/L
+lbs/ac-ft
+mg/L
+Normal Values
+Problem Values mg/L
+mg/L
+Calcium (Ca)
+338
+30 to 400
+6.26
+<30
+125
+Magnesium (Mg)
+99.1
+1 to 60
+3.06
+[Mg]>[Ca]
+36.7
+Sodium (Na)
+191
+<70
+3.07
+>70
+70.6
+Potassium (K)
+51.0
+0.48
+18.9
+Anions
+meq/L
+lbs/ac-ft
+mg/L
+Normal Values
+Problem Values mg/L
+mg/L
+Bicarbonate (HCO₃)
+876
+<150
+5.32
+>300
+325
+Chloride (Cl)
+165
+<150
+1.72
+>200
+61.0
+Nitrate - Nitrogen (NO₃-N)
+172
+<10
+4.55
+>10
+63.7
+Sulfate - Sulfur (SO₄-S)
+107
+1.24
+39.7
+Calculated Values
+Normal Values
+Problem Values
+Total Dissolved Solids (TDS)
+mg/L
+1 to 1,500
+915
+>1,900
+Sodium Absorption Ratio (SAR)
+<6.0
+1.4
+>6.0
+SAR/EC Ratio (SEC)
+<5.0
+1.1
+>10.0
+pHc (pHc)
+<8.4 may add Ca
+7.0
+>8.4 may remove Ca
+100% gypsum equivalent (lbs/ac-ft)
+Gypsum Requirements
+Eatons Gypsum Requirement (EGR)
+0
+Residual Sodium Carbonate (RSC)
+0
+RED = Value of Concern
+contact@vtaglab.com

@@ -1,0 +1,201 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Brum de Visser Dairy
+
+Physical address of dairy:
+
+4500 Albers Rd. RD                                                                                         Oakdale                         Stanislaus                   95361
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address): Claribel Rd.
+
+Date facility was originally placed in operation: 04/01/1961
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X014-X009-X003-XXXX
+
+B. OPERATORS
+
+de Visser, Abraham
+
+Operator name: de Visser, Abraham                                                                            Telephone no.: (209) 847-0468 (209) 541-4737
+Landline               Cellular
+
+4500 Albers RD                                                                                                                  Oakdale                            CA                95361
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+de Visser, Abraham
+
+Legal owner name: de Visser, Abraham                                                                                       Telephone no.: (209) 847-0468 (209) 541-4737
+Landline               Cellular
+
+4500 Albers RD                                                                                                                  Oakdale                            CA                95361
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Brum de Visser Dairy | 4500 Albers Rd. RD | Claribel Rd. | Oakdale, CA 95361 | Stanislaus County | San Joaquin River Basin
+
+06/30/2025 12:30:45                                                                                                                                              Page 1 of 29
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                       0                       0
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                               0                   0                   0                   0                   0                   0
+Average number                                    0                     0                     0                     0                     0                     0
+Avg live weight (Ibs)                               0                     0                     0                     0
+Predominant milk cow breed: Other
+Average milk production:                            {1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:               1.00 tons per reporting period
+Total nitrogen from manure:                           1.00 Ibs per reporting period       After ammonia losses (30% loss applied):                 0.70 /bs per reporting period
+Total phosphorus from manure:                     1.00 /bs per reporting period
+Total potassium from manure:                       1.00 /bs per reporting period
+Total salt from manure:                                0.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:                      gallons                         0 gallons applied
+Total nitrogen generated:                            los            +                0 gallons exported
+Total phosphorus generated:                      lbs           -               0 gallons imported
+Total potassium generated:                        lbs           =               0 gallons generated
+Total salt generated:                                      Ibs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+OID Canal                                                                                                        Surface water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+Brum de Visser Dairy | 4500 Albers Rd. RD | Claribel Rd. | Oakdale, CA 95361 | Stanislaus County | San Joaquin River Basin
+
+06/30/2025 12:30:45                                                                                                                                                                                  Page 2 of 29
+
+
+=== Page 30 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Brum de Visser Dairy | 4500 Albers Rd. RD | Claribel Rd. | Oakdale, CA 95361 | Stanislaus County | San Joaquin River Basin
+
+06/30/2025 12:30:45                                                                                                                                                   Page 1 of 1
+
+
+=== Page 31 ===
+TER WORK REG.”              DELLAVALLE LABORATORY, INC.
+
+1910 W. McKinley Avenue, Suite 110 © Fresno, CA 93728
+
+www. ee OT 233-6129 - 800 228-9896          59 268-8174
+9-49444  |    ra / 4 5 tp: No. Samples:             No of Bottles:
+
+Purchase Order No                  Bill To:      Acct #         Cons #
+
+Water Type:     { ] Drinking Water             { ] Wastewater
+Results NeedBy                                                            { ] Ag Water      IX] Groundwater                   { ] Monitoring Well
+Name:            Qi                       Other:
+Address:     Ly                          Y                             Analysis and Bottles Required: (Please in       Analysis)
+City:          a         State: CA     Zip:                            (X ) DWW1:EC,NO3-N NH4-N Field Test
+Telephone:                   Fax:                        (1-1 Liter Plastic, Unpreserved) White Per Sample
+Cell/Email:                                                                  ( )DWW2: DWW1 Plus SO,, CO3, HCO3, Cl, Ca, Mg, Na, TDS
+COPY TO:               labs@fragservices.com                        (1-1 Liter Plastic, Unpreserved) White Per Sample
+
+vturtadp @ fYagser vice  $.gom                  ( )DCW1: EC, NO,-N, TKN, TN, TDS
+
+REQUESTED BY:              F+ R   Ae,  SAVICS        1-1 Liter Plastic, Unpreserved) White Per Sample
+PROJECT:                                                                         ( )DPW1: EC, NO3-N, NH,-N, TKN, TDS, TP, TK
+CROP:                                               1-1 Liter Plastic, Unpreserved) White Per Sample
+
+(| )DPW2: DPW1 Plus Ca, Mg, Na, HCO3, CO3, SO,, Cl
+[X] Copy of Chain [X] QA/QC Documents                           1-1 Liter Plastic, Unpreserved) White Per Sample
+Sampled By:           Vi  ne    Furtady                    Other
+
+Date             Time             Rec'd
+Description of Samples                            Sampled           Sampled           Temp °C                 Field NH,-N
+
+1 _ Domestic Well J- MrlK born     all-24   Lie    —
+
+    WIURAeNNAIN    —
+
+6        42/12/24 12:55           24L0599           AGH
+
+7
+8                                              IR Thermometer SN: 200560725
+
+Correction Factor: +1.8°C               —
+9                                Calibration Due: 3/08/2025:
+
+Location: Laboratory’ ©                      ——
+10
+
+CHAIN OF CUSTODY _      le
+  Relinquished —_ ime)
+
+SFist | Weer OM | tek ag Sens  (2-I-
+[Second] a 5
+7 ae
+
+I guarantee that as the cl     ~ wba of cht nano, ave th tubaiyw waa be bow ead ove Should it be found that I do not have such authority, [ agree to be personally liable for
+all costs and, if there s! Tics ein pint ne tr is bach ese ttney es hi ned arya expned tect wit suntan eat hen penny nenaes
+Terms are net 30 days; oyerdue accounts will be charged a liquidated damage fee of 2% per month (annually 24%) or $5.00 per month whichever is greater.
+
+If payment is not made when due and a legitimate dispute exists conceming the product or services of Dellavalle Laboratory, Inc., it will be submitted to mediation under the Rules and Procedures of Creative
+Alternative to Litigation, Inc. (ca/). If the dispute is not resolved in mediation, then the dispute will be submitted tg binding arbitration through cal under its Rules and Procedures. The parties will equally
+bear the costs of mediatsnvarbitration, Lt, nowever, the mediator declares that no legitimate dispute exists, then dddtor will pay ali mediation and arbitration costs, and in the event of arbitration,
+
+Shipping
+Signature
+Sample received in cooler with ice (coolant)
+[ ] Yes    [ ] No
+                                                                                    Page 6 of 7
+
+XM-CLIENT CUSTOM FIELDSHEETS\FIELDSHEETS\Dairy Fieldsheets\[F & R Ag Services Water.xis]Dairy Water rev 2.8.18
+

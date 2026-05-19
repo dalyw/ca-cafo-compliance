@@ -1,0 +1,181 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Germann Bros Dairy
+
+Physical address of dairy:
+
+1236 E Taylor RD                                                                                                        Ceres                               Stanislaus                      95307
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1940
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X022-X010-X001-XXXX
+
+B. OPERATORS
+
+Germann, Andy or Charlie
+
+Operator name: Germann, Andy or Charlie                                                                                               Telephone no.: (209) 537-9568
+
+Landline               Cellular
+1936 E Taylor RD                                                                                                                      Ceres                                 CA                 95307
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Germann, Andy or Charlie
+
+Legal owner name: Germann, Andy or Charlie                                                                                 Telephone no.: (209) 537-9568
+
+Landline               Cellular
+1936 E Taylor RD                                                                                                                      Ceres                                 CA                 95307
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Germann Bros Dairy | 1236 E Taylor RD | Ceres, CA 95307 | Stanislaus County | San Joaquin River Basin
+06/19/2025 13:39:54                                                                                                                                              Page 1 of 32
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                      40                      40                      30                      20
+Number under roof                                    150                       15                         0                         0                         0                         0
+Maximum number                             160                  18                  50                  45                  35                  25
+Average number                                  150                    16                    40                    40                    30                    20
+Avg live weight (Ibs)                           1,400                1,450                  950                  700
+Predominant milk cow breed: Holstein
+Average milk production:                          70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:          5,058.99 tons per reporting period
+Total nitrogen from manure:                  63,547.64 Ibs per reporting period      After ammonia losses (30% loss applied):         44 483.35 Ibs per reporting period
+Total phosphorus from manure:              10,395.99 /bs per reporting period
+Total potassium from manure:               28,805.09 /bs per reporting period
+Total salt from manure:                         74,510.28 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:        3,195,000 gallons              3,195,000 gallons applied
+Total nitrogen generated:               12,267.65 lbs           +               0 gallons exported
+Total phosphorus generated:            1,434.28 lbs           -               0 gallons imported
+Total potassium generated:             15,178.34 lbs           =      3,195,000 gallons generated
+Total salt generated:                   123,047.03 lbs
+
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+
+TID Lateral 3                                                                                       Surface water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+Germann Bros Dairy | 1236 E Taylor RD | Ceres, CA 95307 | Stanislaus County | San Joaquin River Basin
+06/19/2025 13:39:54                                                                                                                                                                                  Page 2 of 32
+
+
+=== Page 33 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Germann Bros Dairy | 1236 E Taylor RD | Ceres, CA 95307 | Stanislaus County | San Joaquin River Basin
+06/19/2025 13:39:54                                                                                                                                                   Page 1 of 1
+
+
+=== Page 34 ===
+IEH - JL ANALYTICAL
+
+217 Primo Way * Madesta, Califarmia 95358 « Office (209) 438-8114 » FAX (209) 538-3968
+
+Report #                                    L2.2-14R70079
+Germann Bros. Datry                                                                                 Roport Date                     1220/2024
+Received Date:                   1217212024
+Work Order:                                 655886
+
+1236 E. Taylor Rd.
+Ceres,CA 95307
+
+Laboratory Number:       5588601
+Description:              Water, Domestic Well 1, 12-12-24, 1000
+Sampled By:Andy Germann, Employed By:Germann Bros. Dairy
+
+Analytical Results
+
+Reporting      Detection                Method                     Analysis       Analysis
+
+Constituent                                                                                                            Limit            Limit                 Reference                      Date             Time
+
+Ammoniacal Nitrogen by Kjeldahl                     <                              2          0.3        SM 4500 NH3 C        12/18/2024 08:00       JN
+Etectrical Conductivity (EC.)                                530 umholcm          1            1           SM 2510B5          1217/2024 = 13:56       KB
+
+Nitrate Nitrogen              ;                   6.3 mg/l            0.1        0.01         EPA 300.0         12113/2024 12:28 =~ JDLC
+
+QC Results
+a                  :    atin tabSSSCSCSTS
+I   |
+;             QC Units      Blank  flatrix abies  ee Spike Control Precision Accuracy Response
+Constituent                        :          P    P  Duplicate Spike   %    %    %
+
+fAmmoniacal NitrogenbyKjeldahl mgl ££ = < 2 =< 2 2   rr 7   27
+Electrical Conductivity (EC.)     umho/cm       <                    1500 1400
+
+Nitrate Nitrogen         mail       <__ 0.1    .   0.    :   72  0.9
+
+a rt ere nA A ttt Rg
+
+seen aa
+
+tape et fol IE toc
+Authorized By: _~---"~ Baty
+
+Britney Dundee, Chemistry Supervisor
+
+oy
+
+re
+
+12/20/2024

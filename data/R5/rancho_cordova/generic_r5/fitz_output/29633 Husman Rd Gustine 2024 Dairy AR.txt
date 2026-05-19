@@ -1,0 +1,268 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+P&D West Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95322
+Merced
+Gustine
+29631 Husman RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1930
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X070-X060-X043-XXXX
+B.
+Lopes, Paul
+Operator name: Lopes, Paul
+Telephone no.:
+Landline
+Cellular
+(209) 649-4967
+9270 S Whitworth RD
+Gustine
+CA
+95322
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Lopes, Paul
+Legal owner name: Lopes, Paul
+Telephone no.:
+Landline
+Cellular
+(209) 649-4967
+95322
+Zip Code
+State
+City
+Mailing Address Number and Street
+9270 S Whitworth RD
+Gustine
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+04/22/2025 14:24:06
+Page 1 of 25
+P&D West Dairy | 29631 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+475
+475
+1,400
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+68 pounds per cow per day
+Average number
+475
+0
+0
+0
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+12,105.36
+158,280.27
+26,774.59
+90,590.25
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+110,796.19 lbs per reporting period
+Total salt from manure:
+224,266.50 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+50,210.20
+7,620.55
+81,778.33
+634,046.42
+16,200,000
+lbs
+lbs
+lbs
+gallons
+16,200,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+16,200,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Ag Well
+Ground water
+CCID
+Surface water
+04/22/2025 14:24:06
+Page 2 of 25
+P&D West Dairy | 29631 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+
+=== Page 26 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+04/22/2025 14:24:06
+Page 1 of 1
+P&D West Dairy | 29631 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+
+=== Page 27 ===
+Customer
+P & D Dairy West
+9270 Whitworth Rd.
+Gustine, CA 95322
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+1/3/24 9:10 AM
+SUBMITTED BY:
+Joe Ramos
+ANALYZED DATE:
+1/9/24
+Denele Analytical, Inc.
+865 South Kilroy Avenue Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Well Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+NOTES: Temperature was above qualifying at 12.0c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+1.42
+mmhos/cm
+T4003004A
+Domestic
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+22.8
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+909
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+97.0 (T4003004A)
+96.4 (T4003004A)
+0.619
+99.8
+Electrical Conductivity (EC)
+1.05
+99.2
+Nitrate Nitrogen (NO3-N)
+97.9 (T4003004B)
+95.9 (T4003004B)
+2.04
+101
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

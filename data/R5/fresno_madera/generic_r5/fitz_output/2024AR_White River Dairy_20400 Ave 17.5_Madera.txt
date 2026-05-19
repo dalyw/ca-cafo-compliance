@@ -1,0 +1,509 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+White River Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93637
+Madera
+Madera
+20400 Ave. 17 1/2 AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+10/01/1960
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0028-0140-0010-0000
+B.
+Hooker, Mark
+Operator name: Hooker, Mark
+Telephone no.:
+Landline
+Cellular
+(209) 259-9368
+605 Almond CT
+Chowchlla
+CA
+93610
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Machado, Corinne
+Legal owner name: Machado, Corinne
+Telephone no.:
+Landline
+Cellular
+(559) 674-5580
+(559) 363-5581
+93711
+Zip Code
+State
+City
+Mailing Address Number and Street
+3754 W Birch RD
+Fresno
+CA
+Machado, Manuel
+Legal owner name: Machado, Manuel
+Telephone no.:
+Landline
+Cellular
+(559) 674-5580
+(559) 363-5581
+93711
+Zip Code
+State
+City
+Mailing Address Number and Street
+3754 W Birch RD
+Fresno
+CA
+C. OWNERS
+06/27/2025 10:16:33
+Page 1 of 41
+White River Dairy | 20400 Ave. 17 1/2 AVE | Madera, CA 93637 | Madera County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+280
+40
+0
+2,210
+0
+1,450
+1,456
+1,400
+0
+290
+1,500
+0
+50
+1,000
+0
+0
+0
+0
+2,210
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+74 pounds per cow per day
+Average number
+1,450
+285
+40
+0
+2,200
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+50,284.77
+665,247.13
+99,694.44
+282,270.21
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+465,672.99 lbs per reporting period
+Total salt from manure:
+750,318.30 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+104,811.59
+21,348.88
+403,885.22
+782,818.54
+24,601,500
+lbs
+lbs
+lbs
+gallons
+24,601,500
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+24,601,500
+D. FRESH WATER SOURCES
+Source Description
+Type
+#4 Dairy Barn Well-WRD Diary
+Ground water
+#5 Dairy Home
+Ground water
+#6 Parks Well- WRD Dairy E
+Ground water
+#7 Jenzens- WRD Calf Ranch
+Ground water
+#8 Jenzens Deep
+Ground water
+06/27/2025 10:16:33
+Page 2 of 41
+White River Dairy | 20400 Ave. 17 1/2 AVE | Madera, CA 93637 | Madera County | San Joaquin River Basin
+
+
+=== Page 42 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/27/2025 10:16:33
+Page 1 of 1
+White River Dairy | 20400 Ave. 17 1/2 AVE | Madera, CA 93637 | Madera County | San Joaquin River Basin
+
+
+=== Page 43 ===
+Reported: 09/09/2024  12:17
+Diamond H Dairy
+9730 Ave 18 1/2
+Chowchilla, CA  93610
+Account Manager: Christian Duran
+Submitted By: Agri-Valley Consulting
+Ranch: White River Ranch
+Received: 08/29/2024  11:17
+Account# 00-0015888
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+Calf Ranch
+24H2180-01
+08/29/2024  10:24
+Well Water
+Steve
+Dom Houses
+24H2180-02
+08/29/2024   9:47
+Well Water
+Steve
+Compost Well
+24H2180-03
+08/29/2024   9:39
+Well Water
+Steve
+New Well
+24H2180-04
+08/29/2024  10:27
+Well Water
+Steve
+Dairy Well
+24H2180-05
+08/29/2024   9:45
+Well Water
+Steve
+[TOC_1]Samples in 
+Report[TOC]
+Default Cooler
+Temperature on Receipt °C: 23.5
+Containers Intact
+COC/Labels Agree
+Received On Ice
+Notes and Definitions 
+Item
+Definition
+Hold time exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 15
+
+
+=== Page 58 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+White River Dairy
+Mark Hooker
+(209) 259-9368
+20400 Ave. 17 1/2 AVE
+93637
+Madera
+Madera
+White River Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Green Valley Soils
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+93711
+Contact Person:
+Name
+Phone Number
+(559) 474-2377
+Fresno
+CA
+3754 W Birch AVE
+Ryan Machado
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Broker
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Green Valley Soils
+3754 W Birch AVE
+Address
+City
+State
+Zip Code
+Phone Number
+Fresno
+CA
+93711
+(559) 474-2377
+Last date hauled: 12/31/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Fresno
+93711
+3754 W Birch AVE
+Fresno
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+
+
+=== Page 59 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 6,467.00 tons
+Manure Solids Content:
+95.4 %
+Method used to determine amount of manure:
+Total Loads Hauled Multiplied by Average Truck Load Weight
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Mark Hooker (Jun 27, 2025 10:49 PDT)
+Mark Hooker
+06/27/2025
+Ryan Machado (Jun 27, 2025 19:57 PDT)
+Ryan Machado
+06/27/2025
+
+
+=== Page 60 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+White River Dairy
+Mark Hooker
+(209) 529-9363
+20400 Ave. 17 1/2 AVE
+93637
+Madera
+Madera
+White River Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Green Valley Soils
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+93711
+Contact Person:
+Name
+Phone Number
+(559) 474-2377
+Fresno
+CA
+3754 W Birch AVE
+Ryan Machado
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Broker
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Green Valley Soils
+3754 W Birch AVE
+Address
+City
+State
+Zip Code
+Phone Number
+Fresno
+CA
+93711
+(559) 474-2377
+Last date hauled: 12/31/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Fresno
+93711
+3754 W Birch AVE
+Fresno
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+
+
+=== Page 61 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 2,155.52 tons
+Manure Solids Content:
+90.9 %
+Method used to determine amount of manure:
+Total Loads Hauled Multiplied by Average Load Weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Mark Hooker (Jun 27, 2025 10:49 PDT)
+Mark Hooker
+06/27/2025
+Ryan Machado (Jun 27, 2025 19:57 PDT)
+Ryan Machado
+06/27/2025

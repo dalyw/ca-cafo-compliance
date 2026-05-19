@@ -1,0 +1,186 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Arthur Leyendekker Dairy
+
+Physical address of dairy:
+
+9001 Ave. 360                                                                                             Visalia                          Tulare                       93291
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 12/23/1972
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0048-0030-0008-0000
+
+B. OPERATORS
+
+Leyendekker, Art
+
+Operator name: Leyendekker, Art                                                                                              Telephone no.:                       (559) 799-3484
+Landline               Cellular
+
+9595 Ave 360                                                                                                                     Visalia                              CA                93291
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Leyendekker, Art
+
+Legal owner name: Leyendekker, Art                                                                                          Telephone no.:                       (559) 799-3484
+Landline               Cellular
+
+9595 Ave 360                                                                                                                     Visalia                              CA                93291
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Arthur Leyendekker Dairy | 9001 Ave. 360 | Visalia, CA 93291 | Tulare County | Tulare Basin
+
+02/27/2025 17:32:29                                                                                                                                                  Page 1 of 52
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                    350                    425                    300                    300                       0
+Number under roof                                  1,600                         0                         0                         0                         0                         0
+Maximum number                           1,600                350                425                300                300                   0
+Average number                               1,600                  350                  425                  300                  300                     0
+Avg live weight (Ibs)                           1,200                1,300                1,000                  850
+Predominant milk cow breed: Holstein
+Average milk production:                          65 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         53,618.43 tons per reporting period
+Total nitrogen from manure:                  674,182.01 /bs per reporting period       After ammonia losses (30% loss applied):        471,927.41 Ibs per reporting period
+Total phosphorus from manure:              110,047.10 /bs per reporting period
+Total potassium from manure:              301,983.86 /bs per reporting period
+Total salt from manure:                       836,127.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       29,274,454 gallons            29 274,454 gallons applied
+Total nitrogen generated:               48,220.40 /bs           +               0 gallons exported
+Total phosphorus generated:           10,616.02 /bs           -               0 gallons imported
+Total potassium generated:           169,154.55 /bs           =  29.274,454 gallons generated
+Total salt generated:                   834,679.38 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+
+Al                                                                                                                  Ground water
+A2                                                                                                                  Ground water
+A3                                                                                                                  Ground water
+A4                                                                                                                  Ground water
+A5                                                                                                                  Ground water
+
+Arthur Leyendekker Dairy | 9001 Ave. 360 | Visalia, CA 93291 | Tulare County | Tulare Basin
+
+02/27/2025 17:32:29                                                                                                                                                                                       Page 2 of 52
+
+
+=== Page 53 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Arthur Leyendekker Dairy | 9001 Ave. 360 | Visalia, CA 93291 | Tulare County | Tulare Basin
+
+02/27/2025 17:32:29                                                                                                                                                   Page 1 of 1
+
+
+=== Page 54 ===
+SELLAVALLE
+
+LABORATORY
+
+Art Leyendekker Dairy                                             Account# 00-0015900                                          Received: 06/07/2024 8:00
+9595 Ave 360                                                   Account Manager: Ben Nydam                               Reported: 06/12/2024 10:31
+Visalia, CA 93291                                                  Submitted By: Art Leyendekker
+
+Ranch: 9001 Ave 360, Visalia
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24F0581-01         AQ (Well)                                      Ag Water                      Moises Barajas                                                 06/06/2024 9:34
+Default Cooler           Temperature on Receipt °C: 0.4
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                  Hold time exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 7

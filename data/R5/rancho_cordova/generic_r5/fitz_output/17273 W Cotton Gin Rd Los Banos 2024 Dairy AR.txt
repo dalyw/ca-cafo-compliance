@@ -1,0 +1,717 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Carlos and Deolinda Lopes Trust
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93635
+Merced
+Los Banos
+17273 W Cotton Gin RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1940
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X088-X180-X053-XXXX
+B.
+Lopes, Carlos
+Operator name: Lopes, Carlos
+Telephone no.:
+Landline
+Cellular
+(209) 704-8163
+17273 W Cotton Gin RD
+Los Banos
+CA
+93635
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Lopes, Carlos
+Legal owner name: Lopes, Carlos
+Telephone no.:
+Landline
+Cellular
+(209) 704-8163
+93635
+Zip Code
+State
+City
+Mailing Address Number and Street
+17273 W Cotton Gin RD
+Los Banos
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/22/2025 12:29:27
+Page 1 of 57
+Carlos and Deolinda Lopes Trust | 17273 W  Cotton Gin RD | Los Banos, CA 93635 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 7B2D012D-0022-4F5F-B36E-74EB2462FDB5
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+215
+195
+145
+55
+570
+600
+1,400
+45
+55
+1,400
+0
+220
+900
+0
+200
+650
+0
+150
+0
+60
+Predominant milk cow breed: Holstein
+Average milk production:
+70 pounds per cow per day
+Average number
+570
+45
+215
+195
+145
+55
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+20,009.09
+249,189.00
+40,866.37
+109,459.33
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+174,432.30 lbs per reporting period
+Total salt from manure:
+279,495.90 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+60,904.15
+5,065.08
+65,082.99
+341,877.96
+4,428,000
+lbs
+lbs
+lbs
+gallons
+4,428,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+4,428,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+CCID Canal
+Surface water
+Cotton Well
+Ground water
+Dairy Well #2
+Ground water
+Dairy Well #3
+Ground water
+Foletta Well
+Ground water
+06/22/2025 12:29:27
+Page 2 of 57
+Carlos and Deolinda Lopes Trust | 17273 W  Cotton Gin RD | Los Banos, CA 93635 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 7B2D012D-0022-4F5F-B36E-74EB2462FDB5
+
+
+=== Page 58 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/22/2025 12:29:27
+Page 1 of 1
+Carlos and Deolinda Lopes Trust | 17273 W  Cotton Gin RD | Los Banos, CA 93635 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 7B2D012D-0022-4F5F-B36E-74EB2462FDB5
+
+
+=== Page 59 ===
+Alkalinity
+Bicarbonate
+Carbonate
+Hydroxide
+Location
+DATE
+as CaCO3
+as CaCO3
+B
+Ca
+as CaCO3
+Cl
+EC
+as CaCO3
+Mg
+NO3
+pH
+K
+Se
+Na
+SO4
+TDS
+TDS/EC
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l
+mg/l umhos/cm
+mg/l
+mg/l mg/l
+std
+mg/l ug/l mg/l mg/l mg/l
+factor
+Colony Main Endworks - 1
+May 21, 2024
+43
+43
+ND
+10
+ND
+24
+200
+ND
+4.6
+ND
+7.8
+ND
+ND
+21
+18
+110
+0.550
+Branch 5 Endworks - 2
+May 21, 2024
+110
+110
+0.26
+48
+ND
+150
+900
+ND
+21
+0.63
+8.2
+3.8
+0.97
+98
+110
+600
+0.667
+Branch 4 Endworks - 3
+May 21, 2024
+77
+77
+0.18
+32
+ND
+110
+640
+ND
+14
+0.4
+7.9
+2.9
+0.64
+66
+66
+330
+0.516
+Branch 3 Endworks - 4
+May 21, 2024
+95
+95
+0.20
+32
+ND
+95
+670
+ND
+18
+0.64
+7.9
+2.2
+1.1
+69
+77
+280
+0.418
+Main @ Russel Ave. - 5
+May 21, 2024
+55
+55
+0.13
+13
+ND
+38
+320
+ND
+5.8
+ND
+8.0
+ND
+ND
+42
+32
+190
+0.594
+Outside @ Russel Ave. - 6
+May 21, 2024
+89
+87
+0.30
+33
+ND
+110
+760
+ND
+15
+ND
+8.3
+2.7
+0.61
+94
+110
+370
+0.487
+DMC @ Firebaugh Wasteway - 7
+May 21, 2024
+51
+51
+0.13
+14
+ND
+31
+270
+ND
+6.8
+0.37
+7.9
+ND
+ND
+27
+29
+140
+0.519
+Outside @ Headgate - 7.5
+May 21, 2024
+44
+44
+ND
+12
+ND
+24
+210
+ND
+5.6
+0.37
+7.8
+ND
+ND
+21
+21
+140
+0.667
+Main @ Headgate - 8
+May 21, 2024
+48
+48
+0.13
+13
+ND
+26
+240
+ND
+6.3
+0.32
+7.8
+ND
+0.51
+25
+23
+160
+0.667
+Branch 2 @ Valeria - 9
+May 21, 2024
+41
+41
+ND
+10
+ND
+23
+200
+ND
+4.9
+ND
+7.7
+ND
+1.2
+22
+17
+130
+0.650
+Parsons Endworks - 10
+May 21, 2024
+51
+51
+0.12
+15
+ND
+40
+300
+ND
+6.9
+ND
+7.9
+2.0
+0.66
+33
+30
+190
+0.633
+Central @ Endworks - 11
+May 21, 2024
+42
+42
+ND
+11
+ND
+25
+210
+ND
+5.1
+ND
+7.8
+ND
+0.6
+22
+18
+150
+0.714
+Poso @ Santa Rita Split - 12
+May 21, 2024
+46
+46
+ND
+11
+ND
+33
+260
+ND
+5
+ND
+7.9
+ND
+ND
+32
+27
+160
+0.615
+Santa Rita @ Endworks - 13
+May 21, 2024
+53
+53
+ND
+14
+ND
+32
+260
+ND
+6.8
+ND
+7.7
+2.2
+1
+28
+23
+170
+0.654
+Riverside @ Woodslough - 14
+May 21, 2024
+43
+43
+ND
+12
+ND
+26
+220
+ND
+5
+0.24
+7.8
+ND
+0.53
+23
+19
+180
+0.818
+Volta Weir - 15
+May 21, 2024
+34
+34
+ND
+8.2
+ND
+12
+130
+ND
+3.7
+0.26
+7.6
+ND
+0.66
+12
+11
+89
+0.685
+Wolfsen Weir - 16
+May 21, 2024
+56
+56
+0.21
+21
+ND
+55
+430
+ND
+10
+0.5
+7.8
+2.3
+ND
+47
+65
+280
+0.651
+Sullivan @ Headgate - 17
+May 21, 2024
+35
+35
+ND
+8.7
+ND
+14
+150
+ND
+4
+0.28
+7.7
+ND
+0.71
+13
+13
+100
+0.667
+Orestimba Creek @ Main - 18
+May 21, 2024
+53
+53
+0.11
+14
+ND
+28
+260
+ND
+7
+0.57
+7.9
+ND
+1.2
+24
+26
+160
+0.615
+Main Endworks - 19
+May 21, 2024
+61
+61
+0.13
+17
+ND
+32
+290
+ND
+8.6
+0.7
+7.8
+ND
+1.7
+28
+29
+180
+0.621
+Miles Weir @ Gun Club - 20
+May 21, 2024
+51
+51
+0.11
+13
+ND
+29
+250
+ND
+6.5
+0.42
+7.8
+ND
+ND
+23
+26
+150
+0.600
+Fialos Weir - 21
+May 21, 2024
+72
+72
+0.23
+28
+ND
+83
+580
+ND
+14
+ND
+8.2
+2.7
+0.59
+60
+85
+350
+0.603
+Barcellos Weir - 22
+May 21, 2024
+62
+62
+0.24
+22
+ND
+61
+490
+ND
+11
+ND
+8.0
+2.2
+0.52
+52
+75
+280
+0.571
+Fegundes Weir - 23
+May 21, 2024
+60
+60
+0.23
+22
+ND
+62
+480
+ND
+10
+0.33
+7.9
+2.1
+ND
+51
+75
+290
+0.604
+East Ditch Reservoir - 24
+May 21, 2024
+65
+65
+0.15
+19
+ND
+49
+350
+ND
+8.1
+0.32
+7.7
+4.1
+0.97
+39
+37
+240
+0.686
+CENTRAL CALIFORNIA IRRIGATION DISTRICT
+ANNUAL QUALITY OF HEADWORKS AND CANALS
+ANALYSIS BY BSK LABOATORIES OF FRESNO
+Docusign Envelope ID: 7B2D012D-0022-4F5F-B36E-74EB2462FDB5

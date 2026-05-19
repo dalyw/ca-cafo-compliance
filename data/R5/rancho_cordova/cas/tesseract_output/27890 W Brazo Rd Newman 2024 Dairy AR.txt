@@ -1,0 +1,459 @@
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: John Silveira Dairy
+
+Physical address of dairy:
+
+27890 W Brazo RD                                                                                                 Newman                          Merced                        95360
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1920
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X054-X060-X008-XXXX
+
+B. OPERATORS
+
+Silveira, John
+
+Operator name: Silveira, John                                                                                Telephone no.: (209) 587-1796
+
+Landline              Cellular
+P.O. Box 400                                                                                                           Gustine                          CA               95322
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Silveira, John
+
+Legal owner name: Silveira, John                                                                                             Telephone no.: (209) 587-1796
+
+Landline              Cellular
+P.O. Box 400                                                                                                           Gustine                          CA               95322
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+John Silveira Dairy | 27890 W Brazo RD | Newman, CA 95360 | Merced County | San Joaquin River Basin
+
+07/12/2025 11:56:17                                                                                                                                              Page 1 of 23
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                       0                       0
+Number under roof                                 2,446                     243                      319                         0                         0                         0
+Maximum number                          2,446                243                319                   0                   0                   0
+Average number                               2,446                  243                  319                     0                     0                     0
+Avg live weight (Ibs)                           1,000                1,050                  625                     0
+Predominant milk cow breed: Jersey
+Average milk production:                          63 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         67,006.74 tons per reporting period
+Total nitrogen from manure:                  871,067.26 /bs per reporting period       After ammonia losses (30% loss applied):        609,747.08 /bs per reporting period
+Total phosphorus from manure:             145,422.03 Ibs per reporting period
+Total potassium from manure:              458 434.97 /bs per reporting period
+Total salt from manure:                     1,210,885.38 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       21,504,000 gallons            21,504,000 gallons applied
+Total nitrogen generated:              112,382.38 /bs           +               0 gallons exported
+Total phosphorus generated:           12,708.00 /bs           -               0 gallons imported
+Total potassium generated:           141,297.94 lbs           = 21,504,000 gallons generated
+Total salt generated:                   806,701.80 /bs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+Canal                                                                                                                      Surface water
+Domestic Well                                                                                                       Ground water
+Irrigation Well                                                                                                 Ground water
+
+John Silveira Dairy | 27890 W Brazo RD | Newman, CA 95360 | Merced County | San Joaquin River Basin
+
+07/12/2025 11:56:17                                                                                                                                                                                                           Page 2 of 23
+
+
+=== Page 25 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+John Silveira Dairy | 27890 W Brazo RD | Newman, CA 95360 | Merced County | San Joaquin River Basin
+
+07/12/2025 11:56:17                                                                                                                                                   Page 1 of 1
+
+
+=== Page 26 ===
+XYELLAVALLE              Report of Dairy Well Water Analysis
+
+LABORATORY ENG                                      Lab No.: 24K0927
+Sampled By: M. Pedroso
+John Silveira Dairy                                                                                                            Requested By: John Silveira
+PO Box 400                                                                                                                     Sampled Date: 11/13/24
+Gustine, CA 95322                                                                                                Submitted Date: 11/14/24
+00-0023753                14                                                                                 Reported Date: 11/20/24
+Location/Project:
+E-mail:                                                                                              Crop ID:
+
+Copy To: cas.labs@ yahoo.com
+
+Date    Time                                   Field      Total       pH
+
+No. Description             Sampled Sampled   EC      EC     NO;-N    NH,-N    NH,-N    at 25°C
+Umhos/cm    mmhos/cm     mg/L       mg/L       mg/L       unit
+01 DW - East                       11/13/24 15:50      1070        1.07         4.2          ND                       7.7
+02 DW - West                        11/13/24 15:52       1160         1.16          4.2           ND                        7.7
+
+ND = None Detected
+
+Approved By:    Dot Mm F ricllunel
+
+Laboratory Director\Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 - www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2
+
+
+=== Page 43 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: John Silveira
+
+Name of Dairy Facility: John Silveira Dairy
+Facility Address:
+
+27890 W Brazo RD                                            Newman                         Merced                        95360
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: John Silveira                                                              (209) 587-1796
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: ALP Custom Spreading
+
+Address of Hauling Company/Person:
+
+P.O. Box 218                                                    Newman                          CA                             95360
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Jeff Lima                                                                                                           (209) 862-3393
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+John Silveira                                                                                                                      (209) 587-1796
+Name                                                                                                                                      Phone Number
+P.O. Box 400                                                    Gustine                           CA                             95322
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+Gustine                            95322
+Address                                                                 City                                   Zip Code
+Fentem Road, Hwy 33, Bizzini                                                           Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 05/01/2024
+
+
+=== Page 44 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:             3,900.00 tons
+Manure Solids Content:                   44.1%
+
+Method used to determine amount of manure:
+
+tons per load
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+ine a    Bn   ib lives violations.
+
+UN                                      5/1/24
+
+Operator Signature                                                                                                                                         Date
+
+Hauler Signature                                                                                                                                            Date
+
+
+=== Page 45 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: John Silveira
+
+Name of Dairy Facility: John Silveira Dairy
+Facility Address:
+
+27890 W Brazo RD                                            Newman                         Merced                        95360
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: John Silveira                                                              (209) 587-1796
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: ALP Custom Spreading
+
+Address of Hauling Company/Person:
+
+P.O. Box 218                                                    Newman                          CA                             95360
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Jeff Lima                                                                                                           (209) 862-3393
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+John Silveira                                                                                                                      (209) 587-1796
+Name                                                                                                                                      Phone Number
+P.O. Box 400                                                    Gustine                           CA                             95322
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+Gustine                              95322
+Address                                                                 City                                   Zip Code
+Fentem Road                                                                                Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 05/08/2024
+
+
+=== Page 46 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:               931.00 tons
+Manure Solids Content:                   44.1%
+
+Method used to determine amount of manure:
+
+tons per load
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+
+fine agd imprison    nt for ture. violations.
+hn                    LVeULnae                                                                     5/8/24
+
+perator Signature                                                                                                                                         Date
+
+Hauler Signature                                                                                                                                            Date
+
+
+=== Page 47 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: John Silveira
+
+Name of Dairy Facility: John Silveira Dairy
+Facility Address:
+
+27890 W Brazo RD                                            Newman                         Merced                        95360
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: John Silveira                                                              (209) 587-1796
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: ALP Custom Spreading
+
+Address of Hauling Company/Person:
+
+P.O. Box 218                                                    Newman                          CA                             95360
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Jeff Lima                                                                                                           (209) 862-3393
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+John Silveira                                                                                                                      (209) 587-1796
+Name                                                                                                                                      Phone Number
+P.O. Box 400                                                    Gustine                           CA                             95322
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+Gustine                            95322
+Address                                                                 City                                   Zip Code
+Fentem Road, Hwy 33, Bizzini                                                           Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 10/01/2024
+
+
+=== Page 48 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:             2,070.00 tons
+Manure Solids Content:                   924%
+
+Method used to determine amount of manure:
+
+tons per load
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+
+fine gnd imprison Ww violations.
+Yo       LL EULA                           10/1/24
+
+Operator Signature                                                                                                                                         Date
+
+Hauler Signature                                                                                                                                            Date

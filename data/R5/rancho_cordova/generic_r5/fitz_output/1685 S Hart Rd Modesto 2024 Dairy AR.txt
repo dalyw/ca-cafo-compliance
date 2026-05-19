@@ -1,0 +1,272 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Meikle Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95358
+Stanislaus
+Modesto
+1685 S Hart RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+07/01/1950
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X017-X002-X013-XXXX
+B.
+Meikle, James D Jr
+Operator name: Meikle, James D Jr
+Telephone no.:
+Landline
+Cellular
+(209) 529-2206
+(209) 918-0803
+1601 S Hart RD
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Meikle, James D Jr
+Legal owner name: Meikle, James D Jr
+Telephone no.:
+Landline
+Cellular
+(209) 529-2206
+(209) 918-0803
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+1601 S Hart RD
+Modesto
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+05/05/2025 14:23:18
+Page 1 of 36
+Meikle Dairy | 1685 S  Hart RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+75
+0
+125
+5
+525
+525
+1,400
+75
+75
+1,450
+0
+75
+1,000
+0
+0
+0
+0
+125
+0
+5
+Predominant milk cow breed: Holstein
+Average milk production:
+77 pounds per cow per day
+Average number
+525
+75
+75
+0
+125
+5
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+16,276.02
+209,734.74
+34,420.30
+103,238.89
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+146,814.32 lbs per reporting period
+Total salt from manure:
+265,167.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+69,807.26
+7,080.80
+116,196.54
+614,920.44
+9,371,000
+lbs
+lbs
+lbs
+gallons
+9,371,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+9,371,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Irrigation Well
+Ground water
+MID Lateral 5
+Surface water
+05/05/2025 14:23:18
+Page 2 of 36
+Meikle Dairy | 1685 S  Hart RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 37 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/05/2025 14:23:18
+Page 1 of 1
+Meikle Dairy | 1685 S  Hart RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 38 ===
+Reported: 12/17/2024  16:09
+Meikle Dairy
+1685 S. Hart Road
+Modesto, CA  95358
+Account Manager: Christian Duran
+Submitted By: F&R Ag Services
+Received: 12/12/2024  12:55
+Account# 0-0026865
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+DW#1 - 1601 Hart
+24L0679-01
+12/11/2024   7:15
+Ground Water
+Jim Meikle
+DW#2 - 1685 Hart
+24L0679-02
+12/11/2024   7:25
+Ground Water
+Jim Meikle
+DW#3 - Cows-Dairy
+24L0679-03
+12/11/2024   7:35
+Ground Water
+Jim Meikle
+DW#4 - Ranch
+24L0679-04
+12/11/2024   7:50
+Ground Water
+Jim Meikle
+DW#5 - Canal
+24L0679-05
+12/11/2024   8:10
+Ground Water
+Jim Meikle
+[TOC_1]Samples in 
+Report[TOC]
+Default Cooler
+Temperature on Receipt °C: 0.1
+Containers Intact
+COC/Labels Agree
+Preservation Confirmed
+Received On Ice
+Notes and Definitions 
+Item
+Definition
+Hold time exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 12

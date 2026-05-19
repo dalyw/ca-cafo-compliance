@@ -1,0 +1,480 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Maya Dairy
+
+Physical address of dairy:
+
+18451 Wildwood Rd.                                                                              Buttonwilllow                 Kern                      93206
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/2004
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X087-X120-XX08-XXXX
+
+B. OPERATORS
+
+Echeverria, Juan
+
+Operator name: Echeverria, Juan                                                                                              Telephone no.:                       (661) 746-2396
+Landline               Cellular
+
+P.O. Box 667                                                                                                        Buttonwilllow                    CA              93206
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Echeverria, Juan
+
+Legal owner name: Echeverria, Juan                                                                                          Telephone no.:                       (661) 746-2396
+Landline               Cellular
+
+P.O. Box 667                                                                                                        Buttonwilllow                    CA              93206
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Maya Dairy | 18451 Wildwood Rd. | Buttonwilllow, CA 93206 | Kern County | Tulare Basin
+
+06/11/2025 16:27:09                                             REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS                                                    Page 1 of 146
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                  1,415                  1,130                    835                       0
+Number under roof                                 4,540                     480                         0                         0                         0                         0
+Maximum number                          4,565                520               1,435               1,145                855                   0
+Average number                               4,540                  480                1,415                1,130                  835                     0
+Avg live weight (Ibs)                           1,400                1,450                1,000                  750
+Predominant milk cow breed: Holstein
+Average milk production:                          75 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:       155,146.77 tons per reporting period
+Total nitrogen from manure:               1,934,532.50 /bs per reporting period      After ammonia losses (30% loss applied): 1,354,172.75 Ibs per reporting period
+Total phosphorus from manure:             320,504.93 /bs per reporting period
+Total potassium from manure:              886,788.71 /bs per reporting period
+Total salt from manure:                     2,254,194.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:     216,982,946 gallons           216,982,946 gallons applied
+Total nitrogen generated:             666,467.97 /bs           +               0 gallons exported
+Total phosphorus generated:           60,560.10 /bs           .               0 gallons imported
+Total potassium generated:           625,137.72 Ibs           = 216,982,946 gallons generated
+Total salt generated:                 5,273,891.43 lbs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+207                                                                                                                Ground water
+213                                                                                                                Ground water
+215                                                                                                                Ground water
+216N                                                                                                              Ground water
+216S                                                                                                               Ground water
+
+Maya Dairy | 18451 Wildwood Rd. | Buttonwilllow, CA 93206 | Kern County | Tulare Basin
+
+06/11/2025 16:27:09                                               REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS                                                      Page 2 of 146
+
+
+=== Page 147 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Maya Dairy | 18451 Wildwood Rd. | Buttonwilllow, CA 93206 | Kern County | Tulare Basin
+
+06/11/2025 16:27:09                                            REPORT MAY BE INCOMPLETE, SEE VALIDATION ERRORS                                                      Page 1 of 1
+
+
+=== Page 148 ===
+zz
+FGL
+ENVIRONMENTAL = AGRICULTURAL
+
+Analytical Chemists
+
+September 3, 2024                                                          Lab No.            : VI 2446390
+Customer No. : 4019696
+
+Sentry Ag Services
+ty 9                        Reference   : 4029
+
+Attn: Monique Baldivez
+P.O. Box 7750
+Visalia, CA 93290
+
+Laboratory Report
+
+Introduction: This report package contains a total of 17 pages divided into 3 sections:
+
+Case Narrative          (2 pages)     : An overview of the work performed at FGL.
+
+Sample Results        (12 pages) _ : Results for each sample submitted.
+Quality Control          (3 pages)      : Supporting Quality Control (QC) results.
+
+Case Narrative
+
+This Case Narrative pertains to the following samples:
+
+Sample Description            Date Sampled               Date Received                   FGL Lab No.
+
+MD House                                08/08/2024                     08/08/2024                     VI 2446390-001
+
+DW52                                       08/08/2024                     08/08/2024                     VI 2446390-002                 DW
+MD11                                       08/08/2024                     08/08/2024                     VI 2446390-003                AGW
+MD9S                                       08/08/2024                     08/08/2024                     VI 2446390-004                AGW
+MD6                                        08/08/2024                     08/08/2024                     VI 2446390-005                AGW
+213                                         08/08/2024                     08/08/2024                     VI 2446390-006                AGW
+215                                         08/08/2024                     08/08/2024                     VI 2446390-007                AGW
+216N                                       08/08/2024                     08/08/2024                     VI 2446390-008                AGW
+MD7                                        08/08/2024                     08/08/2024                     VI 2446390-009                AGW
+225                                         08/08/2024                     08/08/2024                     VI 2446390-010                AGW
+MD2                                        08/08/2024                     08/08/2024                     VI 2446390-011                AGW
+207                                         08/08/2024                     08/08/2024                     VI 2446390-012                AGW
+
+Sampling and Receipt Information:
+
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition
+Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times.
+All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
+For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+
+Test Summary
+
+EPA 200.7                       Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+EPA 300.0                      Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+EPA 351.2                      Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 2540 C                     Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-H+B                 Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F               Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+
+Section: Case Narrative                                                  Page | of 17                                                 Page 1 of 17
+Corporate Offices & Laboratory       Office & Laboratory                     Office & Laboratory                   Office & Laboratory                    Office & Laboratory
+853 Corporation Street                  2500 Stagecoach Road                563 E. Lindo Avenue                 3442 Empresa Drive, Suite D         9411 W. Goshen Avenue
+Santa Paula, CA 93060                  Stockton, CA 95215                    Chico, CA 95926                      San Luis Obispo, CA 93401           Visalia, CA 93291
+TEL: (805)392-2000                     TEL: (209)942-0182                   TEL: (530)343-5818                  TEL: (805)783-2940                   TEL: (559)734-9473
+
+CA ELAP Certification No. 1573          CA ELAP Certification No. 1563        CA ELAP Certification No. 2670      CA ELAP Certification No. 2775       CA ELAP Certification No. 2810
+
+
+=== Page 172 ===
+ATTACHMENT D
+
+Manure/Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+
+Instructions:
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for
+several days, as long as the manure is being hauled to the same destination.
+
+2) If there are multiple destinations, complete a separate form for each destination.
+
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+
+Number and Street                                               i                                  Zip Code
+
+Contact Person Name and Phone Number:                                    LLL DOB OPBGE
+Phone Number
+
+Manure/Process Wastewater Hauler information:
+
+Name of Hauling Company/Person:
+
+Address of Hauling Company /Person: GF                     3         4
+Number and Street                                i                 Zip Code
+
+Contact Person:             at,                   OLS GHY-FSA C
+
+Phone Number
+
+Destinati            ation:
+posting Facility Broker / Farmer / Other (identify)                           (please circle one)
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Name                         Number and Street       )                      it               Zip Code           Phone Number
+
+Manure/Process Wastewater Destination Address or Assessor’s Parcel Number:
+
+Number and Street _                           i                            Zip Code             Assessor's Parcel Number
+
+Dates Hauled:
+
+Amount Hauled:
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:
+
+Manure:,             r Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons):        VLELD    wn, tf
+
+Manure Density (if amount reported in cubic yards):
+
+
+
+=== Page 173 ===
+Attachment D
+
+Waste Discharge Requirements General Order No. R5-2007-0035
+Existing Milk Cow Dairies
+
+D-2
+
+Method used to determine amount of manure:       EZ
+
+eee
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+
+Process Wastewater:                           Gallons
+
+Method used to determine volume of process wastewater:
+
+eee
+Written Agreement:
+
+Does the Operator have a written agreement (in compliance with Land Application Specification
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that
+receives process wastewater from the Operator for its own use?  (please check one)
+
+Yes                       No
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party
+for any process wastewater transferred after 31 December 2007 to such party.
+
+(Operator shail provide initials here to acknowledge this requirement).
+
+Certification:
+
+| declare under the penaity of law that | personally examined and am familiar with the information
+Submitted in this document, and that based on my inquiry of those individuals immediately responsible for
+obtaining the information, | believe that the information is true, accurate, and complete. | am aware that
+
+there are significant penalties for submitting false informatio }/ including the possibility of a fine and
+imprisonment for knowing violations: ~
+
+a ie                                            -
+Operator’s Signature:      Zo fen                      Date:  LBL  of Ff
+Hauler’s Signature:      fae mm. Crint         ,                      Date: ¢-)}29
+
+
+=== Page 174 ===
+ita
+
+Instructions:
+
+1) Cornplete one manifest for
+
+Several days, as long as th
+2) If there are multiple destin
+3) The operator must obtain
+4) The operator shall submit
+
+ATTACHMENT B
+
+hure/Precess Wastewater Tracking Manifes¢
+For
+Existing Milk Cow Dairies
+
+each hauling event, for each destination. A hauling event May lasi for
+¢ manure is being hauled to the seme destination.
+
+ations, camplete a Separate form for cach destination.
+the signature of the hauler upon completi      f
+
+copies of manure/process Wastewater tra
+
+cking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+
+| Operator Informati ay
+
+ Name of Operator:
+
+| Name of Dairy Facility:
+Fs
+
+<4                PY or
+
+ Facility Address: / JS
+
+                                   Number and Street                                          City                              Zip Code
+
+| Contact Person Name and Phone Number:                                      lef PLO -2F6;
+
+i.       .                                                  Name                            Phone Number
+| Manure/Process Wastewater Hauler myormation:      oe.              _
+
+i Mame of Hauling Company/Person:_ 3S if¢weraw che   Letpigiy Pye.    __
+
+; Address of Hauling Company /Person: ce f8ek  PeiP ES”       Lab FO        2 FSS 2:
+i                                                                  Number and Sireei                            City              Zip Code
+
+a             ;                                       A Vad es
+r                  Pee  e          Say      Aas                               o  ‘,  -~ & > ed = “eF =" a.
+
+ Contact Person,_“#7"    AL Li aE          .         LEY ~ 7     (alata      —
+|              "     Name ~                               Phone Number     a
+; Sesdnation information:
+
+| Composting Facility / Broker / Fafmer }Other (identify
+ Contact information of Com
+
+Name
+
+| Manure/Process Wastewater Destination Acidress or Assessor's
+
+a
+4
+
+| solids content (if amouni re
+i and the method used to cal
+
+          Manure: 22, 7/9
+
+Manure Solids Content (if amount reported in tons): &,
+
+       Manure Density (if am
+
+(89 10 Th SET AE aN eee RTE o,
+
+LZ                                       Fn facitie ie LF
+Number and Street                            City              Zip Code            Phone Number
+
+(please circle one:
+
+Parcel Number:
+
+| Number and Street                            City
+
+Zip Code             Assessors Parcel Number
+
+| Dates Hauled:   Ale LOLA LY
+| Amount Hauled:
+: Enter the amount of manure h
+
+ST SS Ss Ss ee
+
+auled in tons or cubic yards (inclicate the units used), the menure
+
+=  on        Papeny  ‘   te   TaD ene  rm
+ported in tons) or rnanure density (if amount reported in cubic yeres i.
+culate the amount
+
+ons-ér Cubic Yards (indicate which units used)
+£
+ount reporied in cubic vards)
+
+.
+
+Oe Ace a Reet ae een es avartagr ae one
+
+a    hae,  sea ai      Shea me reer meemaes c  ET a” OSES ST
+SE I aR nS TE ea       me    wee te
+
+rae. TS
+
+Ane Le ata
+
+
+=== Page 175 ===
+Attachment D
+
+Waste Discharge Requirements General Order No. R5-2007-0035
+Existing Milk Cow Dairies
+
+D-2
+
+Method used to determine amount of manure: fe
+
+eee
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+
+Process Wastewater:                           Gallons
+
+Method used to determine volume of process wastewater:
+
+Written Agreement:
+Does the Operator have a written agreement (in compliance with Land Application Specification
+
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that
+receives process wastewater from the Operator for its own use? (please check one)
+
+Yes                       No
+
+lf the answer is no, the Operator agrees to have such a written agreement with any such party
+for any process wastewater transferred after 31 December 2007 to such party.
+
+(Operator shall provide initials here to acknowledge this requirement).
+
+Certification:
+
+| declare under the penalty of law that | personally examined and am familiar with the information
+submitted in this document, and that based on my inquiry of those individuais immediately responsible for
+obtaining the information, | believe that the information is true, accurate, and complete. | am aware that
+
+there are significant penalties for submi       false infor        n/ including the possibility of a fine and
+imprisonment for knowing violations:”,
+
+Operator's Signature: ~
+
+Hauler’s Signature:
+
+(2a Rene ORES
+
+a a a a eT ee

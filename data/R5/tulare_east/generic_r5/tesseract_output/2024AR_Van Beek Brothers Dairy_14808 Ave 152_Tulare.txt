@@ -1,0 +1,385 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Van Beek Brothers Dairy
+
+Physical address of dairy:
+
+14808 Road 152                                                                                        Tipton                          Tulare                       93272
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 12/01/1983
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0232-0160-0005-0000
+
+B. OPERATORS
+
+Van Beek, Doug
+
+Operator name: Van Beek, Doug                                                                                        Telephone no.: (559) 752-3136
+
+Landline             Cellular
+14982 Road 152                                                                                               Tipton                          CA              93272
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Van Beek, Doug
+
+Legal owner name: Van Beek, Doug                                                                                    Telephone no.: (559) 752-3136
+
+Landline             Cellular
+14982 Road 152                                                                                               Tipton                          CA              93272
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Van Beek Brothers Dairy | 14808 Road 152 | Tipton, CA 93272 | Tulare County | Tulare Basin
+
+03/27/2025 12:39:43                                                                                                                                           Page 1 of 66
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                    700                    700                    300                       0
+Number under roof                                 2,550                      350                         0                         0                         0                         0
+Maximum number                          2,550                350                700                700                300                   0
+Average number                               2,550                  350                  700                  700                  300                     0
+Avg live weight (Ibs)                           1,500                1,550                1,100                  650
+Predominant milk cow breed: Holstein
+Average milk production:                          75 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         87,510.48 tons per reporting period
+Total nitrogen from manure:               1,089,826.29 /bs per reporting period      After ammonia losses (30% loss applied):       762,878.40 /bs per reporting period
+Total phosphorus from manure:              180,874.57 /bs per reporting period
+Total potassium from manure:              498,086.17 /bs per reporting period
+Total salt from manure:                     1,284 ,660.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       42,303,377 gallons            28,479,377 gallons applied
+Total nitrogen generated:              172,455.79 lbs           + 13. 824.000 gallons exported
+Total phosphorus generated:            8,290.93 /bs           -               0 gallons imported
+Total potassium generated:            115,303.04 /bs           = 42,303,377 gallons generated
+Total salt generated:                1,036,891.32 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+
+1                                                                                                                    Ground water
+11                                                                                                                   Ground water
+12                                                                                                                           Ground water
+13                                                                                                                           Ground water
+3                                                                                                                    Ground water
+
+Van Beek Brothers Dairy | 14808 Road 152 | Tipton, CA 93272 | Tulare County | Tulare Basin
+
+03/27/2025 12:39:43                                                                                                                                                                            Page 2 of 66
+
+
+=== Page 67 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Van Beek Brothers Dairy | 14808 Road 152 | Tipton, CA 93272 | Tulare County | Tulare Basin
+
+03/27/2025 12:39:43                                                                                                                                                   Page 1 of 1
+
+
+=== Page 68 ===
+SELLAVALLE
+
+LABORATORY
+
+Sola Consulting Inc                                               Account# 00-0020655                                        Received: 05/17/2024 7:00
+PO Box 190                                                    Account Manager: Ben Nydam                               Reported: 05/23/2024 08:53
+Tipton, CA 93272                                                   Submitted By: Vince Sola
+
+Ranch: Lower Tule Irrigation District
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24E1289-01         Lower Tule ID (Ditch)                          Ag Water                       Cynthia Tiemersma                                              05/16/2024 8:48
+Default Cooler           Temperature on Receipt °C: 3.2
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                Hold Time Exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 9
+
+
+=== Page 121 ===
+ATTACHMENT D
+
+Manure/Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+
+Instructions:
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for
+several days, as long as the manure is being hauled to the same destination.
+
+2) If there are multiple destinations, complete a separate form for each destination.
+
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:
+Name of Operator:             Van Beek Bros Dairy
+
+Name of Dairy Facility:                       Van Beek Bros Dairy
+
+Facility Address: _ 14808 Rd 152                                         j                              _ 93272
+Number and Street                                           i                               Zip Code
+
+Contact Person Name and Phone Number:___ Tim                                  559-310-7941 __
+Name                                       Phone Number
+
+Manure/Process Wastewater Hauler Information:
+Name of Hauling Company/Person:       Barcellos Farms
+
+Address of Hauling Company /Person:__PO Box 142                            Tipton            93272
+Number and Street                           City              Zip Code
+
+Contact Person:__Mait Kidder                                                                    559-799-8913
+
+Destination Information:
+
+Composting Facility / Broker (Farmer DOther (identify)                                          (please circle one)
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+_same as hauler
+Name                        Number and Street                          City             Zip Code           Phone Number
+
+Manure/Process Wastewater Destination Address or Assessors Parcel Number:
+
+232-160-001
+Number and Street                                City                  Zip Code              Assessor's Parcel Number
+
+Dates Hauled: _ 1/1/24 — 12/31/2
+
+Amount Hauled:
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculets the arrount
+
+Manure:                    Tons or Cubic Yards (indicate which units used)
+Manure Solids Content Gf arrount reported in tons):
+Manure Density (if amount reported in cubic yards):
+
+
+
+=== Page 122 ===
+Attachment D                                                                                    D-2
+Waste Discharge Requirements General Order No. R5-2007-0035
+Existing Milk Cow Dairies
+
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+
+Process Wastewater: _ 13,824,000_ Gallons
+
+Method used to determine volume of process wastewater: __ Pump flow rate
+
+Written Agreement:
+
+Does the Operator have a written agreement (in compliance with Land Application Specification
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that
+receives process wastewater from the Operator for its own use? (please check one)
+
+_X__ Yes                             No
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party
+for any process wastewater transferred after 31 December 2007 to such party.
+(Operator shail provide initials here to acknowledge this requirement).
+
+Certification:
+
+[ declare under the penalty of law that I personally examined and am familiar with the information
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for
+obtaining the information, | believe that the information is true, accurate, and complete. | am aware that
+there are significant penalties for submitting false information, including the possibility of a fine and
+imprisonment for knowing violations.
+
+Operator's Signature:      Tan Van Pee                        Date: __ 9/2/25
+Hauler’s Signature:        Whatt- Kidder                  Date: 3/2/25
+
+
+
+=== Page 123 ===
+General Waste Discharge Requirements      Page 1 of 1                NPDES Permit No. CAGO18001
+Concentrated Animal Feeding Operations                                                                      Form 4
+
+Form 4                                             Manure Tracking Manifest
+
+INSTRUCTIONS:
+
+1. Complete one manifest for each hauling event and for each destination. A hauling event may last for several days, as long as the manure is
+being hauled to the same destination.
+
+2, If there are multiple destinations, complete a séparate form for each destination.
+
+3. The CAFO operator must obtain the signature of the hauler upon completion of each manure hauling event.
+
+4. _ The CAFO operator shall submit manure tracking manifest(s) with the Annual Report to Regional Board.
+
+OPERATOR’S INFORMATION
+
+CAFO Operator's Name Tim Van Beek
+
+CAFO Facility Name       Van Beek Brothers Dairy
+
+Facitity Address             14982 Road 152 Tipton CA 93272
+
+Mailing Address               14982 Road 152 Tipton CA 93272
+
+Telephone Number           §59-310-7944        Tim
+
+MANURE INFORMATION
+
+Manuré analyzed for nutrients?                                                                                               Yes  ||                No  C |
+
+Most current nutrient analysis of manure provided to the recipient of the manure?                              Yes                 No
+
+MANURE HAULER INFORMATION                                                            :
+Name and Address of Hauling Company: Turning Leaf Organics                                                           Phone Number:
+$9992 RLISR Tipton, ow %3272Z.
+
+Contact Person Name; Melia Van Beek
+MANURE DESTINATION INFORMATION
+
+Dates Hauled:
+Hauled to (please check):
+
+ Composting Facility                                             41/18/24-11/22/24
+
+559-467-8456
+
+Destination of Haul:
+
+ Regional Treatment Facility                                               Ar Nw
+
+ Croplands in Riverside County                                       Z23Z-tbo-sos
+GPS Coordinates of Destination | Longitude: -119-2891615
+
+Latitude: 36.0607199
+
+ Croplands in San Bernardino County
+
+ Croplands in other Counties                                                                  Turning Leaf Organics
+
+ Out of State
+
+Amount delivered; Tons    Cubic Yards                                                                                          .
+(Please enter the amount in the box below and circle the            full effect and have been provided to the Regional Board:
+appropriate units)
+
+Sslids Content           a
+3 360 .00                                 bo  b                            Approximate Acreage (If Destination is Cropland)
+
+Seale.
+
+Destination Receiver of Manure:
+
+Written permissions or exemptions from the recipient of the manure are valid and in
+
+Crop(s) Grown on Cropland
+
+CERTIFICATION:
+
+! certify under penalty of law that this document and all attachments were prepared under my direction or supervision in accordance with a system
+designed to assure that qualified personne! properly gather and evaluate the information submitted. Based on my inquiry of the person or persons
+who manage the system, or those persons directly responsible for gathering the information, the information submitted is, to the best of my knowledge
+and belief, true, accurate, and complete. | am aware that there are significantpenalties for submitting false information, including the possibility of fine
+and imprisonment for knowing violations.
+
+pate (“L/- 2
+42/3/2024
+
+Operator's Signature:
+
+Hauler's Signature:                                                                Date:
+

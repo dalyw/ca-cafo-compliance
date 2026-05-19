@@ -1,0 +1,191 @@
+=== Page 1 ===
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:                T&W Farms 1
+Physical address of dairy:
+
+18346 Old River Rd                                                                            Bakersfield                                           Kern                        93311
+Number and Street                                                                                              City                                                             County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation:             01-01-2000
+
+Regional Water Quality Control Board Basin Plan designation:                 Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+
+0184-0460-0050-0000 0184-0460-0051-0000 0184-0460-0053-0000 0184-0460-0054-0000 0184-0460-0055-0000 0184-0460-0056-0000 0184-0460-0057-0000
+0184-0460-0058-0000 0295-0080-0004-0000 0295-0080-0007-0000 0295-0080-0009-0000
+
+B. OPERATORS
+
+Brian Wind
+Operator Name:         Brian Wind                                                                                                  Telephone no.: (661) 477-2973
+
+Landline                   Cellular
+18000 Old River Rd                                                                                                 Bakersfield                                 Kern                   93311
+Mailing Address Number and Street                                                                                                    City                                                 County                    Zip Code
+
+C. OWNERS
+
+Brian Wind
+Owner Name:            Brian Wind                                                                                                  Telephone no.: = (661) 477-2973
+
+Landline                   Cellular
+18000 Old River Rd                                                                                                 Bakersfield                                 Kern                   93311
+
+Mailing Address Number and Street                                                                                                  City                                                County                    Zip Code
+
+
+=== Page 2 ===
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Milk Cows      Dry Cows      Bred Heifers (15-24 mo.)           Heifers (7-14 mo.to breeding)            Calves (4-6 mo.)        Calves (0-3 mo.)
+
+Number open confinement             0                   700               1,495                                      1,225                                             447                          427
+
+Number under roof                      4,271              0                  0                                           0                                                   0                              0
+
+Maxiumu number                    4,273           714            1,510                               1,238                                     462                      448
+
+Average number                      4,271            700             1,495                                 1,225                                        447                       427
+
+Average live weight (Ibs)               1400             1450            1000                                    300
+
+Predominant milk cow breed:       Holsteins
+Average Milk Production:               70 pounds per cow per day
+
+B. MANURE GENERATED
+
+Total manure excreted by the herd:                148 432.31 tons per reporting period
+Total nitrogen from manure:                         1,862 ,947.81 Ibs per reporting period           After ammonia losses (30% loss applied):                  1,304 ,063.46 Ibs per reporting period
+Total phosphorus from manure:                       306,202.53 Ibs per reporting period
+Total potassium from manure:                       817,935.91 /bs per reporting period
+Total salt from manure:                                2,171,965.35 ibs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated:                     78,819,129.63 gallons
+;                           78,819,129.63 gallons applied
+
+Total nitrogen generated:                            337,434.10 /bs
+
+oa                                             0 gallons exported
+Total phosphorus generated:                    271,531 ,666.79 Ibs                                              ;
+
+—                                           0 gallons imported
+Total potassium generated:                          363,255.54 /bs
+
+————_——                           78,819,129.63 gallons generated
+Total salt generated:                                2,314,377.48 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                             Type
+
+Canal - Kern Delta                                                                           Surface Water
+TW1-1                                                                                                 Ground Water
+TW1-2                                                                                                 Ground Water
+TW1-3                                                                                                 Ground Water
+TW1-4                                                                                                 Ground Water
+TW1-5B                                                                                               Ground Water
+TW1-6                                                                                                 Ground Water
+TW1-DW'1                                                                                            Ground Water
+
+TW1-DW2                                                                                      Ground Water
+
+
+=== Page 100 ===
+REQUIRED ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 101 ===
+Solid/Liquid Manure Tracking Manifest
+
+.                                                                                       If amount hauled / transferred is liquid, then a "Waste Water Agreement"
+Waste Generator Information:                    Contact:                                                  is required in compliance with Land Application Specification C.2 of the
+General Order R5-2007-0035.
+
+Name:                     Brian Wind                        Name:                     Brian Wind
+
+Facility Name:           T&W Farms 1                    Number:                  (661) 477-2973                  Does the operator have an agreement, and is a Waste Water
+
+Facility Address: 18346 Old River Rd                                                                         Agreement on file with the RWQCD? NO
+
+Facility City/State:      Bakersfield, CA 93311                                                                                    ! declare under the penalty of law that I personally examined and am
+TT                                                                              familiar with the information submitted in this document, and that based
+
+on my inquiry of those individuals immediately responsible for obtaining
+Manure Hauler / Processor Information:      Contact:                                               the information, | believe that the information is true, accurate and
+                                                                                             complete. | am aware that there are significant penalties for submitting
+Name:                      Rico Trucking                      Name:                      Fernando Rico                    false information., including the possibility of a fine and imprisonment for
+Facility Address:        P.O. Box 515                     Number:                  (951) 314-2209                   knowing violations.
+
+Facility City/State:       Norco, CA 92860
+Signature of Owner:
+
+Manure Destination             Farmer                                                                               .
+Destination Information:                                  Contact:                                                                  raw)
+
+Name:                      Grimmway Farms                Name:                      Grimmway Farms                  Date:
+Facility Address:        PO Box 81498                   Number:                  (661) 845-5289                     42/30/2024
+Facility City/State:      Bakersfield, CA
+
+Signature of Hauler:
+
+Dates Hauled / Transferred           Amount Hauled / Transferred            Units      Moisture %
+
+Apr 1, 2024 - Apr, 30 2024               4,276                                           ton          70 %                          a
+
+May 1, 2024 - May, 31 2024            15,119                                     ton         69 %
+
+Jun 1, 2024 - Jun, 30 2024              12,776                                          ton          68 %
+
+Jul 1, 2024 - Jul, 31 2024              22,079                                     ton         68 %                  Date:
+
+Aug 1, 2024 - Aug, 31 2024            8,151                                        ton         70 %                   42/30/2024
+Sep 1, 2024 - Sep, 30 2024            15,934                                       ton         67 %
+
+Total                                                       78,335
+
+
+=== Page 102 ===

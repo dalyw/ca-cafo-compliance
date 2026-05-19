@@ -1,0 +1,168 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: P&D Dairy North
+
+Physical address of dairy:
+
+28366 Husman RD                                                                                          Gustine                          Merced                       95322
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1945
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X070-X030-X020-XXXX
+
+B. OPERATORS
+
+Lopes, Paul
+Operator name: Lopes, Paul                                                                                                 Telephone no.:                      (209) 649-4967
+Landline              Cellular
+9270 S Whitworth RD                                                                                                     Gustine                           CA               95322
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Lopes, Paul
+Legal owner name: Lopes, Paul                                                                                             Telephone no.:                      (209) 649-4967
+Landline              Cellular
+9270 S Whitworth RD                                                                                                     Gustine                           CA               95322
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+P&D Dairy North | 28366 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+05/01/2025 08:17:03                                                                                                                                                              Page 1 of 64
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                    400                    400                       0                       0
+Number under roof                                       0                      378                         0                         0                         0                         0
+Maximum number                               0                378                500                500                   0                   0
+Average number                                    0                  378                  450                  450                     0                     0
+Avg live weight (Ibs)                               0                1,400                  750                  500
+Predominant milk cow breed: Holstein
+Average milk production:                            {1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         13,784.08 tons per reporting period
+Total nitrogen from manure:                  154,818.00 /bs per reporting period       After ammonia losses (30% loss applied):        108,372.60 /bs per reporting period
+Total phosphorus from manure:               23,624.57 Ibs per reporting period
+Total potassium from manure:                       1.00 /bs per reporting period
+Total salt from manure:                         87,159.24 Ibs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:         9,911,520 gallons               9,911,520 gallons applied
+Total nitrogen generated:               25,895.05 /bs           +               0 gallons exported
+Total phosphorus generated:            3,792.82 Ibs           -               0 gallons imported
+Total potassium generated:            94,125.01 /bs           =      9,911,520 gallons generated
+Total salt generated:                  582,015.20 /bs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+Ag Well 18                                                                                             Ground water
+Ag Well 20                                                                                                    Ground water
+Ag Well 21                                                                                                    Ground water
+Ag Well 23                                                                                                    Ground water
+CCID                                                                                                                       Surface water
+
+P&D Dairy North | 28366 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+05/01/2025 08:17:03                                                                                                                                                                                  Page 2 of 64
+
+
+=== Page 65 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+P&D Dairy North | 28366 Husman RD | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+05/01/2025 08:17:03                                                                                                                                                       Page 1 of 1
+
+
+=== Page 66 ===
+Denele Analytical, Inc.
+
+M                 865 South Kilroy Avenue Turlock, CA 95380                40 N. East Street, Woodland, CA 95776
+      Phone (209) 634-9055 - Fax (209) 634-9057               Phone (530) 666-9056 - Fax (530) 666-9058
+
+AY        www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer                                                Grower                                                   Consultant:
+
+P & D Dairy                                                                                                          F &RAg Services
+9270 Whitworth Rd                                                                                                   2857 Geer Rd. Ste A
+Gustine, CA 95322                                                                                                      Turlock, CA 95382
+PURCHASE ORDER: North                                                  Irrigation / Ground Water (H7)
+
+RECEIVED DATE: = 1/3/24 9:10 AM                                        SOURCE: Irrigation Water
+
+SUBMITTED BY:      Joe Ramos
+ANALYZED DATE: = 1/5/24
+
+NOTES: Temperature was above qualifying at 10.8c
+
+Sample ID         Lab ID         Analyte                           Method Ref          Result
+
+Ag Well 18              T4003002A       Electrical Conductivity (EC)               EPA 120.1 and              1.27           mmhos/cm
+Ammonia Nitrogen (NH3-N)               SM 4500-NH3 D,C         < 0.500              mg/L
+Nitrate Nitrogen (NO3-N)                     EPA 353.2                       9.12                  mg/L
+Total Dissolved Solids (TDS)               SM 2540 C-1997 and         605                 mg/L
+Total Nitrogen (TN)                         SM 4500-NH3 D,C           11.9               mg/L
+Soluble Salts (SALT-SOL)                    Calculation                        813                   mg/L
+
+Laboratory Quality Control        LCS %        MS %          MSD %      Sample mg/L     Dup mg/L       RPD %
+
+Ammonia Nitrogen (NH3-N)                               95.8 (T4003010D) 94.0 (T4003010D)
+Electrical Conductivity (EC)                                                                         1.49 (T3362090A)        1.55 (Dup)
+Nitrate Nitrogen (NO3-N)                                102 (T3362098C)     101 (T3362098C)
+Total Dissolved Solids (TDS)                                                                       435 (T4003007F)        440 (Dup)
+Total Nitrogen (TN)                                                                                 5.60 (T3362069C)        5.60 (null)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1                                                                            ELAP Certificate No.: 2714

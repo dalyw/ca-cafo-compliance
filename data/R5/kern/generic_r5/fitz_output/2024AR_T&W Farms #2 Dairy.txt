@@ -1,0 +1,255 @@
+=== Page 1 ===
+0184-0400-0003-0000
+0184-0400-0004-0000
+0184-0400-0006-0000
+0184-0400-0007-0000
+0184-0400-0008-0000
+DAIRY FACILITY INFORMATION
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+T&W Farms 2
+Physical address of dairy:
+5959 Houghton Rd
+Bakersfield
+Kern
+93311
+Number and Street
+City
+County
+Zip Code
+Street and nearest cross street (if no address):
+Date facility was originally placed in operation:
+01-01-2000
+Regional Water Quality Control Board Basin Plan designation:
+Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+B. OPERATORS
+Brian Wind
+Operator Name:
+Brian Wind
+Telephone no.:
+(661) 477-2973
+Landline
+Cellular
+18000 Old River Rd
+Bakersfield
+Kern
+93311
+Mailing Address Number and Street
+City
+County
+Zip Code
+C. OWNERS
+Brian Wind
+Owner Name:
+Brian Wind
+Telephone no.:
+(661) 477-2973
+Landline
+Cellular
+18000 Old River Rd
+Bakersfield
+Kern
+93311
+Mailing Address Number and Street
+City
+County
+Zip Code
+
+
+=== Page 2 ===
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Milk Cows
+Dry Cows
+Bred Heifers (15-24 mo.)
+Heifers (7-14 mo.to breeding)
+Calves (4-6 mo.)
+Calves (0-3 mo.)
+Number open confinement
+0
+145
+358
+303
+135
+139
+Number under roof
+795
+0
+0
+0
+0
+0
+Maxiumu number
+800
+160
+370
+317
+150
+150
+Average number
+795
+145
+358
+303
+135
+139
+Average live weight (lbs)
+1400
+1450
+1000
+300
+Predominant milk cow breed:
+Holsteins
+Average Milk Production:
+70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:
+29,674.62 tons per reporting period
+Total nitrogen from manure:
+369,819.98 lbs per reporting period
+After ammonia losses (30% loss applied):
+258,873.99 lbs per reporting period
+Total phosphorus from manure:
+60,237.19 lbs per reporting period
+Total potassium from manure:
+152,249.84 lbs per reporting period
+Total salt from manure:
+407,668.50 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:
+20,215,002.31 gallons
+Total nitrogen generated:
+49,567.17 lbs
+Total phosphorus generated:
+74,536,331.23 lbs
+Total potassium generated:
+63,563.78 lbs
+Total salt generated:
+640,470.70 lbs
+20,215,002.31 gallons applied
++
+0 gallons exported
+-
+0 gallons imported
+=
+20,215,002.31 gallons generated
+D. FRESH WATER SOURCES
+Source Description
+Type
+Canal - Farmers
+Surface Water
+TW2-2
+Ground Water
+TW2-DW1
+Ground Water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+
+
+=== Page 29 ===
+REQUIRED ATTACHMENTS
+A. REQUIRED ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted.
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Discharge Maps
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+Discharge Lab Reports
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 30 ===
+Solid/Liquid Manure Tracking Manifest
+Waste Generator Information:
+Name:
+Brian Wind
+Facility Name:
+T&W Farms 2
+Facility Address:
+5959 Houghton Rd
+Facility City/State:
+Bakersfield, CA 93311
+Contact:
+Name:
+Brian Wind
+Number:
+(661) 477-2973
+ 
+ 
+Manure Hauler / Processor Information:
+Name:
+Rico Trucking
+Facility Address:
+P.O. Box 515
+Facility City/State:
+Norco, CA 92860
+Contact:
+Name:
+Fernando Rico
+Number:
+(951) 314-2209
+ 
+Manure Destination
+Farmer
+Destination Information:
+Name:
+Grimmway Farms
+Facility Address:
+PO Box 81498
+Facility City/State:
+Bakersfield, CA
+Contact:
+Name:
+Grimmway Farms
+Number:
+(661) 845-5289
+ 
+Dates Hauled / Transferred
+Amount Hauled / Transferred
+Units
+Moisture %
+Feb 1, 2024 - Feb, 29 2024
+6,647
+ton
+70 %
+Nov 1, 2024 - Nov, 30 2024
+4,924
+ton
+68 %
+Total
+11,571
+If amount hauled / transferred is liquid, then a "Waste Water Agreement"
+is required in compliance with Land Application Specification C.2 of the
+General Order R5-2007-0035.
+Does the operator have an agreement, and is a Waste Water
+Agreement on file with the RWQCD?   NO
+I declare under the penalty of law that I personally examined and am
+familiar with the information submitted in this document, and that based
+on my inquiry of those individuals immediately responsible for obtaining
+the information, I believe that the information is true, accurate and
+complete. I am aware that there are significant penalties for submitting
+false information., including the possibility of a fine and imprisonment for
+knowing violations.
+Signature of Owner:
+Date:
+12/30/2024
+ 
+Signature of Hauler:
+Date:
+12/30/2024

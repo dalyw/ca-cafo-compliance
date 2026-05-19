@@ -1,0 +1,510 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Vieira Dairy Farm
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95301
+Merced
+Atwater
+9701 Atwater Jordan Road
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+08/14/1998
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0056-0010-0067-0000
+B.
+Vieira, Mark
+Operator name: Vieira, Mark
+Telephone no.:
+Landline
+Cellular
+(209) 261-6868
+P.O. Box 516
+Atwater
+CA
+95301
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Lourenco, Joe
+Legal owner name: Lourenco, Joe
+Telephone no.:
+Landline
+Cellular
+(209) 777-0713
+95301
+Zip Code
+State
+City
+Mailing Address Number and Street
+2670 Hull Road
+Atwater
+CA
+C. OWNERS
+06/21/2025 08:50:16
+Page 1 of 36
+Vieira Dairy Farm | 9701 Atwater Jordan Road | Atwater, CA 95301 | Merced County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+1,145
+1,200
+1,400
+168
+175
+1,450
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+70 pounds per cow per day
+Average number
+1,145
+168
+0
+0
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+31,912.73
+415,806.30
+69,246.94
+219,878.83
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+291,064.41 lbs per reporting period
+Total salt from manure:
+579,337.74 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+108,785.69
+8,092.41
+163,957.82
+1,019,481.28
+24,048,000
+lbs
+lbs
+lbs
+gallons
+24,048,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+24,048,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+D-1
+Ground water
+D-2
+Ground water
+DW-1
+Ground water
+DW-2
+Ground water
+DW-3
+Ground water
+06/21/2025 08:50:16
+Page 2 of 36
+Vieira Dairy Farm | 9701 Atwater Jordan Road | Atwater, CA 95301 | Merced County | San Joaquin River Basin
+
+
+=== Page 37 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/21/2025 08:50:16
+Page 1 of 1
+Vieira Dairy Farm | 9701 Atwater Jordan Road | Atwater, CA 95301 | Merced County | San Joaquin River Basin
+
+
+=== Page 38 ===
+Grower
+RECEIVED DATE:
+7/17/24 3:11 PM
+SUBMITTED BY:
+Daniel Roos
+ANALYZED DATE:
+7/23/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Clear Water
+Compliance Analysis Report
+P.O. Box 3679
+Merced, CA 95344
+Heartland Consulting
+Consultant:
+NOTES: Temperature was qualifying at 22.1c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.593
+mmhos/cm
+T4199066I
+D-1
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+10.7
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+379
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+91.0 (T4199066D)
+92.8 (T4199066D)
+1.95
+91.8
+Electrical Conductivity (EC)
+1.25
+99.9
+Nitrate Nitrogen (NO3-N)
+94.0 (T4199064E)
+94.5 (T4199064E)
+0.573
+97.8
+Denele Analytical | Page 9
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+Customer
+MARK VIEIRA
+PO Box 516
+Atwater, CA 95301
+PURCHASE ORDER:
+
+
+=== Page 47 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mark Vieira
+Mark Vieira
+(209) 261-8686
+9701 Atwater Jordan Road
+95301
+Merced
+Atwater
+Vieira Dairy Farm
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Hinds Manure Spreading
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95374
+Contact Person:
+Name
+Phone Number
+(209) 634-8934
+Stevenson
+CA
+19075 3rd. Avenue
+Gilbert Hinds
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Broker
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Hinds Manure Spreading
+19075 3rd. Avenue
+Address
+City
+State
+Zip Code
+Phone Number
+Stevenson
+CA
+95374
+(209) 634-8934
+Last date hauled: 06/05/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Stevenson
+95374
+3rd. Avenu
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+
+
+=== Page 48 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 1,400.00 tons
+Manure Solids Content:
+83.9 %
+Method used to determine amount of manure:
+Averaged scale weighed trucks multiplied bt the number of trucks hauled.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Mark J. Vieira (Jun 23, 2025 11:27 PDT)
+Jun 23, 2025
+
+
+=== Page 49 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mark Vieira
+Mark Vieira
+(209) 261-8686
+9701 Atwater Jordan Road
+95301
+Merced
+Atwater
+Vieira Dairy Farm
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Hinds Manure Spreading
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95374
+Contact Person:
+Name
+Phone Number
+(209) 634-8934
+Stevenson
+CA
+19075 3rd. Avenue
+Gilbert Hinds
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Broker
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Hinds Manure Spreading
+19075 3rd. Avenue
+Address
+City
+State
+Zip Code
+Phone Number
+Stevenson
+CA
+95374
+(209) 634-8934
+Last date hauled: 10/25/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+Stevenson
+95374
+3rd. Avenu
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+
+
+=== Page 50 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 2,600.00 tons
+Manure Solids Content:
+92.1 %
+Method used to determine amount of manure:
+Averaged scale weighed trucks multiplied bt the number of trucks hauled.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Mark J. Vieira (Jun 23, 2025 11:27 PDT)
+Jun 23, 2025
+
+
+=== Page 51 ===
+2024 AR VIEIRA DAIRY FARM
+WDR100039346
+Final Audit Report
+2025-06-23
+Created:
+2025-06-23
+By:
+Daniel Roos (hlcdan@yahoo.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAA25rg5aEoMrEbLphgth6lNvo3PERN0juy
+"2024 AR VIEIRA DAIRY FARM WDR100039346" History
+Document created by Daniel Roos (hlcdan@yahoo.com)
+2025-06-23 - 4:04:34 PM GMT- IP address: 73.41.66.229
+Document emailed to moozrus@aol.com for signature
+2025-06-23 - 4:06:08 PM GMT
+Email viewed by moozrus@aol.com
+2025-06-23 - 6:24:18 PM GMT- IP address: 172.225.89.19
+Signer moozrus@aol.com entered name at signing as Mark J. Vieira
+2025-06-23 - 6:27:22 PM GMT- IP address: 98.41.221.51
+Document e-signed by Mark J. Vieira (moozrus@aol.com)
+Signature Date: 2025-06-23 - 6:27:24 PM GMT - Time Source: server- IP address: 98.41.221.51
+Agreement completed.
+2025-06-23 - 6:27:24 PM GMT

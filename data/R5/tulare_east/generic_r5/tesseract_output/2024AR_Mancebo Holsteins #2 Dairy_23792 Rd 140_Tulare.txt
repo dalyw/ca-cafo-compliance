@@ -1,0 +1,257 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Mancebo Holsteins #2
+
+Physical address of dairy:
+
+23792 Road 140 RD                                                                                    Tulare                          Tulare                       93274
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1960
+Regional Water Quality Control Board Basin Plan designation: Tulare Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0195-0050-0004-0000
+
+B. OPERATORS
+
+Mancebo, Stephen
+
+Operator name: Mancebo, Stephen                                                                                       Telephone no.: (559) 688-4186
+
+Landline              Cellular
+14891 Avenue 232                                                                                               Tulare                          CA              93274
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Mancebo, Wayne
+
+Legal owner name: Mancebo, Wayne                                                                                                  Telephone no.: (559) 688-4186
+
+Landline              Cellular
+14891 Avenue 232                                                                                               Tulare                          CA              93274
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+Mancebo Holsteins #2 | 23792 Road 140 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
+
+03/15/2025 08:47:47                                                                                                                                                          Page 1 of 18
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                        750                    100                    100                    100                       0                       0
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                            750                 100                 100                 100                   0                   0
+Average number                                 750                   100                   100                   100                     0                     0
+Avg live weight (Ibs)                           1,400                1,050                  980                  750
+Predominant milk cow breed: Holstein
+Average milk production:                          70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         22,602.85 tons per reporting period
+Total nitrogen from manure:                 289,556.21 /bs per reporting period      After ammonia losses (30% loss applied):       202,689.35 /bs per reporting period
+Total phosphorus from manure:              48,336.44 Ibs per reporting period
+Total potassium from manure:              144 025.43 Ibs per reporting period
+Total salt from manure:                         377,163.00 /bs per reporting period
+Cc. PROCESS WASTEWATER GENERATED
+Process wastewater generated:         2,844,679 gallons              2,844,679 gallons applied
+Total nitrogen generated:                6,057.10 /bs           +               0 gallons exported
+Total phosphorus generated:            1,587.28 lbs           -               0 gallons imported
+Total potassium generated:             10,866.49 /bs           =      2,844,679 gallons generated
+Total salt generated:                   58 684.99 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+Canal                                                                                                                      Surface water
+Well 2                                                                                                             Ground water
+
+Mancebo Holsteins #2 | 23792 Road 140 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
+
+03/15/2025 08:47:47                                                                                                                                                                            Page 2 of 18
+
+
+=== Page 19 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Mancebo Holsteins #2 | 23792 Road 140 RD | Tulare, CA 93274 | Tulare County | Tulare Basin
+
+03/15/2025 08:47:47                                                                                                                                                       Page 1 of 1
+
+
+=== Page 20 ===
+SELLAVALLE
+
+LABORATORY
+
+Sola Consulting Inc                                               Account# 00-0020655                                        Received: 05/17/2024 7:00
+PO Box 190                                                    Account Manager: Ben Nydam                               Reported: 05/23/2024 08:49
+Tipton, CA 93272                                                  Submitted By: Vince Sola
+
+Ranch: Tulare Irrigation District
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24E1291-01         Tulare ID (Ditch)                               Ag Water                      Cynthia Tiemersma                                             05/16/2024 11:19
+Default Cooler           Temperature on Receipt °C: 3.6
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                Hold Time Exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 9
+
+
+=== Page 58 ===
+-   ATTACHMENT >
+
+Petes Be PERE MSD ga os ity
+
+7    “Complete o one manifest for each hauling event, for each destination. A hauling event may: last for
+
+“) several days, as long as the manure is:-being hauled to the-same destination.        _
+
+2). If.there are Multiple destinations;  complete. a separate. form for: each destination.       ne ee a
+- The operator must obtain the signature of the hauler upon ‘completion: ofeach Tanure-hauling event.    aoe
+) The operator shall submit copies of manure/process- wastewater tracking manifests} with the Annual
+Monitoring Report for Existing ‘Milk Cow Dairies.                    .
+
+.  . Operator Information:
+~~ | Name of Operator:
+
+) ‘Namber and Street  peerees     7 = = =4    a ~     oe    — Code
+
+i | Contact Person Name and Phone Number:    .  $2  pact racks    |   S4- 30% Lz) 2
+
+Address of Hauling Company / IPerson:    SYET Ave 2s zo
+~ Number and Street  Z
+
+“Rukaber ana Street -  —    Gity  Zip Code — Bone Rabo
+
+| Manure/Process Wastewater: Destination Address or Assessor's Parcel Number:
+
+(Yous Ave 246 Te     |     {     _   ;
+‘Number and Street   ;    ity   }     . Zip Code  a Assessor's Parcel Number |
+
+|  Dates Hauled:
+
+1 Amount Hauled:                                        :
+
+| Enter the amount of manure hauled in tons or cubic yards (indicate the units used),  the manure |
+
+| Solids content (if amount reported in tons) or manure density Gf amount reported | in. cubic yards),
+and the method used to calculate the amount:
+
+Manure:   VA / o O         Tons « or Cubic Yards (indicate. which units used)
+Manure Solids Content (if amount reported in tons):             7s Kk
+Manure Density (if amount reported in cubic yards): —_  sengeitentninen
+
+
+
+=== Page 59 ===
+-: c- Attachment D
+
+Process Wastewater:
+
+"Method uséd to détermine ‘voluime of procéss wastewater!
+
+"Written Agreement:          nna         ee See
+. | Does the Operator have a written eereement Gi doniplance wi with Land 1d Application n Speci gation |  ope
+© [1 6.2-0f Waste Discharge Requirements General Order No. R5-2007-0035) with any party that |
+
+ah  ‘receives $ process wastewater from the 16 Operator fori ts own nuse?  ? (please « check one) -
+
+:   Ifthe answer.is no, the Operator agrees to. have such ¢ a writen: agréement wi with any such party °
+“for any Process wastewater transferred after 31. December 2007 to'such party.
+ae                   _... (Operator: ‘shall provide initials t here. fo acknowledge this requirement):
+
+a ‘Certification:
+. .| Pdeclare under the penalty of law that} FI personally examined and am. fami
+_\. -¢ P submitted in this docunient: and that based on my inquiry of those indivi                iS
+OY obtaining ‘the information, I believe that the information is true, accuraté, and complete. 1 2 m7, E
+"| | there are significant penalties for: eating: false information,  ns including the POSSTaIRy ofa fine and’
+4   imprisonment for ‘knowing | violations... soe te Lith ate usb te cali oot awa toa
+
+with: ‘the in information
+
+_| Operator's Signature: ALL _
+
+: Hauler’s Signature: . _
+

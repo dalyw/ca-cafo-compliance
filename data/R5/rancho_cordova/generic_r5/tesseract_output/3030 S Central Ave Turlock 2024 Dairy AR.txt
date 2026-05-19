@@ -1,0 +1,186 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: A&M de Sousa Dairy
+
+Physical address of dairy:
+
+3030 S Central AVE                                                                                                  Turlock                            Stanislaus                     95380
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1920
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0058-0017-0005-0000     0058-00 17-0006-0000
+
+B. OPERATORS
+
+Sousa, Armelim
+
+Operator name: Sousa, Armelim                                                                              Telephone no.: (209) 632-5845
+
+Landline              Cellular
+3030 S Central AVE                                                                                                      Turlock                            CA               95380
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Sousa, Armelim
+
+Legal owner name: Sousa, Armelim                                                                                      Telephone no.: (209) 632-5845
+
+Landline              Cellular
+3030 S Central AVE                                                                                                      Turlock                            CA               95380
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+A&M de Sousa Dairy | 3030 S Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+06/03/2025 14:34:17                                                                                                                                              Page 1 of 64
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                    270                    210                    430                    280                      30
+Number under roof                                  1,210                         0                         0                         0                         0                         0
+Maximum number                           1,210                270                210                430                280                  30
+Average number                               1,210                  270                  210                  430                  280                    30
+Avg live weight (Ibs)                           1,400                1,450                1,000                  700
+Predominant milk cow breed: Holstein
+Average milk production:                          77 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         43,443.41 tons per reporting period
+Total nitrogen from manure:                  546,151.01 /bs per reporting period       After ammonia losses (30% loss applied):        382,305.71 lbs per reporting period
+Total phosphorus from manure:               89 237.65 /bs per reporting period
+Total potassium from manure:              237,941.07 /bs per reporting period
+Total salt from manure:                       633,546.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       36,013,000 gallons            36,013,000 gallons applied
+Total nitrogen generated:              131,707.74 lbs           +               0 gallons exported
+Total phosphorus generated:           13,441.95 Ibs           -               0 gallons imported
+Total potassium generated:           171,429.43 lbs           = 36,013,000 gallons generated
+Total salt generated:              1,533,556.31 lbs
+
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+
+Turlock Irrigation District                                                                          Surface water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+A&M de Sousa Dairy | 3030 S Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+06/03/2025 14:34:17                                                                                                                                                                                  Page 2 of 64
+
+
+=== Page 65 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+A&M de Sousa Dairy | 3030 S Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+06/03/2025 14:34:17                                                                                                                                                   Page 1 of 1
+
+
+=== Page 66 ===
+IEH - JL ANALYTICAL
+
+217 Primo Way + Modesto, California 95358 * Office (209) 538-8111 = FAX (209) 538-3966
+
+Report #                                L2.2-14R70064
+
+A&MDeS
+
+—                                                                 Report Date:               12/18/2024
+Received Date:                    12/16/2024
+Work Order:                                  655930
+
+3030 S. Central Ave.
+Turlock,CA 95380
+
+Laboratory Number:       65593001
+Description:             Water, Well 1, 12/15/24, 1430
+Sampled By:Paul Sousa, Employed By:A & M DeSousa Dairy
+
+Analytical Results
+
+.            Method                                                                :                     F
+Reporting     Detection              Method                 Analysis      Analysis
+
+Result                       Limit                               Reference                  Date           Time
+
+Analyst
+
+Constituent                                                                                        Limit
+
+[ Nitrate Nitrogen                  27 mg/l     0.1   0.01    EPA 300.0    12/17/2024 08:08  JDLC
+
+QC Results
+
+.      .  Matrix   Lab
+.                           _ Theoretical   Matrix    :                .
+QC Units              Matrix           Spike Control  Precision Accuracy Response
+
+Spike   Spike Duplicate Spike    %    %    %
+[ Nitrate Nitrogen                                                                                              7.7      0.9        0.1       97.0
+
+Constituent
+
+Notes
+
+tha oe g  wee a
+
+Authorized By:   we                              12/18/2024
+Britney Dundee, Chemistry Supervisor
+
+ELAP Accreditation Laboratory Certificate #2776. Unless otherwise noted, all samples were received in acceptable condition. The result(s) in
+this report relate only to the portion of the sample(s) tested. Results are not corrected for recovery or expanded measurment of uncertainty.
+This report does not constitute a release of product for consumption. This report shall not be reproduced except in full, without written
+approval of the laboratory. This document contains confidential commercial information pursuant to 5 U.S.C. SEC. 552(b)(4).       Page 1 of 6

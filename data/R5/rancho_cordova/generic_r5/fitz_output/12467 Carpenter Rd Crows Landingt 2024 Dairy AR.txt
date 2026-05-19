@@ -1,0 +1,251 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+RP Feedlot (Formerly Francisco Mendonca Dairy)
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95213
+Stanislaus
+Crows Landing
+12467 Carpenter RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1950
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0058-0002-0010-0000
+B.
+Mendes, Albert
+Operator name: Mendes, Albert
+Telephone no.:
+Landline
+Cellular
+(209) 632-0350
+1100 Ruble RD
+Crows Landing
+CA
+95313
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+River Partners
+Legal owner name: River Partners
+Telephone no.:
+Landline
+Cellular
+(530) 894-5401
+95926
+Zip Code
+State
+City
+Mailing Address Number and Street
+580 Vallombrosa AVE
+Chico
+CA
+C. OWNERS
+04/25/2025 10:41:11
+Page 1 of 29
+RP Feedlot (Formerly Francisco Mendonca Dairy) | 12467 Carpenter RD | Crows Landing, CA 95213 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+1
+1
+1,400
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+1 pounds per cow per day
+Average number
+1
+0
+0
+0
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+17.55
+230.13
+37.41
+146.58
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+161.09 lbs per reporting period
+Total salt from manure:
+472.14 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+lbs
+lbs
+lbs
+gallons
+0
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+0
+D. FRESH WATER SOURCES
+Source Description
+Type
+Lateral 5
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+04/25/2025 10:41:11
+Page 2 of 29
+RP Feedlot (Formerly Francisco Mendonca Dairy) | 12467 Carpenter RD | Crows Landing, CA 95213 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 30 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+04/25/2025 10:41:11
+Page 1 of 1
+RP Feedlot (Formerly Francisco Mendonca Dairy) | 12467 Carpenter RD | Crows Landing, CA 95213 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 31 ===
+Customer
+R P Feedlot
+1100 Ruble Rd.
+Crowslanding, CA 95313
+Grower
+PURCHASE ORDER: Albert Mendes
+RECEIVED DATE:
+12/18/23 2:05 PM
+SUBMITTED BY:
+ANALYZED DATE:
+12/22/23
+Denele Analytical, Inc.
+1232 South Ave. Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Well Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+2.25
+mmhos/cm
+T0356008A
+#1 Well
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+< 0.140
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 C-2011
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+1440
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+102 (null)
+102 (null)
+0.000
+105
+Nitrate Nitrogen (NO3-N)
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

@@ -1,0 +1,28 @@
+Solid/Liquid Manure Tracking Manifest
+. If amount hauled/transferred is liquid then a "wastewater Agreement"
+Waste Generator Information Contact is required in compliance with Land Application Specification C.2 of the
+General Order R5-2007-0035.
+Name Brian Wind Name Brian Wind
+Facility Name T&W Farms 2 Number (661) 477-2973 Does the operator have an agreement and is a wastewater
+Facility Address 5959 HoughtonRd TT Agreement on file with the RWQCD? NO
+Facility City/State Bakersfield CA 93311 ! declare under the penalty of law that I personally examined and am
+TT familiar with the information submitted in this document and that based
+on my inquiry of those individuals immediately responsible for obtaining
+Manure Hauler/Processor Information Contact the information I believe that the information is true accurate and
+ complete. I am aware that there are significant penalties for submitting
+Name Rico Trucking Name Fernando Rico false information. including the possibility of a fine and imprisonment for
+Facility Address P.O. Box 515 Number (951) 314-2209 knowing violations.
+Facility City/State Norco CA 92860
+Signature of Owner
+Manure Destination Farmer .
+Destination Information Contact raw)
+Name Grimmway Farms Name Grimmway Farms Date
+Facility Address PO Box 81498 Number (661) 845-5289 42/30/2024
+Facility City/State Bakersfield CA
+Signature of Hauler
+Dates Hauled/Transferred Amount Hauled/Transferred Units Moisture %
+Feb 1 2024-Feb 29 2024 6647 ton 70 % a
+Nov 1 2024-Nov 30 2024 4924 ton 68 %
+Total 11571
+Date
+12/30/2024

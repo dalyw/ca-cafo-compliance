@@ -1,0 +1,3425 @@
+=== Page 1 ===
+CALIFORNIA REGIONAL WATER QUALITY CONTROL BOARD 
+CENTRAL VALLEY REGION 
+1685 E STREET 
+FRESNO  CA  93706 
+2024 ANNUAL REPORT 
+PREPARED FOR: 
+FRED THOMMEN DAIRY 
+53955 W NEES AVE 
+FIREBAUGH  CA  93622 
+NOTES: 
+No irrigation or domestic wells exist onsite, therefore no samples are taken; freshwater source for all uses is the Aqueduct 
+PREPARED BY: 
+PO BOX 906 
+NEWMAN  CA  95360 
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Fred Thommen Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93622
+Fresno
+Firebaugh
+53955 W Nees AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+07/07/1985
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X005-X120-X30S-XXXX
+B.
+Thommen, Fred
+Operator name: Thommen, Fred
+Telephone no.:
+Landline
+Cellular
+(209) 364-0077
+53955 W Nees AVE
+Firebaugh
+CA
+93622
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Thommen, Fred
+Legal owner name: Thommen, Fred
+Telephone no.:
+Landline
+Cellular
+(209) 364-0077
+93622
+Zip Code
+State
+City
+Mailing Address Number and Street
+53955 W Nees AVE
+Firebaugh
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/30/2025 14:20:15
+Page 1 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+2,000
+2,000
+1,400
+300
+300
+1,500
+600
+600
+1,100
+100
+100
+775
+0
+0
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+70 pounds per cow per day
+Average number
+2,000
+300
+600
+100
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+63,360.18
+794,109.90
+132,386.38
+384,067.82
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+555,876.93 lbs per reporting period
+Total salt from manure:
+1,013,454.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+16,879.85
+2,628.68
+26,114.01
+117,779.24
+15,850,000
+lbs
+lbs
+lbs
+gallons
+15,850,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+15,850,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Aquaduct
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+06/30/2025 14:20:15
+Page 2 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 4 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+No commercial or other nutrient imports entered.
+G. NUTRIENT EXPORTS
+Date
+Material type
+Quantity Reporting basis
+Moisture (%)
+Density (lbs/cu ft)
+Salt (mg/kg)
+K (mg/kg)
+P (mg/kg)
+N (mg/kg)
+TFS (%)
+Corral solids
+3,800.00 ton
+9.9
+19,100.00
+3,020.00
+27,100.00
+Dry-weight
+07/10/2024
+0.00
+Corral solids
+6,200.00 ton
+9.9
+19,100.00
+3,020.00
+27,100.00
+Dry-weight
+12/15/2024
+0.00
+No liquid nutrient exports entered.
+Material type
+Total N (lbs)
+Total P (lbs)
+Total K (lbs)
+Total salt (lbs)
+Dry manure
+488,342.00
+54,420.40
+344,182.00
+0.00
+Process wastewater
+0.00
+0.00
+0.00
+0.00
+Total exports for all materials
+488,342.00
+54,420.40
+344,182.00
+0.00
+06/30/2025 14:20:15
+Page 3 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 5 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+APPLICATION AREA
+A. LIST OF LAND APPLICATION AREAS
+Field name
+Parcel number
+Cropable acres
+Controlled acres
+Type of waste applied
+Total harvests
+1
+X005-X120-X30S-XXXX
+process wastewater
+17
+16
+2
+2
+X005-X120-X30S-XXXX
+process wastewater
+40
+35
+2
+3
+X005-X120-X30S-XXXX
+process wastewater
+60
+60
+2
+4
+X005-X120-X30S-XXXX
+process wastewater
+46
+42
+2
+Totals for areas that were used for application
+153
+163
+8
+Totals for areas that were not used for application
+8
+Land application area totals
+153
+163
+B.
+1
+1
+Field name:
+11/22/2023: Wheat, silage, soft dough
+Crop:Wheat, silage, soft dough
+Plant date: 11/22/2023
+Acres planted:
+16
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+05/01/2024
+208.00
+63.8
+19,600.00
+2,880.00
+15,200.00
+ton
+Dry-weight
+11.00
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+198.00
+30.60
+149.40
+184.48
+27.11
+143.06
+1,035.32
+Yield (tons/acre)
+18.00
+13.00
+0.00
+06/01/2024: Sudangrass, silage
+Crop:Sudangrass, silage
+Plant date: 06/01/2024
+Acres planted:
+16
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+10/01/2024
+192.00
+70.0
+5,420.00
+1,590.00
+10,500.00
+ton
+Dry-weight
+5.96
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+88.00
+13.60
+96.00
+39.02
+11.45
+75.60
+429.12
+Yield (tons/acre)
+8.00
+12.00
+0.00
+CROPS AND HARVESTS
+06/30/2025 14:20:15
+Page 4 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 6 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+2
+2
+Field name:
+11/24/2023: Wheat, silage, soft dough
+Crop:Wheat, silage, soft dough
+Plant date: 11/24/2023
+Acres planted:
+35
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+05/01/2024
+472.50
+61.0
+16,200.00
+1,770.00
+18,700.00
+ton
+Dry-weight
+10.10
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+198.00
+30.60
+149.40
+170.59
+18.64
+196.91
+1,063.53
+Yield (tons/acre)
+18.00
+13.50
+0.00
+06/01/2024: Sudangrass, silage
+Crop:Sudangrass, silage
+Plant date: 06/01/2024
+Acres planted:
+35
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+10/01/2024
+437.50
+70.0
+4,640.00
+1,040.00
+10,000.00
+ton
+Dry-weight
+6.60
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+88.00
+13.60
+96.00
+34.80
+7.80
+75.00
+495.00
+Yield (tons/acre)
+8.00
+12.50
+0.00
+3
+3
+Field name:
+11/24/2023: Wheat, silage, soft dough
+Crop:Wheat, silage, soft dough
+Plant date: 11/24/2023
+Acres planted:
+60
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+04/15/2024
+810.00
+65.0
+14,800.00
+2,080.00
+22,900.00
+ton
+Dry-weight
+10.80
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+198.00
+30.60
+149.40
+139.86
+19.66
+216.41
+1,020.60
+Yield (tons/acre)
+18.00
+13.50
+0.00
+06/30/2025 14:20:15
+Page 5 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 7 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3
+06/01/2024: Sudangrass, silage
+Crop:Sudangrass, silage
+Plant date: 06/01/2024
+Acres planted:
+60
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+10/03/2024
+900.00
+70.0
+4,880.00
+1,320.00
+9,900.00
+ton
+Dry-weight
+5.57
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+88.00
+13.60
+96.00
+43.92
+11.88
+89.10
+501.30
+Yield (tons/acre)
+8.00
+15.00
+0.00
+4
+4
+Field name:
+11/23/2023: Wheat, silage, soft dough
+Crop:Wheat, silage, soft dough
+Plant date: 11/23/2023
+Acres planted:
+42
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+05/01/2024
+710.00
+69.0
+17,800.00
+2,370.00
+29,400.00
+ton
+Dry-weight
+13.00
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+198.00
+30.60
+149.40
+186.56
+24.84
+308.14
+1,362.52
+Yield (tons/acre)
+18.00
+16.90
+0.00
+06/01/2024: Sudangrass, silage
+Crop:Sudangrass, silage
+Plant date: 06/01/2024
+Acres planted:
+42
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+10/03/2024
+672.00
+70.0
+5,230.00
+1,500.00
+10,100.00
+ton
+Dry-weight
+6.19
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+88.00
+13.60
+96.00
+50.21
+14.40
+96.96
+594.24
+Yield (tons/acre)
+8.00
+16.00
+0.00
+06/30/2025 14:20:15
+Page 6 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 8 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT BUDGET
+A. LAND APPLICATIONS
+1 - 11/22/2023: Wheat, silage, soft dough
+Field name:
+Crop:
+1
+Wheat, silage, soft dough
+Plant date: 11/22/2023
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+12/02/2023
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+51.11
+9.15
+89.45
+297.29
+500,000.00 gal
+Aquaduct
+Surface water
+0.70
+0.00
+0.00
+0.00
+2,700,000.00 gal
+Application event totals
+51.82
+9.15
+89.45
+297.29
+02/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+29.21
+4.09
+43.81
+281.64
+500,000.00 gal
+Aquaduct
+Surface water
+0.70
+0.00
+0.00
+0.00
+2,700,000.00 gal
+Application event totals
+29.91
+4.09
+43.81
+281.64
+03/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+29.21
+4.09
+43.81
+281.64
+500,000.00 gal
+Aquaduct
+Surface water
+0.70
+0.00
+0.00
+0.00
+2,700,000.00 gal
+Application event totals
+29.91
+4.09
+43.81
+281.64
+1 - 06/01/2024: Sudangrass, silage
+Field name:
+Crop:
+1
+Sudangrass, silage
+Plant date: 06/01/2024
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/30/2025 14:20:15
+Page 7 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 9 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+1 - 06/01/2024: Sudangrass, silage
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+7.30
+1.02
+10.95
+70.41
+125,000.00 gal
+Aquaduct
+Surface water
+1.23
+0.00
+0.00
+0.00
+4,700,000.00 gal
+Application event totals
+8.53
+1.02
+10.95
+70.41
+07/21/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.91
+1.06
+9.26
+22.82
+125,000.00 gal
+Aquaduct
+Surface water
+1.23
+0.00
+0.00
+0.00
+4,700,000.00 gal
+Application event totals
+8.14
+1.06
+9.26
+22.82
+08/20/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.91
+1.06
+9.26
+22.82
+125,000.00 gal
+Aquaduct
+Surface water
+1.23
+0.00
+0.00
+0.00
+4,700,000.00 gal
+Application event totals
+8.14
+1.06
+9.26
+22.82
+09/03/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.91
+1.06
+9.26
+22.82
+125,000.00 gal
+Aquaduct
+Surface water
+1.23
+0.00
+0.00
+0.00
+4,700,000.00 gal
+Application event totals
+8.14
+1.06
+9.26
+22.82
+2 - 11/24/2023: Wheat, silage, soft dough
+Field name:
+Crop:
+2
+Wheat, silage, soft dough
+Plant date: 11/24/2023
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/30/2025 14:20:15
+Page 8 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 10 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+2 - 11/24/2023: Wheat, silage, soft dough
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+12/01/2023
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+44.40
+7.95
+77.69
+258.22
+950,000.00 gal
+Aquaduct
+Surface water
+0.68
+0.00
+0.00
+0.00
+5,700,000.00 gal
+Application event totals
+45.07
+7.95
+77.69
+258.22
+02/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+25.37
+3.56
+38.05
+244.63
+950,000.00 gal
+Aquaduct
+Surface water
+0.68
+0.00
+0.00
+0.00
+5,700,000.00 gal
+Application event totals
+26.05
+3.56
+38.05
+244.63
+03/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+25.37
+3.56
+38.05
+244.63
+950,000.00 gal
+Aquaduct
+Surface water
+0.68
+0.00
+0.00
+0.00
+5,700,000.00 gal
+Application event totals
+26.05
+3.56
+38.05
+244.63
+2 - 06/01/2024: Sudangrass, silage
+Field name:
+Crop:
+2
+Sudangrass, silage
+Plant date: 06/01/2024
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/05/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+5.84
+0.78
+8.58
+54.84
+250,000.00 gal
+Aquaduct
+Surface water
+1.29
+0.00
+0.00
+0.00
+10,800,000.00 gal
+Application event totals
+7.13
+0.78
+8.58
+54.84
+06/30/2025 14:20:15
+Page 9 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 11 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+2 - 06/01/2024: Sudangrass, silage
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+07/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.32
+0.97
+8.46
+20.86
+250,000.00 gal
+Aquaduct
+Surface water
+1.29
+0.00
+0.00
+0.00
+10,800,000.00 gal
+Application event totals
+7.61
+0.97
+8.46
+20.86
+08/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.32
+0.97
+8.46
+20.86
+250,000.00 gal
+Aquaduct
+Surface water
+1.29
+0.00
+0.00
+0.00
+10,800,000.00 gal
+Application event totals
+7.61
+0.97
+8.46
+20.86
+09/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.32
+0.97
+8.46
+20.86
+250,000.00 gal
+Aquaduct
+Surface water
+1.29
+0.00
+0.00
+0.00
+10,800,000.00 gal
+Application event totals
+7.61
+0.97
+8.46
+20.86
+3 - 11/24/2023: Wheat, silage, soft dough
+Field name:
+Crop:
+3
+Wheat, silage, soft dough
+Plant date: 11/24/2023
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+12/01/2023
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+27.26
+4.88
+47.71
+158.56
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.63
+0.00
+0.00
+0.00
+9,000,000.00 gal
+Application event totals
+27.89
+4.88
+47.71
+158.56
+06/30/2025 14:20:15
+Page 10 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 12 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3 - 11/24/2023: Wheat, silage, soft dough
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+02/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+15.58
+2.18
+23.37
+150.21
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.63
+0.00
+0.00
+0.00
+9,000,000.00 gal
+Application event totals
+16.20
+2.18
+23.37
+150.21
+03/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+15.58
+2.18
+23.37
+150.21
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.63
+0.00
+0.00
+0.00
+9,000,000.00 gal
+Application event totals
+16.20
+2.18
+23.37
+150.21
+3 - 06/01/2024: Sudangrass, silage
+Field name:
+Crop:
+3
+Sudangrass, silage
+Plant date: 06/01/2024
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+6.82
+0.91
+10.01
+63.98
+500,000.00 gal
+Aquaduct
+Surface water
+1.39
+0.00
+0.00
+0.00
+20,000,000.00 gal
+Application event totals
+8.21
+0.91
+10.01
+63.98
+07/06/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+7.37
+1.13
+9.87
+24.34
+500,000.00 gal
+Aquaduct
+Surface water
+1.39
+0.00
+0.00
+0.00
+20,000,000.00 gal
+Application event totals
+8.76
+1.13
+9.87
+24.34
+06/30/2025 14:20:15
+Page 11 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 13 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3 - 06/01/2024: Sudangrass, silage
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+08/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+7.37
+1.13
+9.87
+24.34
+500,000.00 gal
+Aquaduct
+Surface water
+1.39
+0.00
+0.00
+0.00
+20,000,000.00 gal
+Application event totals
+8.76
+1.13
+9.87
+24.34
+09/02/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+7.37
+1.13
+9.87
+24.34
+500,000.00 gal
+Aquaduct
+Surface water
+1.39
+0.00
+0.00
+0.00
+20,000,000.00 gal
+Application event totals
+8.76
+1.13
+9.87
+24.34
+4 - 11/23/2023: Wheat, silage, soft dough
+Field name:
+Crop:
+4
+Wheat, silage, soft dough
+Plant date: 11/23/2023
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+12/05/2023
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+38.94
+6.97
+68.15
+226.51
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.65
+0.00
+0.00
+0.00
+6,500,000.00 gal
+Application event totals
+39.59
+6.97
+68.15
+226.51
+01/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+22.25
+3.12
+33.38
+214.59
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.65
+0.00
+0.00
+0.00
+6,500,000.00 gal
+Application event totals
+22.90
+3.12
+33.38
+214.59
+06/30/2025 14:20:15
+Page 12 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 14 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+4 - 11/23/2023: Wheat, silage, soft dough
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+02/01/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+22.25
+3.12
+33.38
+214.59
+1,000,000.00 gal
+Aquaduct
+Surface water
+0.65
+0.00
+0.00
+0.00
+6,500,000.00 gal
+Application event totals
+22.90
+3.12
+33.38
+214.59
+4 - 06/01/2024: Sudangrass, silage
+Field name:
+Crop:
+4
+Sudangrass, silage
+Plant date: 06/01/2024
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/04/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+9.74
+1.30
+14.31
+91.40
+500,000.00 gal
+Aquaduct
+Surface water
+1.24
+0.00
+0.00
+0.00
+12,500,000.00 gal
+Application event totals
+10.98
+1.30
+14.31
+91.40
+07/20/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+10.53
+1.62
+14.11
+34.77
+500,000.00 gal
+Aquaduct
+Surface water
+1.24
+0.00
+0.00
+0.00
+12,500,000.00 gal
+Application event totals
+11.77
+1.62
+14.11
+34.77
+08/15/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+10.53
+1.62
+14.11
+34.77
+500,000.00 gal
+Aquaduct
+Surface water
+1.24
+0.00
+0.00
+0.00
+12,500,000.00 gal
+Application event totals
+11.77
+1.62
+14.11
+34.77
+06/30/2025 14:20:15
+Page 13 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 15 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+4 - 06/01/2024: Sudangrass, silage
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+09/20/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+Lagoon Water
+Process wastewater
+10.53
+1.62
+14.11
+34.77
+500,000.00 gal
+Aquaduct
+Surface water
+1.24
+0.00
+0.00
+0.00
+12,500,000.00 gal
+Application event totals
+11.77
+1.62
+14.11
+34.77
+06/30/2025 14:20:15
+Page 14 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 16 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+B. NUTRIENT BUDGET
+1 - 11/22/2023: Wheat, silage, soft dough
+Field name: 1
+Crop: Wheat, silage, soft dough
+Plant date: 11/22/2023
+Fresh water applied
+inches/acre
+18.64
+8,100,000.00 gallons
+298.30 acre-inches
+Process wastewater applied
+1,500,000.00 gallons
+3.45 inches/acre
+55.24 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+109.53
+17.34
+177.07
+860.58
+Fresh water
+2.11
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+118.64
+198.00
+184.48
+-65.83
+0.64
+17.34
+30.60
+27.11
+-9.76
+0.64
+177.07
+149.40
+143.06
+34.01
+1.24
+860.58
+1,035.32
+-174.74
+0.83
+0.00
+06/30/2025 14:20:15
+Page 15 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 17 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+1 - 06/01/2024: Sudangrass, silage
+Field name: 1
+Crop: Sudangrass, silage
+Plant date: 06/01/2024
+Fresh water applied
+inches/acre
+43.27
+18,800,000.00 gallons
+692.34 acre-inches
+Process wastewater applied
+500,000.00 gallons
+1.15 inches/acre
+18.41 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+28.03
+4.21
+38.73
+138.87
+Fresh water
+4.90
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+39.94
+88.00
+39.02
+0.91
+1.02
+4.21
+13.60
+11.45
+-7.24
+0.37
+38.73
+96.00
+75.60
+-36.87
+0.51
+138.87
+429.12
+-290.25
+0.32
+0.00
+06/30/2025 14:20:15
+Page 16 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 18 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+2 - 11/24/2023: Wheat, silage, soft dough
+Field name: 2
+Crop: Wheat, silage, soft dough
+Plant date: 11/24/2023
+Fresh water applied
+inches/acre
+17.99
+17,100,000.00 gallons
+629.73 acre-inches
+Process wastewater applied
+2,850,000.00 gallons
+3.00 inches/acre
+104.96 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+95.13
+15.06
+153.80
+747.47
+Fresh water
+2.04
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+104.17
+198.00
+170.59
+-66.41
+0.61
+15.06
+30.60
+18.64
+-3.58
+0.81
+153.80
+149.40
+196.91
+-43.11
+0.78
+747.47
+1,063.53
+-316.06
+0.70
+0.00
+06/30/2025 14:20:15
+Page 17 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 19 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+2 - 06/01/2024: Sudangrass, silage
+Field name: 2
+Crop: Sudangrass, silage
+Plant date: 06/01/2024
+Fresh water applied
+inches/acre
+45.45
+43,200,000.00 gallons
+1,590.91 acre-inches
+Process wastewater applied
+1,000,000.00 gallons
+1.05 inches/acre
+36.83 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+24.80
+3.70
+33.98
+117.43
+Fresh water
+5.15
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+36.95
+88.00
+34.80
+2.15
+1.06
+3.70
+13.60
+7.80
+-4.10
+0.47
+33.98
+96.00
+75.00
+-41.02
+0.45
+117.43
+495.00
+-377.57
+0.24
+0.00
+06/30/2025 14:20:15
+Page 18 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 20 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3 - 11/24/2023: Wheat, silage, soft dough
+Field name: 3
+Crop: Wheat, silage, soft dough
+Plant date: 11/24/2023
+Fresh water applied
+inches/acre
+16.57
+27,000,000.00 gallons
+994.32 acre-inches
+Process wastewater applied
+3,000,000.00 gallons
+1.84 inches/acre
+110.48 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+58.42
+9.25
+94.44
+458.98
+Fresh water
+1.88
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+67.29
+198.00
+139.86
+-72.57
+0.48
+9.25
+30.60
+19.66
+-10.41
+0.47
+94.44
+149.40
+216.41
+-121.97
+0.44
+458.98
+1,020.60
+-561.63
+0.45
+0.00
+06/30/2025 14:20:15
+Page 19 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 21 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3 - 06/01/2024: Sudangrass, silage
+Field name: 3
+Crop: Sudangrass, silage
+Plant date: 06/01/2024
+Fresh water applied
+inches/acre
+49.10
+80,000,000.00 gallons
+2,946.13 acre-inches
+Process wastewater applied
+2,000,000.00 gallons
+1.23 inches/acre
+73.65 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+28.93
+4.31
+39.64
+137.00
+Fresh water
+5.56
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+41.49
+88.00
+43.92
+-2.43
+0.94
+4.31
+13.60
+11.88
+-7.57
+0.36
+39.64
+96.00
+89.10
+-49.46
+0.44
+137.00
+501.30
+-364.30
+0.27
+0.00
+06/30/2025 14:20:15
+Page 20 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 22 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+4 - 11/23/2023: Wheat, silage, soft dough
+Field name: 4
+Crop: Wheat, silage, soft dough
+Plant date: 11/23/2023
+Fresh water applied
+inches/acre
+17.10
+19,500,000.00 gallons
+718.12 acre-inches
+Process wastewater applied
+3,000,000.00 gallons
+2.63 inches/acre
+110.48 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+83.45
+13.21
+134.91
+655.68
+Fresh water
+1.94
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+92.39
+198.00
+186.56
+-94.17
+0.50
+13.21
+30.60
+24.84
+-11.63
+0.53
+134.91
+149.40
+308.14
+-173.23
+0.44
+655.68
+1,362.52
+-706.85
+0.48
+0.00
+06/30/2025 14:20:15
+Page 21 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 23 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+4 - 06/01/2024: Sudangrass, silage
+Field name: 4
+Crop: Sudangrass, silage
+Plant date: 06/01/2024
+Fresh water applied
+inches/acre
+43.84
+50,000,000.00 gallons
+1,841.33 acre-inches
+Process wastewater applied
+2,000,000.00 gallons
+1.75 inches/acre
+73.65 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+41.33
+6.16
+56.63
+195.71
+Fresh water
+4.97
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+53.29
+88.00
+50.21
+3.09
+1.06
+6.16
+13.60
+14.40
+-8.24
+0.43
+56.63
+96.00
+96.96
+-40.33
+0.58
+195.71
+594.24
+-398.53
+0.33
+0.00
+06/30/2025 14:20:15
+Page 22 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 24 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT ANALYSES
+A.
+Export Manure - 2023
+Export Manure - 2023
+Corral solids
+09/29/2023
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+12.6 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+22,200.00
+7,090.00
+36,100.00
+100.00
+100.00
+100.00
+Value
+DL
+0.00
+1.00
+Export Manure Compost
+Export Manure Compost
+Compost
+04/16/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+39.8 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+19,300.00
+8,080.00
+34,300.00
+100.00
+100.00
+100.00
+Value
+DL
+0.00
+1.00
+Export Manure
+Export Manure
+Corral solids
+06/11/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+59.7 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+19,600.00
+2,880.00
+15,200.00
+100.00
+100.00
+100.00
+Value
+DL
+0.00
+1.00
+MANURE ANALYSES
+06/30/2025 14:20:15
+Page 23 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 25 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Export Manure
+Export Manure
+Corral solids
+10/08/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+9.9 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+27,100.00
+3,020.00
+19,100.00
+100.00
+100.00
+100.00
+Value
+DL
+0.00
+1.00
+Manure
+Manure
+Corral solids
+12/27/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+46.0 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+23,700.00
+3,000.00
+14,200.00
+100.00
+100.00
+100.00
+Value
+DL
+0.00
+1.00
+B.
+Lagoon Q3 - 2023
+Sample and source description: Lagoon Q3 - 2023
+Sample date: 09/29/2023
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH:
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+196.00
+0.01
+89.60
+0.00
+35.10
+343.00
+0.01
+0.01
+0.01
+0.01
+2,450.00
+0.01
+1
+1,140
+0.01
+0.00
+PROCESS WASTEWATER ANALYSES
+06/30/2025 14:20:15
+Page 24 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 26 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Lagoon Q1
+Sample and source description: Lagoon Q1
+Sample date: 04/16/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH:
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+112.00
+0.01
+47.60
+0.00
+15.70
+168.00
+0.01
+0.01
+0.01
+0.01
+1,560.00
+0.01
+1
+1,080
+0.01
+0.00
+Lagoon Q2
+Sample and source description: Lagoon Q2
+Sample date: 06/11/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH:
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+98.00
+0.01
+42.00
+0.00
+13.10
+144.00
+0.01
+0.01
+0.01
+0.01
+11,900.00
+0.01
+1
+920
+0.01
+0.00
+Lagoon Q3
+Sample and source description: Lagoon Q3
+Sample date: 10/08/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH:
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+106.00
+0.01
+47.60
+0.00
+16.30
+142.00
+0.01
+0.01
+0.01
+0.01
+1,560.00
+0.01
+1
+350
+0.01
+0.00
+C.
+Aquaduct
+FRESH WATER ANALYSES
+06/30/2025 14:20:15
+Page 25 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 27 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Aquaduct
+Aquaduct
+Sample date:
+Source of analysis:
+03/18/2024
+Aquaduct
+Sample description:
+Lab analysis
+EC
+(μmhos/cm)
+Total N
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Calcium
+(mg/L)
+Magnesium
+(mg/L)
+Sodium
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+Bicarbonate
+(mg/L)
+Carbonate
+(mg/L)
+Value
+DL
+0.01
+0.50
+6,770.00
+0.01
+1
+0
+0.00
+0.01
+0.50
+0.01
+D.
+1
+Field 1 Soil
+Sample and source description: Field 1 Soil
+Sample date: 06/11/2024
+Source of analysis: Lab analysis
+Soluble P (mg/kg)
+K (mg/kg)
+Total salt (mg/kg)
+Organic matter (%)
+Total P (mg/kg)
+Nitrate-N (mg/kg)
+EC (μmhos/cm)
+Value
+DL
+61.00
+0.01
+2
+Field 2 Soil
+Sample and source description: Field 2 Soil
+Sample date: 06/11/2024
+Source of analysis: Lab analysis
+Soluble P (mg/kg)
+K (mg/kg)
+Total salt (mg/kg)
+Organic matter (%)
+Total P (mg/kg)
+Nitrate-N (mg/kg)
+EC (μmhos/cm)
+Value
+DL
+110.00
+0.01
+3
+SOIL ANALYSES
+06/30/2025 14:20:15
+Page 26 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 28 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3
+Field 3 Soil
+Sample and source description: Field 3 Soil
+Sample date: 06/11/2024
+Source of analysis: Lab analysis
+Soluble P (mg/kg)
+K (mg/kg)
+Total salt (mg/kg)
+Organic matter (%)
+Total P (mg/kg)
+Nitrate-N (mg/kg)
+EC (μmhos/cm)
+Value
+DL
+43.00
+0.01
+4
+Field 4 Soil
+Sample and source description: Field 4 Soil
+Sample date: 06/11/2024
+Source of analysis: Lab analysis
+Soluble P (mg/kg)
+K (mg/kg)
+Total salt (mg/kg)
+Organic matter (%)
+Total P (mg/kg)
+Nitrate-N (mg/kg)
+EC (μmhos/cm)
+Value
+DL
+42.00
+0.01
+E.
+1 - 11/22/2023: Wheat, silage, soft dough
+Field 1 Wheat Silage
+Field 1 Wheat Silage
+06/11/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+63.8 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+19,600.00
+100.00
+2,880.00
+15,200.00
+100.00
+100.00
+11.00
+1.00
+1 - 06/01/2024: Sudangrass, silage
+PLANT TISSUE ANALYSES
+06/30/2025 14:20:15
+Page 27 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 29 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+1 - 06/01/2024: Sudangrass, silage
+Field 1 Sudan Silage
+Field 1 Sudan Silage
+12/27/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+70.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+5,420.00
+100.00
+1,590.00
+10,500.00
+100.00
+100.00
+5.96
+1.00
+2 - 11/24/2023: Wheat, silage, soft dough
+Field 2 Wheat Silage
+Field 2 Wheat Silage
+06/11/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+61.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+16,200.00
+100.00
+1,770.00
+18,700.00
+100.00
+100.00
+10.10
+1.00
+2 - 06/01/2024: Sudangrass, silage
+Field 2 Sudan Silage
+Field 2 Sudan Silage
+12/27/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+70.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+4,640.00
+100.00
+1,040.00
+10,000.00
+100.00
+100.00
+6.60
+1.00
+06/30/2025 14:20:15
+Page 28 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 30 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+3 - 11/24/2023: Wheat, silage, soft dough
+Field 3 Wheat Silage
+Field 3 Wheat Silage
+06/11/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+65.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+14,800.00
+100.00
+2,080.00
+22,900.00
+100.00
+100.00
+10.80
+1.00
+3 - 06/01/2024: Sudangrass, silage
+Field 3 Sudan Silage
+Field 3 Sudan Silage
+12/27/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+70.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+4,880.00
+100.00
+1,320.00
+9,900.00
+100.00
+100.00
+5.57
+1.00
+4 - 11/23/2023: Wheat, silage, soft dough
+Field 4 Wheat Silage
+Field 4 Wheat Silage
+06/11/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+69.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+17,800.00
+100.00
+2,370.00
+29,400.00
+100.00
+100.00
+13.00
+1.00
+06/30/2025 14:20:15
+Page 29 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 31 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+4 - 06/01/2024: Sudangrass, silage
+Field 4 Sudan Silage
+Field 4 Sudan Silage
+12/27/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+Dry-weight
+Moisture:
+70.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+5,230.00
+100.00
+1,500.00
+10,100.00
+100.00
+100.00
+6.19
+1.00
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+No subsurface (tile) drainage analyses entered.
+06/30/2025 14:20:15
+Page 30 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 32 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+Total N (lbs)
+Total P (lbs)
+Total K (lbs)
+Total salt (lbs)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+16,879.85
+2,628.68
+26,114.01
+117,779.24
+Fresh water
+1,100.29
+0.00
+0.00
+0.00
+Atmospheric deposition
+2,142.00
+0.00
+0.00
+0.00
+20,122.14
+Total nutrients applied
+Anticipated crop nutrient removal
+Actual crop nutrient removal
+43,758.00
+31,735.59
+Nutrient balance
+Applied to removed ratio
+-11,613.46
+0.63
+2,628.68
+6,762.60
+5,082.44
+-2,453.77
+0.52
+26,114.01
+37,546.20
+48,359.98
+-22,245.97
+0.54
+117,779.24
+251,477.67
+-133,698.43
+0.47
+0.00
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+06/30/2025 14:20:15
+Page 31 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 33 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+06/30/2025 14:20:15
+Page 32 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 34 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+EXCEPTION REPORTING
+A.
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise) 
+when not in accordance with the facility's Nutrient Management Plan.
+No manure or process wastewater discharges occurred during the reporting period.
+MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+B. STORM WATER DISCHARGES
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient 
+Management Plan.
+No stormwater discharges occurred during the reporting period.
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the 
+facility's Nutrient Management Plan.
+No land application area to surface water discharges occurred during the reporting period.
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+Was the facility's NMP updated in the reporting period?
+Was the facility's NMP developed by a certified nutrient management planner 
+(specialist) as specified in Attachment C of the General Order?
+Was the facility's NMP approved by a certified nutrient management planner 
+(specialist) as specified in Attachment C of the General Order?
+Yes
+Yes
+Yes
+B. EXPORT AGREEMENT STATEMENT
+Are there any written agreements with third parties to receive manure or process 
+wastewater that are new or were revised within the reporting period?
+No
+06/30/2025 14:20:15
+Page 33 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 35 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ADDITIONAL NOTES
+A. NOTES
+No irrigation or domestic wells exists onsite, all freshwater  is from Aqueduct. Harvest samples were turned in late so removal rates are skewed
+06/30/2025 14:20:15
+Page 34 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 36 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+CERTIFICATION
+A. OWNER AND/OR OPERATOR CERTIFICATION
+I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry 
+of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete.  I am aware that there are significant 
+penalties for submitting false information, including the possibility of fine and imprisonment.
+SIGNATURE OF OWNER OF FACILITY
+SIGNATURE OF OPERATOR OF FACILITY
+PRINT OR TYPE NAME
+PRINT OR TYPE NAME
+DATE
+DATE
+Fred Thommen
+SAME AS OWNER
+06/30/2025 14:20:15
+Page 35 of 35
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin
+
+
+=== Page 37 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/30/2025 14:20:15
+Page 1 of 1
+Fred Thommen Dairy | 53955 W  Nees AVE | Firebaugh, CA 93622 | Fresno County | San Joaquin River Basin

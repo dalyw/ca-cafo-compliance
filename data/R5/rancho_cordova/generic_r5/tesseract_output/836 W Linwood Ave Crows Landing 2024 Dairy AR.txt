@@ -1,0 +1,169 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: AM3 Dairy
+
+Physical address of dairy:
+
+836 W Linwood AVE                                                                                              Crows Landing                   Stanislaus                     95313
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1960
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X058-X005-X011-XXXX = X058-X022-X012-XXXX
+
+B. OPERATORS
+
+Mendes, Albert
+
+Operator name: Mendes, Albert                                                                            Telephone no.: (209) 678-0272
+
+Landline             Cellular
+1100 Ruble RD                                                                                                      Crows Landing                  CA              95313
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Mendes, Albert
+
+Legal owner name: Mendes, Albert                                                                                           Telephone no.: (209) 678-0272
+
+Landline             Cellular
+1100 Ruble RD                                                                                                      Crows Landing                  CA              95313
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+AM3 Dairy | 836 W_ Linwood AVE | Crows Landing, CA 95313 | Stanislaus County | San Joaquin River Basin
+
+04/23/2025 14:57:26                                                                                                                                              Page 1 of 30
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                    100                    300                       0                       0                       0
+Number under roof                                    575                         0                         0                         0                         0                         0
+Maximum number                            575                 100                300                   0                   0                   0
+Average number                                 575                   100                  300                     0                     0                     0
+Avg live weight (Ibs)                           1,400                1,400                  900                     0
+Predominant milk cow breed: Holstein
+Average milk production:                          75 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         19,621.19 tons per reporting period
+Total nitrogen from manure:                  244 643.55 Ibs per reporting period       After ammonia losses (30% loss applied):        171,250.49 /bs per reporting period
+Total phosphorus from manure:              40,796.89 /bs per reporting period
+Total potassium from manure:               112,313.55 lbs per reporting period
+Total salt from manure:                         294 538.50 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:         7,846,098 gallons               7,846,098 gallons applied
+Total nitrogen generated:               30,224.58 /bs           +               0 gallons exported
+Total phosphorus generated:            1,029.23 lbs           -               0 gallons imported
+Total potassium generated:             11,177.88 /bs           =      7,846,098 gallons generated
+Total salt generated:                   318,950.54 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+East Well                                                                                                         Ground water
+TID Lateral 4                                                                                                 Surface water
+
+AM3 Dairy | 836 W Linwood AVE | Crows Landing, CA 95313 | Stanislaus County | San Joaquin River Basin
+
+04/23/2025 14:57:26                                                                                                                                                                                       Page 2 of 30
+
+
+=== Page 31 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+AM3 Dairy | 836 W_ Linwood AVE | Crows Landing, CA 95313 | Stanislaus County | San Joaquin River Basin
+
+04/23/2025 14:57:26                                                                                                                                                   Page 1 of 1
+
+
+=== Page 32 ===
+Denele Analytical, Inc.
+
+M                 865 South Kilroy Avenue Turlock, CA 95380                40 N. East Street, Woodland, CA 95776
+      Phone (209) 634-9055 - Fax (209) 634-9057               Phone (530) 666-9056 - Fax (530) 666-9058
+
+AY        www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer                                                Grower                                                   Consultant:
+Mendes Dairy                                                                                                       F &RAg Services
+1100 Ruble Rd.                                                                                                    2857 Geer Rd. Ste A
+Crowslanding, CA 95313                                                                                               Turlock, CA 95382
+PURCHASE ORDER: AM3                                                     Irrigation/ Ground Water (H1)
+
+RECEIVED DATE:     12/18/23 2:05 PM                                    SOURCE: Well Water
+
+SUBMITTED BY:
+ANALYZED DATE: = 12/22/23
+
+NOTES: Temperature was above qualifying at 16.2c
+
+Sample ID         Lab ID         Analyte                           Method Ref          Result
+
+Small Well                T0356009A        Electrical Conductivity (EC)                EPA 120.1 and                3.15             mmhos/cm
+Nitrate Nitrogen (NO3-N)                     EPA 353.2                       5.64                  mg/L
+Ammonia Nitrogen (NH3-N)                SM 4500-NH3 C-2011      < 0.500              mg/L
+Soluble Salts (SALT-SOL)                 Calculation                    2020                mg/L
+
+Laboratory Quality Control                                            MS %                       MSD %
+Ammonia Nitrogen (NH3-N)                                                      102 (null)                         102 (null)
+Electrical Conductivity (EC)
+
+Nitrate Nitrogen (NO3-N)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1                                                                            ELAP Certificate No.: 2714

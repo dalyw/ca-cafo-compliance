@@ -1,0 +1,421 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Live Oak Dairy E
+
+Physical address of dairy:
+
+8450 S Hwy 33                                                                                                    Gustine                           Merced                        95322
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1920
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X070-X030-X021-XXXX
+
+B. OPERATORS
+
+Nyman, Brad
+Operator name: Nyman, Brad                                                                                    Telephone no.: (209) 495-8821
+Landline             Cellular
+P.O. Box 1331                                                                                               Hilmar                         CA             95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Nyman, Brad
+Legal owner name: Nyman, Brad                                                                                     Telephone no.: (209) 495-8821
+Landline             Cellular
+P.O. Box 1331                                                                                               Hilmar                         CA             95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Live Oak Dairy E | 8450 S Hwy 33 | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+06/20/2025 09:37:29                                                                                                                                                              Page 1 of 77
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                    375                    375                    150                       0
+Number under roof                                  1,000                     200                         0                         0                         0                         0
+Maximum number                           1,000                200                375                375                 150                   0
+Average number                               1,000                  200                  375                  375                   150                     0
+Avg live weight (Ibs)                           1,400                1,450                  900                  650
+Predominant milk cow breed: Jersey
+Average milk production:                          70 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         36,479.23 tons per reporting period
+Total nitrogen from manure:                  451,954.95 Ibs per reporting period       After ammonia losses (30% loss applied):        316,368.47 lbs per reporting period
+Total phosphorus from manure:               74,386.10 /bs per reporting period
+Total potassium from manure:              192,033.91 /bs per reporting period
+Total salt from manure:                       518,256.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       37,440,000 gallons            20,160,000 gallons applied
+Total nitrogen generated:             218,003.18 /bs           + 17,280,000 gallons exported
+Total phosphorus generated:           41,010.05 /bs           -               0 gallons imported
+Total potassium generated:           403,926.71 lbs          = 37,440,000 gallons generated
+Total salt generated:                 2,521,148.67 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+Ag Well                                                                                                        Ground water
+CCID                                                                                                                       Surface water
+
+Live Oak Dairy E | 8450 S Hwy 33 | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+06/20/2025 09:37:29                                                                                                                                                                                  Page 2 of 77
+
+
+=== Page 78 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Live Oak Dairy E | 8450 S Hwy 33 | Gustine, CA 95322 | Merced County | San Joaquin River Basin
+
+06/20/2025 09:37:29                                                                                                                                                       Page 1 of 1
+
+
+=== Page 79 ===
+Denele Analytical, Inc.
+
+M                 865 South Kilroy Avenue Turlock, CA 95380                40 N. East Street, Woodland, CA 95776
+      Phone (209) 634-9055 - Fax (209) 634-9057               Phone (530) 666-9056 - Fax (530) 666-9058
+
+AY        www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer                                                Grower                                                   Consultant:
+
+Live Oak Dairy E                                                                                                       F &RAg Services
+PO Box 1331                                                                                                      2857 Geer Rd. Ste A
+Hilmar, CA 95324                                                                                                        Turlock, CA 95382
+PURCHASE ORDER:                                                              Irrigation/ Ground Water (H1)
+
+RECEIVED DATE: = 8/28/23 12:36 PM                                   SOURCE: Well Water
+
+SUBMITTED BY:      KJ
+ANALYZED DATE: = 8/29/23
+
+NOTES: Temperature was above qualifying at 16.0c
+
+Sample ID         Lab ID         Analyte                           Method Ref          Result
+
+DW-Barn                T3240030A       Electrical Conductivity (EC)               EPA 120.1 and                .              mmhos/cm
+Nitrate Nitrogen (NO3-N)                     EPA 353.2                          .                   mg/L
+Ammonia Nitrogen (NH3-N)               SM 4500-NH3 D,C                               mg/L
+Soluble Salts (SALT-SOL)                 Calculation                                         mg/L
+
+Laboratory Quality Control
+
+Ammonia Nitrogen (NH3-N)                             .                    95.8 (T3240030A)              94.6 (T3240030A)
+Electrical Conductivity (EC)                            .
+
+Nitrate Nitrogen (NO3-N)                                             101 (T3240027F)             99.6 (T3240027F)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 1                                                                            ELAP Certificate No.: 2714
+
+
+=== Page 85 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Brad Nyman
+
+Name of Dairy Facility: Live Oak Dairy E
+Facility Address:
+
+8450 S Hwy 33                                                  Gustine                           Merced                        95322
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Brad Nyman                                                            (209) 495-0000
+Name                                                                              Phone Number
+
+PROCESS WASTEWATER HAULER INFORMATION
+
+Name of Hauling Company/Person: Pipeline
+
+Address of Hauling Company/Person:
+
+8450 S 33 HWY                                               Gustine                          CA                            95322
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Brad Nyman                                                                                            (209) 495-8821
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Paul Lopes                                                                                                                 (209) 649-4967
+Name                                                                                                                                      Phone Number
+9720 S Whitworth AVE                                          Gustine                           CA                             95322
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+9720 S Whitworth AVE                                          Gustine                           95322
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 03/01/2024
+
+
+=== Page 86 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+PROCESS WASTEWATER AMOUNT HAULED
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+
+Process Wastewater:            7,280,000 gallons
+Method used to determine volume of process wastewater:
+
+Flowmeter
+
+WRITTEN AGREEMENT
+
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for
+its own use?
+
+[X] YES [ ]NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater
+transferred after 31 December 2007 to such party.
+
+(Operator shall provide initials here to acknowledge this requirement)
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+
+"iran Numan” violations.
+Brad Nyman uM 22, 2025 15:46 PDT)                                                                    06/22/2025
+Operator Signature                                                                                                                Date
+
+Hauler Signature                                                                                                                                            Date
+
+
+=== Page 87 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Brad Nyman
+
+Name of Dairy Facility: Live Oak Dairy E
+Facility Address:
+
+8450 S Hwy 33                                                  Gustine                           Merced                        95322
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Brad Nyman                                                            (209) 495-8821
+Name                                                                              Phone Number
+
+PROCESS WASTEWATER HAULER INFORMATION
+
+Name of Hauling Company/Person: Pipeline
+
+Address of Hauling Company/Person:
+
+8450 S 33 HWY                                               Gustine                          CA                            95322
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Brad Nyman                                                                                            (209) 495-8821
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Paul Lopes                                                                                                                 (209) 649-4967
+Name                                                                                                                                      Phone Number
+9720 S Whitworth AVE                                          Gustine                           CA                             95322
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+9720 S Whitworth AVE                                          Gustine                           95322
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 03/01/2024
+
+
+=== Page 88 ===
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+PROCESS WASTEWATER AMOUNT HAULED
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+
+Process Wastewater:           10,000,000 gallons
+Method used to determine volume of process wastewater:
+
+Flowmeter
+
+WRITTEN AGREEMENT
+
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for
+its own use?
+
+[X] YES [ ]NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater
+transferred after 31 December 2007 to such party.
+
+(Operator shall provide initials here to acknowledge this requirement)
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate,  and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+
+Bran Nona                           06/22/2025
+
+Brad Nyman (Jufi 22, 2025 15:46 PDT)
+
+Operator Signature                                                                                                                                         Date
+
+Hauler Signature                                                                                                                                            Date
+
+
+=== Page 89 ===
+LOE 2024 Annual Report
+
+Final Audit Report                                                                                   2025-06-22
+
+Created:                            2025-06-22
+By:                          Joe Ramos (jramos@fragservices.com)
+Status:                              Signed
+
+Transaction ID:           CBJCHBCAABAANTr4pVMjq60y8e7t8bJcrDrC9FHzXmJsY
+
+"LOE 2024 Annual Report” History
+
+Document created by Joe Ramos (jramos@fragservices.com)
+2025-06-22 - 3:48:09 PM GMT
+
+Document emailed to nymanbrad@gmail.com for signature
+2025-06-22 - 3:50:29 PM GMT
+
+Email viewed by nymanbrad@gmail.com
+2025-06-22 - 4:30:17 PM GMT
+
+Signer nymanbrad@gmail.com entered name at signing as Brad Nyman
+2025-06-22 - 10:46:19 PM GMT
+
+Document e-signed by Brad Nyman (nymanbrad@gmail.com)
+Signature Date: 2025-06-22 - 10:46:21 PM GMT - Time Source: server
+
+Agreement completed.
+2025-06-22 - 10:46:21 PM GMT
+
+  Adobe Acrobat Sign
+

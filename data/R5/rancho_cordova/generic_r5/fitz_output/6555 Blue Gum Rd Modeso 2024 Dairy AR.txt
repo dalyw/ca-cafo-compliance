@@ -1,0 +1,252 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Double G Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95358
+Stanislaus
+Modesto
+6555 Blue Gum AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1916
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X012-X028-X018-XXXX
+X012-X028-X021-XXXX
+X012-X028-X040-XXXX
+X012-X028-X041-XXXX
+B.
+Gwerder, Frank
+Operator name: Gwerder, Frank
+Telephone no.:
+Landline
+Cellular
+(209) 579-5723
+825 S Hart RD
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Genasci, Bill
+Legal owner name: Genasci, Bill
+Telephone no.:
+Landline
+Cellular
+(209) 522-7859
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+6555 Blue Gum AVE
+Modesto
+CA
+Genasci, Jim
+Legal owner name: Genasci, Jim
+Telephone no.:
+Landline
+Cellular
+(209) 522-7859
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+6555 Blue Gum AVE
+Modesto
+CA
+C. OWNERS
+06/13/2025 14:49:23
+Page 1 of 40
+Double G Dairy | 6555 Blue Gum AVE | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+675
+225
+0
+0
+1,000
+1,000
+1,400
+100
+100
+1,450
+0
+675
+1,000
+0
+225
+700
+0
+0
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+74 pounds per cow per day
+Average number
+1,000
+100
+675
+225
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+36,872.07
+446,397.61
+74,974.26
+194,669.11
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+312,478.33 lbs per reporting period
+Total salt from manure:
+495,198.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+88,270.66
+6,467.34
+119,342.85
+742,202.63
+15,945,000
+lbs
+lbs
+lbs
+gallons
+14,175,000
+0
+1,770,000
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+15,945,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+MID Lateral 3
+Ground water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+06/13/2025 14:49:23
+Page 2 of 40
+Double G Dairy | 6555 Blue Gum AVE | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 63 ===
+Customer
+Double G Dairy- Modesto
+ 1007 South Hart Rd
+Modesto, CA 95358
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+8/9/24 3:00 PM
+SUBMITTED BY:
+Sean Locke
+ANALYZED DATE:
+8/15/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Irrigation Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+NOTES: Temperature was above qualifying at 24.4
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.450
+mmhos/cm
+T4225001A
+DW - Blue Gum
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+14.6
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+288
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+90.2
+Electrical Conductivity (EC)
+2.11
+93.3
+Nitrate Nitrogen (NO3-N)
+99.8
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

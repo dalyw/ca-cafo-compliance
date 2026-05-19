@@ -1,0 +1,317 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Vander Woude Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95341
+Merced
+Merced
+1550 W Rahilly RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1999
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X065-X110-X024-XXXX
+B.
+Vander Woude, Simon
+Operator name: Vander Woude, Simon
+Telephone no.:
+Landline
+Cellular
+(209) 384-1784
+(209) 564-2882
+2022 W Rahilly RD
+Merced
+CA
+95340
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Vander Woude, Simon
+Legal owner name: Vander Woude, Simon
+Telephone no.:
+Landline
+Cellular
+(209) 384-1784
+(209) 564-2882
+95340
+Zip Code
+State
+City
+Mailing Address Number and Street
+2022 W Rahilly RD
+Merced
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+12/03/2024 08:29:16
+Page 1 of 220
+Vander Woude Dairy | 1550 W  Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2FD76C97-2159-4FAC-BBCF-7DBB1968AAF8
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+878
+1,319
+340
+324
+3,220
+3,230
+1,300
+430
+440
+1,350
+0
+900
+1,020
+0
+1,350
+720
+0
+344
+0
+330
+Predominant milk cow breed: Holstein
+Average milk production:
+80 pounds per cow per day
+Average number
+3,220
+430
+878
+1,319
+340
+324
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+116,942.67
+1,454,207.48
+240,608.98
+639,562.55
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+1,017,945.24 lbs per reporting period
+Total salt from manure:
+1,619,440.20 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+621,008.76
+111,043.00
+484,513.06
+3,360,547.84
+156,437,580
+lbs
+lbs
+lbs
+gallons
+156,437,580
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+156,437,580
+D. FRESH WATER SOURCES
+Source Description
+Type
+IW 11NE
+Ground water
+IW 12NE
+Ground water
+IW 13E
+Ground water
+IW 13NE
+Ground water
+IW 14E
+Ground water
+12/03/2024 08:29:16
+Page 2 of 220
+Vander Woude Dairy | 1550 W  Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2FD76C97-2159-4FAC-BBCF-7DBB1968AAF8
+
+
+=== Page 221 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+12/03/2024 08:29:16
+Page 1 of 1
+Vander Woude Dairy | 1550 W  Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: 2FD76C97-2159-4FAC-BBCF-7DBB1968AAF8
+
+
+=== Page 222 ===
+Reported: 06/06/2024  09:15
+Agri-Valley Consulting
+PO Box 3408
+Merced, CA  95344-3408
+Account Manager: House
+Submitted By: Agri-Valley Consulting
+Ranch: Vander Woude
+Received: 05/30/2024  15:35
+Account# 00-0003687
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+SVW DW 11NE
+24E2414-01
+05/30/2024  10:15
+Ag Water
+Matt
+SVW DW 12NE
+24E2414-02
+05/30/2024  10:22
+Ag Water
+Matt
+SVW DW 13E
+24E2414-03
+05/30/2024  10:30
+Ag Water
+Matt
+SVW DW 13NE
+24E2414-04
+05/30/2024  10:55
+Ag Water
+Matt
+SVW DW 18E
+24E2414-05
+05/30/2024  10:40
+Ag Water
+Matt
+SVW DW 18SE
+24E2414-06
+05/30/2024  10:43
+Ag Water
+Matt
+SVW DW 27
+24E2414-07
+05/30/2024  10:37
+Ag Water
+Matt
+SVW DW 28E
+24E2414-08
+05/30/2024  11:20
+Ag Water
+Matt
+SVW DW 28 NE
+24E2414-09
+05/30/2024  11:24
+Ag Water
+Matt
+SVW DW 30
+24E2414-10
+05/30/2024  11:33
+Ag Water
+Matt
+SVW DW 31E
+24E2414-11
+05/30/2024  11:40
+Ag Water
+Matt
+SVW DW 31SE
+24E2414-12
+05/30/2024  11:46
+Ag Water
+Matt
+[TOC_1]Samples in 
+Report[TOC]
+Default Cooler
+Temperature on Receipt °C: 10.6
+Containers Intact
+COC/Labels Agree
+Received On Ice
+Notes and Definitions 
+Item
+Definition
+Hold Time Exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 24
+Docusign Envelope ID: 2FD76C97-2159-4FAC-BBCF-7DBB1968AAF8

@@ -1,0 +1,267 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Live Oak H (Formerly Silveira Dairy Inc.)
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95324
+Merced
+Hilmar
+20271 Johnson AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1940
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+XX45-X140-XX26-XXXX
+B.
+Nyman, Brad
+Operator name: Nyman, Brad
+Telephone no.:
+Landline
+Cellular
+(209) 495-8821
+P.O. Box 1331
+Hilmar
+CA
+95324
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Silveira, Frank
+Legal owner name: Silveira, Frank
+Telephone no.:
+Landline
+Cellular
+(209) 678-3825
+95324
+Zip Code
+State
+City
+Mailing Address Number and Street
+20271 Johnson AVE
+Hilmar
+CA
+C. OWNERS
+05/22/2025 12:50:07
+Page 1 of 37
+Live Oak H (Formerly Silveira Dairy Inc.) | 20271 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+400
+400
+950
+200
+200
+1,000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Predominant milk cow breed: Jersey
+Average milk production:
+60 pounds per cow per day
+Average number
+400
+200
+0
+0
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+12,382.88
+164,964.92
+26,472.88
+74,178.36
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+115,475.44 lbs per reporting period
+Total salt from manure:
+234,972.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+60,902.64
+16,552.36
+89,741.46
+517,906.05
+27,180,000
+lbs
+lbs
+lbs
+gallons
+27,180,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+27,180,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Canal
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+05/22/2025 12:50:07
+Page 2 of 37
+Live Oak H (Formerly Silveira Dairy Inc.) | 20271 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 38 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/22/2025 12:50:07
+Page 1 of 1
+Live Oak H (Formerly Silveira Dairy Inc.) | 20271 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 39 ===
+Customer
+Live Oak Dairy
+P.O. BOX 1331
+Hilmar, CA 95324
+Grower
+PURCHASE ORDER: H
+RECEIVED DATE:
+8/28/23 12:36 PM
+SUBMITTED BY:
+KJ
+ANALYZED DATE:
+8/29/23
+Denele Analytical, Inc.
+865 South Kilroy Avenue Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Well Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+NOTES: Temperature was above qualifying at 16.6c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+1.06
+mmhos/cm
+T3240031A
+DW East
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+30.7
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+677
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+95.8 (T3240030A)
+94.6 (T3240030A)
+1.26
+98.0
+Electrical Conductivity (EC)
+0.307
+99.9
+Nitrate Nitrogen (NO3-N)
+101 (T3240027F)
+99.6 (T3240027F)
+1.65
+99.9
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

@@ -1,0 +1,410 @@
+=== Page 1 ===
+Annual Report 
+Water Analysis Samples
+CCA Nitrogen Retrofit Report
+GEO Tracker Confirmation # 
+Date:
+Livingston Dairy Consulting, Inc.
+1635 E. Propserity Ave., Ste B, Tulare 
+559-687-1440
+Manure Manifest 
+Facility / Land Map
+Oasis Holsteins Dairy     WDID 5D155065001
+18041 Palm Ave. Shafter, CA 93263
+
+
+=== Page 2 ===
+Reporting Period: 
+1/1/2024
+to
+12/30/2024
+Name of the Facility 
+Dairy Name: 
+Facility Address: 
+Original Operation Date: 
+Facility APN's:  
+RWQCB Basin Plan Designation:
+Check if any information has changed
+Owner(s) 
+Owner(s) Name: 
+Mailing Address: 
+Home Phone Number: 
+Cell Phone Number:
+Check if any information has changed
+Operator(s)
+Operator(s) Name: 
+Mailing Address: 
+Home Phone Number: 
+Cell Phone Number:
+Check if any information has changed
+Facility Info
+Tulare Lake Basin 
+Oasis Holsteins Dairy     WDID 5D155065001
+18041 Palm Ave. Shafter, CA 93263
+2/14/1998
+x088 x110 x003 xxxx
+Peter John & Agnes deJong
+18041 Palm Ave. Shafter, CA 93263
+661-746-3930
+Same as owner
+
+
+=== Page 20 ===
+X No
+__ Yes, Manifest attached  (Attachment D)
+No  Dry manure nutient imports entered
+No  Process wastewater nutrient imports entered
+No  Commerical or other nutrient imports entered
+Field Name
+Type of Manure 
+Applied
+As Is /  Dry Weight
+Source
+Nutrient Import & Export
+Nutrient Export-Did you sell, give away or otherwise remove slurry, process water or dry manure from your property?
+Total Dry Manure Exported
+Total Process Water Exported
+Nutrient Import
+
+
+=== Page 21 ===
+Quarters:
+NH4N     
+(mg/L)
+TKN 
+(mg/L)
+TP (mg/L) TK (mg/L)
+NO3N    
+(mg/L)
+NH3N   
+(mg/L)
+Ca 
+(mg/L)
+Mg (mg/L) Na (mg/L)
+CO3    
+(mg/L)
+HCO3     
+(mg/L)
+SO4    
+(mg/L)
+CL (mg/L) EC (ds/m)
+TDS 
+(mg/L)
+1
+206.0
+               
+208.0
+          
+49.9
+          
+355.0
+        
+1.0
+              
+-
+             
+-
+           
+-
+             
+-
+             
+-
+             
+-
+             
+-
+             
+-
+            
+3
+                 
+1,960
+         
+2
+271.0
+               
+297.0
+          
+76.5
+          
+405.0
+        
+1.0
+              
+-
+             
+-
+           
+-
+             
+-
+             
+-
+             
+-
+             
+-
+             
+-
+            
+4
+                 
+2,640
+         
+3
+72.1
+                 
+251.0
+          
+20.4
+          
+185.0
+        
+1.0
+              
+-
+             
+0.0
+            
+41.7
+           
+104.0
+         
+0.0
+              
+841.0
+         
+43.8
+           
+101.0
+        
+2
+                 
+1,370
+         
+4
+425.0
+               
+484.0
+          
+44.1
+          
+738.0
+        
+1.0
+              
+-
+             
+-
+           
+-
+             
+-
+             
+-
+             
+-
+             
+-
+             
+-
+            
+-
+             
+2,620
+         
+Detectable Limits
+Valley Tech
+2.0
+                      
+5.0
+                
+0.1
+              
+0.2
+              
+0.10
+             
+10
+                 
+Dellavalle
+0.2
+                      
+0.7
+                
+0.02
+            
+0.2
+              
+0.01
+             
+0.05
+            
+0.4
+                
+0.10
+             
+0.9
+                
+3
+                   
+0.01
+             
+0.03
+            
+0.001
+           
+10
+                 
+Inorg N
+Org N
+P2O5
+K2O
+Qtr
+1
+46.9
+         
+0.5
+              
+25.9
+           
+96.9
+           
+2
+61.7
+         
+5.9
+              
+39.7
+           
+110.6
+         
+3
+16.6
+         
+40.6
+           
+10.6
+           
+50.5
+           
+4
+96.6
+         
+13.4
+           
+22.9
+           
+201.5
+         
+Description
+As Is/ Dry Weight
+Material Type
+Manure
+Manure
+TN %
+TP %
+TK %
+Ca
+Mg
+Na
+S
+CL
+Salt
+TFS
+1.16
+          
+0.62
+        
+1.27
+        
+-
+             
+-
+             
+-
+           
+-
+             
+-
+             
+-
+             
+-
+             
+1.48
+          
+0.41
+        
+0.81
+        
+2.37
+           
+0.43
+           
+0.31
+         
+0.27
+           
+0.40
+           
+-
+             
+66.70
+         
+Detectable Limits
+Valley Tech
+0.01%
+0.02%
+0.02%
+Dellavalle
+0.01%
+0.01%
+0.003%
+0.001%
+0.001%
+0.001%
+0.001%
+0.000%
+0.001%
+0.001%
+Corral Solids
+Corral Solids
+Process Water & Manure Analysis
+Process Water
+Sample #:
+L78025
+L84354
+Source
+Valley Tech
+Valley Tech
+Valley Tech
+Valley Tech
+lbs / Ac In
+Sample #:
+Date:
+L96804
+L104769
+Sample Date:
+3/4/2024
+5/7/2024
+8/14/2024
+10/17/2024
+5/7/2024
+10/17/2024
+M84396
+M104782
+Source
+Valley Tech
+Valley Tech
+Dry Weight
+Dry Weight
+Dry Manure: (As Recv'd)
+Corral
+Corral
+Moisture %
+26.30
+                              
+7.40
+                                 

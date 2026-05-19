@@ -1,0 +1,1317 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Double Diamond Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95317
+Merced
+El Nido
+505 E Washington RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+11/17/1999
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X075-X740-X001-XXXX
+B.
+Vander Dussen, Mike
+Operator name: Vander Dussen, Mike
+Telephone no.:
+Landline
+Cellular
+(209) 564-2000
+729 E Jefferson AVE
+El Nido
+CA
+95317
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Vander Dussen, Mike
+Legal owner name: Vander Dussen, Mike
+Telephone no.:
+Landline
+Cellular
+(209) 564-2000
+95317
+Zip Code
+State
+City
+Mailing Address Number and Street
+729 E Jefferson AVE
+El Nido
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+11/20/2024 12:31:21
+Page 1 of 228
+Double Diamond Dairy | 505 E  Washington RD | El Nido, CA 95317 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+1,065
+965
+900
+995
+4,791
+4,800
+1,400
+711
+720
+1,400
+0
+1,150
+900
+0
+1,000
+650
+0
+940
+0
+1,000
+Predominant milk cow breed: Holstein
+Average milk production:
+86 pounds per cow per day
+Average number
+4,791
+711
+1,065
+965
+900
+995
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+168,987.02
+2,149,543.69
+351,187.61
+970,535.43
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+1,504,680.58 lbs per reporting period
+Total salt from manure:
+2,425,965.12 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+788,510.83
+94,734.80
+1,322,461.03
+5,686,263.67
+218,010,805
+lbs
+lbs
+lbs
+gallons
+182,129,215
+0
+35,881,590
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+218,010,805
+D. FRESH WATER SOURCES
+Source Description
+Type
+11N Reservoir
+Surface water
+16N Reservoir
+Surface water
+1N Reservoir
+Surface water
+24 Reservoir
+Surface water
+4S Reservoir
+Surface water
+11/20/2024 12:31:21
+Page 2 of 228
+Double Diamond Dairy | 505 E  Washington RD | El Nido, CA 95317 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 229 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+11/20/2024 12:31:21
+Page 1 of 1
+Double Diamond Dairy | 505 E  Washington RD | El Nido, CA 95317 | Merced County | San Joaquin River Basin
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 230 ===
+Reported: 03/26/2024  15:15
+Double Diamond Dairy
+729 E Jefferson Rd
+El Nido, CA  95317
+Account Manager: Ben Nydam
+Submitted By: Mike Vander Dussen
+Received: 03/20/2024  11:55
+Account# 00-0022049
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+AG #4
+24C0755-01
+03/20/2024   8:57
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #8
+24C0755-02
+03/20/2024   9:17
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #10
+24C0755-03
+03/20/2024   9:24
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #1
+24C0755-04
+03/20/2024   9:48
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #3
+24C0755-05
+03/20/2024   9:53
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #14
+24C0755-06
+03/20/2024  10:12
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #13
+24C0755-07
+03/20/2024  10:24
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #12
+24C0755-08
+03/20/2024  10:35
+Ag Water
+F & R Ag
+Irrigation Wells
+AG #18
+24C0755-09
+03/20/2024  10:41
+Ag Water
+F & R Ag
+Irrigation Wells
+[TOC_1]Samples in 
+Report[TOC]
+Default Cooler
+Temperature on Receipt °C: 0.4
+Containers Intact
+COC/Labels Agree
+Received On Ice
+Notes and Definitions 
+Item
+Definition
+Hold Time Exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 17
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 377 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Chamberlain Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 09/25/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X074-X006-X028-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 378 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 1,638.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 379 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Chamberlain Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 09/26/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X074-X013-X029-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 380 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 492.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 381 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Chamberlain Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 10/13/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X074-X007-X012-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 382 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 1,758.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 383 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Dos Palos Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 10/01/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X085-X005-X003-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 384 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 1,554.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 385 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+MANURE HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Dos Palos Ranch
+505 E Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 722-8505
+Last date hauled: 10/07/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+X085-X038-X028-XXXX
+Assessor's Parcel Number
+El Nido
+95317
+505 E Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Merced
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 386 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+MANURE AMOUNT HAULED
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+Manure:
+ 864.00 tons
+Manure Solids Content:
+83.5 %
+Method used to determine amount of manure:
+Number of loads multiplied by load weight.
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 387 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+PROCESS WASTEWATER HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Nyman El Nido Ranch
+2025 Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 656-8434
+Last date hauled: 08/20/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+El Nido
+95317
+2025 Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 388 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+PROCESS WASTEWATER AMOUNT HAULED
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+Process Wastewater:
+ 10,000,000
+Method used to determine volume of process wastewater:
+Water volume calculated using flowmeter.
+gallons
+WRITTEN AGREEMENT
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge 
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for 
+its own use?
+[ X ] YES
+[
+] NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater 
+transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement)
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 389 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+PROCESS WASTEWATER HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Nyman El Nido Ranch
+2025 Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 656-8434
+Last date hauled: 08/20/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+El Nido
+95317
+2025 Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 390 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+PROCESS WASTEWATER AMOUNT HAULED
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+Process Wastewater:
+ 10,000,000
+Method used to determine volume of process wastewater:
+Water volume calculated using flowmeter.
+gallons
+WRITTEN AGREEMENT
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge 
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for 
+its own use?
+[ X ] YES
+[
+] NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater 
+transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement)
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 391 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+PROCESS WASTEWATER HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Nyman El Nido Ranch
+2025 Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 656-8434
+Last date hauled: 08/20/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+El Nido
+95317
+2025 Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 392 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+PROCESS WASTEWATER AMOUNT HAULED
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+Process Wastewater:
+ 10,000,000
+Method used to determine volume of process wastewater:
+Water volume calculated using flowmeter.
+gallons
+WRITTEN AGREEMENT
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge 
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for 
+its own use?
+[ X ] YES
+[
+] NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater 
+transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement)
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024
+
+
+=== Page 393 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+1) Complete one manifest for each hauling event, for each destination.  A hauling event may last for several days, as long as the 
+manure is being hauled to the same destination.
+2) If there are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for 
+Existing Milk Cow Dairies.
+INSTRUCTIONS
+Name of Operator:
+Name of Dairy Facility:
+Facility Address:
+Number and Street
+City
+County
+Zip Code
+Contact Person Name and Phone Number:
+Name
+Phone Number
+Mike Vander Dussen
+Mike Vander Dussen
+(209) 564-2000
+505 E Washington RD
+95317
+Merced
+El Nido
+Double Diamond Dairy
+OPERATOR INFORMATION
+PROCESS WASTEWATER HAULER INFORMATION
+Name of Hauling Company/Person:
+Double Diamond Dairy
+Address of Hauling Company/Person:
+Number and Street
+City
+State
+Zip Code
+95317
+Contact Person:
+Name
+Phone Number
+(209) 564-2000
+El Nido
+CA
+505 E Washington RD
+Mike Vander Dussen
+DESTINATION INFORMATION
+Composting Facility / Broker / Farmer / Other (identify):
+Farmer
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+Name
+Nyman El Nido Ranch
+2025 Washington RD
+Address
+City
+State
+Zip Code
+Phone Number
+El Nido
+CA
+95317
+(209) 656-8434
+Last date hauled: 08/20/2024
+Destination Address or Assessor's Parcel Number:
+Address
+City
+Zip Code
+Assessor's Parcel Number
+El Nido
+95317
+2025 Washington RD
+Merced
+Street and nearest cross street (if no address)
+County
+Assessor's Parcel Number County
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+
+
+=== Page 394 ===
+Manure / Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+PROCESS WASTEWATER AMOUNT HAULED
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+Process Wastewater:
+ 5,881,590
+Method used to determine volume of process wastewater:
+Water volume calculated using flowmeter.
+gallons
+WRITTEN AGREEMENT
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge 
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for 
+its own use?
+[ X ] YES
+[
+] NO
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater 
+transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement)
+CERTIFICATION
+I declare under penalty of law that I personally examined and am familiar with the information submitted in this document, and that 
+based on my inquiry of those individuals immediately responsible for obtaining the information, I believe that the information is true , 
+accurate, and complete.  I am aware that there are significant penalties for submitting false information, including the possibility of a 
+fine and imprisonment for knowing violations.
+Operator Signature
+Date
+Hauler Signature
+Date
+Docusign Envelope ID: DCD3545C-B411-489A-A64D-0701F55BCD50
+11/26/2024
+11/26/2024

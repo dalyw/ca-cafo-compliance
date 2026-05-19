@@ -1,0 +1,287 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Morris Jersey Girls
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95358
+Stanislaus
+Modesto
+3230 Vivian RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1950
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X017-X043-X023-XXXX
+B.
+Morris, Tony
+Operator name: Morris, Tony
+Telephone no.:
+Landline
+Cellular
+(209) 538-2130
+P.O. Box 580596
+Modesto
+CA
+95358
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Pinheiro, Joe
+Legal owner name: Pinheiro, Joe
+Telephone no.:
+Landline
+Cellular
+(209) 537-9457
+95358
+Zip Code
+State
+City
+Mailing Address Number and Street
+3230 Vivian RD
+Modesto
+CA
+C. OWNERS
+06/27/2025 08:45:24
+Page 1 of 19
+Morris Jersey Girls | 3230 Vivian RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+70
+40
+0
+0
+0
+0
+20
+20
+1,050
+80
+80
+700
+0
+70
+450
+0
+40
+0
+0
+Predominant milk cow breed: Jersey
+Average milk production:
+1 pounds per cow per day
+Average number
+0
+20
+80
+70
+40
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+1,766.34
+19,983.60
+3,043.66
+1.00
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+13,988.52 lbs per reporting period
+Total salt from manure:
+4,611.60 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+1,211.29
+575.36
+7,786.89
+35,185.19
+864,000
+lbs
+lbs
+lbs
+gallons
+864,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+864,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Ag Well
+Ground water
+TID Lateral 1
+Surface water
+06/27/2025 08:45:24
+Page 2 of 19
+Morris Jersey Girls | 3230 Vivian RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 20 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/27/2025 08:45:24
+Page 1 of 1
+Morris Jersey Girls | 3230 Vivian RD | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 21 ===
+Customer
+Tony Morris Dairy
+P.O. Box 580596
+Modesto, CA 95358
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+8/12/24 9:00 AM
+SUBMITTED BY:
+Sean Locke
+ANALYZED DATE:
+8/16/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation / Ground Water (H7)
+SOURCE: Well Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+NOTES: Temperature was above qualifying at 23.8c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+1.05
+mmhos/cm
+T4225009A
+AG Well
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+35.2
+mg/L
+Total Dissolved Solids (TDS)
+SM 2540 C-1997 and
+640
+mg/L
+Total Nitrogen (TN)
+SM 4500-NH3 D,C
+38.0
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+670
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Sample mg/L
+Dup mg/L
+Ammonia Nitrogen (NH3-N)
+91.0 (T4225009A)
+102 (T4225009A)
+11.8
+90.0
+Electrical Conductivity (EC)
+0.153
+97.4
+0.327 (T4219034A)
+0.326 (Dup)
+Nitrate Nitrogen (NO3-N)
+95.9 (W4240003A)
+94.6 (W4240003A)
+1.34
+101
+Total Dissolved Solids (TDS)
+0.000
+107
+45.0 (T4219034A)
+45.0 (Dup)
+Total Nitrogen (TN)
+96.9
+0.000 (T4233039B)
+0.000 (null)
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.

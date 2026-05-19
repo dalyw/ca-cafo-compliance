@@ -1,0 +1,41 @@
+Solid/Liquid Manure Tracking Manifest
+If amount hauled/transferred is liquid then a "wastewater
+Waste Generator Information Agreement" is required in compliance with Land Application
+Name John Goyenetche Contact Specification C.2 of the General Order R5-2007-0035.
+Facility Name Panama Ranch Name John Goyenetche Does the operator have an agreement and is a wastewater
+6219 E. Panama Number (661) 764-6176 Agreement on file with the RWQCD? NO
+Facility Address
+bane ! declare under the penalty of law that I personally examined and am
+Facility City/State Buttonwillow CA familiar with the information submitted in this document and that
+y wy . 93307 based on my inquiry of those individuals immediately responsible for
+obtaining the information I believe that the information is true
+accurate and complete. I am aware that there are significant
+Manure Hauler/Processor penalties for submitting false information. including the possibility of
+ion fine and imprisonment for knowing violations.
+Information Contact a fine and imprisonment for knowing violations
+Name Cabrera Brothers Name Jose Cabrera Signature of Owner
+Composting
+Number 661-243-6514
+os . 10909 Glen Cloe yj ee ae
+Facility Address Place AMat [Soyer j
+f .
+Facility City/State Lamont CA 93241
+Date
+Manure Destination
+12/30/2024
+Destination Information
+Contact
+Name Cabrera Brothers . Signature of Hauler
+Composting Name Ramiro
+Facility Address b 009 Glen Cloe Number Cabrera ese Cab MAG
+Facility City/State Lamont CA
+Date
+Dates Hauled/Transferred Amount Hauled/Transferred Units Moisture % 12/30/2024
+Feb 1 2024-Feb 29 2024 6204 ton 64%
+Mar 1 2024-Mar 31 2024 7641 ton 68 %
+Apr 1 2024-Apr 30 2024 9515 ton 68 %
+May 1 2024-May 31 2024 10179 ton 68 %
+Jul 1 2024-Jul 31 2024 4013 ton 65 %
+Aug 1 2024-Aug 31 2024 3050 ton 68 %
+Sep 1 2024-Sep 30 2024 7385 ton 68 %
+Total 47987

@@ -1,0 +1,71 @@
+University of California CALIFORNIA 
+ Agriculture and Natural Resources DAIRY CDQAP Reference-North Binder Coast 
+ TAB 6.2 June 2012 
+ Making for Califor a Difi Quality PROGRAM Assurance 
+ Manure/Process Wastewater Tracking Manifest 
+Instructions 
+1) Complete one manifest for each hauling event. A hauling event may last for several days. 
+2) The operator shall maintain copies of manure/process wastewater tracking manifest(s) and make them 
+ available to Water Quality Control Board staff upon request. 
+Operator Information 
+Name of Operator John KissT 
+Name of Dairy Facility John KissT Dairy 
+Facility Address 20000 Cedar Ave Tracy CA 95304 
+ Number and Street City Zip Code 
+Contact Person Name and Phone Number John KissT 209-481-1188 
+ Name Phone Number 
+Manure/Process Wastewater Hauler Information 
+Name of Hauling Company/Person Cambra Farms Bill Cambra 
+Address of Hauling Company/Person B. O. Box 4034 Manteca 95337 
+ Number and Street City Zip Code 
+Contact Person Bill Cambra/209-996-0475 
+ Name Phone Number 
+Manure/Process Wastewater Destination 
+ Check here if manure/process wastewater is being manifested to professional manure hauler/seller or 
+composting facility and the ultimate destination is unknown. 
+If known 
+ Name of property owner of final destination Abbate Farms 
+Address of destination 15803 S. Wing Lever Rd. Tracy 95330 
+ Number and Street City Zip Code 
+Amount Hauled 
+Enter the amount of solid manure hauled in tons or cubic yards (indicate the units used) and 
+the method used to calculate the amount 
+ Manure 13.160 Tons or Cubic Yards (circle one) 
+ Method used to 6580 determine amount TONS of manure 
+ 658 Load/20 yrds./Load 
+ Enter the amount of process wastewater hauled in gallons and the method used to determine 
+ the amount. 
+ Process Wastewater Gallons 
+ Method used to determine volume of process wastewater 
+ Written Agreement 
+ The Operator is required to have a written agreement with any party that receives solid manure or 
+ process wastewater from the Operator for their own use. The written agreement shall include information 
+ regarding the location(s) that receive manure and/or process wastewater. Operator shall provide initials 
+to acknowledge this requirement.
+Denele Analytical Inc. 
+ 40 N. East Street Woodland CA 95776 
+ DENELE ANALVTICAL INC 865 Phone South (209) Kilroy 634-9055 Avenue-Fax Turlock (209) CA 634-9057 95380 Phone (530) 666-9056-Fax (530) 666-9058 
+ www.denelelabs.com 
+ Compliance Analysis Report 
+ Customer Grower Consultant 
+ Kisst Dairy F & R Ag Services 
+ P.O. Box 300 2857 Geer Rd. Ste A 
+ Ripon CA 95366 Turlock CA 95382 
+ PURCHASE ORDER Irrigation/Ground Water (H1) 
+ RECEIVED DATE 7/12/24 945 AM SOURCE Well Water 
+ SUBMITTED BY Sean Locke 
+ ANALYZED DATE 7/17/24 
+ NOTES Temperature was above qualifying at 27.2c 
+ Sample ID Lab ID Analyte Method Ref Result Units 
+ Domestic Well T4197006A Electrical Conductivity (EC) EPA 120.1 and 2.51 mmhos/cm 
+ Nitrate Nitrogen (NO3-N) EPA 353.2 < 0.140 mg/L 
+ Ammonia Nitrogen (NH3-N) SM 4500-NH3 DC < 0.500 mg/L 
+ Soluble Salts (SALT-SOL) Calculation 1610 mg/L 
+ Laboratory Quality Control LCS % MS % MSD % RPD % 
+ Ammonia Nitrogen (NH3-N) 94.9 92.2 (T4198067A) 91.6 (T4198067A) 0.652 
+ Electrical Conductivity (EC) 96.3 0.205 
+ Nitrate Nitrogen (NO3-N) 95.9 90.4 (T4199016B) 88.3 (T4199016B) 2.35 
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the 
+customer uses our test results nor liability for any other warranties express or implied. These terms and conditions shall supercede any conflicting terms and 
+conditions submitted on customer purchase orders or other forms submitted for work. 
+ Denele Analytical I Page 1 ELAP Certificate No . 2714

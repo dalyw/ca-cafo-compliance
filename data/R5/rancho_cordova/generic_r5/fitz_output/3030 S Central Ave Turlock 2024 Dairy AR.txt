@@ -1,0 +1,284 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+A & M de Sousa Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95380
+Stanislaus
+Turlock
+3030 S Central AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1920
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0058-0017-0005-0000
+0058-0017-0006-0000
+B.
+Sousa, Armelim
+Operator name: Sousa, Armelim
+Telephone no.:
+Landline
+Cellular
+(209) 632-5845
+3030 S Central AVE
+Turlock
+CA
+95380
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Sousa, Armelim
+Legal owner name: Sousa, Armelim
+Telephone no.:
+Landline
+Cellular
+(209) 632-5845
+95380
+Zip Code
+State
+City
+Mailing Address Number and Street
+3030 S Central AVE
+Turlock
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/03/2025 14:34:17
+Page 1 of 64
+A & M de Sousa Dairy | 3030 S  Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+270
+210
+430
+280
+30
+1,210
+1,210
+1,400
+0
+270
+1,450
+0
+210
+1,000
+0
+430
+700
+0
+280
+0
+30
+Predominant milk cow breed: Holstein
+Average milk production:
+77 pounds per cow per day
+Average number
+1,210
+270
+210
+430
+280
+30
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+43,443.41
+546,151.01
+89,237.65
+237,941.07
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+382,305.71 lbs per reporting period
+Total salt from manure:
+633,546.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+131,707.74
+13,441.95
+171,429.43
+1,533,556.31
+36,013,000
+lbs
+lbs
+lbs
+gallons
+36,013,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+36,013,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Turlock Irrigation District
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+06/03/2025 14:34:17
+Page 2 of 64
+A & M de Sousa Dairy | 3030 S  Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 65 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/03/2025 14:34:17
+Page 1 of 1
+A & M de Sousa Dairy | 3030 S  Central AVE | Turlock, CA 95380 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 66 ===
+A & M DeSousa
+3030 S. Central Ave.
+Turlock,CA  95380
+Report #
+Report Date:
+Received Date:
+Work Order:
+L2.2-14R70064
+12/18/2024
+12/16/2024
+655930
+Laboratory Number:
+Description:
+65593001
+Water, Well 1, 12/15/24, 1430
+Sampled By:Paul Sousa, Employed By:A & M DeSousa Dairy
+Analytical Results
+Constituent
+ 
+ Result  
+Reporting
+Limit
+Method
+Detection
+Limit
+    Method
+    Reference
+Analysis
+Date
+Analysis
+Time
+ Analyst
+Nitrate Nitrogen
+27  mg/l
+0.1
+0.01
+    EPA 300.0 
+12/17/2024
+08:08
+JDLC
+QC Results
+Constituent
+ QC Units
+ 
+Blank  
+ Matrix
+Theoretical
+Spike
+ 
+Matrix
+Spike  
+Matrix
+Spike
+Duplicate
+ 
+Lab 
+Control 
+Spike 
+ Precision 
+% 
+ Accuracy 
+% 
+ Response  
+%
+Nitrate Nitrogen
+mg/l
+<
+0.1
+6.8
+0.9
+7.7
+7.7
+0.9
+0.1  
+97.0  
+97.5  
+ 
+ 
+Notes 
+ 
+Authorized By:
+12/18/2024
+Britney Dundee, Chemistry Supervisor
+ELAP Accreditation Laboratory Certificate #2776. Unless otherwise noted, all samples were received in acceptable condition. The result(s) in 
+this report relate only to the portion of the sample(s) tested.  Results are not corrected for recovery or expanded measurment of uncertainty. 
+This report does not constitute a release of product for consumption. This report shall not be reproduced except in full, without written 
+approval of the laboratory. This document contains confidential commercial information pursuant to 5 U.S.C. SEC. 552(b)(4).
+Page 1 of 6

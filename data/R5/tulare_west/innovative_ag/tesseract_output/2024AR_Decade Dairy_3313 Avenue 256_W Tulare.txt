@@ -1,0 +1,169 @@
+=== Page 35 ===
+ATTACHMENT D
+
+Manure/Process Wastewater Tracking Manifest
+For
+Existing Milk Cow Dairies
+
+Instructions:
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for
+several days, as long as the manure is being hauled to the same destination.
+
+2) If there are muitiple destinations, complete a separate form for each destination.
+
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual
+Monitoring Report for Existing Milk Cow Dairies.
+
+Operator Information:
+Name of Operator; Eric Westra
+
+Name of Dairy Facility; Decade Dairy
+
+Facility Address:  3313 Avenue 256 Tulare, CA 93274
+Number and Street                                        City                            Zip Code
+
+Contact Person Name and Phone Number: Eric Westra (559) 804-6809
+
+Name                                   Phone Number
+Manure/Process Wastewater Hauler Information:
+Name of Hauling Company/Person: Decade Dairy
+Address of Hauling Company /Person: 3313 Avenue 256 Tulare, CA 93274
+Number and Street                            City              Zip Code
+
+Contact Person: Eric Westra                                                      (559) 804-6809
+
+                            Name                                                           Phone Number
+Destination Information:
+Composting Facility / Broker / Farmer / Other (identify) Farmer                (please circle one)
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Tri Palm Dairy       2429 Idaho Avenude            Hanford,CA 93230
+Name                        Number and Street                         City             Zip Code           Phone Number
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number:
+
+Number and Street                             City                        Zip Code             Assessors Parcel Number
+
+Dates Hauled: 4/15/2024, 5/7&10/2024, 6/10&13/2024, 7/15&18/2024
+
+Amount Hauled:
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards),
+and the method used to calculate the amount:
+
+Manure:        264       Tons or Cubic Yards (indicate which units used)
+Manure Solids Content (if amount reported in tons): 38.1% Corral Solids
+Manure Density (if amount reported in cubic yards):
+
+
+
+=== Page 36 ===
+Attachment D                                                                                           D-2
+Reissued Waste Discharge Requirements General Order No. R5-2013-0122
+Existing Milk Cow Dairies
+
+Method used to determine amount of manure:
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the
+amount.
+
+7168656
+
+Process Wastewater:                              Gallons
+
+Method used to determine volume of process wastewater:
+
+Written Agreement:
+Does the Operator have a written agreement (in compliance with Land Application Specification
+E.3 of Reissued Waste Discharge Requirements General Order No. R5-2013-0122) with any
+
+party that receives process wastewater from the Operator for its own use? (please check one)
+
+Yes                        No
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party
+for any process wastewater transferred after 31 December 2007 to such party.
+(Operator shall provide initials here to acknowledge this requirement).
+
+Certification:
+| declare under the penalty of law that | personally examined and am familiar with the information
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for
+obtaining the information, ! believe that the information is true, accurate, and complete. | am aware that
+there are significant penalties for submitting false information, including the possibility of a fine and
+
+imprisonment for knowing violations.
+Operator's Signature:  AD  wh. Lt                Date: 6~ | 3 ~2$
+Hauler’s Signature:        Same Os      OPR wor                  Date:
+
+
+=== Page 37 ===
+ENVIRONMENTAL         AGRICULTURAL
+
+Analytical Chemists
+
+February 6, 2024                                                       Lab No.           : VI 2440656
+
+Innovative Ag Services, LLC                                        Customer No. =: 4018573
+1201 Delta View Road                                                        Reference         : 42415
+Suite 5
+
+Hanford, CA 93230
+
+Laboratory Report
+
+Introduction: This report package contains a total of 3 pages divided into 3 sections:
+
+Case Narrative            (1 page)       ; An overview of the work performed at FGL.
+Sample Results           (1 page)      : Results for each sample submitted.
+Quality Control          (1 page)      : Supporting Quality Control (QC) results.
+
+Case Narrative
+This Case Narrative pertains to the following samples:
+
+Sample Description               Date Sampled              Date Received                FGL Lab No.
+
+DDW1                                               01/24/2024                      01/24/2024                    VI 2440656-001
+
+Sampling and Receipt Information:
+
+The Sample was received in acceptable condition and within temperature requirements, unless noted on the Condition
+Upon Receipt (CUR) form. The Sample was received, prepared and analyzed within the method specified holding times.
+All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
+For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+
+SM 4500-H+B                   Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F                Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+
+Certification: | certify that this data package is in compliance with ELAP standards, both technically and for
+completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
+report shall not be reproduced except in full, without the written approval of the laboratory.
+
+KD: JRD
+
+Digitally signed by Kelly A. Dunnahoo, B.S.
+Approved By Kelly A. Dunnahoo, B.S.  @ Title: Laboratory Director
+
+Date: 2024-02-07
+
+Section: Case Narrative                                                          Page | of 3                                                          Page 1 of 3
+
+Corporate Offices & Laboratory                       Office & Laboratory                Office & Laboratory                Office & Laboratory                Office & Laboratory
+
+853 Corporation Street                                   2500 Stagecoach Road            563 E. Lindo Avenue                3442 Empresa Drive, Suite (9415 W, Goshen Avenue
+
+Santa Paula, CA 93060                                    Stockton, CA 95215                 Chico, CA 95926                     San Luis Obispo, CA 93401        Visalia, CA 93201
+
+TEL: (805)392-2000                                  TEL: (209)942-0182              TEL: (530)343-5818              TEL: (805)783-2940               TEL: (558)734-0473
+
+Env FAX: (805)525-4172 / Ag FAX: (805)392-2063 FAX: (209)942-0423               FAX: (530)343-3807               FAX; (805)783-2912               FAX: (559)734-8435
+
+CA ELAP Certification No. 1573                        CA ELAP Certification No, 1563 CA ELAP Certification No. 2670 CA ELAP Certification No. 2775 CAELAP Certification No, 2810

@@ -1,0 +1,313 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Poso Creek Family Dairy, LLC
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93280
+Kern
+Wasco
+13437 Gun Club RD
+Tulare Basin
+Regional Water Quality Control Board Basin Plan designation:
+06/01/2002
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X059-X130-XX08-XXXX
+X059-X130-XX52-XXXX
+B.
+Bouma, Peter
+Operator name: Bouma, Peter
+Telephone no.:
+Landline
+Cellular
+(909) 930-9390
+1500 S Haven, STE 200
+Ontario
+CA
+91761
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Bouma, Peter
+Legal owner name: Bouma, Peter
+Telephone no.:
+Landline
+Cellular
+(909) 930-9390
+91761
+Zip Code
+State
+City
+Mailing Address Number and Street
+1500 S Haven, STE 200
+Ontario
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/09/2025 08:18:21
+Page 1 of 83
+Poso Creek Family Dairy, LLC | 13437 Gun Club RD | Wasco, CA 93280 | Kern County | Tulare Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+5,350
+501
+1,775
+1,855
+735
+785
+0
+5,460
+1,200
+0
+515
+1,250
+0
+1,790
+900
+0
+1,870
+700
+0
+775
+0
+810
+Predominant milk cow breed: Jersey-Holstein Cross
+Average milk production:
+70 pounds per cow per day
+Average number
+5,350
+501
+1,775
+1,855
+735
+785
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+185,465.65
+2,314,197.98
+380,660.88
+1,027,381.42
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+1,619,938.59 lbs per reporting period
+Total salt from manure:
+2,641,469.58 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+250,821.35
+49,952.44
+369,387.93
+2,303,199.80
+142,319,460
+lbs
+lbs
+lbs
+gallons
+142,319,460
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+142,319,460
+D. FRESH WATER SOURCES
+Source Description
+Type
+17-1
+Ground water
+17-4
+Ground water
+17-4M
+Ground water
+17-8
+Ground water
+20-3
+Ground water
+06/09/2025 08:18:21
+Page 2 of 83
+Poso Creek Family Dairy, LLC | 13437 Gun Club RD | Wasco, CA 93280 | Kern County | Tulare Basin
+
+
+=== Page 84 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/09/2025 08:18:21
+Page 1 of 1
+Poso Creek Family Dairy, LLC | 13437 Gun Club RD | Wasco, CA 93280 | Kern County | Tulare Basin
+
+
+=== Page 85 ===
+Section: Case Narrative
+Section: Case Narrative
+This Page is to be Stamped
+September 3, 2024
+Sentry Ag Services
+Attn: Monique Baldivez
+P.O. Box 7750
+Visalia, CA 93290
+Lab No.
+: VI 2446316
+Customer No.
+: 4019696
+Reference
+: 4028
+Laboratory Report
+Introduction: This report package contains a total of 8 pages divided into 3 sections:
+Case Narrative
+(1 page)
+: An overview of the work performed at FGL.
+Sample Results
+(4 pages)
+: Results for each sample submitted.
+Quality Control
+(3 pages)
+: Supporting Quality Control (QC) results.
+Case Narrative
+This Case Narrative pertains to the following samples:
+Sample Description
+Date Sampled
+Date Received
+FGL Lab No.
+Matrix
+9-6
+08/07/2024
+08/07/2024
+VI 2446316-001
+AGW
+9-7
+08/07/2024
+08/07/2024
+VI 2446316-002
+AGW
+17-1
+08/07/2024
+08/07/2024
+VI 2446316-003
+AGW
+20-4 NW
+08/07/2024
+08/07/2024
+VI 2446316-004
+AGW
+Sampling and Receipt Information:
+All samples were received in acceptable condition and within temperature requirements, unless noted on the Condition
+Upon Receipt (CUR) form. All samples were received, prepared and analyzed within the method specified holding times.
+All samples arrived on ice. All samples were checked for pH if acid or base preservation is required (except for VOAs).
+For details of sample receipt information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+Test Summary
+EPA 200.7
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+EPA 300.0
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+EPA 351.2
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 2540 C
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-H+B
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for
+completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
+report shall not be reproduced except in full, without the written approval of the laboratory.
+KD: JRD 52 Digitial Signature Stamp Y = 9.7
+Page 1 of 8
+Corporate Offices & Laboratory
+853 Corporation Street
+Santa Paula, CA 93060
+TEL: (805)392-2000
+CA ELAP Certification No. 1573
+Office & Laboratory
+2500 Stagecoach Road
+Stockton, CA 95215 
+TEL: (209)942-0182 
+CA ELAP Certification No. 1563
+Office & Laboratory
+563 E. Lindo Avenue
+Chico, CA 95926
+TEL: (530)343-5818
+CA ELAP Certification No. 2670
+Office & Laboratory
+9411 W. Goshen Avenue 
+Visalia, CA 93291
+TEL: (559)734-9473
+CA ELAP Certification No. 2810
+Office & Laboratory
+3442 Empresa Drive, Suite D 
+San Luis Obispo, CA 93401 
+TEL: (805)783-2940
+CA ELAP Certification No. 2775
+ENVIRONMENTAL          AGRICULTURAL
+Analytical Chemists
+ 
+Approved By  Kelly A. Dunnahoo, B.S. 
+Digitally signed by Kelly A. Dunnahoo, B.S.
+Title: Laboratory Director
+Date: 2024-09-03
+Page 1 of 8

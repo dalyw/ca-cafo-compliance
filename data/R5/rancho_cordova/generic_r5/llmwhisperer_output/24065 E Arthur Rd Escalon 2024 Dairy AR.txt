@@ -1,0 +1,127 @@
+=== Page 48 ===
+ATTACHMENT D 
+
+                    Manure/Process Wastewater Tracking Manifest 
+                                            For 
+                                Existing Milk Cow Dairies 
+
+ Instructions: 
+ 1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+     several days, as long as the manure is being hauled to the same destination. 
+ 2) If there are multiple destinations, complete a separate form for each destination. 
+ 3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+ 4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+    Monitoring Report for Existing Milk Cow Dairies. 
+
+ Operator Information: 
+ Name of Operator:       Johnny Silva 
+
+ Name of Dairy Facility: R&S Dairy 
+
+ Facility Address:      24065 E. Arthur Road,           Escalon, CA            95320 
+                    Number and Street                       City                 Zip Code 
+
+ Contact Person Name and Phone Number:     Johnny Silva                  209-652-4989 
+                                                Name                        Phone Number 
+ Manure/Process Wastewater Hauler Information: 
+ Name of Hauling Company/Person:                   Silva Liquid Injection 
+
+ Address of Hauling Company /Person: 22600 N. Pearl Road,        Acampo, CA      95220 
+                                       Number and Street               City       Zip Code 
+
+ Contact Person:   James Silva                                     209-321-1318 
+                       Name                                        Phone Number 
+ Destination Information: 
+ Composting Facility / Broker /Farmer [X] Other (identify)               (please circle one) 
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+ Reid Ranch         15885 S. Escalon Bellota Rd., Escalon, CA 95320         209-838-7769 
+   Name                Number and Street              City      Zip Code      Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+ 15885 S. Escalon Bellota Rd., Escalon, CA          95320             229-070-09 
+    Number and Street                City              Zip Code       Assessor's Parcel Number 
+
+Dates Hauled:    5/1/24 to 5/5/24 
+Amount Hauled: 
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+and the method used to calculate the amount: 
+
+     Manure:               Tons or Cubic Yards (indicate which units used) 
+     Manure Solids Content (if amount reported in tons): 
+     Manure Density (if amount reported in cubic yards):
+
+=== Page 49 ===
+Attachment D                                                                             D-2 
+ Reissued Waste Discharge Requirements General Order No. R5-2013-0122 
+ Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+      Process Wastewater: 2,400,000          Gallons 
+
+      Method used to determine volume of process wastewater: 
+          Haulers Calculations 
+
+Written Agreement: 
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+E.3 of Reissued Waste Discharge Requirements General Order No. R5-2013-0122) with any 
+party that receives process wastewater from the Operator for its own use? (please check one) 
+
+      Yes               No 
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party 
+for any process wastewater transferred after 31 December 2007 to such party. 
+                (Operator shall provide initials here to acknowledge this requirement). 
+
+Certification: 
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+there are significant penalties for submitting false information, including the possibility of a fine and 
+imprisonment for knowing violations. 
+                        25 
+Operator's Signature: Johnny Silva (Jun 4, 2025 07:05 PDT)          Date: 06/04/2025 
+
+Hauler's Signature:    Jannes                                       Date: 5-10-24
+
+=== Page 50 ===
+Denele Analytical, Inc. 
+
+      ANALYTICAL, DENELE INC. 865 South Kilroy Avenue Turlock, CA 95380                         40 N. East Street, Woodland, CA 95776 
+                           Phone (209) 634-9055 - Fax (209) 634-9057                            Phone (530) 666-9056 - Fax (530) 666-9058 
+
+                           www.denelelabs.com 
+
+                                                    Compliance Analysis Report 
+
+     Customer                                           Grower                                             Consultant: 
+     R & S Dairy                                                                                           F & R Ag Services 
+     23243 Lone Tree Rd.                                                                                   2857 Geer Rd. Ste A 
+     Escalon, CA 95320                                                                                     Turlock, CA 95382 
+
+     PURCHASE ORDER:                                                        Irrigation/ Ground Water (H1) 
+     RECEIVED DATE:        2/13/24 2:16 PM                                  SOURCE: Well Water 
+     SUBMITTED BY:         Jeanette 
+     ANALYZED DATE:        2/14/24 
+     NOTES: Temperature was above qualifying at 21.2c 
+
+       Sample ID              Lab ID            Analyte                                 Method Ref                Result            Units 
+       DW 1                   T4044025A         Electrical Conductivity (EC)            EPA 120.1 and              0.392          mmhos/cm 
+                                                Nitrate Nitrogen (NO3-N)                EPA 353.2                   5.72             mg/L 
+                                                Ammonia Nitrogen (NH3-N)                SM 4500-NH3 D,C           < 0.500            mg/L 
+                                                Soluble Salts (SALT-SOL)                Calculation                 251              mg/L 
+
+       Laboratory Quality Control                    LCS %                      MS %                        MSD %                      RPD % 
+       Ammonia Nitrogen (NH3-N)                        98.4                96.4 (T4044025A)             101 (T4044025A)                  4.85 
+       Electrical Conductivity (EC)                    98.4                                                                             0.077 
+       Nitrate Nitrogen (NO3-N)                         102                102 (T4044004A)              102 (T4044004A)                 0.353 
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the 
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and 
+conditions submitted on customer purchase orders or other forms submitted for work. 
+
+  Denele Analytical | Page 1                                                                                           ELAP Certificate No .: 2714

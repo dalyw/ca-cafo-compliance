@@ -1,0 +1,146 @@
+=== Page 24 ===
+ATTACHMENT D 
+
+                   Manure/Process Wastewater Tracking Manifest 
+                                          For 
+                              Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+   several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+   Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator:     David Vitoria 
+
+Name of Dairy Facility: _ Amarjit Kaile Property 
+
+Facility Address: _    Sargent Ave.                      Galt                 95632 
+                   Number and Street                      City                 Zip Code 
+
+Contact Person Name and Phone Number:     David Vitoria                 209-747-8297 
+                                              Name                        Phone Number 
+Manure/Process Wastewater Hauler Information: 
+Name of Hauling Company/Person: _ Warren Spreading 
+
+Address of Hauling Company /Person: _ 27613 Sowles Rd.              Galt      95632 
+                                      Number and Street              City       Zip Code 
+
+Contact Person:   Jerry Warren                                    209-327-0779 
+                      Name                                       Phone Number 
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify)    (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+ Umid Babjanov      9500 Robson Rd.                Galt        95632      209-747-8297 
+   Name               Number and Street             City       Zip Code     Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+                                          SAME 
+    Number and Street               City              Zip Code       Assessor's Parcel Number 
+
+Dates Hauled:      October 1-5, 2024 
+Amount Hauled: 
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+and the method used to calculate the amount: N 2.60% 
+                                           P   1.06%      K [X] 2.01% 
+
+      Manure:    780          Tons or Cubic Yards (indicate which units used) 
+      Manure Solids Content (if amount reported in tons): 50.9% 
+      Manure Density (if amount reported in cubic yards):
+
+=== Page 25 ===
+Attachment D                                                                           D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+      Method used to determine amount of manure: 
+
+ Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+ amount. 
+
+      Process Wastewater:                  Gallons 
+
+      Method used to determine volume of process wastewater: 
+
+ Written Agreement: 
+ Does the Operator have a written agreement (in compliance with Land Application Specification 
+ C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that 
+ receives process wastewater from the Operator for its own use? (please check one) 
+
+      Yes               No 
+
+ If the answer is no, the Operator agrees to have such a written agreement with any such party 
+ for any process wastewater transferred after 31 December 2007 to such party. 
+                (Operator shall provide initials here to acknowledge this requirement). 
+
+ Certification: 
+ I declare under the penalty of law that I personally examined and am familiar with the information 
+ submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+ obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+ there are significant penalties for submitting false information, including the possibility of a fine and 
+ imprisonment for knowing violations. 
+
+ Operator's Signature: David                                     Date: 5-8-25 
+
+ Hauler's Signature:                                             Date: 5/6/25
+
+=== Page 26 ===
+DENELE ANALYTICAL, INC. 
+                                            865 S. KILROY                                             DAIRY COMPLIANCE 
+                                        TURLOCK, CA 95380 
+                                   PH# 209-634-9055 FAX# 209-634-9057                     Authorized Copy Released To: 
+
+                      Client: Amarjit Kaile                                                JCRK, INC./Jacquie Captein (Bill me for this invoice) 
+            Mailing address:   1178 Earlton Lane                                           P.O. BOX 386       HERALD, CA       95638 
+              (not facility address) Lincoln, CA 95648                                     Sampled By: David Vitoria 
+                    Phone#: (916) 410-2560                                                 Project ID: 
+                                                          ANALYSIS TO BE COMPLETED: 
+IRRIGATION/GROUND WATER               DISCHARGE WATER                                                   SOIL 
+H1 EC', NO3-N, NH4-N'                 E1 EC', Temp', pH", NO3-N, NH4-N, TKN, TP, K, TDS, Dissolved Oxygen‘, K3 Soluble Phosphorus 
+HG EC, TN, TDS                           BOD 5, TSS, Total & Fecal Coliforms                            K4 1ft NO3, Organic Matter 
+H7 Combination of H1 & H6             E2 EC,' Temp', pH', NO3-N, NH4-N', Turbidily, TP, Dissolved Oxygen', K5 Pro-Plant (2ft NO3), Fall (1-2ft NO3), Fall (2-3ft NO3) 
+H14 EC, NO3-N, NH4-N, Ca, Mg, Na, Bicarb Total & Fecal Coliforms                                        KG 0-1ft EC, NO3, Soluble P, K, Organic Matter 
+   Carb, SO4, CI, TDS                 E3 EC', Temp', pH*, NO3-N, NH4-Nº, TP. Total & Fecal Coliforms    K7 Combination of K3 & K4 
+PROCESS WASTE WATER                   E4 EC', Temp*, pH', NO3-N, NH4-Nº, Turbidily, TP, Total & Fecal Coliform K8 Combination of K3 & K5 
+H3 EC', NH4-N, TKN, TP. K, TDS        MANURE 
+H4 EC', NO3-N, NH4-N, TKN, TP, K, TDS M1 % Moisture 
+H5 Ca, Mg, Na, Bicarb, Carb, SO4, CI M3 TN TP. K, % Moisture 
+H8 Combination of H3 &H5              M4 Ca, Mg, Na, Bicarb, Carb, SO4, CI, Ash 
+H9 Combination of H4 &H5              M7 Combination of M3 & M4 
+TILE DRAIN                            PLANT TISSUE                                                                                  M3 
+H2 EC*, NO3-N, TP, NH4-Nº, TDS        F18 % Moisture, Ash, TN, P. K, DM and as received                                                         F13        OTHER 
+ Required Measurement                 F18+ % Moisture, Ash, TN, P, K, DM and as received 
+   (Check hore If performed)               (Package also includes NIR DCAD) 
+        Date        Time              F19+ % Moisture, TN (Package includes complete plant tissue analysis) 
+      Collected    Collected             Samplo ID               Description      Temp       Well Purge                     Analysis 
+  1 10/15/24 4:00p            Domestic Well                   Dom. Well                    20 min.         X [X] 
+
+  2             4:30p        Live Oak Irr. Well               Ag Well                                      X [X] 
+
+  3 
+
+  4 
+
+  5 
+
+  6 
+
+  7 
+
+  8 
+
+  9 
+
+ 10 
+                CHAIN OF CUSTODY RECORDING 
+                       Signature              Company             Received Date & Time     Relinquished Date & Time         (LABORATORY USE ONLY) 
+
+    1st Jacquie Captein                JCRK, INC.                                          10/26/24      8:00 am Logged in By:      LABORATORY NUMBER 
+    2nd                                DENELE ANALYTICAL, INC. 10-16-24      12:50                                               77290012 
+
+   Required to be submitted to any agency? (YES / NO)

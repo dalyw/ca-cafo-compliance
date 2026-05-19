@@ -1,0 +1,184 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Blue Star Dairy
+
+Physical address of dairy:
+
+5254 Blue Gum AVE                                                                                              Modesto                          Stanislaus                     95358
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1960
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X012-X031-X035-XXXX
+
+B. OPERATORS
+
+Van Vliet, Eric K
+
+Operator name: Van Vliet, Eric K                                                                                                  Telephone no.:                       (209) 607-6455
+Landline              Cellular
+
+5254 Blue Gum AVE                                                                                                      Modesto                          CA               95358
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Van Vliet, Eric K
+
+Legal owner name: Van Vliet, Eric K                                                                                              Telephone no.:                       (209) 607-6455
+Landline              Cellular
+
+5254 Blue Gum AVE                                                                                                      Modesto                          CA               95358
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Blue Star Dairy | 5254 Blue Gum AVE | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+04/22/2025 10:09:56                                                                                                                                              Page 1 of 29
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                    300                    300                       0                       0
+Number under roof                                    850                      144                         0                         0                         0                         0
+Maximum number                            850                 144                300                300                   0                   0
+Average number                                 850                   144                  300                  300                     0                     0
+Avg live weight (Ibs)                           1,400                1,450                1,000                  700
+Predominant milk cow breed: Holstein
+Average milk production:                          73 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         30,267.97 tons per reporting period
+Total nitrogen from manure:                 373,225.70 Ibs per reporting period      After ammonia losses (30% loss applied):       261,257.99 Ibs per reporting period
+Total phosphorus from manure:               62,255.69 /bs per reporting period
+Total potassium from manure:              164,908.76 /bs per reporting period
+Total salt from manure:                         434,522.52 Ibs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       13,884,000 gallons             12,714,000 gallons applied
+Total nitrogen generated:               50,450.03 /bs           +      1,170,000 gallons exported
+Total phosphorus generated:            8,484.46 /bs           -               0 gallons imported
+Total potassium generated:            112,083.57 /bs           = 13,884,000 gallons generated
+Total salt generated:                  633,571.26 /bs
+
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+
+MID Lateral 3                                                                                      Ground water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+Blue Star Dairy | 5254 Blue Gum AVE | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+04/22/2025 10:09:56                                                                                                                                                                                  Page 2 of 29
+
+
+=== Page 30 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Blue Star Dairy | 5254 Blue Gum AVE | Modesto, CA 95358 | Stanislaus County | San Joaquin River Basin
+
+04/22/2025 10:09:56                                                                                                                                                   Page 1 of 1
+
+
+=== Page 31 ===
+SELLAVALLE
+
+LABORATORY
+
+Blue Star Dairy                                                      Account# 00-0026866                                           Received: 12/12/2024 12:55
+5254 Blue Gum Ave                                              Account Manager: Christian Duran                            Reported: 12/17/2024 11:10
+Modesto, CA 95358                                                 Submitted By: F+R Ag Services
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24L0692-01         Dairy Domestic Well                            Ground Water                  Vince Furtado                                                     12/11/2024 8:00
+Default Cooler           Temperature on Receipt °C: 0.4
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                  Hold time exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 6

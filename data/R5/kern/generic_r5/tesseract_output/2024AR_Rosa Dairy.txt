@@ -1,0 +1,177 @@
+=== Page 1 ===
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:                Rosa Dairy
+Physical address of dairy:
+
+4714 E, Bear Mountain Blvd                                                                              Bakersfield                               Kern                  93307
+Number and Street                                                                                                                            City                                                      County                      Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation:             01-01-2000
+
+Regional Water Quality Control Board Basin Plan designation:                 Tulare Basin
+County Assessor Parcel Number(s) for dairy facility:
+
+0185-0310-0015-0000 0185-0310-0016-0000 0185-0310-0017-0000
+
+B. OPERATORS
+
+Manuel Rosa
+Operator Name:         Manuel Rosa                                                                                           Telephone no.: (661) 667-1017
+Landline                  Cellular
+P.O. BOX 456                                                                                                                          ARVIN                        Kern                      93203
+Mailing Address Number and Street                                                                                                                       City                                 County                        Zip Code
+C. OWNERS
+Manuel Rosa
+Owner Name:           Manuel Rosa                                                                                           Telephone no.: (661) 667-1017
+Landline                  Cellular
+P.O. BOX 456                                                                                                                          ARVIN                        Kern                      93203
+
+Mailing Address Number and Street                                                                                                                       City                                 County                        Zip Code
+
+
+=== Page 2 ===
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Milk Cows      Dry Cows      Bred Heifers (15-24 mo.)           Heifers (7-14 mo.to breeding)            Calves (4-6 mo.)        Calves (0-3 mo.)
+
+Number open confinement             0                   76                 145                                        206                                                0                              0
+
+Number under roof                       0                   0                  0                                           0                                                   0                              0
+
+Maxiumu number                    1,218           236            502                                 461                                        428                      428
+
+Average number                      0                76              145                                   206                                          0                          0
+
+Average live weight (Ibs)               1200             1250            1000                                    300
+
+Predominant milk cow breed:       Holsteins
+Average Milk Production:               70 pounds per cow per day
+
+B. MANURE GENERATED
+
+Total manure excreted by the herd:                    4,244.87 tons per reporting period
+Total nitrogen from manure:                               47,179.90 Ibs per reporting period           After ammonia losses (30% loss applied):                       33,025.93 Ibs per reporting period
+Total phosphorus from manure:                          7,467.90 Ibs per reporting period
+Total potassium from manure:                                  0.00 /bs per reporting period
+Total salt from manure:                                    17,476.20 Ibs per reporting period
+
+C. PROCESS WASTEWATER GENERATED
+
+Process wastewater generated:                                               0 gallons
+.                                                              ————                               0 gallons applied
+
+Total nitrogen generated:                                              0 /bs
+
+—_                               0 gallons exported
+Total phosphorus generated:                                           0 /bs                                  ;
+
+—_                              0 gallons imported
+Total potassium generated:                                            0 /bs
+
+———_                           0.00 gallons generated
+Total salt generated:                                                     0 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                             Type
+East Well                                                                                              Ground Water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No fresh water sources entered.
+
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+No commercial or other nutrient imports entered.
+
+G. NUTRIENT EXPORTS
+
+
+=== Page 21 ===
+REQUIRED ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted.
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final page, click on the ADFA
+Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the General Order.
+Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Discharge Maps
+
+Provide map(s) showing the discharge and sample locations for each discharge or release of waste to land areas (land application areas or otherwise) or surface water.
+
+Discharge Lab Reports
+
+Provide copies of laboratory analyses of all discharges (manure, process wastewater, or tailwater), surface water (upstream and downstream of a discharge), and storm water, including
+chain-of-custody forms and laboratory quality assurance/quality control results.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the General Order,
+Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, Storm Water
+Reporting Section on page MRP-14.
+
+
+=== Page 22 ===
+Solid/Liquid Manure Tracking Manifest
+
+If amount hauled / transferred is liquid, then a "Waste
+
+Waste Generator Information:                               Contact:                                                             Water Agreement" is required in compliance with
+Land Application Specification C.2 of the General
+Name:                  Manuel Rosa                             Name:                  Manuel Rosa                             Order R5-2007-0035.
+Facility Name:         Rosa Dairy                               Number:                (661) 667-1017                           Does th         tor h                   t andi
+a            .     Gora pone pl                                                                          oes the operator have an agreement, and is a
+Facility Address:        4714 E, Bear Mountain Blvd                                                                                                 Waste Water Agreement on file with the
+Facility City/State:      Bakersfield, CA 93307                                                                                               RWQCD? NO
+;                                                                                                                   | declare under the penalty of law that | personally
+Manure Hauler / Processor Information:                  Contact:                                                                 examined and am familiar with the information
+;                                          submitted in this document, and that based on my
+Name:                           Brachena Ag Services, Inc                      Name:                           Fred Amirfar                                           inquiry of those individuals immediately responsible
+Facility Address:        9442 Bear Mountain Blvd.                  Number:                  (661) 978-9321                               for obtaining the information, | believe that the
+Facility City/State:     Bakersfield, CA 93311                                                                                       information is true, accurate and complete. | am
+
+aware that there are significant penalties for
+submitting false information., including the possibility
+Manure Destination                   Farmer                                                                                                                                          of a fine and imprisonment for knowing violations.
+
+Destination Information:                                         Contact:                                                                   Signature of Owner:
+
+Name:                      Grimmway Farms                             Name:                      Grimmway Farms                                                         va
+Facility Address:        PO Box 81498                                Number:                  (661) 845-5289                                    /    VA
+
+Facility City/State:      Bakersfield, CA
+
+Date:
+Dates Hauled / Transferred                    Amount Hauled / Transferred                     Units         Moisture %                42/30/2024
+Apr 1, 2024 - Apr, 30 2024                       4,016                                                    ton            69 %
+Total                                                 4,016
+
+Signature of Hauler:
+
+Date:
+12/30/2024
+
+
+=== Page 23 ===

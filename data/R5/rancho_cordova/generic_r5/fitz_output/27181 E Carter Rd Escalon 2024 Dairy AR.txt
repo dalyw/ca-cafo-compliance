@@ -1,0 +1,3340 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Mello Ranch
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95320
+San Joaquin
+Escalon
+27181 E Carter RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1970
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X187-X260-XX03-XXXX
+X187-X260-XX04-XXXX
+B.
+Mello, Jarred
+Operator name: Mello, Jarred
+Telephone no.:
+Landline
+Cellular
+(209) 573-3748
+P.O. Box 22
+Escalon
+CA
+95320
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Mello, Jarred
+Legal owner name: Mello, Jarred
+Telephone no.:
+Landline
+Cellular
+(209) 573-3748
+95320
+Zip Code
+State
+City
+Mailing Address Number and Street
+P.O. Box 22
+Escalon
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+05/19/2025 14:48:37
+Page 1 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+900
+4,100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+900
+0
+4,100
+Predominant milk cow breed: Holstein
+Average milk production:
+1 pounds per cow per day
+Average number
+0
+0
+0
+0
+900
+4,100
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+17,385.00
+256,200.00
+18,117.00
+1.00
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+179,340.00 lbs per reporting period
+Total salt from manure:
+0.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+22,991.79
+2,912.15
+59,427.68
+514,792.70
+7,854,000
+lbs
+lbs
+lbs
+gallons
+7,854,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+7,854,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+IW 1
+Ground water
+IW 2
+Ground water
+05/19/2025 14:48:37
+Page 2 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+F. NUTRIENT IMPORTS
+No dry manure nutrient imports entered.
+No process wastewater nutrient imports entered.
+Salt (%)
+K (%)
+P (%)
+N (%)
+Moisture (%)
+Reporting basis
+Quantity
+Material type / Description
+Date
+0.000000
+0.000000
+0.000000
+17.000000
+0.1
+Dry-weight
+ton
+2.93
+Solid commercial fertilizer
+04/28/2024
+CAN17
+Material type
+Total N (lbs)
+Total P (lbs)
+Total K (lbs)
+Total salt (lbs)
+Commercial fertilizer / Other
+995.20
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+0.00
+0.00
+0.00
+0.00
+Total imports for all materials
+995.20
+0.00
+0.00
+0.00
+G. NUTRIENT EXPORTS
+Date
+Material type
+Quantity Reporting basis
+Moisture (%)
+Density (lbs/cu ft)
+Salt (mg/kg)
+K (mg/kg)
+P (mg/kg)
+N (mg/kg)
+TFS (%)
+Corral solids
+840.00 ton
+52.2
+15,400.00
+7,800.00
+23,700.00
+Dry-weight
+11/01/2024
+53.30
+No liquid nutrient exports entered.
+Material type
+Total N (lbs)
+Total P (lbs)
+Total K (lbs)
+Total salt (lbs)
+Dry manure
+19,032.05
+6,263.71
+12,366.82
+428,020.32
+Process wastewater
+0.00
+0.00
+0.00
+0.00
+Total exports for all materials
+19,032.05
+6,263.71
+12,366.82
+428,020.32
+05/19/2025 14:48:37
+Page 3 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 4 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+APPLICATION AREA
+A. LIST OF LAND APPLICATION AREAS
+Field name
+Parcel number
+Cropable acres
+Controlled acres
+Type of waste applied
+Total harvests
+Field 1
+X187-X260-XX04-XXXX
+none
+17
+17
+1
+Field 2
+X187-X260-XX03-XXXX
+process wastewater
+42
+42
+2
+X187-X260-XX04-XXXX
+Field 3
+X187-X260-XX03-XXXX
+none
+22
+22
+1
+Totals for areas that were used for application
+42
+42
+2
+2
+39
+39
+Totals for areas that were not used for application
+4
+Land application area totals
+81
+81
+B.
+Field 1
+Field 1
+Field name:
+10/20/2020: Pistachios
+Crop:Pistachios
+Plant date: 10/20/2020
+Acres planted:
+17
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+12/31/2024
+0.01
+0.1
+0.00
+0.00
+0.00
+ton
+As-is
+0.00
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+12.00
+2.00
+10.00
+0.00
+0.00
+0.00
+0.00
+Yield (tons/acre)
+0.10
+0.00
+0.00
+Field 2
+Field 2
+Field name:
+CROPS AND HARVESTS
+05/19/2025 14:48:37
+Page 4 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 5 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2
+10/30/2023: Oats, silage-soft dough
+Crop:Oats, silage-soft dough
+Plant date: 10/30/2023
+Acres planted:
+42
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+05/02/2024
+651.00
+72.0
+5,730.00
+1,280.00
+11,500.00
+ton
+As-is
+12.20
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+160.00
+25.60
+132.80
+177.63
+39.68
+356.50
+1,058.96
+Yield (tons/acre)
+16.00
+15.50
+0.00
+06/02/2024: Corn, silage
+Crop:Corn, silage
+Plant date: 06/02/2024
+Acres planted:
+42
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+09/28/2024
+1,281.00
+71.6
+4,150.00
+770.00
+4,300.00
+ton
+As-is
+7.71
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+240.00
+45.00
+198.00
+253.15
+46.97
+262.30
+1,335.68
+Yield (tons/acre)
+30.00
+30.50
+0.00
+Field 3
+Field 3
+Field name:
+10/20/2020: Pistachios
+Crop:Pistachios
+Plant date: 10/20/2020
+Acres planted:
+22
+Harvest date
+Yield
+P (mg/kg)
+K (mg/kg)
+Salt (mg/kg)
+N (mg/kg)
+Moisture (%)
+Density (lbs/cu ft)
+Reporting basis
+TFS (%)
+12/31/2024
+0.01
+0.1
+0.00
+0.00
+0.00
+ton
+As-is
+0.00
+Total N (lbs/acre)
+Anticipated harvest content
+Total actual harvest content
+Total P (lbs/acre)
+Total K (lbs/acre)
+Salt (lbs/acre)
+12.00
+2.00
+10.00
+0.00
+0.00
+0.00
+0.00
+Yield (tons/acre)
+0.10
+0.00
+0.00
+05/19/2025 14:48:37
+Page 5 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 6 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT BUDGET
+A. LAND APPLICATIONS
+Field 1 - 10/20/2020: Pistachios
+Field name:
+Crop:
+Field 1
+Pistachios
+Plant date: 10/20/2020
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+04/13/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,275,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+04/28/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+04/28/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,275,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+05/13/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,275,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+05/29/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+05/19/2025 14:48:37
+Page 6 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 7 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 1 - 10/20/2020: Pistachios
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+05/29/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,275,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+06/12/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,275,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+06/12/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+06/27/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+06/27/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+07/12/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+05/19/2025 14:48:37
+Page 7 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 8 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 1 - 10/20/2020: Pistachios
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+08/11/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+08/26/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+09/10/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+09/25/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+10/10/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,296,250.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+Field 2 - 10/30/2023: Oats, silage-soft dough
+Field name:
+Crop:
+Field 2
+Oats, silage-soft dough
+Plant date: 10/30/2023
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+05/19/2025 14:48:37
+Page 8 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 9 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2 - 10/30/2023: Oats, silage-soft dough
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+02/22/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+85.34
+11.74
+121.97
+1,118.06
+882,000.00 gal
+Application event totals
+85.34
+11.74
+121.97
+1,118.06
+04/08/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+125.91
+14.51
+293.28
+2,894.38
+1,932,000.00 gal
+Application event totals
+125.91
+14.51
+293.28
+2,894.38
+Field 2 - 06/02/2024: Corn, silage
+Field name:
+Crop:
+Field 2
+Corn, silage
+Plant date: 06/02/2024
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+05/17/2024
+Pipeline
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+147.81
+17.03
+344.28
+3,397.75
+2,268,000.00 gal
+IW 2
+Ground water
+0.00
+0.00
+0.00
+79.95
+3,353,400.00 gal
+Application event totals
+147.81
+17.03
+344.28
+3,477.70
+06/27/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 2
+Ground water
+0.00
+0.00
+0.00
+125.85
+5,278,500.00 gal
+Application event totals
+0.00
+0.00
+0.00
+125.85
+05/19/2025 14:48:37
+Page 9 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 10 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2 - 06/02/2024: Corn, silage
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+07/10/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+62.79
+8.68
+218.47
+1,615.59
+924,000.00 gal
+IW 2
+Ground water
+0.00
+0.00
+0.00
+103.64
+4,347,000.00 gal
+Application event totals
+62.79
+8.68
+218.47
+1,719.24
+07/23/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 2
+Ground water
+0.00
+0.00
+0.00
+103.64
+4,347,000.00 gal
+Application event totals
+0.00
+0.00
+0.00
+103.64
+08/06/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+68.50
+9.47
+238.33
+1,762.46
+1,008,000.00 gal
+IW 2
+Ground water
+0.00
+0.00
+0.00
+100.68
+4,222,800.00 gal
+Application event totals
+68.50
+9.47
+238.33
+1,863.15
+08/20/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 2
+Ground water
+0.00
+0.00
+0.00
+125.85
+5,278,500.00 gal
+Application event totals
+0.00
+0.00
+0.00
+125.85
+09/05/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+WWS
+Process wastewater
+57.08
+7.89
+198.61
+1,468.72
+840,000.00 gal
+IW 2
+Ground water
+0.00
+0.00
+0.00
+103.64
+4,347,000.00 gal
+Application event totals
+57.08
+7.89
+198.61
+1,572.36
+Field 3 - 10/20/2020: Pistachios
+Field name:
+Crop:
+Field 3
+Pistachios
+Plant date: 10/20/2020
+05/19/2025 14:48:37
+Page 10 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 11 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 3 - 10/20/2020: Pistachios
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+04/15/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,650,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+04/30/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+04/30/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,650,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+05/15/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,650,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+05/30/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+05/31/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.27
+0.00
+0.00
+81.36
+1,650,000.00 gal
+Application event totals
+4.27
+0.00
+0.00
+81.36
+05/19/2025 14:48:37
+Page 11 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 12 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 3 - 10/20/2020: Pistachios
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+06/14/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+06/28/2024
+Sidedress
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+CAN17
+Solid commercial fertilizer
+8.50
+0.00
+0.00
+0.00
+Application event totals
+8.50
+0.00
+0.00
+0.00
+06/29/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+07/14/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+07/29/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+08/13/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+05/19/2025 14:48:37
+Page 12 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 13 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 3 - 10/20/2020: Pistachios
+Application date
+Application method
+Precipitation 24 hours prior
+Precipitation during application
+Precipitation 24 hours following
+08/28/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+09/12/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+09/27/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+10/12/2024
+Surface (irrigation)
+No precipitation
+No precipitation
+No precipitation
+Source description
+Salt (lbs/acre)
+K (lbs/acre)
+P (lbs/acre)
+N (lbs/acre)
+Material type
+Amount
+IW 1
+Ground water
+4.34
+0.00
+0.00
+82.72
+1,677,500.00 gal
+Application event totals
+4.34
+0.00
+0.00
+82.72
+05/19/2025 14:48:37
+Page 13 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 14 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+B. NUTRIENT BUDGET
+Field 1 - 10/20/2020: Pistachios
+Field name: Field 1
+Crop: Pistachios
+Plant date: 10/20/2020
+Fresh water applied
+inches/acre
+36.27
+16,745,000.00 gallons
+616.66 acre-inches
+Process wastewater applied
+0.00 gallons
+0.00 inches/acre
+0.00 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+25.50
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+0.00
+0.00
+0.00
+0.00
+Fresh water
+56.06
+0.00
+0.00
+1,068.58
+Atmospheric deposition
+14.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+95.56
+12.00
+0.00
+95.56
+0.00
+0.00
+2.00
+0.00
+0.00
+0.00
+0.00
+10.00
+0.00
+0.00
+0.00
+1,068.58
+0.00
+1,068.58
+0.00
+0.00
+05/19/2025 14:48:37
+Page 14 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 15 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2 - 10/30/2023: Oats, silage-soft dough
+Field name: Field 2
+Crop: Oats, silage-soft dough
+Plant date: 10/30/2023
+Fresh water applied
+inches/acre
+0.00
+0.00 gallons
+0.00 acre-inches
+Process wastewater applied
+2,814,000.00 gallons
+2.47 inches/acre
+103.63 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+211.25
+26.25
+415.25
+4,012.44
+Fresh water
+0.00
+0.00
+0.00
+0.00
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+218.25
+160.00
+177.63
+40.62
+1.23
+26.25
+25.60
+39.68
+-13.43
+0.66
+415.25
+132.80
+356.50
+58.75
+1.16
+4,012.44
+1,058.96
+2,953.48
+3.79
+0.00
+05/19/2025 14:48:37
+Page 15 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 16 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2 - 06/02/2024: Corn, silage
+Field name: Field 2
+Crop: Corn, silage
+Plant date: 06/02/2024
+Fresh water applied
+inches/acre
+27.33
+31,174,200.00 gallons
+1,148.04 acre-inches
+Process wastewater applied
+5,040,000.00 gallons
+4.42 inches/acre
+185.61 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+0.00
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+336.17
+43.09
+999.70
+8,244.53
+Fresh water
+0.00
+0.00
+0.00
+743.28
+Atmospheric deposition
+7.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+343.17
+240.00
+253.15
+90.02
+1.36
+43.09
+45.00
+46.97
+-3.88
+0.92
+999.70
+198.00
+262.30
+737.40
+3.81
+8,987.81
+1,335.68
+7,652.13
+6.73
+0.00
+05/19/2025 14:48:37
+Page 16 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 17 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 3 - 10/20/2020: Pistachios
+Field name: Field 3
+Crop: Pistachios
+Plant date: 10/20/2020
+Fresh water applied
+inches/acre
+36.32
+21,697,500.00 gallons
+799.05 acre-inches
+Process wastewater applied
+0.00 gallons
+0.00 inches/acre
+0.00 acre-inches
+harvests
+1
+Total harvests for the crop
+Total N (lbs/acre)
+Total P (lbs/acre)
+Total K (lbs/acre)
+Total salt (lbs/acre)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+25.50
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+0.00
+0.00
+0.00
+0.00
+Fresh water
+56.13
+0.00
+0.00
+1,069.93
+Atmospheric deposition
+14.00
+0.00
+0.00
+0.00
+Total nutrients applied
+Actual crop nutrient removal
+Anticipated crop nutrient removal
+Nutrient balance
+Applied to removed ratio
+95.63
+12.00
+0.00
+95.63
+0.00
+0.00
+2.00
+0.00
+0.00
+0.00
+0.00
+10.00
+0.00
+0.00
+0.00
+1,069.93
+0.00
+1,069.93
+0.00
+0.00
+05/19/2025 14:48:37
+Page 17 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 18 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT ANALYSES
+A.
+Corral Solids
+Corral Solids
+Corral solids
+04/08/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+52.2 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+23,700.00
+7,800.00
+15,400.00
+27,300.00
+7,920.00
+5,280.00
+4,870.00
+1,860.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+100.00
+50.00
+Value
+DL
+53.30
+0.01
+Corral Manure
+Corral Manure
+Corral solids
+09/23/2024
+Sample and source description:
+Sample date:
+Material type:
+Source of analysis: Lab analysis
+Method of reporting: Dry-weight
+Moisture:
+7.3 %
+Magnesium
+(mg/kg)
+Calcium
+(mg/kg)
+Total K
+(mg/kg)
+Total P
+(mg/kg)
+Total N
+(mg/kg)
+Sodium
+(mg/kg)
+Total salt
+(mg/kg)
+Chloride
+(mg/kg)
+Sulfur
+(mg/kg)
+TFS
+(%)
+56,600.00
+8,210.00
+35,600.00
+100.00
+100.00
+100.00
+Value
+DL
+36.00
+0.01
+MANURE ANALYSES
+B.
+WWQ1
+Sample and source description: WWQ1
+Sample date: 02/26/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH: 0.00
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+487.00
+0.50
+316.00
+0.00
+67.00
+696.00
+0.50
+0.50
+0.50
+0.50
+147.00
+0.50
+117.00
+0.50
+0.50
+219.00
+2,940.00
+0.50
+0.00
+2.00
+207.00
+1.00
+24.80
+0.10
+6,540.00
+1.00
+10
+6,380
+0.50
+0.00
+PROCESS WASTEWATER ANALYSES
+05/19/2025 14:48:37
+Page 18 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 19 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+WWQ2
+Sample and source description: WWQ2
+Sample date: 04/15/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH: 0.00
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+328.00
+0.50
+165.00
+0.00
+37.80
+764.00
+0.50
+0.50
+0.50
+0.50
+5,460.00
+1.00
+10
+7,540
+0.50
+0.00
+WWQ3
+Sample and source description: WWQ3
+Sample date: 07/15/2024
+Source of analysis: Lab analysis
+Material type: Process wastewater
+pH: 0.00
+Kjeldahl-N
+(mg/L)
+NH3-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Total P
+(mg/L)
+Total K
+(mg/L)
+Calcium
+(mg/L)
+Sodium
+(mg/L)
+Bicarb.
+(mg/L)
+Carb.
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+EC
+(μmhos/cm)
+Magnes.
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Value
+DL
+342.00
+0.50
+199.00
+0.00
+47.30
+1,190.00
+0.50
+0.50
+0.50
+0.50
+7,040.00
+1.00
+10
+8,800
+0.50
+0.00
+C.
+IW 1
+IW 1
+Sample date:
+Source of analysis:
+04/22/2024
+IW 1
+Sample description:
+Lab analysis
+EC
+(μmhos/cm)
+Total N
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Calcium
+(mg/L)
+Magnesium
+(mg/L)
+Sodium
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+Bicarbonate
+(mg/L)
+Carbonate
+(mg/L)
+Value
+DL
+0.50
+6.82
+308.00
+1.00
+10
+130
+0.00
+0.50
+4.02
+0.50
+IW 2
+FRESH WATER ANALYSES
+05/19/2025 14:48:37
+Page 19 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 20 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+IW 2
+IW 2
+Sample date:
+Source of analysis:
+04/22/2024
+IW 2
+Sample description:
+Lab analysis
+EC
+(μmhos/cm)
+Total N
+(mg/L)
+TDS
+(mg/L)
+NH4-N
+(mg/L)
+Nitrate-N
+(mg/L)
+Calcium
+(mg/L)
+Magnesium
+(mg/L)
+Sodium
+(mg/L)
+Sulfate
+(mg/L)
+Chloride
+(mg/L)
+Bicarbonate
+(mg/L)
+Carbonate
+(mg/L)
+Value
+DL
+0.50
+0.00
+275.00
+1.00
+10
+120
+0.00
+0.50
+0.00
+0.50
+D.
+No soil analyses entered.
+SOIL ANALYSES
+E.
+Field 2 - 10/30/2023: Oats, silage-soft dough
+Winter Forage
+Winter Forage
+05/02/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+As-is
+Moisture:
+72.0 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+5,730.00
+100.00
+1,280.00
+11,500.00
+100.00
+100.00
+12.20
+0.01
+Field 2 - 06/02/2024: Corn, silage
+PLANT TISSUE ANALYSES
+05/19/2025 14:48:37
+Page 20 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 21 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+Field 2 - 06/02/2024: Corn, silage
+Corn Silage
+Corn Silage
+12/06/2024
+Method of reporting:
+Sample and source description:
+Sample date:
+Lab analysis
+Source of analysis:
+As-is
+Moisture:
+71.6 %
+Total salt (mg/kg)
+Total K (mg/kg)
+Total P (mg/kg)
+Total N (mg/kg)
+TFS (%)
+Value
+DL
+4,150.00
+100.00
+770.00
+4,300.00
+100.00
+100.00
+7.71
+0.01
+F. SUBSURFACE (TILE) DRAINAGE ANALYSES
+No subsurface (tile) drainage analyses entered.
+05/19/2025 14:48:37
+Page 21 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 22 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+A. SUMMARY OF NUTRIENT APPLICATIONS, POTENTIAL REMOVAL, AND BALANCE
+Total N (lbs)
+Total P (lbs)
+Total K (lbs)
+Total salt (lbs)
+Existing soil nutrient content
+0.00
+0.00
+0.00
+0.00
+Plowdown credit
+0.00
+0.00
+0.00
+0.00
+Commercial fertilizer / Other
+994.50
+0.00
+0.00
+0.00
+Dry manure
+0.00
+0.00
+0.00
+0.00
+Process wastewater
+22,991.79
+2,912.15
+59,427.68
+514,792.70
+Fresh water
+2,187.87
+0.00
+0.00
+72,922.19
+Atmospheric deposition
+1,134.00
+0.00
+0.00
+0.00
+27,308.17
+Total nutrients applied
+Anticipated crop nutrient removal
+Actual crop nutrient removal
+17,268.00
+18,092.76
+Nutrient balance
+Applied to removed ratio
+9,215.41
+1.51
+2,912.15
+3,043.20
+3,639.30
+-727.15
+0.80
+59,427.68
+14,283.60
+25,989.60
+33,438.08
+2.29
+587,714.89
+100,574.90
+487,140.00
+5.84
+0.00
+B. POUNDS OF NUTRIENT APPLIED VS. CROP REMOVAL
+05/19/2025 14:48:37
+Page 22 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 23 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+C. POUNDS OF NUTRIENT APPLIED BY MATERIAL TYPE
+05/19/2025 14:48:37
+Page 23 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 24 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+EXCEPTION REPORTING
+A.
+The following is a summary of all manure and process wastewater discharges from the production area to surface water or to land areas (land application areas or otherwise) 
+when not in accordance with the facility's Nutrient Management Plan.
+No manure or process wastewater discharges occurred during the reporting period.
+MANURE, PROCESS WASTEWATER, AND OTHER DAIRY WASTE DISCHARGES
+B. STORM WATER DISCHARGES
+The following is a summary of all storm water discharges from the production area to surface water during the reporting period when not in accordance with the facility 's Nutrient 
+Management Plan.
+No stormwater discharges occurred during the reporting period.
+C. LAND APPLICATION AREA TO SURFACE WATER DISCHARGES
+The following is a summary of all discharges from the land application area to surface water that have occurred during the reporting period when not in accordance with the 
+facility's Nutrient Management Plan.
+No land application area to surface water discharges occurred during the reporting period.
+NUTRIENT MANAGEMENT PLAN AND EXPORT AGREEMENT STATEMENTS
+A. NUTRIENT MANAGEMENT PLAN STATEMENTS
+Was the facility's NMP updated in the reporting period?
+Was the facility's NMP developed by a certified nutrient management planner 
+(specialist) as specified in Attachment C of the General Order?
+Was the facility's NMP approved by a certified nutrient management planner 
+(specialist) as specified in Attachment C of the General Order?
+Yes
+Yes
+Yes
+B. EXPORT AGREEMENT STATEMENT
+Are there any written agreements with third parties to receive manure or process 
+wastewater that are new or were revised within the reporting period?
+No
+05/19/2025 14:48:37
+Page 24 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 25 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ADDITIONAL NOTES
+A. NOTES
+No notes entered for this annual report.
+05/19/2025 14:48:37
+Page 25 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 26 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+CERTIFICATION
+A. OWNER AND/OR OPERATOR CERTIFICATION
+I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document and all attachments and that, based on my inquiry 
+of those individuals immediately responsible for obtaining the information, I believe that the information is true, accurate, and complete.  I am aware that there are significant 
+penalties for submitting false information, including the possibility of fine and imprisonment.
+SIGNATURE OF OWNER OF FACILITY
+SIGNATURE OF OPERATOR OF FACILITY
+PRINT OR TYPE NAME
+PRINT OR TYPE NAME
+DATE
+DATE
+Jarred Mello
+SAME AS OWNER
+05/19/2025 14:48:37
+Page 26 of 26
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+Jarred Mello (May 20, 2025 15:01 PDT)
+05/20/2025
+
+
+=== Page 27 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/19/2025 14:48:37
+Page 1 of 1
+Mello Ranch | 27181 E  Carter RD | Escalon, CA 95320 | San Joaquin County | San Joaquin River Basin
+
+
+=== Page 28 ===
+Jarred Mello
+Mello Ranch - Carter
+27181 Carter Road,
+Escalon, CA
+95320
+Jarred Mello
+209-573-3748
+ALP
+PO Box 218
+Newman, CA 95360
+Jeff Lima
+209-862-3393
+Richard Wagner     26355 E. Carter Road,         Escalon, CA 95320              
+209-652-5099
+26355 E. Carter Road
+Escalon, CA                  95320
+187-250-08
+11/01/2024
+840
+52.2% moisture
+
+
+=== Page 29 ===
+70 loads at 12 ton per load
+Jarred Mello (May 20, 2025 15:01 PDT)
+05/20/2025
+
+
+=== Page 30 ===
+Page 9 of 10
+
+
+=== Page 31 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Samples in this Report
+Sample 
+Lab ID
+Matrix
+Date Sampled
+Sampled By
+Crop
+DW Barn
+24L0416-01
+12/09/2024   0:00
+Drinking Water
+IW 1
+24L0416-02
+12/09/2024   0:00
+Ag Water
+IW 2
+24L0416-03
+12/09/2024   0:00
+Ag Water
+[TOC_1]Samples in 
+Report[TOC]
+Notes and Definitions 
+Item
+Definition
+Hold time exceeded
+H
+MCL
+Drinking Water Maximum Contaminant Level
+ND
+Analyte NOT DETECTED at or above the reporting limit.
+NES
+Not Enough Sample
+*
+Not Taken
+RPD
+Relative Percent Difference
+%REC
+Percent Recovery
+Source
+Sample that was matrix spiked or duplicated.
+Laboratory Director/Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 1 of 10
+
+
+=== Page 32 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Sample Results
+ 
+Sample:  
+Result
+Analyte
+Reporting 
+Limit
+Date/Time 
+Analyzed
+Method
+Units
+24L0416-01 (Water)
+DW Barn 
+DIL
+DW
+MCL
+Notes
+Batch
+Sampled: 12/9/2024   0:00
+Sampled By: 
+Electrical Conductivity
+0.31
+0.01
+mmhos/cm
+SM 2510 B
+12/11/24  13:32
+1
+BFL0292
+Electrical Conductivity umhos
+314
+10.0
+umhos/cm
+SM 2510 B
+12/11/24  13:32
+1
+BFL0292
+Ammonia (as N)
+*
+0.00
+mg/L
+Field
+12/10/24  14:34
+1
+BFL0307
+Nitrate Nitrogen as NO3N
+5.2
+0.1
+mg/L
+SM 4500-NO3F
+12/10/24  16:26
+1
+BFL0285
+10
+Temperature
+25.0
+0.0
+units
+SM 4500-H+
+12/11/24  13:32
+1
+H
+BFL0292
+pH
+7.4
+1.0
+units
+SM 4500-H+
+12/11/24  13:32
+1
+H
+BFL0292
+[TOC_1]Sample Resul
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 2 of 10
+
+
+=== Page 33 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Sample Results
+ (Continued) 
+Sample:  
+Result
+Analyte
+Reporting 
+Limit
+Date/Time 
+Analyzed
+Method
+Units
+24L0416-02 (Water)
+IW 1 
+DIL
+DW
+MCL
+Notes
+Batch
+Sampled: 12/9/2024   0:00
+Sampled By: 
+Electrical Conductivity
+0.33
+0.01
+mmhos/cm
+SM 2510 B
+12/11/24  13:33
+1
+BFL0292
+Electrical Conductivity umhos
+332
+10.0
+umhos/cm
+SM 2510 B
+12/11/24  13:33
+1
+BFL0292
+Nitrate Nitrogen as NO3N
+5.5
+0.1
+mg/L
+SM 4500-NO3F
+12/10/24  16:27
+1
+BFL0285
+10
+Temperature
+25.0
+0.0
+units
+SM 4500-H+
+12/11/24  13:33
+1
+H
+BFL0292
+pH
+7.8
+1.0
+units
+SM 4500-H+
+12/11/24  13:33
+1
+H
+BFL0292
+Total Filterable Solids (TDS)
+240
+10.0
+mg/L
+SM 2540 C
+12/12/24  14:24
+1
+BFL0326
+Kjeldahl Nitrogen (TKN), Total
+ND
+1.00
+mg/L
+SM 4500-NH3 C
+12/13/24  15:23
+1
+BFL0406
+Total Nitrogen
+5.47
+1.00
+mg/L
+SM 4500-NH3 C
+12/17/24  09:49
+1
+BFL0518
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 3 of 10
+
+
+=== Page 34 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Sample Results
+ (Continued) 
+Sample:  
+Result
+Analyte
+Reporting 
+Limit
+Date/Time 
+Analyzed
+Method
+Units
+24L0416-03 (Water)
+IW 2 
+DIL
+DW
+MCL
+Notes
+Batch
+Sampled: 12/9/2024   0:00
+Sampled By: 
+Electrical Conductivity
+0.32
+0.01
+mmhos/cm
+SM 2510 B
+12/11/24  13:34
+1
+BFL0292
+Electrical Conductivity umhos
+324
+10.0
+umhos/cm
+SM 2510 B
+12/11/24  13:34
+1
+BFL0292
+Nitrate Nitrogen as NO3N
+5.5
+0.1
+mg/L
+SM 4500-NO3F
+12/10/24  16:28
+1
+BFL0285
+10
+Temperature
+25.0
+0.0
+units
+SM 4500-H+
+12/11/24  13:34
+1
+H
+BFL0292
+pH
+7.8
+1.0
+units
+SM 4500-H+
+12/11/24  13:34
+1
+H
+BFL0292
+Total Filterable Solids (TDS)
+248
+10.0
+mg/L
+SM 2540 C
+12/12/24  14:24
+1
+BFL0326
+Kjeldahl Nitrogen (TKN), Total
+ND
+1.00
+mg/L
+SM 4500-NH3 C
+12/13/24  15:24
+1
+BFL0406
+Total Nitrogen
+5.46
+1.00
+mg/L
+SM 4500-NH3 C
+12/17/24  09:49
+1
+BFL0518
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 4 of 10
+
+
+=== Page 35 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Result
+Reporting
+Limit
+Units
+Spike
+Level
+Source
+Result
+%REC
+%REC
+Limits
+RPD
+RPD
+Limit
+Qual
+ Analyte
+Quality Control
+Batch:  BFL0285
+Prepared & Analyzed: 12/10/2024
+Blank (BFL0285-BLK1)
+Nitrate Nitrogen as NO3N
+ND
+0.1
+mg/L
+Prepared & Analyzed: 12/10/2024
+LCS (BFL0285-BS1)
+Nitrate Nitrogen as NO3N
+10.8
+10.00
+85-122
+108
+mg/L
+Prepared & Analyzed: 12/10/2024
+Source: 24L0392-06
+Matrix Spike (BFL0285-MS1)
+Nitrate Nitrogen as NO3N
+12.4
+0.1
+5.000
+6.9
+85-120
+111
+mg/L
+Prepared & Analyzed: 12/10/2024
+Source: 24L0392-06
+Matrix Spike Dup (BFL0285-MSD1)
+Nitrate Nitrogen as NO3N
+12.5
+0.1
+5.000
+6.9
+16
+85-120
+111
+0.104
+mg/L
+[TOC_1]Quality Assura
+Results[TOC]
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 5 of 10
+
+
+=== Page 36 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Result
+Reporting
+Limit
+Units
+Spike
+Level
+Source
+Result
+%REC
+%REC
+Limits
+RPD
+RPD
+Limit
+Qual
+ Analyte
+Quality Control
+(Continued)
+Batch:  BFL0292
+Prepared: 12/10/2024  Analyzed: 12/11/2024
+LCS (BFL0292-BS1)
+Electrical Conductivity
+617
+589.0
+90-110
+105
+umhos/cm
+pH
+9.1
+9.135
+90-110
+99.8
+units
+Electrical Conductivity umhos
+0.62
+0.5890
+90-110
+105
+umhos/cm
+Prepared: 12/10/2024  Analyzed: 12/11/2024
+Source: 24L0408-02
+Duplicate (BFL0292-DUP1)
+Electrical Conductivity
+1.17
+0.01
+1.15
+10
+2.52
+mmhos/cm
+pH
+7.5
+1.0
+7.3
+10
+2.16
+units
+Electrical Conductivity umhos
+1170
+10.0
+1150
+10
+2.52
+umhos/cm
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 6 of 10
+
+
+=== Page 37 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Result
+Reporting
+Limit
+Units
+Spike
+Level
+Source
+Result
+%REC
+%REC
+Limits
+RPD
+RPD
+Limit
+Qual
+ Analyte
+Quality Control
+(Continued)
+Batch:  BFL0326
+Prepared: 12/11/2024  Analyzed: 12/12/2024
+Blank (BFL0326-BLK1)
+Total Filterable Solids (TDS)
+ND
+10.0
+mg/L
+Prepared: 12/11/2024  Analyzed: 12/12/2024
+LCS (BFL0326-BS1)
+Total Filterable Solids (TDS)
+620
+630.0
+85-115
+98.4
+mg/L
+Prepared: 12/11/2024  Analyzed: 12/12/2024
+Source: 24L0422-01
+Duplicate (BFL0326-DUP1)
+Total Filterable Solids (TDS)
+630
+10.0
+610
+10
+3.23
+mg/L
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 7 of 10
+
+
+=== Page 38 ===
+Reported: 12/17/2024  11:23
+Mello/Carter
+27181 E Carter Rd
+Escalon, CA  95320
+Account Manager: Christian Duran
+Submitted By: 
+Received: 12/10/2024  11:10
+Account# 00-0026850
+Result
+Reporting
+Limit
+Units
+Spike
+Level
+Source
+Result
+%REC
+%REC
+Limits
+RPD
+RPD
+Limit
+Qual
+ Analyte
+Quality Control
+(Continued)
+Batch:  BFL0406
+Prepared & Analyzed: 12/13/2024
+Blank (BFL0406-BLK1)
+Kjeldahl Nitrogen (TKN), Total
+ND
+1.00
+mg/L
+Prepared & Analyzed: 12/13/2024
+LCS (BFL0406-BS1)
+Kjeldahl Nitrogen (TKN), Total
+10.3
+1.00
+10.00
+85-122
+103
+mg/L
+Prepared & Analyzed: 12/13/2024
+Source: 24L0444-04
+Matrix Spike (BFL0406-MS1)
+Kjeldahl Nitrogen (TKN), Total
+3.90
+1.00
+10.00
+ND
+85-120
+39.0
+mg/L
+Prepared & Analyzed: 12/13/2024
+Source: 24L0444-04
+Matrix Spike Dup (BFL0406-MSD1)
+Kjeldahl Nitrogen (TKN), Total
+6.88
+1.00
+10.00
+ND
+16
+85-120
+68.8
+55.4
+mg/L
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+party interpretation.
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728  559-233-6129    www.dellavallelab.com
+Page 8 of 10
+
+
+=== Page 39 ===
+2024 Annual Report Mello - Carter
+Final Audit Report
+2025-05-20
+Created:
+2025-05-20
+By:
+Vince Furtado (vfurtado@fragservices.com)
+Status:
+Signed
+Transaction ID:
+CBJCHBCAABAAzO6thJmjbpsnY10ADYcloAGkofTj0rgh
+"2024 Annual Report Mello - Carter" History
+Document created by Vince Furtado (vfurtado@fragservices.com)
+2025-05-20 - 9:58:12 PM GMT
+Document emailed to jarredmello@hotmail.com for signature
+2025-05-20 - 10:00:11 PM GMT
+Email viewed by jarredmello@hotmail.com
+2025-05-20 - 10:00:24 PM GMT
+Signer jarredmello@hotmail.com entered name at signing as Jarred Mello
+2025-05-20 - 10:01:02 PM GMT
+Document e-signed by Jarred Mello (jarredmello@hotmail.com)
+Signature Date: 2025-05-20 - 10:01:04 PM GMT - Time Source: server
+Agreement completed.
+2025-05-20 - 10:01:04 PM GMT

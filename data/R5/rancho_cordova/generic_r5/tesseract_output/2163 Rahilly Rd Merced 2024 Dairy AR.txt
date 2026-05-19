@@ -1,0 +1,197 @@
+=== Page 1 ===
+Docusign Envelope ID: 133185E4-FD52-426D-B88F-A8A47CC9B111
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: 5H Farms #2
+
+Physical address of dairy:
+
+2163 Rahilly RD                                                                                                      Merced                            Merced                         95341
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 05/11/1941
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X065-X130-X065-XXXX
+
+B. OPERATORS
+
+Vyfhuizen, Case
+
+Operator name: Vyfhuizen, Case                                                                                            Telephone no.:                      (209) 631-1887
+Landline              Cellular
+
+5851 S Highway 59                                                                                                 Merced                          CA              95341
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Vyfhuizen, Case
+
+Legal owner name: Vyfhuizen, Case                                                                                        Telephone no.:                      (209) 631-1887
+Landline              Cellular
+
+5851 S Highway 59                                                                                                 Merced                          CA              95341
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+5H Farms #2 | 2163 Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+
+06/18/2025 14:21:05                                                                                                                                              Page 1 of 45
+
+
+=== Page 2 ===
+Docusign Envelope ID: 133185E4-FD52-426D-B88F-A8A47CC9B111
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                    530                    445                       0                       0
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                               0                   0                550                450                   0                   0
+Average number                                    0                     0                  530                  445                     0                     0
+Avg live weight (Ibs)                               0                     0                  900                  650
+Predominant milk cow breed: Holstein
+Average milk production:                            {1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:          9,532.52 tons per reporting period
+Total nitrogen from manure:                    92,781.00 /bs per reporting period       After ammonia losses (30% loss applied):         64,946.70 /bs per reporting period
+Total phosphorus from manure:              15,701.40 /bs per reporting period
+Total potassium from manure:                       1.00 /bs per reporting period
+Total salt from manure:                                0.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:                      gallons                         0 gallons applied
+Total nitrogen generated:                            los            +                0 gallons exported
+Total phosphorus generated:                      lbs           -               0 gallons imported
+Total potassium generated:                        lbs           =               0 gallons generated
+Total salt generated:                                      Ibs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+IW 13                                                                                                          Ground water
+IW 14                                                                                                          Ground water
+IW 15                                                                                                          Ground water
+MID Canal                                                                                                        Surface water
+
+5H Farms #2 | 2163 Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+
+06/18/2025 14:21:05                                                                                                                                                                                  Page 2 of 45
+
+
+=== Page 46 ===
+Docusign Envelope ID: 133185E4-FD52-426D-B88F-A8A47CC9B111
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+5H Farms #2 | 2163 Rahilly RD | Merced, CA 95341 | Merced County | San Joaquin River Basin
+
+06/18/2025 14:21:05                                                                                                                                                   Page 1 of 1
+
+
+=== Page 47 ===
+Docusign Envelope ID: 133185E4-FD52-426D-B88F-A8A47CC9B111
+
+SELLAVALLE
+
+LABORATORY
+
+5H Farms                                                    Account# 00-0022207                                     Received: 08/08/2024 11:57
+5851 S Highway 59                                               Account Manager: Christian Duran                            Reported: 08/14/2024 08:47
+Merced, CA 95341                                                   Submitted By: F & R Ag
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+
+24H0779-01         IW #1                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:05
+Well)
+
+24H0779-02         IW #2                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:15
+Well)
+
+24H0779-03         IW #3                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:26
+Well)
+
+24H0779-04        IW #4                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:32
+Well)
+
+24H0779-05         IW #5                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:41
+Well)
+
+24H0779-06        IW #6                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:48
+Well)
+
+24H0779-07        IW #8                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:54
+Well)
+
+24H0779-08        IW #9                                          Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:18
+Well)
+
+24H0779-09         IW #10                                        Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:22
+Well)
+
+24H0779-10         IW #11                                        Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:45
+Well)
+
+24H0779-11         IW #12                                        Ag Water                      Case V.                        Freshwater (Irrigation           08/07/2024 12:58
+Well)
+
+Default Cooler            Temperature on Receipt °C: -1.4
+
+Containers Intact
+COC/Labels Agree
+
+Received On Ice
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 23

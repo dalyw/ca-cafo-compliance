@@ -1,0 +1,42 @@
+Amount Hauled: 
+
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure solids 
+content (if amount reported in tons) or manure density (if amount reported in cubic yards), and the 
+method used to calculate the amount: 
+        Manure: Manure Solids Content [X] Tons (# amount or Cubic reported Yards in (indicate tons): 2743 which units used) 
+       Manure Density (if amount reported in cubic yards): 
+
+Method used to determine amount of manure: Scale 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+        Process Wastewater:                      Gallons 
+       Method used to determine volume of process wastewater: 
+
+Written Agreement: 
+
+Does the Operator have a written agreement (in compliance with Land Application Specification 
+C.2 of Waste Discharge Requirements General Order No. R5-2007-0035) with any party that receives 
+process wastewater from the Operator for its own use? (Please check one) 
+      Yes           No 
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any 
+process wastewater transferred after 31 December 2007 to such party. 
+
+              (Operator shall provide initials here to acknowledge this requirement). 
+
+Certification: 
+
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals immediately responsible 
+for obtaining the information, I believe that the information is true, accurate, and complete. I am aware 
+that there are significant penalties for submitting false information, including the possibility of a fine 
+and imprisonment for knowing violations. 
+
+Operator's Signature:                                                 Date: 
+
+Hauler's Signature 2                                                  Date: 10-18-2024 
+
+                                                                                Innovative Ag Services, LLC 
+                                                                                1201 Delta View Road, Suite 5 Hanford, CA 93230 
+                                                                                Office (559) 587-2800 Fax (559) 587-280! 
+                                                                                                        7 of7

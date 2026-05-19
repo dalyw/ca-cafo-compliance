@@ -1,0 +1,255 @@
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Goncalves Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93620
+Merced
+Dos Palos
+15782 Arroya AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+12/01/1986
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X085-X017-X064-XXXX
+B.
+Goncalves, Frank & Andrea
+Operator name: Goncalves, Frank & Andrea
+Telephone no.:
+Landline
+Cellular
+(209) 617-6324
+15728 Arroya AVE
+Dos Palos
+CA
+93620
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Goncalves, Frank & Andrea
+Legal owner name: Goncalves, Frank & Andrea
+Telephone no.:
+Landline
+Cellular
+(209) 617-6324
+93620
+Zip Code
+State
+City
+Mailing Address Number and Street
+15728 Arroya AVE
+Dos Palos
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/30/2025 23:24:08
+Page 1 of 55
+Goncalves Dairy | 15782 Arroya AVE | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+240
+164
+35
+0
+561
+561
+1,100
+68
+68
+1,500
+0
+240
+1,100
+0
+164
+775
+0
+35
+57
+57
+Predominant milk cow breed: Holstein
+Average milk production:
+79 pounds per cow per day
+Average number
+561
+68
+240
+164
+35
+57
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+20,549.85
+252,035.15
+41,850.06
+111,057.30
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+176,424.61 lbs per reporting period
+Total salt from manure:
+280,549.98 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+69,534.70
+12,244.40
+264,432.19
+1,083,114.24
+12,558,000
+lbs
+lbs
+lbs
+gallons
+12,558,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+12,558,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Domestic Well
+Ground water
+San Luis Canal
+Surface water
+06/30/2025 23:24:08
+Page 2 of 55
+Goncalves Dairy | 15782 Arroya AVE | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+
+=== Page 57 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/30/2025 23:24:08
+Page 1 of 1
+Goncalves Dairy | 15782 Arroya AVE | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+
+=== Page 58 ===
+Report of Dairy Well Water Analysis
+Lab No.: 24J1385
+Sampled By: M. Pedroso
+Goncalves Dairy
+Requested By: Frank Goncalves
+15728 Arroyo Ave
+Sampled Date: 10/22/24
+Dos Palos, CA 93620
+Submitted Date: 10/23/24
+00-0021361
+14
+Reported Date: 10/29/24
+Location/Project:
+E-mail:
+Crop ID:
+Copy To: cas.labs@yahoo.com
+Date
+Time
+Field
+Total
+pH
+No. Description
+Sampled Sampled
+EC
+EC
+NO3-N
+NH4-N
+NH4-N
+at 25°C
+µmhos/cm
+mmhos/cm
+mg/L
+mg/L
+mg/L
+unit
+01
+DW-East
+10/22/24
+13:00
+1180
+1.18
+ND
+*
+8.0
+02
+DW-West
+10/22/24
+13:00
+1220
+1.22
+ND
+*
+8.0
+* = Field NH4-N not Taken.
+ND = None Detected
+Approved By:
+Laboratory Director\Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+Dellavalle Laboratory, Inc - 1910 W McKinley  #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 - www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2

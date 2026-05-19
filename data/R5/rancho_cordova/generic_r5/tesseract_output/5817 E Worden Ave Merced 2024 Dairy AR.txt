@@ -1,0 +1,740 @@
+=== Page 1 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Double B Dairy
+
+Physical address of dairy:
+
+5817 E Worden AVE                                                                                                    Merced                             Merced                          95340
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1950
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X066-X130-X024-XXXX = X066-X130-X059-XXXX
+
+B. OPERATORS
+
+Bylsma, Wes
+Operator name: Bylsma, Wes                                                                                                            Telephone no.: (209) 385-3996 (209) 564-8218
+Landline              Cellular
+7248 Worden AVE                                                                                                                       Merced                               CA                 95341
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Bylsma, Wes
+Legal owner name: Bylsma, Wes                                                                      Telephone no.: (209) 385-3996 (209) 564-8218
+Landline              Cellular
+7248 Worden AVE                                                                                                                       Merced                               CA                 95341
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Double B Dairy | 5817 E Worden AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+06/26/2025 09:58:05                                                                                                                                                              Page 1 of 60
+
+
+=== Page 2 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                       0                       0
+Number under roof                                  1,244                      123                         0                         0                         0                         0
+Maximum number                           1,250                 130                   0                   0                   0                   0
+Average number                               1,244                   123                     0                     0                     0                     0
+Avg live weight (Ibs)                           1,400                1,400                     0                     0
+Predominant milk cow breed: Holstein
+Average milk production:                          80 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         35,248.06 tons per reporting period
+Total nitrogen from manure:                  460,005.87 /bs per reporting period       After ammonia losses (30% loss applied):        322,004.11 /bs per reporting period
+Total phosphorus from manure:              77,315.82 Ibs per reporting period
+Total potassium from manure:              247,085.66 /bs per reporting period
+Total salt from manure:                       615,703.50 /bs per reporting period
+Cc. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       13,981,500 gallons             10,001,000 gallons applied
+Total nitrogen generated:             224,253.28 Ibs           +      3,980,500 gallons exported
+Total phosphorus generated:           65,728.33 lbs           -               0 gallons imported
+Total potassium generated:            75,036.63 /bs           = 13,981,500 gallons generated
+Total salt generated:                   346,508.18 /bs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+IW 9                                                                                                                   Ground water
+MID Canal                                                                                                        Surface water
+
+Double B Dairy | 5817 E Worden AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+06/26/2025 09:58:05                                                                                                                                                                                  Page 2 of 60
+
+
+=== Page 61 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Double B Dairy | 5817 E Worden AVE | Merced, CA 95340 | Merced County | San Joaquin River Basin
+
+06/26/2025 09:58:05                                                                                                                                                       Page 1 of 1
+
+
+=== Page 62 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+SELLAVALLE
+
+LABORATORY
+
+Double B Dairy                                                    Account# 00-0022202                                         Received: 03/26/2024 11:21
+7248 Worden Avenue                                           Account Manager: Ben Nydam                               Reported: 04/04/2024 10:03
+Merced, CA 95341                                               Submitted By: Wes B.
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24C1063-01         Dom 1                                         Well Water                    Wes B                        Freshwater                      03/25/2024 6:00
+24C1063-02         Dom 5                                         Well Water                    Wes B                        Freshwater                      03/25/2024 6:05
+24C1063-03         Dom 10                                        Well Water                    Wes B                        Freshwater                      03/25/2024 6:30
+24C1063-04         Dom 11                                        Well Water                    Wes B                        Freshwater                      03/25/2024 6:42
+24C1063-05         Dom 12                                        Well Water                    Wes B                        Freshwater                      03/25/2024 6:48
+24C1063-06         Dom 13                                        Well Water                    Wes B                        Freshwater                      03/25/2024 7:18
+24C1063-07         Dom 1 Arboleda                                Well Water                     Wes B                         Freshwater                       03/25/2024 7:23
+24C1063-08        Dom North Kadota                           Well Water                   Wes B                        Freshwater                     03/25/2024 8:15
+24C1063-09         Dom South Kadota                            Well Water                    Wes B                        Freshwater                      03/25/2024 8:22
+24C1063-10         Ag Well 9 (DCW1)                             Well Water                    Wes B                        Freshwater                      03/25/2024 8:30
+Default Cooler            Temperature on Receipt °C: 2.1
+
+Containers Intact
+
+COC/Labels Agree
+
+Preservation Confirmed
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                Hold Time Exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 18
+
+
+=== Page 109 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Wes Bylsma
+
+Name of Dairy Facility: Double B Dairy
+Facility Address:
+
+5817 E Worden AVE                                            Merced                           Merced                        95340
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Wes Bylsma                                                               (209) 564-8218
+Name                                                                              Phone Number
+
+PROCESS WASTEWATER HAULER INFORMATION
+
+Name of Hauling Company/Person: Diamond J Farms
+
+Address of Hauling Company/Person:
+
+602 E Sandy Mush RD                                        Merced                           CA                            95341
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Jonkman Wiebren                                                                                           (209) 564-0870
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Ranch Road Farms                                                                                                  (209) 564-0870
+Name                                                                                                                                      Phone Number
+602 E Sandy Mush RD                                        Merced                           CA                            95341
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+602 E Sandy Mush RD                                        m                                 95341
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 08/02/2024
+
+
+=== Page 110 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+PROCESS WASTEWATER AMOUNT HAULED
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the amount:
+
+Process Wastewater:            3,980,500 gallons
+Method used to determine volume of process wastewater:
+
+Number of loads multiplied by tank volume
+
+WRITTEN AGREEMENT
+
+Does the Operator have a written agreement (in compliance with Land Application Specification C.2 of Waste Discharge
+Requirements General Order No. R5-2007-0035) with any party that receives process wastewater from the Operator for
+its own use?
+
+[X]YES [ ]NO
+
+If the answer is no, the Operator agrees to have such a written agreement with any such party for any process wastewater
+transferred after 31 December 2007 to such party.
+
+(Operator shall provide initials here to acknowledge this requirement)
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fine and.ingprisonment for knowing violations.
+
+Wes Bul sina.                                                          6/27/2025
+Opera aGhtattire                                                                    Dat
+
+per.        re                                                                      ate
+
+Wiebvenw Novia                                                             6/26/2025
+
+FREGD7FCOBAA7E_
+Hauler Signature                                                                                                                                            Date
+
+
+
+=== Page 111 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Wes Bylsma
+
+Name of Dairy Facility: Double B Dairy
+Facility Address:
+
+5817 E Worden AVE                                            Merced                           Merced                        95340
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Wes Bylsma                                                               (209) 847-3362
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Kenneth R Stones Spreading Service
+
+Address of Hauling Company/Person:
+
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Paul Stone                                                                                                         (209) 756-1491
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Kenneth R Stones Spreading Service                                                                                          (209) 756-1491
+Name                                                                                                                                      Phone Number
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+5175 W Shaw AVE                                                 Winton                              95388
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 03/21/2024
+
+
+=== Page 112 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:               602.00 tons
+Manure Solids Content:                   52.9 %
+
+Method used to determine amount of manure:
+
+Number of loads multiplied by load weight
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fi      adeingprisonment for knowing violations.
+
+Wes  Dulsma.                                                                                                         6/27/2025
+parses SngraRure                                                                                                                                                                                  Date
+Paul Stowe                                                                                                         6/26/2025
+Hauler Signature”  ~                                                                                                                                                                               Date
+
+
+
+=== Page 113 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Wes Bylsma
+
+Name of Dairy Facility: Double B Dairy
+Facility Address:
+
+5817 E Worden AVE                                            Merced                           Merced                        95340
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Wes Bylsma                                                               (209) 847-3362
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Kenneth R Stones Spreading Service
+
+Address of Hauling Company/Person:
+
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Paul Stone                                                                                                         (209) 756-1491
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Kenneth R Stones Spreading Service                                                                                          (209) 756-1491
+Name                                                                                                                                      Phone Number
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+5175 W Shaw AVE                                                 Winton                              95388
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 05/10/2024
+
+
+=== Page 114 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:             1,125.00 tons
+Manure Solids Content:                   52.9 %
+
+Method used to determine amount of manure:
+
+Number of loads multiplied by load weight
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fi      adeingprisonment for knowing violations.
+
+Wes  Dulsma.                                                                                                          6/27/2025
+
+Ser aROP ath:    re                                                                                                                                                                                  Date
+Paul Stowe                                                                                                           6/26/2025
+
+Nomen AFSEGDZECOSAAZE
+Hauler Signature                                                                                                                                            Date
+
+
+
+=== Page 115 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Wes Bylsma
+
+Name of Dairy Facility: Double B Dairy
+Facility Address:
+
+5817 E Worden AVE                                            Merced                           Merced                        95340
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Wes Bylsma                                                               (209) 847-3362
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Kenneth R Stones Spreading Service
+
+Address of Hauling Company/Person:
+
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Paul Stone                                                                                                         (209) 756-1491
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Kenneth R Stones Spreading Service                                                                                          (209) 756-1491
+Name                                                                                                                                      Phone Number
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+5175 W Shaw AVE                                                 Winton                              95388
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 08/20/2024
+
+
+=== Page 116 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:               430.00 tons
+Manure Solids Content:                   23.6 %
+
+Method used to determine amount of manure:
+
+Number of loads multiplied by load weight
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fi      adeingprisonment for knowing violations.
+
+Wes Bylsma                                                          6/27/2025
+
+peretor anature                                                                                                                                                                                  Date
+Paul Stour                                                                                                          6/26/2025
+
+Hauler Signature                                                                                                                                            Date
+
+
+=== Page 117 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+INSTRUCTIONS
+
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for several days, as long as the
+manure is being hauled to the same destination.
+
+2) Ifthere are multiple destinations, complete a separate form for each destination.
+3) The operator must obtain the signature of the hauler upon completion of each manure/process wastewater hauling event.
+
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual Monitoring Report for
+Existing Milk Cow Dairies.
+
+OPERATOR INFORMATION
+
+Name of Operator: Wes Bylsma
+
+Name of Dairy Facility: Double B Dairy
+Facility Address:
+
+5817 E Worden AVE                                            Merced                           Merced                        95340
+
+Number and Street                                                   City                                  County                           Zip Code
+
+Contact Person Name and Phone Number: Wes Bylsma                                                               (209) 847-3362
+Name                                                                              Phone Number
+
+MANURE HAULER INFORMATION
+
+Name of Hauling Company/Person: Kenneth R Stones Spreading Service
+
+Address of Hauling Company/Person:
+
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Number and Street                                                   City                                  State                             Zip Code
+
+Contact Person: Paul Stone                                                                                                         (209) 756-1491
+Name                                                                                                                Phone Number
+
+DESTINATION INFORMATION
+
+Composting Facility / Broker / Farmer / Other (identify): © Farmer
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above):
+
+Kenneth R Stones Spreading Service                                                                                          (209) 756-1491
+Name                                                                                                                                      Phone Number
+5175 W Shaw AVE                                                 Winton                              CA                               95388
+
+Address                                                                 City                                   State                              Zip Code
+
+Destination Address or Assessor's Parcel Number:
+
+5175 W Shaw AVE                                                 Winton                              95388
+Address                                                                 City                                   Zip Code
+
+Merced
+Street and nearest cross street (if no address)                                                                 County
+Assessor's Parcel Number                 Assessor's Parcel Number County
+
+Last date hauled: 10/18/2024
+
+
+=== Page 118 ===
+Docusign Envelope ID: 4CD2B645-95AE-4858-815C-EC844357048B
+
+Manure / Process Wastewater Tracking Manifest
+For
+
+Existing Milk Cow Dairies
+General Order No. R5-2007-0035, Attachment D
+
+MANURE AMOUNT HAULED
+
+Enter the amount of manure hauled in tons, manure solids content, and the method used to calculate the amount:
+
+Manure:               449.00 tons
+Manure Solids Content:                   23.6 %
+
+Method used to determine amount of manure:
+
+Number of loads multiplied by load weight
+
+CERTIFICATION
+
+| declare under penalty of law that | personally examined and am familiar with the information submitted in this document, and that
+based on my inquiry of those individuals immediately responsible for obtaining the information, | believe that the information is true ,
+accurate, and complete. | am aware that there are significant penalties for submitting false information, including the possibility of a
+fi      adeingprisonment for knowing violations.
+
+(Nes Dulsma.                                                          6/27/2025
+ABA
+
+Bera Ditire                                               Date
+
+Paul Stour                                                                 6/26/2025
+
+Nemes AEREGDZECOBAAZE
+Hauler Signature                                                                                                                                            Date
+

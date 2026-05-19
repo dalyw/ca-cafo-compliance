@@ -1,0 +1,163 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Live Oak Dairy
+
+Physical address of dairy:
+
+21052 Johnson AVE                                                                                                 Hilmar                             Merced                         95324
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1950
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+0045-0100-0011-0000
+
+B. OPERATORS
+
+Nyman, Brad
+Operator name: Nyman, Brad                                                                                             Telephone no.:                     (209) 495-8821
+Landline              Cellular
+P.O. Box 1331                                                                                               Hilmar                         CA             95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Bettencourt, Gloria
+Legal owner name: Bettencourt, Gloria                                                                                      Telephone no.:                      (209) 495-8821
+Landline              Cellular
+19664 Crane AVE                                                                                                                       Hilmar                                CA                 95324
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+Live Oak Dairy | 21052 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+06/05/2025 09:36:30                                                                                                                                                              Page 1 of 24
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                      50                      50                       0                       0                       0
+Number under roof                                    425                         0                         0                         0                         0                         0
+Maximum number                            425                  50                  50                   0                   0                   0
+Average number                                 425                    50                    50                     0                     0                     0
+Avg live weight (Ibs)                           1,000                1,000                  725                     0
+Predominant milk cow breed: Jersey
+Average milk production:                          50 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         11,046.11 fons per reporting period
+Total nitrogen from manure:                 143,756.41 Ibs per reporting period      After ammonia losses (30% loss applied):       100,629.49 /bs per reporting period
+Total phosphorus from manure:               23,804.89 /bs per reporting period
+Total potassium from manure:               76,014.61 /bs per reporting period
+Total salt from manure:                       212,188.50 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:         9,072,000 gallons               9,072,000 gallons applied
+Total nitrogen generated:               41,429.52 lbs           +               0 gallons exported
+Total phosphorus generated:            3,677.14 /bs           -               0 gallons imported
+Total potassium generated:            52,640.99 /bs           =      9,072,000 gallons generated
+Total salt generated:                   512,852.99 Ibs
+
+D. FRESH WATER SOURCES
+
+Source Description                                                                                  Type
+IW                                                                                                                  Ground water
+TID Lateral 5.5                                                                                     Surface water
+
+Live Oak Dairy | 21052 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+06/05/2025 09:36:30                                                                                                                                                                                  Page 2 of 24
+
+
+=== Page 25 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Live Oak Dairy | 21052 Johnson AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+06/05/2025 09:36:30                                                                                                                                                       Page 1 of 1
+
+
+=== Page 26 ===
+Denele Analytical, Inc.
+
+Me                601 North Tully Road Turlock, CA 95380                   40 N. East Street, Woodland, CA 95776
+      Phone (209) 634-9055 - Fax (209) 634-9057               Phone (530) 666-9056 - Fax (530) 666-9058
+
+AY        www.denelelabs.com
+
+Compliance Analysis Report
+
+Customer                                                Grower                                                   Consultant:
+
+Live Oak Dairy A                                                                                                         F &RAg Services
+P.O. Box 1331                                                                                                     2857 Geer Rd. Ste A
+Hilmar, CA 95324                                                                                                        Turlock, CA 95382
+PURCHASE ORDER:                                                            Irrigation / Ground Water (H7)
+
+RECEIVED DATE: = 9/13/24 4:20 PM                                    SOURCE: Well Water
+
+SUBMITTED BY:      Brad
+ANALYZED DATE: = 9/1/24
+
+Sample ID         Lab ID         Analyte                           Method Ref          Result
+
+T4257074B        Electrical Conductivity (EC)               EPA 120.1 and              1.28           mmhos/cm
+Ammonia Nitrogen (NH3-N)               SM 4500-NH3 D,C         < 0.500              mg/L
+Nitrate Nitrogen (NO3-N)                     EPA 353.2                       49.1                  mg/L
+Total Dissolved Solids (TDS)               SM 2540 C-1997 and         690                 mg/L
+Total Nitrogen (TN)                         SM 4500-NH3 D,C           51.9               mg/L
+Soluble Salts (SALT-SOL)                    Calculation                        818                   mg/L
+
+Laboratory Quality Control        LCS %        MS %          MSD %      Sample mg/L     Dup mg/L       RPD %
+
+Ammonia Nitrogen (NH3-N)                               92.8 (T4267027B) 94.6 (T4267027B)
+Electrical Conductivity (EC)                                                                        0.626 (T4267026A)      0.616 (Dup)
+Nitrate Nitrogen (NO3-N)                                   97.3 (T4282007A) 97.6 (T4282007A)
+Total Dissolved Solids (TDS)                                                                       360 (T4262043C)        375 (Dup)
+Total Nitrogen (TN)                                                                                 2.80 (T4267040B)        2.80 (null)
+
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+
+Denele Analytical | Page 2

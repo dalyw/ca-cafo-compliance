@@ -1,0 +1,264 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+A & C Vieira Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95695
+Yolo
+Woodland
+31503 County Road 26
+Sacramento River Basin
+Regional Water Quality Control Board Basin Plan designation:
+12/27/1999
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0050-0011-0003-0000
+B.
+Vieira, Angelo
+Operator name: Vieira, Angelo
+Telephone no.:
+Landline
+Cellular
+(209) 678-2679
+8345 Olive School LN
+Winters
+CA
+95694
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Kasbergen, Jack
+Legal owner name: Kasbergen, Jack
+Telephone no.:
+Landline
+Cellular
+(530) 400-7019
+95695
+Zip Code
+State
+City
+Mailing Address Number and Street
+31870 County Road 27
+Woodland
+CA
+C. OWNERS
+06/29/2025 14:11:00
+Page 1 of 27
+A & C Vieira Dairy | 31503 County Road 26 | Woodland, CA 95695 | Yolo County | Sacramento River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+1,220
+1,220
+1,100
+200
+200
+1,200
+400
+400
+400
+0
+0
+0
+0
+0
+350
+350
+Predominant milk cow breed: Jersey-Holstein Cross
+Average milk production:
+66 pounds per cow per day
+Average number
+1,220
+200
+400
+0
+0
+350
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+38,150.85
+495,374.04
+80,619.09
+231,066.43
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+346,761.83 lbs per reporting period
+Total salt from manure:
+622,126.80 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+31,336.49
+1,996.51
+95,051.14
+434,023.45
+5,201,000
+lbs
+lbs
+lbs
+gallons
+0
+0
+5,201,000
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+5,201,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+Yolo County Flood Control and Water Conservation District
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+06/29/2025 14:11:00
+Page 2 of 27
+A & C Vieira Dairy | 31503 County Road 26 | Woodland, CA 95695 | Yolo County | Sacramento River Basin
+
+
+=== Page 28 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/29/2025 14:11:00
+Page 1 of 1
+A & C Vieira Dairy | 31503 County Road 26 | Woodland, CA 95695 | Yolo County | Sacramento River Basin
+
+
+=== Page 29 ===
+Customer
+A & C Vieira Dairy
+8345 Olive School Ln.
+Winters, CA 95694
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+1/5/24 10:02 AM
+SUBMITTED BY:
+Paul
+ANALYZED DATE:
+1/9/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Clear Water
+Compliance Analysis Report
+Paul Sousa
+Consultant:
+NOTES: Temperature above qualifying at 18.9 C
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.842
+mmhos/cm
+T4008001A
+Well
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+< 0.140
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+539
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+97.0 (T4003004A)
+96.4 (T4003004A)
+0.619
+99.8
+Electrical Conductivity (EC)
+2.69
+94.9
+Nitrate Nitrogen (NO3-N)
+102 (T4003010A)
+104 (T4003010A)
+2.24
+103
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.

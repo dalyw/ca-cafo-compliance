@@ -1,0 +1,293 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Hoppy Cows
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+93631
+Tulare
+Kingsburg
+7435 Avenue 360
+Tulare Basin
+Regional Water Quality Control Board Basin Plan designation:
+05/01/1981
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X045-X070-X018-XXXX
+X045-X070-X019-XXXX
+X048-X010-X011-XXXX
+B.
+Leyendekker, Justin
+Operator name: Leyendekker, Justin
+Telephone no.:
+Landline
+Cellular
+(559) 397-5354
+8715 Avenue 368
+Dinuba
+CA
+93618
+Mailing Address Number and Street
+City
+State
+Zip Code
+OPERATORS
+Leyendekker, Edward
+Legal owner name: Leyendekker, Edward
+Telephone no.:
+Landline
+Cellular
+(559) 804-0950
+93618
+Zip Code
+State
+City
+Mailing Address Number and Street
+8715 Avenye 368
+Dinuba
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/06/2025 10:54:11
+Page 1 of 67
+Hoppy Cows | 7435 Avenue 360 | Kingsburg, CA 93631 | Tulare County | Tulare Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+1,560
+265
+255
+225
+110
+0
+0
+1,575
+1,400
+0
+275
+1,450
+0
+265
+1,100
+0
+245
+775
+0
+125
+0
+0
+Predominant milk cow breed: Holstein
+Average milk production:
+72 pounds per cow per day
+Average number
+1,560
+265
+255
+225
+110
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+49,708.95
+629,235.19
+104,228.63
+301,628.35
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+440,464.63 lbs per reporting period
+Total salt from manure:
+797,642.10 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+134,229.04
+33,950.74
+230,655.67
+1,429,205.98
+67,517,489
+lbs
+lbs
+lbs
+gallons
+67,517,489
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+67,517,489
+D. FRESH WATER SOURCES
+Source Description
+Type
+Alta ID
+Surface water
+DW#14
+Ground water
+DW#2
+Ground water
+DW#4
+Ground water
+IW Lagoon
+Ground water
+06/06/2025 10:54:11
+Page 2 of 67
+Hoppy Cows | 7435 Avenue 360 | Kingsburg, CA 93631 | Tulare County | Tulare Basin
+
+
+=== Page 68 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/06/2025 10:54:11
+Page 1 of 1
+Hoppy Cows | 7435 Avenue 360 | Kingsburg, CA 93631 | Tulare County | Tulare Basin
+
+
+=== Page 69 ===
+Section: Case Narrative
+Section: Case Narrative
+This Page is to be Stamped
+August 23, 2024
+Sentry Ag Services
+Attn: Monique Baldivez
+P.O. Box 7750
+Visalia, CA 93290
+Lab No.
+: VI 2446279
+Customer No.
+: 4019696
+Reference
+: 4025
+Laboratory Report
+Introduction: This report package contains a total of 3 pages divided into 3 sections:
+Case Narrative
+(1 page)
+: An overview of the work performed at FGL.
+Sample Results
+(1 page)
+: Results for each sample submitted.
+Quality Control
+(1 page)
+: Supporting Quality Control (QC) results.
+Case Narrative
+This Case Narrative pertains to the following samples:
+Sample Description
+Date Sampled
+Date Received
+FGL Lab No.
+Matrix
+Ditch Water
+08/06/2024
+08/06/2024
+VI 2446279-001
+AGW
+Sampling and Receipt Information: The Sample was performed by FGL.
+The Sample was received, prepared and analyzed within the method specified holding times. All samples arrived on ice.
+All samples were checked for pH if acid or base preservation is required (except for VOAs). For details of sample receipt
+information, please see the associated Chain of Custody and Condition Upon Receipt Form.
+Quality Control: All samples were prepared and analyzed according to established quality control criteria. Any exceptions are noted
+in the Quality Control Section of this report.
+Test Summary
+EPA 351.2
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 2540 C
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-H+B
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+SM 4500-NO3 F
+Preparation and analysis performed by FGL-Santa Paula (FGL-SP ELAP# 1573)
+Certification: I certify that this data package is in compliance with ELAP standards, both technically and for
+completeness, except for any conditions listed above and in the QC Section. Release of the data contained in this data
+package is authorized by the Laboratory Director or his designee, as verified by the following electronic signature. This
+report shall not be reproduced except in full, without the written approval of the laboratory.
+KD: JRD 46 Digitial Signature Stamp Y = 8.6112
+Page 1 of 3
+Corporate Offices & Laboratory
+853 Corporation Street
+Santa Paula, CA 93060
+TEL: (805)392-2000
+CA ELAP Certification No. 1573
+Office & Laboratory
+2500 Stagecoach Road
+Stockton, CA 95215 
+TEL: (209)942-0182 
+CA ELAP Certification No. 1563
+Office & Laboratory
+563 E. Lindo Avenue
+Chico, CA 95926
+TEL: (530)343-5818
+CA ELAP Certification No. 2670
+Office & Laboratory
+9411 W. Goshen Avenue 
+Visalia, CA 93291
+TEL: (559)734-9473
+CA ELAP Certification No. 2810
+Office & Laboratory
+3442 Empresa Drive, Suite D 
+San Luis Obispo, CA 93401 
+TEL: (805)783-2940
+CA ELAP Certification No. 2775
+ENVIRONMENTAL          AGRICULTURAL
+Analytical Chemists
+ 
+Approved By  Kelly A. Dunnahoo, B.S. 
+Digitally signed by Kelly A. Dunnahoo, B.S.
+Title: Laboratory Director
+Date: 2024-08-23
+Page 1 of 3

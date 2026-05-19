@@ -1,0 +1,160 @@
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: M and A Dairy
+
+Physical address of dairy:
+
+14651 S Carlucci RD                                                                                        Dos Palos                       Merced                       93620
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1930
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X085-X032-X007-XXXX = X085-X032-X013-XXXX
+
+B. OPERATORS
+
+Goncalves, Manuel or Anthony
+
+Operator name: Goncalves, Manuel or Anthony                                                                   Telephone no.: (209) 387-4313 (209) 769-4336
+Landline             Cellular
+
+14651 Carlucci RD                                                                                             Dos Palos                      CA              93620
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This operator is responsible for paying permit fees.
+
+C. OWNERS
+
+Goncalves, Manuel or Anthony
+
+Legal owner name: Goncalves, Manuel or Anthony                                                                Telephone no.: (209) 387-4313 (209) 769-4336
+Landline             Cellular
+
+14651 Carlucci RD                                                                                             Dos Palos                      CA              93620
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+M and A Dairy | 14651 S Carlucci RD | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+07/09/2025 15:04:41                                                                                                                                              Page 1 of 90
+
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                        442                      80                    148                    279                       0                       0
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                            442                  80                 148                279                   0                   0
+Average number                                 442                    80                   148                  279                     0                     0
+Avg live weight (Ibs)                           1,400                1,500                1,100                  775
+Predominant milk cow breed: Holstein
+Average milk production:                          71 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:         16,927.38 tons per reporting period
+Total nitrogen from manure:                 204,597.55 /bs per reporting period      After ammonia losses (30% loss applied):       143,218.29 lbs per reporting period
+Total phosphorus from manure:              34,098.50 /bs per reporting period
+Total potassium from manure:               85,170.18 /bs per reporting period
+Total salt from manure:                       227,132.28 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:       16,824,000 gallons             16,824,000 gallons applied
+Total nitrogen generated:               62,530.46 /bs           +               0 gallons exported
+Total phosphorus generated:           16,579.82 Ibs           -               0 gallons imported
+Total potassium generated:            73,733.48 lbs           = 16,824,000 gallons generated
+Total salt generated:                  501,020.45 /bs
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+Canal                                                                                                                      Surface water
+Domestic Well                                                                                                       Ground water
+
+M and A Dairy | 14651 S Carlucci RD | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+07/09/2025 15:04:41                                                                                                                                                                                  Page 2 of 90
+
+
+=== Page 92 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+M and A Dairy | 14651 S Carlucci RD | Dos Palos, CA 93620 | Merced County | San Joaquin River Basin
+
+07/09/2025 15:04:41                                                                                                                                                   Page 1 of 1
+
+
+=== Page 93 ===
+SELLAVALLE’               Report of Dairy Well Water Analysis
+
+LABORATORY ING                                      Lab No.: 24J1379
+Sampled By: M Pedroso
+M & A Dairy #1                                                                                                                         Requested By: Aurelia Goncalves
+14720 Carlucci Rd                                                                                                Sampled Date: 10/22/24
+Dos Palos, CA 93620                                                                                             Submitted Date: 10/23/24
+00-0021357               14                                                                        Reported Date: 10/25/24
+Location/Project:
+E-mail: aurelia.goncalves1 @gmail.com                                                             Crop ID:
+
+Copy To: cas.labs@ yahoo.com
+
+Date  Time                     Field    Total    pH
+
+No. Description             Sampled Sampled   EC      EC     NO,-N    NH,-N    NH,-N    at 25°C
+umhos/cm  mmhos/cm   mg/L    mg/L    mg/L    unit
+
+01 DW-Shop        10/22/24 13:10  1090   1.09   ND    *        7.2
+02 DW-MB          10/22/24 13:10  1090   1.09    ND    *         8.1
+
+* = Field NH,-N not Taken.
+ND = None Detected
+
+Approved By:     Ax M G illanel
+
+Laboratory Director\Technical Manager
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+Dellavalle Laboratory, Inc - 1910 W McKinley #110 - Fresno CA 93728 - (559) 233-6129 - (800) 228-9896 - www.dellavallelab.com See Attached for Analysis Documentation Page 1 of 2

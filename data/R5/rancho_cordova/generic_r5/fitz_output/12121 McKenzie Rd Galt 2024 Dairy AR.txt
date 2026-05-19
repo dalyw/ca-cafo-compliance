@@ -1,0 +1,295 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Van Warmerdam Dairy Inc.
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95632
+Sacramento
+Galt
+12121 McKenzie RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+10/01/1969
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X148-0020-X006-0000
+X148-0020-X028-0000
+X148-0020-X030-0000
+B.
+Van Warmerdam, Dairy, Inc.
+Operator name: Van Warmerdam, Dairy, Inc.
+Telephone no.:
+Landline
+Cellular
+(209) 745-1142
+12121 McKenzie RD
+Galt
+CA
+95632
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Van Warmerdam, Family Trust
+Legal owner name: Van Warmerdam, Family Trust
+Telephone no.:
+Landline
+Cellular
+(209) 745-1142
+95632
+Zip Code
+State
+City
+Mailing Address Number and Street
+12121 McKenzie RD
+Galt
+CA
+C. OWNERS
+06/02/2025 08:48:54
+Page 1 of 226
+Van Warmerdam Dairy Inc. | 12121 McKenzie RD | Galt, CA 95632 | Sacramento County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+345
+305
+175
+0
+850
+850
+1,400
+150
+150
+1,450
+0
+345
+1,000
+0
+305
+700
+0
+175
+175
+175
+Predominant milk cow breed: Holstein
+Average milk production:
+79 pounds per cow per day
+Average number
+850
+150
+345
+305
+175
+175
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+32,695.84
+404,862.89
+65,916.89
+168,268.64
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+283,404.02 lbs per reporting period
+Total salt from manure:
+435,906.00 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+165,726.51
+12,344.33
+139,351.13
+1,379,862.86
+31,792,500
+lbs
+lbs
+lbs
+gallons
+31,792,500
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+31,792,500
+D. FRESH WATER SOURCES
+Source Description
+Type
+Badger Creek
+Ground water
+IW 1
+Ground water
+IW 16
+Ground water
+IW 19
+Ground water
+IW 23
+Ground water
+06/02/2025 08:48:54
+Page 2 of 226
+Van Warmerdam Dairy Inc. | 12121 McKenzie RD | Galt, CA 95632 | Sacramento County | San Joaquin River Basin
+
+
+=== Page 227 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/02/2025 08:48:54
+Page 1 of 1
+Van Warmerdam Dairy Inc. | 12121 McKenzie RD | Galt, CA 95632 | Sacramento County | San Joaquin River Basin
+
+
+=== Page 228 ===
+Customer
+Van Warmerdam Dairy
+12121 McKenzie Road
+Galt, CA 95632
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+9/24/24 3:00 PM
+SUBMITTED BY:
+Jeanette
+ANALYZED DATE:
+9/1/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation / Ground Water (H7)
+SOURCE: Irrigation Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.233
+mmhos/cm
+T4268062A
+IW Mckenize
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+< 0.140
+mg/L
+Total Dissolved Solids (TDS)
+SM 2540 C-1997 and
+70.0
+mg/L
+Total Nitrogen (TN)
+SM 4500-NH3 D,C
+< 1.50
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+149
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Sample mg/L
+Dup mg/L
+Ammonia Nitrogen (NH3-N)
+91.0 (T4267024I)
+94.0 (T4267024I)
+3.24
+99.0
+Electrical Conductivity (EC)
+0.211
+91.6
+0.380 (T4260033A)
+0.380 (Dup)
+Nitrate Nitrogen (NO3-N)
+104 (null)
+102 (null)
+2.22
+101
+Total Dissolved Solids (TDS)
+4.08
+98.0
+360 (T4262043C)
+375 (Dup)
+Total Nitrogen (TN)
+96.9
+0.000 (T4262043B)
+0.000 (null)
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

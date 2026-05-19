@@ -1,0 +1,165 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: _ Silva Brothers Dairy #2
+
+Physical address of dairy:
+
+25723 N Elliott RD                                                                                           Galt                             San Joaquin                 95632
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1950
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X007-X130-XX20-XXXX
+
+B. OPERATORS
+
+Silva, Joe
+Operator name: Silva, Joe                                                                                                                Telephone no.: (209) 334-2914 (209) 607-7197
+Landline              Cellular
+12997 E Peltier RD                                                                                                 Acampo                         CA              95220
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+This operator is responsible for paying permit fees.
+C. OWNERS
+Rausser, Gary
+Legal owner name: Rausser, Gary                                                                                        Telephone no.: (209) 368-0654
+Landline              Cellular
+12000 E Liberty RD                                                                                                 Galt                             CA              95632
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+Silva Brothers Dairy #2 | 25723 N Elliott RD | Galt, CA 95632 | San Joaquin County | San Joaquin River Basin
+
+06/01/2025 08:55:26                                                                                                                                                              Page 1 of 48
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                       0                       0
+Number under roof                                    174                       15                         0                         0                         0                         0
+Maximum number                             175                  15                   0                   0                   0                   0
+Average number                                  174                    15                     0                     0                     0                     0
+Avg live weight (Ibs)                           1,300                1,350                     0                     0
+Predominant milk cow breed: Jersey-Holstein Cross
+Average milk production:                          65 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:          4,586.30 tons per reporting period
+Total nitrogen from manure:                  59,922.38 Ibs per reporting period      After ammonia losses (30% loss applied):         41,945.67 Ibs per reporting period
+Total phosphorus from manure:               10,022.61 Ibs per reporting period
+Total potassium from manure:               32,840.74 /bs per reporting period
+Total salt from manure:                         85,611.06 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:        4,219,100 gallons              4,219,100 gallons applied
+Total nitrogen generated:               16,584.70 /bs           +               0 gallons exported
+Total phosphorus generated:            2,645.05 /bs           -               0 gallons imported
+Total potassium generated:            23,877.25 lbs           =      4,219,100 gallons generated
+Total salt generated:                   167,376.57 Ibs
+
+D. FRESH WATER SOURCES
+Source Description                                                                                  Type
+
+IW 1                                                                                                  Ground water
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+Silva Brothers Dairy #2 | 25723 N Elliott RD | Galt, CA 95632 | San Joaquin County | San Joaquin River Basin
+
+06/01/2025 08:55:26                                                                                                                                                                                  Page 2 of 48
+
+
+=== Page 49 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Silva Brothers Dairy #2 | 25723 N Elliott RD | Galt, CA 95632 | San Joaquin County | San Joaquin River Basin
+
+06/01/2025 08:55:26                                                                                                                                                       Page 1 of 1
+
+
+=== Page 50 ===
+DENELE ANALYTICAL, INC.
+
+Tee                                      TURLOCK, CA 95380
+;                                            PH# 209-634-9055 FAX# 209-634-9057                             Authorized Copy Released To:
+
+Client:                   S
+Mailing address:
+(not facility address)                                                              /
+
+Sampled By:
+Phone#:                                                                                         Project ID:
+ANALYSIS TO BE COMPLETED:
+
+IRRIGATION/GROUND WATER                     DISCHARGE WATER                                                                                   SOIL
+H1 EC*, NO3-N, NH4-N*                                    Et EC*, Temp*, pH*, NO3-N, NH4-N, TKN, TP, K, TDS, Dissolved Oxygen’,                    K3 Soluble Phosphorus
+H6 EC, TN, TOS                                                   BOD 5, TSS, Total & Fecal Coliforms                                                 :               K4 1ft NO3, Organic Matter
+H7 Combination of H1 & H6                               E2 EC,* Temp*, pH*, NO3-N, NH4-N*, Turbidity, TP, Dissolved Oxygen’,                        K5 Pre-Plant (2ft NO3), Fall (1-2f NO3), Fall (2-3ft NO3)
+H14 EC, NO3-N, NH4-N, Ca, Mg, Na, Bicarb               Total & Fecal Coliforms                                                                              K6 0-1ft EC, NO3, Soluble P, K, Organic Matter
+
+Carb, $O4, Cl, TDS                                     E3 EC*, Temp*, pH*, NO3-N, NH4-N*, TP, Total & Fecal Coliforms                               . K7 Combination of K3 & K4
+PROCESS WASTE WATER                           E4 EC‘, Temp‘, pH*, NO3-N, NH4-N‘, Turbidity, TP, Total & Fecal Coliform                                 K8 Combination of K3 & K5
+H3 EC*, NH4-N, TKN, TP, K, TDS                 MANURE
+H4 EC*, NO3-N, NH4-N, TKN, TP, K, TDS              M1 % Moisture
+H5 Ca, Mg, Na, Bicarb, Carb, SO4, Cl              M3 TN TP, K, % Moisture
+H8 Combination of H3 &H5                             M4 Ca, Mg, Na, Bicarb, Carb, SO4, Cl, Ash
+H9 Combination of H4 &H5                                  M7 Combination of M3 & M4                                                                                                                                                                                 te
+TILE DRAIN                                              PLANT TISSUE                                                                                                                                                                        J
+H2 EC’, NO3-N, TP, NH4-N*, TDS                       F18 % Moisture, Ash, TN, P, K, DM and as received                                                                                                                                     5
+* Required Fleld Measurement                                 F18+ % Moisture, Ash, TN, P, K, DM and as received
+____ (Check here If performed)                                        (Package also includes NIR DCAD)
+
+Date                Time                        F19+ % Moisture, TN (Package includes complete plant tissue analysis)
+pcteg          Collected                                   le ID                            Description              Te                  Well Purge
+()
+
+CHAIN OF CUSTODY RECORDING |
+Signature                       Company                   Received Date & Time         Relinquished Date & Time                 LABORATORY USE ONLY)
+
+ed                                                                                  (/
+
+itted to any agency? (YES / NO)
+

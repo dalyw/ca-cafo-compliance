@@ -1,0 +1,414 @@
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035 
+                                                             Reporting period 01/01/2024 to 12/31/2024. 
+
+                                                                     AVAILABLE NUTRIENTS 
+
+A. HERD INFORMATION 
+
+                                                                        Bred Heifers     Heifers (7-14          Calves           Calves 
+                                      Milk Cows          Dry Cows       (15-24 mo.)   mo. to breeding)        (4-6 mo.)         (0-3 mo.) 
+   Number open confinement                 1,202              115                 0                0                 0                 0 
+   Number under roof                           0                0                 0                0                 0                 0 
+   Maximum number                          1,202              115                 0                0                 0                 0 
+   Average number                          1,201              115                 0                0                 0                 0 
+   Avg live weight (lbs)                   1,400            1,500                 0                0 
+
+   Predominant milk cow breed: Holstein 
+   Average milk production:              61 pounds per cow per day 
+
+B. MANURE GENERATED 
+
+   Total manure excreted by the herd:    31,320.02 tons per reporting period 
+   Total nitrogen from manure:         408,308.62 lbs per reporting period After ammonia losses (30% loss applied):   285,816.03 lbs per reporting period 
+   Total phosphorus from manure:         68,096.88 lbs per reporting period 
+   Total potassium from manure:         223,511.76 lbs per reporting period 
+   Total salt from manure:             593,556.84 lbs per reporting period 
+
+C. PROCESS WASTEWATER GENERATED 
+
+   Process wastewater generated:    21,710,000 gallons          21,710,000 gallons applied 
+   Total nitrogen generated:          46,113.72 lbs        +             0 gallons exported 
+   Total phosphorus generated:        8,305.26 lbs         -             0 gallons imported 
+   Total potassium generated:        54,870.84 lbs         =    21,710,000 gallons generated 
+   Total salt generated:            284,192.61 lbs 
+
+D. FRESH WATER SOURCES 
+
+   Source Description                                                          Type 
+   Domestic Well - 56-WD-1                                                     Ground water 
+   Domestic Well - 56-WD-2                                                     Ground water 
+   Irrigation Water - Surface Water                                            Surface water 
+
+                                     Fagundes Bros. Dairy #1 | 2510 Turlock RD | Snelling, CA 95369 | Merced County | San Joaquin River Basin 
+
+06/06/2025 15:31:33                                                                                                                                   Page 2 of 47
+
+=== Page 3 ===
+Annual Report - General Order No. R5-2007-0035 
+                                                                Reporting period 01/01/2024 to 12/31/2024. 
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES 
+
+  No subsurface (tile) drainage sources entered. 
+
+F. NUTRIENT IMPORTS 
+
+  No dry manure nutrient imports entered. 
+
+  No process wastewater nutrient imports entered. 
+
+  No commercial or other nutrient imports entered. 
+
+G. NUTRIENT EXPORTS 
+
+       Date     Material type                          Quantity Reporting basis Moisture (%) Density (Ibs/cu ft) N (mg/kg)   P (mg/kg)   K (mg/kg) Salt (mg/kg)    TFS (%) 
+    05/15/2024 Corral solids                    6,200.00 ton   Dry-weight              74.1                     24,800.00     6,300.00   15,400.00                    0.00 
+
+  No liquid nutrient exports entered. 
+
+   Material type                         Total N (Ibs)    Total P (lbs)    Total K (Ibs) Total salt (Ibs) 
+   Dry manure                              79,647.68        20,233.08       49,458.64             0.00 
+   Process wastewater                           0.00            0.00             0.00             0.00 
+   Total exports for all materials         79,647.68        20,233.08       49,458.64             0.00 
+
+                                       Fagundes Bros. Dairy #1 | 2510 Turlock RD | Snelling, CA 95369 | Merced County | San Joaquin River Basin 
+
+06/06/2025 15:31:33                                                                                                                                            Page 3 of 47
+
+=== Page 36 ===
+Annual Report - General Order No. R5-2007-0035 
+                                                             Reporting period 01/01/2024 to 12/31/2024. 
+
+   Domestic Well - 56-WD-1 
+
+      56-WD-1 
+
+        Sample description: 56-WD-1 
+        Sample date: 07/18/2024    Source of analysis: Lab analysis 
+
+                    Total N    NH4-N    Nitrate-N   Calcium Magnesium       Sodium    Bicarbonate   Carbonate     Sulfate   Chloride        EC        TDS 
+                    (mg/L)     (mg/L)     (mg/L)      (mg/L)     (mg/L)      (mg/L)       (mg/L)       (mg/L)     (mg/L)     (mg/L) (umhos/cm)      (mg/L) 
+         Value        1.80       0.00       1.80                                                                                         105.00         0 
+         DL           0.10       0.10       0.10                                                                                          10.00        10 
+
+   Domestic Well - 56-WD-2 
+
+      56-WD-2 
+
+        Sample description: 56-WD-2 
+        Sample date: 07/18/2024    Source of analysis: Lab analysis 
+
+                    Total N    NH4-N    Nitrate-N   Calcium Magnesium       Sodium    Bicarbonate   Carbonate     Sulfate   Chloride        EC        TDS 
+                    (mg/L)     (mg/L)      (mg/L)     (mg/L)     (mg/L)      (mg/L)       (mg/L)       (mg/L)     (mg/L)     (mg/L) (umhos/cm)      (mg/L) 
+        Value         1.80       0.00       1.80                                                                                         105.00         0 
+         DL           0.10       0.10       0.10                                                                                          10.00        10 
+
+   Irrigation Water - Surface Water 
+
+      Surface Water 
+
+        Sample description: Surface Water 
+        Sample date: 07/22/2024    Source of analysis: Lab analysis 
+
+                    Total N    NH4-N    Nitrate-N   Calcium Magnesium       Sodium    Bicarbonate   Carbonate     Sulfate   Chloride        EC        TDS 
+                    (mg/L)     (mg/L)     (mg/L)     (mg/L)      (mg/L)      (mg/L)       (mg/L)       (mg/L)     (mg/L)     (mg/L) (umhos/cm)      (mg/L) 
+         Value        0.20       0.00       0.20                                                                                          38.80        26 
+         DL           0.10       0.10       0.10                                                                                          10.00        10 
+
+D. SOIL ANALYSES 
+
+                                     Fagundes Bros. Dairy #1 | 2510 Turlock RD | Snelling, CA 95369 | Merced County | San Joaquin River Basin 
+
+06/06/2025 15:31:33                                                                                                                                  Page 36 of 47
+
+=== Page 37 ===
+Annual Report - General Order No. R5-2007-0035 
+                                                                 Reporting period 01/01/2024 to 12/31/2024. 
+
+   No soil analyses entered. 
+
+E. PLANT TISSUE ANALYSES 
+
+    1 - 11/12/2023: Oats, silage-soft dough 
+
+       1 
+
+         Sample and source description: 1 
+         Sample date: 04/22/2024     Source of analysis: Lab analysis              Method of reporting: Dry-weight 
+         Moisture:           78.1 % 
+
+                   Total N (mg/kg) Total P (mg/kg)   Total K (mg/kg) Total salt (mg/kg)     TFS (%) 
+          Value         19,000.00         3,800.00       25,000.00                              8.60 
+          DL                10.00            10.00           10.00                              0.01 
+
+    1 - 06/11/2024: Sudangrass, silage 
+
+       1 
+
+         Sample and source description: 1 
+         Sample date: 08/15/2024      Source of analysis: Lab analysis             Method of reporting: Dry-weight 
+         Moisture:           82.7 % 
+
+                    Total N (mg/kg) Total P (mg/kg) Total K (mg/kg) Total salt (mg/kg)      TFS (%) 
+          Value         14,900.00         5,200.00       40,700.00                             12.80 
+          DL                 1.00             1.00             1.00                             0.01 
+
+    10 - 12/20/2023: Clover-grass, hay 
+
+                                        Fagundes Bros. Dairy #1 | 2510 Turlock RD | Snelling, CA 95369 | Merced County | San Joaquin River Basin 
+
+ 06/06/2025 15:31:33                                                                                                                                           Page 37 of 47
+
+=== Page 48 ===
+ATTACHMENT D 
+
+                              Manure Tracking Manifest 
+                                          For 
+                              Existing Milk Cow Dairies 
+
+Instructions: 
+1) Complete one manifest for each hauling event, for each destination. A hauling event may last for 
+   several days, as long as the manure is being hauled to the same destination. 
+2) If there are multiple destinations, complete a separate form for each destination. 
+3) The operator must obtain the signature of the hauler upon completion of each manure-hauling event. 
+4) The operator shall submit copies of manure/process wastewater tracking manifest(s) with the Annual 
+   Monitoring Report for Existing Milk Cow Dairies. 
+
+Operator Information: 
+Name of Operator:                          Fagundes Dairy 
+
+Name of Dairy Facility:                    Fagundes Brothers Dairy #1 
+
+Facility Address:                          2510 Turlock Road, Snelling, CA 95369 
+
+Contact Person Name and Phone Number:      Main Office    (209) 383-6020 
+
+Manure Hauler Information: 
+
+Name of Hauling Company/Person:           Kenneth Stone & Family Spreading, LLC 
+
+Address of Hauling Company /Person:       5175 W. Shaw Ave, Winton, CA 95388 
+
+Contact Person and Phone Number:          Mr. or Mrs. Stone        (209) 358-3200 
+
+Destination Information: 
+Composting Facility / Broker / Farmer / Other (identify) Farmer        (please circle one) 
+
+Contact information of Composting Facility, Broker, Farmer, or Other (as identified above): 
+  Fagundes Dairy       PO Box 2717                Merced       95344     (209) 383-6020 
+   Name               Number and Street             City       Zip Code     Phone Number 
+
+Manure/Process Wastewater Destination Address or Assessor's Parcel Number: 
+ 14478 Cox Ferry Road            Snelling             95369           Merced County 
+   Number and Street                City             Zip Code       Assessor's Parcel Number 
+
+Dates Hauled:   5/15/2024 
+Amount Hauled: 
+Enter the amount of manure hauled in tons or cubic yards (indicate the units used), the manure 
+solids content (if amount reported in tons) or manure density (if amount reported in cubic yards), 
+and the method used to calculate the amount: 
+
+     Manure:     6,200    Tons 
+     Manure Solids Content (if amount reported in tons): 25.9%
+
+=== Page 49 ===
+Attachment D                                                                            D-2 
+Waste Discharge Requirements General Order No. R5-2007-0035 
+Existing Milk Cow Dairies 
+
+     Method used to determine amount of manure: 
+       Number of Truckloads x Average Truck Weight 
+
+Enter the amount of process wastewater hauled in gallons and the method used to determine the 
+amount. 
+
+     Process Wastewater:        N/A         Gallons 
+
+     Method used to determine volume of process wastewater: N/A 
+
+Written Agreement: 
+
+               ** NOT NECESSARY FOR SOLID MANURE MANIFEST ** 
+
+Certification: 
+I declare under the penalty of law that I personally examined and am familiar with the information 
+submitted in this document, and that based on my inquiry of those individuals immediately responsible for 
+obtaining the information, I believe that the information is true, accurate, and complete. I am aware that 
+there are significant penalties for submitting false information, including the possibility of a fine and 
+imprisonment for knowing violations. 
+
+Operator's Signature: Lloyd Lloyd Fagundes (Jun Fagundes 24, 2025 12:40 PDT) Date: 06/24/2025 
+
+Hauler's Signature:                                                Date:    5/15/2024
+
+=== Page 50 ===
+TM 
+
+DELLAVALLE 
+
+LABORATORY                                                              INC 
+
+ R & J Avila Inc                                                           Account# 00-0019840                                                  Received: 07/19/2024 11:58 
+ 8119 Ellington Ave                                                        Account Manager: Ben Nydam                                           Reported: 07/24/2024 09:22 
+ Hilmar, CA 95324                                                          Submitted By: Rui & John Avila 
+                                                                           Ranch: Fagundes Brothers Dairy #1 
+
+                                                                             Samples in this Report 
+
+Lab ID               Sample                                          Matrix                          Sampled By                     Crop                               Date Sampled 
+
+24G1539-01            56-WD-1                                         Ag Water                       R & J Avila, Inc.                                                07/18/2024 16:00 
+24G1539-02            56-WD-2                                         Ag Water                       R & J Avila, Inc.                                                07/18/2024 16:05 
+
+ Default Cooler                   Temperature on Receipt ℃: 0.0 
+     Containers Intact 
+     COC/Labels Agree 
+     Received On Ice 
+
+                                                                             Notes and Definitions 
+
+Item              Definition 
+
+H                 Hold time exceeded 
+MCL                Drinking Water Maximum Contaminant Level 
+ND                 Analyte NOT DETECTED at or above the reporting limit. 
+NES                Not Enough Sample 
+ *                 Not Taken 
+RPD                Relative Percent Difference 
+%REC               Percent Recovery 
+Source             Sample that was matrix spiked or duplicated. 
+
+          Scott MFrieland 
+
+      Laboratory Director/Technical Manager 
+
+      ELAP Certification #1595 
+     A2LA Certification #6440.02 
+
+          The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+          All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+                                                                                       party interpretation. 
+                                                      1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com 
+                                                                                                                                                                           Page 1 of 8
+
+=== Page 51 ===
+TM 
+
+DELLAVALLE 
+
+LABORATORY                                                               INC 
+
+ R & J Avila Inc                                                           Account# 00-0019840                                                   Received: 07/19/2024 11:58 
+
+ 8119 Ellington Ave                                                        Account Manager: Ben Nydam                                            Reported: 07/24/2024 09:22 
+ Hilmar, CA 95324                                                          Submitted By: Rui & John Avila 
+                                                                           Ranch: Fagundes Brothers Dairy #1 
+
+                                                                                    Sample Results 
+
+Sample:          56-WD-1                                                                                      Sampled: 7/18/2024 16:00 
+
+                 24G1539-01 (Water)                                                                           Sampled By: R & J Avila, Inc. 
+
+                                                                                       Reporting                 DW       Date/Time 
+   Analyte                                                 Result     Units               Limit       DIL        MCL       Analyzed           Method                      Notes       Batch 
+
+   Electrical Conductivity                                   0.11     mmhos/cm               0.01      1                 07/23/24 14:43         SM 2510 B                             BFG0836 
+   Electrical Conductivity umhos                              105     umhos/cm               10.0      1                 07/23/24 14:43         SM 2510 B                             BFG0836 
+   Ammonia (as N)                                              ND        mg/L                0.00      1                 07/18/24 16:00         Field                                 BFG0781 
+   Nitrate Nitrogen as NO3N                                    1.8       mg/L                 0.1      6         10      07/20/24 04:31         EPA 300.0                             BFG0769 
+   Temperature                                               25.0        units                0.0      1                 07/23/24 14:43         SM 4500-H+                     H      BFG0836 
+   pH                                                          8.1       units                1.0      1                 07/23/24 14:43         SM 4500-H+                     H      BFG0836 
+
+          The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+          All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+                                                                                        party interpretation. 
+                                                      1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com 
+                                                                                                                                                                            Page 2 of 8
+
+=== Page 52 ===
+TM 
+
+DELLAVALLE 
+
+LABORATORY                                                               INC 
+
+ R & J Avila Inc                                                           Account# 00-0019840                                                   Received: 07/19/2024 11:58 
+
+ 8119 Ellington Ave                                                        Account Manager: Ben Nydam                                            Reported: 07/24/2024 09:22 
+ Hilmar, CA 95324                                                          Submitted By: Rui & John Avila 
+                                                                           Ranch: Fagundes Brothers Dairy #1 
+
+                                                                                    Sample Results 
+                                                                                         (Continued) 
+
+Sample:          56-WD-2                                                                                      Sampled: 7/18/2024 16:05 
+
+                 24G1539-02 (Water)                                                                           Sampled By: R & J Avila, Inc. 
+
+                                                                                        Reporting                DW       Date/Time 
+   Analyte                                                 Result     Units               Limit       DIL        MCL       Analyzed           Method                      Notes       Batch 
+
+   Electrical Conductivity                                   0.11     mmhos/cm               0.01      1                 07/23/24 14:45         SM 2510 B                             BFG0836 
+   Electrical Conductivity umhos                              105     umhos/cm               10.0      1                 07/23/24 14:45         SM 2510 B                             BFG0836 
+   Ammonia (as N)                                              ND        mg/L                0.00      1                 07/18/24 16:05         Field                                 BFG0781 
+   Nitrate Nitrogen as NO3N                                    1.8       mg/L                 0.1      6         10      07/20/24 04:52         EPA 300.0                             BFG0769 
+   Temperature                                               25.0        units                0.0      1                 07/23/24 14:45         SM 4500-H+                     H      BFG0836 
+   pH                                                          8.1       units                1.0      1                 07/23/24 14:45         SM 4500-H+                     H      BFG0836 
+
+          The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+          All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+                                                                                        party interpretation. 
+                                                      1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129     www.dellavallelab.com 
+                                                                                                                                                                            Page 3 of 8
+
+=== Page 53 ===
+TM 
+
+DELLAVALLE 
+
+LABORATORY                                                               INC 
+
+  R & J Avila Inc                                                          Account# 00-0019840                                                   Received: 07/19/2024 11:58 
+
+ 8119 Ellington Ave                                                        Account Manager: Ben Nydam                                            Reported: 07/24/2024 09:22 
+
+  Hilmar, CA 95324                                                         Submitted By: Rui & John Avila 
+                                                                           Ranch: Fagundes Brothers Dairy #1 
+
+                                                                                    Quality Control 
+
+                                                                                      Reporting                   Spike         Source                     %REC                       RPD 
+    Analyte                                                 Result Qual                    Limit     Units        Level         Result        %REC         Limits        RPD          Limit 
+
+ Batch: BFG0769 
+  Blank (BFG0769-BLK1)                                                                                           Prepared & Analyzed: 7/19/2024 
+   Nitrate Nitrogen as NO3N                                    ND                            0.1     mg/L 
+
+  Blank (BFG0769-BLK2)                                                                                     Prepared: 7/19/2024 Analyzed: 7/20/2024 
+   Nitrate Nitrogen as NO3N                                    ND                           0.1      mg/L 
+
+  LCS (BFG0769-BS1)                                                                                              Prepared & Analyzed: 7/19/2024 
+   Nitrate Nitrogen as NO3N                                    4.8                          0.1      mg/L         5.000                        96.0        90-110 
+
+  LCS (BFG0769-BS2)                                                                                        Prepared: 7/19/2024 Analyzed: 7/20/2024 
+   Nitrate Nitrogen as NO3N                                    4.9                          0.1      mg/L         5.000                        98.8        90-110 
+
+  Matrix Spike (BFG0769-MS1)                                       Source: 24G1461-01                            Prepared & Analyzed: 7/19/2024 
+   Nitrate Nitrogen as NO3N                                    6.4                          0.1      mg/L         5.000           1.2           104        90-110 
+
+  Matrix Spike (BFG0769-MS2)                                       Source: 24G1534-02                      Prepared: 7/19/2024 Analyzed: 7/20/2024 
+   Nitrate Nitrogen as NO3N                                    7.2                          0.1      mg/L         5.000          2.7           89.0        90-110 
+
+  Matrix Spike (BFG0769-MS3)                                       Source: 24G1540-01                      Prepared: 7/19/2024 Analyzed: 7/20/2024 
+   Nitrate Nitrogen as NO3N                                   14.4                          0.1      mg/L         5.000          9.4           98.4        90-110 
+
+  Matrix Spike (BFG0769-MS4)                                       Source: 24G1542-01                      Prepared: 7/19/2024 Analyzed: 7/20/2024 
+   Nitrate Nitrogen as NO3N                                    7.8                          0.1      mg/L         5.000          ND             157        90-110 
+
+          The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety. 
+          All results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third 
+                                                                                        party interpretation. 
+                                                      1910 W. Mckinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com 
+                                                                                                                                                                            Page 4 of 8

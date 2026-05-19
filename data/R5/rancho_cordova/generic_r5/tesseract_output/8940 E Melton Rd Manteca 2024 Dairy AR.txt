@@ -1,0 +1,181 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+
+A. NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY: Ed Machado Dairy
+
+Physical address of dairy:
+
+8940 E Melton RD                                                                                           Manteca                         San Joaquin                 95337
+Number and Street                                                                                                        City                                  County                           Zip Code
+
+Street and nearest cross street (if no address):
+
+Date facility was originally placed in operation: 01/01/1943
+Regional Water Quality Control Board Basin Plan designation: San Joaquin River Basin
+
+County Assessor Parcel Number(s) for dairy facility:
+
+X257-X220-XX16-XXXX
+
+B. OPERATORS
+
+Machado Dairy, Ed
+
+Operator name: Machado Dairy, Ed                                                                         Telephone no.: (209) 858-8073 (209) 481-0482
+Landline             Cellular
+11708 E Moncure RD                                                                                              Ripon                           CA              95366
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+C. OWNERS
+
+Dairy L.P., Circle J.M.
+
+Legal owner name: Dairy L.P., Circle J.M.                                                                                         Telephone no.:                        (209) 471-6777
+Landline              Cellular
+
+P.O. Box 337                                                                                                        Victor                            CA              95253
+
+Mailing Address Number and Street                                                                                               City                                   State              Zip Code
+
+This owner is responsible for paying permit fees.
+
+Ed Machado Dairy | 8940 E Melton RD | Manteca, CA 95337 | San Joaquin County | San Joaquin River Basin
+
+06/26/2025 16:10:42                                                                                                                                                  Page 1 of 11
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+
+A. HERD INFORMATION
+
+Bred Heifers       Heifers (7-14              Calves              Calves
+Milk Cows           Dry Cows         (15-24 mo.) mo. to breeding)            (4-6 mo.)            (0-3 mo.)
+Number open confinement                           0                       0                       0                       0                       0                       0
+Number under roof                                       0                         0                         0                         0                         0                         0
+Maximum number                               0                   0                   0                   0                   0                   0
+Average number                                    0                     0                     0                     0                     0                     0
+Avg live weight (Ibs)                               0                     0                     0                     0
+Predominant milk cow breed: Other
+Average milk production:                            {1 pounds per cow per day
+B. MANURE GENERATED
+Total manure excreted by the herd:               1.00 tons per reporting period
+Total nitrogen from manure:                           1.00 Ibs per reporting period       After ammonia losses (30% loss applied):                 0.70 /bs per reporting period
+Total phosphorus from manure:                     1.00 /bs per reporting period
+Total potassium from manure:                       1.00 /bs per reporting period
+Total salt from manure:                                0.00 /bs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Process wastewater generated:                      gallons                         0 gallons applied
+Total nitrogen generated:                            lbs            +                0 gallons exported
+Total phosphorus generated:                      lbs           -               0 gallons imported
+Total potassium generated:                        lbs           =               0 gallons generated
+
+Total salt generated:                                      Ibs
+
+D. FRESH WATER SOURCES
+
+No fresh water sources entered.
+
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+
+No subsurface (tile) drainage sources entered.
+
+F. NUTRIENT IMPORTS
+
+Ed Machado Dairy | 8940 E Melton RD | Manteca, CA 95337 | San Joaquin County | San Joaquin River Basin
+
+06/26/2025 16:10:42                                                                                                                                                                            Page 2 of 11
+
+
+=== Page 12 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+ATTACHMENTS
+
+A. REQUIRED ATTACHMENTS
+
+The following lists the required documents that should be attached to the Annual Report when submitted .
+
+Annual Dairy Facility Assessment
+
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period. On the PDFA Final
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed.
+
+Manure/Process Wastewater Tracking Manifests
+
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+
+Corrective Actions Documents
+
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+
+Groundwater Monitoring
+
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the
+General Order, Groundwater Reporting Section starting on page MRP-13.
+
+Storm Water Monitoring
+
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order,
+Storm Water Reporting Section on page MRP-14.
+
+Ed Machado Dairy | 8940 E Melton RD | Manteca, CA 95337 | San Joaquin County | San Joaquin River Basin
+
+06/26/2025 16:10:42                                                                                                                                                   Page 1 of 1
+
+
+=== Page 13 ===
+SELLAVALLE
+
+LABORATORY
+
+Ed Machado Dairy #2                                            Account# 00-0024939                                        Received: 12/12/2024 12:55
+11708 E. Moncure Rd                                           Account Manager: Christian Duran                           Reported: 12/18/2024 08:12
+Ripon, CA 95366                                                    Submitted By: F & R Ag Services
+
+Samples in this Report
+
+Lab ID              Sample                                         Matrix                         Sampled By                 Crop                               Date Sampled
+24L0598-01         Dairy Domestic Well                            Ground Water                  Vince Furtado                                                     12/11/2024 9:40
+Default Cooler            Temperature on Receipt °C: 2.6
+
+Containers Intact
+
+COC/Labels Agree
+
+Received On Ice
+
+Notes and Definitions
+
+Item            Definition
+
+H                  Hold time exceeded
+
+MCL              Drinking Water Maximum Contaminant Level
+
+ND               Analyte NOT DETECTED at or above the reporting limit.
+NES              Not Enough Sample
+
+*                       Not Taken
+
+RPD             Relative Percent Difference
+
+%REC            Percent Recovery
+
+Source            Sample that was matrix spiked or duplicated.
+
+Laboratory Director/Technical Manager
+
+ELAP Certification #1595
+A2LA Certification #6440.02
+
+The results in this report apply to the samples as received and were analyzed in accordance with the chain of custody document. This analytical report must be reproduced in its entirety.
+Alf results listed in this report are for the exclusive use of the submitting party. Dellavalle Laboratory, Inc. assumes no responsibility for report alteration, separation, detachment or third
+party interpretation.
+
+1910 W. McKinley Ave Suite 110 Fresno, CA 93728 559-233-6129 www.dellavallelab.com
+Page 1 of 6

@@ -1,0 +1,268 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+6-X Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95357
+Stanislaus
+Modesto
+9848 Milnes RD
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1990
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+X015-X003-X016-XXXX
+B.
+Osmundson, Gary
+Operator name: Osmundson, Gary
+Telephone no.:
+Landline
+Cellular
+(209) 595-6858
+P.O. Box 12290
+Oakdale
+CA
+95361
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Osmundson, Gary
+Legal owner name: Osmundson, Gary
+Telephone no.:
+Landline
+Cellular
+(209) 595-6858
+95361
+Zip Code
+State
+City
+Mailing Address Number and Street
+P.O. Box 12290
+Oakdale
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+05/22/2025 14:22:48
+Page 1 of 66
+6-X Dairy | 9848 Milnes RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+0
+0
+0
+0
+1,650
+1,650
+1,300
+225
+225
+1,350
+10
+10
+950
+0
+0
+0
+0
+0
+0
+0
+Predominant milk cow breed: Other
+Average milk production:
+70 pounds per cow per day
+Average number
+1,650
+225
+10
+0
+0
+0
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+45,749.90
+597,019.87
+99,536.23
+316,855.95
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+417,913.91 lbs per reporting period
+Total salt from manure:
+830,911.50 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+83,115.55
+4,515.65
+77,461.27
+474,982.05
+13,554,000
+lbs
+lbs
+lbs
+gallons
+13,554,000
+0
+0
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+13,554,000
+D. FRESH WATER SOURCES
+Source Description
+Type
+OID
+Surface water
+E. SUBSURFACE (TILE) DRAINAGE SOURCES
+No subsurface (tile) drainage sources entered.
+05/22/2025 14:22:48
+Page 2 of 66
+6-X Dairy | 9848 Milnes RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 67 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+05/22/2025 14:22:48
+Page 1 of 1
+6-X Dairy | 9848 Milnes RD | Modesto, CA 95357 | Stanislaus County | San Joaquin River Basin
+
+
+=== Page 68 ===
+Customer
+6-X Dairy
+P.O. Box 12290
+Oakdale, CA 95361
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+8/1/24 12:30 PM
+SUBMITTED BY:
+Jeanette Sawyer
+ANALYZED DATE:
+8/6/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation/ Ground Water (H1)
+SOURCE: Clear Water
+Compliance Analysis Report
+2857 Geer Rd. Ste A
+Turlock, CA 95382
+F & R Ag Services
+Consultant:
+NOTES: Temperature was above qualifying at 25.2c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+0.379
+mmhos/cm
+T4214033A
+Milk Barn
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+4.56
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+243
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Ammonia Nitrogen (NH3-N)
+97.6 (T4214032A)
+96.4 (T4214032A)
+1.23
+91.4
+Electrical Conductivity (EC)
+2.82
+94.0
+Nitrate Nitrogen (NO3-N)
+99.8 (T4214021A)
+97.4 (T4214021A)
+2.43
+98.5
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
+ELAP Certificate No.: 2714

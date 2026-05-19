@@ -1,0 +1,332 @@
+=== Page 1 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+DAIRY FACILITY INFORMATION
+Street and nearest cross street (if no address):
+Zip Code
+County
+City
+Number and Street
+Physical address of dairy:
+Martins Brothers Dairy
+NAME OF DAIRY OR BUSINESS OPERATING THE DAIRY:
+A.
+95324
+Merced
+Hilmar
+6041 Central AVE
+San Joaquin River Basin
+Regional Water Quality Control Board Basin Plan designation:
+01/01/1998
+Date facility was originally placed in operation:
+County Assessor Parcel Number(s) for dairy facility:
+0045-0060-0007-0000
+B.
+Martins, George A
+Operator name: Martins, George A
+Telephone no.:
+Landline
+Cellular
+(209) 668-2495
+6041 N Central AVE
+Hilmar
+CA
+95324
+Mailing Address Number and Street
+City
+State
+Zip Code
+This operator is responsible for paying permit fees.
+OPERATORS
+Martins, George A
+Legal owner name: Martins, George A
+Telephone no.:
+Landline
+Cellular
+(209) 668-2495
+95324
+Zip Code
+State
+City
+Mailing Address Number and Street
+6041 N Central AVE
+Hilmar
+CA
+This owner is responsible for paying permit fees.
+C. OWNERS
+06/27/2025 12:19:13
+Page 1 of 66
+Martins Brothers Dairy | 6041 Central AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 2 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+AVAILABLE NUTRIENTS
+A. HERD INFORMATION
+Heifers (7-14
+mo. to breeding)
+Calves
+(4-6 mo.)
+Calves
+(0-3 mo.)
+Bred Heifers
+(15-24 mo.)
+Dry Cows
+Milk Cows
+Number open confinement
+Number under roof
+Maximum number
+Avg live weight (lbs)
+0
+0
+590
+600
+300
+30
+1,639
+1,639
+1,400
+253
+253
+1,450
+150
+740
+1,100
+0
+600
+775
+0
+300
+0
+30
+Predominant milk cow breed: Holstein
+Average milk production:
+70 pounds per cow per day
+Average number
+1,639
+253
+740
+600
+300
+30
+B. MANURE GENERATED
+Total manure excreted by the herd:
+Total nitrogen from manure:
+Total phosphorus from manure:
+Total potassium from manure:
+60,857.20
+741,916.58
+122,200.38
+314,743.58
+tons per reporting period
+lbs per reporting period
+lbs per reporting period
+lbs per reporting period
+After ammonia losses (30% loss applied):
+519,341.61 lbs per reporting period
+Total salt from manure:
+832,174.20 lbs per reporting period
+C. PROCESS WASTEWATER GENERATED
+Total nitrogen generated:
+Total phosphorus generated:
+Total potassium generated:
+Total salt generated:
+Process wastewater generated:
+lbs
+360,526.67
+9,657.89
+236,429.42
+1,385,947.62
+25,544,458
+lbs
+lbs
+lbs
+gallons
+17,532,705
+0
+8,011,753
++
+-
+gallons applied
+gallons exported
+gallons imported
+gallons generated
+=
+25,544,458
+D. FRESH WATER SOURCES
+Source Description
+Type
+Adjacent to Corrals
+Ground water
+Main House Home
+Ground water
+Main House Mitchell
+Ground water
+N. Irrigation Well
+Ground water
+NE Milkbarn
+Ground water
+06/27/2025 12:19:13
+Page 2 of 66
+Martins Brothers Dairy | 6041 Central AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 67 ===
+Annual Report - General Order No. R5-2007-0035
+Reporting period 01/01/2024 to 12/31/2024.
+REQUIRED ATTACHMENTS
+A.
+ATTACHMENTS
+The following lists the required documents that should be attached to the Annual Report when submitted .
+Annual Dairy Facility Assessment
+Provide an Annual Dairy Facility Assessment (an update to the Preliminary Dairy Facility Assessment in Attachment A) for each reporting period.  On the PDFA Final 
+page, click on the ADFA Report button to generate an ADFA report after updating information as needed .
+Manure/Process Wastewater Tracking Manifests
+Provide copies of all manure/process wastewater tracking manifests for the reporting period, signed by both the owner/operator and the hauler.
+Corrective Actions Documents
+Provide records documenting any corrective actions taken to correct deficiencies noted as a result of the inspections required in the Monitoring Requirements of the 
+General Order. Deficiencies not corrected in 30 days must be accompanied by an explanation of the factors preventing immediate correction.
+Groundwater Monitoring
+Dischargers that monitor supply wells or subsurface (tile) drainage systems, or that have monitoring well systems must submit monitoring results as directed in the 
+General Order, Groundwater Reporting Section starting on page MRP-13.
+Storm Water Monitoring
+Dischargers that are required to monitor storm water more frequently than required in the General Order must submit monitoring results as directed in the General Order, 
+Storm Water Reporting Section on page MRP-14.
+06/27/2025 12:19:13
+Page 1 of 1
+Martins Brothers Dairy | 6041 Central AVE | Hilmar, CA 95324 | Merced County | San Joaquin River Basin
+
+
+=== Page 68 ===
+Customer
+Martins Bros. Dairy
+6041 Central Ave.
+Hilmar, CA 95324
+Grower
+PURCHASE ORDER:
+RECEIVED DATE:
+8/9/24 12:30 PM
+SUBMITTED BY:
+KRC
+ANALYZED DATE:
+8/16/24
+Denele Analytical, Inc.
+601 North Tully Road Turlock, CA 95380
+Phone (209) 634-9055 - Fax (209) 634-9057
+www.denelelabs.com
+Irrigation /Ground Water (H14)
+SOURCE: Irrigation Water
+Compliance Analysis Report
+KR Cordeiro
+Consultant:
+NOTES: Temperature was above qualifying at 13.4c
+40 N. East Street, Woodland, CA 95776
+Phone (530) 666-9056 - Fax (530) 666-9058
+Sample ID
+Lab ID
+Analyte
+Method Ref
+Result
+Units
+Electrical Conductivity (EC)
+EPA 120.1 and
+1.36
+mmhos/cm
+T4222020A
+Sousa Well
+Bicarbonate Alkalinity (ALK-B)
+SM 2320B-2011
+266
+mg/L
+Carbonate Alkalinity (Carb)
+SM 2320B-2011
+< 2.00
+mg/L
+Sulfate (SO4)
+EPA 375.2
+115
+mg/L
+Sodium (Na)
+EPA 200.7
+195
+mg/L
+Ammonia Nitrogen (NH3-N)
+SM 4500-NH3 D,C
+< 0.500
+mg/L
+Magnesium (Mg)
+EPA 200.7
+16.2
+mg/L
+Nitrate Nitrogen (NO3-N)
+EPA 353.2
+< 0.140
+mg/L
+Total Dissolved Solids (TDS)
+SM 2540 C-1997 and
+630
+mg/L
+Calcium (Ca)
+EPA 200.7
+65.2
+mg/L
+Chloride (Cl)
+SM 4500-Cl D-2011
+200
+mg/L
+Soluble Salts (SALT-SOL)
+Calculation
+872
+mg/L
+Laboratory Quality Control
+LCS %
+MS %
+MSD %
+RPD %
+Sample mg/L
+Dup mg/L
+Ammonia Nitrogen (NH3-N)
+91.0 (T4225009A)
+102 (T4225009A)
+11.8
+90.0
+Calcium (Ca)
+101 (T4222017A)
+103 (T4222017A)
+1.64
+95.5
+Chloride (Cl)
+2.64
+96.8
+119 (W4229001A)
+122 (DUP)
+Magnesium (Mg)
+93.5 (T4222017A)
+95.9 (T4222017A)
+2.58
+94.8
+Nitrate Nitrogen (NO3-N)
+29.2
+101
+1.17 (W4229001A)
+1.57 (DUP)
+Sodium (Na)
+95.2 (T4222017A)
+102 (T4222017A)
+6.44
+97.6
+Sulfate (SO4)
+0.728
+96.0
+41.0 (W4229001A)
+41.3 (DUP)
+Total Dissolved Solids (TDS)
+0.000
+107
+45.0 (T4219034A)
+45.0 (Dup)
+Denele Analytical | Page 1
+The warranty of Denele Analytical is limited to the accuracy of the analyses of the samples as received. Denele Analytical assumes no responsibility for which the
+customer uses our test results, nor liability for any other warranties, express or implied. These terms and conditions shall supercede any conflicting terms and
+conditions submitted on customer purchase orders or other forms submitted for work.
