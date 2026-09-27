@@ -26,7 +26,7 @@ Number and Street City State Zip Code
 Contact Person Eduardo Martin (559) 686-4413
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Clarklind Farms (Ron Clark) (559) 280-6783
 Name Phone Number
