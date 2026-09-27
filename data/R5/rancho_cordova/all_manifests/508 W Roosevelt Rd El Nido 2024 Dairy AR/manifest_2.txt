@@ -26,7 +26,7 @@ Number and Street City State Zip Code
 Contact Person Frank Silva (209) 667-2566
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Fagundes Feed & Cattle (209) 756-5080
 Name Phone Number

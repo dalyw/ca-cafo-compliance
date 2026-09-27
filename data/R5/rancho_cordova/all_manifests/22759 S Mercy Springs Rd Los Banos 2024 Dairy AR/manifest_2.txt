@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person Franklin Azevedo (209) 777-4298
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Teixeira & Sons (209) 827-9800
 Name Phone Number

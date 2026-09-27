@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person David Frea (559) 288-0983
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Jim Mattos Farming (559) 284-4830
 Name Phone Number

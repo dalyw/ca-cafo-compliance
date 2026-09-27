@@ -28,7 +28,7 @@ Destination Address or Assessor's Parcel Number.
 Address Clty Zip Code
 Street and nearest cross street (if no address) County
 Assessors Parcel Number Assessor's Parcel Number County
-Last date hauled () © LF
+Last date hauled () LF
 Manure/Process Wastewater Tracking Manifest
 For
 Existing Milk Cow Dairies

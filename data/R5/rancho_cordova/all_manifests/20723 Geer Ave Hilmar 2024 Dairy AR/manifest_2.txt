@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person Frank Silva (209) 678-2047
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Ken Olds (209) 652-5424
 Name Phone Number

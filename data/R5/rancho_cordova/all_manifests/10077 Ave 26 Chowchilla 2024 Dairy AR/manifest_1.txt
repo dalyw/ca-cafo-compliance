@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person Roger Faust (559) 474-0537
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Keith White Farming (559) 974-0889
 Name Phone Number
