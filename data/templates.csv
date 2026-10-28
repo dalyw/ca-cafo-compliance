@@ -1,12 +1,19 @@
-template_key,template_name,keywords,page_count
-provost_pritchard_manifest,Provost Pritchard Manifest,provost|pritchard,2
-ucanr,UCANR Manifest,CDQAP,2
-CAG018001,CAG018001,CAG018001,1
-R5-2017-0000_general_order,R5 Manifest from general order R5-2013-0122,2017-,2
-R5-2013-0122_general_order,R5 Manifest from general order R5-2013-0122,2013-|Attachment G,2
-R5-2010-XXXX_general_order,R5 Manifest from general order R5-2007-0035,2010-|Attachment G,2
-R5-2007-0035_software,R5 Manifest from software referencing R5-2007-0035,2007-0035&&MANURE AMOUNT HAULED|WASTEWATER AMOUNT HAULED,2
-R5-2007-0035_general_order,R5 Manifest from general order R5-2007-0035,2007-0035,2
-R5-2007-0035_one_page_2,One Page R5 Manifest for R5-2007-0035,waste generator,1
-R5-2007-0035_one_page_1,One Page R5 Manifest for R5-2007-0035,certification,1
-
+template_key,template_name,keywords,page_count,parameter_template
+CAG018001,CAG018001 NPDES Form 4,CAG018001,,CAG018001
+UCANR,UCANR CDQAP North Coast manifest,CDQAP|QUALITY ASSURANCE,,ucanr
+Provost Pritchard,Provost Pritchard manifest,PROVOST|PRITCHARD,,provost_pritchard_manifest
+Innovative Ag,Innovative Ag Services manifest,INNOVATIVE AG && !ATTACHMENT D,,R5-2013-0122_general_order
+R5-2007-0035 Variant 5,One-page 2: Solid/Liquid Manure Tracking Manifest,WASTE GENERATOR|SOLID/LIQUID MANURE,,R5-2007-0035_one_page_2
+R5-2017-0058 Variant 1,R5-2017-0058 three-page fillable form,R5-2017-0058 && OF 3,,R5-2007-0035_general_order
+R5-2017-0058 General Order,R5-2017-0058 Attachment D,R5-2017-0058,,R5-2017-0000_general_order
+R5-2017-0000,R5-2017-0058 form with order number changed to R5-2017-0000,R5-2017-0000|CONFINED BOVINE,,R5-2017-0000_general_order
+R5-2010-XXXX Attachment F,R5-2010-XXXX Attachment F (digester facilities),ATTACHMENT F|DIGESTATE,,R5-2010-XXXX_general_order
+R5-2010-XXXX Attachment G,R5-2010-XXXX Attachment G (NPDES),ATTACHMENT G|R5-2010-XXXX,,R5-2013-0122_general_order
+R5-2007-0035 Software,R5-2007-0035 annual report software,LAST DATE HAULED|MANURE AMOUNT HAULED|WASTEWATER AMOUNT HAULED|2007-0035 ATTACHMENT D,,R5-2007-0035_software
+R5-2013-0122 General Order,R5-2013-0122 Attachment D,2013-0122,,R5-2013-0122_general_order
+Unknown Variant 1,Manure Tracking Manifest with no attachment heading,MANURE TRACKING MANIFEST && !ATTACHMENT,,R5-2007-0035_one_page_1
+R5-2007-0035 Variant 2,Attachment D titled Manure Tracking Manifest,MANURE TRACKING MANIFEST,,R5-2007-0035_general_order
+R5-2007-0035 Variant 4,One-page 1: Tracking Manifest For Existing Milk Cow Dairies,CERTIFICATION|MOISTURE % && !ATTACHMENT D,1,R5-2007-0035_one_page_1
+R5-2007-0035 Variant 3,Attachment D retyped without attachment heading,1. COMPLETE ONE && !ATTACHMENT D,,R5-2007-0035_general_order
+R5-2007-0035 Variant 1,Attachment D retyped with 31 December 2009 agreement date,DECEMBER 2009|1. COMPLETE ONE,,R5-2007-0035_general_order
+R5-2007-0035 General Order,R5-2007-0035 Attachment D,2007-0035|EXISTING MILK COW DAIRIES,,R5-2007-0035_general_order
