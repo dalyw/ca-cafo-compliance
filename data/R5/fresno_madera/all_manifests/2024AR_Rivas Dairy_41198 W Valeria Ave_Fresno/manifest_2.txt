@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person Frank Coderniz (209) 675-1261
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Frank Coderniz Farming (209) 675-1261
 Name Phone Number

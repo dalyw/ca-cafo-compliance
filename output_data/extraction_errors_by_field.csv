@@ -1,0 +1,22 @@
+Field,Errors Corrected
+Is Trucked,0
+Is Pipeline,2
+Hauler Name,17
+Total Manure Amount (tons),22
+Destination Nearest Cross Street,8
+Last Haul Date,46
+Origin Dairy Name,57
+Hauler Address,65
+Origin Dairy Address,82
+Total Process Wastewater Exports (Gallons),52
+First Haul Date,31
+Manure Number of Hauls,13
+Destination Address,141
+Manure Mass per Haul (tons),22
+Destination Type (Standardized),205
+Manure Solids (%),208
+Destination Name,274
+Destination Contact Address,240
+Destination Assessor Parcel Number,94
+Manifests with at least one error,631
+Manifests with a result-impacting correction,486

@@ -25,7 +25,7 @@ Number and Street City State Zip Code
 Contact Person Johnny Silveira (559) 978-6087
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Silveira Dairy Heifers (559) 978-6087
 Name Phone Number

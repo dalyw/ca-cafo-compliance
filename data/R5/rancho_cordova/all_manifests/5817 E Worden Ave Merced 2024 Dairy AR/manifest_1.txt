@@ -26,7 +26,7 @@ Number and Street City State Zip Code
 Contact Person Jonkman Wiebren (209) 564-0870
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Ranch Road Farms (209) 564-0870
 Name Phone Number

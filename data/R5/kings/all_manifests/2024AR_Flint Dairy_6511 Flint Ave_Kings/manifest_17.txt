@@ -19,14 +19,14 @@ Number and Street City County Zip Code
 Contact Person Name and Phone Number Bert Wilgenburg (559) 381-1793
 Name Phone Number
 MANURE HAULER INFORMATION
-Name of Hauling Company/Person © Duran Trucking Inc
+Name of Hauling Company/Person Duran Trucking Inc
 Address of Hauling Company/Person
 29435 Borba Rd Gustine CA 95322
 Number and Street City State Zip Code
 Contact Person Omar Duran (209) 704-0906
 Name Phone Number
 DESTINATION INFORMATION
-Composting Facility/Broker/Farmer/Other (identify) © Farmer
+Composting Facility/Broker/Farmer/Other (identify) Farmer
 Contact information of Composting Facility Broker Farmer or Other (as identified above)
 Merced Ranch (209) 617-7755
 Name Phone Number
