@@ -9100,52 +9100,12 @@
       "source": "arcgis"
     }
   ],
-  "apn|0001-0001-0001-0001|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|015-091-045|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|020-27-10|Fresno,Madera": [
     null,
     null,
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|015-080-075|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|015-040-425|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|015-080-115|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|015-091-01|Fresno,Madera": [
@@ -9157,23 +9117,7 @@
       "county": "Fresno"
     }
   ],
-  "apn|015-091-165|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|40-131-04|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|015-070-345|Merced": [
     null,
     null,
     {
@@ -9189,38 +9133,6 @@
       "n_candidates": 0
     }
   ],
-  "apn|0025-0140-0005-0000|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0025-0140-0003-0000|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|0025-0140-0008-0000|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0025-0130-0004-0000|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|025200003|Fresno,Madera": [
     37.0948,
     -120.31486,
@@ -9228,78 +9140,6 @@
       "source": "dwr_parcel",
       "address": "025-200-003, 23542 ROAD 13, CHOWCHILLA, CA, 93610",
       "county": "Madera"
-    }
-  ],
-  "apn|025130005|Fresno,Madera": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|016-270-066|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|016-270-010|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 5
-    }
-  ],
-  "apn|016-270-033|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 3
-    }
-  ],
-  "apn|028-090-001|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 3
-    }
-  ],
-  "apn|028-090-022|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|005-080-007|Kings": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|059-220-003|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|059-220-015|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|0012-0025-0013-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9318,46 +9158,6 @@
       "source": "dwr_parcel",
       "address": "012044006, 939 FIR AVE, DOS PALOS, CA, 93620",
       "county": "Merced"
-    }
-  ],
-  "apn|024-045-027|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|024-045-026|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|024-009-033|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0074-0006-0028-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0074-0013-0029-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|0074-0007-0012-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9423,30 +9223,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|0022-0380-0100-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-050-005|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|012-052-008|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
   "apn|017-065-012|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.62163,
     -121.14337,
@@ -9474,14 +9250,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|0001000100010000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|000100010001000|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -9497,22 +9265,6 @@
       "source": "dwr_parcel",
       "address": "012-029-001-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|041-025-003|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-022-013|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|0022-0021-0005-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9547,14 +9299,6 @@
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|014-009-013|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|022-035-012|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9611,14 +9355,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|022-033-007|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|022-033-008|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.50334,
     -121.01843,
@@ -9635,14 +9371,6 @@
       "source": "dwr_parcel",
       "address": "022-034-011-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|022-034-013|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|022-034-014|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9694,14 +9422,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|022-034-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
   "apn|058-001-015|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.49144,
     -121.04168,
@@ -9709,14 +9429,6 @@
       "source": "dwr_parcel",
       "address": "058-001-015-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|022-037-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|058-002-003|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9763,84 +9475,12 @@
       "county": "Merced"
     }
   ],
-  "apn|0001-0001-0001-0001|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0019-0184-0002-0001|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-041-015|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-001-002|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-001-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-001-005|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|022-003-002|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|022-004-001|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-004-002|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-003-007|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|0012-0047-0005-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9894,22 +9534,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|017-001-012|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-037-005|Fresno": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|014-024-009|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.68581,
     -120.82692,
@@ -9917,14 +9541,6 @@
       "source": "dwr_parcel",
       "address": "014-024-009-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|191-180-002|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|017-054-026|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -9979,22 +9595,6 @@
       "n_candidates": 0
     }
   ],
-  "apn|0001-0001-0001-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|255-027-053|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|0066-0180-0002-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.22421,
     -120.41334,
@@ -10013,62 +9613,6 @@
       "county": "Merced"
     }
   ],
-  "apn|017-061-020|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-061-009|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-062-029|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-061-021|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|017-061-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 3
-    }
-  ],
-  "apn|017-061-007|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|022-002-050|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|017-062-047|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.54957,
     -121.07813,
@@ -10085,14 +9629,6 @@
       "source": "dwr_parcel",
       "address": "017-062-048-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|022-003-009|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|058-001-013|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10148,14 +9684,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|012-010-021|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 4
-    }
-  ],
   "apn|003-001-017|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.7103,
     -121.15195,
@@ -10163,22 +9691,6 @@
       "source": "dwr_parcel",
       "address": "003-001-017-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|076-032-005|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|081-031-002|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|003-011-006|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10190,22 +9702,6 @@
       "county": "Merced"
     }
   ],
-  "apn|005-030-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-055-011|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|056-059-007|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.58644,
     -121.02787,
@@ -10213,38 +9709,6 @@
       "source": "dwr_parcel",
       "address": "056-059-007-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|081-002-045|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-030-050|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-031-026|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0049-0380-0004-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|0044-0020-0031-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10290,30 +9754,6 @@
       "n_candidates": 0
     }
   ],
-  "apn|0045-0025-0021-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0045-0025-0065-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0045-0025-0031-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|045-0013-0027-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -10337,30 +9777,6 @@
       "source": "dwr_parcel",
       "address": "023005001, 8048 FAITH HOME RD, CERES, CA, 95307",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|0023-0005-0001-0000|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|0045-0230-0032-0000|Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|0045-0230-0061-0000|Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|045-0230-0008-0000|Stanislaus": [
@@ -10389,46 +9805,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|012-027-022|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 3
-    }
-  ],
-  "apn|003-001-005|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-034-023|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-034-023|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|012-028-053|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|003-190-07|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -10444,14 +9820,6 @@
       "source": "dwr_parcel",
       "address": "063-027-002-000",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|017-027-074|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|0057-0008-0001|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10523,14 +9891,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|012-022-001|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
   "apn|057-023-006|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.4179,
     -120.94179,
@@ -10567,84 +9927,12 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|045-020-021|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|045-020-022|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|00045-0200-0015-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|045-040-013|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|045-040-021|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|045-040-036|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|045-040-023|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|045-040-042|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|045-040-043|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|045-040-004|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|045-040-019|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10897,22 +10185,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|022-031-019|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 3
-    }
-  ],
-  "apn|022-036-014|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|185-100-03|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -10935,22 +10207,6 @@
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|010-008-046|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|002-050-006|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|142-0100-0031-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -10978,38 +10234,6 @@
       "county": "Merced"
     }
   ],
-  "apn|010-080-046|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|010-016-013|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|010-020-018|Merced": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|017-031-025|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
   "apn|051-016-012|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.49312,
     -120.83043,
@@ -11033,22 +10257,6 @@
     {
       "source": "dwr_parcel",
       "n_candidates": 1
-    }
-  ],
-  "apn|007-013-020|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|007-013-021|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
     }
   ],
   "apn|142-0100-031|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -11132,14 +10340,6 @@
       "source": "dwr_parcel",
       "address": "020006027, 21631 E KEYES RD, DENAIR, CA, 95316",
       "county": "Stanislaus"
-    }
-  ],
-  "apn|205-060-007|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|185-080-51|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -11272,14 +10472,6 @@
       "n_candidates": 2
     }
   ],
-  "apn|205-100-008|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|205-100-14|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -11328,22 +10520,6 @@
       "n_candidates": 0
     }
   ],
-  "apn|205-060-008|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|205-240-006|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|205-060-07|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -11359,14 +10535,6 @@
       "source": "dwr_parcel",
       "address": "045150002, 19647 JOHNSON AVE, HILMAR, CA, 95324",
       "county": "Merced"
-    }
-  ],
-  "apn|0045-0014-0022-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|205-240-19|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -11413,38 +10581,6 @@
       "county": "Merced"
     }
   ],
-  "apn|045-180-030|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0045-0024-0020-0000|Butte": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0045-0024-0020-0000|Tehama": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0045-0024-0020-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|0046-0023-0069-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.70116,
     -121.02846,
@@ -11462,14 +10598,6 @@
       "n_candidates": 0
     }
   ],
-  "apn|000-000-000|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|0045-0190-0044-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     37.39915,
     -120.89669,
@@ -11477,14 +10605,6 @@
       "source": "dwr_parcel",
       "address": "045190044, 22600 GEER AVE, HILMAR, CA, 95324",
       "county": "Merced"
-    }
-  ],
-  "apn|0045-0190-0044-0000|Glenn": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|058-019-008|Merced,Sacramento,San Joaquin,Stanislaus": [
@@ -11522,30 +10642,6 @@
       "county": "Stanislaus"
     }
   ],
-  "apn|042-150-062|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 2
-    }
-  ],
-  "apn|042-020-025|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|042-150-068|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|207-020-02|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
@@ -11563,14 +10659,6 @@
     }
   ],
   "apn|229-070-09|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
-  "apn|0245-0250-0009-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
     null,
     null,
     {
@@ -11628,28 +10716,12 @@
       "n_candidates": 0
     }
   ],
-  "apn|063-250-029|Merced,Sacramento,San Joaquin,Stanislaus": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|300-1501|Tulare": [
     null,
     null,
     {
       "source": "dwr_parcel",
       "n_candidates": 0
-    }
-  ],
-  "apn|0300-15019|Tulare": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
     }
   ],
   "apn|300-020-030|Tulare": [
@@ -11838,14 +10910,6 @@
       "county": "Tulare"
     }
   ],
-  "apn|072-060-011|Tulare": [
-    null,
-    null,
-    {
-      "source": "dwr_parcel",
-      "n_candidates": 1
-    }
-  ],
   "apn|072-050-013|Tulare": [
     36.36349,
     -119.42272,
@@ -12003,6 +11067,2893 @@
     {
       "source": "dwr_parcel",
       "address": "313-030-014",
+      "county": "Tulare"
+    }
+  ],
+  "apn|0001-0001-0001-0001|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-091-045|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-080-075|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-040-425|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|015-080-115|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-091-165|Fresno,Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-070-345|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0025-0140-0005-0000|Fresno,Madera": [
+    37.10364,
+    -120.32322,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-005, 12570 AVENUE 24 1/2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0140-0003-0000|Fresno,Madera": [
+    37.10737,
+    -120.32553,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-003",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0140-0008-0000|Fresno,Madera": [
+    37.10739,
+    -120.31994,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-008, 12467 AVENUE 24 1 2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0130-0004-0000|Fresno,Madera": [
+    37.10737,
+    -120.33131,
+    {
+      "source": "dwr_parcel",
+      "address": "025-130-004",
+      "county": "Madera"
+    }
+  ],
+  "apn|025130005|Fresno,Madera": [
+    37.10128,
+    -120.33934,
+    {
+      "source": "dwr_parcel",
+      "address": "025-130-005, 11508 AVENUE 24 1/2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|016-270-066|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|016-270-010|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 7
+    }
+  ],
+  "apn|016-270-033|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 5
+    }
+  ],
+  "apn|028-090-001|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|028-090-022|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|005-080-007|Kings": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 5
+    }
+  ],
+  "apn|059-220-003|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|059-220-015|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|024-045-027|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|024-045-026|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|024-009-033|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.48647,
+    -120.79195,
+    {
+      "source": "dwr_parcel",
+      "address": "024009033, 519 S STORY RD, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0074-0006-0028-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0074-0013-0029-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0022-0380-0100-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|012-050-005|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.63213,
+    -121.12601,
+    {
+      "source": "dwr_parcel",
+      "address": "012050005, 501 S HART RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-052-008|Merced,Sacramento,San Joaquin,Stanislaus": [
+    36.9902,
+    -120.6287,
+    {
+      "source": "dwr_parcel",
+      "address": "012052008, 1141 CALIFORNIA AVE, DOS PALOS, CA, 93620",
+      "county": "Merced"
+    }
+  ],
+  "apn|0001000100010000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|041-025-003|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.55414,
+    -121.01883,
+    {
+      "source": "dwr_parcel",
+      "address": "041025003, 1713 W KEYES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-022-013|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.51432,
+    -120.97394,
+    {
+      "source": "dwr_parcel",
+      "address": "022022013, FULKERTH RD, CERES, CA, 95307",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|014-009-013|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.69885,
+    -120.84466,
+    {
+      "source": "dwr_parcel",
+      "address": "014009013, 8231 RICE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-033-007|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.50414,
+    -121.01421,
+    {
+      "source": "dwr_parcel",
+      "address": "022033007, 1500 W FULKERTH RD, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-034-013|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|022-034-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.49506,
+    -121.02066,
+    {
+      "source": "dwr_parcel",
+      "address": "022034004, 1801 W MAIN AVE, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-037-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.50563,
+    -120.98439,
+    {
+      "source": "dwr_parcel",
+      "address": "022037004, 11818 FULKERTH RD, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0001-0001-0001-0001|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0019-0184-0002-0001|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|017-041-015|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.40314,
+    -120.85441,
+    {
+      "source": "dwr_parcel",
+      "address": "017041015, 20218 ARLON ST, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|022-001-002|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.5332,
+    -121.07043,
+    {
+      "source": "dwr_parcel",
+      "address": "022001002, 7001 JENNINGS RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-001-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52926,
+    -121.07256,
+    {
+      "source": "dwr_parcel",
+      "address": "022001004, 7475 JENNINGS RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-001-005|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.51548,
+    -121.08056,
+    {
+      "source": "dwr_parcel",
+      "address": "022001005, JENNINGS RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-004-001|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.50216,
+    -121.07574,
+    {
+      "source": "dwr_parcel",
+      "address": "022004001, 4700 W MAIN ST, CERES, CA, 95307",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-004-002|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.50155,
+    -121.06261,
+    {
+      "source": "dwr_parcel",
+      "address": "022004002, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-003-007|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|017-001-012|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.61108,
+    -121.1342,
+    {
+      "source": "dwr_parcel",
+      "address": "017001012, PARADISE RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-037-005|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|191-180-002|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0001-0001-0001-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|255-027-053|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|017-061-020|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54403,
+    -121.10442,
+    {
+      "source": "dwr_parcel",
+      "address": "017061020, 6010 W KEYES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-061-009|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54395,
+    -121.08929,
+    {
+      "source": "dwr_parcel",
+      "address": "017061009, 5000 W KEYES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-062-029|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54264,
+    -121.0803,
+    {
+      "source": "dwr_parcel",
+      "address": "017062029, 4940 KEYES RD, KEYES, CA, 95328",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-061-021|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54246,
+    -121.09784,
+    {
+      "source": "dwr_parcel",
+      "address": "017061021, QUISENBERRY RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-061-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54505,
+    -121.10102,
+    {
+      "source": "dwr_parcel",
+      "address": "017061004, KEY WEST LN, MODESTO, CA, 95351",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-061-007|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.54772,
+    -121.09641,
+    {
+      "source": "dwr_parcel",
+      "address": "017061007, 5560 W KEYES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-002-050|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52335,
+    -121.06385,
+    {
+      "source": "dwr_parcel",
+      "address": "022002050, 3643 W MONTE VISTA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-003-009|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.51964,
+    -121.03546,
+    {
+      "source": "dwr_parcel",
+      "address": "022003009, 8137 S CARPENTER RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-010-021|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.68992,
+    -121.08873,
+    {
+      "source": "dwr_parcel",
+      "address": "012010021, 3507 FINNEY RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|076-032-005|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.68209,
+    -121.06097,
+    {
+      "source": "dwr_parcel",
+      "address": "076032005, THE BLF, MODESTO, CA, 95353",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|081-031-002|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.651,
+    -121.06078,
+    {
+      "source": "dwr_parcel",
+      "address": "081031002, WOODLAND AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|005-030-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.67879,
+    -121.07946,
+    {
+      "source": "dwr_parcel",
+      "address": "005030004, 4554 BECKWITH RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-055-011|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.62534,
+    -121.0969,
+    {
+      "source": "dwr_parcel",
+      "address": "012055011, 5737 CALIFORNIA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|081-002-045|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.65717,
+    -121.07792,
+    {
+      "source": "dwr_parcel",
+      "address": "081002045, 4518 BLUE GUM AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-030-050|Merced,Sacramento,San Joaquin,Stanislaus": [
+    36.98576,
+    -120.64173,
+    {
+      "source": "dwr_parcel",
+      "address": "012030050, 2889 BLOSSOM ST, DOS PALOS, CA, 93620",
+      "county": "Merced"
+    }
+  ],
+  "apn|012-031-026|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.65719,
+    -121.0871,
+    {
+      "source": "dwr_parcel",
+      "address": "012031026, 1519 CLARK RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0049-0380-0004-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 5
+    }
+  ],
+  "apn|0045-0025-0021-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0025-0065-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0025-0031-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0023-0005-0001-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0045-0230-0032-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0045-0230-0061-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|012-027-022|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 5
+    }
+  ],
+  "apn|003-001-005|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|012-034-023|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|012-034-023|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.66144,
+    -121.13395,
+    {
+      "source": "dwr_parcel",
+      "address": "012034023, BLUE GUM AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-028-053|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.66569,
+    -121.11215,
+    {
+      "source": "dwr_parcel",
+      "address": "012028053, 6406 SHOEMAKE AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-027-074|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|012-022-001|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.67931,
+    -121.13768,
+    {
+      "source": "dwr_parcel",
+      "address": "012022001, 2800 DUNN RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|045-020-021|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.41743,
+    -120.92461,
+    {
+      "source": "dwr_parcel",
+      "address": "045020021, 24049 AUGUST AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-020-022|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.41384,
+    -120.92466,
+    {
+      "source": "dwr_parcel",
+      "address": "045020022, 8725 FAITH HOME RD, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-013|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.40292,
+    -120.93049,
+    {
+      "source": "dwr_parcel",
+      "address": "045040013, 7990 PRAIRIE FLOWER RD, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-021|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.39927,
+    -120.93056,
+    {
+      "source": "dwr_parcel",
+      "address": "045040021, 7510 PRAIRIE FLOWER RD, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-036|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.40005,
+    -120.92871,
+    {
+      "source": "dwr_parcel",
+      "address": "045040036",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-023|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.39577,
+    -120.93063,
+    {
+      "source": "dwr_parcel",
+      "address": "045040023",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-042|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.40019,
+    -120.93615,
+    {
+      "source": "dwr_parcel",
+      "address": "045040042",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-043|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.39841,
+    -120.93615,
+    {
+      "source": "dwr_parcel",
+      "address": "045040043",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-004|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.39596,
+    -120.9534,
+    {
+      "source": "dwr_parcel",
+      "address": "045040004",
+      "county": "Merced"
+    }
+  ],
+  "apn|022-031-019|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52045,
+    -121.01978,
+    {
+      "source": "dwr_parcel",
+      "address": "022031019, 1830 W MONTE VISTA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-036-014|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.49488,
+    -120.99697,
+    {
+      "source": "dwr_parcel",
+      "address": "022036014, 107 W MAIN AVE, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|010-008-046|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.7737,
+    -120.77264,
+    {
+      "source": "dwr_parcel",
+      "address": "010008046, 9310 WAMBLE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|002-050-006|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.80685,
+    -120.84556,
+    {
+      "source": "dwr_parcel",
+      "address": "002050006, 11549 28 MILE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|010-080-046|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|010-016-013|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|010-020-018|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 7
+    }
+  ],
+  "apn|017-031-025|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|007-013-020|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|007-013-021|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|205-060-007|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|205-100-008|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|205-060-008|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|205-240-006|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0014-0022-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|045-180-030|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.40994,
+    -120.88759,
+    {
+      "source": "dwr_parcel",
+      "address": "045180030, 22063 AMERICAN AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0024-0020-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|000-000-000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|042-150-062|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52485,
+    -120.58913,
+    {
+      "source": "dwr_parcel",
+      "address": "042150062, 22312 E MONTE VISTA AVE, DENAIR, CA, 95316",
+      "county": "Merced"
+    }
+  ],
+  "apn|042-020-025|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52408,
+    -120.62581,
+    {
+      "source": "dwr_parcel",
+      "address": "042020025",
+      "county": "Merced"
+    }
+  ],
+  "apn|042-150-068|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.52812,
+    -120.56989,
+    {
+      "source": "dwr_parcel",
+      "address": "042150068",
+      "county": "Merced"
+    }
+  ],
+  "apn|0245-0250-0009-0000|Merced,Sacramento,San Joaquin,Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|063-250-029|Merced,Sacramento,San Joaquin,Stanislaus": [
+    37.19215,
+    -121.0285,
+    {
+      "source": "dwr_parcel",
+      "address": "063250029, 6686 WHITWORTH RD, GUSTINE, CA, 95322",
+      "county": "Merced"
+    }
+  ],
+  "apn|0300-15019|Tulare": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|072-060-011|Tulare": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0045-0024-0020-0000|Butte": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0024-0020-0000|Tehama": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0190-0044-0000|Glenn": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0001-0001-0001-0001|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0001-0001-0001-0001|Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-091-045|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|020-27-10|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|015-080-075|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-040-425|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|015-080-115|San Luis Obispo": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|015-091-01|Fresno": [
+    36.77754,
+    -120.1303,
+    {
+      "source": "dwr_parcel",
+      "address": "015-091-01",
+      "county": "Fresno"
+    }
+  ],
+  "apn|015-091-165|Fresno": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|40-131-04|Madera": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0025-0140-0005-0000|Madera": [
+    37.10364,
+    -120.32322,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-005, 12570 AVENUE 24 1/2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0140-0003-0000|Madera": [
+    37.10737,
+    -120.32553,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-003",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0140-0008-0000|Madera": [
+    37.10739,
+    -120.31994,
+    {
+      "source": "dwr_parcel",
+      "address": "025-140-008, 12467 AVENUE 24 1 2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|0025-0130-0004-0000|Madera": [
+    37.10737,
+    -120.33131,
+    {
+      "source": "dwr_parcel",
+      "address": "025-130-004",
+      "county": "Madera"
+    }
+  ],
+  "apn|025200003|Madera": [
+    37.0948,
+    -120.31486,
+    {
+      "source": "dwr_parcel",
+      "address": "025-200-003, 23542 ROAD 13, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|025130005|Madera": [
+    37.10128,
+    -120.33934,
+    {
+      "source": "dwr_parcel",
+      "address": "025-130-005, 11508 AVENUE 24 1/2, CHOWCHILLA, CA, 93610",
+      "county": "Madera"
+    }
+  ],
+  "apn|059-220-003|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|059-220-015|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0012-0025-0013-0000|Stanislaus": [
+    37.67254,
+    -121.15629,
+    {
+      "source": "dwr_parcel",
+      "address": "012025013, 2472 N GATES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0012-0044-0006-0000|Stanislaus": [
+    37.65174,
+    -121.1609,
+    {
+      "source": "dwr_parcel",
+      "address": "012044006, 1267 N GATES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|024-045-027|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|024-045-026|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|024-009-033|Stanislaus": [
+    37.48647,
+    -120.79195,
+    {
+      "source": "dwr_parcel",
+      "address": "024009033, 519 S STORY RD, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0074-0006-0028-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0074-0013-0029-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0074-0007-0012-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|0085-0005-0003-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|0085-0038-0028-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0074-0110-0007-0000|Merced": [
+    37.14406,
+    -120.51465,
+    {
+      "source": "dwr_parcel",
+      "address": "074110007",
+      "county": "Merced"
+    }
+  ],
+  "apn|058-022-022|Stanislaus": [
+    37.46935,
+    -121.00567,
+    {
+      "source": "dwr_parcel",
+      "address": "058-022-022-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-005-016|Stanislaus": [
+    37.48281,
+    -120.99563,
+    {
+      "source": "dwr_parcel",
+      "address": "058-005-016-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-005-006|Stanislaus": [
+    37.48478,
+    -120.99682,
+    {
+      "source": "dwr_parcel",
+      "address": "058-005-006-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0022-0380-0100-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|012-050-005|Stanislaus": [
+    37.63213,
+    -121.12601,
+    {
+      "source": "dwr_parcel",
+      "address": "012050005, 501 S HART RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-052-008|Stanislaus": [
+    37.6334,
+    -121.11741,
+    {
+      "source": "dwr_parcel",
+      "address": "012052008, 506 S HART RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-065-012|Stanislaus": [
+    37.62163,
+    -121.14337,
+    {
+      "source": "dwr_parcel",
+      "address": "017-065-012-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0058-0001-0010-0000|Stanislaus": [
+    37.48455,
+    -121.03181,
+    {
+      "source": "dwr_parcel",
+      "address": "058001010, 10587 CARPENTER RD, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0058-0001-0011-0000|Stanislaus": [
+    37.48002,
+    -121.0318,
+    {
+      "source": "dwr_parcel",
+      "address": "058001011, CARPENTER RD, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0001000100010000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|000100010001000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|012029001000|Stanislaus": [
+    37.6587,
+    -121.12091,
+    {
+      "source": "dwr_parcel",
+      "address": "012-029-001-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-022-013|Stanislaus": [
+    37.51432,
+    -120.97394,
+    {
+      "source": "dwr_parcel",
+      "address": "022022013, FULKERTH RD, CERES, CA, 95307",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0022-0021-0005-0000|Stanislaus": [
+    37.50922,
+    -120.96529,
+    {
+      "source": "dwr_parcel",
+      "address": "022021005, 10007 FULKERTH RD, CERES, CA, 95307",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|014-009-013|Stanislaus": [
+    37.69885,
+    -120.84466,
+    {
+      "source": "dwr_parcel",
+      "address": "014009013, 8231 RICE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-035-012|Stanislaus": [
+    37.50229,
+    -121.00818,
+    {
+      "source": "dwr_parcel",
+      "address": "022-035-012-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-001-015|Stanislaus": [
+    37.49144,
+    -121.04168,
+    {
+      "source": "dwr_parcel",
+      "address": "058-001-015-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0075-0030-0030-0000|Merced": [
+    37.13829,
+    -120.47807,
+    {
+      "source": "dwr_parcel",
+      "address": "075030030, 927 E ROOSEVELT RD, EL NIDO, CA, 95317",
+      "county": "Merced"
+    }
+  ],
+  "apn|093-100-13|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0053-0080-0012-0000|Merced": [
+    37.33295,
+    -120.30066,
+    {
+      "source": "dwr_parcel",
+      "address": "053080012, VILLA CT, MERCED, CA, 95340",
+      "county": "Merced"
+    }
+  ],
+  "apn|0053-0080-0028-0000|Merced": [
+    37.33711,
+    -120.30073,
+    {
+      "source": "dwr_parcel",
+      "address": "053080028, VILLA CT, MERCED, CA, 95340",
+      "county": "Merced"
+    }
+  ],
+  "apn|0001-0001-0001-0001|Glenn": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0019-0184-0002-0001|Glenn": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|017-041-015|Stanislaus": [
+    37.60643,
+    -121.03285,
+    {
+      "source": "dwr_parcel",
+      "address": "017041015, 2324 W HATCH RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-001-002|Stanislaus": [
+    37.5332,
+    -121.07043,
+    {
+      "source": "dwr_parcel",
+      "address": "022001002, 7001 JENNINGS RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-003-007|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0012-0047-0005-0000|Stanislaus": [
+    37.63228,
+    -121.14562,
+    {
+      "source": "dwr_parcel",
+      "address": "012047005, 530 RUSSELL RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0012-0048-0003-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0012-0048-0004-000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0012-0001-0001-0000|Stanislaus": [
+    37.69906,
+    -121.17233,
+    {
+      "source": "dwr_parcel",
+      "address": "012001001, 9421 BACON RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0012-0044-0027-0000|Stanislaus": [
+    37.65595,
+    -121.17053,
+    {
+      "source": "dwr_parcel",
+      "address": "012044027, 10555 MAZE BLVD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|017-001-012|Stanislaus": [
+    37.61108,
+    -121.1342,
+    {
+      "source": "dwr_parcel",
+      "address": "017001012, PARADISE RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|191-180-002|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|017-054-026|Stanislaus": [
+    37.60716,
+    -121.07779,
+    {
+      "source": "dwr_parcel",
+      "address": "017-054-026-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-017-001|Stanislaus": [
+    37.51995,
+    -120.93938,
+    {
+      "source": "dwr_parcel",
+      "address": "022-017-001-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|247-130-24|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0001-0001-0001-0000|Glenn": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|255-027-053|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0066-0180-0002-0000|Merced": [
+    37.22421,
+    -120.41334,
+    {
+      "source": "dwr_parcel",
+      "address": "066180002, 4146 GIVENS LUSTRE RD, MERCED, CA, 95341",
+      "county": "Merced"
+    }
+  ],
+  "apn|0066-0140-0018-0000|Merced": [
+    37.23057,
+    -120.42015,
+    {
+      "source": "dwr_parcel",
+      "address": "066140018, 3639 MCMASTER RD, MERCED, CA, 95341",
+      "county": "Merced"
+    }
+  ],
+  "apn|017-061-020|Stanislaus": [
+    37.54403,
+    -121.10442,
+    {
+      "source": "dwr_parcel",
+      "address": "017061020, 6010 W KEYES RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-002-050|Stanislaus": [
+    37.52335,
+    -121.06385,
+    {
+      "source": "dwr_parcel",
+      "address": "022002050, 3643 W MONTE VISTA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|239-14-008|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|012-018-015|Stanislaus": [
+    37.68413,
+    -121.12516,
+    {
+      "source": "dwr_parcel",
+      "address": "012-018-015-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|076-026-005|Stanislaus": [
+    37.6924,
+    -121.08114,
+    {
+      "source": "dwr_parcel",
+      "address": "076-026-005-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-010-021|Stanislaus": [
+    37.68992,
+    -121.08873,
+    {
+      "source": "dwr_parcel",
+      "address": "012010021, 3507 FINNEY RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|003-001-017|Stanislaus": [
+    37.7103,
+    -121.15195,
+    {
+      "source": "dwr_parcel",
+      "address": "003-001-017-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|076-032-005|Stanislaus": [
+    37.68209,
+    -121.06097,
+    {
+      "source": "dwr_parcel",
+      "address": "076032005, THE BLF, MODESTO, CA, 95353",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|081-031-002|Stanislaus": [
+    37.651,
+    -121.06078,
+    {
+      "source": "dwr_parcel",
+      "address": "081031002, WOODLAND AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|003-011-006|Stanislaus": [
+    37.71236,
+    -121.13962,
+    {
+      "source": "dwr_parcel",
+      "address": "003-011-006-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|005-030-004|Stanislaus": [
+    37.67879,
+    -121.07946,
+    {
+      "source": "dwr_parcel",
+      "address": "005030004, 4554 BECKWITH RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-055-011|Stanislaus": [
+    37.62534,
+    -121.0969,
+    {
+      "source": "dwr_parcel",
+      "address": "012055011, 5737 CALIFORNIA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|056-059-007|Stanislaus": [
+    37.58644,
+    -121.02787,
+    {
+      "source": "dwr_parcel",
+      "address": "056-059-007-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|081-002-045|Stanislaus": [
+    37.65717,
+    -121.07792,
+    {
+      "source": "dwr_parcel",
+      "address": "081002045, 4518 BLUE GUM AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-030-050|Stanislaus": [
+    37.66205,
+    -121.08701,
+    {
+      "source": "dwr_parcel",
+      "address": "012030050, 5041 BLUE GUM AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0049-0380-0004-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 5
+    }
+  ],
+  "apn|0044-0020-0031-0000|Stanislaus": [
+    37.4706,
+    -120.84983,
+    {
+      "source": "dwr_parcel",
+      "address": "044020031, 108 W SIMMONS RD, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0045-0034-0012-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0045-0360-0022-0000|Merced": [
+    37.36267,
+    -120.86471,
+    {
+      "source": "dwr_parcel",
+      "address": "045360022, 20777 RIVERSIDE AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0025-0021-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0025-0065-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0025-0031-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|045-0013-0027-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|057-0017-0004-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0023-0005-0001-0000|Stanislaus": [
+    37.52014,
+    -120.91635,
+    {
+      "source": "dwr_parcel",
+      "address": "023005001, 8048 FAITH HOME RD, CERES, CA, 95307",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0017-0043-0023-0000|Stanislaus": [
+    37.58941,
+    -121.04419,
+    {
+      "source": "dwr_parcel",
+      "address": "017043023, 2735 W HACKETT RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-034-023|Stanislaus": [
+    37.66144,
+    -121.13395,
+    {
+      "source": "dwr_parcel",
+      "address": "012034023, BLUE GUM AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-028-053|Stanislaus": [
+    37.66569,
+    -121.11215,
+    {
+      "source": "dwr_parcel",
+      "address": "012028053, 6406 SHOEMAKE AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|003-190-07|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|063-027-002|Stanislaus": [
+    37.73822,
+    -120.87417,
+    {
+      "source": "dwr_parcel",
+      "address": "063-027-002-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0001-0001-0001-0000|Butte": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|017-027-074|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0057-0008-0001|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0057-0008-00002|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0057-0009-0006|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|057-013-005|Stanislaus": [
+    37.43214,
+    -120.93574,
+    {
+      "source": "dwr_parcel",
+      "address": "057-013-005-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-008-017|Stanislaus": [
+    37.52762,
+    -121.00575,
+    {
+      "source": "dwr_parcel",
+      "address": "022-008-017-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|012-022-001|Stanislaus": [
+    37.67931,
+    -121.13768,
+    {
+      "source": "dwr_parcel",
+      "address": "012022001, 2800 DUNN RD, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|057-023-006|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|057-023-015|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|057-012-015|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|057-012-005|Stanislaus": [
+    37.43568,
+    -120.93349,
+    {
+      "source": "dwr_parcel",
+      "address": "057-012-005-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|045-020-021|Stanislaus": [
+    37.55764,
+    -120.91411,
+    {
+      "source": "dwr_parcel",
+      "address": "045020021, 4405 LIZZIE ST, KEYES, CA, 95328",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|045-020-022|Stanislaus": [
+    37.55781,
+    -120.91405,
+    {
+      "source": "dwr_parcel",
+      "address": "045020022, 5416 8TH ST, KEYES, CA, 95328",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|00045-0200-0015-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|045-040-013|Merced": [
+    37.40292,
+    -120.93049,
+    {
+      "source": "dwr_parcel",
+      "address": "045040013, 7990 PRAIRIE FLOWER RD, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-040-042|Merced": [
+    37.40019,
+    -120.93615,
+    {
+      "source": "dwr_parcel",
+      "address": "045040042",
+      "county": "Merced"
+    }
+  ],
+  "apn|0109-310-040|Solano": [
+    38.40392,
+    -121.82755,
+    {
+      "source": "dwr_parcel",
+      "address": "0109-310-040",
+      "county": "Solano"
+    }
+  ],
+  "apn|257-130-02|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|257-120-01|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|207-320-20|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0180-0021-0000|Merced": [
+    37.41704,
+    -120.89198,
+    {
+      "source": "dwr_parcel",
+      "address": "045180021, 22495 AUGUST AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0140-0006-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0045-0180-0023-0000|Merced": [
+    37.41327,
+    -120.8885,
+    {
+      "source": "dwr_parcel",
+      "address": "045180023",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0140-0054-0000|Merced": [
+    37.42443,
+    -120.8795,
+    {
+      "source": "dwr_parcel",
+      "address": "045140054",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0330-0020-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|0045-0140-0002-0000|Merced": [
+    37.43132,
+    -120.88093,
+    {
+      "source": "dwr_parcel",
+      "address": "045140002",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0330-0021-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0044-0016-0003-0000|Stanislaus": [
+    37.46909,
+    -120.86956,
+    {
+      "source": "dwr_parcel",
+      "address": "044016003, 2401 S WALNUT RD, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|003-0260-0010-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|002-001-074|Stanislaus": [
+    37.88658,
+    -120.91541,
+    {
+      "source": "dwr_parcel",
+      "address": "002-001-074-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|0134-0280-0086-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0280-0044-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0280-0043-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0280-0067-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0280-0034-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0280-0072-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|014-024-006|Stanislaus": [
+    37.68678,
+    -120.8223,
+    {
+      "source": "dwr_parcel",
+      "address": "014-024-006-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|057-001-011|Stanislaus": [
+    37.43651,
+    -121.01169,
+    {
+      "source": "dwr_parcel",
+      "address": "057-001-011-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-018-001|Stanislaus": [
+    37.47646,
+    -120.96048,
+    {
+      "source": "dwr_parcel",
+      "address": "058-018-001-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|057-003-007|Stanislaus": [
+    37.44233,
+    -120.96848,
+    {
+      "source": "dwr_parcel",
+      "address": "057-003-007-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-025-003|Stanislaus": [
+    37.45476,
+    -120.98093,
+    {
+      "source": "dwr_parcel",
+      "address": "058-025-003-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-023-019|Stanislaus": [
+    37.45835,
+    -121.00318,
+    {
+      "source": "dwr_parcel",
+      "address": "058-023-019-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-023-005|Stanislaus": [
+    37.46313,
+    -121.01046,
+    {
+      "source": "dwr_parcel",
+      "address": "058-023-005-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|058-023-023|Stanislaus": [
+    37.46042,
+    -121.01044,
+    {
+      "source": "dwr_parcel",
+      "address": "058-023-023-000",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-031-019|Stanislaus": [
+    37.52045,
+    -121.01978,
+    {
+      "source": "dwr_parcel",
+      "address": "022031019, 1830 W MONTE VISTA AVE, MODESTO, CA, 95358",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|022-036-014|Stanislaus": [
+    37.49488,
+    -120.99697,
+    {
+      "source": "dwr_parcel",
+      "address": "022036014, 107 W MAIN AVE, CROWS LANDING, CA, 95313",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|185-100-03|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0134-0250-0001-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0134-0230-0009-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|010-008-046|Stanislaus": [
+    37.7737,
+    -120.77264,
+    {
+      "source": "dwr_parcel",
+      "address": "010008046, 9310 WAMBLE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|002-050-006|Stanislaus": [
+    37.80685,
+    -120.84556,
+    {
+      "source": "dwr_parcel",
+      "address": "002050006, 11549 28 MILE RD, OAKDALE, CA, 95361",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|142-0100-0031-0000|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0053-0150-0010-0000|Merced": [
+    37.29492,
+    -120.27382,
+    {
+      "source": "dwr_parcel",
+      "address": "053150010, 12010 CHILDS AVE, LE GRAND, CA, 95333",
+      "county": "Merced"
+    }
+  ],
+  "apn|017-031-025|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|051-070-20|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|007-013-020|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|007-013-021|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|142-0100-031|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|007-280-29|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|007-280-30|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0132-0240-0049-0000|Sacramento": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|630-0250-0001-0000|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|205-110-04|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0020-0006-0027-0000|Stanislaus": [
+    37.56197,
+    -120.59989,
+    {
+      "source": "dwr_parcel",
+      "address": "020006027, 21631 E KEYES RD, DENAIR, CA, 95316",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|205-060-007|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|185-080-51|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|185-080-10|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|185-080-14|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|181-090-29|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|185-020-03|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|185-020-04|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|185-020-05|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|185-020-06|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|185-020-07|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|185-020-08|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|201-120-09|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|185-100-13|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0041-0050-0034-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0041-0050-0035-0000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 4
+    }
+  ],
+  "apn|0041-0030-0011|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|011-140-23|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|205-100-008|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|205-100-14|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|205-090-52|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|229-090-02|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|207-300-05|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|225-040-29|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|205-050-27|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|205-060-008|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|205-240-006|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|205-060-07|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0330-0020-0000|Merced": [
+    37.43506,
+    -120.84842,
+    {
+      "source": "dwr_parcel",
+      "address": "045330020",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0150-0002-0000|Merced": [
+    37.431,
+    -120.84423,
+    {
+      "source": "dwr_parcel",
+      "address": "045150002, 19647 JOHNSON AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0014-0022-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|205-240-19|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0045-0230-0061-0000|Merced": [
+    37.38808,
+    -120.87188,
+    {
+      "source": "dwr_parcel",
+      "address": "045230061, 21185 WILLIAMS AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0230-0062-0000|Merced": [
+    37.38807,
+    -120.86968,
+    {
+      "source": "dwr_parcel",
+      "address": "045230062, 21089 WILLIAMS AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0170-0003-0000|Merced": [
+    37.41726,
+    -120.87554,
+    {
+      "source": "dwr_parcel",
+      "address": "045170003",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0180-0024-0000|Merced": [
+    37.41364,
+    -120.89312,
+    {
+      "source": "dwr_parcel",
+      "address": "045180024, 22336 AMERICAN AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|045-180-030|Merced": [
+    37.40994,
+    -120.88759,
+    {
+      "source": "dwr_parcel",
+      "address": "045180030, 22063 AMERICAN AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|0045-0024-0020-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0046-0023-0069-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0045-0240-0020-000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|000-000-000|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0045-0190-0044-0000|Merced": [
+    37.39915,
+    -120.89669,
+    {
+      "source": "dwr_parcel",
+      "address": "045190044, 22600 GEER AVE, HILMAR, CA, 95324",
+      "county": "Merced"
+    }
+  ],
+  "apn|058-019-008|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0045-0019-0019-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|0045-0019-0054-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|0045-0019-0018-0000|Merced": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|042-150-062|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 3
+    }
+  ],
+  "apn|042-020-025|Stanislaus": [
+    37.50661,
+    -120.83169,
+    {
+      "source": "dwr_parcel",
+      "address": "042020025, 1535 CALIFORNIA AVE, TURLOCK, CA, 95380",
+      "county": "Stanislaus"
+    }
+  ],
+  "apn|042-150-068|Stanislaus": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 2
+    }
+  ],
+  "apn|207-020-02|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|207-030-14|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|229-070-09|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0245-0250-0009-0000|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|0247-0150-0650-0000|San Joaquin": [
+    37.78314,
+    -120.99556,
+    {
+      "source": "dwr_parcel",
+      "address": "247-150-650-000",
+      "county": "San Joaquin"
+    }
+  ],
+  "apn|241-350-270-000|San Joaquin": [
+    37.72825,
+    -121.25559,
+    {
+      "source": "dwr_parcel",
+      "address": "241-350-270-000",
+      "county": "San Joaquin"
+    }
+  ],
+  "apn|226-090-01|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 1
+    }
+  ],
+  "apn|241-350-27|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|207-170-02|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|207-180-01|San Joaquin": [
+    null,
+    null,
+    {
+      "source": "dwr_parcel",
+      "n_candidates": 0
+    }
+  ],
+  "apn|063-250-029|Merced": [
+    37.19215,
+    -121.0285,
+    {
+      "source": "dwr_parcel",
+      "address": "063250029, 6686 WHITWORTH RD, GUSTINE, CA, 95322",
+      "county": "Merced"
+    }
+  ],
+  "apn|228-090-004|Tulare": [
+    36.10723,
+    -119.34443,
+    {
+      "source": "dwr_parcel",
+      "address": "228-090-004",
       "county": "Tulare"
     }
   ]

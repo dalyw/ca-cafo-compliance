@@ -1,6 +1,8 @@
 **original**
 **workspace**
 .env
+manifest_prep_data_code_with_output/*
+*.pdf
 
 # Python specific
 __pycache__/
