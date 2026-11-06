@@ -15663,5 +15663,45 @@
       "Stanislaus",
       "030-015-019-000"
     ]
+  ],
+  "3509 finney road modesto 95358|merced": [
+    37.69045,
+    -121.08651,
+    {
+      "address": "3509 Finney Rd, Modesto, California, 95358",
+      "source": "arcgis"
+    }
+  ],
+  "7413 san mitchell road turlock 95380 209-652-6924|rancho_cordova": [
+    37.42446,
+    -120.94103,
+    {
+      "address": "7413 S Mitchell Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "7413 san mitchell road turlock 95380 209-652-6929|rancho_cordova": [
+    37.42446,
+    -120.94103,
+    {
+      "address": "7413 S Mitchell Rd, Turlock, California, 95380",
+      "source": "arcgis"
+    }
+  ],
+  "7884 faith home road hilmar 95324|rancho_cordova": [
+    37.40258,
+    -120.92193,
+    {
+      "address": "7884 Faith Home Rd, Hilmar, California, 95324",
+      "source": "arcgis"
+    }
+  ],
+  "12383 san schultz road chowchilla california 93610|rancho_cordova": [
+    37.10694,
+    -120.44704,
+    {
+      "address": "12383 S Schultz Rd, Chowchilla, California, 93610",
+      "source": "arcgis"
+    }
   ]
 }
