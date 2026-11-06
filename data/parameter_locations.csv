@@ -17,7 +17,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_software,wastewater_method,NA,below,determine volume,NA,NA,determine,written
 5,R5-2007-0035_general_order,origin_dairy_name,Operator,right,dairy facility,NA,NA,facility,NA
 5,R5-2007-0035_general_order,origin_dairy_address,Operator,right,facility address,NA,NA,address,number
-5,R5-2007-0035_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,NA|name
+5,R5-2007-0035_general_order,hauler_name,hauler,right,company/person,NA,NA,/person,name
 5,R5-2007-0035_general_order,hauler_address,hauler,right,address of hauling company/person,NA,NA,/person,number|name
 5,R5-2007-0035_general_order,destination_type,NA,right,identify),NA,NA,NA,(please
 5,R5-2007-0035_general_order,destination_name,NA,below,information of composting,NA,NA,NA,first_number|name
@@ -45,7 +45,7 @@ region,template,parameter_key,page_search_text,search_direction,row_search_text,
 5,R5-2007-0035_one_page_1,wastewater_method,calculate,below,determine volume,NA,NA,determine,written agreement
 5,R5-2007-0035_one_page_2,origin_dairy_name,waste generator,right,facility name,NA,NA,facility,number|does
 5,R5-2007-0035_one_page_2,origin_dairy_address,waste generator,right_below,facility address,NA,NA,city/State,number|Agreement|Declare|RWQCD|wastewater
-5,R5-2007-0035_one_page_2,hauler_name,hauler,right,name,NA,NA,/person,NA|name
+5,R5-2007-0035_one_page_2,hauler_name,hauler,right,name,NA,NA,/person,name
 5,R5-2007-0035_one_page_2,hauler_address,hauler,right_below,facility address,NA,NA,city/State,number|information|Violations
 5,R5-2007-0035_one_page_2,destination_type,NA,right,manure destination,NA,NA,NA,Signature|of a
 5,R5-2007-0035_one_page_2,destination_name,destination information,right,name,NA,NA,NA,first_number|name|Signatures
